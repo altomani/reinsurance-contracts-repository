@@ -4,7 +4,7 @@
 
 # %%
 # Install Dependencies
-# %pip install requests sec-api python-dotenv aiohttp asyncio nest_asyncio
+# %pip install requests sec-api python-dotenv aiohttp asyncio nest_asyncio pandas
 
 # %% [markdown]
 # # Configure Search Parameters
@@ -18,6 +18,7 @@ import json
 import nest_asyncio
 import asyncio
 import aiohttp
+import pandas as pd
 from urllib.parse import urlparse
 from sec_api import FullTextSearchApi
 from dotenv import load_dotenv
@@ -96,6 +97,23 @@ async def download_all_filings(filings):
             await asyncio.gather(*tasks[i:i+5])
             await asyncio.sleep(1)
 
+def save_metadata_to_csv(filings, year):
+    """Save metadata to CSV file for a specific year."""
+    metadata = [{
+        "accessionNo": filing.get("accessionNo"),
+        "cik": filing.get("cik"),
+        "companyNameLong": filing.get("companyNameLong"),
+        "ticker": filing.get("ticker"),
+        "description": filing.get("description"),
+        "formType": filing.get("formType"),
+        "type": filing.get("type"),
+        "filingUrl": filing.get("filingUrl"),
+        "filedAt": filing.get("filedAt")
+    } for filing in filings]
+    df = pd.DataFrame(metadata)
+    df.to_csv(os.path.join(download_dir, f"index-{year}.csv"), index=False)
+    return df
+
 def process_year(api, year):
     """Process searching and downloading filings for a specific year."""
     search_params = build_search_params(year)
@@ -104,20 +122,25 @@ def process_year(api, year):
         exhibit_filings = filter_exhibit_filings(results)
         if exhibit_filings:
             asyncio.run(download_all_filings(exhibit_filings))
+            df = save_metadata_to_csv(exhibit_filings, year)
+            return df
         else:
             print(f"Year {year}: No exhibit filings to download.")
+            return pd.DataFrame()
     else:
         print(f"Year {year}: Search yielded no results.")
+        return pd.DataFrame()
 
 def main():
     api = load_config()
+    all_metadata = []
     for year in range(2001, 2025):
         print(f"Processing year: {year}")
-        process_year(api, year)
+        df = process_year(api, year)
+        all_metadata.append(df)
         print("-" * 40)
+    full_index = pd.concat(all_metadata, ignore_index=True)
+    full_index.to_csv(os.path.join(download_dir, "index-full.csv"), index=False)
 
 if __name__ == '__main__':
     main()
-
-
-
