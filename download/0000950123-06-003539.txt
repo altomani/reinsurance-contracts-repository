@@ -1,0 +1,1488 @@
+<DOCUMENT>
+<TYPE>EX-10.22
+<SEQUENCE>8
+<FILENAME>y17244a1exv10w22.txt
+<DESCRIPTION>EX-10.22: COMPREHENSIVE AUTOMATIC TREATY REINSURANCE AGREEMENT
+<TEXT>
+<PAGE>
+                                                                               .
+                                                                               .
+                                                                               .
+
+                                                                   Exhibit 10.22
+
+                         COMPREHENSIVE AUTOMATIC TREATY
+                              REINSURANCE AGREEMENT
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                            PAGE
+                                                                            ----
+<S>                                                                         <C>
+ARTICLE
+           Preamble......................................................     2
+1          Acquisition...................................................     2
+2          Commencement And Termination..................................     2
+3          Termination Of Any Prior Agreement............................     5
+4          Business And Territory Covered................................     7
+5          Exclusions....................................................     8
+6          Retention And Limit...........................................     9
+7          Definitions...................................................    10
+8          Premium And Commission........................................    11
+9          Accounts, Reports And Payments................................    12
+10         Claims And Losses.............................................    13
+11         Salvage And Subrogation.......................................    14
+12         Reinsurance Follows Original Policies.........................    14
+13         Taxes.........................................................    14
+14         Federal Excise Tax............................................    15
+15         Access To Records.............................................    15
+16         Currency......................................................    16
+17         Service Of Suit...............................................    16
+18         Arbitration...................................................    17
+19         Indemnification And Errors And Omissions......................    18
+20         Insolvency....................................................    19
+21         Security......................................................    19
+22         Reserves And Risk Limits......................................    21
+23         Confidentiality...............................................    22
+24         Offset........................................................    23
+25         Governing Law.................................................    23
+26         Participation.................................................    23
+27         Assignment....................................................    23
+28         Notice........................................................    24
+
+EXHIBITS
+           Exhibit No. 1.................................................    29
+           Exhibit No. 2 - Issuers or Sellers/Servicers and Maximum
+           Assumed Amount Per Issue Under Exclusion B....................    30
+           Exhibit No. 3 - Company Risk Codes............................    31
+</TABLE>
+
+
+                                        1
+
+<PAGE>
+
+                         COMPREHENSIVE AUTOMATIC TREATY
+                              REINSURANCE AGREEMENT
+
+                    (hereinafter referred to as "Agreement")
+
+                      made and entered into by and between
+
+          MBIA Insurance Corporation, Armonk, New York; and/or MBIA Assurance
+          S.A., Paris, France; and/or MBIA UK Insurance Limited, London,
+          England; and/or Capital Markets Assurance Corporation, Armonk, New
+          York; and/or any other insurance or reinsurance company subsidiaries
+          of MBIA Inc. listed in Exhibit No. 1 attached to this Agreement
+          (hereinafter referred to as the "Company"), and
+
+                          RAM REINSURANCE COMPANY LTD.
+                  (hereinafter referred to as the "Reinsurer").
+
+In consideration of the mutual covenants hereinafter contained and other
+valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto, intending to be legally bound hereby, agree as
+follows:
+
+                                   ARTICLE 1
+
+                                   ACQUISITION
+
+In the event that, following the execution of this Agreement, the Company
+notifies the Reinsurer of a proposed acquisition by the Company of an insurance
+company (a "Target") and provides the Reinsurer as soon as practicable with full
+particulars as to how such affiliation is likely to affect this Agreement and
+such due diligence information as the Reinsurer may reasonably request with
+respect thereto (the "Information"), the Reinsurer shall provide, within 30 days
+following receipt of the Information, a written notice to the Company which
+notice shall state whether or not the Reinsurer will consent to the inclusion of
+such Target as a reinsured hereunder upon consummation of the acquisition of
+such Target by the Company. If the Reinsurer consents to the inclusion of a
+Target as a reinsured hereunder, such Target shall be included in the term
+"Company" from and after the date on which the Company's acquisition of the
+Target is consummated, and the Company shall prepare and deliver to the
+Reinsurer an addendum to this Agreement that revises Exhibit No. 1 to include
+the name of such Target thereon. The 30 day period referred to in this paragraph
+shall not commence until all of the information reasonably requested by the
+Reinsurer has been received by the Reinsurer.
+
+                                   ARTICLE 2
+
+                          COMMENCEMENT AND TERMINATION
+
+Covering the liabilities for Proportionate Share of Net Loss and Net Allocated
+Loss Adjustment Expenses on Policies attaching on or after 12:01 a.m. (in the
+time zone in which the Policy is issued), July 1, 2005 (the "Effective Time").
+This Agreement may be terminated on a run-off
+
+
+                                        2
+
+<PAGE>
+
+basis by the Company or by the Reinsurer as of 12:01 a.m. Eastern Standard Time,
+July 1, 2006 or any July 1 thereafter by one party giving to the other at least
+120 days' prior notice of termination (the "Termination Time"). Notice of
+termination must be provided in writing by certified letter. In addition, this
+Agreement shall automatically terminate on a run-off basis on or after July 1,
+2006, as of the effective time and date of any replacement Comprehensive
+Automatic Reinsurance Treaty entered into by the Company with respect to the
+Policies described under "Business and Territory" below.
+
+In the event of termination on a run-off basis (and until any termination on a
+cut-off basis as provided herein), the Reinsurer will be entitled to receive its
+Proportionate Share of all premiums paid after the Termination Time with respect
+to, and will remain liable for the Reinsurer's Proportionate Share of Losses,
+Allocated Loss Adjustment Expenses and applicable reserves with respect to, all
+Policies ceded hereunder prior to the Termination Time until the natural
+expiration of such Policies.
+
+Only the Company shall have the right to terminate the Policies covered by this
+Agreement on a cut-off basis (whether or not this Agreement has been previously
+terminated on run-off basis) or run-off basis at any time by written notice to
+the Reinsurer in the event:
+
+A.   that a Reinsurer Downgrade Event (as defined below) has occurred; provided
+     that the foregoing shall not be deemed an event of termination if the
+     Reinsurer, within 90 days of the occurrence of such Reinsurer Downgrade
+     Event, either (1) restores the Reinsurer's Standard & Poor's and Moody's
+     financial strength ratings and/or financial enhancement ratings to the
+     ratings in effect as of the Effective Time, or (2) provides such additional
+     security or takes any additional action that restores the reinsurance
+     credit that the Company receives under any Applicable Rating Agency or
+     regulatory method with respect to this Agreement as of the Effective Time,
+     it being agreed that all costs and expenses related to such efforts shall
+     be the sole responsibility of the Reinsurer,
+
+B.   that the Policyholders' Surplus of the Reinsurer is less than the amount
+     required in order for the Company to be entitled to credit for the
+     reinsurance provided by this Agreement by any Applicable Rating Agency,
+     regulatory body of any jurisdiction in which the Company legally operates
+     or to which it submits its statutory financial statements; or
+
+C.   there is a breach of any provision of this Agreement by the Reinsurer,
+     provided that the Company shall have first given written notice by
+     certified letter to the Reinsurer of such breach and the Reinsurer shall
+     not have cured such breach within 30 Business Days following receipt of
+     such notice from the Company; or
+
+D.   of a Change in Control (as defined below), provided that the Company gives
+     written notice by certified letter of its intention to terminate within 120
+     Business Days of becoming aware of the Change of Control or of receipt of
+     the notice set forth below. The Reinsurer shall be required to notify the
+     Company in writing (by certified letter) of any Change of Control within no
+     more than 15 Business Days after the Reinsurer becomes aware of such Change
+     of Control. For the purposes of this Agreement, a "Change of Control" will
+     be deemed to occur when (x) an individual person, corporation or other
+     entity acquires directly or indirectly more than forty-nine percent (49%)
+     of the voting
+
+
+                                        3
+
+<PAGE>
+
+     securities of the Reinsurer or the Reinsurer's intermediate or ultimate
+     parent or obtains the power to vote (directly or through proxies) more than
+     forty-nine percent (49%) of the voting securities of the Reinsurer or the
+     Reinsurer's intermediate or ultimate parent or (y) an individual person,
+     corporation or other entity who is a monoline insurance company who issues
+     financial guarantee or similar policies or a multiline insurance company
+     that issues financial guarantee or similar policies acquires directly or
+     indirectly more than twenty-five percent (25%) of the voting securities of
+     the Reinsurer or the Reinsurer's intermediate or ultimate parent or obtains
+     the power to vote (directly or through proxies) more than twenty-five
+     percent (25%) of the voting securities of the Reinsurer or the Reinsurer's
+     intermediate or ultimate parent; provided, however, that a "Change of
+     Control" shall not be deemed to have occurred pursuant to this paragraph D
+     if (i) such individual person, corporation or other entity is under common
+     control with the Reinsurer or the Reinsurer's intermediate or ultimate
+     parent or (ii) as a result of a merger, exchange offer, or similar
+     transaction, the holders of the voting securities of the ultimate
+     controlling person or persons of the Reinsurer exchange such securities
+     for, or such securities are converted into the right to receive, an
+     equivalent amount of voting securities of a newly-formed holding company;
+     or
+
+E.   the Reinsurer undertakes, as a new line of business, to write, on a primary
+     basis, financial guaranty or similar policies in direct competition with
+     the business the Company is engaged in as of the date of this Agreement;
+     provided that such activities shall expressly not include any reinsurance
+     business, any retrocessions accepted by the Reinsurer or any financial
+     guaranty or similar policy written incidentally to the Reinsurer's
+     reinsurance business; and provided further that the Company shall have
+     first provided written notice by certified letter to the Reinsurer of such
+     competitive activity and requesting that it cease and the Reinsurer shall
+     not have ceased such business activity within a period of 60 days following
+     receipt of such notice from the Company.
+
+As used in this Agreement, "Reinsurer Downgrade Event" shall have the following
+meaning:
+
+"Reinsurer Downgrade Event' shall mean, with respect to the Reinsurer, either
+(i) a downgrade of the Standard & Poor's financial strength rating below the
+rating in effect as of the Effective Time (or, with respect to any Prior
+Agreement, the Effective Time of such Prior Agreement), (ii) a downgrade of the
+Moody's financial strength rating below the rating in effect as of the Effective
+Time (or, with respect to any Prior Agreement, the Effective Time of such Prior
+Agreement), (iii) a downgrade or withdrawal of the Standard & Poor's financial
+enhancement rating below the rating in effect as of the Effective Time, (or,
+with respect to any Prior Agreement, the Effective Time of such Prior
+Agreement), (iv) the Reinsurer is no longer rated by the Applicable Rating
+Agencies, or (v) a deterioration in any additional security provided or
+additional action taken by the Reinsurer if such deterioration results in the
+failure to maintain the reinsurance credit that the Company receives under any
+applicable rating agency or regulatory method for this Agreement or (vi) there
+is more than a ten (10%) percent decrease in the reinsurance credit that the
+Company receives under any applicable rating agency or regulatory method for
+this Agreement and the Reinsurer has failed to cure such decrease within 30 days
+of receipt of written notice of such decrease, except that such decrease shall
+not constitute a Reinsurer Downgrade Event if it arose out of the failure of the
+Company to file any required report or to promptly inform the Reinsurer of any
+information not otherwise available to the
+
+
+                                        4
+
+<PAGE>
+
+Reinsurer that, if known by the Reinsurer, would have assisted the Reinsurer in
+taking steps necessary to maintain the applicable amount of credit.
+
+A termination on a cut-off basis shall be effective as of the date specified in
+the written notice of termination, which date shall be no less than 25 Business
+Days after the Reinsurer's receipt of the written notice of termination in the
+case of a termination pursuant to subparagraphs A., B., C. or E. and no less
+than 60 Business Days after the Reinsurer's receipt of the written notice of
+termination in the case of termination pursuant to subparagraph D. In the event
+of a termination on cut-off basis, (i) the Reinsurer will pay to the Company on
+the effective date of the cut-off termination an amount equal to its
+Proportionate Share of the reserves (including but not limited to Net Loss and
+Net Allocated Loss Adjustment Expense reserves) and the unearned premium
+reserve, net of applicable ceding commission and the Reinsurer's Percentage
+Share of the anticipated salvage carried on the books and records of the
+Company, as respects Policies covered hereunder which are in force at such date;
+and (ii) immediately upon the payment referred to in clause (i) of this
+sentence, the Company shall grant the Reinsurer a complete and final release
+with respect to this Agreement, and all liabilities of the Reinsurer whatsoever,
+whether such liabilities are known or unknown at the time of the termination,
+arising out of this Agreement and all Policies shall be discharged and the
+Reinsurer shall not be entitled to any premiums earned with respect to any
+period of time after the effective date of termination. It is understood and
+agreed that the Company will assume all liabilities hereunder unless prohibited
+by any regulatory body of a jurisdiction in which the Company legally operates
+or to which it submits its statutory financial statements.
+
+Notwithstanding the termination of this Agreement as herein provided, the
+provisions of this Agreement shall continue to apply to all Policies covered
+hereunder to the end that all obligations and liabilities assumed by the
+Reinsurer hereunder prior to such termination other than such obligations and
+liabilities as are reassumed by the Company in connection with a termination on
+a cut-off basis, shall be fully performed and discharged.
+
+Except as provided in this Agreement, the rights, powers, remedies, and
+privileges provides in this Agreement are cumulative and not exclusive of any
+rights, powers, remedies, and privileges provided by law.
+
+In addition to its right to terminate this Agreement on a cut off basis upon the
+occurrence of the events specified above, the Company shall, upon the occurrence
+of any such events, have the right to terminate on a cut off basis all, but not
+less than all, other reinsurance agreements between the Company and the
+Reinsurer, whether facultative or treaty, by giving notice in the manner
+prescribed, and on the same basis, as set forth above.
+
+                                   ARTICLE 3
+
+                       TERMINATION OF ANY PRIOR AGREEMENT
+
+The Company may terminate any one or more Prior Agreements on a cut-off basis
+(whether or not the Prior Agreement has been previously terminated on run-off
+basis) by written notice to the Reinsurer in the event that a Reinsurer
+Downgrade Event has occurred.
+
+
+                                        5
+
+<PAGE>
+
+A termination of a Prior Agreement on a cut-off basis shall be effective as of
+the date specified in the written notice of termination, which date shall be no
+less than 25 Business Days after the Reinsurer's receipt of the written notice
+of termination. In the event of such a termination of a Prior Agreement on a
+cut-off basis, (i) the Reinsurer will pay to the Company on the effective date
+of the cut-off termination an amount equal to the Reinsurer's Proportionate
+Share of reserves (including but not limited to loss and allocated loss
+adjustment expense reserves) and the unearned premium reserve, net of applicable
+ceding commission and the Reinsurer's Percentage Share of the anticipated
+salvage carried on the books and records of the Company, as respects the Subject
+Prior Policies which are in force at the effective date of the cut-off
+termination; and (ii) immediately upon the payment referred to in clause (i) of
+this sentence, the Company shall grant the Reinsurer a complete and final
+release with respect to the Subject Prior Policies being reassumed by the
+Company, and all liabilities of the Reinsurer whatsoever, whether such
+liabilities are known or unknown at the time of the termination, arising out of
+the Subject Prior Policies being reassumed by the Company shall be discharged,
+and the Reinsurer shall not be entitled to any premiums earned with respect to
+any period of time after the effective date of termination. It is understood and
+agreed that the Company will assume all liabilities with respect to any Policies
+under each Subject Prior Agreement terminated pursuant to this Agreement unless
+prohibited by any regulatory body of a jurisdiction in which the Company legally
+operates of to which it submits its statutory financial statements.
+
+Notwithstanding the termination of a Prior Agreement as herein provided, the
+provisions of each Subject Prior Agreement shall continue to apply to all
+Subject Prior Policies covered under each the Subject Prior Agreement to the end
+that all obligations and liabilities assumed by the Reinsurer under the Subject
+Prior Agreement prior to such termination, other than such obligations and
+liabilities under the Subject Prior Agreement as are reassumed by the Company in
+connection with a termination on a cut-off basis under this Article, shall be
+fully performed and discharged.
+
+As used in this Article, the following terms have the following respective
+meanings:
+
+     "Reserve," "loss reserve," "allocated loss adjustment expense reserve,"
+     "unearned premium reserve" and "ceding commission" shall have the meanings
+     set forth in the Subject Prior Agreement under which the Subject Prior
+     Policy is ceded.
+
+     "Prior Agreement" shall mean any reinsurance agreement under which the
+     Company cedes reinsurance to the Reinsurer which is (i) classified by the
+     Company, in its sole judgment, as surplus reinsurance, and (ii) which
+     originally became effective prior to the Effective Time.
+
+     "Prior Policies" shall mean any binder, policy, surety bond or contract of
+     insurance of reinsurance or amendment or endorsement thereto issued by the
+     Company and constituting business ceded under a Prior Agreement.
+
+     "Recoveries" shall mean any amount received by the Company in respect of
+     any loss and allocated loss adjustment expense covered by the Reinsurer
+     under a Subject Prior Agreement whether by subrogation, salvage,
+     reimbursement or other recovery from the Issuer (or from an underlying
+     obligor of that Issuer).
+
+
+                                        6
+
+<PAGE>
+
+     "Subject Prior Agreement" shall mean a Prior Agreement subject to
+     termination on cut-off basis under this Article.
+
+     "Subject Prior Policies"' shall mean the Prior Policies ceded under a
+     Subject Prior Agreement.
+
+                                    ARTICLE 4
+
+                         BUSINESS AND TERRITORY COVERED
+
+(a) This Agreement shall cover all Policies that provide insurance against
+financial loss by reason of nonpayment of obligations arising under Issues sold
+or otherwise issued by Issuers or Sellers/Servicers.
+
+(b) In the event of a refinancing (whether by refunding or otherwise) of the
+obligations insured under a Policy (the "Refinanced Obligations") by the
+issuance of new obligations that are insured by the Company (the "Refinancing
+Obligations"), (i) undertaken, in the sole judgment of the Company, to mitigate,
+prevent or improve the Company's position in respect of a claim or loss under
+the Policy or (ii) undertaken, in the sole judgment of the Company, to improve
+the credit quality or credit risk profile of the related Policy or exposure, or
+(iii), structured with terms or pricing that, in the sole opinion of the
+Company, are less attractive than current market terms or pricing for such a
+transaction but are undertaken because the pricing or terms in the Company's
+sole opinion, are superior to the original structure, the Reinsurer shall
+automatically assume under this Agreement the Proportionate Share of the
+Refinancing Obligations as is designated by the Company, regardless of whether
+the par amount of such Refinancing Obligations exceeds $175,000,000, provided,
+however; that such Proportionate Share of the Refinancing Obligations shall not
+exceed the Reinsurer's Proportionate Share assumed with respect to the
+Refinanced Obligations. Any Policy issue by the Company in respect of the
+Refinancing Obligations shall be deemed to be a Policy hereunder to the same
+extent as that of the original Policy.
+
+(c) The liability of the Reinsurer shall be subject in all respects to and shall
+not be affected by all the general and specific stipulations, clauses, waivers,
+extensions, modifications, amendments and endorsements of any of the Policies,
+subject to the exclusions set forth below and the other terms and conditions of
+this Agreement as set forth herein.
+
+(d) The Reinsurer shall be bound by the judgment of the Company as to the
+obligation(s) and liability(ies) of the Company under any original insurance or
+reinsurance in accordance with Article 12 hereof. The Reinsurer acknowledges the
+Company's obligations to make payment under its Policies or Prior Policies are
+unconditional, irrevocable and non-cancellable by the Company for any reason and
+that the Company has waived, to the fullest extent permitted by applicable law,
+and agreed not to assert any and all rights (whether by counterclaim, set-off or
+otherwise) and defenses (including, without limitation, any defense of fraud
+(other than fraud by the related beneficiary) or any defense based or
+misrepresentation, breach of warranty, or non-disclosure of information by any
+person) whether acquired by subrogation, assignment or otherwise to the extent
+such rights and defenses may be available to the Company to avoid
+
+
+                                        7
+
+<PAGE>
+
+payment of its obligations under any Policy or Prior Policy in accordance with
+the express provisions of any Policy or Prior Policy.
+
+                                    ARTICLE 5
+
+                                   EXCLUSIONS
+
+The following general exclusions apply in respect of all Policies ceded to the
+Reinsurer under this Agreement:
+
+A.   All liability of the Company arising by agreement, operation of law, or
+     otherwise from its participation or membership, whether voluntary or
+     involuntary, in any Insolvency Fund. "Insolvency Fund" includes any
+     Guaranty Fund, Insolvency Fund, Plan, Pool, Association, Fund, or other
+     arrangement, howsoever denominated, established or governed, which provides
+     for any assessment of, or payment, or assumption by the Company of part or
+     all of any claim, debt, charge, fee, or other obligation of an insurer, or
+     its successors, or assigns which has been declared by any competent
+     authority to be insolvent or which otherwise is deemed unable to meet any
+     claim, debt, charge, fee, or other obligation in whole or in part.
+
+B.   The amount by which the portion of the Reinsurer's Percentage Share of the
+     Pro Rata Share of Par Amount per Issue under a Policy covering an Issue
+     sold by an Issuer to Seller/Servicer to be identified in Exhibit No. 2
+     attached to and forming part of this Agreement exceeds the "Maximum Assumed
+     Amount Per Issue" (to be either zero or a stated dollar amount) specified
+     in Exhibit No. 2 provided that Exhibit No. 2 may be amended only with the
+     prior consent of the Company, which consent will not be unreasonably
+     withheld and which consent shall not be required if such amendment is based
+     on regulatory or rating agency limitations applicable to the Reinsurer or
+     the Reinsurer's internal risk limits. Any such amended Exhibit No. 2; shall
+     (x) be in electronic form; (y) be in the format provided in Exhibit No. 2;
+     and (z) include in its text its effective date substantially similar in
+     form to the following: "This Amended Exhibit No. 2 Effective as of July 1,
+     2005"; and shall identify, for each Issuer or Seller/Servicer, the name of
+     the Issuer or Seller/Servicer and the applicable "Maximum Assumed Amount
+     Per Issue" for that Issuer or Seller/Servicer (to be either zero or a
+     stated dollar amount). No amendment to Exhibit No. 2 shall be effective
+     with respect to any Issue for which the Company has issued a written
+     mandate letter or other similar written evidence of commitment prior to the
+     delivery of such amendment.
+
+C.   The Company maintains the right in its sole discretion to exclude any
+     Policy that would have otherwise been ceded hereunder. The Company shall
+     provide a list of any such Policies to the Reinsurer on a quarterly basis.
+     The Reinsurer shall have the right, upon written notice to the Company
+     given no later than 15 Business Days after receipt of such quarterly list
+     of excluded Policies, to assume the Reinsurer's Percentage Share of the Pro
+     Rata Share of the liabilities for Net Loss and Net Allocated Loss
+     Adjustment Expense of any such excluded Policy. In the event the Reinsurer
+     exercises such right, the Pro Rata Share with respect to such Policy shall
+     be determined by the Company in accordance with the terms hereof.
+
+
+                                        8
+
+<PAGE>
+
+D.   No Policy shall be ceded to the Reinsurer hereunder if the Issuer, Seller
+     or Servicer under such Policy is listed on the Company's most current
+     Caution List; provided, however, that this Section D shall not apply with
+     respect to Refinancing Obligations.
+
+E.   Nothing in this Agreement requires the Company to cede any CDO business
+     covered hereunder that has already been ceded to another reinsurance cover.
+
+                                    ARTICLE 6
+
+                               RETENTION AND LIMIT
+
+The Company shall cede and the Reinsurer shall accept the Reinsurer's
+Proportionate Share of each Issue relating to Policies covered hereunder. In
+addition to being liable for its Proportionate Share of any Net Loss, the
+Reinsurer shall be liable for its Proportionate Share of Net Allocated Loss
+Adjustment Expense.
+
+With respect to Policies for which the Par Amount of the Issue exceeds [ * ],
+the Company shall cede to the Reinsurer the Reinsurer's Percentage Share of a
+Pro Rata Share of Par Amount, which Pro Rata Share shall, at the Company's
+election, be [ * ] In the event that the Company maintains a minimum net
+retained share of gross insured outstanding principal under all Issues for such
+an Issuer, Seller or Servicer equal to at least 50% (excluding Issues that have
+been advance refunded), the Company shall cede to the Reinsurer the Reinsurer's
+Percentage Share of a Pro Rata Share up to [ * ] of each Issue for such Issuer.]
+
+With respect to any Policy ceded by the company hereunder, the Reinsurer's
+Proportionate Share of the Pro Rata Share of Par Amount of any Issue related to
+such Policy shall not exceed the Single Issue Limit set forth in the table below
+next to the "Business Class" applicable to such Policy, as classified by the
+Company (pursuant to the Company's risk codes attached hereto as Exhibit No. 3
+and made a part hereof):
+
+[ * ]
+
+*    Confidential treatment requested for redacted portion.
+
+The Company and/or its affiliates maintain the right to purchase non
+proportional and excess of loss reinsurance (or similar types of loss
+protection) with respect to Policies. Such reinsurance shall inure to the sole
+benefit of the Company or its affiliates. The Company shall be able to obtain
+loss protection for a Policy which may inure to the benefit of the Reinsurer,
+regardless of whether the Reinsurer has consented to the purchase thereof and
+the Company shall be entitled to deduct the Reinsurer's Proportionate Share of
+the cost of such loss protection from any amount payable to the Reinsurer
+hereunder. The Company agrees to notify the Reinsurer in writing, after the end
+of each calendar quarter, in the event that its net exposure to any Policy ceded
+hereunder is zero; provided that the failure to provide such notice shall not
+affect any rights or obligations of any party under this Agreement.
+
+The parties agree that Exhibit No. 3 may be amended by the Company effective the
+first day of any calendar quarter, provided that (i) the Company submits an
+amended Exhibit No. 3 to the Reinsurer at least 30 Business Days prior to the
+effective date of the amended Exhibit No. 3 and
+
+
+                                        9
+
+<PAGE>
+
+(ii) the amended Exhibit No. 3 is (x) delivered to the Reinsurer in electronic
+form, (y) is in the format provided in Exhibit No. 3, and (z) includes in its
+text its effective date substantially similar in form to the following: "This
+Amended Exhibit No. 3 Effective as of July 1, 2005."
+
+                                    ARTICLE 7
+
+                                   DEFINITIONS
+
+A.   "Allocated Loss Adjustment Expenses" as used in this Agreement means all
+     court costs, interest upon judgments, and mitigation, investigation,
+     adjustment, and legal expenses chargeable to or incurred in: (i) the
+     mitigation, investigation, negotiation, settlement of or defense against a
+     Loss, (ii) loss prevention, mitigation or investigation in respect of
+     Policies as to which the Company has posted a loss reserve, (iii) the
+     investigation, prevention and workout of a potential Loss, or (iv) the
+     protection, perfection and exercise of any subrogation or salvage or
+     reimbursement rights or security interests with respect to a Policy.
+     Allocated Loss Adjustment Expenses shall exclude all office expenses,
+     salaries and other compensation and expenses of officials and employees of
+     the Company, and all expenses (including, but not limited to, travel and
+     costs and expenses incurred in respect of the outside consultants and
+     independent contractors) attributable to routine surveillance activities.
+
+B.   "Applicable Rating Agencies" as used in this Agreement mean Moody's and
+     Standard and Poor's.
+
+C.   "Business Day" means any day other than a Saturday, Sunday or holiday on
+     which banks in New York, New York and Hamilton, Bermuda are not open for
+     business.
+
+D.   "Issue" as used in this Agreement means all obligations of one Issuer sold
+     or created simultaneously which are covered by a Policy or several related
+     Policies and which may be secured by a single revenue source (with
+     essentially the same structure), accepting credit risk on a common pool of
+     reference credits or obligations, or in the case of structured finance or
+     asset-backed securities, secured by a common pool of assets. The Company
+     shall be the sole judge of what constitutes one Issue.
+
+E.   "Issuer"" as used in this Agreement means, with respect to an Issue, the
+     entity issuing the bonds, notes, or other instruments comprising the Issue
+     or the entity whose obligations are the subject of a Policy or several
+     related Policies. The Company shall be the sole judge of what constitutes
+     one Issuer.
+
+F.   "Loss" as used in this Agreement means the aggregate amount of payments for
+     which the Company is liable with respect to a claim under a Policy.
+
+G.   "Moody's" as used in this Agreement means Moody's Investors Services, Inc.
+
+H.   "Net" as used in this Agreement means, with respect to any Policy, after
+     giving effect to other Policy specific facultative and/or quota share or
+     other non-proportional reinsurance in effect with respect to such Policy
+     inuring to the benefit of this Agreement.
+
+
+                                       10
+
+<PAGE>
+
+I.   "Net Premium" as used in this Agreement means, with respect to any Policy,
+     all premium received by the Company in respect of such Policy, less premium
+     paid by the Company for other Policy specific facultative and/or treaty
+     reinsurance in effect with respect to such Policy inuring to the benefit of
+     this Agreement.
+
+J.   "Par Amount" as used in this Agreement means the face amount of an Issue or
+     Issues, except in the case of zero coupon or originally issued discount
+     bonds or notes, in which case the Par Amount shall exclude the accreted
+     interest component of the face amount.
+
+K.   "Policy" as used in this Agreement means each binder, policy, surety bond
+     or contract of insurance or reinsurance or amendment or endorsement thereto
+     issued by the Company and constituting business covered as defined in the
+     Business and Territory Covered Article. The Company shall be the sole judge
+     of what constitutes a Policy under this Agreement.
+
+L.   "Proportionate Share" as used in this Agreement with respect to any Policy
+     means the Reinsurer's Percentage Share times the Pro Rata Share applicable
+     to that Policy.
+
+M.   "Pro Rata Share" as used in this Agreement means the percentage specified
+     as such by the Company with respect to a particular Policy at the time the
+     Policy is ceded to the Reinsurer.
+
+N.   "Reinsurer's Percentage Share" as used in this Agreement means the
+     percentage specified in Article 26 of this Agreement.
+
+O.   "Seller" as used in this Agreement means a selling or servicing
+     organization that originates and/or services assets that back asset-backed
+     or mortgage-backed securities.
+
+P.   "Servicer" as used in this Agreement means a servicing organization that
+     services assets that back asset-backed or mortgage-backed securities.
+
+Q.   "Standard & Poor's" or "S&P" as used in this Agreement means Standard &
+     Poor's Rating Services, Inc.
+
+                                    ARTICLE 8
+
+                             PREMIUM AND COMMISSION
+
+The Company shall pay to the Reinsurer its Proportionate Share of the Net
+Premium after deducting from such Net Premium a flat ceding commission equal to
+the amount set forth below. Such ceding commission shall be based on the
+then-current reinsurance credit which the Company receives with respect to the
+reinsurance provided by the Reinsurer under the applicable rating agency method,
+whichever is lower. In addition, the Company may, in its sole discretion,
+immediately adjust the ceding commission with respect to any policies reinsured
+under any other reinsurance agreement between the Company and the Reinsurer in
+line with the then current reinsurance credit which the Company receives under
+the applicable rating agency method, whichever is lower.
+
+
+                                       11
+
+<PAGE>
+
+[ * ]
+
+*    Confidential treatment requested for redacted portion.
+
+At any time, the Reinsurer may adjust the ceding commission by either (x)
+restoring of increasing the Reinsurer's Standard & Poor's and Moody's financial
+strength or financial enhancement ratings such that the Company receives an
+increase in capital credit, or (y) providing such additional security as would
+be necessary to restore or increase the reinsurance credit that the Company
+receives under the rating agency method, it being agreed that all costs and
+expenses related to such efforts shall be the sole responsibility of the
+Reinsurer.
+
+If the reinsurance credit the Company receives is either increased or decreased
+as set forth above, the revised ceding commission figure shall be applied to any
+Net Premium paid to the Reinsurer and to the amount of the unearned premium
+reserve from and after the time of the occurrence of the event which
+precipitated such increase or decrease.
+
+No exercise of any right pursuant to this Article 8 and no failure or delay by
+the Company in exercising any right, power or privilege arising under this
+Agreement, including, without limitation the Company's ability to terminate this
+Agreement and other reinsurance agreements on a run-off or cut-off basis as set
+forth in Article 2 hereof, will operate as a waiver thereof, nor will any single
+or partial exercise of any right under this Article 8 preclude any other or
+further exercise of any right, power or privilege of the Company arising under
+this Agreement.
+
+Nothing in this Agreement shall entitle the Reinsurer to receive any
+compensation other than as may described in this Article 8 and any such
+compensation shall be limited to the compensation to be received by the
+Reinsurer as set forth in this Article 8 and Article 11.
+
+                                    ARTICLE 9
+
+                         ACCOUNTS, REPORTS AND PAYMENTS
+
+A.   The Company shall furnish to the Reinsurer monthly accounts of Policies
+     ceded hereunder within 25 days after the close of each calendar month,
+     showing premiums due the Reinsurer, adjustments to premium reserves, if
+     any, and ceding commission, Federal Excise Tax, if any, the Proportionate
+     Share of paid Losses and Allocated Loss Adjustment Expenses due from the
+     Reinsurer, supported by statistical details as set forth herein.
+
+     The net balance shown shall be payable by the debtor party at the time the
+     account is rendered, if the Company is the debtor party, and within 10 days
+     of the Reinsurer's receipt of the account, if the Reinsurer is the debtor
+     party.
+
+B.   The statistical details referred to in the preceding paragraph shall be
+     comprised of the following:
+
+     1.   Net Premiums ceded during the month;
+
+     2.   Less ceding commissions with respect to Policies ceded during the
+          month;
+
+
+                                       12
+
+<PAGE>
+
+     3.   Less U. S. Federal Excise Tax, to the extent applicable;
+
+     4.   Less the Reinsurer's Proportionate Share of Net Losses paid during the
+          month;
+
+     5.   Less the Reinsurer's Proportionate Share of Net Allocated Loss
+          Adjustment Expenses paid by the Company during the month;
+
+     6.   Plus the Reinsurer's Proportionate Share of Net subrogation, salvage
+          and other recoveries received by the Company on Net Losses and Net
+          Allocated Loss Adjustment Expenses under the Policies;
+
+     7.   Net balance due the Reinsurer or the Company, as the case may be.
+
+C.   In addition to the monthly account required by Section B of this Article,
+     with respect to all in-force business covered by this Agreement, the
+     Company shall provide to the Reinsurer within 45 days of the close of each
+     calendar quarter, (i) quarterly reports showing the Reinsurer's
+     Proportionate Share of all Net contingency, Loss, Allocated Loss Adjustment
+     Expenses, and unearned premium reserves maintained by the Company (ii) any
+     "credit watch" or "caution list" reports prepared by the Company with
+     respect to such ceded Policies, and (iii) such additional statistics as may
+     reasonably be required by the Reinsurer on such ceded Policies.
+
+D.   All reports delivered pursuant to this Article 9 shall itemize Allocated
+     Loss Adjustment Expenses so that such expenses are separately identifiable
+     by (i) Policy or, (ii) if more than one Policy covers the same Issuer,
+     Seller or Servicer, by Issuer, Seller or Servicer (as the case may be).
+
+E.   The Reinsurer shall provide the Company with such information as the
+     Company may reasonably request.
+
+                                   ARTICLE 10
+
+                                CLAIMS AND LOSSES
+
+(1)  The Company shall have complete and sole control of and direction of all
+     efforts to: (i) mitigate, investigate, negotiate, settle or defend a Net
+     Loss, (ii) prevent, mitigate, or investigate a probable Net Loss under
+     Policies as to which the Company has posted a loss reserve, (iii)
+     investigate and work out a potential Net Loss, and (iv) to protect, perfect
+     and exercise any subrogation, salvage or reimbursement rights or security
+     interests with respect to any Policy, and may take any action as it may
+     deem advisable with respect thereto. All Net Loss settlements by the
+     Company, all salvage and subrogation settlements, and all settlements with
+     an Issuer (or with an underlying obligor of that Issuer), shall be final,
+     conclusive and unconditionally binding upon the Reinsurer and the Reinsurer
+     hereby agrees to be bound by any determination made by the Company
+     hereunder.
+
+(2)  The Company will give to the Reinsurer at least three Business Days' notice
+     of Net Loss that the Company will require a cash loss payment for all Net
+     Losses; and such payment
+
+
+                                       13
+
+<PAGE>
+
+     is due within one Business Day of receipt by the Reinsurer of such notice
+     of Net Loss. The Reinsurer shall effect payment by wire transfer of federal
+     funds to the party designated by the Company in the notice. Details of the
+     Net Loss will be provided to the Reinsurer by the Company promptly by mail,
+     or by such other means as requested by the Reinsurer.
+
+(3)  The Reinsurer shall pay to the Company the Reinsurer's Proportionate Share
+     of any Net Allocated Loss Adjustment Expenses paid by the Company at the
+     times and in the manner specified in the Accounts, Reports and Payments
+     Article.
+
+                                   ARTICLE 11
+
+                             SALVAGE AND SUBROGATION
+
+(1)  The Company shall pay the Reinsurer the Reinsurer's Proportionate Share of
+     any Recovery in respect of any Net Loss covered by the Reinsurer under this
+     Agreement at the times and in the manner specified in the Accounts, Reports
+     and Payments Article.
+
+(2)  "Recovery" as used in this Agreement means any amount received by the
+     Company in respect of any Net Loss covered by the Reinsurer under this
+     Agreement whether by subrogation, salvage, or reimbursement from the Issuer
+     (or from an underlying obligor of that Issuer).
+
+                                   ARTICLE 12
+
+                      REINSURANCE FOLLOWS ORIGINAL POLICIES
+
+This Agreement shall be construed as an honorable undertaking between the
+parties hereto and shall not be defeated by technical legal construction, it
+being the intention of this Agreement that the fortunes of the Reinsurer with
+respect to a Net Loss covered by the Reinsurer under this Agreement or with
+respect to any exercise by the Company pursuant to the first paragraph of
+Article 10 hereunder shall follow the fortunes of the Company. Nothing herein
+shall in any manner create any obligations or establish any rights against the
+Reinsurer in favor of any third parties or any persons not parties to this
+Agreement.
+
+                                   ARTICLE 13
+
+                                      TAXES
+
+The Company shall be liable for all taxes due on the Premiums paid with respect
+to the Policies. For any portion of the Reinsurer's Proportionate Share of
+Premium due to the Reinsurer pursuant to Article 8 hereof which is subject to
+U.S. Federal Excise Tax, the Company shall act as the withholding agent and
+remit such tax to the United States Internal Revenue Service as set forth in
+Article 14 hereof.
+
+The Company shall not be liable for any taxes (including, without limitation,
+any United Kingdom Insurance Premium Tax or similar tax on reinsurance premiums
+that may apply or be imposed prospectively by any taxing authority or
+jurisdiction) imposed on the Reinsurer's
+
+
+                                       14
+
+<PAGE>
+
+Proportionate Share of Premium due or paid by the Company to the Reinsurer
+pursuant to this Agreement. The Reinsurer shall not be liable for any taxes that
+may be imposed on ceding commissions due or paid by the Reinsurer to the Company
+pursuant to this Agreement.
+
+                                   ARTICLE 14
+
+                               FEDERAL EXCISE TAX
+
+(This Article applies only to those reinsurers domiciled outside of the United
+States of America who are not exempt from the Federal Excise Tax.)
+
+In the event that any United States Federal Excise Tax is due with respect to
+any premium due under this Agreement, the Company agrees to withhold and remit
+such tax to the United States Internal Revenue Service on behalf of the
+Reinsurer.
+
+For any reinsurance premium payments made to a foreign reinsurer, the Company is
+required under the Internal Revenue Code to withhold, for U.S. Federal Excise
+Tax purposes, 1% of the gross premiums paid on policies of reinsurance that
+cover risks wholly or partly within the United States unless:
+
+     1.   the reinsurance premiums paid to the foreign reinsurer are exempt from
+          U.S. Federal Excise Tax pursuant to an applicable U.S. income tax
+          treaty; or
+
+     2.   the foreign reinsurer elects under Internal Revenue Code Section
+          953(d) to be treated as a U.S. insurance company for all purposes of
+          the Internal Revenue Code.
+
+The Company must receive a signed statement on an annual basis from an officer
+of the foreign reinsurance company certifying that it qualifies under either of
+the foregoing exceptions in order for the Company not to withhold the 1% U.S.
+Federal Excise Tax on the reinsurance premiums that it pays to the foreign
+reinsurer.
+
+The foreign reinsurer must provide written notice to the Company to the extent
+that the reinsurer retrocedes to a foreign reinsurer any risk undertaken with
+respect to any Policy.
+
+In the event of any return of premium becoming due hereunder, the Reinsurer will
+deduct the percentage specified by United States law from the amount of the
+return and the Company or its agent should take steps to recover the Tax from
+the United States Government.
+
+                                   ARTICLE 15
+
+                                ACCESS TO RECORDS
+
+The Reinsurer and its duly designated representatives shall have the right to
+inspect at all reasonable times the books, records, and documents of the Company
+with respect to its participation in the insurance or reinsurance provided by
+the Company. In addition, the Company shall, and shall cause its affiliates and
+agents to make available any director, officer or employee of the Company and/or
+its affiliates and agents, to interview in connection with this Agreement
+
+
+                                       15
+
+<PAGE>
+
+and the Policies; The Reinsurer's rights under this provision shall survive
+termination of this Agreement and shall continue to exist as long as one of the
+parties hereto has a claim against any other arising from this Agreement. The
+Reinsurer hereby agrees that it will, at least 90 days in advance of undertaking
+an activity in competition with the Company's primary financial guaranty
+insurance business, notify the Company of any such planned activity (including
+defining the areas to be included in such activity and the proposed extent
+thereof), and under such circumstances the Company may limit or restrict
+Reinsurer's access to its books, records and documents that are related to any
+such activity to the extent that the Company believes such information to be
+proprietary, confidential, integral or essential to its business and which it
+believes is not essential to the Reinsurer's business or operations covered by
+this Agreement.
+
+                                   ARTICLE 16
+
+                                    CURRENCY
+
+Where the word "dollars" and/or the sign "$" appear in this Agreement, they
+shall meal United States dollars.
+
+For purposes of this Agreement, where the Company receives premiums or pays
+losses in currencies other than United States dollars, any payments of such
+amounts, or portions, thereof, to the Reinsurer may be remitted in either the
+original currency received by the Company or in United States dollars; provided,
+however, where the Company receives premiums or pays losses in currencies other
+than United States dollars, to the extent the Company converts such premiums or
+losses into United States dollars, such premiums of losses shall be converted
+into United States dollars at the actual rates of exchange at which these
+premiums or losses are entered in the Company's books.
+
+                                   ARTICLE 17
+
+                                 SERVICE OF SUIT
+
+(This Article shall apply only if the Reinsurer is domiciled outside of the
+United States of America or if the Reinsurer is not authorized in the State of
+New York.)
+
+(1)  In the event of the failure of the Reinsurer to pay any amount claimed to
+     be due hereunder, the Reinsurer, at the request of the Company, will submit
+     to the jurisdiction of a court of competent jurisdiction within the United
+     States of America. Nothing in this Article constitutes or should be
+     understood to constitute a waiver of the Reinsurer's rights to commence an
+     action in any court of competent jurisdiction in the United States of
+     America, to remove an action to a district court of the United States of
+     America, or to seek a transfer of a case to another court as permitted by
+     the laws of the Unites States of America or of any State in the United
+     States of America. It is further agreed that service of process on the
+     Reinsurer in such suit may be made upon Messrs Mendes & Mount, 750 Seventh
+     Avenue, New York, New York 10019-6829 or other agent previously designated
+     by the Reinsurer which designation has been previously notified to the
+     Company), and that in any suit instituted against the Reinsurer, the
+     Reinsurer will abide by the final decision of such court or, in the case of
+     an appeal, the appellate court.
+
+
+                                       16
+
+<PAGE>
+
+(2)  The above-named firm is authorized and directed to accept service of
+     process on behalf of the Reinsurer in any such suit and/or upon the request
+     of the Company to give written undertaking to the Company that such firm
+     will enter a general appearance upon the Reinsurer's behalf in the event
+     such a suit shall be instituted.
+
+(3)  Further, pursuant to any statute of any state, territory or district of the
+     United States of America which makes provision therefor, the Reinsurer
+     hereon hereby designates the superintendent, commissioner or director of
+     insurance or other officer specified for that purpose in the statute, or
+     his successor or successors in office, as its true and lawful attorney upon
+     whom may be served any lawful process in action, suit or proceeding
+     instituted by or on behalf of the Company or any beneficiary hereunder
+     arising out of this Agreement, and hereby designates the above named as the
+     person to whom the said officer is authorized to mail such process or a
+     true copy thereof.
+
+                                   ARTICLE 18
+
+                                   ARBITRATION
+
+(1)  As a condition precedent to any right of action hereunder, any dispute
+     arising out of or related to this Agreement shall be finally settled by
+     arbitration. The arbitration shall be conducted by a board of arbitration
+     composed of two arbitrators and an umpire, meeting in Armonk, New York,
+     unless otherwise agreed.
+
+(2)  The members of the board of arbitration shall be active or retired
+     disinterested officials of insurance or reinsurance companies. Each party
+     shall appoint its arbitrator, and the two arbitrators shall choose an
+     umpire before instituting the hearing. If the respondent fails to appoint
+     its arbitrator within four weeks after being requested to do so by the
+     claimant, the latter shall also appoint the second arbitrator. If the two
+     arbitrators fail to agree upon the appointment of an umpire within four
+     weeks after their nominations, the umpire shall be selected by the regional
+     director of the American Arbitration Association in New York, New York, or
+     the regional director's delegate. The arbitration shall be conducted in the
+     English language.
+
+(3)  The claimant shall submit its initial brief within 20 days from appointment
+     of the umpire. The respondent shall submit its brief within 20 days after
+     receipt of the claimant's brief and the claimant shall submit a reply brief
+     within 10 days after receipt of the respondent's brief.
+
+(4)  The board shall make its decision with regard to the custom and usage of
+     the insurance and reinsurance business. The board shall issue its decision
+     in writing based upon a hearing in which evidence may be introduced without
+     following strict rules of evidence but in which cross-examination and
+     rebuttal shall be allowed. The board shall make its decision within 60 days
+     following the termination of the hearings unless the parties consent to an
+     extension. The majority decision of the board shall be final and binding
+     upon all parties to the proceeding. Judgment may be entered upon the award
+     of the board in any court having jurisdiction thereof or having
+     jurisdiction over the parties or their assets.
+
+
+                                       17
+
+<PAGE>
+
+(5)  If more than one reinsurer is involved in the same dispute, all such
+     reinsurers shall constitute and act as one party for purposes of this
+     Article and communications shall be made by the Company to each of the
+     reinsurers constituting the one party; provided, however, that nothing
+     herein shall impair the rights of such reinsurers to assert several, rather
+     than joint, defenses or claims, nor be construed as changing the liability
+     of the reinsurers under the terms of this Agreement from several to joint.
+
+(6)  Each party shall bear the expense of its own arbitrator and shall jointly
+     and equally bear with the other party the expense of the umpire. The
+     remaining costs of the arbitration proceedings shall be allocated by the
+     board.
+
+(7)  Unless prohibited by applicable law, an arbitral award hereunder and any
+     judgment thereon shall bear interest from the date the arbitral award was
+     rendered at the rate equal from time to time to the rate publicly announced
+     by Citibank, N. A., as its base rate plus 2%.
+
+(8)  The parties consent to the jurisdiction of the Supreme Court of the State
+     of New York, County of New York, and of the United States District Court
+     for the Southern District of New York, for all purposes in connection with
+     such arbitration, including without limitation any application to compel
+     arbitration or to confirm an arbitration award. The parties consent that
+     any process or notice of motion or other application to either of said
+     Courts, and any paper in connection with arbitration, may be served by
+     certified mail, return receipt requested, or by personal service or in such
+     other manner as may be permissible under the rules of the applicable court
+     or panel provided a reasonable time for appearances is allowed. Service
+     upon the Company shall be directed to the Company, in care of the Company's
+     General Counsel. Service upon the Reinsurer shall be directed to the
+     Reinsurer in care of its General Counsel.
+
+                                   ARTICLE 19
+
+                    INDEMNIFICATION AND ERRORS AND OMISSIONS
+
+Any recitals in this Agreement to the terms and provisions of any original
+insurance or reinsurance are merely descriptive. The Reinsurer is reinsuring, to
+the amount herein provided, the obligations of the Company under any original
+insurance or reinsurance. The Company, shall be the sole judge as to:
+
+     (a)  what shall constitute a claim or loss covered under any original
+          insurance of reinsurance written by the Company;
+
+     (b)  the Company's liability thereunder; and
+
+     (c)  the amount or amounts which it shall be proper for the Company to pad
+          thereunder.
+
+The Reinsurer shall be bound by the judgment of the Company as to the
+obligation(s) an( liability(ies) of the Company under any original insurance or
+reinsurance.
+
+
+                                       18
+
+<PAGE>
+
+Any inadvertent error, omission or delay in complying with the terms and
+conditions of this Agreement shall not be held to relieve either party hereto
+from any liability which would attach to it hereunder if such error, omission or
+delay had not been made, provided such error, omission or delay is rectified
+immediately upon discovery.
+
+                                   ARTICLE 20
+
+                                   INSOLVENCY
+
+(1)  In the event of the insolvency of the Company, reinsurance provided by this
+     Agreement shall be payable by the Reinsurer on the basis of the liability
+     of the Company under the Policies ceded without diminution because of the
+     insolvency of the Company or because its liquidator, receiver, conservator
+     or statutory successor (hereinafter referred to as the "Liquidator") has
+     failed to pay all or a portion of any claim. The Liquidator shall give
+     written notice to the Reinsurer of the pendency of a claim against the
+     Company under any Policy ceded to Reinsurers and covered by this Agreement
+     within a reasonable time after such claim is filed in the conservation or
+     liquidation proceeding or in the receivership. During the pendency of such
+     claim, the Reinsurer may investigate such claim and interpose at its own
+     expense, in the proceeding where such claim is to be adjudicated, any
+     defense or defenses that it may deem available to the Company or the
+     Liquidator. The expense thus incurred by the Reinsurer shall be chargeable,
+     subject to the approval of the court, against the Company as part of the
+     expense of conservation or liquidation to the extent of a Proportionate
+     Share of the benefit which may accrue to the Company solely as a result of
+     the defense undertaker by the Reinsurer.
+
+(2)  Where two or more Reinsurers are involved in the same claim and a majority
+     in interest elect to interpose defense to such claim, the expense shall be
+     apportioned in accordance with the terms of this Agreement as though such
+     expense has been incurred by the Company.
+
+(3)  In the event of the insolvency of the Company, the reinsurance provided by
+     this Agreement shall be payable directly by the Reinsurer to the Company or
+     to the Liquidator, except (a) where the Policy specifically provides
+     another payee of such reinsurance in the event of the insolvency of the
+     Company, or (b) where the Reinsurer with the consent of the direct
+     insured(s) has assumed the obligations of the Company under the Policies as
+     the direct obligations of the Reinsurer to the payees under such Policies
+     and in substitution for the obligations of the Company to such payees.
+
+                                   ARTICLE 21
+
+                                    SECURITY
+
+(1)  When a governing body of any jurisdiction in which the Company legally
+     operates or to which it submits, requires as a condition to credit for the
+     reinsurance provided by this Agreement that the Reinsurer post a Letter of
+     Credit for the benefit of the Company, establish a Trust Account for the
+     benefit of the Company or deposit funds under the control of the Company
+     then the Reinsurer, at its option, shall either (a) post and maintain
+
+
+                                       19
+
+<PAGE>
+
+     such a Letter of Credit, or (b) establish such a Trust Account, or (c)
+     deposit such funds in the form and amount necessary to permit the Company
+     to avoid on any statutory financial statement filed by the Company the
+     penalty to surplus which would result from the loss of credit for the
+     reinsurance. In addition, with respect to the reinsurance ceded hereunder
+     of any Policy issued by MBIA Assurance S.A. and/or MBIA UK Insurance
+     Limited, the Reinsurer, at its option, shall either (a) post and maintain a
+     Letter of Credit, or (b) establish a Trust Account, or (c) deposit funds in
+     the form and amount necessary to permit the Company, under the applicable
+     laws and regulations in the State of New York, to avoid on any statutory
+     financial statement filed by the Company the penalty to surplus which would
+     result from the loss of credit for the reinsurance for such Policies if the
+     Company had issued such Policies and ceded the reinsurance directly to the
+     Reinsurer hereunder.
+
+(2)  The Reinsurer and Company agree that the Letters of Credit provided by the
+     Reinsurer pursuant to the provisions of this Agreement may be drawn upon at
+     any time, notwithstanding any other provision of this Agreement, and be
+     utilized by the Company or any successor, by operation of law, of the
+     Company including, without limitation, any liquidator, rehabilitator,
+     receiver or conservator of the Company for the following purposes, unless
+     otherwise provided for in a separate trust agreement:
+
+     (a)  to reimburse the Company for the Reinsurer's Proportionate Share of
+          Net Losses and Net Allocated Loss Adjustment Expenses paid by the
+          Company under this Agreement;
+
+     (b)  if this Agreement has been terminated pursuant to the Commencement and
+          Termination Article, to reimburse the Company for unearned premium due
+          to the Company;
+
+     (c)  to fund an account with the Company in an amount at least equal to the
+          deduction allowed for the reinsurance provided by this Agreement, from
+          the Company's liabilities for Policies ceded under the Agreement, such
+          amount to include, if applicable, but not be limited to, amounts for
+          net contingency reserves, loss reserves for paid, reported and
+          incurred but not reported losses, allocated loss adjustment expense
+          reserves and unearned premium reserves; or
+
+     (d)  to pay any other amounts the Company claims are due under the
+          Agreement.
+
+All of the foregoing should be applied without diminution because of insolvency
+on the part of the Company or Reinsurer.
+
+(3)  If the Reinsurer elects to provide a Letter of Credit under section (1) of
+     this Article, the Reinsurer shall cause the Letter of Credit to be issued,
+     in place and effective no later than the "as of date" of the first
+     quarterly filing prepared by the Company for the appropriate regulatory
+     authority after the Effective Time.
+
+(4)  The Reinsurer may comply with section (1) of this Article by entering into
+     a trust agreement to establish a Trust Account for the benefit of the
+     Company that meets the requirements of New York Insurance Department
+     Regulation 114 to cover an amount
+
+
+                                       20
+
+<PAGE>
+
+     equal to or greater than reserves to be maintained by the Reinsurer. The
+     assets deposited in such trust account shall be valued according to their
+     fair market value and shall consist only of cash (United States legal
+     tender), certificates of deposit (issued by a United States bank and
+     payable in United States legal tender), and investment of the types
+     specified in paragraphs (1), (2), (3), (8) and (10) of New York Insurance
+     Law Section 1404(a), provided that such investments are issued by an
+     institution that is not a parent, subsidiary or affiliate of either the
+     Reinsurer or the Company. Prior to depositing assets with the trustee, the
+     Reinsurer shall execute assignments, endorsements in blank, or transfer
+     legal title to the trustee of all shares, obligations or any other assets
+     requiring assignments, in order that the Company, or the trustee upon the
+     direction of the Company, may whenever necessary negotiate any such assets
+     without consent or signature from the Reinsurer or any other entity. All
+     settlements of account under such a trust agreement between the Company and
+     the Reinsurer shall be made in cash or its equivalent. The Reinsurer and
+     the Company agree that the assets in the trust account may be withdrawn by
+     the Company at any time and be used and applied by the Company or any
+     successor by operation of law of the Company, including, without
+     limitation, any liquidator, rehabilitator, receiver or conservator of the
+     Company, without diminution because of insolvency of the Company or the
+     Reinsurer, only for the following purposes:
+
+     (a)  to reimburse the Company for the Reinsurer's Proportionate Share of
+          Net Losses and Net Allocated Loss Adjustment Expenses paid by the
+          Company under this Agreement;
+
+     (b)  if this Agreement has been terminated pursuant to the Commencement and
+          Termination Article, to reimburse the Company for unearned premium due
+          to the Company;
+
+     (c)  to fund an account with the Company in an amount at least equal to the
+          deduction allowed for the reinsurance provided by this Agreement, from
+          the Company's liabilities for Policies ceded under the Agreement, such
+          amount to include, if applicable, but not be limited to, amounts for
+          Net contingency reserves, loss reserves for paid, reported and
+          incurred but not reported losses, allocated loss adjustment expense
+          reserves and unearned premium reserves; or
+
+     (d)  to pay any other amounts the Company claims are due under the
+          Agreement.
+
+All of the foregoing should be applied without diminution because of insolvency
+on the part of the Company or Reinsurer.
+
+                                   ARTICLE 22
+
+                            RESERVES AND RISK LIMITS
+
+When a regulatory body of any jurisdiction in which the Company legally operates
+or to which it submits its statutory financial statements requires as a
+condition to credit for the reinsurance provided by this Agreement that the
+Reinsurer establish and maintain certain reserves (including but not limited to
+contingency, unearned premium, loss and loss expense reserves upon the
+
+
+                                       21
+
+<PAGE>
+
+liabilities ceded under this Agreement) and risk limits, the Reinsurer shall
+establish and maintain those reserves and risk limits. Without limiting the
+generality of the foregoing, the Reinsurer hereby acknowledges that in order for
+the Company to obtain credit for the reinsurance provided by this Agreement in
+determining its reserves and risk limits under the New York and Florida
+Insurance Laws, the Reinsurer must establish and maintain a reserve in an amount
+equal to the Reinsurer's Proportionate Share of the amount by which the Company
+reduces its contingency reserves attributable to the Policies covered by the
+Agreement and the Reinsurer agrees to establish such a reserve. The amount of
+reserves to be established by the Reinsurer to meet these requirements will be
+reported quarterly by the Company pursuant to the Accounts, Reports, and
+Payments Article.
+
+                                   ARTICLE 23
+
+                                 CONFIDENTIALITY
+
+As a condition to receiving any information from MBIA with respect to any Policy
+(the "MBIA Information") the Reinsurer agrees to: (i) hold and treat the MBIA
+Information in strict confidence, (ii) use it solely for the purpose of its
+reinsurance pursuant to this Agreement, (iii) take all reasonable measures to
+keep the MBIA Information secret and confidential, (iv) disclose the MBIA
+Information only to (a) those officers, directors, employees, advisors, legal
+counsel and auditors (collectively, "Representatives") who "need to know" in
+order to evaluate the transactions contemplated by this Agreement, (b) any
+rating agency in connection with their rating of the Reinsurer, (c) regulatory
+authorities having applicable jurisdiction over the Reinsurer or the transaction
+to which such MBIA Information relates, but only as may be required or requested
+by such regulatory authorities, and (d) as may be necessary or appropriate in
+connection with any retrocession; provided, that (1) in the case of disclosure
+pursuant to (a) - (d) above the Reinsurer will inform such Representatives or
+other persons set forth in this clause (iv) that the MBIA Information in
+confidential and direct them to keep it confidential, and (2) in the case of
+disclosure pursuant to (d) above, receipt by the Reinsurer, which will be made
+available to MBIA upon request of a written obligation of confidentiality that
+covers the MBIA Information from any proposed retrocessional reinsurer
+containing provisions substantially similar to those set fort in this paragraph,
+and further that the Reinsurer shall remain liable hereunder for any breach by
+such prospective retrocessional reinsurer, and (v) not disclose or otherwise
+make available any of the MBIA Information to any third party, except as set
+forth in (iv) above without MBIA's written consent. Notwithstanding anything
+contained herein to the contrary, any MBIA Information which is in the public
+domain (through no breach of this paragraph by Reinsurer or any of its
+Representatives of the obligations set forth in this paragraph), (2) was
+lawfully in Reinsurer's or any of its Representatives' possession at the time of
+disclosure; or (3) MBIA Information which was lawfully received from a third
+party that, to the Reinsurer's or any of its Representatives' knowledge, was not
+under an obligation of confidentiality, directly or indirectly, to MBIA will not
+be deemed confidential. If the Reinsurer is requested or required in connection
+with a judicial or governmental proceeding or by applicable law or regulation to
+disclose any MBIA Information, unless prohibited by applicable law, court order,
+subpoena or similar legal process, the Reinsurer shall provide MBIA with timely
+notice of such request so that MBIA can seek, at MBIA's expense, an appropriate
+protective order. It is understood and agreed that MBIA would be irreparably
+injured by a breach of these conditions, that money damages would not be a
+sufficient remedy for any breach, and
+
+
+                                       22
+
+<PAGE>
+
+that, in addition to MBIA's remedies available at law for losses, claims,
+damages, liabilities or expenses suffered or incurred in connection with a
+breach of this Confidentiality provision, or in equity, MBIA will be entitled to
+seek, and to obtain, specific performance and injunctive or other equitable
+relief as a remedy for any breach.
+
+                                   ARTICLE 24
+
+                                     OFFSET
+
+Each party hereto shall have, and may exercise at any time and from time to
+time, the right to offset any balance or balances, whether on account of Net
+Premiums or on account of Net Losses or otherwise, due from such party to the
+other party hereto under this Agreement or under any other reinsurance agreement
+heretofore or hereafter entered into by and between them, and may offset the
+same against any balance or balances due or to become due to the former from the
+latter under the same or any other reinsurance agreement between them. The party
+asserting the right of offset shall have and may exercise such right whether the
+balance(s) due or to become due to such party from the other are on account of
+premiums or on account of Losses or otherwise and regardless of the capacity,
+whether as assuming reinsurer or as ceding company, in which each party acted
+under this Agreement. In the event of the insolvency of a party hereto, offsets
+shall be allowed only in accordance with the provisions of Section 7427 of the
+Insurance Law of the State of New York.
+
+                                   ARTICLE 25
+
+                                  GOVERNING LAW
+
+This Agreement shall be governed by the laws of the State of New York.
+
+                                   ARTICLE 26
+
+                                  PARTICIPATION
+
+[ * ]
+
+*    Confidential treatment requested for redacted portion.
+
+                                   ARTICLE 27
+
+                                   ASSIGNMENT
+
+The Reinsurer may not assign any of its rights or obligations hereunder without
+the prior written consent of the Company.
+
+
+                                       23
+
+<PAGE>
+
+                                   ARTICLE 28
+
+                                     NOTICE
+
+Except as otherwise expressly provided herein, all notices, requests, demands,
+instructions, consents or other communications provided for hereunder shall be
+in writing and delivered or mailed by registered or certified mail or by
+overnight courier or by facsimile communication, in each case prepaid and
+addressed to the intended recipient at its address for notices specified in
+paragraph B of this Article.
+
+All notices, requests, demands, consents, approvals or other communications
+under this Agreement shall be addressed as follows (or to any other address as
+may be designated in writing by the recipient):
+
+If to the Company:
+
+                     MBIA Insurance Corporation
+                     113 King Street
+                     Armonk, New York 10504
+                     Attention: Reinsurance Group
+                     Facsimile: (914) 765-3410
+                     Telephone: (914) 765-3046
+
+                     With a copy to the Company's General Counsel.
+
+If to the Reinsurer:
+
+                     RAM Reinsurance Company Ltd
+                     RAM Re House
+                     46 Reid Street
+                     Hamilton HM 12
+                     Bermuda
+                     Attention: Chief Risk Manager
+                     Facsimile: (441) 296-6509
+                     Telephone: (441) 296-6501
+
+                     With a copy to the Company's General Counsel.
+
+The Company and Reinsurer shall provide each other, with wiring instructions
+promptly after execution of this Agreement and at the time of any change in such
+instructions.
+
+
+                                       24
+
+<PAGE>
+
+IN WITNESS WHEREOF the parties hereto, by their respective duly authorized
+officers, have executed this COMPREHENSIVE AUTOMATIC TREATY REINSURANCE
+AGREEMENT, in triplicate, as of the dates recorded below:
+
+<TABLE>
+<S>                     <C>
+ACCEPTED:\
+
+At: Hamilton, Bermuda
+
+Reinsurer:              RAM Reinsurance Company Ltd.
+
+
+Authorized Signature:
+                        ----------------------------------------
+Date:
+                        ----------------------------------------
+
+
+At: Armonk New York
+
+Company:                MBIA Insurance Corporation
+
+
+Authorized Signature:
+                        ----------------------------------------
+Date:
+                        ----------------------------------------
+
+
+Company:                MBIA Assurance S.A.
+
+
+Authorized Signature:
+                        ----------------------------------------
+Date:
+                        ----------------------------------------
+
+
+Company:                MBIA UK Insurance Limited
+
+
+Authorized Signature:
+                        ----------------------------------------
+Date:
+                        ----------------------------------------
+
+
+Company:                Capital Markets Assurance Corporation
+
+
+Authorized Signature:
+                        ----------------------------------------
+Date:
+                        ----------------------------------------
+</TABLE>
+
+
+                                       25
+</TEXT>
+</DOCUMENT>

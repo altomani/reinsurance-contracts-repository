@@ -1,0 +1,947 @@
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>17
+<FILENAME>y56500a5ex10-14.txt
+<DESCRIPTION>FORM OF INDEMNIFICATION AGREEMENT
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.14
+
+
+                            INDEMNIFICATION AGREEMENT
+
+                                 by and between
+
+                                 CITIGROUP INC.
+
+
+                                       and
+
+                        TRAVELERS PROPERTY CASUALTY CORP.
+
+
+
+
+                                   Dated as of
+
+                                 March [ ], 2002
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                             Page
+<S>                                                                          <C>
+ARTICLE I DEFINITIONS......................................................    3
+
+        Section 1.1  Definitions...........................................    3
+
+ARTICLE II CITIGROUP INDEMNIFICATION.......................................    9
+
+        Section 2.1  Citigroup's Indemnification...........................    9
+
+ARTICLE III ASBESTOS-RELATED INCURRALS; NET INCURRALS......................   11
+
+        Section 3.1  Establishment of Asbestos-Related Incurrals...........   11
+        Section 3.2  Exclusions from Asbestos-Related Incurrals............   11
+        Section 3.3  Calculation of Net Incurrals..........................   12
+
+ARTICLE IV REPORTS.........................................................   12
+
+        Section 4.1  Quarterly Reports.....................................   12
+        Section 4.2  Additions to Quarterly Reports........................   12
+        Section 4.3  Certification of Quarterly Reports....................   12
+        Section 4.4  Consultations Regarding Quarterly Reports.............   13
+        Section 4.5  Confidentiality of Reports............................   13
+
+ARTICLE V REMITTANCES......................................................   14
+
+        Section 5.1  Payments..............................................   15
+        Section 5.2  Interest Payments.....................................   15
+        Section 5.3  Reimbursable Net Incurrals............................   15
+        Section 5.4  Disputes..............................................   15
+
+ARTICLE VI ENFORCEMENT OF RIGHTS...........................................   18
+
+        Section 6.1  Enforcement of Rights.................................   18
+
+ARTICLE VII COMMENCEMENT AND TERMINATION...................................   18
+
+        Section 7.1  Commencement and Termination..........................   18
+
+ARTICLE VIII CONFIDENTIALITY...............................................   19
+
+        Section 8.1  Confidentiality.......................................   19
+
+ARTICLE IX ARBITRATION.....................................................   21
+
+        Section 9.1  Arbitration...........................................   21
+
+ARTICLE X THIRD PARTY BENEFICIARIES; ASSIGNMENTS AND SURVIVAL..............   23
+
+        Section 10.1  Third Party Beneficiaries............................   24
+        Section 10.2  Assignments and Delegations..........................   24
+        Section 10.3  Survival.............................................   24
+
+ARTICLE XI MISCELLANEOUS...................................................   24
+</TABLE>
+
+
+                                       i
+<PAGE>
+<TABLE>
+<S>                                                                          <C>
+        Section 11.1  Governing Law........................................   24
+        Section 11.2  Notices..............................................   25
+        Section 11.3  Entire Agreement; Amendments.........................   26
+        Section 11.4  Counterparts.........................................   27
+        Section 11.5  Currency.............................................   27
+        Section 11.6  Headings.............................................   27
+        Section 11.7  No Waiver............................................   27
+</TABLE>
+
+
+                                       ii
+<PAGE>
+            This INDEMNIFICATION AGREEMENT (this "Indemnification Agreement") is
+made and entered into as of March [ ], 2002, by and between Citigroup Inc., a
+Delaware corporation ("Citigroup"), and Travelers Property Casualty Corp.
+(formerly known as The Travelers Insurance Group Inc.), a Connecticut
+corporation ("Travelers"). This Indemnification Agreement shall only be
+effective upon the closing of the initial public offering of shares of common
+stock of Travelers (the "Offering"). This Indemnification Agreement is being
+executed contemporaneously with the closing of this Offering and shall be null
+and void should such closing not occur.
+
+            WHEREAS, Travelers conducts property and casualty insurance
+operations and insurance-related activities through certain insurer subsidiaries
+as of the Effective Date and former insurer subsidiaries as of the Effective
+Date (the "Insurer Subsidiaries") and other Affiliates (as defined herein) as of
+the Effective Date; and
+
+            WHEREAS, in connection with the Offering, Citigroup has agreed to
+indemnify Travelers for certain specified losses, liabilities and expenses that
+may be incurred by Travelers directly or through its Insurer Subsidiaries and
+Affiliates arising out of or relating to the Asbestos-Related Liabilities (as
+defined herein) to the extent and upon the terms and conditions set forth
+herein.
+
+            NOW, THEREFORE, in consideration of the mutual covenants and
+promises contained herein, the parties hereto hereby agree as follows:
+
+
+                                       2
+<PAGE>
+                                   ARTICLE I
+
+                                  DEFINITIONS
+
+            Section 1.1 Definitions. As used herein, the following terms shall
+have the following respective meanings:
+
+            "AAA" shall have the meaning set forth in Section 9.1 hereof.
+
+            "Affiliate" of any Person shall mean another Person that directly or
+indirectly controls, is controlled by, or is under common control with, such
+first Person, where "control" means the possession, directly or indirectly, of
+the power to direct or cause the direction of the management policies of a
+Person, whether through ownership of voting securities, by contract, as trustee
+or executor or otherwise.
+
+            "Annual Retention Amount" shall mean the sum of Net Incurrals to be
+borne by Travelers under this Indemnification Agreement in any calendar year on
+a pre-tax basis equal to one hundred fifty million dollars ($150,000,000).
+
+            "Applicable Law" shall mean any applicable order, law, statute,
+regulation, rule, ordinance, writ, injunction, directive, judgment, decree,
+principle of common law, constitution or treaty enacted, promulgated, issued,
+enforced or entered by any Governmental Entity applicable to the parties hereto,
+or any of their respective businesses, properties or assets.
+
+
+                                       3
+<PAGE>
+            "Appointed Actuary" shall mean the actuary duly appointed by the
+Travelers' board of directors to provide statements of actuarial opinion to
+state insurance regulatory authorities.
+
+            "Asbestos-Related Incurrals" shall have the meaning set forth in
+Section 3.1 hereof.
+
+            "Asbestos-Related Liabilities" shall mean all liabilities, costs,
+expenses, fees, (including, without limitation, legal, expert, witness or
+otherwise), loss, damages (including, without limitation, punitive,
+extracontractual, exemplary, special or otherwise), judgments, equitable relief,
+obligations, settlements, estimates (including, without limitation, estimates
+associated with IBNR, case estimates for claim and expense, and any other
+estimates) or any other amounts incurred by Travelers, its Affiliates or the
+Insurer Subsidiaries (hereinafter referred to collectively, for purposes of this
+definition of Asbestos-Related Liabilities only, as "Liabilities") to the extent
+caused by, arising out of or relating to asbestos, provided, however that
+Asbestos Related Liabilities shall not include (i) Liabilities arising from the
+presence of asbestos in real property owned and/or occupied by Travelers, its
+Affiliates or the Insurer Subsidiaries; (ii) Liabilities or estimated
+Liabilities under or arising out of a Subject Contract issued or renewed on or
+after the Effective Date; (iii) any Liabilities acquired by Travelers, its
+Affiliates or the Insurer Subsidiaries by virtue of acquisitions, mergers,
+consolidations, or other transactions (whether effected by portfolio transfer,
+reinsurance or otherwise) which are consummated on or after the Effective Date
+(excluding acquisitions of business otherwise covered under this Indemnification
+Agreement from Persons that are Affiliates prior to the Effective Date); (iv)
+any Liabilities to the extent increased by amendments or other
+
+
+                                       4
+<PAGE>
+modifications to the intercompany reinsurance pooling agreements among the
+Insurer Subsidiaries on or after the Effective Date, which amendment or
+modification functions, directly or indirectly, in any manner, to materially and
+adversely affect Citigroup's obligations hereunder, or (v) the salaries and
+expenses of employees as well as office and other overhead expenses of any
+nature of Travelers, its Affiliates or the Insurer Subsidiaries, regardless of
+whether such costs and expenses are attributable to asbestos.
+
+            "Ceded Reinsurance" shall mean all reinsurance pursuant to
+contracts, binders, certificates, policies, treaties or other evidence of
+reinsurance pertaining to Asbestos-Related Liabilities and ceded by the Insurer
+Subsidiaries to reinsurers.
+
+            "Collectible Reinsurance" shall mean reinsurance recoverables which
+are estimated to be payable under the terms of Ceded Reinsurance contracts,
+binders, certificates, policies, treaties or other written evidence of Ceded
+Reinsurance with any third party reinsurer which are reflected on the statutory
+financial statements of the Insurer Subsidiaries, net of any estimated
+allowances for uncollectible reinsurance, which shall be appropriately adjusted
+to take into account reserves established for purposes of uncollectible
+reinsurance relating to the Asbestos-Related Liabilities.
+
+            "Confidential Material" shall have the meaning set forth in Section
+8.1 hereof.
+
+            "Cumulative Tax Benefit Adjustment Amount" shall mean the sum of the
+Tax Benefit Adjustment Amounts with respect to each calendar quarter commencing
+with the first quarter of 2002.
+
+            "Dispute" shall have the meaning set forth in Section 9.1 hereof.
+
+
+                                       5
+<PAGE>
+            "Dispute Notice" shall have the meaning set forth in Section 5.4
+hereof.
+
+            "Disputed Asbestos-Related Liabilities" shall have the meaning set
+forth in Section 5.4 hereof.
+
+            "Effective Date" shall mean the date of consummation of the initial
+public offering of shares of common stock of Travelers Property Casualty Corp.
+pursuant to the Registration Statement on Form S-1 (No. 333-82388).
+
+            "First Quarter Carryforward" shall have the meaning set forth in
+Section 2.1(b).
+
+            "IBNR" shall mean incurred but not reported.
+
+            "Maximum Payment Amount" shall have the meaning set forth in Section
+2.1(c) hereof.
+
+            "Net Incurrals" shall have the meaning set forth in Section 3.3
+hereof.
+
+            "Overdue Rate" shall mean the "prime rate" as announced from time to
+time by Citibank N.A., or its successor in interest.
+
+            "Person" shall mean an individual, corporation, partnership,
+association, trust, limited liability company or any other entity or
+organization of any kind or description whatsoever, including, without
+limitation, a government or political subdivision or an agency or
+instrumentality thereof.
+
+            "Quarterly Report" shall have the meaning set forth in Section 4.1
+hereof.
+
+
+                                       6
+<PAGE>
+            "Reimbursable Net Incurrals" shall have the meaning set forth in
+Section 5.3 hereof.
+
+            "Reserves" shall mean the aggregate (i) loss (including IBNR losses)
+and expense reserves of Travelers, its Affiliates or the Insurer Subsidiaries
+for Asbestos-Related Liabilities; (ii) reserves established to reflect Ceded
+Reinsurance for Asbestos-Related Liabilities; and (iii) reserves established for
+purposes of uncollectible reinsurance related to Asbestos-Related Liabilities.
+
+            "Reserving Methodologies" shall mean the methodologies, procedures,
+judgments and assumptions used by Travelers, its Affiliates and the Insurer
+Subsidiaries consistent with prior reserving policies or as required by
+Applicable Law, to calculate and establish Reserves with respect to the
+Asbestos-Related Liabilities.
+
+            "Rules" shall have the meaning set forth in Section 9.1 hereof.
+
+            "Second Quarter Carryforward" shall have the meaning set forth in
+Section 2.1(b).
+
+            "Subject Contracts" shall mean binders, certificates, contracts,
+policies, and coverage in place agreements and other written evidences of
+insurance and reinsurance issued or assumed by an Insurer Subsidiary; provided,
+however, "Subject Contracts" shall not include (i) any insurance, reinsurance or
+other contracts issued or assumed by the Insurer Subsidiaries on and after the
+Effective Date (except coverage in place agreements to the extent related to
+binders, certificates, contracts, policies or other written evidences of
+insurance issued or renewed prior to the Effective Date); (ii) any
+
+
+                                       7
+<PAGE>
+amendments or other modifications to the intercompany reinsurance pooling
+agreements among the Insurer Subsidiaries on or after the Effective Date, which
+amendment or modification functions, directly or indirectly, in any manner, to
+materially and adversely affect Citigroup's obligations hereunder and (iii) any
+unaffiliated books of business acquired by the Insurer Subsidiaries by portfolio
+transfer, reinsurance, merger, consolidation or otherwise on or after the
+Effective Date.
+
+            "Supplementary Report" shall have the meaning set forth in Section
+5.4(c).
+
+            "Tax Benefit Adjustment Amount" shall mean, with respect to any
+calendar quarter, a positive amount equal to the (i) the year to date Net
+Incurrals in excess of the Annual Retention Amount multiplied by (ii) the
+highest marginal rate of United States federal income tax applicable to
+Subchapter C corporations for the year which includes such quarter less (iii)
+any Tax Benefit Adjustment Amount determined in a prior calendar quarter in the
+same calendar year.
+
+            "Third-Party Indemnification Agreements" shall mean indemnification
+agreements provided by Persons not a party to this Indemnification Agreement
+which, directly or indirectly, indemnify Travelers, its Affiliates or the
+Insurer Subsidiaries for Asbestos-Related Liabilities.
+
+            "Third Quarter Carryforward" shall have the meaning set forth in
+Section 2.1(b).
+
+
+                                       8
+<PAGE>
+                                   ARTICLE II
+
+                            CITIGROUP INDEMNIFICATION
+
+            Section 2.1 Citigroup's Indemnification. (a) Subject to the
+limitations and other terms and conditions set forth in this Indemnification
+Agreement, Citigroup hereby agrees to indemnify Travelers for Net Incurrals in
+any individual calendar year in excess of the Annual Retention Amount for such
+year; provided, however, notwithstanding any other provision of this
+Indemnification Agreement to the contrary, the foregoing amounts shall be
+subject to reduction as set forth in subsection (b) of this Section 2.1 and to
+the Maximum Payment Amount set forth in subsection (c) of this Section 2.1.
+
+                  (b) The aggregate indemnification amount to be paid by
+Citigroup to Travelers pursuant to Section 2.1(a) in any calendar year shall be
+reduced by the sum of the Tax Benefit Adjustment Amounts for each calendar
+quarter in such year. The indemnification amount to be paid by Citigroup to
+Travelers pursuant to Section 2.1(a) shall be calculated for the calendar
+quarters in any calendar year as follows:
+
+      (1)   First calendar quarter: the Net Incurrals for such calendar quarter
+            less the Annual Retention Amount less the Tax Benefit Adjustment
+            Amounts for such calendar quarter. If the result of the foregoing
+            calculation is negative, (i) Citigroup shall have no indemnification
+            obligations with respect to Net Incurrals for such calendar quarter
+            and (ii) such amount shall be referred to as the "First Quarter
+            Carryforward."
+
+      (2)   Second calendar quarter: the Net Incurrals for such calendar quarter
+            less the absolute amount of the First Quarter Carryforward less the
+            Tax Benefit Adjustment Amount for such calendar quarter. If the
+            result of the foregoing
+
+
+                                       9
+<PAGE>
+            calculation is negative, (i) Citigroup shall have no indemnification
+            obligations with respect to Net Incurrals for such calendar quarter
+            and (ii) such amount shall be referred to as the "Second Quarter
+            Carryforward."
+
+      (3)   Third calendar quarter: the Net Incurrals for such calendar quarter
+            less the absolute amount of the Second Quarter Carryforward less the
+            Tax Benefit Adjustment Amount for such calendar quarter. If the
+            result of the foregoing calculation is negative, (i) Citigroup shall
+            have no indemnification obligations with respect to Net Incurrals
+            for such calendar quarter and (ii) such amount shall be referred to
+            as the "Third Quarter Carryforward."
+
+      (4)   Fourth calendar quarter: the Net Incurrals for such calendar quarter
+            less the absolute amount of the Third Quarter Carryforward less the
+            Tax Benefit Adjustment Amount for such calendar quarter. If the
+            result of the foregoing calculation is negative, Citigroup shall
+            have no indemnification obligations with respect to Net Incurrals
+            for such calendar year.
+
+If any of these quarterly calculations produce a positive amount, Citigroup
+shall remit said amount to Travelers in accordance with Article V.
+
+                  (c) IN NO EVENT SHALL CITIGROUP'S AGGREGATE INDEMNIFICATION
+OBLIGATIONS UNDER THIS INDEMNIFICATION AGREEMENT EXCEED AN AMOUNT EQUAL TO EIGHT
+HUNDRED MILLION DOLLARS ($800,000,000) LESS THE CUMULATIVE TAX BENEFIT
+ADJUSTMENT AMOUNT APPLIED TO THE NET INCURRALS RELATING TO AN AGGREGATE OF EIGHT
+HUNDRED MILLION DOLLARS ($800,000,000) OF ASBESTOS-RELATED INCURRALS IN RESPECT
+OF WHICH TRAVELERS WOULD BE ENTITLED TO AN INDEMNIFICATION PAYMENT UNDER SECTION
+2.1(a) (THE "MAXIMUM PAYMENT AMOUNT").
+
+
+                                       10
+<PAGE>
+                                  ARTICLE III
+
+                    ASBESTOS-RELATED INCURRALS; NET INCURRALS
+
+            Section 3.1 Establishment of Asbestos-Related Incurrals. The
+Reserves established and recorded on the books and records (prepared in
+accordance with either statutory accounting practices or GAAP) of Travelers or
+any of its Insurer Subsidiaries or other Affiliates for Asbestos-Related
+Liabilities shall be consistent with the Reserving Methodologies and in
+accordance with (or as required to be modified by) Applicable Laws and
+regulations. Paid activity plus the change in Reserve balances for each calendar
+quarter for all Asbestos-Related Liabilities, commencing with the quarter
+beginning January 1, 2002, shall be known as the "Asbestos-Related Incurrals"
+for such quarter. In no event shall "Asbestos-Related Incurrals" include paid
+activity and Reserves in respect of liabilities or estimated liabilities under a
+Subject Contract issued or renewed on or after the Effective Date or Reserves
+excluded by Section 3.2. It is understood that nothing in this Section 3.1 is
+intended to exclude paid activity and Reserves in respect of liabilities or
+estimated liabilities under future coverage in place agreements to the extent
+related to binders, certificates, contracts, policies or other written evidences
+of insurance issued or renewed prior to the Effective Date). Travelers shall
+provide in writing the aggregate amount of Reserves existing on the books of
+Travelers, its Affiliates and the Insurer Subsidiaries as of December 31, 2001.
+
+            Section 3.2 Exclusions from Asbestos-Related Incurrals.
+Asbestos-Related Incurrals shall not include Reserves for any Asbestos-Related
+Liabilities as determined in accordance with the Reserving Methodologies which
+arise under insurance, reinsurance or other contracts written by the Insurer
+Subsidiaries on or before the Effective Date but amended on or after the
+Effective Date, and only to the extent that
+
+
+                                       11
+<PAGE>
+the Asbestos-Related Liability would not have been covered under such insurance,
+reinsurance or other contracts prior to the effective date of such amendment
+based on the presence of an asbestos exclusion.
+
+            Section 3.3 Calculation of Net Incurrals. "Net Incurrals" shall mean
+all Asbestos-Related Incurrals net of all:
+
+                        (i) Reasonably anticipated salvage, subrogation and
+            other recoverables (other than in respect of Ceded Reinsurance); and
+
+                        (ii) Collectible Reinsurance.
+
+                                   ARTICLE IV
+
+                                     REPORTS
+
+            Section 4.1 Quarterly Reports. Within 45 calendar days after the
+close of each calendar quarter, Travelers shall deliver to the office of the
+Chief Financial Officer of Citigroup a report (a "Quarterly Report") in form and
+substance satisfactory to both parties hereto summarizing the Asbestos Related
+Incurrals and Net Incurrals, if any, for the quarter as well as the calculations
+necessary to arrive at the quarterly amount due from Citigroup according to this
+Indemnification Agreement.
+
+            Section 4.2 Additions to Quarterly Reports. In addition, Travelers
+shall provide such additional information and documentation as Citigroup may
+reasonably request; provided, however, in no event shall Travelers disclose
+documents or information privileged under the attorney client or work product
+privileges or a substantially similar privilege under Applicable Law.
+
+            Section 4.3 Certification of Quarterly Reports. The Chief Financial
+Officer of Travelers and the Appointed Actuary shall each certify that (i) the
+Asbestos-Related Incurrals and the Net Incurrals specified in each Quarterly
+Report have been
+
+
+                                       12
+<PAGE>
+established and recorded on the books and records of Travelers, its Affiliates
+or the Insurer Subsidiaries in a manner consistent with the Reserving
+Methodologies and in accordance with (or as required to be modified by)
+Applicable Laws and regulations and (ii) the Quarterly Report has been prepared
+in all respects in accordance with the terms and conditions of this Indemnity
+Agreement.
+
+            Section 4.4 Consultations Regarding Quarterly Reports. Prior to
+making any payments required to be made by Citigroup under this Indemnification
+Agreement, Travelers shall, at the request of Citigroup, make the Chief
+Financial Officer, General Counsel, Appointed Actuary or any other relevant
+employees of Travelers, its Affiliates and the relevant Insurer Subsidiaries
+reasonably available to Citigroup and its representatives for consultation with
+respect to each Quarterly Report; provided, however, in no event shall Travelers
+disclose documents or information privileged under the attorney client or work
+product privileges or a substantially similar privilege under Applicable Law.
+
+            Section 4.5 Confidentiality of Reports. Except as otherwise required
+by law, by governmental or regulatory authorities, in response to court order,
+for dispute resolution purposes in accordance with Section 5.4 herein or upon
+the prior written consent of Travelers or as provided in the next sentence, all
+non-public information included in all Quarterly Reports provided pursuant to
+Section 4.1 hereof, the certifications provided pursuant to Section 4.3 hereof
+and non-public information shared as part of the consultations contemplated by
+Section 4.4 hereof (i) shall be kept confidential by Citigroup and Citigroup's
+directors, officers, employees, agents and representatives, (ii) shall not be
+disclosed to any other Person, and (iii) shall only be used
+
+
+                                       13
+<PAGE>
+for the purposes provided herein. Notwithstanding the foregoing, non-public
+information included in a Quarterly Report may be disclosed to outside auditors
+of Citigroup; provided, however, that, prior to disclosure to any such auditors,
+Citigroup shall obtain a written agreement in which the entity that will receive
+such information agrees that all such non-public information shall be kept
+confidential by such entity and its directors, officers, employees, agents and
+representatives and shall not be disclosed to any other person or entity (except
+as otherwise required by law, by governmental or regulatory authorities, in
+response to court order, for dispute resolution purposes in accordance with
+Section 5.4 herein, or upon the prior written consent of Travelers).
+
+
+                                       14
+<PAGE>
+                                   ARTICLE V
+
+                                  REMITTANCES
+
+            Section 5.1 Payments. On or before the 60th calendar day after
+Citigroup's receipt of the Quarterly Report or a Supplementary Report, the
+current balance, if any, shown to be due by Citigroup will be due and payable by
+Citigroup. The current balance of Reimbursable Net Incurrals, if any, shown to
+be due from Travelers to Citigroup shall be due and payable 60 calendar days
+after the date of the Quarterly Report or a Supplementary Report showing such a
+balance to be due.
+
+            Section 5.2 Interest Payments. If and to the extent that Citigroup
+or Travelers, as the case may be, does not make any payment when due hereunder,
+the non-paying party shall pay to the other party interest on any such unpaid
+amount, from the date on which such amount is due until such amount is paid in
+full, at a rate equal to the Overdue Rate, in addition to all other remedies, at
+law or in equity, available to Travelers or Citigroup, as the case may be, by
+reason of such non-payment.
+
+            Section 5.3 Reimbursable Net Incurrals. Any portion of Net Incurrals
+previously paid to Travelers pursuant to this Indemnification Agreement shall be
+returned to Citigroup in the manner set forth in this Article V if the payment
+was inappropriately made due to an error in the calculation or application of
+the Reserving Methodologies or the preparation of the Quarterly Report. Portions
+of Net Incurrals so reimbursed to Citigroup shall be known as "Reimbursable Net
+Incurrals".
+
+            Section 5.4 Disputes. (a) If within 60 days of its receipt of a
+Quarterly Report or Supplementary Report Citigroup notifies Travelers in writing
+(a "Dispute Notice") that it disputes the amount of Net Incurrals shown on such
+Quarterly Report or Supplementary Report, the parties will, to the extent
+practicable, confer in good faith to resolve such dispute. Notwithstanding the
+issuance of a Dispute Notice by Citigroup, all
+
+
+                                       15
+<PAGE>
+payments are due as provided in Section 5.1. The Dispute Notice shall identify
+the Asbestos-Related Liabilities so disputed (the "Disputed Asbestos-Related
+Liabilities"), including, but not limited to, whether the Disputed
+Asbestos-Related Liabilities are based upon reserves for IBNR claims or reserves
+for reported claims. If Citigroup has delivered a Dispute Notice, and Travelers
+and Citigroup are unable to resolve the disagreement within fifteen (15)
+calendar days after delivery of the Dispute Notice, then the disagreement shall
+be resolved by arbitration in accordance with Article IX hereof. Citigroup shall
+submit the Dispute Notice, if any, within 60 days of its receipt of the
+Quarterly Report or Supplementary Report which gives rise to the dispute;
+provided, however, the failure by Citigroup to provide a Dispute Notice in a
+timely manner shall not preclude Citigroup's rights under this Section 5.4 to
+dispute any amount shown on any Quarterly Notice or Supplementary Report at any
+time prior to termination of this Indemnification Agreement pursuant to Article
+VII. Dispute Notices relating to errors in the calculation or application of the
+Reserving Methodologies which may give rise to Reimbursable Net Incurrals shall
+be submitted within 60 days of Citigroup's receipt of the Quarterly Report or
+Supplementary Report showing such error. Citigroup understands and acknowledges
+that in the event of any dispute or arbitration hereunder, Citigroup will not be
+given access to or require any documents belonging to Travelers, its Affiliates
+or the Insurer Subsidiaries which are subject to the attorney client or work
+product privileges or a substantially similar privilege under Applicable Law.
+
+                  (b) In the event there are Disputed Asbestos-Related
+Liabilities, the arbitral tribunal established pursuant to the provisions of
+Article IX hereof shall determine whether Travelers calculated the amount of Net
+Incurrals shown on such
+
+
+                                       16
+<PAGE>
+Quarterly Report or Supplementary Report in accordance with this Indemnification
+Agreement. If the arbitral tribunal agrees, in whole or in part, with an
+objection of Citigroup under this Section 5.4, the amounts determined by the
+arbitral tribunal to have not been calculated by Travelers in accordance with
+this Indemnification Agreement shall be refunded by Travelers together with
+interest on such previously paid amounts from the date on which they were
+previously paid in full by Citigroup until they are repaid in full to Citigroup
+at a rate equal to the Overdue Rate. If the arbitral tribunal disagrees, in
+whole or in part, with an objection of Citigroup under this Section 5.4,
+Travelers shall retain the amounts previously paid to the extent determined by
+the arbitral tribunal to have been calculated by Travelers in accordance with
+this Indemnification Agreement and, if Citigroup shall be required to pay any
+additional amounts determined by the arbitral tribunal to have been calculated
+by Travelers in accordance with this Indemnification Agreement, Citigroup shall
+pay such amounts, together with interest on such amounts from the date on which
+such amounts were due hereunder (being fifteen (15) calendar days after delivery
+of the Quarterly Report(s) or Supplementary Reports containing the disputed
+amounts) until such amounts are paid to Travelers in full at a rate equal to the
+Overdue Rate.
+
+                  (c) Upon a change in facts or circumstances with respect to
+the Net Incurrals that were the subject of a Quarterly Report, Dispute Notice,
+and prior Arbitration pursuant to Article IX hereof, Travelers may issue a
+supplementary report citing the additional and/or changed facts and
+circumstances that support said Net Incurrals ("Supplementary Report"). If
+Citigroup disputes the Supplementary Report, the
+
+
+                                       17
+<PAGE>
+dispute provisions of Sections 5.4(a) and (b), above, and Article IX shall then
+apply to the Supplementary Report.
+
+                                   ARTICLE VI
+
+                              ENFORCEMENT OF RIGHTS
+
+            Section 6.1 Enforcement of Rights. Travelers shall cause each of the
+Affiliates and Insurer Subsidiaries to enforce, consistent with its ordinary
+course of business practices, its rights to collect (i) any and all Ceded
+Reinsurance in respect of any of the Asbestos-Related Liabilities; (ii) any and
+all salvage, subrogation and other recoveries in respect of any of the
+Asbestos-Related Liabilities; (iii) any and all profit-sharing, experience
+rating, retro-sharing or other similar premium adjustments recoverable in
+respect of any of the Asbestos-Related Liabilities; and (iv) any payments due to
+Travelers, its Affiliates and/or the Insurer Subsidiaries under the Third Party
+Indemnification Agreements, hold harmless or similar agreements in respect of
+the Asbestos-Related Liabilities. Citigroup acknowledges that all final
+determinations with respect to the exercise of such rights shall be made by
+Travelers, its Affiliates and/or the Insurer Subsidiaries, as applicable, in its
+sole discretion.
+
+                                  ARTICLE VII
+
+                          COMMENCEMENT AND TERMINATION
+
+            Section 7.1 Commencement and Termination. (a) This Indemnification
+Agreement will take effect on the Effective Date.
+
+                  (b) This Indemnification Agreement will remain in full force
+and effect for a period ending on the earliest of (i) the natural expiry of all
+of Travelers', its Affiliates' and the Insurer Subsidiaries' liabilities with
+respect to Asbestos-Related Liabilities; (ii) two years after such date as of
+which Citigroup has made aggregate
+
+
+                                       18
+<PAGE>
+payments under this Indemnification Agreement equal to the Maximum Payment
+Amount, provided that the parties agree there are no amounts in respect of
+Reimbursable Net Incurrals that are likely to become due; and (iii) such other
+date as may be mutually agreed by Citigroup and Travelers.
+
+                  (c) In the event of the termination of this Indemnification
+Agreement pursuant to the preceding paragraph, this Indemnification Agreement
+shall have no further effect, and there shall be no liability hereunder on the
+part of any party hereto, except that no termination of this Indemnification
+Agreement in accordance with the preceding paragraph shall affect the parties'
+obligations to resolve, pursuant to Section 5.4, any dispute commenced pursuant
+to a Dispute Notice under Section 5.4 delivered prior to the termination of this
+Indemnification Agreement, or any arbitration procedure pursuant to Article IX
+commenced prior to the termination of this Indemnification Agreement.
+Additionally, no termination of this Indemnification Agreement in accordance
+with the preceding paragraph shall affect the parties' obligations pursuant to
+the confidentiality provisions of Section 8.1.
+
+                                  ARTICLE VIII
+
+                                 CONFIDENTIALITY
+
+            Section 8.1 Confidentiality. (a) All non-public information,
+documents and records made available to one party by the other under this
+Indemnification Agreement (the "Confidential Material") shall be solely for the
+purpose of allowing each party hereto to assert its rights and perform its
+obligations under this Indemnification Agreement and not for the purpose of
+instituting, changing or otherwise affecting its own business or competitive
+practices that are unrelated thereto. Under no circumstances shall such
+disclosure be deemed a waiver of any rights or privileges in any
+
+
+                                       19
+<PAGE>
+such Confidential Material to which a party may be entitled including, without
+limitation, the attorney client privilege and work product protection or a
+substantially similar privilege under Applicable Law. The Confidential Material
+shall not include (with respect to either party) information, documents and
+records of such party or any portion thereof which was or becomes generally
+available to the other party on a non-confidential basis; provided, that the
+source of such information, documents or records was not bound by a
+confidentiality agreement or other obligation of confidentiality.
+
+                  (b) Each party hereto agrees that it will maintain the
+Confidential Material received from the other party in confidence; provided,
+that each party may disclose the Confidential Material or portions thereof to
+its directors, officers, representatives and employees and the directors,
+officers and employees of its Affiliates.
+
+                  (c) If either party or any individual or entity obtaining
+Confidential Material in accordance with this Indemnification Agreement
+(collectively, "recipient") is legally requested or required under an order or
+subpoena issued by a court, administrative agency or arbitration panel to
+disclose any Confidential Material, the recipient shall provide the other party
+hereto with prompt written notice of the request, requirement, subpoena or order
+to permit such party (if it so elects) to seek an appropriate protective order
+preventing or limiting disclosure. If such other party seeks such an order or
+takes other steps to avoid or limit disclosure, the recipient shall cooperate
+with such other party at such other party's expense. If, in the absence of such
+protective order, the recipient is compelled to disclose Confidential Material,
+the recipient may disclose such Confidential Material without liability
+hereunder.
+
+
+                                       20
+<PAGE>
+                  (d) Each party hereto agrees that money damages would not be
+sufficient remedy for any breach of these confidentiality provisions by the
+other party, its Affiliates or their respective directors, officers,
+representatives and employees, and that in addition to all other remedies, each
+party shall be entitled to specific performance and injunctive or other
+equitable relief as a remedy for any such breach.
+
+                                   ARTICLE IX
+
+                                   ARBITRATION
+
+            Section 9.1 Arbitration. (a) Any dispute, controversy or claim
+between Citigroup and Travelers arising out of or relating to this
+Indemnification Agreement, or the breach, termination or validity thereof
+("Dispute"), shall be finally settled by arbitration in accordance with the
+Commercial Arbitration Rules of the American Arbitration Association ("AAA")
+then in effect, as may be modified by the arbitral tribunal (the "Rules"). The
+arbitration shall be held at a mutually agreeable time and place.
+
+                  (b) There shall be three disinterested arbitrators, of whom
+Citigroup shall appoint one and Travelers shall appoint one within 30 days of
+receipt by the respondent of the demand for arbitration. The two arbitrators so
+appointed shall be retired or active executives within the insurance or
+reinsurance industry or Fellows of the Casualty Actuarial Society and they shall
+select the neutral chair of the arbitral tribunal within 30 days of the
+appointment of the second arbitrator. The neutral chair of the tribunal selected
+in accordance with the previous sentence shall be a practicing attorney with no
+less than ten years of experience and an experienced arbitrator, if possible
+with experience relating to insurance and reinsurance disputes, or a retired
+judge. If either party fails or refuses to appoint its arbitrator within the
+time limit provided herein, the
+
+
+                                       21
+<PAGE>
+other party may appoint an arbitrator for such party. If the two arbitrators
+fail to select the neutral chair of the arbitral tribunal as provided herein,
+the neutral chair shall be selected in accordance with the ARIAS-U.S. Umpire
+Appointment Procedures (Umpire List option).
+
+                  (c) In the absence of agreement by the parties as to
+pre-hearing discovery, the arbitral tribunal shall order such discovery as it
+determines to be consistent with the needs of the parties taking in to account
+the expedited nature of arbitration. The hearing shall be held, if possible, no
+later than one-hundred fifty (150) days after the appointment of the arbitral
+tribunal. The arbitral tribunal shall be required to follow the law of the State
+of New York, except that it shall apply the statutory reserving requirements of
+the domiciliary states of the Insurer Subsidiaries.
+
+                  (d) By agreeing to arbitration, the parties do not intend to
+deprive any court of its jurisdiction to issue a pre-arbitral injunction,
+pre-arbitral attachment, or other order in aid of arbitration proceedings and
+the enforcement of any award. Without prejudice to such provisional remedies as
+may be available under the jurisdiction of a court, the arbitral tribunal shall
+have full authority to grant provisional remedies and to direct the parties to
+request that any court modify or vacate any temporary or preliminary relief
+issued by such court, and to award damages for the failure of any party to
+respect the arbitral tribunal's orders to that effect. Any arbitration
+proceedings, decision or award rendered hereunder and the validity, effect and
+interpretation of this arbitration agreement shall be governed by the Federal
+Arbitration Act, 9 U.S.C. Section 1 et seq. The arbitral tribunal is not
+empowered to render declaratory awards, or to award damages in excess of
+compensatory damages, and each
+
+
+                                       22
+<PAGE>
+party hereby irrevocably waives any right to recover punitive, exemplary or
+similar damages with respect to any Dispute. Each party shall pay the fees and
+expenses of its own arbitrator and shall equally share the fees and expenses of
+the neutral chair, and the parties shall otherwise bear their own fees and
+expenses in the arbitration. The award, which shall be a reasoned award stating
+the findings of fact and conclusions of law on which it is based, shall be final
+and binding upon the parties only as to the facts and circumstances presented by
+the Quarterly Report or Supplementary Report at issue and shall be the sole and
+exclusive remedy between the parties regarding any claims, counterclaims, issues
+or accounting presented to the arbitral tribunal. Judgment upon any award may be
+entered in any court having jurisdiction.
+
+
+                                       23
+<PAGE>
+                                   ARTICLE X
+
+               THIRD PARTY BENEFICIARIES; ASSIGNMENTS AND SURVIVAL
+
+            Section 10.1 Third Party Beneficiaries. This Indemnification
+Agreement is an agreement solely among Citigroup and Travelers, and the specific
+performance of the obligations of each party under this Indemnification
+Agreement shall be rendered solely to the other party. Nothing in this
+Indemnification Agreement, express or implied, is intended to or shall confer
+upon any Person, including but not limited to, the Insurer Subsidiaries, other
+than the parties hereto any rights, benefits or remedies of any nature
+whatsoever under or by reason of this Indemnification Agreement.
+
+            Section 10.2 Assignments and Delegations. This Indemnification
+Agreement may not be assigned or delegated, in whole or in part, by either party
+without the prior written consent of the other party. Subject to the foregoing,
+this Indemnification Agreement shall be binding upon and inure to the benefit of
+the parties hereto and their respective successors and assigns.
+
+            Section 10.3 Survival. Notwithstanding anything herein to the
+contrary, the provisions of this Indemnification Agreement shall survive any
+direct or indirect sale or exchange of capital stock, merger, consolidation,
+sale or transfer of assets, business combination or other change in control of,
+or change in the form of business conducted by, Travelers or Citigroup.
+
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+            Section 11.1 Governing Law. This Indemnification Agreement shall be
+governed by and construed in accordance with the laws of the State of New York,
+without regard to such jurisdiction's principles of conflicts of laws that would
+compel the application of the laws of another jurisdiction.
+
+
+                                       24
+<PAGE>
+            Section 11.2 Notices. Any notice or other communication hereunder
+shall be in writing and delivered in person or by courier, telegraphed, telexed
+or by facsimile transmission or mailed by certified mail, postage prepaid,
+return receipt requested, as follows:
+
+            If to Travelers:
+
+            Travelers Property Casualty Corp.
+            One Tower Square
+            Hartford, Connecticut 06183
+            Attention:  Chief Financial Officer
+            Telephone:  (860) 277-0111
+            Facsimile:  (860) 277-8123
+
+            With a copy to:
+
+            Travelers Property Casualty Corp.
+            One Tower Square
+            Hartford, Connecticut 06183
+            Attention:  General Counsel
+            Telephone:  (860) 277-6127
+            Facsimile:  (860) 277-8123
+
+
+                                       25
+<PAGE>
+            If to Citigroup:
+
+            Citigroup Inc.
+            399 Park Avenue
+            New York, New York 10022
+            Attention:  Chief Financial Officer
+            Telephone:  (212) 793-8880
+            Facsimile:  (212) 793-5368
+
+            With a copy to:
+
+            Citigroup Inc.
+            399 Park Avenue
+            New York, New York 10022
+            Attention:  General Counsel
+            Telephone:  (212) 793-7855
+            Facsimile:  (212) 793-3430
+
+Or to such other place as Citigroup or Travelers may designate as to Citigroup
+or Travelers, respectively, by written notice to the other.
+
+            Section 11.3 Entire Agreement; Amendments. This Indemnification
+Agreement, including any schedules or exhibits annexed hereto, constitutes the
+entire agreement and understanding between the parties pertaining to the subject
+matter hereof and supersedes all prior agreements, understandings, negotiations
+and discussions, whether oral or written, between the parties hereto. There are
+no restrictions, promises, representations, warranties, covenants or
+undertakings, other than those expressly set forth or referred to herein.
+Subject to Applicable Law, this Indemnification Agreement may be amended,
+modified or supplemented only by written agreement executed by the parties
+hereto.
+
+
+                                       26
+<PAGE>
+            Section 11.4 Counterparts. This Indemnification Agreement may be
+executed in counterparts, each of which shall be deemed an original, but all of
+which shall constitute one and the same agreement.
+
+            Section 11.5 Currency. Whenever the word "dollars" or the sign $
+appear in this Indemnification Agreement, they shall be construed to mean United
+States Dollars.
+
+            Section 11.6 Headings. The headings of the Articles and the sections
+herein are inserted for convenience of reference only, and are not intended to
+be a party of or to affect the meaning or interpretation of this Indemnification
+Agreement.
+
+            Section 11.7 No Waiver. No consent or waiver, express or implied, by
+any party to or of any breach or default by any other party in the performance
+by such other party of its obligations hereunder shall be deemed or construed to
+be a consent or waiver to or of any other breach or default in the performance
+of obligations hereunder by such other party hereunder. Failure on the part of
+any party to complain of any act or failure to act of any other party or to
+declare any other party in default, irrespective of how long such failure
+continues, shall not constitute a waiver by such first party of any of its
+rights hereunder.
+
+
+                                       27
+<PAGE>
+            IN WITNESS WHEREOF, the parties hereto have caused this
+Indemnification Agreement to be executed on their behalf by their respective
+officers thereunto duly authorized as of the date first written above.
+
+                                        CITIGROUP INC.
+
+                                        By:
+                                           -------------------------------------
+                                           Name:
+                                           Title:
+
+
+                                        TRAVELERS PROPERTY CASUALTY CORP.
+
+                                        By:
+                                           -------------------------------------
+                                           Name:
+                                           Title:
+
+
+
+
+</TEXT>
+</DOCUMENT>

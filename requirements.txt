@@ -1,0 +1,6 @@
+requests
+sec-api
+python-dotenv
+aiohttp
+asyncio
+nest_asyncio

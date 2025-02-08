@@ -1,0 +1,3152 @@
+<DOCUMENT>
+<TYPE>EX-10.54
+<SEQUENCE>10
+<FILENAME>dex1054.txt
+<DESCRIPTION>ASSET TRANSFER AND ACQUISITION AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.54
+
+Confidential
+
+                                                                  Execution Copy
+
+                    ASSET TRANSFER AND ACQUISITION AGREEMENT
+
+                                  By and Among
+
+             ALLMERICA FINANCIAL LIFE INSURANCE AND ANNUITY COMPANY,
+
+                FIRST ALLMERICA FINANCIAL LIFE INSURANCE COMPANY,
+
+                                       and
+
+                       JOHN HANCOCK LIFE INSURANCE COMPANY
+
+                          Dated as of December 31, 2002
+
+[*] Portions of this exhibit have been omitted pursuant to a confidential
+treatment request. An unredacted version of this exhibit has been filed
+separately with the Securities and Exchange Commission.
+
+<PAGE>
+
+
+Confidential
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                           <C>
+ARTICLE I DEFINITIONS ......................................................................   2
+   Section 1.01 Definitions ................................................................   2
+
+ARTICLE II TRANSFER AND ACQUISITION OF ASSETS ..............................................  11
+   Section 2.01 Notional Operating Account..................................................  11
+   Section 2.02 Acquisition of Transferred Assets, Estimated Notional Account
+                Balance and Assumption of Assumed Liabilities...............................  13
+   Section 2.03 Place and Date of Closing ..................................................  14
+   Section 2.04 Post-Closing Adjustments....................................................  14
+   Section 2.05 Closing Items...............................................................  16
+
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF SELLERS ......................................  17
+   Section 3.01 Organization, Standing and Authority of Sellers ............................  17
+   Section 3.02 Authorization ..............................................................  17
+   Section 3.03 Actions and Proceedings ....................................................  17
+   Section 3.04 No Conflict or Violation ...................................................  18
+   Section 3.05 Governmental Consents and Approvals ........................................  18
+   Section 3.06 Computer Software and Intellectual Property. ...............................  18
+   Section 3.07 Brokerage and Financial Advisers ...........................................  19
+   Section 3.08 Compliance with Laws .......................................................  19
+   Section 3.09 Permits, Licenses and Franchises ...........................................  19
+   Section 3.10 Coinsured Contracts. .......................................................  20
+   Section 3.11 Regulatory Filings .........................................................  20
+   Section 3.12 Reinsurance ................................................................  21
+   Section 3.13 Conduct of Business ........................................................  21
+   Section 3.14 Absence of Certain Changes .................................................  21
+   Section 3.15 Other Sale Arrangements ....................................................  21
+   Section 3.16 Reserved. ..................................................................  21
+   Section 3.17 Employees ..................................................................  21
+   Section 3.18 Transferred Assets .........................................................  21
+   Section 3.19 GAAP Financial Statements ..................................................  22
+   Section 3.20 Statutory Statements .......................................................  22
+   Section 3.21 Tax Matters ................................................................  22
+   Section 3.22 Disaster Recovery Backup ...................................................  23
+   Section 3.23 Pro Forma Financial Statements .............................................  23
+
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF PURCHASER .....................................  23
+   Section 4.01 Organization and Standing ..................................................  23
+   Section 4.02 Authorization ..............................................................  23
+   Section 4.03 Actions and Proceedings ....................................................  24
+   Section 4.04 No Conflict or Violation ...................................................  24
+   Section 4.05 Governmental Consents and Approvals ........................................  24
+   Section 4.06 Brokerage and Financial Advisers ...........................................  25
+   Section 4.07 Compliance with Laws .......................................................  25
+   Section 4.08 Permits, Licenses and Franchises ...........................................  25
+   Section 4.09 Sufficient Funds ...........................................................  25
+
+ARTICLE V COVENANTS.........................................................................  25
+   Section 5.01 Conduct of Business. .......................................................  25
+</TABLE>
+
+                                       i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                           <C>
+   Section 5.02 Certain Transactions .......................................................  27
+   Section 5.03 Investigations; Pre-Closing Access. .......................................   27
+   Section 5.04 Post-Closing Access .......................................................   28
+   Section 5.05 Consents and Reasonable Efforts ...........................................   29
+   Section 5.06 Further Assurances. .......................................................   30
+   Section 5.07 Expenses ..................................................................   30
+   Section 5.08 Indemnity Coinsurance Agreement ...........................................   30
+   Section 5.09 Administrative Services Agreement .........................................   30
+   Section 5.10 Transition Servicing Agreement ............................................   30
+   Section 5.11 Bill of Sale and General Assignment Agreement .............................   30
+   Section 5.12 Reserved. .................................................................   30
+   Section 5.13 License Agreements ........................................................   31
+   Section 5.14 Reinsurance Treaties ......................................................   31
+   Section 5.15 Reserved. .................................................................   31
+   Section 5.16 Reserved. .................................................................   31
+   Section 5.17 Tax Allocation. ...........................................................   31
+   Section 5.18 Reserved. .................................................................   32
+   Section 5.19 Reserved. .................................................................   32
+   Section 5.20 Licensed Software and Transition Support. .................................   32
+   Section 5.21 Confidentiality ...........................................................   34
+   Section 5.22 Systems ...................................................................   35
+   Section 5.23 Updated Financial Information .............................................   35
+   Section 5.24 Reserved. .................................................................   35
+   Section 5.25 Reinsurance Treaty ........................................................   35
+   Section 5.26 Forty-Nine State Closing; NY Closing ......................................   35
+
+ARTICLE VI CONDITIONS PRECEDENT TO THE OBLIGATION OF PURCHASER TO CLOSE ...................   36
+   Section 6.01 Covenants, Representations and Warranties. ................................   36
+   Section 6.02 Other Agreements ..........................................................   37
+   Section 6.03 Governmental and Regulatory Consents and Approvals ........................   37
+   Section 6.04 Possession of Assets; Instruments of Conveyance ...........................   37
+   Section 6.05 Notional Operating Account Balance ........................................   37
+   Section 6.06 Litigation ................................................................   37
+   Section 6.07 Injunction ................................................................   37
+   Section 6.08 Reserved. .................................................................   37
+   Section 6.09 Reserved. .................................................................   37
+   Section 6.10 Reserved. .................................................................   37
+   Section 6.11 General Account Reserves ..................................................   38
+
+ARTICLE VII CONDITIONS PRECEDENT TO THE OBLIGATION OF SELLERS TO CLOSE ....................   38
+   Section 7.01 Covenants, Representations and Warranties. ................................   38
+   Section 7.02 Other Agreements ..........................................................   38
+   Section 7.03 Governmental and Regulatory Consents and Approvals ........................   38
+   Section 7.04 Notional Operating Account Balance ........................................   39
+   Section 7.05 Injunction ................................................................   39
+   Section 7.06 Litigation ................................................................   39
+
+ARTICLE VIII FURTHER AGREEMENTS ...........................................................   39
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                           <C>
+   Section 8.01 Maintenance of Coinsured Contracts ........................................   39
+   Section 8.02 Tax Reimbursement. ........................................................   39
+   Section 8.03 Asset Adequacy Testing ....................................................   40
+   Section 8.04 Post Closing Letter .......................................................   41
+
+ARTICLE IX SURVIVAL OF REPRESENTATIONS AND WARRANTIES .....................................   41
+   Section 9.01 Survival of Representations and Warranties ................................   41
+
+ARTICLE X INDEMNIFICATION .................................................................   41
+   Section 10.01 Obligations of Sellers to Indemnify ......................................   41
+   Section 10.02 Obligation of Purchaser to Indemnify .....................................   42
+   Section 10.03 Notice of Loss, Asserted Liability .......................................   42
+   Section 10.04 Opportunity to Contest ...................................................   43
+   Section 10.06 Sole Remedy ..............................................................   44
+   Section 10.07 Certain Reductions; Subrogation Rights ...................................   44
+   Section 10.08 Indemnification Payments .................................................   44
+   Section 10.09 Effect of Indemnification ................................................   44
+   Section 10.10 Parent Indemnification ...................................................   44
+
+ARTICLE XI TERMINATION PRIOR TO CLOSING ...................................................   44
+   Section 11.01 Termination of Agreement .................................................   45
+   Section 11.02 Survival .................................................................   45
+
+ARTICLE XII MISCELLANEOUS .................................................................   45
+   Section 12.01 Publicity ................................................................   45
+   Section 12.02 Confidentiality ..........................................................   45
+   Section 12.03 Notices ..................................................................   46
+   Section 12.04 Entire Agreement .........................................................   47
+   Section 12.05 Waivers and Amendments; Non-Contractual Remedies; Preservation
+                 of Remedies ..............................................................   47
+   Section 12.06 Governing Law ............................................................   47
+   Section 12.07 Binding Effect; Assignment ...............................................   47
+   Section 12.08 Interpretation. ..........................................................   48
+   Section 12.09 No Third Party Beneficiaries .............................................   48
+   Section 12.10 Counterparts .............................................................   48
+   Section 12.11 Other Agreements, Exhibits and Schedules .................................   48
+   Section 12.12 Headings .................................................................   48
+   Section 12.13 Dollar References ........................................................   48
+</TABLE>
+
+                                      iii
+
+<PAGE>
+
+                                    EXHIBITS
+
+Exhibit A         -        Form of Coinsurance Agreement
+Exhibit B         -        Form of Administrative Services Agreement
+Exhibit C         -        Form of Transition Servicing Agreement
+Exhibit D         -        Form of Bill of Sale and General Assignment Agreement
+Exhibit E         -        [Deleted]
+Exhibit F         -        Modified Endowment Contracts
+Exhibit G         -        Form of Software License Agreement
+Exhibit H         -        Form of Trademark License Agreement
+Exhibit I         -        Form of Copyright License Agreement
+
+                               INDEX OF SCHEDULES
+
+Schedule 1.01(a)           -        [*] Policies
+
+Schedule 1.01(e)           -        Coinsured Contracts
+
+Schedule 1.01(f)           -        Pro Forma Financial Statements
+
+Schedule 1.01(i)           -        Purchaser Key People
+
+Schedule 1.01(j)           -        Seller Key People
+
+Schedule 1.01(k)           -        Coinsured Contract Liabilities
+
+Schedule 2.01(a)(1)        -        Notional Operating Account Cash Flows
+
+Schedule 2.01(b)           -        Investment Assets
+
+Schedule 4.03              -        Actions and Proceedings
+
+Schedule 4.04              -        Conflicts or Violations
+
+Schedule 4.05              -        Governmental Consents and Approvals
+
+Schedule 4.08              -        Permits, Licenses and Franchises
+
+Schedule 5.01(a)           -        Conduct of Business
+
+Schedule 5.05              -        Purchaser Approvals and Consents
+
+Schedule 5.14              -        Reinsurance Treaties
+
+                                       iv
+
+<PAGE>
+
+                                                                   Exhibit 10.54
+
+Confidential
+
+                    ASSET TRANSFER AND ACQUISITION AGREEMENT
+
+     This ASSET TRANSFER AND ACQUISITION AGREEMENT (this "Agreement"), dated as
+of December 31, 2002, is entered into by and among Allmerica Financial Life
+Insurance and Annuity Company, a Massachusetts domiciled stock life insurance
+company ("AFLIAC"), First Allmerica Financial Life Insurance Company, a
+Massachusetts domiciled stock life insurance company ("FAFLIC" and together with
+AFLIAC, the "Sellers" and each a "Seller"), and John Hancock Life Insurance
+Company, a Massachusetts domiciled stock life insurance company ("Purchaser").
+The parties agree that this Agreement shall be effective as of 11:59 p.m. (EST)
+on December 31, 2002.
+
+                                    RECITALS:
+
+     WHEREAS, upon the terms and subject to the conditions of this Agreement,
+Sellers wish to sell, and Purchaser wishes to acquire, certain of the assets and
+liabilities associated with the fixed universal life insurance policies and
+certain other assets of Sellers, as described below. At the Closing, each Seller
+and Purchaser will enter into a Coinsurance Agreement (as defined below)
+relating to the coinsurance by Purchaser of the Coinsured Contracts (as defined
+below); and
+
+     WHEREAS, Sellers have retained an independent financial advisor to conduct
+a competitive process to identify a reinsurer of the Indemnity Coinsured
+Contracts (as defined below) that offered the most favorable terms to Sellers;
+and
+
+     WHEREAS, Sellers, after consultation with their independent financial
+advisor, Goldman, Sachs & Co., have determined that it is in the best interests
+of their stockholders and policyholders that they enter into a coinsurance
+relationship with Purchaser, a life insurance company which is not an Affiliate
+of the Sellers; and
+
+     WHEREAS, AFLIAC and FAFLIC desire to cede and transfer to Purchaser, on a
+100% coinsurance basis, liabilities of AFLIAC and FAFLIC under the Coinsured
+Contracts; and
+
+     WHEREAS, Sellers desire that Purchaser perform a number of administrative
+functions on behalf of AFLIAC and FAFLIC after the Closing Date with respect to
+the Coinsured Contracts including but not limited to Outward Reinsurance
+Agreements (as defined below), and Purchaser has agreed to provide such services
+pursuant to the terms of the Administrative Services Agreement (as defined
+below); and
+
+     WHEREAS, the parties recognize that the transfer of operations systems
+necessary for Purchaser to perform its obligations fully under the
+Administrative Services Agreement will occur over a period of time during which
+Purchaser desires to subcontract with AFLIAC and FAFLIC under the Transition
+Servicing Agreement (defined below) to perform some or all administrative
+services; and
+
+     WHEREAS, upon the terms and subject to the conditions of this Agreement, at
+the Closing (as defined below) the parties hereto will execute and deliver the
+following agreements and instruments dated as of the Closing Date (as defined
+below) or a date prior thereto: (i)
+
+<PAGE>
+
+Purchaser and each Seller shall enter into an Indemnity Coinsurance Agreement,
+providing for, upon the terms and conditions and for the consideration set forth
+therein, the reinsurance on a 100% coinsurance basis as of the Effective Date
+(as defined below) by Purchaser of the General Account Liabilities (as defined
+below), net of reinsurance recoverables under the Unassigned Outward Reinsurance
+Agreements (as defined below), of Sellers under the Coinsured Contracts (as
+defined below); (ii) Purchaser and Sellers shall enter into the Transition
+Servicing Agreement, providing for the provision of any services to the
+Coinsured Contracts (as defined below) that are currently provided and requested
+by Purchaser as necessary to enable Purchaser to administer the Coinsured
+Contracts (as defined below) for a period not to exceed 12 months; (iii)
+Purchaser and AFLIAC and FAFLIC, respectively, shall enter into an
+Administrative Services Agreement, providing for the servicing by Purchaser of
+the Coinsured Contracts, (iv) Sellers shall execute and deliver to Purchaser all
+necessary instruments of transfer, including but not limited to the Bill of Sale
+(as defined below); and (v) Sellers and Purchaser shall enter into the Software,
+Trademark and Copyright License Agreements (as defined below).
+
+     NOW, THEREFORE, in consideration of the mutual promises and covenants set
+forth herein and other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, and in reliance upon the
+representations, warranties, conditions and covenants contained herein, and
+intending to be legally bound hereby, the parties hereto do hereby agree as
+follows:
+
+                                   ARTICLE I
+
+                                   DEFINITIONS
+
+     Section 1.01 Definitions. The following terms shall have the respective
+meanings set forth below throughout this Agreement:
+
+     "Additional Liability Reserve" shall mean an aggregate amount equal to [*]
+comprised of liability relating to (a) certain Coinsured Contracts and (b) the
+surrender value relating to certain partial withdrawals relating to Coinsured
+Contracts.
+
+     "Adjusted Ceding Commission" means the Ceding Commission as adjusted to
+reflect the actual closing level of General Account Reserves, and Tax Reserves
+as follows:
+
+          (a) To the extent that Tax Reserves as of the Effective Date are lower
+          than General Account Reserves as of the Effective Date for the
+          Coinsured Contracts by an amount greater than three million dollars
+          ($3,000,000), the Ceding Commission will be lowered by an amount equal
+          to 35% of the amount by which such difference is in excess of three
+          million dollars ($3,000,000).
+
+          (b) In the event that the Interest Maintenance Reserve shown on the
+          Effective Date Statement is less than the Interest Maintenance Reserve
+          shown on the Final Statement, the Ceding Commission shall be reduced
+          by an amount equal to the product of (i) the amount of such difference
+          in Interest Maintenance Reserve amounts multiplied by (ii) [*].
+
+                                       2
+
+<PAGE>
+
+     "Administrative Services Agreements" means the AFLIAC Administrative
+Services Agreement and the FAFLIC Administrative Services Agreement.
+
+     "Adjusted Closing Reserve" shall have the meaning set forth in Section
+2.02(a) hereof.
+
+     "Affiliate" means, with respect to any Person, at the time in question, any
+other Person controlling, controlled by or under common control with such
+Person. For purposes of the foregoing, "control," including the terms
+"controlling," "controlled by" and "under common control with," means the
+possession, direct or indirect, of the power to direct or cause the direction of
+the management and policies of an institution, whether through the ownership of
+voting securities, by contract or otherwise.
+
+     "AFLIAC" shall have the meaning set forth in the first paragraph of this
+Agreement.
+
+     "AFLIAC Administrative Services Agreement" means the Administrative
+Services Agreement between AFLIAC and Purchaser, in the form of Exhibit B
+hereto, provided, that the final form of such agreement will be subject to
+review and negotiation by each party and must be in form and substance
+satisfactory to each party.
+
+     "AFLIAC Indemnity Coinsurance Agreement" means the Indemnity Coinsurance
+Agreement between AFLIAC and Purchaser, in the form of Exhibit A hereto.
+
+     "Allocable Amount" shall have the meaning set forth in Section 5.17(a)
+hereof.
+
+     "Ancillary Agreements" means the Indemnity Coinsurance Agreements, the
+Administrative Services Agreements, the General Assignment Agreement, the Bill
+of Sale, the Transition Servicing Agreement and the License Agreement.
+
+     "Applicable Law" means any domestic or foreign federal, state or local
+statute, law, ordinance, rule, administrative interpretation, regulation, order,
+writ, injunction, directive, judgment, decree, policy, guideline or other
+requirement (including without limitation those of the Commission, NAIC and any
+state) applicable to the parties hereto, or any of their respective Affiliates,
+properties, assets, officers, directors, employees or agents, as the case may
+be.
+
+     "Asserted Liability" shall have the meaning set forth in Section 10.03
+hereof.
+
+     "Assessment" means any assessment resulting from participation in any
+guaranty fund or insolvency fund, plan, pool, association or other similar
+organization.
+
+     "Asset Adequacy Test" shall have the meaning set forth in Section 8.03
+hereof.
+
+     "Assigned Outward Reinsurance Contracts" shall mean Outward Reinsurance
+Contracts for which consents have been obtained from the reinsurers thereunder
+for the assignment of such contract from a Seller to Purchaser and such
+assignment has been effected.
+
+     "Bill of Sale and General Assignment Agreement" means the Bill of Sale and
+General Assignment Agreement which is substantially in the form of Exhibit D
+hereto.
+
+                                        3
+
+<PAGE>
+
+     "Books and Records" means the originals or copies of a list of
+policyholders of Coinsured Contracts, Coinsured Contract forms and rating plans,
+claim records, premium records, reserve calculations, actuarial data, policy
+records, sales records of Sellers, underwriting records, financial records,
+producer records of Seller, information technology licenses, reinsurance
+agreements and related data, tax records, and compliance records in each case in
+the possession or control of a Seller and relating principally to the operation
+of the Business, including, without limitation, any database, magnetic or
+optical media and any other form of recorded, computer generated or stored
+information or process, but excluding any such records that are subject to the
+attorney-client privilege; it being understood that this definition shall not
+constitute an assignment of licenses or agreements referred to herein.
+
+     "Business" means the business, assets or results of operations with respect
+to the Coinsured Contracts, Assigned Outward Reinsurance Agreements, General
+Account Liabilities, General Account Reserves and Investment Assets.
+
+     "Business Day" means any day other than a Saturday, a Sunday, a day on
+which banking institutions in the Commonwealth of Massachusetts or the State of
+New York are permitted or obligated by law to be closed or a day on which the
+New York Stock Exchange is closed for trading.
+
+     "Ceding Commission" shall mean an aggregate of $[*] less the product of [*]
+multiplied by Interest Maintenance Reserve as shown on the Effective Date
+Statement allocated between the Sellers as provided for under each of the
+Indemnity Coinsurance Agreements; provided, however, that in the event the
+Closing takes place in January or February 2003 and the General Account Reserves
+as of the Closing Date ("Closing Date General Account Reserves") as shown on the
+Closing Date Statement, are equal to or less than $630 million in January or
+$620 million in February, then the Ceding Commission shall be reduced by 50% of
+the amount that the Closing Date General Account Reserves are less than $630
+million in January or $620 million in February, (the "Reserve Level Additional
+Amount"). For purposes of this section, Closing Date Statement shall mean an
+estimated statement of certain financial information as of the Closing Date, in
+the same format as the Effective Date Statement and in accordance with the
+requirements of Section 2.01(b)A-D, prepared and delivered to Purchaser by
+Sellers one day prior to the Closing Date.
+
+     "Claims Notice" shall have the meaning set forth in Section 10.03 hereof.
+
+     "Closing" means the closing of the transactions contemplated by this
+Agreement.
+
+     "Closing Date" means last date of the month in which the last of the
+conditions to Closing set forth in this Agreement are satisfied or waived in
+writing; provided, however, that if such date is not a Business Day, the Closing
+Date shall be the immediately succeeding Business Day; and provided further,
+that the Closing may occur on such other date as the parties may agree to in
+writing.
+
+     "Closing Date Statement" has the meaning set forth under the definition of
+Ceding Commission.
+
+                                       4
+
+<PAGE>
+
+     "Code" means the Internal Revenue Code of 1986, as amended. Any citation to
+a provision of the Code includes a citation to any successor provision.
+
+     "Coinsured Contracts" means all individual and group fixed universal life
+insurance policies and contracts delivered or issued for delivery by Sellers
+prior to the Effective Date to persons in any state of the United States, the
+District of Columbia or Puerto Rico and individually identified on Schedule
+1.01(e) hereto and in effect on the Effective Date and, with respect to the
+group universal life insurance policies, all certificates and employer
+participation agreements in effect as of the Effective Date issued in accordance
+with the terms of such policies and contracts identified on Schedule 1.01(e)
+hereto, contractually required reinstatements of such policies, contracts,
+certificates and agreements after the Effective Date; universal life insurance
+policies and contracts issued after the Effective Date pursuant to the exercise
+of options provided in universal life insurance policies and contracts in effect
+on the Effective Date (including, in each case, all supplements, endorsements,
+riders and ancillary agreements in connection therewith); but not including
+policies identified in Schedule 1.01(a), [*] (although such policies identified
+in Schedule 1.01(a) hereto will be included in the policies to be covered under
+the Administrative Services Agreements and the Transition Servicing Agreement at
+a price of $[*] per policy per year).
+
+     "Copyright License Agreement" shall mean a copyright license agreement in
+the Form attached hereto as Exhibit I.
+
+     "Effective Date" means 11:59 p.m. EST on December 31, 2002.
+
+     "Effective Date Reserves" means an estimate of the General Account Reserves
+as of the Effective Date as shown on the Effective Date Statement.
+
+     "Effective Date Statement" shall have the meaning set forth in Section
+2.01(b) hereof.
+
+     "Estimated Closing Financial Statement" shall have the meaning set forth in
+Section 2.01(a) hereof.
+
+     "Estimated Notional Account Balance" shall have the meaning set forth in
+Section 2.01(a).
+
+     "Fair Market Value" means the fair market value determined, with respect to
+public securities, pursuant to the Solomon Bond Yield pricing system and, with
+respect to private securities, pursuant to an Allmerica proprietary valuation
+methodology based on Bloomberg inputs, including in each case interest due and
+accrued on bonds and with respect to policy loans, shall be the statement value
+of such policies.
+
+     "FAFLIC" shall have the meaning set forth in the first paragraph of this
+Agreement.
+
+     "FAFLIC Administrative Services Agreement" means the Administrative
+Services Agreement between FAFLIC and Purchaser, in the form of Exhibit B hereto
+provided, that the final form of such agreement will be subject to review and
+negotiation by each party and must be in form and substance satisfactory to each
+party.
+
+                                       5
+
+<PAGE>
+
+     "FAFLIC Indemnity Coinsurance Agreement" means the Coinsurance Agreement
+between FAFLIC and Purchaser, in the form of Exhibit A hereto.
+
+     "Final Statement" shall have the meaning set forth in Section 2.04(a)
+hereof.
+
+     "Final Closing Financial Statement" shall have the meaning set forth in
+Section 2.04(a) hereof.
+
+     "GAAP" means United States generally accepted accounting principles as in
+effect from time to time.
+
+     "General Account Liabilities" means all of Sellers' general account gross
+insurance liabilities and obligations arising under the Coinsured Contracts on
+or after the Effective Date during the term of this Agreement, without regard to
+the reinsurance provided under this Agreement and inuring reinsurance under the
+Outward Reinsurance Agreements, including, without limitation (i) benefits,
+surrender amounts and other amounts payable to contract holders under the terms
+of the Coinsured Contracts incurred on or after the Effective Date; (ii)
+liabilities and obligations set forth on Schedule 1.01(k); (iii) premium taxes
+due in respect of premiums, deposits and other consideration paid on or after
+the Effective Date with respect to the Coinsured Contracts; (iv) Reimbursable
+Assessments (net of any premium tax credits of Sellers arising out of any such
+assessments ); (v) all amounts payable on or after the Effective Date for
+returns or refunds of premiums under the Coinsured Contracts; (vi) all liability
+for commission payments and other fees or compensation incurred or payable on or
+after the Effective Date with respect to the Coinsured Contracts in respect of
+premiums, deposits and other consideration, including, without limitation,
+renewal commissions, trail commissions, other asset-based commissions; and an
+amount equal to 15% of all such commissions received by agents representing in
+the form of agent fringe benefit costs; and (vii) Purchaser Extra Contractual
+Obligations but excluding: (x) Sellers' Retained Liabilities.
+
+     "General Account Reserves" means the general account statutory reserves of
+Sellers (without regard to the transactions contemplated by this Agreement) with
+respect to the Coinsured Contracts determined pursuant to Massachusetts SAP,
+included in Sellers' statutory financial statements as of the Effective Date and
+for reporting periods after the Effective Date during the term of this Agreement
+and calculated pursuant to the requirements set out in Section 2.01(b) A-D.
+
+     "Government Authority" means any court, commission, administrative or
+regulatory authority or instrumentality or any other government agency or
+department, whether federal, state or local, including the insurance department
+of each jurisdiction where the Seller Parties are each licensed to do business.
+
+     "Income Tax Regulations" means the temporary or final regulations issued
+under the Code. Any citation to a provision of the Income Tax Regulations
+includes a reference to any successor regulatory provision.
+
+     "Indemnified Party" shall have the meaning set forth in Section 10.03
+hereof.
+
+     "Indemnifying Party" shall have the meaning set forth in Section 10.03
+hereof.
+
+                                       6
+
+<PAGE>
+
+     "Indemnity Coinsurance Agreements" means the AFLIAC Indemnity Coinsurance
+Agreement and the FAFLIC Indemnity Coinsurance Agreement.
+
+     "Interest Maintenance Reserve" shall mean the tax-adjusted reserve related
+to the transfer of the Investment Assets determined by Sellers under
+Massachusetts SAP.
+
+     "Internal Revenue Code" means the Internal Revenue Code of 1986, as
+amended.
+
+     "Investment Assets" means assets, including cash, listed on Schedule
+2.01(b) which shall have a Fair Market Value as of the Effective Date equal to
+the value of the sum of (A) 2% of the amount of Effective Date Reserves plus (B)
+the amount of Effective Date Reserves less the Ceding Commission, as determined
+in accordance with Section 2.01(b) hereof, plus (c) the Additional Liability
+Reserve, with such additions and deletions to such assets as may result with the
+prior written approval of Purchaser as set forth in Section 5.01(f) hereof.
+
+     "IRS" means the United States Internal Revenue Service.
+
+     "Knowledge" shall be interpreted for the purposes of this Agreement as
+follows: (i) a matter will be deemed to be within the "knowledge of the Seller
+Key People" if (A) such matter is as of the date of the execution of this
+Agreement actually known to any of the Seller Key People, or (B) in light of the
+positions held by Seller Key People, the matter would reasonably be expected to
+be known by the Seller Key People; and (ii) a matter will be deemed to be within
+the "knowledge of Purchaser" if (A) such matter is actually known to any of
+Purchaser Key People as of the date of the execution of this Agreement, or (B)
+in light of the positions held by Purchaser Key People, the matter would
+reasonably be expected to be known by Purchaser Key People.
+
+     "Licensed Software" shall have the meaning set forth in Section 3.06(a)
+hereof.
+
+     "Loss" and "Losses" shall have the meanings set forth in Section 10.01
+hereof.
+
+     "Material" or "material adverse effect on the Business" shall have the
+following meaning: A matter shall be deemed to be "material" or to have a
+"material adverse effect on the Business" in connection with any provision of
+this Agreement if such matter has, or is reasonably likely to have, a material
+adverse effect on (i) the business, financial condition or results of operations
+of the Business or (ii) the ability of the party to perform its obligations
+under this Agreement or any of the Ancillary Agreements to which it is a party.
+Without limiting the foregoing, "a material adverse effect on the Sellers" shall
+include, without limitation, a matter which results or is reasonably likely to
+result in a petition for insolvency, rehabilitation, conservation, supervision,
+liquidation or similar proceeding being filed by or against any Seller or their
+statutory representative in any jurisdiction.
+
+     "Massachusetts SAP" means the statutory accounting principles and practices
+prescribed by the Insurance Department of the Commonwealth of Massachusetts as
+applied on a basis consistent with those utilized in the preparation of Annual
+Statements for the 2002 fiscal year.
+
+     "NAIC" means the National Association of Insurance Commissioners.
+
+     "Notional Operating Account" shall have the meaning set out in Section
+2.01(a) hereof.
+
+                                       7
+
+<PAGE>
+
+     "NY Coinsured Contracts" shall have the meaning set forth in Section
+6.03(b) hereof.
+
+     "NY Department" shall have the meaning set forth in Section 6.03(b) hereof.
+
+     "Outward Reinsurance Agreements" shall mean all third party reinsurance
+agreements inuring to the benefit of Sellers with respect to or covering any
+portion of the liabilities under any of the Coinsured Contracts.
+
+     "Owned Software" shall have the meaning set forth in Section 3.06(a)
+hereof.
+
+     "Parent" shall mean Allmerica Financial Corporation, a Delaware company.
+
+     "Permits" means all licenses, permits, orders, approvals, registrations,
+authorizations, qualifications and filings with and under all federal, state,
+local or foreign laws or governmental or regulatory bodies.
+
+     "Person" means any individual, corporation, partnership, firm, joint
+venture, association, limited liability company, limited liability partnership,
+joint-stock company, trust, unincorporated organization, governmental, judicial
+or regulatory body, business unit (including, but not limited to, the Business),
+division or other entity.
+
+     "Premiums" means premiums and annuity considerations, deposits and similar
+receipts with respect to the Coinsured Contracts.
+
+     "Premiums Receivable" means all premiums receivable after the Effective
+Time under the Coinsured Contracts calculated on a SAP basis including all
+commission charge backs received by the Sellers from Purchaser with respect to
+premiums paid after the Effective Date net of Unassigned Outward Reinsurance,
+provided that amounts equal to reinsurance premiums payable under the Unassigned
+Outward Reinsurance Agreements shall be assigned to Purchaser, in accordance
+with the terms of the Indemnity Coinsurance Agreement, solely during any period
+that Purchaser provides administrative services for the Coinsured Contracts.
+
+     "Pro Forma Financial Statements" shall mean the pro forma financial
+statements of the Business for each of AFLIAC and FAFLIC and on a consolidated
+basis as set forth in Schedule 1.01 (f) hereto.
+
+     "Proposed Closing Statement" shall have the meaning set forth in Section
+2.04(a) hereof.
+
+     "Proposed Statement" shall have the meaning set forth in Section 2.04(a)
+hereof.
+
+     "Purchaser" shall have the meaning set forth in the first paragraph of this
+Agreement.
+
+     "Purchaser Extra Contractual Liability" means (i) all liabilities or
+obligations arising in connection with the Coinsured Contracts, exclusive of
+liabilities arising under the express terms of the Coinsured Contracts, for
+compensatory, consequential, exemplary, punitive or similar damages, fines,
+penalties, costs or expenses which relate to or arise in connection with any
+alleged or actual act, error or omission whether intentional, negligent, in bad
+faith or otherwise by Purchaser or any of its directors, officers, employees,
+agents, Affiliates, representatives, successors or assigns on or after the
+Closing Date; (ii) any liabilities relating to the Assigned
+
+                                       8
+
+<PAGE>
+
+Outward Reinsurance Agreements, exclusive of liabilities arising under their
+express terms, for the items set forth in clause (i) above; (iii) taxes payable
+with respect to premiums earned or received on or after the Effective Date; or
+(iv) Reimbursable Assessments.
+
+     "Purchaser Key People" means the individuals set forth in Schedule 1.01(i)
+hereto.
+
+     "Reimbursable Assessments" means (i) 100% of Assessments paid on account of
+premiums received or written (depending upon the applicable jurisdiction's
+method of making such Assessments) on the Coinsured Contracts on or after the
+Effective Date, and (ii) 50% of any Assessments paid on account of insolvencies
+first occurring on or after the Effective Date.
+
+     "Reinsurance Payments Receivable" means all amounts payable to the Sellers
+pursuant to Unassigned Outward Reinsurance Agreements inuring to the benefit of
+the Sellers with respect to or covering any portion of the liabilities under any
+of the Coinsured Contracts calculated on a SAP basis and assigned to Purchaser
+under the Indemnity Coinsurance Agreements solely during any period in which
+Purchaser performs administrative services for the Coinsured Contracts.
+
+     "Reserve Level Additional Amount" shall have the meaning set forth in the
+definition of Ceding Commission.
+
+     "Reserve Level Investment Assets" shall have the meaning set forth in
+Section 2.02(a) hereof.
+
+     "RGA" shall have the meaning set forth in Section 6.08 hereof.
+
+     "Seller" and "Sellers" shall have the meaning set forth in the first
+paragraph of this Agreement.
+
+     "Sellers Financial Statements" shall have the meaning set forth in Section
+3.19 hereof.
+
+     "Seller Key People" means the individuals set forth in Schedule 1.01(j)
+hereto.
+
+     "Sellers' Retained Liabilities" means (i) all liabilities or obligations
+arising in connection with the Coinsured Contracts (exclusive of liabilities
+arising under the express terms of the Coinsured Contracts and exclusive of
+liabilities and obligations set forth on Schedule 1.01(k)), for compensatory,
+consequential, exemplary, punitive or similar damages, fines, penalties, costs
+or expenses which relate to or arise in connection with any alleged or actual
+act, error or omission whether intentional, negligent, in bad faith or otherwise
+by Sellers or any of their directors, officers, employees, agents, Affiliates,
+representatives, successors or assigns prior to the Closing Date; (ii) all
+liabilities and obligations (exclusive of obligations arising under the express
+terms and conditions of the Coinsured Contracts) to the extent such liabilities
+and obligations arise out of or relate to Sellers' action or inaction in the
+administration of claims, and other aspects of, or relating to, the Coinsured
+Contracts prior to the Closing Date; (iii) any liabilities relating to the
+Outward Reinsurance Agreements, exclusive of liabilities arising under their
+express terms, for the items set forth in clause (i) above provided that such
+liability for Assigned Outward Reinsurance Agreements shall only be for the
+period prior to the Closing Date; (iv) taxes payable with respect to premiums
+earned or received prior to the Effective Date; (v) Assessments relating to the
+Coinsured Contracts other than Reimbursable Assessments; or
+
+                                        9
+
+<PAGE>
+
+(vi) assessments, fines, charges or other amounts levied by Governmental
+Authorities in connection with Coinsured Contracts and of the type paid on
+account of premiums received or written (depending on the applicable
+jurisdiction's method of making such assessments) prior to the Effective Date.
+
+         "Software License Agreement" shall mean a software license agreement in
+the form attached hereto as Exhibit G.
+
+         "Subsidiary" means, with respect to any Person on a given date (i) any
+other Person of which a majority of the voting power of the equity securities or
+equity interests is owned directly or indirectly by such Person and (ii) any
+other Person the accounts of which, by virtue of an ownership interest in it by
+such Person would be consolidated, in accordance with GAAP, with those of such
+Person in its financial statements as of the applicable date.
+
+         "Taxes" (or "Tax" as the context may require) means (i) any tax,
+however denominated, imposed by any federal, state, local, municipal,
+territorial, provincial or foreign government or any agency or political
+subdivision of any such government (a "Taxing Authority"), including without
+limitation any tax imposed under Subtitle A of the Code and any net income,
+alternative or add-on minimum tax, gross income, gross receipts, sales, use,
+gains, goods and services, production, documentary, recording, social security,
+unemployment, disability, workers' compensation, estimated, ad valorem, value
+added, transfer, franchise, profits, license, withholding on amounts paid to or
+by Sellers, payroll, employment, excise, severance, stamp, capital stock,
+occupation, personal or real property, environmental or windfall profit tax,
+premium, custom, duty or other tax, governmental fee or other like assessment or
+charge of any kind whatsoever in the nature of a tax, together with any
+interest, penalty, addition to tax or additional amount imposed by any Taxing
+Authority relating thereto, (ii) liability of Sellers for the payment of any
+amounts of the type described in (i) as a result of being a member of an
+affiliated, consolidated, combined or unitary group with any other corporation
+at any time on or prior to the Closing Date, and (iii) liability of Sellers for
+the payment of any amounts as a result of being a party to any Tax Sharing
+Agreement or with respect to the payment of any amounts of the type described in
+(i) or (ii) as a result of any express or implied obligation to indemnify any
+other Person.
+
+         "Taxing Authority" has the meaning set forth in the definition of
+"Taxes."
+
+         "Tax Reserve" has the meaning provided in Section 807 of the Internal
+Revenue Code and regulations thereunder.
+
+         "Three Month LIBOR" means
+
+                (i)     the three-month London Interbank Offered Rate (LIBOR) as
+                        published by Bloomberg, L.P.
+
+                (ii)    with respect to any period between 91 and 180 days, such
+                        rate plus 0.25%;
+
+                (iii)   with respect to any period between 181 and 365 days, the
+                        rate referred to in (i) plus 0.75%, and
+
+                                       10
+
+<PAGE>
+
+                (iv)    with respect to any period greater than 365 days, the
+                        rate referred to in (i) plus 1.25%.
+
+         "Third Party Adjudicator" shall have the meaning set forth in Section
+2.04 hereof.
+
+         "Trademark License Agreement" shall mean a trademark license agreement
+in the form attached hereto as Exhibit H.
+
+         "Transferred Assets" means: (i) Investment Assets; (ii) all of Sellers'
+rights and interests under the Coinsured Contracts to receive principal and
+interest paid on policy or contract loans on or after the Effective Date; (iii)
+the Books and Records; and (iv) the Transferred Contracts.
+
+         "Transferred Contracts" all contracts assigned pursuant to the Bill of
+Sale and General Assignment Agreement.
+
+         "Transition Servicing Agreement" means the Transition Servicing
+Agreement between Sellers and Purchaser, substantially in the form of Exhibit C
+hereto provided, that the final form of such agreement will be subject to review
+and negotiation by each party and must be in form and substance satisfactory to
+each party; provided, that the provisions relating to indemnification by Parent
+contained in Section 4.5 of Exhibit C shall be no less advantageous to Purchaser
+or Parent.
+
+         "Unassigned Outward Reinsurance Agreements" means all Outward
+Reinsurance Agreements except for Assigned Outward Reinsurance Agreements.
+
+                                   ARTICLE II
+
+                       TRANSFER AND ACQUISITION OF ASSETS
+
+         Section 2.01 Notional Operating Account.
+
+         (a) As of the Effective Date, each Seller shall establish on its books
+and records, on behalf of Purchaser, a notional account consisting of (i) the
+Investment Assets, as determined pursuant to Subsection (b) hereof; (ii) cash
+investment income relating to the Investment Assets; (iii) realized gains
+(losses) on sales of the Investment Assets after the Effective Date; and (iv)
+all operating results, including, but not limited to, revenues, benefits,
+expenses and obligations arising out of the Coinsured Contracts, (in the case of
+each of clauses (ii) through (iv), for the period from and after the Effective
+Date it being understood and agreed that the opening balance of each of the
+notional accounts described in clauses (ii) through (iv) shall be $0), as more
+fully set out in Schedule 2.01(a)1 hereto, (each a "Notional Operating Account"
+and together the "Notional Operating Accounts"). Seller shall maintain
+accounting for the Notional Operating Accounts utilizing appropriate reinsurance
+accounting entries. Two days prior to the Closing, Sellers each shall prepare a
+financial statement of the Notional Operating Accounts substantially in the form
+of Schedule 2.01(a)1 hereto for the period from the Effective Date through the
+close of business on the Closing Date (the "Estimated Closing Financial
+Statement"). Upon the terms
+
+                                       11
+
+<PAGE>
+
+and subject to the conditions of this Agreement, on the Closing Date, Sellers
+shall pay to Purchaser, an amount equal to the estimated aggregate balance of
+the Notional Operating Accounts as of the Closing Date as shown on the Estimated
+Closing Financial Statement for the components of such accounts set forth in
+subsections (ii), (iii) and (iv) hereof (the "Estimated Notional Account
+Balance") by wire transfer of immediately available funds in U.S. Dollars to the
+bank account(s) designated to Sellers in writing by Purchaser, at least two
+Business Days prior to the Closing Date; provided, however, that if the
+Estimated Notional Account Balance as of the Closing Date is negative, Purchaser
+shall pay Sellers an amount equal to the absolute value of such balance by wire
+transfer of immediately available funds in U.S. Dollars to the bank account(s),
+and divided between each Seller as designated to Purchaser in writing by
+Sellers, at least two Business Days prior to the Closing Date with the exact
+amount of the payment to be determined according to the agreement of the parties
+prior to the Closing Date.
+
+         (b) On the Effective Date, Sellers will deliver to Purchaser a
+statement of certain financial information of the Business as of the close of
+Business on the Effective Date (the "Effective Date Statement") and a
+certification of the chief financial officers of Sellers that all items on the
+Effective Date Statement were estimated in good faith by Sellers as of the close
+of Business on the Effective Date. Purchaser acknowledges that the financial
+information in the Effective Date Statement was estimated as of December 31,
+2002 based on November 30, 2002 financial information, with such assumptions as
+described in the Effective Date Statement. The General Account Reserves as of
+November 30, 2002:
+
+                    (A) are computed in accordance with commonly accepted
+             actuarial standards consistently applied and are fairly stated in
+             accordance with sound actuarial principles in all material respects
+             and are calculated in a manner consistent in all material respects
+             with that used for the June 30, 2002 reserve balance that the
+             Seller provided to Milliman & Robertson for purposes of Milliman &
+             Robertson's actuarial valuation of the Business contained in a
+             letter dated October 16, 2002 attached as an Appendix to the
+             Confidential Information Memorandum relating to the Business, dated
+             October, 2002 (the "Information Memorandum"), except that reserves
+             are net of outward reinsurance reserve credits;
+
+                    (B) are based on actuarial assumptions that produce reserves
+             sufficient to cover all benefits and guarantees provided for in any
+             Coinsured Contract, including any supplements or riders thereto, as
+             to reserve basis and method, and are in accordance with all other
+             Coinsured Contract provisions;
+
+                    (C) meet the requirements of the Applicable Laws of the
+             state of domicile of each of FAFLIC and AFLIAC, as applicable; and
+
+                    (D) are computed on the basis of reserving methodologies
+             consistent in all material respects with those used in computing
+             such reserves in the Pro Forma Financial Statements.
+
+The Effective Date Statement shall reflect, in each case separately with respect
+to each Seller, (i) the General Account Reserves (the "Effective Date
+Reserves"), (ii) loans under Coinsured Contracts, (iii) Tax Reserves, and (iv)
+Interest Maintenance Reserves. After the Effective Date, for a period of seven
+(7) Business Days with respect to public securities and fifteen (15) Business
+
+                                       12
+
+<PAGE>
+
+Days with respect to private securities, each of Sellers on the one hand and
+Purchaser on the other shall have the right to identify specific assets
+contained in the Investment Assets with Fair Market Values with which it
+disagrees. The party objecting shall submit such asset to three of the following
+brokers Goldman, Sachs & Co., Credit Suisse First Boston Corporation, Lehman
+Brothers Inc., J.P. Morgan Securities, Inc., Merrill Lynch, Pierce, Fenner &
+Smith Incorporated, and Morgan Stanley & Co. Inc. who shall each determine their
+median bid and ask value for such asset as of the Effective Date. The average of
+such bid and ask median values shall then become the adjusted Fair Market Value
+of such asset. In the event that after such determination a party does not agree
+on the adjusted Fair Market Value of such disputed asset, such party may notify
+the other to (i) state a fair market value of the asset which is agreeable to
+them and (ii) request that such asset be removed and replaced with cash. In the
+event the other party agrees to the proposed fair market value such value will
+become the Fair Market Value, if the other party does not agree such assets will
+be replaced with cash. The right to substitute cash for a disputed assets shall
+not exceed an aggregate amount of $50 million in substitutions for each party.
+
+         Section 2.02 Acquisition of Transferred Assets, Estimated Notional
+Account Balance and Assumption of Assumed Liabilities.
+
+         (a) Upon the terms and subject to the conditions of this Agreement on
+the Closing Date, Sellers shall sell, assign and transfer to Purchaser, (i) all
+of Sellers' right, title and interest in the Transferred Assets, (ii) the
+Estimated Notional Account Balance, if any, as provided in Section 2.01(a),
+(iii) all Reinsurance Payments Receivables arising on and after the Effective
+Date exclusive of amounts included in clause (ii) above pursuant to the
+Indemnity Coinsurance Agreements, and (iv) all Premium Receivables arising on
+and after the Effective Date exclusive of amounts included in clause (ii) above
+pursuant to the Indemnity Coinsurance Agreements. In the event that there is a
+Reserve Level Additional Amount, as set forth in the definition of Ceding
+Commission herein, Sellers shall sell, assign and transfer to Purchaser all of
+Sellers' right, title and interest in assets of Sellers selected by Purchaser
+having a Fair Market Value as of the Effective Date equal to the Reserve Level
+Additional Amount (the "Reserve Level Investment Assets"). All sales,
+assignments and transfers of the Transferred Assets other than cash and
+Investment Assets shall be effected by the Bill of Sale and the General
+Assignment Agreement. Investment Assets and Reserve Level Investment Assets, if
+any, shall be transferred by such instruments of transfer or book entry
+transfer, as appropriate, as are reasonably acceptable to Sellers and Purchaser.
+Notwithstanding anything in this Agreement to the contrary, but subject to the
+provisions of Section 5.04 hereof, Sellers shall be entitled to keep and
+maintain copies of all Books and Records from and after the Closing, and to have
+access to the originals of the Books and Records in accordance with the terms
+hereof.
+
+         (b) Upon the terms and subject to the conditions of this Agreement, on
+the Closing Date, Purchaser shall reinsure the General Account Liabilities, net
+of any reinsurance recoverables under the Unassigned Outward Reinsurance
+Agreements, pursuant to the Indemnity Coinsurance Agreements, as appropriate.
+Notwithstanding anything herein to the contrary, Purchaser acknowledges that the
+Books and Records shall not be transferred prior to the end of the term of the
+Transition Servicing Agreement, but during such period shall be entitled,
+through its employees and representatives, to make such examination of the Books
+and Records as Purchaser may request.
+
+                                       13
+
+<PAGE>
+
+         Section 2.03 Place and Date of Closing. The Closing shall take place at
+the offices of Mintz, Levin, Cohn, Ferris Glovsky & Popeo, P.C., One Financial
+Center, Boston, MA 02111, at 10:00 a.m. Eastern Time on the Closing Date or such
+other time or place as the parties may mutually agree upon.
+
+         Section 2.04 Post-Closing Adjustments.
+
+         (a) Sellers shall, within 30 days after the Closing Date, prepare a
+proposed financial statement of certain financial information of the Business as
+of the close of business on the Effective Date (the "Proposed Statement"), and a
+statement of the General Account Reserves as of the Closing Date (the "Proposed
+Closing Statement"), each in the same format as the Effective Date Statement and
+in accordance with the requirements of Section 2.01(b)A-D, and a certification
+of the chief financial officers of Sellers that the data contained in the
+Proposed Statement and the Proposed Closing Statement was obtained from the
+books and records of AFLIAC and FAFLIC and such data was computed in accordance
+with Massachusetts SAP applied consistently in all material respects and with
+Section 2.01(b)A-D. Promptly after its preparation, AFLIAC and FAFLIC shall
+deliver copies of the Proposed Statement and Proposed Closing Statement to
+Purchaser. Purchaser shall have the right to review such statements and the
+Estimated Closing Financial Statement and comment thereon for a period of 90
+days after receipt of the Proposed Statement and Proposed Closing Statement.
+Sellers agree that Purchaser and its accountants may have access to the
+accounting records of Sellers relating to their preparation of the Proposed
+Statement, Proposed Closing Statement and the Estimated Closing Financial
+Statement and for the purpose of conducting its review. Any changes in the
+Proposed Statement, Proposed Closing Statement or the Estimated Closing
+Financial Statement that are agreed to by Purchaser and Sellers within 90 days
+of the aforementioned delivery of such balance sheet by Sellers shall be
+incorporated into a final statement of the Business as of the close of business
+on the Effective Date, a final statement of the Business as of the close of
+business on the Closing Date, and a Final Closing Financial Statement for the
+period from the Effective Date through the Closing Date, (the "Final Statement,"
+"Final Closing Statement" and "Final Closing Financial Statement",
+respectively). In the event that Purchaser and Sellers are unable to agree on
+the manner in which any item or items should be treated in the preparation of
+the Final Statement, Final Closing Statement or Final Closing Financial
+Statement within such 90-day period, separate written reports of such item or
+items shall be made in concise form and shall be referred to KPMG, LLP (the
+"Third Party Adjudicator") within seven days following the 90 day period. The
+Third Party Adjudicator shall determine within 14 days the manner in which such
+item or items shall be treated on the Final Statement, Final Closing Statement
+or Final Closing Financial Statement; provided, however, that the dollar amount
+of each item in dispute shall be determined within the range of dollar amounts
+proposed by Sellers, on the one hand, and Purchaser on the other hand. The
+determinations by the Third Party Adjudicator as to the items in dispute shall
+be in writing and shall be binding and conclusive on the parties and shall be so
+reflected in the Final Statement, Final Closing Statement or Final Closing
+Financial Statement. The fees, costs and expenses of retaining the Third Party
+Adjudicator shall be shared equally by Sellers, on the one hand, and Purchaser,
+on the other hand. Following the resolution of all disputed items (or, if there
+is no dispute, promptly after the parties reach agreement on the Final
+Statement, Final Closing Statement and/or Final Closing Financial Statement),
+Sellers shall prepare the Final Statement, Final Closing Statement and/or Final
+Closing Financial Statement and shall deliver copies of such statements and/or
+such financial statement to Purchaser.
+
+                                       14
+
+<PAGE>
+
+         (b) In the event the amount of Effective Date Reserves less the Ceding
+Commission is less than the General Account Reserves as of the Effective Date
+(as reported in the Final Statement) less the Adjusted Ceding Commission,
+Sellers shall, within ten (10) Business Days of agreement upon the Final
+Statement, transfer to Purchaser additional cash or cash equivalents equal to
+the amount of such difference less 2% of the Effective Date Reserves, together
+with interest thereon from and including the Effective Date, to but not
+including the date of such transfer, computed at the Three Month LIBOR as of
+5:00 p.m. on the Effective Date. In the event that the full 2% of the Effective
+Date Reserves is not applied to such payment the balance shall be paid by
+Purchaser to Sellers together with interest thereon from and including the
+Effective Date, to but not including the date of such transfer, computed at the
+Three Month LIBOR as of 5:00 p.m. on the Effective Date.
+
+         (c) In the event the amount of Effective Date Reserves less the Ceding
+Commission is greater than General Account Reserves as of the Effective Date (as
+reported in the Final Statement) less the Final Ceding Commission, Purchaser
+shall, within ten (10) Business Days of agreement upon the Final Statement,
+transfer to Sellers cash or cash equivalents equal to the amount of such
+difference plus 2% of the Effective Date Reserves, together with interest
+thereon from and including the Effective Date, to but not including the date of
+such transfer, computed at the Three Month LIBOR as of 5:00 p.m. on the
+Effective Date.
+
+         (d) In the event that the aggregate balance shown on the Final Closing
+Financial Statement is greater than or less than the Estimated Notional Account
+Balance, such difference together with interest thereon from and including the
+Effective Date, to but not including the date of such transfer, computed at the
+Three Month LIBOR as of 5:00 p.m. on the Effective Date shall be paid in
+immediately available funds to the appropriate party within ten (10) Business
+Days of the agreement upon the Final Closing Financial Statement.
+
+         (e) In the event that the General Account Reserves as of the Closing
+Date as shown on the Closing Date Statement is greater than or less than the
+General Account Reserves as of the Closing Date as shown on the Final Closing
+Statement and such difference would have resulted in a change to the Ceding
+Commission in accordance with the definition thereof, 50% of such difference
+together with interest thereon from and including the Closing Date, but not
+including the date of such transfer, computed at the Three Month LIBOR as of
+5:00 p.m. EST on the Effective Date shall be paid in immediately available funds
+to the appropriate party within ten (10) Business Days of agreement upon the
+Final Closing Statement.
+
+         (f) In the event that Purchaser is no longer required to maintain or is
+able to reduce the amount of the Interest Maintenance Reserve from the level
+reflected in the Final Statement, then Purchaser shall within ten (10) Business
+Days of such determination transfer to Sellers cash or cash equivalents in the
+amount of such Interest Maintenance Reserve or such reduction, as relevant,
+multiplied by 0.24. promptly following the time of such determination. The
+parties recognize that Sellers intend to reflect the release of any portion of
+the Interest Maintenance Reserve in its statutory accounting statements.
+
+         (g) Amounts required to be transferred from Purchaser to Sellers or
+from Sellers to Purchaser pursuant to this Section shall be netted against one
+another so that only a single net transfer shall be required. Any transfer of
+cash required under this Section 2.04 shall be made
+
+                                       15
+
+<PAGE>
+
+within ten (10) Business Days following the determination of amounts due under
+this Section 2.04.
+
+         Section 2.05 Closing Items.
+
+         (a) At the Closing, Sellers shall execute (where appropriate) and
+deliver to Purchaser the following:
+
+           (i)    Estimated Closing Financial Statement;
+
+           (ii)   the Indemnity Coinsurance Agreements;
+
+           (iii)  the Administrative Services Agreements;
+
+           (iv)   the Transition Servicing Agreement;
+
+           (v)    the Bill of Sale and General Assignment Agreement;
+
+           (vi)   the Software License Agreement;
+
+           (vii)  the Trademark License Agreement;
+
+           (viii) the Copyright License Agreement;
+
+           (ix)   evidence of receipt of the Permits from the Insurance
+                  Departments of the Commonwealth of Massachusetts and the State
+                  of New York; and
+
+           (x)    evidence of compliance with any state pre-acquisition
+                  notification acts from which no exemption is available.
+
+         Sellers shall also (i) transfer to Purchaser Investment Assets and
+Reserve Level Investment Assets, if any, in accordance with Sections 2.01(b) and
+2.02(a) hereof, (ii) transfer the other Transferred Assets to Purchaser in
+accordance with Section 2.02 hereof, (iii) transfer the Estimated Notional
+Account Balance, if applicable, (iv) transfer all right, title and interest in
+Reinsurance Payments Receivable arising on or after the Effective Date pursuant
+to the Indemnity Coinsurance Agreement, (v) transfer all right, title and
+interest in Premium Receivables arising on or after the Effective Date pursuant
+to the Indemnity Coinsurance Agreement, and (vi) deliver to Purchaser a true and
+correct list of all life insurance contracts included in the Coinsured Contracts
+that are in effect as of the Closing Date.
+
+         (b) At the Closing, Purchaser shall execute (where appropriate) and
+deliver to Sellers, as applicable, the following:
+
+           (i)    the Indemnity Coinsurance Agreements;
+
+           (ii)   the Administrative Services Agreements;
+
+           (iii)  the Transition Servicing Agreement;
+
+                                       16
+
+<PAGE>
+
+           (iv)   the Bill of Sale and General Assignment Agreement;
+
+           (v)    the Software License Agreement;
+
+           (vi)   the Trademark License Agreement;
+
+           (vii)  the Copyright License Agreement;
+
+           (viii) evidence of compliance with any state pre-acquisition
+                  notification requirements from which no exemption is
+                  available.
+
+         Purchaser shall also transfer to Sellers the Estimated Notional Account
+Balance, if applicable.
+
+                                   ARTICLE III
+
+                    REPRESENTATIONS AND WARRANTIES OF SELLERS
+
+         Each Seller hereby represents and warrants to Purchaser, jointly and
+severally, as of the Effective Date, as follows:
+
+         Section 3.01 Organization, Standing and Authority of Sellers. Each
+Seller is duly organized, validly existing and in good standing under the laws
+of Massachusetts and has all requisite power and authority to carry on the
+operations of the Business as they are now being conducted, except where the
+failure to have such authority would not, individually or in the aggregate, have
+a material adverse effect on the Business. Each Seller is duly qualified to do
+business as a foreign corporation and is in good standing in each jurisdiction
+where such qualification is necessary, except for those jurisdictions where
+failure to be so qualified would not, individually or in the aggregate, have a
+material adverse effect on the Business.
+
+         Section 3.02 Authorization. Each Seller has all requisite power and
+authority to execute and deliver, and to perform its respective obligations
+under, this Agreement and under each of the Ancillary Agreements to be executed
+by it. The execution and delivery by Sellers of this Agreement and the Ancillary
+Agreements to be executed by them, and the performance by Sellers of their
+respective obligations under such agreements have been duly authorized by all
+necessary corporate action on the part of Sellers. This Agreement has been duly
+executed and delivered by Sellers, and when the Ancillary Agreements are
+executed by Sellers will be duly executed and delivered by Sellers, as
+appropriate; and, subject to the due execution and delivery by the other parties
+to such agreements, this Agreement is and the Ancillary Agreements executed by
+Sellers will, upon due execution and delivery, be valid and binding obligations
+of Sellers, as the case may be, enforceable against Sellers in accordance with
+their respective terms. Notwithstanding the foregoing, the obligation of Sellers
+to execute any Ancillary Agreement shall be subject to the terms and conditions
+of this Agreement.
+
+         Section 3.03 Actions and Proceedings. Except as disclosed on Schedule
+3.03 hereto, there are no outstanding orders, decrees or judgments by or with
+any court, governmental agency, regulatory body or arbitration tribunal before
+which any Seller was a party that, individually or in the aggregate, have a
+material adverse effect on the Business. Except as
+
+                                       17
+
+<PAGE>
+
+disclosed on Schedule 3.03 hereto, there are no actions, suits, arbitrations or
+legal, administrative or other proceedings pending or, to the knowledge of the
+Seller Key People, threatened in writing against Sellers, at law or in equity,
+or before or by any governmental department, commission, board, bureau, agency
+or instrumentality, domestic or foreign, or before any arbitrator of any kind
+which, if adversely determined, would, individually or in the aggregate, have a
+material adverse effect on the Business.
+
+         Section 3.04 No Conflict or Violation. Except as disclosed on Schedule
+3.04 hereto, the execution, delivery and performance by Sellers of this
+Agreement and the Ancillary Agreements to which any of them may become a party
+and the consummation of the transactions contemplated hereby and thereby in
+accordance with the respective terms and conditions hereof and thereof will not
+(a) violate any provision of the charter, bylaws or other organizational
+document of any Seller, (b) violate, conflict with or result in the breach of
+any of the terms of, result in any modification of the effect of, otherwise give
+any other contracting party the right to terminate, or constitute (or with
+notice or lapse of time or both, constitute) a default under, any contract
+relating to or arising in connection with the Business to which any Seller is a
+party or by or to which Sellers or any of their respective assets or properties
+may be bound or subject, except for such violations, conflicts, breaches or
+modifications that would not, individually or in the aggregate, have a material
+adverse effect on the Business, (c) violate any order, judgment, injunction,
+award or decree of any court, arbitrator or governmental or regulatory body
+against, or binding upon, or any agreement with, or condition imposed by, any
+governmental or regulatory body, foreign or domestic, binding upon Sellers in
+connection with the Business, except for such violations that would not,
+individually or in the aggregate, have a material adverse effect on the
+Business, (d) subject to obtaining the Permits referred to in Section 3.05
+hereof, violate any statute, law or regulation of any jurisdiction, except for
+such violations that would not, individually or in the aggregate, have a
+material adverse effect on the Business or (e) result in a breach or violation
+of any of the terms or conditions of, constitute a default under, or otherwise
+cause an impairment or revocation of, any Permit related to the Business, except
+for such breaches, violations, defaults, impairments or revocations that would
+not, individually or in the aggregate, have a material adverse effect on the
+Business.
+
+         Section 3.05 Governmental Consents and Approvals. Except for required
+Permits of and filings with applicable insurance regulatory authorities, the
+execution, delivery and performance by Sellers of this Agreement and the
+Ancillary Agreements to which any of them is a party and the consummation of the
+transactions contemplated hereby and thereby in accordance with the respective
+terms hereof and thereof do not require any Sellers to obtain any consent,
+approval or action of, make any filing with, or give any notice to, any
+governmental or regulatory body, except for such consents, approvals, actions,
+filings or notices the failure of which to obtain, make or give, as the case may
+be, would not, individually or in the aggregate, have a material adverse effect
+on the Business.
+
+         Section 3.06 Computer Software and Intellectual Property.
+
+         (a) Each Seller has set forth on Schedule 3.06(a) hereto a true and
+complete listing of all material computer software programs used in the conduct
+of the Business. Such computer software program is either (i) owned by the
+Seller (the "Owned Software") or (ii) licensed by the Seller from a third party
+(the "Licensed Software"). Each Seller has the right to use all Owned
+
+                                       18
+
+<PAGE>
+
+and Licensed Software as currently used in the Business, and to grant to
+Purchaser the rights and licenses to the Owned Software as are set forth in the
+Software License Agreement free and clear of any royalty or other similar
+payment obligations, claims of infringement or alleged infringement or other
+lien, charge, claim or other encumbrance of any kind, except for any such
+claims, liens, charges or encumbrances that would not, individually or in the
+aggregate, have a material adverse effect on the Business. Each Seller's use of
+the Owned Software and the Licensed Software is not in conflict with or
+violation or infringement of, nor, to the knowledge of the Seller Key People,
+has any Seller received any notice of any such conflict with, or violation or
+infringement of, any asserted rights of any other Person, except for any such
+conflicts, violations or infringements that would not, individually or in the
+aggregate, have a material adverse effect on the Business. Sellers represent
+that all Coinsured Contracts are on the LifeComm/CORE Computer System.
+
+         (b) The logos, trademarks, service marks and copyrights that are used
+in the Business and listed on Schedule 3.06(b) are the property of Sellers, and
+(ii) any Seller has the right to grant to Purchaser a limited license to use
+these logos, trademarks, service marks and copyrights above set forth and
+included in the Trademark and Copyright License Agreements.
+
+         Section 3.07 Brokerage and Financial Advisers. No broker, finder or
+financial adviser has acted directly or indirectly as such for, or is entitled
+to any compensation from, Sellers or their Affiliates in connection with this
+Agreement or the transactions contemplated hereby, except Goldman, Sachs & Co.,
+whose fees for services rendered in connection therewith will be paid by
+Sellers.
+
+         Section 3.08 Compliance with Laws. Except with respect to those
+violations listed on Schedule 3.08 or which would not have a material adverse
+effect on the Business, no Seller, is in violation of any federal, state, local
+or foreign law, ordinance or regulation or any other requirement of any
+governmental or regulatory body, court or arbitrator applicable to the Business
+nor, to the knowledge of the Seller Key People, has any Seller received any
+written notice that any such violation is being alleged.
+
+         Section 3.09 Permits, Licenses and Franchises. Schedule 3.09 hereto
+lists (i) all jurisdictions in which Sellers are licensed to issue the Coinsured
+Contracts and (ii) the lines of business in connection with the Business which
+Sellers are authorized to transact in each such jurisdiction. Each Seller has
+been duly authorized by the relevant state insurance regulatory authorities to
+issue the Coinsured Contracts that it is currently writing, and was duly
+authorized to issue the Coinsured Contracts that it is not currently writing at
+the time such Coinsured Contracts were issued, in the respective states in which
+it conducts the Business, except for authorizations the failure of which to have
+would not, individually or in the aggregate, have a material adverse effect on
+the Business. Except as set forth on Schedule 3.09, Sellers have all other
+Permits necessary to conduct the Business in the manner and in the areas in
+which the Business is presently being conducted and all such Permits are valid
+and in full force and effect, except where the failure to have such a Permit
+would not, individually or in the aggregate, have a material adverse effect on
+the Business.
+
+                                       19
+
+<PAGE>
+
+       Section 3.10  Coinsured Contracts.
+
+       (a)    All Coinsured Contracts as now in force are in all respects, to
+the extent required under Applicable Law, on forms approved by applicable
+insurance regulatory authorities or which have been filed and not objected to by
+such authorities within the period provided for objection, and such forms comply
+in all material respects with the insurance statutes, regulations and rules
+applicable thereto, except where the failure to have such approval or
+non-objection or the failure to so comply would not, individually or in the
+aggregate, have a material adverse effect on the Business. To the knowledge of
+the Seller Key People, at the time any Seller paid commissions to any broker or
+agent within the past 36 months in connection with the sale of Coinsured
+Contracts, each such broker or agent was duly licensed as an insurance broker
+(for the type of business sold by such broker) or agent in the particular
+jurisdiction in which such broker or agent sold such business for any Seller,
+and no such broker or agent violated (or with or without notice or lapse of time
+or both would have violated) any federal, state, local or foreign law, ordinance
+or regulation or any other requirement of any governmental or regulatory body,
+court or arbitrator applicable to the Business, except where the failure to be
+so licensed or any such violation would not, individually or in the aggregate,
+have a material adverse effect on the Business. Neither the manner in which any
+Seller compensates any Person involved in the sale or servicing of Coinsured
+Contracts that is not registered as a broker-dealer or insurance agent, as
+applicable, nor, to the knowledge of the Seller Key People, the conduct of any
+such Person, renders such Person a broker-dealer or insurance agent under any
+applicable federal or state law, and the manner in which any Seller compensates
+each Person involved in the sale or servicing of Coinsured Contracts is in
+compliance with all applicable federal or state laws except where such manner of
+compensation or conduct having such affect or the failure to be so in compliance
+would not, individually or in the aggregate, have a material adverse affect on
+the Business.
+
+       (b)    Both Sellers have implemented procedures and programs which are
+reasonably designed to provide assurance that its respective agents and
+employees are in material compliance with all Applicable Law, including without
+limitation, advertising, licensing and sales practices laws, regulations,
+directives, bulletins and opinions of governmental authorities, except for
+non-compliances that, individually or in the aggregate, have not had and would
+not have a material adverse effect on the Business. Except as previously
+disclosed in this Agreement or any Schedule to this Agreement, the Seller Key
+People have no knowledge of any noncompliance with the procedures and programs
+implemented, except for noncompliance which, individually or in the aggregate,
+have not had and would not have a material adverse effect on the Business.
+
+       (c)    Sellers have at all times since January 1, 1993, maintained
+records which in all material respects accurately reflect transactions in
+reasonable detail, and accounting controls, policies and procedures sufficient
+to ensure in all material respects that such transactions are recorded in a
+manner which permits the preparation of financial statements in accordance with
+GAAP and applicable statutory accounting requirements.
+
+       Section 3.11  Regulatory Filings. Except as listed on Schedule 3.11
+hereto, since January 1, 1996, Sellers have filed all reports, statements,
+documents, registrations, filings or
+
+                                       20
+
+<PAGE>
+
+submissions (including without limitation any sales material) required to be
+filed by Sellers, with any governmental or regulatory body to the extent they
+relate to the Business, except where the failure to make such filings would not,
+individually or in the aggregate, have a material adverse effect on the
+Business. Except as listed on Schedule 3.11 hereto, all such registrations,
+filings and submissions were in compliance in all material respects with
+applicable law when filed or as amended or supplemented, and, to the knowledge
+of the Seller Key People, no material deficiencies have been asserted by any
+such governmental or regulatory body with respect to such registrations, filings
+or submissions that have not been satisfied.
+
+       Section 3.12  Reinsurance. Except as set forth on Schedule 3.12 hereto,
+and to the knowledge of the Seller Key People, (a) there are no agreements,
+written or oral, pursuant to which Sellers cede or retrocede risks assumed under
+the Coinsured Contracts and (b) there are no Coinsured Contracts which are
+agreements of assumed reinsurance.
+
+       Section 3.13  Conduct of Business. Except as expressly contemplated or
+required by this Agreement, or as set forth in Schedule 3.13 hereto, since
+December 31, 2001, Sellers have generally conducted the Business only in the
+ordinary course consistent with their past practices and there has not been any
+material change in the underwriting, pricing, actuarial, reserving, investment,
+sales, marketing or agency practices or policies of the Business, other than a
+change that would not be reasonably likely to have a material adverse effect on
+the Business.
+
+       Section 3.14  Absence of Certain Changes. Except as set forth on Schedule
+3.14, since December 31, 2001, there has been no event or condition, that,
+individually or in the aggregate, would be reasonably likely have a material
+adverse effect on the Business.
+
+       Section 3.15  Other Sale Arrangements. None of FAFLIC or AFLIAC is
+obligated or liable, contingently or otherwise, for or with respect to
+negotiations, letters of intent or commitments for the sale of all or any part
+of the Business (except in the ordinary course of business) to any Persons other
+than Purchaser.
+
+       Section 3.16  Reserved.
+
+       Section 3.17  Employees. Schedule 3.17(a) hereto lists to the knowledge
+of the Seller Key People (i) five Persons employed by any Seller or any of their
+respective Affiliates immediately prior to the execution of this Agreement who
+are key employees for the Business.
+
+       (b) Schedule 3.17(b) hereto lists and describes, to the knowledge of the
+Seller Key People, any "pay to stay" or similar arrangement applicable to any
+employee listed on Schedule 3.17(a) hereto as of the date of this Agreement.
+
+       Section 3.18  Transferred Assets. Sellers have good and marketable title
+to all assets included within the Transferred Assets (other than cash and the
+Transferred Contracts), free of any lien, encumbrance, restriction, claim,
+charge, or defect of title, except for any liens, encumbrances, restrictions,
+claims, charges or defaults of title (i) whose effect on the value of the
+relevant Transferred Assets will be collectively reflected in the current value
+thereof on the Final Balance Sheet, (ii) identified on Schedule 3.18 hereto, or
+(iii) with respect to assets other than cash or Investment Assets, that,
+individually or in the aggregate, would not have a material adverse effect on
+the Business.
+
+                                       21
+
+<PAGE>
+
+       Section 3.19  GAAP Financial Statements. On or prior to the date hereof,
+Sellers have delivered to Purchaser true, correct and complete copies of (a) the
+audited consolidated balance sheet of each Seller and their respective
+Subsidiaries as of December 31, 2001, prepared in accordance with GAAP, together
+with the notes thereon and the related report of PricewaterhouseCoopers, LLP,
+the independent certified public accountant of Sellers, and (b) the audited
+consolidated statements of income, stockholders' equity and cash flows of each
+Seller and its Subsidiaries for the year ended December 31, 2001, prepared in
+accordance with GAAP, together with the notes thereon and the related report of
+PricewaterhouseCoopers, LLP, (collectively, the "Sellers Financial Statements").
+The Sellers Financial Statements are based on the books and records of Sellers
+and their Subsidiaries, and the Sellers Financial Statements have been prepared
+in accordance with GAAP (subject to normal recurring year-end adjustments)
+consistently applied, and fairly present in all material respects the
+consolidated financial position and results of operations of Sellers and their
+respective Subsidiaries as of the date and for the period indicated therein.
+
+       Section 3.20  Statutory Statements. Sellers have previously delivered
+Purchaser true, complete and correct copies of (a) the Annual Statements of each
+Seller as filed with the Massachusetts Division of Insurance for the years ended
+December 31, 2001 and 2000 including any update thereto, together with all
+exhibits and schedules thereto; (b) the Quarterly Statements of each Seller as
+filed with the Massachusetts Division of Insurance for each of the first three
+quarters in 2002; and (c) the actuarial opinions applicable to the Business for
+such years and supporting actuarial memoranda for the year ended December 31,
+2001 only.
+
+       Section 3.21  Tax Matters. Except as described on Schedule 3.21:
+
+       (a)    Sellers agree that for all Tax purposes the transactions pursuant
+to this Agreement and the Ancillary Agreements constitute indemnity reinsurance
+transactions. Sellers further agree not to take any position inconsistent with
+these positions for Tax purposes.
+
+       (b)    Each Coinsured Contract identified as a "Life Insurance Contract"
+for purposes of this Agreement that was issued after December 31, 1984 complies
+with the requirements of Section 7702 of the Code.
+
+       (c)    Each Coinsured Contract identified as a "Life Insurance Contract"
+for purposes of this Agreement that was issued before January 1, 1985 (i)
+complies with the requirements of Section 7702 of the Code to the extent
+applicable to such Insurance Contract or (ii) to the extent Section 7702 of the
+Code is inapplicable to such Insurance Contact and such Insurance Contract is a
+flexible premium contract within the meaning of Section 101(f) of the Code,
+complies with the requirements of such Section 101(f).
+
+       (d)    To the knowledge of the Seller Key People, there are no "hold
+harmless," tax sharing, indemnification, or similar arrangements regarding the
+Tax qualification or treatment of any Coinsured Contracts.
+
+       (e)    Tax Reserves have been properly computed in accordance with
+Section 807 of the Internal Revenue Code and the Income Tax Regulations
+thereunder.
+
+                                       22
+
+<PAGE>
+
+       (f)    The policyholders of any Coinsured Contracts that constitute
+"modified endowment contracts" under Section 7702A of the Code have been fully
+notified of the status and federal tax consequences of such Coinsured Contracts.
+All such modified endowment contracts are listed on attached Exhibit F and
+Seller will bear the economic cost associated with such noncompliance as
+provided for in Section 8.02(b) hereof.
+
+       (g)    Each Seller has complied in all material respects with all
+applicable reporting, withholding and disclosure requirements under the Code,
+ERISA and other applicable law, including but not limited to those regarding
+distributions, with respect to the Coinsured Contracts and has reported the
+distributions under such contracts in accordance with Sections 72, 7702 and
+7702A of the Code in all material respects.
+
+       Section 3.22  Disaster Recovery Backup. Sellers have established off-site
+storage of all systems and data used in the administration of the Coinsured
+Contracts to allow for a continuation of work with no more than a 48-hour
+interruption if there is any disaster or other event which interrupts work at
+the facility where the work is being performed ("Disaster Recovery Backup"). The
+Disaster Recovery Backup is located at Tewksbury, Massachusetts.
+
+       Section 3.23 Pro Forma Financial Statements. Except with respect to net
+investment income, the data contained in the Pro Forma Financial Statements was
+obtained from the books and records of Sellers and is the same data that was
+included with respect to the Business in the statutory financial statements of
+Sellers and in Sellers' work papers upon which such Massachusetts SAP financial
+statements were based. Such data was computed in accordance with, as applicable,
+Massachusetts SAP in all material respects with the requirements of Section
+2.01(b)A-D. Except as disclosed on Schedule 3.23 hereto, or reserved against in
+Sellers' Financial Statements, to the knowledge of the Seller Key People, as of
+the date thereof there were no material debts, liabilities or obligations of the
+Business, whether accrued, absolute or contingent and whether due or to become
+due that would be required to be set forth in such financial statements.
+
+                                   ARTICLE IV
+
+                   REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+       Purchaser hereby represents and warrants to Sellers as of the Effective
+Date, as follows:
+
+       Section 4.01  Organization and Standing. Purchaser is a Massachusetts
+domiciled stock life insurance company and has all requisite power and authority
+to own, lease and operate its assets, properties and business and to carry on
+the operations of its business as they are now being conducted, except where
+such authority is not material to such operations.
+
+       Section 4.02  Authorization. Purchaser has all requisite power and
+authority to execute, deliver and perform its obligations under this Agreement
+and under each of the Ancillary Agreements to be executed by it. The execution
+and delivery by Purchaser of this Agreement and the execution and delivery of
+the Ancillary Agreements to be executed by Purchaser, and the performance by it
+of its obligations under such agreements, have been duly authorized by all
+necessary corporate action. This Agreement has been duly executed and
+
+                                       23
+
+<PAGE>
+
+delivered by Purchaser, and on the Closing Date the Ancillary Agreements
+executed by Purchaser will be duly executed and delivered by Purchaser; and,
+subject to the due execution and delivery by the other parties to such
+agreements, this Agreement is, and the Ancillary Agreements executed by
+Purchaser will, upon due execution and delivery, be valid and binding
+obligations of Purchaser enforceable against it in accordance with their
+respective terms. Notwithstanding the foregoing, the obligation of Purchaser to
+execute any Ancillary Agreement shall be subject to the terms and conditions of
+this Agreement.
+
+       Section 4.03  Actions and Proceedings. Except as disclosed on Schedule
+4.03 hereto, there are no outstanding orders, decrees or judgments by or with
+any court, governmental agency, regulatory body or arbitration tribunal before
+which Purchaser was a party that, individually or in the aggregate, have a
+material adverse effect on the operations, financial condition or assets of
+Purchaser. Except as disclosed on Schedule 4.03 hereto, there are no actions,
+suits, arbitrations or legal, administrative or other proceedings pending or, to
+the knowledge of Purchaser Key People, threatened against Purchaser or at law or
+in equity, or before or by any governmental department, commission, board,
+bureau, agency or instrumentality, domestic or foreign, or before any arbitrator
+of any kind which, if adversely determined, would, individually or in the
+aggregate, have a material adverse effect on the operations, financial
+conditions or assets of Purchaser.
+
+       Section 4.04  No Conflict or Violation. Except as disclosed on Schedule
+4.04 hereto, the execution, delivery and performance by Purchaser of this
+Agreement and the execution, delivery and performance by Purchaser of the
+Ancillary Agreements to which it is a party and the consummation of the
+transactions contemplated hereby and thereby in accordance with the respective
+terms and conditions hereof and thereof will not (a) violate any provision of
+the charter, bylaws or other organizational document of Purchaser, (b) violate,
+conflict with or result in the breach of any of the terms of, result in any
+modification of the effect of, otherwise give any other contracting party the
+right to terminate, or constitute (or with notice or lapse of time or both,
+constitute) a default under, any contract to which Purchaser is a party or by or
+to which it or any of its assets or properties may be bound or subject, except
+for such violations, conflicts, breaches or modifications that would not,
+individually or in the aggregate, have a material adverse effect on the
+operations, financial condition or assets of Purchaser, (c) violate any order,
+judgment, injunction, award or decree of any court, arbitrator or governmental
+or regulatory body against, or binding upon, or any agreement with, or condition
+imposed by, any governmental or regulatory body, foreign or domestic, binding
+upon Purchaser, except for such violations that would not, individually or in
+the aggregate, have a material adverse effect on the operations, financial
+condition or assets of Purchaser, (d) violate any statute, law or regulation of
+any jurisdiction except for such violations that would not, individually or in
+the aggregate, have a material adverse effect on Purchaser, or (e) result in a
+breach or violation of any of the terms or conditions of, constitute a default
+under, or otherwise cause an impairment of, any Permit related to Purchaser's
+business or necessary to conduct the Business, except for any violation,
+conflict, breach or default that would individually or in the aggregate, have a
+material adverse effect on the operations, financial condition or assets of
+Purchaser.
+
+       Section 4.05  Governmental Consents and Approvals. Except as set forth on
+Schedule 4.05 hereto and except for required Permits of applicable insurance
+regulatory authorities, the execution, delivery and performance by Purchaser of
+this Agreement, and the
+
+                                       24
+
+<PAGE>
+
+execution, delivery and performance by Purchaser of the Ancillary Agreements to
+which it is a party, and the consummation of the transactions contemplated
+hereby and thereby in accordance with the respective terms hereof and thereof,
+do not require Purchaser to obtain any consent, approval or action of, make any
+governmental filing with or give any notice to, any Person, except for such
+consents, approvals, actions, filings or notices the failure of which to obtain,
+make or give, as the case may be, would not individually or in the aggregate
+have a material adverse effect on the operations, financial condition or assets
+of Purchaser.
+
+       Section 4.06  Brokerage and Financial Advisers. No broker, finder or
+financial adviser has acted directly or indirectly as such for, or is entitled
+to any compensation from, Purchaser in connection with this Agreement or the
+transactions contemplated hereby except Bear Stearns & Co. Inc, whose fees for
+services rendered in connection with the transactions contemplated by this
+Agreement will be paid by Purchaser.
+
+       Section 4.07  Compliance with Laws. Except with respect to those
+violations, if any, that will be cured by Purchaser prior to, or by the act of,
+Closing or which individually or in the aggregate would not have a material
+adverse effect on the operation of Purchaser, Purchaser is not in violation of
+any federal, state, local or foreign law, ordinance or regulation or any other
+requirement of any governmental or regulatory body, court or arbitrator nor has
+Purchaser received any written notice that any such violation is being alleged.
+
+       Section 4.08  Permits, Licenses and Franchises. Purchaser has been duly
+authorized by the relevant state insurance regulatory authorities to transact
+life insurance business in all 50 states and Puerto Rico. Except as listed on
+Schedule 4.08 hereto, Purchaser has all Permits necessary to conduct the
+Business in the manner and in the areas in which the Business is presently being
+conducted, and all such Permits are valid and in full force and effect, except
+where the failure to have such a Permit would not, individually or in the
+aggregate, have a material effect on the operations of Purchaser. Except as
+listed on Schedule 4.08 hereto, Purchaser has not engaged in any activity which
+would cause revocation or suspension of any such Permit and no action or
+proceeding looking to or contemplating the revocation or suspension of any such
+Permit is pending or threatened.
+
+       Section 4.09  Sufficient Funds. Purchaser has or will have at Closing
+sufficient funds available to pay the Adjusted Ceding Commission and to pay all
+fees and expenses related to the transactions contemplated.
+
+                                    ARTICLE V
+
+                                    COVENANTS
+
+       Section 5.01  Conduct of Business.
+
+       (a)    During the period from the Effective Date to the Closing, each
+Seller shall (i) in all material respects operate the Business as presently
+operated and only in the ordinary course and consistent with past practice
+(including but not limited to past underwriting standards and investment
+management of the Transferred Assets) except as set forth in Schedule 5.01(a)
+hereto, or otherwise required by this Agreement (ii) use commercially reasonable
+best efforts to preserve
+
+                                       25
+
+<PAGE>
+
+the value of the Business, and (iii) use commercially reasonable best efforts to
+preserve their relationships with and the goodwill of their agents, brokers,
+customers, suppliers, employees and other Persons having business dealings with
+Sellers in connection with the Business.
+
+       (b)    Without limiting the generality of Section 5.01(a), and except as
+otherwise expressly provided in this Agreement, Sellers will not without the
+prior written consent of Purchaser:
+
+                     (i)    enter into any contract, other than in the ordinary
+              course of business consistent with past practice during the fourth
+              quarter of 2002 in all material respects;
+
+                     (ii)   acquire or dispose of any asset used or to be used
+              in the Business, other than acquisitions or dispositions in the
+              ordinary course of the Business in all material respects;
+
+                     (iii)  change in any material respect any of the accounting
+              principles, practices, methods or policies (including but not
+              limited to any reserving methods, practices or policies) employed
+              with respect to the Business, except as may be required as a
+              result of a change in law, GAAP, SAP or guidelines issued by the
+              Commission or its accounting staff or by any other regulatory or
+              self-regulatory authority;
+
+                     (iv)   pay, discharge or satisfy any material claims,
+              liabilities or obligations associated with the Business (absolute,
+              asserted or unasserted, contingent or otherwise) other than the
+              payment, discharge or satisfaction in the ordinary course of the
+              Business consistent with past practice or in accordance with the
+              terms of liabilities reflected or reserved against in the Pro
+              Forma Financial Statements or incurred in the ordinary course of
+              business consistent with past practice in all material respects;
+
+                     (v)    enter into any reinsurance contract, other than in
+              the ordinary course of business of the Business consistent with
+              past practice in all material respects;
+
+                     (vi)   agree in writing or otherwise to take any of the
+              actions described above in this Section 5.01(b).
+
+       (c)    Prior to Closing, each Seller shall notify Purchaser as promptly
+as practicable of any event or transaction having a material adverse effect on
+the Business.
+
+       (d)    Prior to the Closing Date, Sellers will:
+
+                     (i)    not take any action intended to cause lapses,
+              conversions or the terminations of any Coinsured Contract;
+
+                     (ii)   take no action intended to encourage any agents of a
+              Seller to roll over any Coinsured Contract; and
+
+                                       26
+
+<PAGE>
+
+                     (iii)  pay no commissions to any agent on such Coinsured
+              Contracts that is rolled over in the event that, commencing on the
+              Effective Date, the lapse rate with respect to Coinsured Contracts
+              exceeds [*]%, calculated on an annualized rolling prior 3-month
+              lapse rate basis calculated and reported, in writing to Purchaser
+              by Sellers each week.
+
+       (e)    During the period from the Effective Date to the Closing Date,
+Sellers will continue to provide all administrative services and other duties
+and obligations required to be performed with respect to General Account
+Liabilities and the Coinsured Contracts in accordance in all material respects
+with the standards they have used in administering the business and will not
+make any material changes in such standards except as required by applicable
+law. Sellers shall receive compensation, which Sellers will reflect in the
+Notional Operating Account, for such services equal to $[*] per policy in effect
+at the end of each month per year prorated for the days the Notional Operating
+Account is in effect, which shall become due and payable pursuant to Section
+2.01. Within five days of the end of each full calendar month following the date
+hereof, Seller shall provide to Purchasers a monthly financial statement of the
+Notional Operating Account certified by the chief financial officer of each
+Seller that such statement reflects reinsurance accounting as currently required
+by Massachusetts SAP in all material respects.
+
+       (f)    From the Effective Date to Closing, Sellers shall consult with
+Purchaser on all investment decisions regarding the Investment Assets and shall
+manage the Investment Assets at Purchaser's written direction.
+
+       Section 5.02  Certain Transactions. From the date of this Agreement
+through the Closing, none of Sellers or any of their respective officers,
+employees, representatives or agents will, directly or indirectly, solicit,
+encourage or initiate any negotiations or discussions with, or provide any
+information to, or otherwise cooperate in any other manner with, any Person or
+group (other than Purchaser, and its Affiliates and representatives) concerning
+any direct or indirect sale or other disposition of the Business or the stock or
+substantially all of the assets of any Seller.
+
+       Section 5.03  Investigations; Pre-Closing Access.
+
+       (a)    Prior to the Closing Date, Purchaser shall be entitled, through
+its employees and representatives, to make such investigation of the assets,
+liabilities, business and operations of the Business, and such examination of
+the Books and Records, as Purchaser may reasonably request. Any investigation,
+examination or interview by Purchaser of any of the Sellers or their employees
+and agents or access pursuant to any of the provisions of this Section 5.03(a)
+or Section 5.03(b) shall be conducted or occur during regular business hours
+upon reasonable prior notice to Sellers, provided however, that such actions by
+Purchaser shall not unreasonably interfere with Seller's business operations;
+and each of the parties hereto and its employees and representatives, including,
+without limitation, counsel, investment bankers, and independent public
+accountants, shall cooperate with the other's employees and representatives, as
+the case may be, in connection with such review and examination.
+
+                                       27
+
+<PAGE>
+
+       (b)    In addition, prior to the Closing Date, Sellers shall provide
+Purchaser with full and complete access to every aspect of the Business. Without
+limiting the generality of the foregoing, Sellers shall, commencing on the date
+hereof (i) provide Purchaser with access to employees and agents of Sellers
+reasonably specified by Purchaser to understand any and all aspects of the
+Business and to plan the transition of the Business as Purchaser may reasonably
+request, (ii) reasonably designate certain individuals (subject to Purchaser's
+reasonable approval) to serve as members of a Seller/Purchaser transition team
+and cause such individuals to devote reasonable time to transition matters,
+(iii) devote reasonable resources to transition matters (such resources to
+include, without limitation, office accommodations and related facilities for a
+substantial and continuing presence of Purchaser's transition team members on
+any Seller's premises), (iv) consult with Purchaser regarding Sellers'
+development work pertaining to systems, products, distribution and customer and
+producer services, (v) cooperate with Purchaser in its development work
+pertaining to systems, products, distribution and customer and producer services
+in order to enable implementation of the transition plan at the earliest
+feasible date. In conjunction with the foregoing, Sellers hereby acknowledge
+that such transition plan is critical to the success of the transactions
+contemplated by this Agreement, and (vi) permit, and cooperate with, Purchaser
+to offer to selected employees of Seller, as designated by Purchaser and
+reasonably acceptable to Sellers, incentive compensation to encourage such
+employees to continue their employment with the Business through January 21,
+2004, provided the aggregate of such incentive compensation shall not exceed
+$250,000, Purchaser to reimburse the Sellers for such incentive compensation,
+including Sellers' portion of withholding taxes.
+
+       (c)    Any investigation, examination or interview by Purchaser of any of
+the Seller Parties or their employees and agents or access pursuant to any of
+the provisions of Section 5.03(a) or Section 5.03(b) shall be conducted or occur
+during regular business hours upon reasonable prior notice to the Seller Parties
+provided, however, that such actions by Purchaser shall not unreasonably
+interfere with Sellers' business operations.
+
+       (d)    Sellers shall, prior to Closing, provide Purchaser with all
+information reasonably necessary to operate the Business as it is currently
+operated.
+
+       (e)    Notwithstanding any other provisions of this Section 5.03,
+Purchaser and Sellers shall cooperate in implementing the provisions of this
+Section 5.03 so as not to prevent or interfere with each Seller's compliance
+with Section 5.01 hereof.
+
+       Section 5.04  Post-Closing Access.
+
+       (a)    In addition to any similar provisions provided in the Transition
+Services Agreement, following the Closing Date, each Seller shall (i) allow
+Purchaser upon reasonable prior notice and during regular business hours,
+through their employees and representatives, the right, at Purchaser's expense,
+to examine and make copies of any books and records retained by each Seller, to
+the extent they relate to the Business, for any reasonable business purpose,
+including, without limitation, the preparation or examination of Purchaser's Tax
+returns, regulatory filings and financial statements and the conduct of any
+litigation or regulatory dispute resolution, whether pending or threatened,
+concerning the conduct of the Business prior to the Closing Date and (ii)
+maintain such books and records for Purchaser's examination and copying for the
+period required under each Sellers document retention policy or longer if
+required by law.
+
+                                       28
+
+<PAGE>
+
+Access to such books and records shall be at Purchaser's expense and may not
+unreasonably interfere with any Seller's or successor company's business
+operations.
+
+       (b)    Following the Closing Date, Purchaser shall (i) allow Sellers,
+upon reasonable prior notice and during regular business hours, through their
+employees and representatives, the right, at Sellers' expense, to examine and
+make copies of the Books and Records transferred to Purchaser, respectively, at
+the Closing for any reasonable business purpose, including, without limitation,
+the preparation or examination of Tax returns, regulatory filings and financial
+statements and the conduct of any litigation or the conduct of any regulatory,
+contract holder, participant or other dispute resolution whether pending or
+threatened, and (ii) maintain such Books and Records for Sellers' examination
+and copying for the period required under Purchaser's document retention policy
+or longer if required by law. Access to such Books and Records shall be at
+Sellers' expense and may not unreasonably interfere with Purchaser's or any
+successor company's business operations.
+
+       Section 5.05  Consents and Reasonable Efforts.
+
+       (a)    Sellers and Purchaser shall cooperate and use reasonable best
+efforts to obtain all consents, approvals and agreements of, and to give and
+make all notices and filings with, any governmental authorities and regulatory
+agencies, necessary to authorize, approve or permit the consummation of the
+transactions contemplated by this Agreement, the Ancillary Agreements and the
+other agreements contemplated hereby and thereby, including, without limitation,
+the Permits described in Sections 6.03 and 7.03 hereof. Sellers shall use
+reasonable best efforts to obtain, and Purchaser will cooperate with Sellers in
+obtaining, all other approvals and consents to the transactions contemplated by
+this Agreement and the Ancillary Agreements, including the matters set forth on
+Schedule 3.04 hereto and the consents of third parties under contracts to be
+assigned. In the event third party consents under contracts to be assigned
+cannot be obtained, Sellers agree to use reasonable best efforts, in cooperation
+with Purchaser, to obtain comparable benefits for Purchaser. Purchaser will use
+reasonable best efforts to obtain all approvals and consents to the transactions
+contemplated by this Agreement and the Ancillary Agreements including the
+matters as set forth on Schedule 5.05 hereto.
+
+       (b)    Each party shall provide all necessary information, documentation
+and communications to any insurance regulatory authorities and such other
+Government Authorities and other Persons required to consummate the transactions
+contemplated hereby. Each party shall cooperate with the other in obtaining, as
+promptly as practicable, all approvals, authorizations and clearances of
+Government Authorities and other Persons required to consummate the transactions
+contemplated hereby. Each party hereto shall have the right to review in
+advance, and to the extent practicable each will consult the other on, in each
+case subject to applicable laws relating to the exchange of information or other
+applicable confidentiality requirements, all the information relating to Sellers
+and Purchaser or any of their respective Affiliates, as the case may be, that
+appears in any filings or other submissions with, or other written materials
+submitted to, any third party or Government Authorities in connection with the
+transactions contemplated by this Agreement. Sellers and Purchaser agree that
+they will keep the other apprised of the status of matters relating to
+completion of the transactions contemplated by this Agreement, including
+promptly furnishing the other with copies of any notice or other communications
+received by Sellers and Purchaser or any of their respective
+
+                                       29
+
+<PAGE>
+
+Affiliates, as the case may be, from any third party or Government Authority
+with respect to the transactions contemplated hereby, including, without
+limitation, all inquiries from insurance regulators and all notices of claims,
+suits and actions for which either party receives service of process.
+
+       Section 5.06  Further Assurances.
+
+       (a)    Upon the terms and subject to the conditions herein provided, on
+and prior to the Closing Date, each of Seller and Purchaser shall use all
+commercially reasonable best efforts to take, or cause to be taken, all action
+or do, or cause to be done, all things or execute any documents necessary,
+proper or advisable under applicable laws and regulations to consummate and make
+effective the transactions contemplated by this Agreement, the Ancillary
+Agreements and the other agreements contemplated hereby and thereby.
+
+       (b)    On and after the Closing Date, Sellers (as reasonably requested
+from time to time by Purchaser) and Purchaser (as reasonably requested from time
+to time by Sellers) shall take all reasonably appropriate action and execute any
+additional documents, instruments or conveyances of any kind (not containing
+additional representations and warranties) which may be reasonably necessary to
+carry out any of the provisions hereof, including, without limitation, putting
+Purchaser in full possession and operating control of the Transferred Assets and
+the Business and giving effect to the assumption of liabilities by Purchaser as
+contemplated hereby and thereby.
+
+       Section 5.07  Expenses. Except as otherwise specifically provided in this
+Agreement, the parties to this Agreement shall bear their respective expenses
+incurred in connection with the preparation, execution and performance of this
+Agreement and the transactions contemplated hereby, including, without
+limitation, all fees and expenses of agents, representatives, counsel,
+investment bankers, actuaries and accountants.
+
+       Section 5.08  Indemnity Coinsurance Agreement. At the Closing, each
+Seller and Purchaser shall execute and deliver to each other an Indemnity
+Coinsurance Agreement, which shall be effective as of the Effective Date.
+
+       Section 5.09  Administrative Services Agreement. Sellers and Purchaser
+agree to negotiate in good faith promptly and diligently the final form of
+Administrative Services Agreement.
+
+       Section 5.10  Transition Servicing Agreement. Sellers and Purchaser agree
+to negotiate in good faith promptly and diligently the final form of Transition
+Servicing Agreement, provided, that the provisions relating to indemnification
+by Parent contained in Section 4.5 of Exhibit C shall be no less advantageous to
+Purchaser or Parent.
+
+       Section 5.11  Bill of Sale and General Assignment Agreement. At the
+Closing, Sellers and Purchaser shall execute and deliver to each other the Bill
+of Sale and General Assignment Agreement, which shall be effective as of the
+Closing Date, in substantially the form of Exhibit D hereto.
+
+       Section 5.12  Reserved.
+
+
+                                       30
+
+<PAGE>
+
+     Section 5.13 License Agreements. At the Closing, Sellers and Purchaser will
+execute and deliver to each other the Software, Trademark and Copyright License
+Agreements.
+
+     Section 5.14 Reinsurance Treaties. Prior to Closing, each Seller agree to
+use its commercially reasonable best efforts, at its own expense, to assign all
+of its rights and obligations under the reinsurance treaties listed on Schedule
+5.14 hereto to which it is a party under the existing terms of such treaties,
+and to obtain any endorsements from the reinsurers thereunder to the extent
+necessary to ensure that Purchaser is entitled to enforce such treaties against
+the reinsurers its own names, with respect to the Coinsured Contracts.
+
+     Section 5.15 Reserved.
+
+     Section 5.16 Reserved.
+
+     Section 5.17 Tax Allocation.
+
+     (a) Sellers and Purchaser agree to allocate the sum of the Adjusted Ceding
+Commission and the General Account Reserves transferred as of the Effective Date
+(such sum, the "Allocable Amount") among the Transferred Assets in accordance
+with this Section 5.17 for all purposes, including Tax and financial accounting
+purposes.
+
+     (b) An amount equal to the Adjusted Ceding Commissions shall be allocated
+to the value of the insurance-in-force with respect to the Coinsured Contracts
+reinsured under the Coinsurance Agreement.
+
+     (c) The remainder of the Allocable Amount shall be allocated among the
+Transferred Assets (other than such insurance-in-force) in proportion to the
+fair market value of such assets, using the residual method of accounting. For
+purposes of the Code, the amount of the liabilities assumed by Purchaser that
+are included in the Allocable Amount for this purpose shall be equal to Sellers'
+combined tax basis in such liabilities.
+
+     (d) For purposes of Section 1060 of the Code, Sellers and Purchaser shall
+(i) make the allocation described in Section 5.17(c) hereof in the manner
+described in Income Tax Regulations Section 1.1060-1T, taking into account the
+allocation described in Section 5.17(b) hereof, and (ii) file asset acquisition
+statements on Form 8594 (or any replacement or successor form) reflecting such
+allocation at the time, in the manner, and under the procedures described in
+such provision of the Income Tax Regulations.
+
+     (e) As soon as practicable after the Closing Date, Purchaser shall prepare
+a schedule reflecting the allocation of the remainder of the Allocable Amount
+under Section 5.17(c) hereof in the manner described in Income Tax Regulations
+Section 1.1060-1T and shall submit it to Sellers. If, within 30 days of Sellers'
+receipt of such schedule, Sellers shall not have objected in writing to the
+determination of the Allocable Amount or to such allocation, the allocation
+shall be used by Sellers and Purchaser for purposes of Form 8594 (and any
+replacement or successor form) and all other federal income Tax purposes. If,
+within 15 days of any objection in writing to the determination of the Allocable
+Amount or to such allocation, Sellers and Purchaser shall not have agreed in
+writing to the allocation under Section 5.17(c) hereof, any disputed aspects of
+
+                                       31
+
+<PAGE>
+
+the determination of the Allocable Amount or to such allocation shall be
+resolved by the Third Party Accountant within 30 days of the submission of the
+dispute to the Third Party Accountant by Sellers or Purchaser. The decision of
+the Third Party Accountant shall be final, and the costs, expenses, and fees of
+the Third Party Accountant shall be borne equally by Sellers and Purchaser.
+
+     (f) Sellers and Purchaser shall not take any position before any Taxing
+Authority or otherwise (including in any Tax return) inconsistent with this
+Section 5.17 unless and to the extent required to do so pursuant to a
+determination (as defined in Section 1313(a) of the Code or any similar
+provision of state, local or foreign law).
+
+     Section 5.18 Reserved.
+
+     Section 5.19 Reserved.
+
+     Section 5.20 Licensed Software and Transition Support.
+
+     (a) Upon Purchaser's written request, Sellers shall obtain, at or prior to
+the end of the term of the Transition Servicing Agreement, on behalf of
+Purchaser from the licensors of the Licensed Software (i) all rights and
+licenses necessary for Sellers to use the Licensed Software to process data for
+Purchaser or its designee, as applicable, related to the Business (ii) all
+rights and licenses necessary for Purchaser or its designee, as applicable, to
+use the Licensed Software, commencing upon termination or expiration of the
+Transition Servicing Agreement, to process data for Sellers and Purchaser or its
+designee, as applicable, related to the Business, (iii) all rights and licenses
+necessary for Purchaser to copy and modify the Licensed Software to the extent
+reasonably required in connection with the processing of data related to the
+Business and (iv) maintenance for the Licensed Software on commercially
+reasonably terms substantially equivalent to those available to Sellers. The
+rights and licenses referred to above may be assigned by Purchaser to an
+affiliate or a purchaser of substantially all of the assets of the business with
+respect to which such licenses relate. Sellers shall provide Purchaser or its
+designee with a copy of all source code, object code and documentation related
+to such software in Sellers' possession or control in a form reasonably
+requested by Purchaser. Sellers shall obtain on behalf of Purchaser the rights
+and licenses referred to in this Section 5.20 for a period equal to the greater
+of (x) five (5) years after the Closing, and (y) the remaining life of the
+applicable license, and shall also obtain on behalf of Purchaser the right to
+assign the rights and licenses referred to in this Section 5.20, in whole or in
+part, to any of Purchaser's affiliates and direct or indirect successors or
+designees or a purchaser of substantially all of the assets of the business with
+respect to which such rights and licenses relate. Purchaser agrees that as a
+condition of receiving such rights and licenses, Purchaser may be required to
+accept certain confidentiality and other non-financial obligations imposed on
+Sellers under the license agreements relating to such software. Purchaser shall
+be entitled to participate fully in any negotiation with any such licensors, but
+shall bear its own costs in connection with such participation.
+
+     (b) Sellers shall, commencing on the date hereof and continuing through the
+end of the term of the Transition Servicing Agreement:
+
+                                       32
+
+<PAGE>
+
+     (i)   provide Purchaser with access to employees, agents and independent
+     contractors of Sellers reasonably specified by Purchaser to understand any
+     and all aspects of the Business and to plan the transition of the Business;
+     including but not limited to subject matter experts to support the
+     definition of interfaces to Purchaser's administrative systems from
+     Seller's administrative systems;
+
+     (ii)  designate certain individuals (subject to Purchaser's reasonable
+     approval) to serve as members of a Seller/Purchaser transition team and
+     cause such individuals to devote reasonable time to transition matters;
+
+     (iii) devote reasonable resources to transition matters (such resources to
+     include, without limitation, office accommodations and related facilities
+     for a substantial and continuing presence of Purchaser's transition team
+     members on any Seller's premises);
+
+     (iv)  cooperate with Purchaser in connection with Purchaser's filing of
+     policy and contract forms to enable Purchaser to issue policies and
+     contracts substantially similar to those included in the Business;
+
+     (v)   consult with Purchaser regarding Sellers' development work pertaining
+     to systems, products, distribution and customer and producer services; and
+
+     (vi)  cooperate with Purchaser in its development work pertaining to
+     systems, products, distribution and customer and producer services in order
+     to enable implementation of the transition plan at the earliest feasible
+     date.
+
+In conjunction with the foregoing, Sellers agree to work with Purchaser to
+prepare, and use their best efforts to complete prior to the Closing Date a
+transition services work plan detailing the services provided for in this
+Section 5.20(b), which work plan will be subject to Purchaser's review and
+approval.
+
+     (c)   During the term of the Transition Services Agreement Sellers shall
+segment the data associated with the Coinsured Contracts and Sellers and
+Purchaser shall test such segmented data to ensure that it can be processed
+properly on a stand alone basis, using the Owned Software together with the
+Licensed Software. After Purchaser, in its reasonable discretion, is satisfied
+with the content and format of the segmented data, Sellers shall deliver such
+data to Purchaser in the format and medium identified by Purchaser. All data
+delivered to Purchaser hereunder shall be complete and accurate.
+
+     (d)   All of the expenses of Sellers (including both out of pocket fees and
+expenses and the costs of use of internal resources of the Sellers and any
+Affiliates) in complying with this Section 5.20 and in assisting Purchaser in
+the system development activities contemplated under Section 5.22 shall be borne
+by Sellers; provided, however, that in the event such expenses exceed $[*],
+Purchaser shall reimburse Sellers for any amounts in excess of $[*]. Any
+reimbursement by Purchaser hereunder shall occur within twenty business days of
+Purchaser receiving reasonable documentation of Seller's expenses.
+
+     (e)   Purchaser, at its sole discretion, may choose to forego receiving the
+licenses and maintenance provided for in Section 5.20(a) above, and choose
+instead to receive the segmented
+
+                                       33
+
+<PAGE>
+
+data provided for in Section 5.20(c) and to process such data using Purchaser's
+own systems, or the systems of a third party provider, by providing Sellers with
+written notice of such choice. In the event that this option is selected,
+Purchaser's costs and expenses (including both out of pocket fees and expenses
+and the costs of use of internal resources of Purchaser and any Affiliates)
+incurred in processing such data using Purchaser's own systems or the systems of
+a third party provider shall be reimbursed by Sellers to the extent that such
+costs when added to the other expenses of Sellers in complying with this Section
+5.20 and in assisting Purchaser in the system development activities
+contemplated under Section 5.22, do not exceed $[*] million in the aggregate.
+Any reimbursement by the Sellers hereunder shall occur within twenty business
+days of the Sellers receiving reasonable documentation of Purchaser's expenses.
+
+     Section 5.21 Confidentiality. Each party hereto (with Purchaser considered
+to be one party and the Sellers considered to be another party for purposes of
+this Section 5.21) will hold, and will use its best efforts to cause its
+Affiliates, and their respective representatives to hold, in strict confidence
+from any Person (other than any such Affiliates or representatives), unless (i)
+compelled to disclose by judicial or administrative process (including without
+limitation in connection with obtaining the necessary approvals of this
+Agreement and the transactions contemplated hereby of governmental or regulatory
+authorities) or by other requirements of law or regulation, or other mandatory
+legal process or by the United States National Association of Insurance
+Commissioners, (ii) consented to in writing by the other party, (iii) disclosed
+in an action or proceeding brought by a party hereto in pursuit of its rights or
+in the exercise of its remedies hereunder, (iv) disclosed to any nationally
+recognized rating agency by Seller or Purchaser and with Sellers' or Purchaser's
+prior consent, or (v) if required by Applicable Law, to correct any material
+false or misleading public information concerning the relationship between
+Seller and Purchaser, all documents and information concerning the other party
+or any of its Affiliates furnished to it by the other party or such other
+party's representatives in connection with this Agreement and the Ancillary
+Agreements, including, without limitation, the Schedules hereto or the
+transactions contemplated hereby, except to the extent that such documents or
+information can be shown to have been (a) previously known or was independently
+developed by the receiving party, (b) in the public domain (either prior to or
+after the furnishing of such documents or information hereunder) through no
+fault of such receiving party or (c) later acquired by the receiving party from
+another source if the receiving party is not aware that such source is under an
+obligation to another party hereto to keep such documents and information
+confidential; provided that following the Closing the foregoing restrictions
+will not apply to Purchaser's use of documents and information concerning the
+Business furnished by Sellers hereunder, it being understood that each may,
+without prior notification or consent, advise and otherwise hold discussions
+with regulators having jurisdiction over each and their respective businesses,
+including insurance and securities regulators. In the event the transactions
+contemplated hereby are not consummated, upon the request of the other party,
+each party hereto will, and will cause its Affiliates and their respective
+representatives to promptly redeliver or cause to be redelivered all copies of
+confidential documents and information furnished by the other party in
+connection with this Agreement or the transactions contemplated hereby and
+destroy or cause to be destroyed all notes, memoranda, summaries, analyses,
+compilations and other writings whatsoever related thereto or based thereon
+prepared by the party furnished such documents and information or its
+representatives.
+
+                                     34
+
+<PAGE>
+
+     Section 5.22 Systems. During the period prior to the expiration of the
+Transition Servicing Agreement, Sellers shall work in good faith to assist
+Purchaser in development activities designed to allow that all systems used
+principally in the conduct of the Business are capable of inputting, processing
+and outputting information in a manner to allow Purchaser to operate the
+Business. Each Seller acknowledges the criticality of developing such
+capabilities in order to permit Purchaser to commence issuing policies and
+contracts substantially identical to the Coinsured Contracts, and thus
+maintaining the value of the Business, following the Closing. Purchaser
+acknowledges that the development of such capabilities will require resources
+that may exceed those reasonably available to Sellers during the pre-Closing
+period. In view of the foregoing acknowledgments, each Seller agrees to make
+available to Purchaser internal facilities, personnel and other resources for
+the development of ongoing operation and transition systems capabilities. On the
+date hereof and on the last day of each month prior to Closing, Sellers shall
+create a backup tape containing any information regarding the Coinsured
+Contracts and deliver such tape to Purchaser within ten business days.
+
+     Section 5.23 Updated Financial Information. As soon as is reasonably
+practicable following the end of any fiscal quarter or fiscal year of each
+Seller, each Seller shall deliver to Purchaser statutory financial statements
+with respect to such quarter or year and with respect to the period from the end
+of the previous fiscal year to the end of such quarter or year, as applicable.
+Sellers agree to file annual statements with the Commonwealth of Massachusetts
+by February 28, 2003.
+
+     Section 5.24 Reserved.
+
+     Section 5.25 Reinsurance Treaty. In order to effect the assignment of an
+Outward Reinsurance Agreement, Sellers and Purchaser hereby agree to cooperate
+and use their reasonable best effects to comply with their respective
+requirements set out in a letter agreement by and among RGA Reinsurance, AFLIAC
+and Purchaser dated December 31, 2002.
+
+     Section 5.26 Forty-Nine State Closing; NY Closing. Notwithstanding Sections
+6.03 and 7.03, the parties agree that if on or after January 20, 2003, all of
+the conditions to Closing as set forth in Articles VI and VII are satisfied or
+waived, except that the parties have not obtained the necessary approval of the
+transactions contemplated hereby from the Superintendent of Insurance of the
+State of New York (the "NY DOI"), the parties will proceed with Closing on the
+last day of the month in which all of such conditions, except for NY DOI
+approval, are satisfied or waived in accordance with the terms of this
+Agreement, subject to the following adjustments:
+
+     (a) The Indemnity Coinsurance Agreements, Transition Services Agreement,
+         and Administrative Services Agreements ("Amended Agreements") to be
+         entered into between Purchaser and Sellers on the Closing Date will be
+         amended to exclude all Coinsured Contracts that are subject to the SMA
+         Life Insurance Plan to Protect the People of New York, dated January
+         17, 1994, and the related custodian account (the "NY Coinsured
+         Contracts"). Appropriate amendments will be made in such agreements and
+         adjustments made to this Agreement to reduce, on a pro rata basis, any
+         liability, accounts, assets, reserves, ceding commission, purchase
+         price adjustments, reserve closing conditions assumed or transferred to
+         reflect the removal of the NY Coinsured Contracts. Such adjustments
+         shall be based upon
+
+                                       35
+
+<PAGE>
+
+         financial statements prepared by Milliman USA which shall reflect the
+         Business with the exclusion of the NY Coinsured Contracts and the
+         Business relating to the NY Coinsured Contracts. Purchaser agrees that,
+         in such event, it will take all reasonable efforts to cause the NY DOI
+         to consent to release AFLIAC from its obligations under the SMA Life
+         Insurance Plan to Protect the People of New York to maintain assets in
+         the custodian account in an amount equal to 102% of AFLIAC's
+         obligations under the NY Coinsured Contracts, and the New York Closing
+         shall be contingent on receipt of such consent and release.
+
+     (b) For a period of up to one (1) year after the Closing Date, the parties
+         shall use all commercially reasonable efforts to obtain the approval of
+         the NY DOI for a closing on the NY Coinsured Contracts. On a date (the
+         "NY Closing Date") that is the last day of the month in which the
+         parties have obtained such required approval from the NY DOI, Purchaser
+         and Sellers shall execute and deliver an Indemnity Coinsurance
+         Agreement, a Transition Services Agreement and an Administrative
+         Services Agreement with respect to the NY Coinsured Contracts,
+         substantially in the forms attached hereto, with such adjustments to
+         reflect, on a pro rata basis, the NY Coinsured Contracts. .
+
+     (c) On the NY Closing Date, the parties shall close, upon the terms hereof,
+         on the NY Coinsured Contracts and make whatever adjustments are
+         appropriate pursuant to this Agreement to cause the parties to be in
+         the same economic position as if the NY Closing Date occurred at the
+         same time as the Closing. If agreement on such adjustments cannot be
+         reached, the matter shall be addressed in accordance with the
+         "Arbitration" Article of the Indemnity Coinsurance Agreement.
+
+                                   ARTICLE VI
+
+                     CONDITIONS PRECEDENT TO THE OBLIGATION
+                              OF PURCHASER TO CLOSE
+
+     The obligations of Purchaser under this Agreement are subject to the
+satisfaction on or prior to the Closing of the following conditions, any one or
+more of which may be waived by it to the extent permitted by law:
+
+     Section 6.01 Covenants, Representations and Warranties.
+
+     (a) All of the covenants and obligations that the Sellers are required to
+perform or to comply with pursuant to this Agreement at or prior to the Closing
+(considered collectively) and each of those covenants and obligations
+(considered individually) shall have been duly performed and complied with in
+all material respects;
+
+     (b) Each of Sellers' representations and warranties contained in this
+Agreement shall be true and correct as of the date of this Agreement and as of
+the Closing Date as if made on the Closing Date (except as to any representation
+or warranty which specifically relates to an earlier date), provided that no
+breaches of representations and warranties shall be deemed to excuse obligations
+to consummate the transactions contemplated hereby unless, individually or in
+the
+
+                                       36
+
+<PAGE>
+
+aggregate, such breaches would result in a material adverse effect on the
+Business or the Sellers (ignoring, for this purpose, any materiality or material
+adverse effect qualifications to such representations and warranties); and
+
+     (c) Purchaser shall have received a certificate signed by a duly elected
+officer of each of the Seller Parties to the effect that the foregoing
+conditions have been satisfied.
+
+     Section 6.02 Other Agreements. The Ancillary Agreements and each of the
+other agreements and instruments contemplated hereby and thereby to which any
+Seller is a party shall have been duly executed and delivered by Seller as
+applicable, on the Closing Date and each of such agreements, documents and
+instruments shall be in full force and effect with respect to Seller on the
+Closing Date, as applicable.
+
+     Section 6.03 Governmental and Regulatory Consents and Approvals. All
+Permits and authorizations required by Sellers or Purchaser from governmental
+and regulatory bodies shall have been obtained and shall be in full force and
+effect and without conditions or limitations that would have a material adverse
+effect on the Business as operated by Purchaser after the Closing Date and
+Purchaser shall have been furnished with appropriate evidence, reasonably
+satisfactory to it and its counsel, of the granting of such Permits.
+
+     Section 6.04 Possession of Assets; Instruments of Conveyance. On the
+Closing Date, each of the Sellers shall have delivered to Purchaser, possession
+of the Transferred Assets to be transferred on the Closing Date and shall have
+transferred to Purchaser, all of the right, title and interest of Sellers, in
+and to (i) the Transferred Assets, (ii) Reserve Level Investment Assets, if any,
+(iii) all Reinsurance Payments Receivables arising on or after the Effective
+Date, and (iv) all Premium Receivables arising on or after the Effective Date,
+all as provided in this Agreement and the Ancillary Agreements.
+
+     Section 6.05 Notional Operating Account Balance. Sellers shall have paid to
+Purchaser an amount in cash equal to the aggregate balance of the Notional
+Operating Accounts as shown on the Estimated Closing Financial Statement, as
+provided in Section 2.01 of this Agreement, if such balances are positive.
+
+     Section 6.06 Litigation. No Applicable Law or order shall be in effect that
+prohibits or enjoins, and no litigation, action or other proceeding shall be
+pending that seeks to prohibit or enjoin or that seeks material monetary damages
+with respect to, the consummation of the transactions contemplated hereby.
+
+     Section 6.07 Injunction. There shall be no effective injunction, writ,
+preliminary restraining order or any order of any nature issued by a court of
+competent jurisdiction, directing that the transactions provided for herein not
+be consummated as herein provided.
+
+     Section 6.08 Reserved.
+
+     Section 6.09 Reserved.
+
+     Section 6.10 Reserved.
+
+                                       37
+
+<PAGE>
+
+     Section 6.11 General Account Reserves. The General Account Reserves as of
+the Closing Date as shown on the Closing Date Statement shall be equal to or
+greater than the following amounts if the Closing Date falls in the applicable
+month: $610 million (January), $610 million (February), $610 million (March),
+$600 million (April), $590 million (May), or $580 million (June).
+
+                                  ARTICLE VII
+
+                     CONDITIONS PRECEDENT TO THE OBLIGATION
+                               OF SELLERS TO CLOSE
+
+     The obligations of each of the Sellers under this Agreement are subject to
+the satisfaction on or prior to the Closing of the following conditions, any one
+or more of which may be waived by it to the extent permitted by law:
+
+     Section 7.01 Covenants, Representations and Warranties.
+
+     (a) All of the covenants and obligations that Purchaser is required to
+perform or to comply with pursuant to this Agreement at or prior to the Closing
+(considered collectively) and each of those covenants and obligations
+(considered individually) shall have been duly performed and complied with in
+all material respects;
+
+     (b) each of Purchaser's representations and warranties contained in this
+Agreement shall be true and correct as of the date of this Agreement and as of
+the Closing Date as if made on the Closing Date (except as to any representation
+or warranty which specifically relates to an earlier date), provided that no
+breaches of representations and warranties shall be deemed to excuse Sellers'
+obligations to consummate the transactions contemplated hereby unless,
+individually or in the aggregate, such breaches would result in a material
+adverse effect on the business of Purchaser (ignoring, for this purpose, any
+materiality or material adverse effect qualifications to such representations
+and warranties); and
+
+     (c) Sellers shall have received a certificate signed by a duly elected
+officer of Purchaser to the effect that the foregoing conditions have been
+satisfied.
+
+     Section 7.02 Other Agreements. The Ancillary Agreements and each of the
+other agreements and instruments contemplated hereby and thereby to which
+Purchaser is a party shall have been duly executed and delivered by Purchaser on
+the Closing Date and each of such agreements and instruments shall be in full
+force and effect with respect to Purchaser on the Closing Date, as applicable.
+
+     Section 7.03 Governmental and Regulatory Consents and Approvals. All
+Permits required by Sellers or Purchaser from governmental and regulatory
+bodies, shall have been obtained and shall be in full force and effect and
+without conditions or limitations which would have a material adverse effect on
+the business of Sellers, and Sellers shall have been furnished with appropriate
+evidence, reasonably satisfactory to it and its counsel, of the granting of such
+Permits.
+
+                                       38
+
+<PAGE>
+
+     Section 7.04 Notional Operating Account Balance. Purchaser shall have paid
+to Sellers an amount in cash equal to the aggregate balances of the Notional
+Operating Accounts as shown on the Estimated Closing Financial Statement, as
+provided in Section 2.01 of this Agreement, if such balances are negative.
+
+     Section 7.05 Injunction. There shall be no effective injunction, writ,
+preliminary restraining order or any order of any nature issued by a court of
+competent jurisdiction, directing that the transactions provided for herein not
+be consummated as herein provided.
+
+     Section 7.06 Litigation. No Applicable Law or order shall be in effect that
+prohibits or enjoins, and no litigation, action or other proceeding shall be
+pending that seeks to prohibit or enjoin or that seeks material monetary damages
+with respect to the consummation of the transactions contemplated hereby.
+
+                                  ARTICLE VIII
+
+                               FURTHER AGREEMENTS
+
+     Section 8.01 Maintenance of Coinsured Contracts. On and after the Closing
+Date, Sellers will:
+
+               (i)   not take any action intended to cause lapses, conversions
+          or the terminations of any Coinsured Contract;
+
+               (ii)  take no action intended to encourage any agents of a Seller
+          to roll over any Coinsured Contract; and
+
+               (iii) pay no commissions to any agent on such Coinsured Contracts
+          that is rolled over in the event that, commencing on the Effective
+          Date, the lapse rate with respect to Coinsured Contracts exceeds [*]%,
+          calculated on an annualized rolling prior 3-month lapse rate basis
+          calculated and reported in writing to Purchaser by Sellers each week.
+
+     Section 8.02 Tax Reimbursement. (a) To the extent that (x) an IRS
+examination of any year of either of the Sellers or of Purchaser, or (y) an
+adjustment reflected on an amended Tax return of either of the Sellers or of
+Purchaser that is, in the case of an amended Tax return of a Seller, approved by
+Purchaser (such approval not to be unreasonably withheld) or, in the case of an
+amended Tax return of Purchaser, approved by Sellers (such approval not be
+unreasonably withheld), results in a reduction to the Tax Reserve balances, as
+of the Effective Date (or, in the case of Purchaser, as of January 1, 2003) such
+that the General Account Reserves, as of the Effective Date, exceed the Tax
+Reserves, as of the Effective Date, by more than $3,000,000, Sellers agree to
+reimburse promptly to Purchaser an amount equal to the sum of (i) the product of
+(a) 35% and (b) the amount by which (x) the excess of the General Account
+Reserves over the Tax Reserves, each computed as of the Effective Date, exceeds
+(y) $3 million (such excess over $3 million, the "Excess"), except to the extent
+that such Excess was previously taken into account in determining the Adjusted
+Ceding Commission, plus (ii) interest from the Effective Date at the prevailing
+IRS interest rates. To the extent that (x) an IRS examination in respect of any
+taxable year of either of the Sellers or of Purchaser, or (y) an adjustment
+reflected on an
+
+                                       39
+
+<PAGE>
+
+amended Tax return of either of the Sellers or of Purchaser that is, in the case
+of an amended Tax return of a Seller, approved by the Purchaser (such approval
+not to be unreasonably withheld) or, in the case of an amended Tax return of the
+Purchaser, approved by Sellers (such approval not to be unreasonably withheld),
+results in an increase to the Tax Reserve balances, as of the Effective Date
+(or, in the case of Purchaser, as of January 1, 2003), such that the General
+Account Reserves, as of the Effective Date, exceed the Tax Reserves, as of the
+Effective Date, by less than $3,000,000, Purchaser agrees to promptly reimburse
+to Sellers an amount equal to the sum of (i) the product of (a) 35% and (b) the
+amount by which (x) the excess of the General Account Reserves over the Tax
+Reserves, each computed as of the Effective Date, is less than (y) $3 million
+(the "Shortfall"), plus (ii) interest from the Effective Date at the prevailing
+IRS interest rates. All references in this section to Tax Reserves and General
+Account Reserves are to such reserves as computed in respect of the Coinsured
+Contracts.
+
+     (b) To the extent that any tax cost arises from any Coinsured Contract due
+to the status of such contract as a modified endowment contract, the Seller that
+is a party to such contract shall reimburse Purchaser for any cost incurred by
+Purchaser. In the event that any Coinsured Contract is the subject of an audit
+or other examination or similar proceeding by a Taxing Authority that relates to
+the status (or possible status) of such contract as a modified endowment
+contract or in the event that a claim is made by any Taxing Authority which
+might result in a payment under this Section 8.02(b), the party receiving notice
+of such audit, investigation or similar proceeding or claim (each, a "Tax
+Proceeding") shall promptly notify the other party in writing of such Tax
+Proceeding. With respect to any Tax Proceeding that might result in a payment by
+a Seller pursuant to this Section 8.02(b), such Seller shall have the right to
+control such Tax Proceeding (including selection of counsel) and, without
+limiting the foregoing may with the consent of Purchaser (which shall not
+unreasonably be withheld) pursue or forego any and all administrative appeals,
+proceedings, hearings and conferences with any Taxing Authority with respect
+thereto, and may, in its reasonable discretion, either pay the Tax claimed and
+sue for a refund where applicable law permits, or contest the Tax Proceeding in
+any permissible manner. The Purchaser shall be entitled to participate in all
+proceedings with respect to any such Tax Proceeding (at its expense) and to
+employ counsel of its choice for such purpose. The Seller and Purchaser shall
+each provide the other with copies of all material documents with respect to any
+such Tax Proceeding. Neither party shall settle or otherwise compromise any Tax
+Proceeding without the other party's prior written consent (which shall not be
+unreasonably withheld). The parties agree to cooperate with each other in
+contesting any Tax Proceeding.
+
+     Section 8.03 Asset Adequacy Testing. After the Effective date, Sellers and
+Purchaser agree to cooperate in order to obtain an Asset Adequacy Test (ad
+defined below). Sellers further agree to provide to Purchaser on or prior to
+February 15, 2003, an asset adequacy testing report for each Seller as of
+December 31, 2002, prepared in accordance with standards of practice promulgated
+by the Actuarial Standards Board consistently applied throughout the periods
+covered, of policies issued by the Sellers that would have constituted Coinsured
+Contracts if in effect on the date hereof (the "Asset Adequacy Test"). The Asset
+Adequacy Test shall state any adjustments and qualifications, and shall be
+prepared upon methodologies and valuations and in a form and of the scope agreed
+to by Purchaser.
+
+                                       40
+
+<PAGE>
+
+     Section 8.04 Post Closing Letter. Within three (3) business days, but no
+longer than ten (10) calendar days after the Closing Date, Sellers and Purchaser
+will cooperate to send a letter, reasonably accepted to the parties, to holders
+of Coinsured Contracts.
+
+                                   ARTICLE IX
+
+                   SURVIVAL OF REPRESENTATIONS AND WARRANTIES
+
+     Section 9.01 Survival of Representations and Warranties. All
+representations and warranties of the parties hereto contained in this Agreement
+and the Ancillary Agreements shall survive the execution and delivery hereof;
+provided, however, that, except as set forth in the following sentence, the
+representations and warranties of the parties hereto herein shall terminate and
+expire on the date that is three (3) years following the Closing Date except for
+matters as to which a Claims Notice shall have been given pursuant to Sections
+10.01 or 10.02 by a party hereto prior to the applicable expiration date, which
+representations shall continue with respect to such matters until such matters
+have been finally decided, settled or adjudicated.
+
+                                    ARTICLE X
+
+                                 INDEMNIFICATION
+
+     Section 10.01 Obligations of Sellers to Indemnify.
+
+     Subject to the limitations set forth in this Article X, each Seller,
+jointly and severally, agree to indemnify Purchaser and hold Purchaser harmless
+from and against all Losses asserted against, imposed upon or incurred by
+Purchaser resulting from, arising out of, based upon or otherwise in respect of
+any of the following:
+
+     (a) any breach of or inaccuracy in any representation or warranty of any
+Seller contained in this Agreement;
+
+     (b) any material breach of any covenant or agreement made or to be
+performed by any Seller, respectively, pursuant to this Agreement;
+
+     (c) any liability arising out of the operations of the Business prior to
+the Closing Date (including, without limitation, any liabilities in excess of
+policy limits, liabilities disclosed in any schedule hereto on the date hereof
+or disclosed after the date hereof pursuant to Section 5.24 of this Agreement,
+and employment related liabilities), but excluding liabilities or obligations of
+any kind for which Sellers were released under the settlement in the matter of
+Bussie, et al. vs. Allmerica Financial Corp., et al., US District Court,
+District of Massachusetts (Civ. Action 97-40204), as approved by the court on
+May 19, 1999, other than amounts payable pursuant to the terms of such
+settlement agreement;
+
+     (d) any Sellers' Retained Liability, but excluding liabilities or
+obligations of any kind for which Sellers were released under the settlement in
+the matter of Bussie, et al. vs. Allmerica Financial Corp., et al., US District
+Court, District of Massachusetts (Civ. Action 97-40204), as
+
+                                       41
+
+<PAGE>
+
+approved by the court on May 19, 1999, other than amounts payable pursuant to
+the terms of such settlement agreement;
+
+     (e) any breach or nonfulfillment by Sellers of, or any failure by Sellers
+to perform any of the covenants, terms or conditions of, or any duties or
+obligations under, the Indemnity Coinsurance Agreements;
+
+     (f) violations of Applicable Law with respect to underwriting or sales
+practices of Sellers or its Producers (as defined in the Administrative Services
+Agreements) occurring prior to the Effective Date with respect to the Coinsured
+Contracts, but excluding liabilities or obligations of any kind for which
+Sellers were released under the settlement in the matter of Bussie, et al. vs.
+Allmerica Financial Corp., et al., US District Court, District of Massachusetts
+(Civ. Action 97-40204), as approved by the court on May 19, 1999, other than
+amounts payable pursuant to the terms of such settlement agreement;
+
+     (g) amounts arising under Code Section 7702 or Section 7702A violations;
+
+     (h) any breach or nonfulfillment by Sellers of, or any failure by Sellers
+to perform as applicable, any material representation, warranty, covenant, term
+or condition of, or any duties or obligations under, the Software, Trademark or
+Copyright License Agreements; and
+
+     (i) the reasonable costs to Purchaser of enforcing this indemnity against
+any Seller.
+
+     The parties hereto acknowledge and agree that the indemnification
+obligation of each Seller under this Article X shall be only for those
+representations, warranties, covenants, agreements and liabilities of such
+Seller and, for the avoidance of doubt, not for the representations, warranties,
+covenants, agreements and liabilities of any other Seller.
+
+     As used in this Article X, "Loss" and/or "Losses" shall mean any loss,
+damage, liability, claim, cost or expense, including but not limited to,
+reasonable attorneys fees.
+
+     Section 10.02 Obligation of Purchaser to Indemnify.
+
+     Subject to the limitations contained in this Article X, Purchaser agrees to
+indemnify and hold Sellers harmless from and against all Losses asserted
+against, imposed upon or incurred by any Seller resulting from, arising out of,
+based upon or otherwise in respect of any of the following:
+
+     (a) any breach of or inaccuracy in any representation or warranty of
+Purchaser contained in this Agreement; or
+
+     (b) any material breach of any covenant or agreement made or to be
+performed by Purchaser pursuant to this Agreement.
+
+     Section 10.03 Notice of Loss, Asserted Liability. Promptly after (a)
+becoming aware of circumstances that have resulted in a Loss for which a party
+entitled to indemnification pursuant to Section 10.01 or Section 10.02 intends
+to seek indemnification under such Section (the "Indemnified Party") or (b)
+receipt by the Indemnified Party of written notice of any demand,
+
+                                       42
+
+<PAGE>
+
+claim or circumstances which, with the lapse of time, the giving of notice or
+both, would give rise to a claim or the commencement of any litigation that may
+result in a Loss (an "Asserted Liability"), the Indemnified Party shall give
+notice thereof (the "Claims Notice") to any other party obligated to provide
+indemnification pursuant to Section 10.01 or Section 10.02 (the "Indemnifying
+Party"). The Claims Notice shall describe the Loss or the Asserted Liability in
+reasonable detail, and shall indicate the amount (estimated, if necessary) of
+the Loss or Asserted Liability that has been or may be suffered by the
+Indemnified Party. If a Claims Notice is not provided promptly as required by
+this Section 10.03, the Indemnified Party nonetheless shall be entitled to
+indemnification by the Indemnifying Party except to the extent that the
+Indemnifying Party has failed to provide the Claims Notice prior to the
+applicable period in Section 9.01, in which case the Indemnified Party shall
+have no rights to indemnity hereunder, in respect thereto.
+
+     Section 10.04 Opportunity to Contest. The Indemnifying Party may elect to
+compromise or contest, at its own expense, any Asserted Liability. If the
+Indemnifying Party elects to compromise or contest such Asserted Liability, it
+shall within 30 days (or sooner, if the nature of the Asserted Liability so
+requires) notify the Indemnified Party of its intent to do so by sending a
+notice to the Indemnified Party (the "Contest Notice"), and the Indemnified
+Party shall cooperate, at the expense of the Indemnifying Party, in the
+compromise or contest of such Asserted Liability. If the Indemnifying Party
+elects not to compromise or contest the Asserted Liability or fails to notify
+the Indemnified Party of its election as herein provided, the Indemnified Party
+(upon further notice to the Indemnifying Party) shall have the right to pay,
+compromise or contest such Asserted Liability on behalf of and for the account
+and risk of the Indemnifying Party. In any event, the Indemnified Party and the
+Indemnifying Party may participate, at their own expense, in the contest of such
+Asserted Liability. Each of Sellers and Purchaser shall cooperate fully with the
+other as to all Asserted Liabilities, shall make available to each other as
+reasonably requested all information, records, and documents relating to all
+Asserted Liabilities and shall preserve all such information, records, and
+documents until the termination of any Asserted Liability. Each of Sellers and
+Purchaser also shall make available to the other, as reasonably requested, its
+personnel, agents, and other representatives who are responsible for preparing
+or maintaining information, records, or other documents, or who may have
+particular knowledge with respect to any Asserted Liability.
+
+     Section 10.05 Limitations on Indemnification.
+
+     (a) Neither Purchaser, on the one hand, nor the Sellers collectively, on
+the other hand, shall be required to make any indemnification payment under this
+Agreement with respect to a Loss except to the extent the amount of such Loss,
+when aggregated with all other such Losses (ignoring, for this purpose, any
+materiality or material adverse effect qualifications), shall exceed a dollar
+amount equal to 2% of the Ceding Commission, and then only for the amount by
+which such Loss exceeds a dollar amount equal to 2% of the Ceding Commission;
+and neither Purchaser, on the one hand, nor Parent and the Sellers collectively,
+on the other hand, shall be required to make indemnification payments hereunder
+in the aggregate exceeding a dollar amount equal to 37.5% of the Ceding
+Commission; provided, however, that the minimum and maximum limitations
+contained in this Section 10.05(a) shall only apply to any Loss arising pursuant
+to Sections 10.01(a) and (b) and Sections 10.02(a) and (b) hereof, but not to
+include the representations, warranties, covenants, agreements and indemnities
+of the parties contained in
+
+                                       43
+
+<PAGE>
+
+Sections 2.01, 2.02, 2.04, 3.12, 3.20, 3.21, 3.23, 5.01, 5.07, 5.14, 5.20, 8.01,
+8.02 and (to the extent relating to any of such Sections) 10.01(i).
+
+     (b) No party otherwise entitled to indemnification under this Agreement
+shall be indemnified pursuant to this Agreement to the extent that such party's
+Losses are increased or extended by the willful misconduct, violation of
+Applicable Law or bad faith of such party.
+
+     Section 10.06 Sole Remedy. Each party's sole and exclusive remedy for any
+breach of this Agreement and the Ancillary Agreements by any other party shall
+be the provisions in Article X, provided, however, that nothing set forth in
+this Article X shall be deemed to prohibit or limit any party's right at any
+time, on or after the Closing Date, to seek injunctive or equitable relief for
+the failure of any other party to perform any covenant or agreement contained
+herein.
+
+     Section 10.07 Certain Reductions; Subrogation Rights. All indemnification
+payments payable hereunder shall be reduced by the amount of insurance proceeds
+received by, or any Tax benefits inuring to the benefit of, the Indemnified
+Party as a result of the Loss for which the Indemnified Party is seeking
+indemnification. In the event that the Indemnifying Party shall be obligated to
+indemnify the Indemnified Party pursuant to this Article X, the Indemnifying
+Party shall, upon payment of such indemnity in full, be subrogated to all rights
+of the Indemnified Party with respect to the Loss to which such indemnification
+relates; provided, however, that the Indemnifying Party shall only be subrogated
+to the extent of any amount paid by it pursuant to this Article X in connection
+with such Loss.
+
+     Section 10.08 Indemnification Payments. Subject to the terms hereof and
+unless contested, if an Indemnifying Party is required to pay an amount to the
+Indemnified Party under this Article X the Indemnifying Party shall make such
+payment within ten Business Days of determination of the full amount of any
+Loss, after receipt of the Claims Notice thereof and the full amount of any Loss
+resulting from an Asserted Liability within ten Business Days of the date such
+litigation is terminated or the date a final judgment or award is rendered and
+no appeal is taken.
+
+     Section 10.09 Effect of Indemnification. Any indemnity payment made
+hereunder shall be treated by the Sellers and Purchaser as an adjustment to the
+Allocable Amount.
+
+     Section 10.10 Parent Indemnification. Parent agrees to indemnify Purchaser
+and hold Purchaser harmless from and against Losses incurred by Purchaser
+resulting from a failure by each of the Sellers to comply with their obligations
+under this Article X (other than obligations arising under Section 10.01(a)
+hereof), except for obligations arising under Sections 3.12, 3.20, 3.21 and 3.23
+hereof. Parent shall be afforded the protections regarding notice, limitations
+on indemnity, sole remedy, rights to contest and otherwise, of the provisions
+set forth in Sections 10.03, 10.04, 10.05, 10.06, 10.07, 10.08 and 10.09 of the
+Agreement as if an Indemnifying Party.
+
+                                   ARTICLE XI
+
+                          TERMINATION PRIOR TO CLOSING
+
+                                       44
+
+<PAGE>
+
+     Section 11.01 Termination of Agreement. This Agreement may be terminated at
+any time prior to the Closing:
+
+     (a) by Purchaser or any Seller in writing, if there shall be any order,
+writ, injunction or decree of any court or governmental or regulatory agency
+binding on Purchaser and/or any Seller, which prohibits or restrains Purchaser
+and/or any Seller from consummating the transactions contemplated hereby;
+provided, that Purchaser and/or any Seller, as the case may be, shall have used
+its commercially reasonable best efforts to have any such order, writ,
+injunction or decree lifted and the same shall not have been lifted by June 30,
+2003;
+
+     (b) by either a Purchaser or any Seller in writing, if the Closing has not
+occurred on or prior to June 30, 2003 unless the absence of such occurrence
+shall be due to the failure of the party seeking to terminate this Agreement to
+perform materially each of its obligations under this Agreement required to be
+performed by it on or prior to the Closing Date; and
+
+     (c) at any time on or prior to the Closing Date, by mutual written consent
+of Sellers and Purchaser.
+
+     Section 11.02 Survival. If this Agreement is terminated and the
+transactions contemplated hereby are not consummated as described above, this
+Agreement shall become null and void and of no further force and effect, except
+for (a) the provisions of this Agreement relating to the obligations of the
+parties hereto to keep confidential and not to use certain information and data
+obtained from the other parties hereto and (b) the provisions of Sections 5.08,
+12.04, 12.06 and this Section 11.02. Notwithstanding anything to the contrary
+provided herein, the provisions of Article X shall survive any termination of
+this Agreement for the term of the Indemnity Coinsurance Agreements.
+
+                                   ARTICLE XII
+
+                                  MISCELLANEOUS
+
+     Section 12.01 Publicity. Except as may otherwise be required by law, no
+press release, announcement or filing with the Securities and Exchange
+Commission concerning this Agreement or the transactions contemplated hereby
+shall be made without advance consultation of the other parties hereto with
+respect thereto provided however, that neither Seller nor Purchaser, nor any of
+their Affiliates, shall issue such a press release until nine days after the
+Effective Date, without the prior written consent of the other. The parties
+hereto shall cooperate with each other in making any release, announcement or
+filing with the Securities and Exchange Commission.
+
+     Section 12.02 Confidentiality. The parties agree that, other than as agreed
+or as required to implement the transactions contemplated hereby, the parties
+will keep confidential the terms and conditions of this Agreement and the
+Ancillary Agreements, including, without limitation, the Schedules hereto and
+thereto, except as otherwise required by law (including, without limitation,
+pursuant to any federal or state securities or insurance laws or the rules of
+any stock exchange or self-regulatory organization or pursuant to any legal,
+regulatory or legislative proceedings).
+
+                                       45
+
+<PAGE>
+
+     Section 12.03 Notices. Any notice or other communication required or
+permitted hereunder shall be in writing and shall be delivered personally (by
+courier or otherwise), sent by facsimile transmission or overnight delivery
+service including express mail or sent by certified or registered mail, postage
+prepaid and return receipt requested, or by express mail. Any such notice shall
+be deemed given when so delivered personally or sent by facsimile transmission
+or, if mailed, three days after the date of deposit in the United States mails,
+as follows:
+
+          (i) if to Purchaser:
+
+                 John Hancock Life Insurance Company
+                 P.O. Box 11
+                 200 Clarendon Street
+                 Boston, MA 02117
+                 Attn: John T. Farady
+                 Telecopier No.: 617-572-4188
+                 E-mail: jfarady@jhancock.com
+                 Attn:  Joanne P. Acford
+                 Telecopier No.: 617-572-9268
+                 E-mail: jacford@jhancock.com
+
+                 With a concurrent copy to:
+
+                 Mintz, Levin, Cohn, Ferris & Glovsky and Popeo, P.C.
+                 One Financial Center
+                 Boston, MA 02111
+                 Attn: Stanford N. Goldman, Jr.
+                 Telecopier No.: 617-542-2241
+                 Email: FNGoldman@mintz.com
+
+          (ii)   If to AFLIAC:
+
+                 440 Lincoln Street
+                 Worcester, MA 01653
+                 Attn: Edward J. Parry, III
+                 Telecopier No.: 508-855-4640
+                 E-mail: Eparry@allmerica.com
+
+                 With a concurrent copy to:
+
+                 Ropes & Gray
+                 One International Place
+                 Boston, MA 02110
+                 Attn: Lauren I. Norton
+                 Telecopier No.: 617-951-7050
+                 E-mail: Lnorton@ropesgray.com
+
+          (iii)  if to FAFLIC:
+
+                                       46
+
+<PAGE>
+
+
+
+                 440 Lincoln Street
+                 Worcester, MA 01653
+                 Attn: Edward J. Parry, III
+                 Telecopier No.: 508-855-4640
+                 E-mail: Eparry@allmerica.com
+
+                 With a concurrent copy to:
+
+                 Ropes & Gray
+                 One International Place
+                 Boston, MA 02110
+                 Attn: Lauren I. Norton
+                 Telecopier No.: 617-951-7050
+                 E-mail: Lnorton@ropesgray.com
+
+     Any party may, by notice given in accordance with this Section 12.03 to the
+other parties, designate another address or person for receipt of notices
+hereunder provided that notice of such a change shall be effective upon receipt.
+
+     Section 12.04 Entire Agreement. This Agreement (including the Ancillary
+Agreements, the other agreements contemplated hereby and thereby, the Exhibits
+and the Schedules hereto), a Confidentiality Letter between Purchaser and Parent
+dated April 12, 2002, the November 27, 2002 letter from Purchaser to Parent and
+the December 10, 2002 letter from Purchaser to Parent contain the entire
+agreement among the parties with respect to the subject matter hereof and
+supersedes all prior agreements, written or oral, with respect thereto.
+
+     Section 12.05 Waivers and Amendments; Non-Contractual Remedies;
+Preservation of Remedies. This Agreement may be amended, superseded, canceled,
+renewed or extended, and the terms hereof may be waived, only by a written
+instrument signed by each of the parties or, in the case of a waiver, by the
+party waiving compliance. No delay on the part of any party on exercising any
+right, power or privilege hereunder shall operate as a waiver thereof, or shall
+any waiver on the part of any party of any right, power or privilege, or any
+single or partial exercise of any such right, power or privilege, preclude any
+further exercise thereof or the exercise of any other such right, power or
+privilege. The rights and remedies herein provided are cumulative and are not
+exclusive of any rights or remedies that any party may otherwise have at law or
+in equity.
+
+     Section 12.06 Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY AND
+CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE COMMONWEALTH OF MASSACHUSETTS,
+WITHOUT GIVING EFFECT TO THE PRINCIPLES OF CONFLICTS OF LAWS THEREOF.
+
+     Section 12.07 Binding Effect; Assignment. This Agreement shall be binding
+upon and inure to the benefit of the parties and their respective successors,
+permitted assigns and legal representatives. Neither this Agreement, nor any
+right hereunder, may be assigned by any party
+
+                                       47
+
+<PAGE>
+
+(in whole or in part) without the prior written consent of the other party
+hereto (with Sellers considered to be one party for purposes of this sentence).
+
+     Section 12.08 Interpretation.
+
+     (a) The parties acknowledge and agree that, except as specifically provided
+herein, they may pursue judicial remedies at law or equity in the event of a
+dispute with respect to the interpretation or construction of this Agreement. In
+the event that an alternative dispute resolution procedure is provided for in
+any of the Ancillary Agreements or any other agreement contemplated hereby or
+thereby, and there is a dispute with respect to the construction or
+interpretation of such Ancillary Agreement, the dispute resolution procedure
+provided for in such Ancillary Agreement shall be the procedure that shall apply
+with respect to the resolution of such dispute.
+
+     (b) For purposes of this Agreement, the words "hereof," "herein," "hereby"
+and other words of similar import refer to this Agreement as a whole unless
+otherwise indicated. Whenever the singular is used herein, the same shall
+include the plural, and whenever the plural is used herein, the same shall
+include the singular, where appropriate.
+
+     Section 12.09 No Third Party Beneficiaries. Except as set forth in Article
+X, nothing in this Agreement is intended or shall be construed to give any
+Person (including, but not limited to, the employees of any Seller), other than
+the parties hereto, their successors and permitted assigns, any legal or
+equitable right, remedy or claim under or in respect of this Agreement or any
+provision contained herein.
+
+     Section 12.10 Counterparts. This Agreement may be executed by the parties
+hereto in separate counterparts, each of which when so executed and delivered
+shall be an original, but all such counterparts shall together constitute one
+and the same instrument. Each counterpart may consist of a number of copies
+hereof each signed by less than all, but together signed by all, of the parties
+hereto.
+
+     Section 12.11 Other Agreements, Exhibits and Schedules. The Exhibits and
+the Schedules are a part of this Agreement as if fully set forth herein. All
+references herein to Articles, Sections, subsections, paragraphs, subparagraphs,
+clauses, Exhibits and Schedules shall be deemed references to such parts of this
+Agreement, unless the context shall otherwise require.
+
+     Section 12.12 Headings. The headings in this Agreement are for reference
+only, and shall not affect the interpretation of this Agreement.
+
+     Section 12.13 Dollar References. All dollar references in this Agreement
+are to the currency of the United States.
+
+                            [Signature Page Follows]
+
+                                       48
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first above written.
+
+
+                                        ALLMERICA FINANCIAL LIFE INSURANCE
+                                        ANNUITY COMPANY
+
+                                        By:  /s/ Mark C. McGivney
+                                           -----------------------------------
+
+                                        Name:  Mark C. McGivney
+                                              --------------------------------
+
+                                        Title:  Vice President
+                                               -------------------------------
+
+
+                                        FIRST ALLMERICA FINANCIAL LIFE
+                                        INSURANCE COMPANY
+
+                                        By: /s/ Mark C. McGivney
+                                            ----------------------------------
+
+                                        Name: Mark C. McGivney
+                                              --------------------------------
+
+                                        Title: Vice President
+                                               -------------------------------
+
+
+                                        JOHN HANCOCK LIFE INSURANCE COMPANY
+
+                                        By: /s/ Michael A. Bell
+                                            ----------------------------------
+
+                                        Name: Michael A. Bell
+                                              --------------------------------
+
+                                        Title: Senior Executive Vice President
+                                               -------------------------------
+
+                                       49
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the party below is signing to join the agreement as to
+the provisions of 10.10 hereof.
+
+                                        ALLMERICA FINANCIAL CORPORATION
+
+                                        By: /s/ Mark C. McGivney
+                                            ----------------------------------
+
+                                        Name: Mark C. McGivney
+                                              --------------------------------
+
+                                        Title: Vice President
+                                               -------------------------------
+
+                                       50
+
+</TEXT>
+</DOCUMENT>
