@@ -1,0 +1,863 @@
+<DOCUMENT>
+<TYPE>EX-10.34
+<SEQUENCE>36
+<FILENAME>y88779exv10w34.txt
+<DESCRIPTION>MANAGING GENERAL AGENCY AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.34
+
+
+                        MANAGING GENERAL AGENCY AGREEMENT
+
+                                 BY AND BETWEEN
+
+                       ROYAL SPECIALTY UNDERWRITING, INC.,
+
+                           (As Managing General Agent)
+
+                            ROYAL INDEMNITY COMPANY,
+
+                     ROYAL SURPLUS LINES INSURANCE COMPANY,
+
+                       ROYAL INSURANCE COMPANY OF AMERICA,
+
+                                       AND
+
+                       LANDMARK AMERICAN INSURANCE COMPANY
+
+                               DATED JULY 1, 2003
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                 <C>
+ARTICLE I DEFINITIONS...........................................................     2
+   SECTION 1.1 DEFINITIONS......................................................     2
+
+ARTICLE II APPOINTMENT..........................................................     3
+
+ARTICLE III TERM OF MGA AGREEMENT...............................................     4
+
+ARTICLE IV MGA SERVICES TO BE PERFORMED BY RSUI.................................     4
+   SECTION 4.1 MGA SERVICES.....................................................     4
+   SECTION 4.2 UNDERWRITING SERVICES............................................     4
+   SECTION 4.3 ADMINISTRATIVE SERVICES..........................................     4
+   SECTION 4.4 HANDLING OF ROYAL INSURER AFFILIATES' FUNDS......................     5
+   SECTION 4.5 BOOKS AND RECORDS................................................     5
+
+ARTICLE V UNAUTHORIZED ACTIONS..................................................     6
+
+ARTICLE VI TERMINATION..........................................................     6
+
+ARTICLE VII CONFIDENTIALITY.....................................................     7
+   SECTION 7.1 USE OF CONFIDENTIAL INFORMATION..................................     7
+   SECTION 7.2 CONFIDENTIALITY OF INDIVIDUALS...................................     7
+   SECTION 7.3 DISCLOSURE.......................................................     7
+
+ARTICLE VIII INDEMNIFICATION....................................................     8
+   SECTION 8.1 INDEMNIFICATION BY THE ROYAL INSURER AFFILIATES..................     8
+   SECTION 8.2 INDEMNIFICATION BY RSUI..........................................     8
+   SECTION 8.3 INDEMNIFICATION PROCEDURE........................................     8
+
+ARTICLE IX ARBITRATION..........................................................     8
+   SECTION 9.1 ARBITRATION......................................................     9
+   SECTION 9.2 NOTICE OF ARBITRATION............................................     9
+   SECTION 9.3 ARBITRATION PANEL................................................     9
+   SECTION 9.4 SUBMISSION OF BRIEFS.............................................     9
+   SECTION 9.5 ARBITRATION BOARD'S DECISION.....................................    10
+   SECTION 9.6 JURISDICTION.....................................................    10
+   SECTION 9.7 EXPENSES.........................................................    10
+   SECTION 9.8 PRODUCTION OF DOCUMENTS AND WITNESSES............................    10
+   SECTION 9.9 RELIEF AVAILABLE.................................................    10
+   SECTION 9.10 CONSOLIDATION...................................................    11
+
+ARTICLE X MISCELLANEOUS.........................................................    11
+   SECTION 10.1 COOPERATION.....................................................    11
+   SECTION 10.2 AMENDMENT, MODIFICATION AND WAIVER..............................    11
+   SECTION 10.3 ENTIRE AGREEMENT................................................    11
+   SECTION 10.4 GOVERNING LAW...................................................    11
+   SECTION 10.5 SEVERABILITY....................................................    11
+   SECTION 10.6 COUNTERPARTS....................................................    12
+   SECTION 10.7 CONSENT TO JURISDICTION.........................................    12
+   SECTION 10.8 THIRD PARTY BENEFICIARIES.......................................    12
+   SECTION 10.9 NON-ASSIGNABILITY...............................................    12
+</TABLE>
+
+                                        i
+<PAGE>
+
+<TABLE>
+<S>                                                                                 <C>
+   SECTION 10.10 SPECIFIC PERFORMANCE...........................................    12
+   SECTION 10.11 DESCRIPTIVE HEADINGS...........................................    12
+   SECTION 10.12 USE OF NAME....................................................    12
+   SECTION 10.13 NOTICES........................................................    13
+   SECTION 10.14 INTERPRETATION.................................................    14
+</TABLE>
+
+   EXHIBIT A          LIST OF ROYAL INSURER AFFILIATES
+
+   EXHIBIT B          UNDERWRITING GUIDELINES
+
+                                       ii
+<PAGE>
+
+                        MANAGING GENERAL AGENCY AGREEMENT
+
+         This Managing General Agency Agreement (the "MGA Agreement"), dated
+July 1, 2003 is being entered into by and between Royal Specialty Underwriting,
+Inc., a Georgia business corporation ("RSUI"), and certain insurer affiliates of
+Royal Group, Inc, a Delaware business corporation ("Royal"), listed on Exhibit A
+hereto (the "Royal Insurer Affiliates").
+
+                                    RECITALS:
+
+         WHEREAS, prior to the date hereof, RSUI has underwritten certain
+insurance and reinsurance contracts on behalf of the Royal Insurer Affiliates
+and administered the claims and reinsurance recoverables relating to such
+contracts;
+
+         WHEREAS, pursuant to the Acquisition Agreement ("Acquisition
+Agreement"), dated as of June 6, 2003, by and between Royal and Alleghany
+Insurance Holdings LLC, a Delaware limited liability company ("AIHL"), the
+parties agreed, among other things, that Royal will sell to Alleghany, and
+Alleghany will purchase from Royal, all of the issued and outstanding shares of
+common stock of RSUI; and
+
+         WHEREAS, as part of such Acquisition Agreement, Royal and Alleghany
+have agreed that Royal shall cause the Royal Insurer Affiliates, and Alleghany
+shall cause RSUI, to enter into this MGA Agreement; and
+
+         WHEREAS, in connection with the Acquisition Agreement, certain of
+Royal's insurer affiliates, namely, Royal Indemnity Company, a Delaware property
+and casualty insurance company ("RIC"), Royal Surplus Lines Insurance Company, a
+Connecticut surplus lines insurer ("RSLIC") and Landmark American Insurance
+Company, an Oklahoma insurance company ("Landmark"), will each enter into a
+quota share reinsurance agreement with Underwriters Reinsurance Company, a New
+Hampshire stock insurance company ("URC").
+
+         NOW, THEREFORE, in consideration of these promises and the terms of
+conditions set forth herein, and in consideration of the parties and certain of
+their affiliates entering into the RIC Quota Share Reinsurance Agreement, the
+RSLIC Quota Share Reinsurance Agreement, the Landmark Quota Share Reinsurance
+Agreement (defined below) (collectively, the "Quota Share Reinsurance
+Agreements"), the RIC Administrative Services Agreement, the RSLIC
+Administrative Services Agreement, the RICA Administrative Services Agreement
+and the Landmark Administrative Services Agreement (collectively, the
+"Administrative Services Agreements") and the Landmark Purchase Agreement, the
+receipt and sufficiency of which are hereby acknowledged, RSUI and the Royal
+Insurer Affiliates agree as follows:
+
+                                       1
+<PAGE>
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+          SECTION 1.1 DEFINITIONS Capitalized terms used but not defined herein
+and which are defined in the Quota Share Reinsurance Agreements shall have the
+meanings ascribed to them in such agreements. As used in this MGA Agreement, the
+following terms shall have the meanings set forth herein:
+
+                  "Acquisition Agreement" shall have the meaning set forth in
+                  the recitals.
+
+                  "Administrative Services Agreements" shall mean the RIC
+                  Administrative Services Agreement, the RSLIC Administrative
+                  Services Agreement, the RICA Administrative Services Agreement
+                  and the Landmark Administrative Services Agreement,
+                  collectively.
+
+                  "AIHL" shall have the meaning set forth in the recitals.
+
+                  "Books and Records" shall have the meaning set forth in the
+                  Administrative Services Agreements.
+
+                  "GNIC" shall mean Guaranty National Insurance Company, a
+                  Colorado insurance company and an indirect, wholly-owned
+                  subsidiary of Royal.
+
+                  "Governmental Entity" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Landmark Ancillary Agreement" shall have the meaning set
+                  forth in the Landmark Purchase Agreement.
+
+                  "Landmark Purchase Agreement" shall mean the stock purchase
+                  agreement by and between AIHL and GNIC, dated June 6, 2003.
+
+                  "Landmark Quota Share Reinsurance Agreement" shall have the
+                  meaning set forth in the Landmark Quota Share Reinsurance
+                  Agreement.
+
+                  "MGA Services" shall have the meaning set forth in Section
+                  4.1.
+
+                  "Permits" shall mean all permits, licenses, authorizations,
+                  variances, exemptions, orders, registrations and approvals of
+                  all Governmental Entities which are necessary for the conduct
+                  of RSUI's business relative to its performance of the MGA
+                  Services under this MGA Agreement.
+
+                  "Person" shall have the meaning set forth in the Acquisition
+                  Agreement.
+
+                  "Quota Share Reinsurance Agreements" shall mean the RIC Quota
+                  Share Reinsurance Agreement, the RSLIC Quota Share Reinsurance
+                  Agreement and the Landmark Quota Share Reinsurance Agreement,
+                  collectively.
+
+                                       2
+<PAGE>
+
+                  "Representative" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "RIC" shall have the meaning set forth in the recitals.
+
+                  "RICA" shall mean Royal Insurance Company of America.
+
+                  "RSLIC" shall have the meaning set forth in the recitals.
+
+                  "Royal" shall have the meaning set forth in the introduction.
+
+                  "Royal Affiliate Insurers Indemnified Party" shall have the
+                  meaning in Section 8.2.
+
+                  "Royal Insurer Affiliates" shall have the meaning set forth in
+                  the introduction.
+
+                  "RSUI" shall have the meaning set forth in the introduction
+                  hereto.
+
+                  "RSUI Indemnified Party" shall have the meaning set forth in
+                  Section 8.1.
+
+                  "Underwriting Guidelines" shall have the meaning set forth in
+                  Section 4.2.
+
+                  "URC" shall have meaning set forth in the recitals.
+
+                                    ARTICLE II
+
+                                   APPOINTMENT
+
+         SECTION 2.1 The Royal Insurer Affiliates hereby appoint RSUI as their
+managing general agent to perform on and after the Closing Date the services set
+forth in Article IV of this MGA Agreement with respect to the Reinsured
+Contracts ("MGA Services"). RSUI hereby accepts such appointment and agrees to
+render the MGA Services to the Royal Insurer Affiliates in the manner and to the
+extent set forth herein. The Royal Insurer Affiliates shall have ultimate
+responsibility for, and control, of all services performed hereunder by RSUI.
+
+         SECTION 2.2 RSUI shall, at all times, act as an independent contractor.
+The relationship created herein is not to be construed as a joint venture
+between RSUI and the Royal Insurer Affiliates or any form of partnership between
+RSUI and the Royal Insurer Affiliates.
+
+         SECTION 2.3 In entering into this MGA Agreement, RSUI warrants and
+represents that it has the requisite Permits to carry out the duties and
+obligations required of it under this MGA Agreement. For the duration of this
+MGA Agreement, RSUI hereby covenants that it will: (i) employ and retain an
+adequate number of employees with the experience, skill and expertise to perform
+the MGA Services RSUI is obligated to perform under this
+
+                                       3
+<PAGE>
+
+MGA Agreement; (ii) maintain any and all Permits required under Applicable Law
+to perform its obligations under the MGA Agreement and (iii) perform the MGA
+Services hereunder in accordance with all Applicable Law.
+
+                                   ARTICLE III
+
+                              TERM OF MGA AGREEMENT
+
+         SECTION 3.1 This MGA Agreement shall be continuous in nature and shall
+remain in effect until terminated in accordance with the provisions set forth in
+Article VI; provided, however, notwithstanding anything in this Article III or
+this MGA Agreement to the contrary, RSUI shall automatically cease underwriting,
+issuing or binding all Reinsured Contracts in the name of the Royal Insurer
+Affiliates twelve months from the date of this MGA Agreement. Notwithstanding
+the termination of RSUI's underwriting authority, however, all of the other
+authority granted to RSUI under this MGA Agreement shall continue until the
+earlier of when: (i) all of the Reinsured Liabilities are extinguished or (ii)
+this MGA Agreement is terminated.
+
+                                   ARTICLE IV
+
+                      MGA SERVICES TO BE PERFORMED BY RSUI
+
+         SECTION 4.1 MGA SERVICES. RSUI shall perform all the services set forth
+in Sections 4.2, 4.3, 4.4 and 4.5 of this Article IV (collectively, the "MGA
+Services").
+
+         SECTION 4.2 UNDERWRITING SERVICES. RSUI shall solicit, underwrite, bind
+and issue Reinsured Contracts strictly in accordance with Royal Insurance
+Affiliates' underwriting guidelines, which are attached as Exhibit B, as those
+guidelines may be modified or amended from time-to-time by mutual agreement of
+RSUI and the Royal Insurer Affiliates ("Underwriting Guidelines"). Each of RSUI
+and the Royal Insurer Affiliates shall notify the other in writing of any
+proposed changes that either RSUI or the Royal Insurer Affiliates would like to
+be reflected in the Underwriting Guidelines.
+
+         SECTION 4.3 ADMINISTRATIVE SERVICES
+
+         (a)      RSUI shall investigate, adjust, settle, handle and process all
+claims with respect to the Reinsured Contacts, including performing all the
+services set forth in Section 3.1 of each of the Administrative Services
+Agreements, subject to precisely the same terms and conditions, restrictions and
+limitations set forth in the Administrative Services Agreements.
+
+                                       4
+<PAGE>
+
+         (b)      (i) Notwithstanding anything in this Article IV of this MGA
+Agreement or the Underwriting Guidelines to the contrary:
+
+                  (A)      All claims relating to the Reinsured Contracts must
+be reported to the Royal Insurer Affiliates in a timely manner.
+
+                  (B)      At the request of any of the Royal Insurer
+Affiliates, RSUI shall provide a report of any claim involving any Reinsured
+Contract that is of a type set forth in Section 4(7) of Chapter 47 of Title 33
+of the Georgia Insurance Code.
+
+         SECTION 4.4 HANDLING OF ROYAL INSURER AFFILIATES' FUNDS
+
+         (a)      All money received by RSUI on behalf of the Royal Insurer
+Affiliates under this MGA Agreement shall be held by RSUI in a fiduciary
+capacity in a segregated account at a bank which is a member of the Federal
+Reserve System. Within five days of RSUI receiving any money on behalf of the
+Royal Insurer Affiliates under this MGA Agreement, RSUI shall transfer such
+money to such trust account.
+
+         (b)      Prior to the transfer of any monies into the trust account,
+RSUI shall place all funds its receives on behalf of the Royal Insurer
+Affiliates in an account segregated from all other funds or monies held by RSUI
+either on behalf of itself or on behalf of other third parties. RSUI shall not
+commingle any of monies it receives on behalf of the Royal Insurer Affiliates
+with any other funds.
+
+         (c)      RSUI shall render accounts to the Royal Insurer Affiliates and
+URC detailing all transactions under this MGA Agreement on a monthly basis. Such
+accounting shall be performed on the same basis and in the same manner that RSUI
+rendered such accounting to the Royal Insurer Affiliates immediately prior to
+the Closing Date.
+
+         SECTION 4.5 BOOKS AND RECORDS
+
+         The duties and obligations of RSUI and the Royal Insurer Affiliates
+with respect to the Books and Records shall be performed in accordance with the
+requirements set forth under the Administrative Services Agreements.
+
+         SECTION 4.6 PAYMENT FOR MGA SERVICES
+
+         All of RSUI's compensation for the performance of the MGA Services
+hereunder, as well as all expenses of any kind incurred by RSUI in the
+performance of the MGA Services, shall be determined and paid solely by AIHL and
+its Affiliates. Neither the Royal Insurer Affiliates nor any of their Affiliates
+shall have any obligation whatsoever under this MGA Agreement to pay RSUI for
+the MGA Services, or for any expenses incurred by RSUI in performing the MGA
+Services.
+
+                                       5
+<PAGE>
+
+                                    ARTICLE V
+
+                              UNAUTHORIZED ACTIONS
+
+         SECTION 5.1 Notwithstanding any other provision of this MGA Agreement
+or the Administrative Services Agreements to the contrary, without the prior
+written approval of the Royal Insurer Affiliates, RSUI shall not:
+
+         (a)      issue, underwrite or bind any Reinsured Contracts in the name
+of the Royal Insurer Affiliates on and after the first anniversary of this
+Agreement;
+
+         (b)      commit the Royal Insurer Affiliates to participate in any
+insurance or reinsurance syndicates;
+
+         (c)      appoint any producer without assuring that the producer is
+lawfully licensed to transact the type of insurance for which he is appointed;
+
+         (d)      collect any payment from a reinsurer or pay or commit a Royal
+Insurer Affiliate to any claim settlement with a reinsurer, without the prior
+approval of the applicable Royal Insurer Affiliate. If prior approval is given,
+a report must be promptly forwarded to the applicable Royal Insurer Affiliate;
+or
+
+         (e)      jointly employ an individual who is employed with any of the
+Royal Insurer Affiliates.
+
+         Notwithstanding anything in this Section 5.1 to the contrary, RSUI
+shall have the authority to bind reinsurance or retrocessions on behalf of the
+Royal Insurer Affiliates pursuant to the terms and conditions of the
+Administrative Services Agreements.
+
+                                   ARTICLE VI
+
+                                   TERMINATION
+
+SECTION 6.1
+
+         (a) The parties may terminate this Agreement on the same basis that the
+parties may terminate the Administrative Services Agreement.
+
+                                       6
+<PAGE>
+
+                                   ARTICLE VII
+
+                                 CONFIDENTIALITY
+
+         SECTION 7.1 USE OF CONFIDENTIAL INFORMATION. RSUI acknowledges that it
+will have access to confidential and proprietary information concerning the
+Royal Insurer Affiliates and their businesses, which information is not readily
+available to the public, and acknowledge that RSUI and its Affiliates has taken
+and will continue to take reasonable actions to ensure such information is not
+made available to the public. RSUI further agrees that it will not at any time
+(during the term hereof or thereafter) disclose to any Person (except its
+Affiliates and the officers, directors, employees, agents and representatives of
+RSUI and its Affiliates who require such information in order to perform their
+duties in connection with the services provided hereunder), directly or
+indirectly, or make any use of, for any purpose other than those contemplated by
+this MGA Agreement, the Administrative Services Agreements and the Quota Share
+Reinsurance Agreements, any information or trade secrets relating to the
+Reinsured Contracts or the business affairs of the Royal Insurer Affiliates,
+including the identity of and/or the compensation arrangements with, any
+Affiliates of the Royal Insurer Affiliates and, so long as such information
+remains confidential.
+
+         SECTION 7.2 CONFIDENTIALITY OF INDIVIDUALS. Information that identifies
+a Person covered under one of the Reinsured Contracts may be confidential. RSUI
+shall take all reasonable precautions to prevent disclosure or use of
+information identifying individuals covered under such Reinsured Contracts for a
+purpose unrelated to the performance of its obligations under this MGA
+Agreement. RSUI shall comply with all Applicable Laws as in effect on the date
+hereof or as hereafter adopted or amended. With respect to Reinsured Contracts,
+RSUI shall take all reasonable precautions to prevent disclosure or use of
+information identifying individuals for a purpose unrelated to the performance
+of its obligations under this MGA Agreement.
+
+         SECTION 7.3 DISCLOSURE. RSUI may disclose confidential information in
+the following circumstances:
+
+                  (i)      to URC;
+
+                  (ii)     in response to a court order or formal discovery
+request after notice to the other party (to the extent such notice is reasonably
+practicable); provided, however, that such disclosure shall be limited only to
+the extent that is required by such court order or formal disclosure request;
+
+                  (iii)    if a proper request is made by any regulatory
+authority after notice to the other party (to the extent such notice is
+reasonably practicable); provided, however, that such disclosure shall be
+limited only to the extent that is required by such regulatory authority;
+
+                  (iv)     as otherwise required by Applicable Law; or
+
+                                       7
+<PAGE>
+
+                  (v)      as otherwise provided by the provisions of this MGA
+Agreement.
+
+                                  ARTICLE VIII
+
+                                 INDEMNIFICATION
+
+         SECTION 8.1 INDEMNIFICATION BY THE ROYAL INSURER AFFILIATES. The Royal
+Insurer Affiliates shall indemnify RSUI and its officers, directors (each, an
+"RSUI Indemnified Party") and shall hold each RSUI Indemnified Party harmless
+from and against all Damages which are asserted against, imposed upon or
+incurred by any RSUI Indemnified Party as a result of or in connection with the
+performance by RSUI of the MGA Services, except to the extent that such Damages
+are attributable to: (i) the negligence or willful misconduct of RSUI, its
+officers, directors, employees or Representatives; or (ii) a breach by RSUI, its
+officers, directors, employees or Representatives of its obligations under this
+MGA Agreement.
+
+         SECTION 8.2 INDEMNIFICATION BY RSUI. RSUI shall indemnify the Royal
+Insurer Affiliates and its officers, directors and employees (each, a "Royal
+Insurer Affiliates Indemnified Party") and shall hold each Royal Insurer
+Affiliates Indemnified Party harmless from all Damages asserted against, imposed
+upon or incurred by any of the Royal Insurer Affiliates Indemnified Party in the
+performance by RSUI of the MGA Services to the extent such Damage is
+attributable to: (i) the negligence or willful misconduct of RSUI, its officers,
+directors, employees or Representatives; or (ii) a breach by RSUI, its officers,
+directors employees or Representatives of its obligations under this MGA
+Agreement.
+
+         SECTION 8.3 INDEMNIFICATION PROCEDURE. In the event either the Royal
+Insurer Affiliates or RSUI shall have a claim for indemnity against the other
+party under the terms of this MGA Agreement, the parties shall follow the
+procedures set forth in Article XIV of the Acquisition Agreement.
+
+         SECTION 8.4 NO DUPLICATION. Any liability for indemnification hereunder
+shall be determined without duplication of recovery by reason of (i) the state
+of facts giving rise to such liability constituting a breach of more than one
+representation, warranty, covenant or agreement or (ii) the liability of the
+RSUI Indemnified Party or the Royal Insurer Affiliates Indemnified Party or any
+Affiliate thereof under a Landmark Ancillary Agreement, the Acquisition
+Agreement or an Ancillary Agreement (as such term is defined in the Acquisition
+Agreement).
+
+                                   ARTICLE IX
+
+                                   ARBITRATION
+
+                                       8
+<PAGE>
+
+         SECTION 9.1 ARBITRATION. As a condition precedent to any cause of
+action, any and all disputes between RSUI and the Royal Insurer Affiliates
+arising out of, relating to, or concerning this MGA Agreement, whether sounding
+in contract or tort and whether arising during or after termination of this MGA
+Agreement, shall be submitted to the decision of a board of arbitration composed
+of two arbitrators and an umpire ("Board") meeting at a site in Wilmington,
+Delaware. The arbitration shall be conducted under the Federal Arbitration Act
+and shall proceed as set forth below.
+
+         SECTION 9.2 NOTICE OF ARBITRATION. A notice requesting arbitration, or
+any other notice made in connection therewith, shall be in writing and shall be
+sent certified or registered mail, return receipt requested to the affected
+parties. The notice requesting arbitration shall state in particulars all issues
+to be resolved in the view of the claimant, shall appoint the arbitrator
+selected by the claimant and shall set a tentative date for the hearing, which
+date shall be no sooner than ninety (90) days and no later than one hundred
+fifty (150) days from the date that the notice requesting arbitration is mailed.
+Within thirty (30) days of receipt of claimant's notice, the respondent shall
+notify claimant of any additional issues to be resolved in the arbitration and
+of the name of its appointed arbitrator.
+
+         SECTION 9.3 ARBITRATION PANEL. Unless otherwise mutually agreed, the
+members of the Board shall be impartial and disinterested and shall be active or
+former executive officers of property-casualty insurance companies, reinsurance
+companies, or Lloyd's Underwriters or active or inactive lawyers with at least
+twenty (20) years of experience in insurance and reinsurance. RSUI and the Royal
+Insurer Affiliates shall each appoint an arbitrator and the two (2) arbitrators
+shall choose an umpire before instituting the hearing. If the respondent fails
+to appoint its arbitrator within thirty (30) days after having received
+claimant's written request for arbitration, the claimant is authorized to and
+shall appoint the second arbitrator. If the two arbitrators fail to agree upon
+the appointment of an umpire within thirty (30) days after notification of the
+appointment of the second arbitrator, within ten (10) days thereof, the two (2)
+arbitrators shall request the American Arbitration Association ("AAA") to
+appoint an umpire for the arbitration with the qualifications set forth in this
+Article. If the AAA fails to name an umpire, either party may apply to the court
+named below to appoint an umpire with the above required qualifications. The
+umpire shall promptly notify in writing all parties to the arbitration of his
+selection and of the scheduled date for the hearing. Upon resignation or death
+of any member of the Board, a replacement shall be appointed in the same fashion
+as the resigning or deceased member was appointed.
+
+         SECTION 9.4 SUBMISSION OF BRIEFS. The claimant and respondent shall
+each submit initial briefs to the Board outlining the issues in dispute and the
+basis, authority and reasons for their respective positions within thirty (30)
+days of the date of notice of appointment of the umpire. The claimant and the
+respondent may submit reply briefs to the Board within ten (10) days after
+filing of the initial brief(s). Initial and reply briefs may be amended by the
+submitting party at any time, but not later than ten (10) days prior to the date
+of commencement of the arbitration hearing. Reasonable responses shall be
+allowed at the arbitration hearing to new material contained in any amendments
+filed to the briefs but not previously responded to.
+
+                                       9
+<PAGE>
+
+         SECTION 9.5 ARBITRATION BOARD'S DECISION. The Board shall make a
+decision and award with regard to the terms of this MGA Agreement and the
+original intentions of the parties to the extent reasonably ascertainable. The
+Board's decision and award shall be in writing and shall state the factual and
+legal basis for the decision and award. The decision and award shall be based
+upon a hearing in which evidence shall be allowed and which the formal rules of
+evidence shall not strictly apply but in which cross examination and rebuttal
+shall be allowed. At its own election or at the request of the Board, either
+party may submit a post-hearing brief for consideration of the Board within
+twenty (20) days of the close of the hearing. The Board shall make its decision
+and award within thirty (30) days following the close of the hearing or the
+submission of post-hearing briefs, whichever is later, unless the parties
+consent to an extension. Every decision by the Board shall be by a majority of
+the members of the Board and each decision and award by the majority of the
+members of the Board shall be final and binding upon all parties to the
+proceeding.
+
+         SECTION 9.6 JURISDICTION. Either party may apply to the Chancery Court
+of the State of Delaware for an order compelling arbitration or confirming any
+decision and the award; a judgment of that Court shall thereupon be entered on
+any decision or award. If such an order is issued, the attorneys' fees of the
+party so applying and court costs will be paid by the party against whom
+confirmation is sought. The Board may award interest calculated from the date
+the Board determines that any amounts due the prevailing party should have been
+paid to the prevailing party.
+
+         SECTION 9.7 EXPENSES. Each party shall bear the expense of the one
+arbitrator appointed by it and shall jointly and equally bear with the other
+party the expense of any stenographer requested, and of the umpire.
+
+         SECTION 9.8 PRODUCTION OF DOCUMENTS AND WITNESSES. Subject to customary
+and recognized legal rules of privilege, each party participating in the
+arbitration shall have the obligation to produce those documents and as
+witnesses to the arbitration those of its employees as any other participating
+party reasonably requests providing always that the same witnesses and documents
+be obtainable and relevant to the issues before the arbitration and not be
+unduly burdensome or excessive. The parties may mutually agree as to pre-hearing
+discovery prior to the arbitration hearing and in the absence of agreement, upon
+the request of any party, pre-hearing discovery may be conducted as the Board
+shall determine in its sole discretion to be in the interest of fairness, full
+disclosure, and a prompt hearing, decision and award by the Board. The Board
+shall be the final judge of the procedures of the Board, the conduct of the
+arbitration, of the rules of evidence, the rules of privilege and production and
+of excessiveness and relevancy of any witnesses and documents upon the petition
+of any participating party. To the extent permitted by law, the Board shall have
+the authority to issue subpoenas and other orders to enforce their decisions.
+
+         SECTION 9.9 RELIEF AVAILABLE. Nothing herein shall be construed to
+prevent any participating party from applying to the Chancery Court of the State
+of Delaware to issue a restraining order or other equitable relief to maintain
+the "status quo" of the parties participating in the arbitration pending the
+decision and award by the Board or to prevent
+
+                                       10
+<PAGE>
+
+any party from incurring irreparable harm or damage at any time prior to the
+decision and award of the Board. The Board shall also have the authority to
+issue interim decisions or awards in the interest of fairness, full disclosure,
+and a prompt and orderly hearing and decision and award by the Board.
+
+         SECTION 9.10 CONSOLIDATION. In the event that there is a dispute
+between the Royal Insurer Affiliates and RSUI under this MGA Agreement as well
+as one or more disputes involving any of the Ancillary Agreements, RSUI, URC and
+the Royal Insurer Affiliates agree to consolidate all such disputes under such
+agreements in a single arbitration proceeding.
+
+                                    ARTICLE X
+
+                                  MISCELLANEOUS
+
+         SECTION 10.1 COOPERATION. The parties hereto shall cooperate in a
+commercially reasonable manner in order that the duties assumed by RSUI
+hereunder will be effectively, efficiently and promptly discharged. The parties
+hereto will use their best efforts to (i) give effect to the intent of this MGA
+Agreement and (ii) refrain from conduct which would frustrate the intent of any
+such MGA Agreement. Each party shall, at all reasonable times under the
+circumstances, make available to the other party properly authorized personnel
+for the purpose of consultation and decision.
+
+         SECTION 10.2 AMENDMENT, MODIFICATION AND WAIVER. This MGA Agreement may
+not be amended, modified or waived except by an instrument or instruments in
+writing signed and delivered on behalf of each of the parties hereto.
+
+         SECTION 10.3 ENTIRE AGREEMENT. This MGA Agreement, the Acquisition
+Agreement and the Ancillary Agreements among the parties with respect to the
+subject matter hereof and thereof and supersede all other prior agreements and
+understandings, both written and verbal, among the parties or any of them with
+respect to the subject matter hereof.
+
+         SECTION 10.4 GOVERNING LAW. This MGA Agreement shall be governed by and
+construed in accordance with the laws of the State of Delaware, regardless of
+the laws that might otherwise govern under applicable principles of conflicts of
+laws thereof.
+
+         SECTION 10.5 SEVERABILITY. Any term or provision of this MGA Agreement
+which is invalid or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity or
+unenforceability without rendering invalid or unenforceable the remaining terms
+and provisions of this MGA Agreement or affecting the validity or enforceability
+of any of the terms or provisions of this MGA Agreement in any other
+jurisdiction. If any provision of this MGA Agreement is so broad as to be
+unenforceable, the provision shall be interpreted to be only so broad as would
+be enforceable.
+
+                                       11
+<PAGE>
+
+         SECTION 10.6 COUNTERPARTS. This MGA Agreement may be executed in
+counterparts, each of which shall be deemed to be an original, but all of which
+shall constitute one and the same MGA Agreement.
+
+         SECTION 10.7 CONSENT TO JURISDICTION. Each of the parties hereto
+irrevocably and unconditionally submits to the exclusive jurisdiction of the
+Chancery Court for the State of Delaware for the purposes of enforcing this MGA
+Agreement. In any action, suit or other proceeding, each of the parties hereto
+irrevocably and unconditionally waives and agrees not to assert by way of
+motion, as a defense or otherwise any claims that it is not subject to the
+jurisdiction of the above courts, that such action or suit is brought in an
+inconvenient forum or that the venue of such action, suit or other proceeding is
+improper. Each of the parties hereto also agrees that any final and unappealable
+judgment against a party hereto in connection with any action, suit or other
+proceeding shall be conclusive and binding on such party and that such award or
+judgment may be enforced in any court of competent jurisdiction, either within
+or outside of the United States. A certified or exemplified copy of such award
+or judgment shall be conclusive evidence of the fact and amount of such award or
+judgment.
+
+         SECTION 10.8 THIRD PARTY BENEFICIARIES. Except as set forth in Article
+VIII of this MGA Agreement, and except with respect to URC, nothing in this MGA
+Agreement, express or implied, is intended to or shall confer upon any Person
+other than the parties hereto any rights, benefits or remedies of any nature
+whatsoever under or by reason of this MGA Agreement.
+
+         SECTION 10.9 NON-ASSIGNABILITY. Neither RSUI nor the Royal Insurer
+Affiliates may assign, in whole or in part, any of their obligations or duties
+under this MGA Agreement.
+
+         SECTION 10.10 SPECIFIC PERFORMANCE. The parties recognize and agree
+that if for any reason any of the provisions of this MGA Agreement are not
+performed in accordance with their specific terms or are otherwise breached,
+immediate and irreparable harm or injury would be caused for which money damages
+would not be an adequate remedy. Accordingly, each party agrees that, in
+addition to any other available remedies, each other party shall be entitled to
+an injunction restraining any violation or threatened violation of any of the
+provisions of this MGA Agreement without the necessity of posting a bond or
+other form of security. In the event that any action should be brought in equity
+to enforce any of the provisions of this MGA Agreement, no party will allege,
+and each party hereby waives the defense, that there is an adequate remedy at
+law.
+
+         SECTION 10.11 DESCRIPTIVE HEADINGS. The descriptive article and section
+headings herein are inserted for convenience of reference only and are not
+intended to be part of or to affect the meaning or interpretation of this MGA
+Agreement.
+
+         SECTION 10.12 USE OF NAME. Except as otherwise set forth in the
+Acquisition Agreement, RSUI shall not use the name, trademark, service mark,
+logo or identification of the Royal Insurer Affiliates without the Royal Insurer
+Affiliates' prior written consent.
+
+                                       12
+<PAGE>
+
+         SECTION 10.13 NOTICES. All notices, requests, claims, demands and other
+communications hereunder shall be in writing and shall be given (and shall be
+deemed to have been duly given upon receipt) by delivery in person, by telecopy
+(which is confirmed), or by registered or certified mail (postage prepaid,
+return receipt requested) to the respective parties to this MGA Agreement as
+follows:
+
+         If to the Royal Insurer Affiliates:
+
+                  Laura S. Lawrence, Esq.
+                  General Counsel
+                  Royal Group, Inc.
+                  9300 Arrowpoint Blvd.
+                  Charlotte, NC 28273
+                  Telephone No.: (704) 522-2851
+                  Facsimile No.: (704) 522-2313
+
+         With a copy to (which shall not constitute notice to the Royal Insurer
+Affiliates for purposes of this Section 10.13):
+
+                  Robert J. Sullivan, Esq.
+                  Skadden, Arps, Slate, Meagher & Flom LLP
+                  Four Times Square
+                  New York, New York 10036
+                  Telephone No.: (212) 735-2930
+                  Facsimile No.: (212) 735-2000
+
+         If to RSUI:
+
+                  James Dixon
+                  President and Chief Executive Officer
+                  Royal Specialty Underwriting, Inc.
+                  945 East Paces Ferry Road
+                  Atlanta, Georgia 30326
+                  Telephone No.: (404) 231-2360
+                  Facsimile No.: (404) 231-3755
+
+         With a copy to (which shall not constitute notice to the RSUI for
+purposes of this Section 10.13):
+
+                  Aileen Meehan, Esq.
+                  Dewey Ballantine LLP
+                  1301 Avenue of the Americas
+                  New York, New York 10019
+                  Telephone No.: (212) 259-8000
+                  Telecopy No.: (212) 259-6333
+
+                                       13
+<PAGE>
+
+or to such other address as the person to whom notice is given may have
+previously furnished to the others in writing in the manner set forth above. In
+no event shall the provision of notice pursuant to this Section 10.13 constitute
+notice for service of any writ, process or summons in any suit, action or other
+proceeding.
+
+         SECTION 10.14 INTERPRETATION.When a reference is made in this MGA
+Agreement to a Section or Article, such reference shall be to a section or
+article of this MGA Agreement unless otherwise clearly indicated to the
+contrary. Whenever the words "include," "includes" or "including" are used in
+this MGA Agreement, they shall be deemed to be followed by the words "without
+limitation." The words "hereof," "herein" and "herewith" and words of similar
+import shall, unless otherwise stated, be construed to refer to this MGA
+Agreement as a whole and not to any particular provision of this MGA Agreement.
+The meaning assigned to each term used in this MGA Agreement shall be equally
+applicable to both the singular and the plural forms of such term, and words
+denoting any gender shall include all genders. Where a word or phrase is defined
+herein, each of its other grammatical forms shall have a corresponding meaning.
+
+         The parties have participated jointly in the negotiation and drafting
+of this MGA Agreement; consequently, in the event an ambiguity or question of
+intent or interpretation arises, this MGA Agreement shall be construed as if
+drafted jointly by the parties thereto, and no presumption or burden of proof
+shall arise favoring or disfavoring any party by virtue of the authorship of any
+provisions of this MGA Agreement.
+
+                                       14
+<PAGE>
+
+         IN WITNESS WHEREOF, this Managing General Agency Agreement has been
+duly executed by a duly authorized officer of each party hereto as of the date
+first above written.
+
+                                      ROYAL SPECIALTY UNDERWRITING, INC.
+
+                                               By: /s/ James A. Dixon
+                                                   -------------------------
+                                                   Name:  James A. Dixon
+                                                   Title: Chairman
+
+                                      ROYAL INDEMNITY COMPANY
+
+                                               By: /s/ Stephen M. Mulready
+                                                   --------------------------
+                                                   Name:  Stephen M. Mulready
+                                                   Title: President and Chief
+                                                          Executive Officer
+
+                                      ROYAL SURPLUS LINES INSURANCE COMPANY
+
+                                               By: /s/ Stephen M. Mulready
+                                                   ---------------------------
+                                                   Name:  Stephen M. Mulready
+                                                   Title: President and Chief
+                                                          Executive Officer
+
+                                      ROYAL INSURANCE COMPANY OF AMERICA
+
+                                               By: /s/ Stephen M. Mulready
+                                                   ----------------------------
+                                                   Name:  Stephen M. Mulready
+                                                   Title: President and Chief
+                                                          Executive Officer
+
+                                      LANDMARK AMERICAN INSURANCE COMPANY
+
+                                               By: /s/ Stephen M. Mulready
+                                                   -----------------------------
+                                                   Name:  Stephen M. Mulready
+                                                   Title: President and Chief
+                                                          Executive Officer
+
+
+</TEXT>
+</DOCUMENT>

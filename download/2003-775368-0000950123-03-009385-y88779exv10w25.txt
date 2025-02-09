@@ -1,0 +1,1785 @@
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>27
+<FILENAME>y88779exv10w25.txt
+<DESCRIPTION>CLAIMS SERVICING AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                               EXHIBIT 10.25
+
+
+
+                           CLAIMS SERVICING AGREEMENT
+
+                                  BY AND AMONG
+
+                        UNDERWRITERS REINSURANCE COMPANY,
+
+                            ROYAL INDEMNITY COMPANY,
+
+                     ROYAL SURPLUS LINES INSURANCE COMPANY,
+
+                      LANDMARK AMERICAN INSURANCE COMPANY,
+
+                       ROYAL INSURANCE COMPANY OF AMERICA,
+
+                     AMERICAN AND FOREIGN INSURANCE COMPANY,
+
+                            GLOBE INDEMNITY COMPANY,
+
+                           SAFEGUARD INSURANCE COMPANY
+
+                                       AND
+
+                      PHOENIX ASSURANCE COMPANY OF NEW YORK
+
+                               DATED: JULY 1, 2003
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                                     Page
+<S>                                                                                                                  <C>
+CLAIMS SERVICING AGREEMENT.......................................................................................      1
+
+RECITALS:........................................................................................................      1
+
+ARTICLE I DEFINITIONS............................................................................................      2
+     Section 1.1      Definitions................................................................................      2
+
+ARTICLE II APPOINTMENT...........................................................................................      4
+     Section 2.1      Appointment and Acceptance of Appointment..................................................      4
+
+ARTICLE III PERFORMANCE STANDARDS................................................................................      5
+     Section 3.1      Performance Standards......................................................................      5
+
+ARTICLE IV SERVICES TO BE PROVIDED BY URC........................................................................      6
+     Section 4.1      Claims Services............................................................................      6
+     Section 4.2      Handling of Certain Types of Claims Services...............................................     12
+     Section 4.3      Conflict of Interest Arising in Connection with Performance of Claims Services.............     13
+
+ARTICLE V FEES FOR CLAIMS SERVICES...............................................................................     13
+     Section 5.1      Payment for Claims Services................................................................     13
+
+ARTICLE VI OTHER SERVICES AND FEES FOR SERVICES..................................................................     14
+     Section 6.1      Additional Services........................................................................     14
+
+ARTICLE VII BOOKS; AUDITS; BANK ACCOUNTS.........................................................................     14
+     Section 7.1      Reports....................................................................................     14
+     Section 7.2      Audits.....................................................................................     14
+
+ARTICLE VIII INABILITY TO PERFORM SERVICES; ERRORS...............................................................     17
+     Section 8.1      Inability to Perform Services..............................................................     17
+     Section 8.2      Errors.....................................................................................     18
+
+ARTICLE IX LEGAL ACTIONS BY GOVERNMENTAL ENTITIES................................................................     18
+     Section 9.1      Regulatory Proceedings.....................................................................     18
+     Section 9.2      Defense of Litigation......................................................................     18
+     Section 9.3      URC Communications Regarding Certain Matters...............................................     18
+
+ARTICLE X DURATION...............................................................................................     18
+     Section 10.1     Duration...................................................................................     18
+
+ARTICLE XI TERMINATION...........................................................................................     19
+     Section 11.1     Mutual Agreement...........................................................................     19
+     Section 11.2     Termination by URC.........................................................................     19
+</TABLE>
+
+                                       i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                                   <C>
+     Section 11.3     Termination by the Royal Insurer Affiliates................................................     19
+     Section 11.4     Return of Books and Records to URC.........................................................     20
+     Section 11.5     Transition Period..........................................................................     20
+     Section 11.6     No Prejudice...............................................................................     20
+
+ARTICLE XII CONFIDENTIALITY......................................................................................     21
+     Section 12.1     Use of Confidential Information............................................................     21
+     Section 12.2     Confidentiality of Individuals.............................................................     21
+     Section 12.3     Disclosure.................................................................................     21
+
+ARTICLE XIII [INTENTIONALLY OMITTED].............................................................................     22
+
+ARTICLE XIV INDEMNIFICATION......................................................................................     22
+     Section 14.1     Indemnification by the Royal Insurer Affiliates............................................     22
+     Section 14.2     Indemnification by URC.....................................................................     22
+     Section 14.3     Indemnification Procedure..................................................................     22
+
+ARTICLE XV ARBITRATION...........................................................................................     22
+     Section 15.1     Arbitration................................................................................     22
+     Section 15.2     Notice of Arbitration......................................................................     23
+     Section 15.3     Arbitration Panel..........................................................................     23
+     Section 15.4     Submission of Briefs.......................................................................     23
+     Section 15.5     Arbitration Board's Decision...............................................................     23
+     Section 15.6     Jurisdiction...............................................................................     24
+     Section 15.7     Expenses...................................................................................     24
+     Section 15.8     Production of Documents and Witnesses......................................................     24
+     Section 15.9     Relief Available...........................................................................     24
+     Section 15.10    Consolidation..............................................................................     25
+
+ARTICLE XVI MISCELLANEOUS........................................................................................     25
+     Section 16.1     Cooperation................................................................................     25
+     Section 16.2     Amendment, Modification and Waiver.........................................................     25
+     Section 16.3     Relationship...............................................................................     25
+     Section 16.4     Entire Agreement...........................................................................     26
+     Section 16.5     Governing Law..............................................................................     26
+     Section 16.6     Severability...............................................................................     26
+     Section 16.7     Counterparts...............................................................................     26
+     Section 16.8     Consent to Jurisdiction....................................................................     26
+     Section 16.9     Third Party Beneficiaries..................................................................     26
+     Section 16.10    Binding; Assignment........................................................................     27
+     Section 16.11    Specific Performance.......................................................................     27
+     Section 16.12    Descriptive Headings.......................................................................     27
+     Section 16.13    Use of Name................................................................................     27
+     Section 16.14    Notices....................................................................................     27
+     Section 16.15    Interpretation.............................................................................     29
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+                                    EXHIBITS
+
+EXHIBIT A         List of Royal Insurer Affiliates
+EXHIBIT B         Claims Servicing Information Technology License Agreement
+EXHIBIT C         Claims Expenses
+
+                                      iii
+
+<PAGE>
+
+                           CLAIMS SERVICING AGREEMENT
+
+         THIS CLAIMS SERVICING AGREEMENT (this "Agreement") is made and entered
+into as of this 1st day of July, 2003 by and between Underwriters Reinsurance
+Company, a New Hampshire company ("URC"), Royal Indemnity Company, a Delaware
+property and casualty insurance company ("RIC"), Royal Surplus Lines Insurance
+Company, a Connecticut insurance company ("RSLIC"), Landmark American Insurance
+Company, a property and casualty insurance company organized under the laws of
+Oklahoma ("Landmark"), Royal Insurance Company of America, a property and
+casualty insurance company organized under the laws of Illinois ("RICA") and
+certain other insurer affiliates of Royal Group, Inc, a Delaware corporation and
+the parent company of RIC and RSLIC ("Royal"), listed on Exhibit A hereto (RIC,
+RSLIC, Landmark, RICA and the Royal Insurer Affiliates listed on Exhibit A to
+this Agreement, collectively, the "Royal Insurer Affiliates").
+
+                                    RECITALS:
+
+         WHEREAS, prior to the Closing Date (defined below), Royal Specialty
+Underwriting, Inc., a Georgia company ("RSUI") has underwritten certain
+insurance and reinsurance contracts on behalf of the Royal Insurer Affiliates
+and administered the claims and reinsurance recoverables relating to such
+contracts;
+
+         WHEREAS, pursuant to the Acquisition Agreement ("Acquisition
+Agreement"), dated as of June 6, 2003, by and between Royal and Alleghany
+Insurance Holdings LLC, a Delaware limited liability company ("AIHL"), the
+parties agreed, among other things, that Royal will sell to AIHL, and AIHL will
+buy, all of the issued and outstanding shares of common stock of RSUI;
+
+         WHEREAS, pursuant to the Assignment and Assumption Agreement dated as
+of June 30, 2003 (the "Assignment Agreement"), AIHL assigned to RSUI Group,
+Inc., a Delaware corporation and a wholly-owned subsidiary of AIHL ("RSUI
+Group"), and RSUI Group assumed from AIHL, all of AIHL's rights and obligations
+under the Acquisition Agreement;
+
+         WHEREAS, pursuant to the terms of the Acquisition Agreement and the
+Assignment Agreement, Royal and RSUI Group have agreed that Royal shall cause
+the Royal Insurer Affiliates, and Royal Group shall cause URC, to enter into
+this Agreement;
+
+         WHEREAS, pursuant to the terms and conditions of this Agreement, URC
+will provide to the Royal Insurer Affiliates on and after the Closing Date all
+Claims Services (defined below) and other services with respect to the Covered
+Contracts (defined below);
+
+         NOW, THEREFORE, in consideration of these premises and the terms and
+conditions set forth herein, and for other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, URC and the Royal
+Insurer Affiliates agree as follows:
+
+<PAGE>
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+         SECTION 1.1 DEFINITIONS. Capitalized terms used but not defined herein
+and which are defined in the Acquisition Agreement, shall have the meanings
+ascribed to them in the Acquisition Agreement. As used in this Agreement, the
+following terms shall have the meanings set forth herein:
+
+                  "Acquisition Agreement" shall have the meaning set forth in
+                  the recitals.
+
+                  "Affiliate" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Agreement" shall mean the Claims Servicing Agreement by and
+                  between URC and the Royal Insurer Affiliates, dated as of July
+                  1, 2003.
+
+                  "AIHL" shall have the meaning set forth in the recitals.
+
+                  "Applicable Law" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Assignment Agreement" shall have the meaning set forth in the
+                  recitals.
+
+                  "Board" shall have the meaning set forth in Section 15.1.
+
+                  "Books and Records" shall mean the originals or copies of all
+                  customer lists, policy information, insurance policies,
+                  insurance contract forms, administrative and pricing manuals,
+                  medical procedure code lists, claim records and files, sales
+                  records, underwriting records and files, financial records,
+                  compliance records, data filed prepared for or filed with
+                  Governmental Entities relating to the Covered Contracts and
+                  premium taxes, whether or not stored in hardcopy form or on
+                  magnetic or optical media (to the extent not subject to
+                  licensing restrictions), but excluding, prior to the Closing
+                  Date, any such lists, information and records that are
+                  prohibited from being disclosed by Applicable Law or
+                  regulatory requirements.
+
+                  "Business Day" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Claims Expenses" shall mean all fair and reasonable and
+                  necessary fees, costs and expenses related to or incurred by
+                  URC in connection with the investigation, handling and
+                  settling of claims arising under the Covered Contracts as set
+                  forth in Exhibit C.
+
+                  "Claims Services" shall have the meaning set forth in Section
+                  4.1 hereof.
+
+                  "Closing Date" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                                       2
+
+<PAGE>
+
+                  "Computer Systems" means the CLASS, other computer systems the
+                  Royal Insurance Affiliates utilize to handle claims and
+                  incidents, and the Claims System (SID), the computer system
+                  RSUI utilizes to handle claims and incidents and the databases
+                  on Field 1 server accessible via Lotus Notes.
+
+                  "Covered Contracts" means all policies and contracts of
+                  insurance (both direct and assumed) underwritten by RSUI and
+                  issued by the Royal Insurer Affiliates prior to the Effective
+                  Date.
+
+                  "Damages" shall have the meaning set forth in the Acquisition
+                  Agreement.
+
+                  "Effective Date" shall mean July 1, 2003.
+
+                  "Extra Contractual Liabilities" means, with respect to any
+                  Covered Contract, all liabilities or obligations, other than
+                  those arising under the express terms of and within the
+                  express limits of the Covered Contracts, whether to
+                  policyholders, Governmental Entities or any other Person,
+                  which liabilities and obligations shall include, without
+                  limitation, any liability for punitive, exemplary, special or
+                  any other form of extra-contractual damages relating to the
+                  Covered Contracts which arises from any act, error or
+                  omission, whether or not intentional, in bad faith or
+                  otherwise, including, without limitation, any act, error or
+                  omission relating to (i) the investigation, coverage analysis,
+                  defense, trial, settlement or handling of claims, benefits, or
+                  payments arising out of or relating to the Covered Contracts
+                  or (ii) the failure to pay or the delay in payment of
+                  benefits, claims or any other amounts due or alleged to be due
+                  under or in connection with the Covered Contracts.
+
+                  "Governmental Entity" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Landmark" shall have the meaning set forth in the
+                  introduction.
+
+                  "90-Day Treasury Rate" means the annual yield rate, as of any
+                  given date, of actively traded U.S. Treasury securities having
+                  remaining duration to maturity of three months, as such rate
+                  us published under "Treasury Constant Maturities" in Federal
+                  Reserve Statistical Release H.15 (519).
+
+                  "Obligations in Excess of Policy Limits" means all liabilities
+                  or obligations incurred in excess of the limits of the Covered
+                  Contracts because of (i) the failure by URC or the Royal
+                  Insurer Affiliates, as applicable, to settle within the
+                  applicable policy limit or (ii) the negligence, fraud or bad
+                  faith of URC or the Royal Insurer Affiliates, as applicable,
+                  in the defense, trial or appeal of any action against its
+                  insured or reinsured.
+
+                  "Permits" shall mean all permits, licenses, authorizations,
+                  variances, exemptions, orders, registrations and approvals of
+                  all Governmental Entities which are
+
+                                       3
+
+<PAGE>
+
+                  required for the conduct of RSUI's and URC's business relative
+                  to their performance of the Claims Services.
+
+                  "Person" shall have the meaning set forth in the Acquisition
+                  Agreement.
+
+                  "Producer" shall have the meaning set forth in the Acquisition
+                  Agreement.
+
+                  "Representative" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Royal" shall have the meaning set forth in the introduction.
+
+                  "Royal Affiliate Insurers Indemnified Party" shall have the
+                  meaning in Section 14.2
+
+                  "Royal Group" shall have the meaning set forth in the
+                  recitals.
+
+                  "Royal Insurer Affiliates" shall have the meaning set forth in
+                  the introduction.
+
+                  "RIC" shall have the meaning set forth in the introduction.
+
+                  "RICA" shall have the meaning set forth in the introduction.
+
+                  "RSLIC" shall have the meaning set forth in the introduction.
+
+                  "RSUI" shall have the meaning set forth in the recitals.
+
+                  "Subsidiary" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Tax" or "Taxes" shall have the meaning set forth in the
+                  Acquisition Agreement.
+
+                  "Third Party Reinsurance Contracts" shall have the meaning set
+                  forth in the Acquisition Agreement.
+
+                  "URC" shall have the meaning set forth in the introduction.
+
+                  "URC Indemnified Party" shall have the meaning set forth in
+                  Section 14.1.
+
+                                   ARTICLE II
+
+                                   APPOINTMENT
+
+         SECTION 2.1 APPOINTMENT AND ACCEPTANCE OF APPOINTMENT.
+
+         (a)      The Royal Insurer Affiliates hereby appoint URC to provide the
+Claims Services and other services specified herein with respect to the Covered
+Contracts on the terms, and subject to the limitations and conditions, set forth
+in this Agreement. URC hereby accepts such
+
+                                        4
+
+<PAGE>
+
+appointment and agrees to perform such Claims Services on behalf of and in the
+name of the Royal Insurer Affiliates in accordance with the terms and conditions
+of this Agreement.
+
+         (b)      URC represents that it and/or RSUI has or will obtain and
+maintain any and all Permits required under Applicable Law to perform their
+obligations under this Agreement.
+
+         (c)      URC's access to the Computer Systems controlled by the Royal
+Insurer Affiliates that are necessary for it to provide the Claims Services and
+other services specified herein shall be governed by the Claims Servicing
+Information Technology License Agreement, the form of which is attached hereto
+as Exhibit B.
+
+                                  ARTICLE III
+
+                              PERFORMANCE STANDARDS
+
+         SECTION 3.1 PERFORMANCE STANDARDS. URC agrees that on and after the
+Closing Date it shall:
+
+         (a)      Perform the Claims Services in an accurate and timely manner
+and acknowledges that the performance of the Claims Services in an accurate and
+timely manner is of paramount importance to the Royal Insurer Affiliates.
+Subject to the provisions of this Agreement, URC agrees that in providing the
+Claims Services it shall (i) conduct itself in accordance with all reasonable
+commercial and professional standards, which are: (A) at least equal to the
+standards pursuant to which RSUI administered claims involving the Covered
+Contracts immediately prior to the Closing Date or (B) to the extent URC
+performs claims or other similar services for any other insurer (other than the
+Royal Insurer Affiliates) using standards that are higher than those standards
+pursuant to which RSUI administered claims involving the Covered Contracts
+immediately prior to the Closing Date, then URC shall automatically adopt those
+higher standards in its performance of the Claims Services under this Agreement;
+(ii) comply with: (A) all Applicable Laws relating to the Covered Contracts and
+to the conduct of the activities contemplated hereby; (B) all reasonable,
+written guidelines that the Royal Insurer Affiliates may from time to time
+establish and provide to URC, provided that URC shall have thirty (30) days to
+implement the guidelines from the date such guidelines are received by URC from
+the Royal Insurer Affiliates; and (C) the terms and conditions of this
+Agreement; (iii) carry on its affairs in the ordinary course of business as was
+conducted by RSUI prior to the Closing Date and not make or institute any
+unusual method of doing business, accounting or operation with respect to the
+Claims Services to be provided under this Agreement, except with the prior
+written approval of the Royal Insurer Affiliates; and (iv) act at all times in
+good faith. URC shall in all respects perform the Claims Services relating to
+the Covered Contracts in a manner which would not adversely affect the
+reputation of the Royal Insurer Affiliates.
+
+         (b)      For the duration of this Agreement, URC hereby covenants that
+it will employ and retain an adequate number of employees with the experience,
+skill and expertise to perform the Claims Services URC is obligated to perform
+hereunder in a manner consistent with the standards set forth in Section 3.1(a)
+hereof.
+
+                                        5
+
+<PAGE>
+
+                                   ARTICLE IV
+
+                         SERVICES TO BE PROVIDED BY URC
+
+         SECTION 4.1 CLAIMS SERVICES. On and after the Closing Date, and except
+as otherwise provided in Section 4.2, Article IX or any other provision of this
+Agreement, URC shall investigate, adjust, settle, handle and process all claims,
+including those basic services set forth below, with respect to incidents
+arising under the Covered Contracts prior to the Effective Date ("Claims
+Services"). The Claims Services shall be provided in accordance with the Royal
+Insurer Affiliates' claim handling guidelines and generally accepted claims
+servicing practices within the settlement limits set forth below until each
+claim is closed, the Agreement is terminated or as otherwise directed by the
+Royal Insurer Affiliates.
+
+         (a)      Confirmation of Coverage.
+
+                  (i)      where coverage is clear and the expected loss does
+         not exceed $500,000 net, confirm coverage for claims;
+
+                  (ii)     where expected loss exceeds $500,000 net, notify and
+         consult with the Royal Insurer Affiliates regarding any coverage
+         confirmation or commitment and promptly deliver to the Royal Insurer
+         Affiliates and, simultaneously therewith, to the broker, agent, insured
+         or insured's counsel, copies of any such coverage confirmation or
+         commitment correspondence;
+
+                  (iii)    where coverage is not clear or is disputed, issue a
+         reservation-of-rights letter and provide a copy of such letter to the
+         Royal Insurer Affiliates;
+
+                  (iv)     where URC determines that no coverage exists,
+         regardless of the amount of claimed or expected loss, obtain advance
+         authority from the Royal Insurance Affiliates before formally declining
+         coverage and URC shall provide to the Royal Insurance Affiliates and
+         the insured (if not the claimant) a copy of any correspondence formally
+         declining coverage; provided, however, that the Royal Insurer
+         Affiliates shall provide to URC such advance authority no later than
+         ten (10) Business Days following receipt thereof ; and
+
+                  (v)      where, in URC's best professional judgment, a
+         coverage dispute exists or any new or novel coverage issue is raised,
+         URC shall consult with the Royal Insurer Affiliates within five (5)
+         days of URC first becoming aware of such dispute or new or novel
+         coverage issue. The resolution of such dispute or such new or novel
+         coverage issue shall be handled by the Royal Insurer Affiliates,
+         although, if requested by the Royal Insurer Affiliates, URC will
+         cooperate and participate fully in the handling of such disputes.
+
+         (b)      Claim Processing.
+
+                  (i)      provide forms necessary for the submission and
+         processing of claims and to receive the claims;
+
+                                       6
+
+<PAGE>
+
+                  (ii)     utilize and regularly populate the Computer Systems
+         by providing electronic data transmittal to CLASS on a daily basis in a
+         format to be agreed upon by the parties;;
+
+                  (iii)    provide coding on the CLASS system, including severe
+         injury coding, if practicable;
+
+                  (iv)     reconcile on a regular basis the electronic records
+         in CLASS to those in SID to ensure that the two systems remain
+         compatible;
+
+                  (v)      set up all claims in the Computer Systems within five
+         (5) working days of being reported to URC;
+
+                  (vi)     establish claim adjustment files for all claims that
+         must contain reasonably sufficient documentation in chronological order
+         to allow the adjuster and the Royal Insurer Affiliates to evaluate the
+         merits of each claim;
+
+                  (vii)    update regularly the claim adjustment files;
+
+                  (viii)   make a good faith effort with regard to primary files
+         to contact the insured and claimant within twenty-four (24) hours of
+         receipt of a notice of each claim and document such efforts;
+
+                  (ix)     confirm in writing receipt of new claims to the
+         broker and insured within five (5) working days of receipt by URC;
+
+                  (x)      promptly investigate each claim to determine its
+         validity and compensability in accordance with industry standards;
+
+                  (xi)     establish and maintain reasonable and adequate
+         reserves utilizing the Royal Insurer Affiliates reserving philosophy
+         set forth below;
+
+                  (xii)    adjust claims for property and/or physical damage by
+         preparing, when necessary, itemized estimates and/or appraisals of
+         damage in accordance with industry standards and Applicable Law;
+
+                  (xiii)   handle all claims as developments occur, monitor them
+         at least once every sixty (60) days, and schedule a repeating diary
+         review date of no more than sixty (60) days, depending on the
+         circumstances, of the claim. Provide necessary supervision, resulting
+         in proper supervisor documentation, in the claim files;
+
+                  (xiv)    track aggregates and provide appropriate
+         notifications to insureds, brokers and excess carriers;
+
+                  (xv)     provide excess insurers with any reports they may
+         reasonably require in a timely manner;
+
+                                        7
+
+<PAGE>
+
+                  (xvi)    in cases where the Covered Contract is an excess
+         policy, once notified of a claim by the primary insurer, keep current
+         on developments of the claim and send notices to the primary carrier as
+         appropriate;
+
+                  (xvii)   bill and collect deductibles;
+
+                  (xviii)  comply with claims file maintenance, record retention
+         and reconciliation requirements in conformity with the standards for
+         performance set forth by this Agreement or as otherwise required by
+         Applicable laws;
+
+                  (xix)    performance of all administrative and clerical work;
+         and
+
+                  (xx)     participate in regular conference calls with the
+         Royal Insurer Affiliates at mutually agreeable times to discuss the
+         status of claims and claims management strategies.
+
+         (c)      Litigation Management.
+
+                  (i)      refer all litigation (including litigation in which
+         URC engages monitoring or coverage counsel) and actions involving a
+         duty to defend to Royal Insured Affiliates' approved defense counsel,
+         if possible, or otherwise obtain prior approval from the Royal Insurer
+         Affiliates;
+
+                  (ii)     follow the Royal Insurer Affiliates' litigation
+         management guidelines and procedures;
+
+                  (iii)    engage and direct, as necessary, outside consultants
+         or other professionals in connection with the processing and handling
+         of any claim, provided, however, that if the cost of the consultant or
+         other professional is greater than $20,000, obtain the prior written
+         consent of the Royal Insurer Affiliates;
+
+                  (iv)     consult with the Royal Insurer Affiliates'
+         Environmental Claim Unit on environmental cases over $1 million net or
+         if coverage is to be accepted where there is an absolute pollution
+         exclusion or on declaratory judgment actions;
+
+                  (v)      advise the Royal Insurer Affiliates promptly upon
+         URC's receipt of any actions for declaratory judgment;
+
+                  (vi)     advise the Royal Insurer Affiliates of any mediations
+         and, if requested by the Royal Insurer Affiliates, attend such
+         mediations; and
+
+                  (vii)    advise and obtain the authorization of the Royal
+         Insurer Affiliates prior to initiating any legal proceedings in the
+         name of the Royal Insurer Affiliates.
+
+         (d)      Settlement of Claims.
+
+                                        8
+
+<PAGE>
+
+                  (i)      obtain the written approval of the Royal Insurer
+Affiliates before settling or committing to settle any claim in an amount that
+has the potential to exceed $500,000 net or similar claims that, in the
+aggregate, have the potential to exceed $500,000 net;
+
+                  (ii)     provide timely notice of claims that will require
+         payment authorizations;
+
+                  (iii)    structure annuity settlement exclusively through
+         Protected Settlements, Inc.;
+
+                  (iv)     adjust settlement amounts on a going-forward basis
+         upon the Royal Insurer Affiliates providing thirty (30) days written
+         notice to URC relating to such settlement adjustment amounts; and
+
+                  (v)      retain, when practicable, the Royal Insurer
+         Affiliates' settlement specialists, the names of such specialists to be
+         provided to URC by the Royal Insurer Affiliates.
+
+         (e)      Reserving.
+
+                  (i)      establish proper reserves as soon as adequate
+         information exists based on the most likely outcome of the claim;
+
+                  (ii)     where the reserve to be set is $500,000 net or
+         greater, notify and obtain approval from the Royal Insurer Affiliates;
+
+                  (iii)    evaluate reserves using the following criteria and
+         document such in the Computer Systems:
+
+                           1)       facts related to the claim;
+
+                           2)       liability analysis;
+
+                           3)       if relevant, coverage analysis; and
+
+                           4)       damages and defense costs analysis.
+
+                  (iv)     provide, on a quarterly basis, actuarial loss reserve
+         reports to the Royal Insurer Affiliates in a form, electronic or
+         otherwise, as reasonably requested by the Royal Insurer Affiliates
+
+         (f)      Subrogation, Indemnity and Contribution.
+
+                  (i)      pursue all possibilities of subrogation, indemnity or
+         contribution;
+
+                                       9
+
+<PAGE>
+
+                  (ii)     handle all aspects of the subrogation, indemnity or
+         contribution with respect to paid losses under the Covered Contracts;
+
+                  (iii)    these activities include, but are not limited to, the
+         following:
+
+                           1)       notify the Royal Insurer Affiliates after
+                           subrogation, indemnity or contribution potential is
+                           identified;
+
+                           2)       conduct all actions necessary to pursue such
+                           subrogation, indemnity or contribution;
+
+                           3)       document these efforts in file notes; and
+
+                           4)       code recovery checks in the Computer Systems
+                           and send them to the Royal Insurer Affiliates.
+
+                  (iv)     Royal Insurer Affiliates shall pay all expenses
+         related to subrogation, indemnity and contribution in addition to any
+         fees owed under the Agreement. URC shall seek prior written approval
+         for any such fees expected to exceed $25,000.
+
+         (g)      Complaints.
+
+                  (h)      provide a reasonable and timely response to any
+         inquiry, complaint or request received from any claimant, Producer, or
+         other interested party pertaining to or regarding the Covered
+         Contracts;
+
+                  (ii)     promptly notify the Royal Insurer Affiliates with
+         respect to any inquiries or notifications received from any
+         Governmental Entity relating to the Covered Contracts;
+
+                  (iii)    provide a reasonable response to any inquiries,
+         complaints or requests received from any Governmental Entity pertaining
+         to or regarding the Covered Contracts, within five (5) days of receipt
+         or within the time frame prescribed by the Governmental Entity and send
+         a copy of the inquiry, complaint or request along with the response to
+         the Royal Insurer Affiliates; and
+
+                  (iv)     properly record any inquiry, complaint or request
+         received from any claimant, Producer, Governmental Entity or other
+         interested party within ten (10) days of receipt in a separate
+         complaint log database maintained by the Royal Insurer Affiliates.
+
+         (h)      Reinsurance. URC shall perform certain services in connection
+with collection and accounting under the Third Party Reinsurance Contracts for
+the Covered Contracts including the following:
+
+                  (i)      collect and process reinsurance for the Covered
+         Contracts under the Third Party Reinsurance Contracts;
+
+                                       10
+
+<PAGE>
+
+                  (ii)     receive notices and other communications from the
+         Royal Insurer Affiliates under agreements relating to the Covered
+         Contracts;
+
+                  (iii)    prepare and issue statements and billings of amounts
+         due under the Third Party Reinsurance Contracts, including any related
+         supporting documentation;
+
+                  (iv)     correspond and otherwise communicate with reinsurers
+         involving Covered Contracts regarding collection of any balances due
+         and respond to any inquiry of the Royal Insurer Affiliates;
+
+                  (v)      make recommendations to the Royal Insurer Affiliates
+         regarding commutations and settlements of amounts due under the Third
+         Party Reinsurance Contracts; provided, however, that URC is prohibited
+         from agreeing or promising to agree to any commutation without the
+         prior written approval of the Royal Insurer Affiliates;
+
+                  (vi)     notify reinsurers of all relevant matters (including,
+         but not limited to, the existence, development and settlement of
+         claims) in accordance with the terms of any reinsurance agreement;
+
+                  (vii)    provide administration, draw down, and collection of
+         any letters of credit, funds held under trust agreements, outstanding
+         cash advances and any proceeds thereof provided under the Third Party
+         Reinsurance Contracts and apply them against reinsurance recoverables
+         and/or return to the Royal Insurer Affiliates;
+
+                  (viii)   make recommendations to the Royal Insurer Affiliates
+         regarding commencement of collection actions (i.e., litigation or
+         arbitration) to collect any unpaid balances under the Third Party
+         Reinsurance Contracts; and
+
+                  (ix)     prepare all reports and electronic transmittals
+         necessary for completion of the financial statements of the Royal
+         Insurer Affiliates.
+
+         (i)      All such other actions, advice and assistance as are
+reasonably necessary or otherwise required in the administration of all such
+claims arising under the Covered Contracts.
+
+         (j)      During the term of this Agreement, any Claims Services, or any
+activity relating to a specific claim or series of claims to be performed by
+URC, may be terminated, in whole or in part, upon the Royal Insurer Affiliates
+providing sixty (60) days written notice to URC. Such termination is at the sole
+option of the Royal Insurer Affiliates and may be limited to specific product
+lines or specific classes/types of claims within product lines. During the term
+of this Agreement, the Royal Insurer Affiliates may request, at their sole
+discretion, that any Claims Services, or any activity relating to a specific
+claim or series of claims, in whole or in part, be transferred, with the full
+assistance and cooperation of URC, to a third-party designated by the Royal
+Insurer Affiliates.
+
+                                       11
+
+<PAGE>
+
+         SECTION 4.2 HANDLING OF CERTAIN TYPES OF CLAIMS SERVICES. (a) URC shall
+initially handle the following claims:
+
+                  (i)      Extra-Contractual Liabilities claims arising under
+         any of the Covered Contracts; for the avoidance of any doubt, URC shall
+         handle all other aspects of any claims arising under any of the Covered
+         Contracts (other than Extra-Contractual Liabilities);
+
+                  (ii)     liability claims over $1 million net;
+
+                  (iii)    property or other claims over $1 million net;
+
+                  (iv)     claims that in URC's best professional judgment have
+         the potential to exceed the amounts set forth in (ii) or (iii) above;
+         or
+
+                  (v)      claims identified by Royal Insurer Affiliates in
+         their sole discretion.
+
+         Provided, however, that any claim involving a matter set forth in
+         (i)-(iv) above shall be promptly reported by URC to the Royal Insurer
+         Affiliates, with such report to be provided to the Royal Insurer
+         Affiliates within three (3) Business Days from the date when URC first
+         becomes aware of any such claim. URC shall continue to handle any claim
+         involving a matter set forth in (i)-(iv) above, unless and until the
+         Royal Insurer Affiliates notify URC that the Royal Insurer Affiliates
+         will assume the handling of any such claim, or portion thereof. To the
+         extent the Royal Insurer Affiliates determine to exclusively handle any
+         such claim, or portion thereof, URC shall promptly forward all
+         materials relating to any such claim, or portion thereof, to the Royal
+         Insurer Affiliates; provided, however, that, if requested by the Royal
+         Insurer Affiliates, URC will fully cooperate and participate in the
+         handling of the claims, or any portion thereof, set forth in (i)-(v)
+         above. Notwithstanding anything in this Section 4.2 to the contrary, to
+         the extent a claim set forth in (i)-(iv) above involves both a
+         contractual portion and an Extra Contractual Liability portion, and in
+         the event the Royal Insurer Affiliates determine that URC should no
+         longer handle the underlying contractual portion of such claim, then
+         URC, at the direction of the Royal Insurer Affiliates, shall transfer
+         the underlying contractual portion of such claim to a third party
+         administrator of the Royal Insurer Affiliates' sole choosing; provided,
+         however, that such third party administrator shall not be an Affiliate
+         of either party. Both URC and the Royal Insurer Affiliates shall be
+         equally responsible for paying all expenses incurred by such third
+         party administrator in the administration of its duties regarding the
+         underlying contractual portion of any such claims.
+
+         (b)      URC shall promptly notify the Royal Insurer Affiliates upon
+         URC learning of any claim, arbitration demand or lawsuit filed
+         involving an exposure which in URC's best professional judgment could
+         have a reasonable potential of becoming an Obligation in Excess of
+         Policy Limits.
+
+         (c)      URC shall have no authority to make any payments of any kind
+         relating to the Covered Contracts for which there is no reasonable
+         basis to conclude that the Royal
+
+                                       12
+
+<PAGE>
+
+         Insurer Affiliates are legally or contractually obligated to make such
+         payments under the Covered Contracts.
+
+         (d)      Except as specifically authorized by the Royal Insurer
+         Affiliates in writing, URC shall have no authority to enter into any
+         agreements or to take other actions on behalf of the Royal Insurer
+         Affiliates, to alter, amend any of the Covered Contracts, to modify,
+         waive or extend any of their provisions or to represent to third
+         parties that it has the authority to do any of the foregoing; provided,
+         however, that the parties shall agree to those changes, alterations or
+         amendments that are administrative in nature and that URC may
+         effectuate without having to obtain any prior authorization from the
+         Royal Insurer Affiliates.
+
+         SECTION 4.3 CONFLICT OF INTEREST ARISING IN CONNECTION WITH PERFORMANCE
+OF CLAIMS SERVICES. The Royal Insurer Affiliates shall have the authority to
+impose on URC reasonable procedures, safeguards and guidelines that, in the
+reasonable discretion of the Royal Insurer Affiliates, are necessary to avoid,
+minimize or address any conflict of interest that may arise in the course of
+URC's performance of the Claims Services. In the event any conflict or potential
+conflict of interest shall arise in the performance of URC's obligations under
+this Agreement, URC shall promptly notify in writing the Royal Insurer
+Affiliates of such conflict or potential conflict of interest. The Royal Insurer
+Affiliates shall have the option of assuming any Claims Services to the extent
+any such Service causes a conflict of interest to arise.
+
+                                   ARTICLE V
+
+                            FEES FOR CLAIMS SERVICES
+
+         SECTION 5.1 PAYMENT FOR CLAIMS SERVICES Claims Expenses. As detailed
+more fully in Exhibit C to this Agreement, the Royal Insurer Affiliates shall,
+on the first day of each month of every quarter, reimburse URC for one-third of
+the Claims Expenses that URC estimates it will reasonably incur for each quarter
+in connection with performance of the Claims Services under this Agreement.
+Within fifteen days after each quarter-end, URC shall furnish the Royal Insurer
+Affiliates with a statement detailing the Claims Expenses that it incurred for
+the quarter just ending. Within fifteen days thereafter, the Royal Insurance
+Affiliates shall reimburse URC, or vice versa, as applicable, for any difference
+in amount between what the Royal Insurance Affiliates paid URC in total for each
+quarter and the total Claims Expenses URC ultimately incurred for that quarter.
+
+         (b)      Projection of Expense. No later than five (5) Business Days
+before the beginning of each quarter, URC shall prepare for the approval of the
+Royal Insurer Affiliates a projection of the Claims Expenses for the following
+quarter. Such projection shall: (i) reflect a fair and reasonable allocation of
+URC's services for the Royal Insurer Affiliates; (ii) be done in conformity with
+customary insurance accounting practices; and (iii) reflect URC's reasonable
+best efforts to contain costs in its provision of Claims Services hereunder.
+
+                                       13
+
+<PAGE>
+
+         (c)      Adjustments of Charges. In the event any party (other than the
+Royal Insurer Affiliates) to whom URC provides claims-related services is
+charged an amount for any service that is less than the amount the Royal Insurer
+Affiliates are being charged under this Agreement for any such or similar
+service, then URC, without any action required on the part of the Royal Insurer
+Affiliates, shall promptly adjust the rate it charges the Royal Insurer
+Affiliates for such service to reflect the rate URC charges the other party.
+
+                                   ARTICLE VI
+
+                      OTHER SERVICES AND FEES FOR SERVICES
+
+         SECTION 6.1 ADDITIONAL SERVICES. If the Royal Insurer Affiliates
+require services to be provided with respect to the Covered Contracts that are
+not otherwise contemplated under this Agreement, the parties shall negotiate in
+good faith to reach a mutually acceptable arrangement with respect to the
+provision of such services. The Royal Insurer Affiliates shall reasonably
+compensate URC for any such additional services provided by URC.
+
+                                  ARTICLE VII
+
+                          BOOKS; AUDITS; BANK ACCOUNTS
+
+         SECTION 7.1 REPORTS.
+
+         (a)      URC shall collect, administer and provide to the Royal Insurer
+Affiliates all information and data required for the Royal Insurer Affiliates to
+continue to maintain financial and statistical data with respect to the Covered
+Contracts in order to permit the Royal Insurer Affiliates to timely make all
+required regulatory, statistical, and financial reports and filings. All
+information and data provided by URC to the Royal Insurer Affiliates pursuant to
+this Article VII will be provided as reasonably requested by the Royal Insurer
+Affiliates. Without limiting the generality of the foregoing, URC shall prepare
+all reports and electronic transmittals needed by the Royal Insurer Affiliates
+or their parent companies in connection with the Covered Contracts to enable the
+Royal Insurer Affiliates or their parent companies parent to comply with
+Applicable Law and any and all reporting or filing requirements. Any monthly,
+quarterly or year-end reports required to be prepared by URC shall be prepared
+on a timely basis in order for the Royal Insurer Affiliates or their parent
+companies to comply with any filing deadlines required.
+
+         (b)      During the term of this Agreement, URC shall transmit to the
+Royal Insurer Affiliates on a monthly basis: (i) reports showing claim activity,
+including new/arising claims, closings, pendings, loss runs, adjuster case
+loads, (ii) narratives on claims over $500,000 net and (iii) other reports as
+the Royal Insurer Affiliates shall reasonably request.
+
+         SECTION 7.2 AUDITS.
+
+         (b)      Upon reasonable advance written notice, which notice shall not
+be fewer than five (5) Business Days, the Royal Insurer Affiliates and any
+designated auditor (at the Royal Insurer
+
+                                       14
+
+<PAGE>
+
+Affiliate's expense) or regulatory authority shall have the right to audit,
+inspect and copy all Books and Records in URC's possession or under its control
+relating to the Claims Services. Upon reasonable written notice, URC shall
+provide such auditors and inspectors, as the Royal Insurer Affiliates or any
+regulatory authority may designate, with reasonable access during normal
+business days and hours to RSUI's business location for the purpose of
+performing audits or inspections of the business systems and processes of URC
+utilized in connection with supporting the delivery of the Claims Services to
+URC under this Agreement. URC shall reasonably cooperate with, and provide such
+auditors and inspectors or any regulatory authority having jurisdiction over the
+Royal Insurer Affiliates or URC, with any assistance that they reasonably may
+require. In performing any such audit, the Royal Insurer Affiliates and its
+designated auditors shall use commercially reasonable efforts to minimize any
+disruption to URC's normal business operations.
+
+         (c)      With respect to audits or inspections not involving a
+Governmental Entity, the Royal Insurer Affiliates may notify URC of any alleged
+deficiencies in its business systems and processes or failure to comply with the
+Agreement. URC agrees that it shall use commercially reasonable efforts to
+correct such deficiencies or failures.
+
+         (d)      The Royal Insurer Affiliates shall have access to URC's books,
+records and papers related to providing Claims Services, until the earlier of:
+(i) the retention of the original Books and Records by the Royal Insurer
+Affiliates; or (ii) ten (10) years from the termination of this Agreement.
+
+         (e)      All physical files and materials gathered or obtained by URC
+in the course of providing Claims Services under this Agreement, including
+electronic file notes, shall be and remain the Royal Insurer Affiliates' sole
+property; provided, however, that URC shall be permitted to copy or otherwise
+retain, information set forth in such files and materials to the extent that URC
+reasonably requires such information in order to carry out the transactions
+contemplated by this Agreement or for any legitimate business purpose. Further,
+as custodial agent of the Royal Insurer Affiliates for purposes of file
+retention only, URC shall retain and store the Books and Records for ten (10)
+years after the termination of the Agreement unless the Royal Insurer Affiliates
+requests the return of, and retain possession of the original Books and Records.
+The Parties agree that the Royal Insurer Affiliates shall have full access to
+and sole ownership of all original Books and Records.
+
+         (f)      Upon termination of this Agreement or as otherwise agreed to
+by the parties, URC shall return to the Royal Insurer Affiliates, within a
+reasonable time period, and in a format acceptable to the Royal Insurer
+Affiliates, or in original format as transferred by the Royal Insurer Affiliates
+to URC, all Books and Records, in any form, that are related to the Claims
+Services provided by URC under the terms of this Agreement; provided, however,
+that URC shall be permitted to copy or otherwise retain, use and disclose
+information set forth in such files and materials to the extent that URC
+reasonably requires such information for purposes of its own legitimate business
+purposes.
+
+         (g)      To the extent permitted by Applicable Law, and at any time as
+may be required in order for URC to comply with any Applicable Law or to perform
+its obligations or
+
+                                       15
+
+<PAGE>
+
+responsibilities under this Agreement, URC and its representatives may from time
+to time, upon providing at least five (5) days prior written notice to the Royal
+Insurer Affiliates, reasonably request, and the Royal Insurer Affiliates shall
+provide, at reasonable times during normal business hours, full and open access
+to examine all Books and Records under the control of the Royal Insurer
+Affiliates pertaining to the Covered Contracts and the Claims Services to be
+provided under this Agreement and to discuss any matters relating to the Covered
+Contracts and the Claims Services to be provided under this Agreement with the
+employees and agents of the Royal Insurer Affiliates who are familiar therewith,
+so that URC shall have sufficient opportunity to make whatever investigation it
+shall deem necessary and desirable to effectuate this Agreement, provided,
+however, URC shall not have access to the Royal Insurer Affiliate's claim files
+on Extra Contractual Liabilities. Such access and opportunity shall be exercised
+by URC in a manner that shall not interfere unreasonably with the operations of
+the Royal Insurer Affiliates. Such access shall include the right of URC to make
+and retain copies of any Books and Records relating to the Covered Contracts to
+the extent that URC reasonably determines that it requires copies of any such
+Books and Records in order to carry out the transactions contemplated by this
+Agreement or for any legitimate business purposes related to this Agreement.
+Notwithstanding anything in Section 7.2 or any other provision of this Agreement
+to the contrary, Section 7.2(f) shall not require that the Royal Insurer
+Affiliates provide access or copies to URC of any Books and Records of the Royal
+Insurer Affiliates relating to the Covered Contracts the nondisclosure of which
+is required by Applicable Law or contractual obligation.
+
+         (h)      URC shall pay all storage and related expenses associated with
+any Books and Records relating to the Covered Contracts, and copies thereof,
+that it retains in its possession.
+
+         (i)      URC shall provide security for the Books and Records that are
+in its possession. URC shall comply with all Applicable Laws, including, without
+limitation, privacy laws applicable to the Royal Insurer Affiliates, in
+connection with all such data and Books and Records.
+
+         (j)      URC shall be obligated to update all Books and Records, as
+well as those that URC produces in the course of providing the Claims Services
+under this Agreement, and maintain adequate back-ups relating to all Books and
+Records, as well as those that URC produces in the course of providing the
+Claims Services under this Agreement, to ensure that all Books and Records, as
+well as those that URC produces in the course of providing the Claims Services
+under this Agreement, are maintained in accordance with all Applicable Law.
+
+                                       16
+
+<PAGE>
+
+         SECTION 7.3 MANUAL CHECKS.
+
+         (a)      In connection with URC's performance of the Claims Services,
+to the extent the need should arise for a manual check or an emergency payment
+to be made, URC shall contact the Royal Insurer Affiliates' Corporate Claim
+Support Department. In connection with any request by URC for a manual check or
+an emergency payment, URC shall provide the following information by electronic
+transmittal or facsimile at least three (3) Business Days prior to the date when
+payments are due: (i) the claim number; (ii) the full name of the payee; (iii)
+the reason for the payment; (iv) the amount of the payment; (v) the mailing
+address to which the payment should be made; and (vi) instructions regarding the
+mailing and/or overnight delivery of the payment.
+
+         (b)      Notwithstanding anything to the contrary in Section 7.3(a), in
+an extreme situation where payment has to be received the same day, URC shall
+request by electronic transmittal or facsimile, prior to 11 am Eastern Standard
+Time whenever practicable, that the Royal Insurer Affiliates' Corporate Claims
+Support Department wire the payment. In such situations, URC shall supply the
+following information: (i) the claim number; (ii) the name of the payee; (iii)
+the reason for the payment; (iv) the amount of the payment; (v) the bank account
+number where the payment ought to be wired; (vi) the bank name; (vii) and the
+A/B/A number.
+
+                                  ARTICLE VIII
+
+                      INABILITY TO PERFORM SERVICES; ERRORS
+
+         SECTION 8.1 INABILITY TO PERFORM SERVICES. (a) In the event that URC
+shall be unable to perform any Claims Service for a period that could reasonably
+be expected to exceed thirty (30) days or such shorter period as may be required
+by Applicable Law or the Covered Contracts, the Royal Insurer Affiliates may
+procure such Claims Services for the Covered Contracts by commercially
+reasonable means, with the full assistance and cooperation of URC. URC shall be
+solely responsible for all costs incurred in restoring Claims Services which
+have not been provided due to its failure to adhere to its obligations under
+this Agreement; provided, however, that URC shall not pay any of the costs
+incurred by the Royal Insurer Affiliates as a result of URC's inability to
+perform Claims Services to the extent URC's inability to perform such Claims
+Services arises from circumstances or events entirely beyond URC's control;
+provided, further, however, that to the extent URC is obligated to pay the Royal
+Insurer Affiliates as a result of URC's inability to perform Claims Services due
+to circumstances or events completely and entirely beyond URC's control, the
+amount URC shall pay to the Royal Insurer Affiliates shall be equal to the
+difference between: (i) the cost that URC charges the Royal Insurer Affiliates
+under this Agreement for those Claims Services that it is unable to perform and
+(ii) the cost to the Royal Insurer Affiliates of procuring such Claims Services
+elsewhere.
+
+         (b)      Notwithstanding anything in this Section 8.1 to the contrary,
+and notwithstanding URC's inability to perform those Claims Services that are
+completely and entirely beyond URC's control, to the extent URC is able to
+perform Claims Services, or any portion of Claims Services, that is or remains
+within URC's control, then URC shall be obligated to perform all such Claims
+
+                                       17
+
+<PAGE>
+
+Services, or any portion of such Claims Services, that is within its control
+pursuant to the terms and conditions of this Agreement.
+
+         SECTION 8.2 ERRORS. URC shall, at its own expense, correct any errors
+in the Claims Services caused by it within a reasonable time (not to exceed
+thirty (30) days) after receiving written notice thereof from the Royal Insurer
+Affiliates or otherwise.
+
+                                   ARTICLE IX
+
+                     LEGAL ACTIONS BY GOVERNMENTAL ENTITIES
+
+         SECTION 9.1 REGULATORY PROCEEDINGS.If the Royal Insurer Affiliates or
+URC receive notice of, or otherwise become aware of, any regulatory
+investigation or proceeding relating to the Covered Contracts, the Royal Insurer
+Affiliates or URC, as applicable, shall promptly notify the other party thereof.
+The Royal Insurer Affiliates shall have the sole authority to respond to and
+resolve all regulatory matters and regulatory investigations and proceedings
+relating to the Covered Contracts. The Royal Insurer Affiliates shall determine
+an appropriate response, including whether the Royal Insurer Affiliates or URC
+should respond to any regulatory investigation or proceeding relating to the
+Covered Contracts. To the extent requested by the Royal Insurer Affiliates, URC
+shall cooperate and participate fully in responding to any regulatory
+investigation or proceeding relating to the Covered Contracts; provided,
+however, that the Royal Insurer Affiliates shall have the ultimate authority in
+providing any such response.
+
+         SECTION 9.2 DEFENSE OF LITIGATION The Royal Insurer Affiliates shall
+defend any action brought by a Governmental Entity in connection with the
+Covered Contracts. At the Royal Insurer Affiliates' request, URC shall cooperate
+and participate fully in any such litigation; provided, however, that the Royal
+Insurer Affiliates shall have the exclusive authority to control such
+litigation.
+
+         SECTION 9.3 URC COMMUNICATIONS REGARDING CERTAIN MATTERS. URC shall
+promptly (i) notify the Royal Insurer Affiliates in writing if it receives any
+information or correspondence with respect to any suit, claim, action or
+proceeding brought by a Governmental Entity relating to the Covered Contracts,
+or any written communication threatening any of the foregoing and (ii) forward
+to the Royal Insurer Affiliates any documents it receives relating to any of the
+matters referred to in clause (i) of this Section 9.3.
+
+                                   ARTICLE X
+
+                                    DURATION
+
+         SECTION 10.1 DURATION. This Agreement shall become effective as of the
+Closing Date and continue until the date on which no further Claims Services are
+required by the Royal Insurer Affiliates, unless this Agreement is terminated
+according to the provisions of Article XI hereof.
+
+                                       18
+
+<PAGE>
+
+                                   ARTICLE XI
+
+                                   TERMINATION
+
+         SECTION 11.1 MUTUAL AGREEMENT. This Agreement may be terminated at any
+time upon the mutual written consent of the parties hereto.
+
+         SECTION 11.2 TERMINATION BY URC. This Agreement is subject to immediate
+termination at the option of URC, upon (i) ninety (90) days written notice to
+the Royal Insurance Affiliates; provided, however, that no such notice may be
+provided by URC at any time within the first two years of the execution of this
+Agreement or (ii) on the occurrence of any of the following events:
+
+         (a)      the filing of any petition for insolvency, rehabilitation,
+conservation, supervision or similar proceeding by or against any of the Royal
+Insurer Affiliates or any of their statutory representatives (though termination
+shall be limited solely with respect to any of the Royal Insurer Affiliates
+against whom such petition is filed); provided, however, that in the event an
+involuntary petition for insolvency, rehabilitation, conservation, supervision
+or similar proceeding is filed against any of the Royal Insurer Affiliates,
+before URC may terminate this Agreement, the Royal Insurer Affiliates shall have
+an opportunity to contest and dismiss the filing of such petition for a period
+of sixty (60) days from the date of the filing of the petition;
+
+         (b)      upon sixty (60) days written notice by URC if (i) the Royal
+Insurer Affiliates fail to make payment of any Claims Expense in accordance with
+Article V of this Agreement; provided, however, if any of the Claims Expenses
+are in dispute, failure to make such payment shall not be cause for termination
+under this Section 11.2(b); or (ii) as a result of a material breach by the
+Royal Insurer Affiliates of any material term or condition of this Agreement,
+provided such failure has not been cured within thirty (30) days after the date
+such payment was due.
+
+         (c)      Notwithstanding anything in this Section 11.2 to the contrary,
+in the event the Royal Insurer Affiliates adjust URC's claims settling authority
+under Section 4.1(d) of this Agreement to an amount below $250,000 net, then URC
+shall have the right to terminate this Agreement upon providing the Royal
+Insurer Affiliates one hundred eighty (180) days prior written notice.
+
+         SECTION 11.3 TERMINATION BY THE ROYAL INSURER AFFILIATES. This
+Agreement is subject to immediate termination at the option of the Royal Insurer
+Affiliates, upon (i) ninety (90) days written notice to URC or (ii) on the
+occurrence of any of the following events:
+
+         (a)      the filing of any petition for bankruptcy or insolvency or
+similar proceeding by or against RSUI or URC or their statutory representative;
+provided, however, that in the event an bankruptcy or insolvency or similar
+proceeding is filed against RSUI or URC, before the Royal Insurer Affiliates may
+terminate this Agreement, URC shall have an opportunity to contest and dismiss
+the filing of such petition for a period of sixty (60) days from the date of the
+filing of the petition;
+
+                                       19
+
+<PAGE>
+
+         (b)      if, as a result of the loss of any Permit, RSUI or URC is
+unable to perform their obligations hereunder (in such event, termination is to
+be limited to the affected obligations); or
+
+         (c)      a material breach by URC of any material term or condition of
+this Agreement that is not cured by URC within sixty (60) days of receipt of
+written notice from the Royal Insurer Affiliates of such breach.
+
+         SECTION 11.4 RETURN OF BOOKS AND RECORDS TO URC. Upon termination of
+this Agreement, URC shall cooperate fully in the prompt transfer of the Books
+and Records maintained by URC, as well as the Books and Records produced by URC
+in connection with its performance of the Claims Services, to the Royal Insurer
+Affiliates or the Royal Insurer Affiliates' designee, so that the Royal Insurer
+Affiliates or their designee shall be able to perform the Claims Services
+without interruption following termination of this Agreement; provided, however,
+that URC shall be permitted to make and keep copies of such Books and Records.
+
+         SECTION 11.5 TRANSITION PERIOD. In the event of termination, URC shall
+cooperate fully and completely in providing such Claims Services as are
+necessary for a period of time that is reasonably necessary to transfer the
+Claims Services to a new Person. The Royal Insurer Affiliates shall reimburse
+URC at a rate to be mutually agreed to by the parties for the Claims Services
+URC performs during the transfer of the Claims Services to another Person .
+
+         SECTION 11.6 NO PREJUDICE. The termination of this Agreement shall be
+without prejudice to any rights or liabilities of any party hereunder which
+shall have accrued prior to such termination and shall not affect any provision
+of this Agreement that are expressly or by necessary implication intended to
+survive such termination.
+
+                                       20
+
+<PAGE>
+
+                                  ARTICLE XII
+
+                                 CONFIDENTIALITY
+
+         SECTION 12.1 USE OF CONFIDENTIAL INFORMATION. URC acknowledges that it
+will have access to confidential and proprietary information concerning the
+Royal Insurer Affiliates and their businesses, which information is not readily
+available to the public, and acknowledge that URC has taken and will continue to
+take reasonable actions to ensure such information is not made available to the
+public. URC further agrees that it will not at any time (during the term hereof
+or thereafter) disclose to any Person (except URC and its Affiliates and the
+officers, directors, employees, agents and representatives of URC and who
+require such information in order to perform their duties in connection with the
+services provided hereunder), directly or indirectly, or make any use of, for
+any purpose other than those contemplated by this Agreement, any information or
+trade secrets relating to the Covered Contracts or the business affairs of the
+Royal Insurer Affiliates, including the identity of and/or the compensation
+arrangements with, any Affiliates and Subsidiaries of the Royal Insurer
+Affiliates and, so long as such information remains confidential.
+
+         SECTION 12.2 CONFIDENTIALITY OF INDIVIDUALS. Information that
+identifies a Person covered under one of the Covered Contracts may be
+confidential. URC shall take all reasonable precautions to prevent disclosure or
+use of information identifying individuals covered under such Covered Contracts
+for a purpose unrelated to the performance of this Agreement. URC shall comply
+with all Applicable Laws and regulations, as in effect on the date hereof or as
+hereafter adopted or amended. With respect to Covered Contracts, URC shall take
+all reasonable precautions to prevent disclosure or use of information
+identifying individuals for a purpose unrelated to the performance of this
+Agreement.
+
+         SECTION 12.3 DISCLOSURE. URC may disclose confidential information in
+the following circumstances (or as otherwise provided by the provisions of this
+Agreement):
+
+                  (i)      in response to a court order or formal discovery
+request after notice to the other party (to the extent such notice is reasonably
+practicable); provided, however, that such disclosure shall be limited only to
+the extent that is required by such court order or formal disclosure request;
+
+                  (ii)     if a proper request is made by any regulatory
+authority after notice to the other party (to the extent such notice is
+reasonably practicable); provided, however, that such disclosure shall be
+limited only to the extent that is required by such regulatory authority;
+
+                  (iii)    at the proper request of URC or its legal
+representative; provided, however, that such disclosure shall be limited only to
+the extent that is reasonably necessary to satisfy such a request; or
+
+                  (iv)     as otherwise required by Applicable Law.
+
+                                       21
+
+<PAGE>
+
+                                  ARTICLE XIII
+
+                             [INTENTIONALLY OMITTED]
+
+                                   ARTICLE XIV
+
+                                 INDEMNIFICATION
+
+         SECTION 14.1 INDEMNIFICATION BY THE ROYAL INSURER AFFILIATES. The Royal
+Insurer Affiliates shall indemnify URC and its officers, directors and members
+(each, an "URC Indemnified Party") and shall hold each URC Indemnified Party
+harmless from and against all Damages which are asserted against, imposed upon
+or incurred by any URC Indemnified Party as a result of or in connection with
+the performance by URC of the Claims Services, except to the extent that such
+Damages are attributable to: (i) the negligence or willful misconduct of URC;
+(ii) a breach by URC, or its directors, officers, employees or Representatives,
+of its obligations under this Agreement; or (iii) losses arising out of claims
+by any Person involving Extra Contractual Liabilities or Obligations in Excess
+of Policy Limits attributable to acts or omissions of URC, or its directors,
+officers, employees or Representatives, in the performance of the Claims
+Services.
+
+         SECTION 14.2 INDEMNIFICATION BY URC. URC shall indemnify the Royal
+Insurer Affiliates and its officers, directors, members and employees (each, a
+"Royal Insurer Affiliates Indemnified Party") and shall hold each Royal Insurer
+Affiliates Indemnified Party harmless from all Damages asserted against, imposed
+upon or incurred by any of the Royal Insurer Affiliates Indemnified Party in the
+performance by URC, or its directors, officers, employees or Representatives, of
+the Claims Services to the extent such Damage is attributable to: (i) the
+negligence or willful misconduct of URC; (ii) a breach by URC, or its directors,
+officers, employees or Representatives, of its obligations under this Agreement;
+or (iii) losses arising out of claims by any Person involving Extra Contractual
+Liabilities or Obligations in Excess of Policy Limits attributable to acts or
+omissions of URC, or its directors, officers, employees or Representatives, in
+the performance of the Claims Services.
+
+         SECTION 14.3 INDEMNIFICATION PROCEDURE. In the event either the Royal
+Insurer Affiliates or URC shall have a claim for indemnity against the other
+party under the terms of this Agreement, the parties shall follow the procedures
+set forth in the Acquisition Agreement.
+
+                                   ARTICLE XV
+
+                                   ARBITRATION
+
+         SECTION 15.1 ARBITRATION. As a condition precedent to any cause of
+action, any and all disputes between the Royal Insurer Affiliates and URC
+arising out of, relating to, or concerning this Agreement, whether sounding in
+contract or tort and whether arising during or after
+
+                                       22
+
+<PAGE>
+
+termination of this Agreement, including whether the dispute is subject to
+arbitration, shall be submitted to the decision of a board of arbitration
+composed of two arbitrators and an umpire ("Board") meeting at a site in
+Wilmington, Delaware. The arbitration shall be conducted under the Federal
+Arbitration Act and shall proceed as set forth below.
+
+         SECTION 15.2 NOTICE OF ARBITRATION. A notice requesting arbitration, or
+any other notice made in connection therewith, shall be in writing and shall be
+sent certified or registered mail, return receipt requested to the affected
+parties. The notice requesting arbitration shall state in particulars all issues
+to be resolved in the view of the claimant, shall appoint the arbitrator
+selected by the claimant and shall set a tentative date for the hearing, which
+date shall be no sooner than ninety (90) days and no later than one hundred
+fifty (150) days from the date that the notice requesting arbitration is mailed.
+Within thirty (30) days of receipt of claimant's notice, the respondent shall
+notify claimant of any additional issues to be resolved in the arbitration and
+of the name of its appointed arbitrator.
+
+         SECTION 15.3 ARBITRATION PANEL. Unless otherwise mutually agreed, the
+members of the Board shall be impartial and disinterested and shall be active or
+former executive officers of property-casualty insurance companies, reinsurance
+companies or Lloyd's Underwriters or active or inactive lawyers with at least
+twenty (20) years of experience in insurance. The Royal Insurer Affiliates and
+URC shall each appoint an arbitrator and the two (2) arbitrators shall choose an
+umpire before instituting the hearing. If the respondent fails to appoint its
+arbitrator within thirty (30) days after having received claimant's written
+request for arbitration, the claimant is authorized to and shall appoint the
+second arbitrator. If the two arbitrators fail to agree upon the appointment of
+an umpire within thirty (30) days after notification of the appointment of the
+second arbitrator, within ten (10) days thereof, the two (2) arbitrators shall
+request the American Arbitration Association ("AAA") to appoint an umpire for
+the arbitration with the qualifications set forth in this Article. If the AAA
+fails to name an umpire, either party may apply to the court named below to
+appoint an umpire with the above required qualifications. The umpire shall
+promptly notify in writing all parties to the arbitration of his selection and
+of the scheduled date for the hearing. Upon resignation or death of any member
+of the Board, a replacement shall be appointed in the same fashion as the
+resigning or deceased member was appointed.
+
+         SECTION 15.4 SUBMISSION OF BRIEFS. The claimant and respondent shall
+each submit initial briefs to the Board outlining the issues in dispute and the
+basis, authority and reasons for their respective positions within thirty (30)
+days of the date of notice of appointment of the umpire. The claimant and the
+respondent may submit reply briefs to the Board within ten (10) days after
+filing of the initial brief(s). Initial and reply briefs may be amended by the
+submitting party at any time, but not later than ten (10) days prior to the date
+of commencement of the arbitration hearing. Reasonable responses shall be
+allowed at the arbitration hearing to new material contained in any amendments
+filed to the briefs but not previously responded to.
+
+         SECTION 15.5 ARBITRATION BOARD'S DECISION. The Board shall make a
+decision and award with regard to the terms of this Agreement and the original
+intentions of the parties to the extent reasonably ascertainable. The Board's
+decision and award shall be in writing and shall state the factual and legal
+basis for the decision and award. The decision and award shall be based upon a
+hearing in which evidence shall be allowed and which the formal rules of
+evidence
+
+                                       23
+
+<PAGE>
+
+shall not strictly apply but in which cross examination and rebuttal shall be
+allowed. At its own election or at the request of the Board, either party may
+submit a post-hearing brief for consideration of the Board within twenty (20)
+days of the close of the hearing. The Board shall make its decision and award
+within thirty (30) days following the close of the hearing or the submission of
+post-hearing briefs, whichever is later, unless the parties consent to an
+extension. Every decision by the Board shall be by a majority of the members of
+the Board and each decision and award by the majority of the members of the
+Board shall be final and binding upon all parties to the proceeding.
+
+         SECTION 15.6 JURISDICTION. Either party may apply to any United States
+District Court in Delaware or to the Chancery Court of the State of Delaware for
+an order compelling arbitration or confirming any decision and the award; a
+judgment of that court shall thereupon be entered on any decision or award. If
+such an order is issued, the attorneys' fees of the party so applying and court
+costs will be paid by the party against whom confirmation is sought. The Board
+may award interest calculated from the date the Board determines that any
+amounts due the prevailing party should have been paid to the prevailing party.
+
+         SECTION 15.7 EXPENSES. Each party shall bear the expense of the one
+arbitrator appointed by it and shall jointly and equally bear with the other
+party the expense of any stenographer requested, and of the umpire. Each party
+shall bear their own costs for litigation, including, but not limited to,
+witness fees, exhibits, depositions, experts, and attorneys fees.
+
+         SECTION 15.8 PRODUCTION OF DOCUMENTS AND WITNESSES. Subject to
+customary and recognized legal rules of privilege, each party participating in
+the arbitration shall have the obligation to produce those documents and as
+witnesses to the arbitration those of its employees as any other participating
+party reasonably requests providing always that the same witnesses and documents
+be obtainable and relevant to the issues before the arbitration and not be
+unduly burdensome or excessive. The parties may mutually agree as to pre-hearing
+discovery prior to the arbitration hearing and in the absence of agreement, upon
+the request of any party, pre-hearing discovery may be conducted as the Board
+shall determine in its sole discretion to be in the interest of fairness, full
+disclosure, and a prompt hearing, decision and award by the Board. The Board
+shall be the final judge of the procedures of the Board, the conduct of the
+arbitration, of the rules of evidence, the rules of privilege and production and
+of excessiveness and relevancy of any witnesses and documents upon the petition
+of any participating party. To the extent permitted by law, the Board shall have
+the authority to issue subpoenas and other orders to enforce their decisions.
+
+         SECTION 15.9 RELIEF AVAILABLE. Nothing herein shall be construed to
+prevent any participating party from applying to any United States District
+Court in Delaware or to the Chancery Court of the State of Delaware to issue a
+restraining order or other equitable relief to maintain the "status quo" of the
+parties participating in the arbitration pending the decision and award by the
+Board or to prevent any party from incurring irreparable harm or damage at any
+time prior to the decision and award of the Board. The Board shall also have the
+authority to issue interim decisions or awards in the interest of fairness, full
+disclosure, and a prompt and orderly hearing and decision and award by the
+Board.
+
+                                       24
+
+<PAGE>
+
+         SECTION 15.10 CONSOLIDATION. In the event that there is a dispute
+between the Royal Insurer Affiliates and URC which implicates the provisions of
+this Agreement, the Royal Insurer Affiliates and URC hereby agree to consolidate
+any such dispute under such agreements in a single arbitration proceeding.
+
+                                   ARTICLE XVI
+
+                                  MISCELLANEOUS
+
+         SECTION 16.1 COOPERATION. (a) The parties hereto shall cooperate in a
+commercially reasonable manner in order that the duties assumed by URC will be
+effectively, efficiently and promptly discharged. The parties hereto will use
+their best efforts to (i) give effect to the intent of this Agreement and (ii)
+refrain from conduct which would frustrate the intent of any such agreement.
+Each party shall, at all reasonable times under the circumstances, make
+available to the other party properly authorized personnel for the purpose of
+consultation and decision.
+
+         (b) URC shall reasonably cooperate with, and provide to the Royal
+Insurer Affiliates, any assistance, information, data, reports and electronic
+transmittals that the Royal Insurer Affiliates or their parent companies
+reasonably may require beyond the scope of Sections 7.1 and 7.2 herein to enable
+the Royal Insurer Affiliates or their parent companies to comply with Applicable
+Law and any and all reporting and filing requirements and audits or inspections
+by any Governmental Entity having jurisdiction over the Royal Insurer Affiliates
+or their parent companies.
+
+         SECTION 16.2 AMENDMENT, MODIFICATION AND WAIVER. This Agreement may not
+be amended, modified or waived except by an instrument or instruments in writing
+signed and delivered on behalf of each of the parties hereto.
+
+         SECTION 16.3 RELATIONSHIP. The Royal Insurer Affiliates and URC are and
+shall remain independent contractors and not employees of the other party.
+Except as expressly granted in this Agreement or otherwise by the other party in
+writing or as may be required by Applicable Law or as necessary to perform the
+services to be provided hereunder or to obtain the benefits hereof, no party
+shall have any authority, express or implied, to act as an agent of the other
+party or its Subsidiaries or Affiliates under this Agreement. Except as
+otherwise provided by this Agreement or by any other agreement between the
+parties, each party shall be responsible for the payment of all employment,
+income and social security taxes arising in connection with the compensation
+payable to its personnel involved in the provision of the services hereunder.
+
+                                       25
+
+<PAGE>
+
+         SECTION 16.4 ENTIRE AGREEMENT. This Agreement (together with the
+exhibits hereto and the other agreements, documents and instruments delivered in
+connection herewith) and the Acquisition Agreement constitute the entire
+agreement among the parties with respect to the subject matter hereof and
+thereof and supersede all other prior agreements and understandings, both
+written and verbal, among the parties or any of them with respect to the subject
+matter hereof.
+
+         SECTION 16.5 GOVERNING LAW. This Agreement shall be governed by and
+construed in accordance with the laws of the State of Delaware, regardless of
+the laws that might otherwise govern under applicable principles of conflicts of
+laws thereof.
+
+         SECTION 16.6 SEVERABILITY. Any term or provision of this Agreement
+which is invalid or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity or
+unenforceability without rendering invalid or unenforceable the remaining terms
+and provisions of this Agreement or affecting the validity or enforceability of
+any of the terms or provisions of this Agreement in any other jurisdiction. If
+any provision of this Agreement is so broad as to be unenforceable, the
+provision shall be interpreted to be only so broad as would be enforceable.
+
+         SECTION 16.7 COUNTERPARTS. This Agreement may be executed in
+counterparts, each of which shall be deemed to be an original, but all of which
+shall constitute one and the same agreement.
+
+         SECTION 16.8 CONSENT TO JURISDICTION. Each of the parties hereto
+irrevocably and unconditionally submits to the exclusive jurisdiction of the
+United States District Court in Delaware for the purposes of enforcing this
+Agreement. In any action, suit or other proceeding, each of the parties hereto
+irrevocably and unconditionally waives and agrees not to assert by way of
+motion, as a defense or otherwise any claims that it is not subject to the
+jurisdiction of the above courts, that such action or suit is brought in an
+inconvenient forum or that the venue of such action, suit or other proceeding is
+improper. Each of the parties hereto also agrees that any final and unappealable
+judgment against a party hereto in connection with any action, suit or other
+proceeding shall be conclusive and binding on such party and that such award or
+judgment may be enforced in any court of competent jurisdiction, either within
+or outside of the United States. A certified or exemplified copy of such award
+or judgment shall be conclusive evidence of the fact and amount of such award or
+judgment.
+
+         SECTION 16.9 THIRD PARTY BENEFICIARIES. Nothing in this Agreement,
+express or implied, is intended to or shall confer upon any Person other than
+the parties hereto any rights, benefits or remedies of any nature whatsoever
+under or by reason of this Agreement.
+
+                                       26
+
+<PAGE>
+
+         SECTION 16.10 BINDING; ASSIGNMENT. This Agreement shall be binding upon
+and inure to the benefit of the parties hereto and their respective successors
+and assigns and legal representatives. Neither this Agreement, nor any rights,
+interests or obligations hereunder, may be directly or indirectly assigned,
+delegated, sublicensed or transferred by any party to this Agreement, in whole
+or in part, to any other Person (including any bankruptcy trustee) by operation
+of law or otherwise, whether voluntarily or involuntarily, without the prior
+written consent of the parties hereto.
+
+         SECTION 16.11 SPECIFIC PERFORMANCE. The parties recognize and agree
+that if for any reason any of the provisions of this Agreement are not performed
+in accordance with their specific terms or are otherwise breached, immediate and
+irreparable harm or injury would be caused for which money damages would not be
+an adequate remedy. Accordingly, each party agrees that, in addition to any
+other available remedies, each other party shall be entitled to an injunction
+restraining any violation or threatened violation of any of the provisions of
+this Agreement without the necessity of posting a bond or other form of
+security. In the event that any action should be brought in equity to enforce
+any of the provisions of this Agreement, no party will allege, and each party
+hereby waives the defense, that there is an adequate remedy at law.
+
+         SECTION 16.12 DESCRIPTIVE HEADINGS. The descriptive article and section
+headings herein are inserted for convenience of reference only and are not
+intended to be part of or to affect the meaning or interpretation of this
+Agreement.
+
+         SECTION 16.13 USE OF NAME. Except as otherwise set forth in the
+Acquisition Agreement, URC shall use the name, trademark, service mark, logo or
+identification of the Royal Insurer Affiliates without the Royal Insurer
+Affiliates' prior written consent.
+
+         SECTION 16.14 NOTICES. All notices, requests, claims, demands and other
+communications hereunder shall be in writing and shall be given (and shall be
+deemed to have been duly given upon receipt) by delivery in person, by telecopy
+(which is confirmed), or by registered or certified mail (postage prepaid,
+return receipt requested) to the respective parties to this Agreement as
+follows:
+
+                  If to the Royal Insurer Affiliates:
+
+                           Laura S. Lawrence, Esq.
+                           General Counsel
+                           Royal Group, Inc.
+                           9300 Arrowpoint Blvd.
+                           Charlotte, NC 28273
+                           Telephone No.: (704) 522-2851
+                           Facsimile No.: (704) 522-2313
+
+                  With a copy to (which shall not constitute notice to the Royal
+Insurer Affiliates for purposes of this Section 16.14):
+
+                                       27
+
+<PAGE>
+
+                           Robert J. Sullivan, Esq.
+                           Skadden, Arps, Slate, Meagher & Flom LLP
+                           Four Times Square
+                           New York, New York 10036
+                           Telephone No.: (212) 735-2930
+                           Facsimile No.: (212) 735-2000
+
+                  If to URC:
+
+                           Mr. David E. Leonard
+                           Executive Vice President
+                           c/o Royal Specialty Underwriting, Inc.
+                           945 East Paces Ferry Road
+                           Atlanta, GA 30326
+                           Telephone No.: (404) 231-2366
+                           Facsimile No.: (404) 231-3755
+
+                  With a copy to (which shall not constitute notice to the URC
+for purposes of this Section 16.14):
+
+                           Aileen C. Meehan, Esq.
+                           Dewey Ballantine LLP
+                           1301 Avenue of the Americas
+                           New York, New York 10019
+                           Telephone No.: (212) 259-8000
+                           Facsimile No.: (212) 259-6333
+
+or to such other address as the person to whom notice is given may have
+previously furnished to the others in writing in the manner set forth above. In
+no event shall the provision of notice pursuant to this Section 16.14 constitute
+notice for service of any writ, process or summons in any suit, action or other
+proceeding.
+
+                                       28
+
+<PAGE>
+
+         SECTION 16.15 INTERPRETATION.
+
+         (a)      When a reference is made in this Agreement to a Section or
+Article, such reference shall be to a section or article of this Agreement
+unless otherwise clearly indicated to the contrary. Whenever the words
+"include," "includes" or "including" are used in this Agreement, they shall be
+deemed to be followed by the words "without limitation." The words "hereof,"
+"herein" and "herewith" and words of similar import shall, unless otherwise
+stated, be construed to refer to this Agreement as a whole and not to any
+particular provision of this Agreement. The meaning assigned to each term used
+in this Agreement shall be equally applicable to both the singular and the
+plural forms of such term, and words denoting any gender shall include all
+genders. Where a word or phrase is defined herein, each of its other grammatical
+forms shall have a corresponding meaning.
+
+         (b)      The parties have participated jointly in the negotiation and
+drafting of this Agreement; consequently, in the event an ambiguity or question
+of intent or interpretation arises, this Agreement shall be construed as if
+drafted jointly by the parties thereto, and no presumption or burden of proof
+shall arise favoring or disfavoring any party by virtue of the authorship of any
+provisions of this Agreement.
+
+                                       29
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, this Claims Servicing Agreement has been
+duly executed by a duly authorized officer of each party hereto as of the date
+first above written.
+
+UNDERWRITERS REINSURANCE COMPANY
+By: /s/ James P. Slattery
+    ---------------------------------
+Name:  James P. Slattery
+Title: President
+
+ROYAL INDEMNITY COMPANY
+By: /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+ROYAL INSURANCE COMPANY OF AMERICA
+By: /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+ROYAL SURPLUS LINES INSURANCE COMPANY
+By: /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+LANDMARK AMERICAN INSURANCE COMPANY
+By:/s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+AMERICAN AND FOREIGN INSURANCE COMPANY
+By: /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+GLOBE INDEMNITY COMPANY
+By: /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+<PAGE>
+
+SAFEGUARD INSURANCE COMPANY
+By:  /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+PHOENIX ASSURANCE COMPANY OF NEW YORK
+By:  /s/ Stephen M. Mulready
+    ---------------------------------
+Name:  Stephen M. Mulready
+Title: President and Chief Executive
+       Officer
+
+
+</TEXT>
+</DOCUMENT>

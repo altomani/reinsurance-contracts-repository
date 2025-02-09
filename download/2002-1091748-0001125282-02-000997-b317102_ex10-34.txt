@@ -1,0 +1,172 @@
+<DOCUMENT>
+<TYPE>EX-10.34
+<SEQUENCE>12
+<FILENAME>b317102_ex10-34.txt
+<DESCRIPTION>MATERIAL CONTRACTS
+<TEXT>
+<PAGE>
+                                      June 29, 2001
+
+Mr. Robert P. Myron
+Select Reinsurance Ltd.
+Suite 794
+48 Par La Ville Road
+Hamilton HM 11
+Bermuda
+
+Dear Mr. Myron:
+
+      The purpose of this communication (this "Confirmation") is to set forth
+the terms and conditions of the Swap Transaction entered into between us on the
+Trade Date specified below (the "Transaction").
+
+      The definitions and provisions contained in the 2000 ISDA Definitions, as
+published by the International Swaps and Derivatives Association, Inc., are
+incorporated into the Confirmation. In the event of any inconsistency between
+those definitions and provisions and this Confirmation, this Confirmation will
+govern.
+
+      This Confirmation constitutes a "Confirmation" as referred to in, and
+supplements, forms part of, and is subject to, the ISDA Master Agreement dated
+as of the date hereof, as amended and supplemented from time to time, between
+PXRE Reinsurance Ltd. ("Party A") and Select Reinsurance Ltd. ("Party B"). All
+provisions contained in the Agreement govern this Confirmation except as
+expressly modified below.
+
+      The terms of the particular Transaction to which this Confirmation relates
+are as follows:
+
+Notional Amount         As of each Calculation Date and the Termination Date,
+                        the average daily balance during the preceding
+                        Calculation Period of the Experience Account maintained
+                        by Party B with respect that certain Reinsurance
+                        Agreement, dated as of June 29, 2001, by and between
+                        PXRE Reinsurance Ltd. and Select Reinsurance Ltd. (the
+                        "Reference Obligation")
+
+Trade Date              June 29, 2001
+
+Effective Date          June 29, 2001
+
+<PAGE>
+
+Termination Date        The earlier of January 1, 2011 or the date on which
+                        the Reference Obligation is terminated.
+
+Calculation Date        The last day of each Calculation Period.
+
+Calculation Period      The first Calculation Period shall begin on the
+                        Effective Date and end on June 30, 2001. Each subsequent
+                        Calculation Period shall be a calendar quarter.
+
+The Floating Rate Payer pays on the Payment Date an amount determined in
+accordance with the following:
+
+Floating Rate Payer     Party A
+
+Payment Date            The Termination Date
+
+Floating Rate           USD LIBOR less 100 basis points.
+
+Designated Maturity     3 Months
+
+Floating Rate for
+initial Calculation
+Period                  104 basis points.
+
+Rounding Factor         One hundred-thousandth of one percent.
+
+Floating Rate Day
+Count Fraction          Actual/360
+
+Compounding             On each Calculation Date
+
+Business Day            The following cities are specified for use in the
+                        definition of "Business Day" as it applies to the
+                        Floating Rate Payer:
+
+                        New York City
+                        Hamilton, Bermuda
+
+Business Day
+Convention              Modified Following
+
+<PAGE>
+
+The Fixed Rate Payer pays on each Payment Date an amount determined in
+accordance with the following:
+
+Fixed Rate Payer        Party B
+
+Payment Date            Termination Date
+
+Fixed Rate              7.25%
+
+Fixed Rate Day
+Count Fraction          Actual/360
+
+Compounding             On each Calculation Date.
+
+Business Day            The following cities are specified for use in the
+                        definition of "Business Day" as it applies to the Fixed
+                        Rate Payer:
+
+                        New York City
+                        Hamilton, Bermuda
+
+Business Day
+Convention              Modified Following
+
+Calculation Agent       Party A
+
+Additional Provisions   None
+
+For all USD payments,
+We will pay you at
+
+For the Account of      Party B
+
+Account Number          TBD
+
+For all USD payments,
+Please pay us at
+
+For the Account of      Party A
+
+Account Number          TBD
+
+      Please confirm that the following correctly sets forth the terms of our
+agreement by executing the copy of this Confirmation enclosed for that purpose
+and returning it to us via fax to the attention of Leatrice Roman at (441)
+296-6162.
+
+<PAGE>
+
+Please check this Confirmation carefully and immediately upon receipt, so that
+errors or discrepancies can be promptly identified and rectified.
+
+We are very pleased to have concluded this Transaction with you.
+
+Regards,
+
+PXRE REINSURANCE LTD.
+
+
+By: /s/ Gerald L. Radke
+   ------------------------
+    Gerald L. Radke
+    Chairman
+
+
+Confirmed as of the date
+First above written
+
+
+By: /s/ Robert P. Myron
+   ------------------------
+    Robert P. Myron
+    Vice President
+    Select Reinsurance Ltd.
+
+</TEXT>
+</DOCUMENT>

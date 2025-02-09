@@ -1,0 +1,624 @@
+<DOCUMENT>
+<TYPE>EX-10.27
+<SEQUENCE>29
+<FILENAME>y88779exv10w27.txt
+<DESCRIPTION>CLAIMS SERVICING LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.27
+
+
+            CLAIMS SERVICING INFORMATION TECHNOLOGY LICENSE AGREEMENT
+
+                  This CLAIMS SERVICING INFORMATION TECHNOLOGY LICENSE AGREEMENT
+(this "Agreement") is dated as of July 1, 2003 (the "Effective Date"), and is
+between ROYAL INDEMNITY COMPANY ("Licensor"), a Delaware property and casualty
+insurance company, and UNDERWRITERS REINSURANCE COMPANY ("Licensee"), a
+corporation organized under the laws of New Hampshire. Licensor and Licensee are
+sometimes referred to herein individually as, "Party" and collectively as, the
+"Parties." Capitalized terms used but not defined herein and which are defined
+in the Service Agreement (as defined below), shall have the meanings ascribed to
+them in the Service Agreement.
+
+                  WHEREAS, Licensor and Licensee are parties to that certain
+Claims Servicing Agreement, of even date herewith (the "Service Agreement"),
+pursuant to which Licensee agrees to perform the Claims Services under the
+Service Agreement (collectively, the "Services"); and
+
+                  WHEREAS, in order for Licensee to provide the Services under
+the Service Agreement, Section 2.1(c) of the Service Agreement provides that
+Licensee' access to the Computer Systems controlled by Licensor that are
+necessary for it to provide the Services and other services specified therein
+shall be governed by the terms of this Agreement; and
+
+                  WHEREAS, Licensor and Licensee are each willing to enter into
+such arrangements on the terms and conditions set forth herein;
+
+                  NOW THEREFORE, in consideration of the foregoing premises, and
+for other good and valuable consideration, the receipt and adequacy of which are
+hereby acknowledged, the Parties hereto hereby covenant and agree as follows:
+
+1.       LICENSE GRANT; TERM.
+
+                  1.1      License Grant.
+
+                  (a)      Effective upon the Effective Date and subject to all
+the terms and conditions of this Agreement, Licensor hereby grants to Licensee,
+and Licensee hereby accepts from Licensor, during the Term a limited,
+royalty-free, non-exclusive, non-transferable or assignable (except as set forth
+in Section 8.6), sub-licenseable (except as set forth in Section 8.6) license to
+(i) access through transmission media as specified on Schedule 1.1(1), display
+and use the Computer Systems, including, without limitation, the databases and
+software described in Schedule 1.1(2) hereto and related documentation, if any,
+and (ii) download data from, and upload data to, Licensor's Network System, in
+
+<PAGE>
+
+agreed-upon format solely in connection with the Services under the Service
+Agreement. The license shall include at no charge any changes, modifications and
+upgrades to the Computer Systems as Licensor may develop from time to time
+and/or make available through the Network System or otherwise. For purposes of
+this Agreement, "Network System" shall mean Licensor's servers on which the
+Computer Systems reside, which servers are located at Licensor facilities at
+9300 Arrowpoint Blvd., Charlotte, North Carolina as may be relocated at
+Licensor's discretion upon thirty (30) days prior written notice to Licensee.
+
+                  (b)      With respect to any Computer Systems accessed by
+Licensee on Licensor's Network System via website, and/or otherwise via the
+Internet or Licensor's intranet in accordance with the terms herein:
+
+                  (i)      Licensor will act at its sole cost to maintain all
+         communications equipment inside the Network System firewalls and
+         necessary for Licensee to access the Computer Systems. Licensee shall
+         be responsible for maintaining access to communications equipment as
+         necessary to access and use the Computer Systems, and download and
+         upload data from inside the Network System firewall. Each Party shall
+         be responsible for its own transmission, reception, storing and
+         handling of originated electronic documents, and provide and maintain
+         the equipment, software, services, and testing necessary to perform
+         such Party's obligations under this Agreement effectively and reliably.
+
+                  (ii)     Licensee covenants to Licensor that it shall provide
+         security levels consistent with Licensor's practices to protect all
+         Computer Systems that Licensee accesses hereunder against the risk of
+         penetration by a third party by (1) protecting against intrusions, (2)
+         encrypting of Licensor Confidential Information transactions, and (3)
+         ensuring that anti-virus software is up-to-date and that DAT files are
+         updated regularly.
+
+                  1.2      Exclusion of All Other Rights. Except as expressly
+provided herein, Licensor grants no rights or licenses under this Agreement
+whatsoever in or to the Computer Systems or any other Licensor products,
+services or other Licensor intellectual proprietary or personal rights. All
+rights and licenses not expressly granted in this Agreement are hereby expressly
+reserved by Licensor or Licensee, as the case may be.
+
+                  1.3      Restrictions. Except to the extent expressly
+permitted herein, or by prior written permission of Licensor, Licensee shall
+not, and shall not authorize any third party to: (a) modify, alter, or otherwise
+create any derivative work of the Computer Systems or any portion thereof; (b)
+sublicense, transfer or assign (except as provided in Section 8.6 herein) the
+Computer Systems or any right with respect thereto; (c) rent, lease, outsource
+or distribute the Computer Systems; (d) copy all or any portion of the Computer
+Systems, including but not limited to, the documentation, if any; and (e)
+disassemble, decompile, reverse engineer, translate, or otherwise convert to
+human readable form, in whole or in part or any portion of the Computer Systems
+except to the extent such foregoing restriction is expressly prohibited by
+Applicable Law.
+
+                                       2
+
+<PAGE>
+
+                  1.4      Consultation and Training. Licensor shall provide
+such consultation and training as may be reasonable and necessary to ensure
+accurate receipt of or download of data and as otherwise may be reasonably
+necessary for Licensee to perform the Services under the Service Agreement.
+
+                  1.5      Documentation. Licensor shall provide Licensee from
+time to time during the Term documentation pertaining to the use of the Computer
+Systems as may be reasonably necessary for Licensee to perform the Services
+under the Service Agreement, to the extent such documentation exists and has not
+already been provided to Licensee.
+
+                  1.6      Support and Maintenance. Licensor shall provide such
+support and maintenance as may be reasonably necessary for Licensee to perform
+the Services under the Service Agreement consistent with Licensor's support and
+maintenance of the Computer Systems provided to Licensee before the Closing.
+Such maintenance and support shall include, at a minimum technical support as
+follows: a Licensor-designated information system coordinator shall accept and
+respond diligently to all reasonable technical support inquiries posed by
+Licensee relating to: (i) errors made by Licensor and encountered by Licensee in
+Licensee's access to and use of the Computer Systems as provided herein; (ii)
+simple explanations of the Computer Systems functionality, and (iii) maintenance
+of the Computer Systems as may be provided as part of Licensor's regular Network
+System maintenance for Licensor's own business purposes.
+
+                  1.7      Duration. This Agreement, including any licenses
+granted hereunder, shall become effective as of the Effective Date and continue
+until such time as the Service Agreement shall expire or otherwise be terminated
+in accordance with Section 10.1 of the Service Agreement, unless earlier
+terminated in accordance with Section 8.15 herein.
+
+2.       OWNERSHIP.
+
+                  2.1      Computer Systems. Licensee acknowledges and agrees
+that, as between Licensor and Licensee, ownership of and title in and to the
+Computer Systems and all Intellectual Property Rights in or to the Computer
+Systems are and shall remain in Licensor. For purposes of this Agreement,
+"Intellectual Property Rights" means, collectively, patents, trade secrets (as
+defined in the Restatement, Second, Torts), copyrights, trade names, rights in
+trade dress, and all other intellectual property rights, whether arising under
+the laws of the United States or any other state, country or jurisdiction,
+including all rights or causes of action for infringement or misappropriation of
+any of the foregoing, in each case now existing or hereafter arising during the
+term of this Agreement.
+
+3.       PROTECTION OF COMPUTER SYSTEMS.
+
+                  3.1      Legal Action. Except as set forth below, Licensor
+shall maintain sole control and discretion over the prosecution and protection
+of all rights, including all Intellectual Property Rights, in and to the
+Computer Systems.
+
+                  3.2      Protection of Intellectual Property Rights.
+
+                                       3
+
+<PAGE>
+
+                  3.2.1    Licensee shall promptly notify Licensor in writing of
+         any unauthorized use, infringement, misappropriation, dilution or other
+         violation of the Computer Systems of which it becomes aware or
+         suspects.
+
+                  3.2.2    Licensor shall have the primary right, but not the
+         obligation, to bring and control any suits against any unauthorized
+         use, infringement, misappropriation, dilution or other violation of the
+         Computer Systems, unless Licensor otherwise consents in writing. In the
+         event that Licensor elects not to exercise this right, Licensor (at
+         Licensee's request) shall execute appropriate documents to authorize
+         Licensee to bring and to control such action, and Licensor shall
+         reasonably assist Licensee in any such action, including being named as
+         a party to such litigation as required by applicable law. Licensor
+         shall have the right to participate and be represented in any such
+         action, suit or proceeding by its own counsel at its own expense.
+
+                  3.2.3    Licensee agrees to reasonably cooperate with
+         Licensor, at Licensor's cost (except for de minimis expenses, which
+         shall be borne by Licensee), in any litigation or other enforcement
+         action that Licensor may undertake to enforce or protect the Computer
+         Systems, including, upon Licensor's reasonable request, the execution,
+         filing and delivery of all documents and proof necessary for such
+         purpose. Licensee shall have the right to participate and be
+         represented in any such action, suit or proceeding by its own counsel
+         at its own expense.
+
+                  3.2.4    Except as expressly stated in this Section 3.2, each
+         Party shall bear the costs, fees and expenses incurred by such Party in
+         complying with the provisions of this Section 3.2, including those
+         incurred in bringing or controlling any such suits.
+
+4.       REPRESENTATIONS AND WARRANTIES
+
+                  4.1      Each Party hereto represents and warrants that: (i)
+it is a corporation duly organized, validly existing and in good standing under
+the laws of its state of incorporation and has full power and authority
+(corporate and otherwise) to own its properties and assets and to conduct its
+business as now being conducted; (ii) it has the corporate power and authority
+to enter into this Agreement, and the execution, delivery and performance of
+this Agreement and the transactions and other documents contemplated hereby have
+been duly authorized by all necessary corporate action on the part of such
+Party; (iii) this Agreement has been duly executed and delivered by authorized
+officers of each Party, and constitutes a legal, valid and binding obligation of
+the Party, fully enforceable against such Party in accordance with its terms,
+subject to bankruptcy, insolvency, fraudulent transfer, reorganization,
+moratorium, and similar laws of general applicability relating to or affecting
+creditors' rights, and general equity principles.
+
+                  4.2      Licensor represents and warrants that: (i) Licensor
+has the right to grant the licenses granted herein; (ii) Licensee's use of the
+Computer Systems in the
+
+                                       4
+
+<PAGE>
+
+performance of the Services and its obligations under the Service Agreement does
+not and will not violate or infringe the Intellectual Property Rights of any
+Person who is not a Party to this Agreement; (iii) Licensor will not knowingly
+include or insert, or knowingly permit or cause any third party to include or
+insert, any computer virus on the Computer Systems that will be available to
+Licensee; (iv) the Computer Systems shall, during the course of this agreement,
+be free of material defects; and (v) Licensor shall make the Computer Systems
+available to Licensee as reasonably necessary for Licensee to perform the
+Services.
+
+                  4.3      EXCEPT AS SET FORTH IN SECTIONS 4.1 AND 4.2, (A) THE
+COMPUTER SYSTEMS ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, PROPER COOPERATION OR
+INTERFACING WITH THIRD PARTY INFORMATION TECHNOLOGY OR OTHER WARRANTIES,
+CONDITIONS, GUARANTEES OR REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED; AND (B)
+LICENSEE EXPRESSLY WAIVES ANY AND ALL RIGHTS IT MAY HAVE UNDER THE UNIFORM
+COMMERCIAL CODE.
+
+5.       INDEMNIFICATION
+
+                  5.1      Licensee will indemnify, defend and hold harmless
+Licensor and its employees, officers and directors from and against all claims,
+liabilities, suits, damages, costs and expenses, including, without limitation,
+reasonable attorneys' fees, resulting from any claim brought by any third party
+(excluding any Affiliate of Licensor) alleging infringement by Licensee of such
+third party's Intellectual Property Rights arising out of Licensee's use of the
+Computer Systems outside the scope of use of the Computer Systems permitted to
+Licensee hereunder and/or that is contrary to the rights granted to Licensee
+herein, except for losses, liabilities or damages arising from the sole claim
+that the Computer Systems or Licensor's grant hereunder infringe the
+Intellectual Property Rights of such third party, independent of Licensee's use
+thereof.
+
+                  5.2      Licensor will indemnify, defend and hold harmless
+Licensee and its employees, officers and directors from and against all claims,
+liabilities, suits, damages, costs and expenses, including, without limitation,
+reasonable attorneys' fees, resulting from any claim brought by any third party
+alleging infringement by Licensee of such third party's Intellectual Property
+Rights arising out of Licensee's use of the Computer Systems to the extent such
+use of the Computer Systems falls within the scope of or is not contrary to the
+rights granted to Licensee herein. Notwithstanding anything to the contrary in
+the foregoing sentence, Licensor shall not indemnify Licensee with respect to
+the possibility of infringement by Combination Use of the Computer Systems. The
+Parties agree that Licensor has no duty to investigate or to warn Licensee of
+any such possibility. As used herein, "Combination Use" means use of any
+Computer System outside the scope of the license granted herein or use of the
+Computer Systems in combination or conjunction with any software other than the
+Computer Systems, any
+
+                                       5
+
+<PAGE>
+
+unauthorized modifications under Section 1.3, or combination with any Licensee
+hardware.
+
+                  5.3      In the event that either Licensor or Licensee wishes
+to assert a claim for indemnification under this Section 5, such Party seeking
+indemnification (the "Indemnified Party") shall deliver written notice (a
+"Claims Notice") to the other Party (the "Indemnifying Party") no later than ten
+(10) Business Days after such claim becomes known to the Indemnified Party,
+specifying the facts constituting the basis for, and the amount (if known) of
+the claim asserted. Failure to deliver a Claims Notice with respect to a claim
+in a timely manner as specified in the preceding sentence shall not release the
+Indemnifying Party from any of its obligations under this Section 5, except to
+the extent the Indemnifying Party is materially prejudiced by such failure.
+
+         6.       DISCLAIMER OF CONSEQUENTIAL AND SPECIAL DAMAGES. TO THE
+MAXIMUM EXTENT PERMITTED BY LAW, NEITHER PARTY NOR ANY RELATED ENTITY THEREOF
+SHALL BE LIABLE TO THE OTHER PARTY, ANY RELATED ENTITY THEREOF OR ANY OTHER
+THIRD PERSON UNDER THIS AGREEMENT FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+SPECIAL, RELIANCE OR PUNITIVE DAMAGES OR LOST OR IMPUTED PROFITS, LOST DATA OR
+COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, WHETHER LIABILITY IS
+ASSERTED IN CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT PRODUCT LIABILITY)
+INDEMNITY OR CONTRIBUTION, AND IRRESPECTIVE OF WHETHER A PARTY OR ANY RELATED
+ENTITY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE.
+
+7.       CONFIDENTIALITY
+
+                  7.1      All confidential and proprietary information shall be
+protected in accordance with Article XII of the Service Agreement.
+
+                  7.2      All disputes between the Parties shall be subject to
+the provisions of Article XV of the Service Agreement.
+
+8.       GENERAL
+
+                  8.1      Amendment, Modification and Waiver. This Agreement
+may not be amended, modified or waived except by an instrument or instruments in
+writing signed and delivered on behalf of each of the parties hereto.
+
+                  8.2      Entire Agreement. This Agreement, the Service
+Agreement and the other Ancillary Agreements between the Parties (together with
+the schedules and exhibits hereto and the other agreements, documents and
+instruments delivered in connection herewith) constitute the entire agreement
+among the Parties with respect to the subject matter hereof and thereof and
+supersede all other prior agreements and understandings, both written and
+verbal, among the Parties or any of them with respect to the subject matter
+hereof.
+
+                                       6
+
+<PAGE>
+
+                  8.3      Interpretation.
+
+                  (a)      When a reference is made in this Agreement to a
+Section, such reference shall be to a section of this Agreement unless otherwise
+clearly indicated to the contrary. Whenever the words "include", "includes" or
+"including" are used in this Agreement, they shall be deemed to be followed by
+the words "without limitation." The words "hereof," "herein" and "herewith" and
+words of similar import shall, unless otherwise stated, be construed to refer to
+this Agreement as a whole and not to any particular provision of this Agreement.
+The meaning assigned to each term used in this Agreement shall be equally
+applicable to both the singular and the plural forms of such term, and words
+denoting any gender shall include all genders. Where a word or phrase is defined
+herein, each of its other grammatical forms shall have a corresponding meaning.
+
+                  (b)      The Parties have participated jointly in the
+negotiation and drafting of this Agreement; consequently, in the event an
+ambiguity or question of intent or interpretation arises, this Agreement shall
+be construed as if drafted jointly by the parties thereto, and no presumption or
+burden of proof shall arise favoring or disfavoring any Party by virtue of the
+authorship of any provisions of this Agreement.
+
+                  8.4      Notices. All notices, requests, claims, demands and
+other communications hereunder shall be in writing and shall be given (and shall
+be deemed to have been duly given upon receipt) by delivery in person, by
+telecopy (which is confirmed), or by registered or certified mail (postage
+prepaid, return receipt requested) to the respective parties to this Agreement
+as follows:
+
+         If to the Licensor, to:
+
+                  Laura S. Lawrence, Esq.
+                  General Counsel
+                  Royal Group, Inc.
+                  9300 Arrowpoint Blvd.
+                  Charlotte, NC 28273
+                  Telephone No.: (704) 522-2851
+                  Facsimile No.: (704) 522-2313
+
+                  with a copy to (which shall not constitute notice to Licensor
+for purposes of this Section 8.4):
+
+                  Robert J. Sullivan, Esq.
+                  Skadden, Arps, Slate, Meagher & Flom LLP
+                  Four Times Square
+                  New York, New York 10036
+                  Telephone No.: (212) 735-3000
+                  Facsimile No.: (212) 735-2000
+
+                                       7
+
+<PAGE>
+
+         If to Licensee, to:
+
+                  Mr. David E. Leonard
+                  Executive Vice President
+                  c/o Royal Specialty Underwriting, Inc.
+                  945 East Paces Ferry Road
+                  Atlanta, GA 30326
+                  Telephone No.: (404) 231-2366
+                  Facsimile No.: (404) 231-3755
+
+                  with a copy to (which shall not constitute notice to Licensee
+for purposes of this Section 8.4):
+
+                  Aileen C. Meehan, Esq.
+                  William W. Rosenblatt, Esq.
+                  Dewey Ballantine LLP
+                  1301 Avenue of the Americas
+                  New York, New York 10019
+                  Telephone No.: (212) 259-8000
+                  Facsimile No.: (212) 259-6333
+
+or to such other address as the person to whom notice is given may have
+previously furnished to the others in writing in the manner set forth above. In
+no event shall the provision of notice pursuant to this Section 8.4 constitute
+notice for service of any writ, process or summons in any suit, action or other
+proceeding.
+
+                  8.5      Governing Law. This Agreement shall be governed by
+and construed in accordance with the laws of the State of Delaware, regardless
+of the laws that might otherwise govern under applicable principles of conflicts
+of laws thereof.
+
+                  8.6      Assignment; Binding Agreement. This Agreement shall
+be binding upon and inure to the benefit of the Parties hereto and their
+respective successors and assigns and legal representatives. Neither this
+Agreement, nor any rights, interests or obligations hereunder, may be directly
+or indirectly assigned, delegated, sublicensed or transferred by any Party to
+this Agreement, in whole or in part, to any other Person (including any
+bankruptcy trustee) by operation of law or otherwise, whether voluntarily or
+involuntarily, without the prior written consent of the Parties hereto;
+provided, however, that this Agreement may assigned by any Party in the event
+that such Party assigns its rights under the Service Agreement pursuant to
+Section 16.10 of the Service Agreement and Licensee may sublicense its rights to
+an affiliate solely in connection with such affiliate rendering the Services
+provided that Licensee and such affiliate both remain bound by all the terms and
+conditions set forth in this Agreement.
+
+                  8.7      Third Party Beneficiaries. Except for the provisions
+of Section 5, nothing in this Agreement, express or implied, is intended to or
+shall confer upon any Person other than the Parties hereto any rights, benefits
+or remedies of any nature whatsoever under or by reason of this Agreement.
+
+                                       8
+
+<PAGE>
+
+                  8.8      Specific Performance. The Parties recognize and agree
+that if for any reason any of the provisions of this Agreement are not performed
+in accordance with their specific terms or are otherwise breached, immediate and
+irreparable harm or injury would be caused for which money damages would not be
+an adequate remedy. Accordingly, each Party agrees that, in addition to any
+other available remedies, each other party shall be entitled to an injunction
+restraining any violation or threatened violation of any of the provisions of
+this Agreement without the necessity of posting a bond or other form of
+security. In the event that any action should be brought in equity to enforce
+any of the provisions of this Agreement, no Party will allege, and each Party
+hereby waives the defense, that there is an adequate remedy at law.
+
+                  8.9      Severability. Any term or provision of this Agreement
+which is invalid or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity or
+unenforceability without rendering invalid or unenforceable the remaining terms
+and provisions of this Agreement or affecting the validity or enforceability of
+any of the terms or provisions of this Agreement in any other jurisdiction. If
+any provision of this Agreement is so broad as to be unenforceable, the
+provision shall be interpreted to be only so broad as would be enforceable.
+
+                  8.10     Counterparts. This Agreement may be executed in
+counterparts, each of which shall be deemed to be an original, but all of which
+shall constitute one and the same agreement.
+
+                  8.11     Consent to Jurisdiction. Each of the Parties hereto
+irrevocably and unconditionally submits to the exclusive jurisdiction of the
+state and federal court located in the State of Delaware for the purposes of
+enforcing this Agreement or the other Ancillary Agreements. The Parties shall
+take such actions as are within their control to cause any matter contemplated
+hereby to be assigned to the Chancery Court in the State of Delaware. In any
+action, suit or other proceeding, each of the Parties hereto irrevocably and
+unconditionally waives and agrees not to assert by way of motion, as a defense
+or otherwise any claims that it is not subject to the jurisdiction of the above
+courts, that such action or suit is brought in an inconvenient forum or that the
+venue of such action, suit or other proceeding is improper. Each of the Parties
+hereto also agrees that any final and unappealable judgment against a Party
+hereto in connection with any action, suit or other proceeding shall be
+conclusive and binding on such party and that such award or judgment may be
+enforced in any court of competent jurisdiction, either within or outside of the
+United States. A certified or exemplified copy of such award or judgment shall
+be conclusive evidence of the fact and amount of such award or judgment.
+
+                  8.12     Descriptive Headings. The descriptive section
+headings herein are inserted for convenience of reference only and are not
+intended to be part of or to affect the meaning or interpretation of this
+Agreement.
+
+                  8.13     Survival. The provisions of Sections 5, 7 and 8
+hereof shall survive the termination of this Agreement.
+
+                                       9
+
+<PAGE>
+
+                  8.14     Termination.
+
+                  (a)      Either Party may terminate this Agreement immediately
+upon notice if the other Party files a petition for bankruptcy or insolvency,
+has an involuntary petition under bankruptcy laws filed against it and such
+petition shall not be dismissed within 60 days after filing thereof, commences
+an action providing for relief under bankruptcy laws, files for appointment of a
+receiver, or is adjudicated a bankrupt concern.
+
+                  (b)      (b) Agreement may be terminated by either party for
+any other material breach by the other upon delivery of a sixty (60) days
+written notice of termination, if any such breach remains uncured during such
+sixty (60) day period.
+
+                  8.15     Bankruptcy Protection. All rights and licenses
+granted under or pursuant to this Agreement by Licensor to Licensee are, and
+shall otherwise be deemed to be, for purposes of Section 365(n) of the
+Bankruptcy Code (11 U.S.C. Section 101 et seq.), licenses of rights to
+"intellectual property" as defined therein. The Parties agree that Licensee, as
+licensees of such rights, shall retain and may fully exercise all of its rights
+and elections under the Bankruptcy Code. The Parties further agree that, in the
+event that any proceeding shall be instituted by or against Licensor seeking to
+adjudicate it a bankrupt or insolvent, or seeking liquidation, winding up,
+reorganization, arrangement, adjustment, protection, relief or composition of it
+or its debts under any law relating to bankruptcy, insolvency or reorganization
+or relief of debtors, or seeking an entry of an order for relief or Appointment
+of a receiver, trustee or other similar official for it or any substantial part
+of its property or it shall take any action to authorize any of the foregoing
+actions (each a "Proceeding"), Licensee shall have the right to retain and
+enforce its rights under this Agreement, including but not limited to the
+following rights:
+
+                  (a)      the right to continue to use the Computer Systems and
+all documentation and other supporting material related thereto, in accordance
+with the terms and conditions of this Agreement; and
+
+                  (b)      the right to a complete duplicate of (or complete
+access to, as appropriate) all Computer Systems and the source code for the
+Computer Systems and all embodiments of such, and Licensor shall promptly
+deliver, or shall promptly cause to be delivered the same to Licensee (i) upon
+any such commencement of a Proceeding upon written request therefor by Licensee,
+unless Licensor elects and is permitted to continue to perform all of its
+obligations under this Agreement, or (ii) if not delivered under (i) above, upon
+the rejection of this Agreement by or on behalf of Licensor upon written request
+therefor by Licensee. Licensor shall maintain all Computer Systems in tangible
+form.
+
+                                       10
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, each of the Parties has caused this
+Agreement to be executed on its behalf by its officer thereunto duly authorized,
+all as of the day and year first above written.
+
+                                           LICENSOR:
+                                           ROYAL INDEMNITY COMPANY
+                                           By: /s/ Stephen M. Mulready
+                                               ---------------------------------
+                                           Name:  Stephen M. Mulready
+                                           Title: President and Chief
+                                                  Executive Officer
+
+                                           LICENSEE:
+                                           UNDERWRITERS REINSURANCE COMPANY
+                                           By: /s/ James P. Slattery
+                                               ---------------------------------
+                                           Name:  James P. Slattery
+                                           Title: President
+
+                                       11
+
+<PAGE>
+
+                                 SCHEDULE 1.1(1)
+
+                           TRANSMISSION SPECIFICATIONS
+
+Access through Wide Area Network
+Access via the Internet
+
+
+
+<PAGE>
+
+                                 SCHEDULE 1.1(2)
+
+                                COMPUTER SYSTEMS
+
+COMPUTER SYSTEMS AND DATABASES:
+
+1)       Claim Interface - URC transmits claim information that is used to
+populate the Royal CLASS system. This data is transmitted via the Internet using
+the FTP protocol. The dataset name is CLASS.URC.INTRFACE.PROD and the Host job
+name is H4D09.
+
+2)       CLASS database and user interface via the Royal Host system.
+
+3)       CISS Database (database containing a relational copy of CLASS claims
+data)
+
+4)       INFONET ISO Service Information comprised of ISO Suite software
+licensed in name of Royal Indemnity Company and customized components developed
+by Royal Indemnity Company.
+
+5)       ISONET Rate, Rule and Form Information for Divisions One, Three, Five,
+Six, Seven, Eight, Eleven, Twelve and Thirteen accessed through license in name
+of Royal Indemnity Company.
+
+6)       ISO Claim Search information accessed through license in name of Royal
+Indemnity Company.
+
+7)       The following databases accessible via Lotus Notes (note that access to
+these databases may require Lotus Notes; Licensor will not be providing Lotus
+Notes to Licensees hereunder):
+
+         Complaint Log
+         Litigation Management Guidelines
+
+8)       Any other Licensor software and information technology systems, if any,
+as may be necessary for Licensee to perform the Services under the Service
+Agreement to the extent that Licensor has the right to make such systems
+available to Licensees.
+
+
+
+
+</TEXT>
+</DOCUMENT>

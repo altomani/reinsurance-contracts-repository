@@ -1,0 +1,1197 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>6
+<FILENAME>l99910aexv10w6.txt
+<DESCRIPTION>EX-10.6
+<TEXT>
+<PAGE>
+
+                                                                 Exhibit 10.6
+
+                               SERVICES AGREEMENT
+
+         This Services Agreement (this "Agreement") is made effective January 1,
+2003 by and between AMERICAN FINANCIAL GROUP, INC., on behalf of itself and
+certain of its affiliates providing services described herein (collectively, the
+"Supplier") and Infinity Property and Casualty Corporation, on behalf of itself
+and the subsidiaries listed on Appendix I attached hereto (collectively, the
+"Customer").
+
+                                   WITNESSETH:
+
+         WHEREAS, Supplier has personnel and resources to provide certain
+information, communication, financial, regulatory compliance and other services
+to Customer; and
+
+         WHEREAS, Customer desires Supplier to provide, and Supplier has agreed
+to provide, on the terms and conditions set forth in this Agreement, such
+services for Customer's personal lines insurance business (the "Business"), a
+portion of which includes the personal lines agency book of business written by
+subsidiaries of Supplier and reinsured by Customer (the "Reinsured Business")
+pursuant to the Reinsurance Agreement between the parties effective January 1,
+2003 (the "Reinsurance Agreement");
+
+         NOW, THEREFORE, in consideration of the foregoing and the mutual
+promises set forth in this Agreement, the parties, intending to be legally
+bound, hereby agree as follows:
+
+         Section 1. Definitions. Capitalized terms used herein and not otherwise
+defined in this Agreement shall have the meaning given to them in the
+Reinsurance Agreement.
+
+         "Affiliate" of a specified Person means a Person that (at the time when
+the determination is to be made) directly, or indirectly through one or more
+intermediaries, controls, or is controlled by, or is under common control with,
+the specified Person. As used in the foregoing sentence, the terms "control"
+(including, with correlative meaning, the terms "controlling," "controlled by"
+and "under common control with") means the possession, directly or indirectly,
+of the power to direct or cause the direction of the management and policies of
+a Person, whether through the ownership of voting securities, by contract or
+otherwise.
+
+         "Basic Costs" means the costs of performing the Services as further
+described in Section 6.1 of this Agreement.
+
+         "Basic Services" means and includes the computer processing,
+communication, financial, certain specific regulatory compliance and other
+services to be provided by Supplier as described in a Schedule 2.1 attached to
+this Agreement.
+
+         "Business Hours" means the hours (in Cincinnati, Ohio time) ranging
+from 7:00 a.m. to 8 p.m. Monday through Friday and 7:00 a.m. to 5 p.m. on
+Saturday, excluding Supplier's U.S. holidays. Such hours are subject to change
+by Supplier upon ten (10) days prior written notice to Customer, provided that
+Supplier is subject to any such change. Business Hours only applies to
+applications in production.
+
+
+
+<PAGE>
+
+         "Confidential Information" has the meaning set forth in Section 8 of
+this Agreement.
+
+          "Customer Equipment" means and includes computer hardware (including
+desktops/laptops and peripherals), telecommunications equipment and other
+equipment, materials and media and which have been purchased, developed or are
+otherwise owned or licensed by Customer.
+
+         "Customer Software" means and includes (a) Software programs installed
+on or after the date of this Agreement on Equipment or Customer Equipment which
+are used in connection with the Reinsured Business and which have been developed
+by or are otherwise owned or licensed by Customer and (b) those additional
+Software programs from time to time developed or acquired or licensed by
+Customer primarily for the Reinsured Business and installed for use pursuant to
+this Agreement.
+
+         "Damages and Claims" means all losses, claims, damages, costs,
+expenses, fines and penalties, liabilities and judgments, including, without
+limitation, court costs, expenses and attorneys and experts fees reasonably
+incurred.
+
+         "Data" means the records, data, files, input materials, reports, forms,
+manuals, filings (and any other written communications with regulatory bodies or
+governmental agencies) and other data used in connection with the conduct of the
+Business.
+
+         "Documentation" means any and all written, printed and computer sourced
+materials, books and records, including, but not limited to, training manuals,
+installation and operating proceedings, job control (JCL) program and system
+diagrams, record and file layouts, filings, forms, statistical compilations and
+reports used in connection with the conduct of the Reinsured Business.
+
+         "Employee" means any individual who is an employee of another Person.
+
+         "Enhancements" means, with respect to any Services, any and all
+corrections, modifications, upgrades or enhancements which are implemented or
+installed.
+
+         "Enterprise Contracts" means Supplier's enterprise contracts with third
+parties for products or services that include Customer (or certain of its
+Affiliates) in the scope of the contract or through which Customer (or certain
+of its Affiliates) have contracted for products or services from time to time,
+including but not limited to the contracts listed on Schedule 9.2/9.3.
+
+         "Equipment" means such computer hardware (including desktops/laptops
+and peripherals), telecommunications equipment and other equipment and materials
+utilized by Supplier from time to time to provide Services to Customer under
+this Agreement or in connection with the provision of such Services. Equipment
+does not include Customer Equipment. Unless explicitly stated elsewhere in this
+Agreement, all Equipment purchased or supplied by Supplier shall be considered
+the sole property of Supplier.
+
+         "Exclusive Results" has the meaning set forth in Section 7.1.1 of this
+Agreement.
+
+         "Independent Contractor" has the meaning set forth in Section 2.4 of
+this Agreement.
+
+
+
+                                       2
+<PAGE>
+
+         "Initial Implementation Services" has the meaning set forth in Section
+2.2.1 of this Agreement.
+
+         "Law" means any law, ordinance, rule or regulation enacted or
+promulgated, or any order issued or rendered by, any governmental entity.
+
+         "Licensed Software" means and includes any Software which is licensed
+to Supplier and which is used and necessary in connection with the conduct of
+the Business in the ordinary course of business and otherwise to perform any of
+the Services.
+
+         "Non-Exclusive Results" has the meaning set forth in Section 7.1.2 of
+this Agreement.
+
+         "Pass Through Charges" means those expenses not otherwise covered by
+the Reinsurance Agreement that are incurred on or after the date of this
+Agreement as direct costs to the Business (consistent with past practice), or
+expenses otherwise paid by Supplier on Customer's behalf pursuant to this
+Agreement including, but not limited to, charges for leased furniture, fixtures
+and equipment; certain software license fees including all fees related to
+products used primarily in the Business; a pro-rata share of applicable fees and
+charges under contracts for products or services benefiting both Supplier and
+Customer (or any of their affiliates); agency license and appointment fees;
+agency commissions; expenses associated with boards, bureaus and associations;
+motor vehicle registration (MVR) reports; postage and printing costs; long
+distance, cellular phone and remote data network access charges; video
+conferencing charges, auto inspection fees; regulatory rate actions and excess
+profit refunds; sales and use taxes and surcharges applicable to the Business;
+reasonable travel and travel related expenses of Supplier personnel performing
+the Services; certain outside vendor fees and any other items specifically
+identified as Customer's responsibility in this Agreement and accompanying
+schedules. To the extent any Pass Through Charges relate to a period of time
+beginning prior to the date of this Agreement and ending after the date of this
+Agreement, Pass Through Charges shall include Customer's pro rata share of such
+charges. Notwithstanding the foregoing, Pass Through Charges shall be invoiced
+as separate items and shall not include items reflected in any Basic Costs. In
+addition, as part of their duties under Section 2.3, the Primary Contacts of
+Supplier and Customer shall consult on the appropriate methodology for
+allocation of charges as soon as practicable with respect to existing contracts
+with third parties affecting both Supplier and Customer and prior to contract
+inception with respect to any such contracts in the future.
+
+         "Reinsurance Agreement" has the meaning set forth in the recitals of
+this Agreement.
+
+         "Reinsured Business" has the meaning set forth in the recitals of this
+Agreement.
+
+         "Subsidiary" means and includes those entities that are directly, or
+indirectly through one or more intermediaries, controlled by another entity. The
+term "controlled by" means the possession, directly or indirectly, of the power
+to direct of cause the direction of the management and policies of an entity,
+whether through the ownership of voting securities, by contract or otherwise.
+
+         "Supplemental Services" has the meaning set forth in Section 2.1 of
+this Agreement.
+
+
+                                       3
+<PAGE>
+
+         "Supplier's Software" means and includes the Software programs owned by
+Supplier used and necessary in the conduct of the Business.
+
+         "Services" means and includes the Basic Services and the Transition
+Services (including the Initial Implementation Services).
+
+         "Software" whether used separately or as part of any other defined
+term, means any program, spreadsheet or algorithm, whether in source code or
+object code, and in whatever form or media stored, used in connection with the
+computer processing and storage of Data, and any Enhancements thereto.
+
+         "Term" means the period beginning on the date of this Agreement and
+continuing until the Termination Date.
+
+         "Termination Date" means the date which is the earlier of (a) the final
+expiration of the Term of this Agreement for all Services or (b) the effective
+date of termination specified in any notice of termination delivered pursuant to
+Section 9 of this Agreement.
+
+         "Transition Procedures" has the meaning set forth in Section 2.2.1 of
+this Agreement.
+
+         "Transition Services" has the meaning set forth in Section 2.2.2 of
+this Agreement.
+
+         Section 2. The Services. During the Term, subject to the remaining
+terms and conditions of this Agreement, Supplier shall perform and provide,
+and cause its Subsidiaries to perform and provide, to Customer and Customer's
+Subsidiaries all of the Basic Services and the Transition Services to be
+provided pursuant to this Agreement.
+
+         2.1 Basic Services. Supplier shall perform and provide to Customer all
+of the Basic Services (a) described in Schedule 2.1(a) with respect to
+non-employee related services for the Reinsured Business, (b) described in
+Schedule 2.1(b) with respect to non-employee related services for the
+non-Reinsured Business, (c) described in Schedule 2.1(c) with respect to certain
+holding company services performed for Customer, (d) described in Schedule
+2.1(d) with respect to employee related services for the Business and (e)
+described in Schedule 2.1(e) with respect to technology related services for the
+Business, all in a manner to enable Customer to operate the Business in the
+ordinary course of business consistent with past practice and in accordance with
+Section 2.9. The Primary Contacts of Supplier and Customer shall consult with
+one another to resolve any ambiguity concerning the scope of Basic Services
+provided under this Agreement. This Agreement is intended to cover only Basic
+Services and Transition Services (as described below). Any other service (a
+"Supplemental Service") shall be outside of the scope of this Agreement and
+shall only be performed after execution of a mutually agreed upon work order.
+Pricing for any Supplemental Service shall be based on Supplier's costs then in
+effect, taking into account rates for any comparable Basic Service categories
+provided under this Agreement.
+
+         2.2 Transition Services.
+
+             2.2.1 Supplier will use reasonable efforts to provide for the
+continuity of service to the Business after the date of this Agreement to ensure
+that Customer can continue to operate the Business in the ordinary course of
+business as it exists on the date of this Agreement.
+
+
+                                       4
+<PAGE>
+
+These efforts include performing those services necessary (as determined by the
+Primary Contacts) to be able to support the provision of any Basic Services as
+well as any services necessary to segregate Customer's operations from
+Supplier's to enable Customer to operate independently ("Initial Implementation
+Services"). Supplier will work in good faith with Customer to complete the
+Initial Implementation Services as soon as practicable after the date of this
+Agreement.
+
+               The parties agree that legal services performed by Supplier to
+effect the legal transfer of Great Texas County Mutual Insurance Company, Great
+American Contemporary Insurance Company, El Aguila Compania de Seguros, S.A. de
+C.V., Insurance (GB) Limited and Leader National Agency of Texas, Inc. through a
+contribution and/or dividend process, including securing required regulatory
+approvals, shall be treated as Initial Implementation Services and shall not be
+subject to charge under this Agreement.
+
+               The Parties' Primary Contacts shall communicate regularly
+regarding the time and effort expended in providing Initial Implementation
+Services, with the understanding that such services are to be transitory in
+nature. Any request or series of requests for Initial Implementation Services
+after the date that is three months after the date of this Agreement requiring
+more than 20 hours of effort in the aggregate must be agreed to in writing by
+the Primary Contacts and shall be subject to charge as either a Basic Service at
+rates set forth in the applicable Schedule 2.1 or as a Supplemental Service at
+rates determined in accordance with the last sentence of Section 2.1.
+
+               2.2.2 Supplier and Customer will also cooperate in developing a
+series of practices and procedures to be performed in connection with the
+termination of this Agreement (whether as a result of the expiration of the Term
+of this Agreement or an earlier termination as provided for in Section 9 of this
+Agreement), which procedures (the "Transition Procedures") shall be designed to
+satisfy Customer's reasonable requirements for transition of Services at
+termination in such a manner that the performance of Services and the Business
+are not adversely disrupted. All written Transition Procedures agreed to in
+writing by the parties hereto shall be deemed to be amendments to this
+Agreement, to be considered a part hereof as if fully incorporated herein.
+
+               2.2.3 The "Transition Services" shall include (a) the Employees
+of Supplier in (i) the development, review, and maintenance of Transition
+Procedures and (ii) the performance and execution of the Transition Procedures
+as contemplated by Section 2.3 of this Agreement and (b) all computer
+processing, communication, financial, regulatory compliance and other services
+provided in connection therewith which are not otherwise part of the Basic
+Services, but shall exclude any programming of software (unless otherwise
+agreed) performed with respect to Transition Services in connection with the
+termination of this Agreement.
+
+               2.2.4 The Transition Procedures shall expressly include (a)
+detailed plans for the orderly removal and transfer between the parties of
+assets which are the respective property of the other or to which the other has
+no further right of use upon any termination, (b) plans for the orderly
+transition of the Reinsured Business to Customer's paper, (c) an opportunity for
+Customer to run, during the Term, the new information system to be utilized by
+it after the Termination Date on a parallel basis with the system provided
+herein, to ensure an orderly
+
+
+                                       5
+<PAGE>
+
+transition, provided, however, Customer shall run the new information system on
+its system without any material disruption to or interference with Supplier's
+system and (d) access to the then existing Documentation and reasonable access
+in Supplier's sole discretion to personnel engaged in the operation of
+Supplier's information systems relating to the Services to support the
+transition to Customer's systems.
+
+               2.2.5 Except with respect to any Initial Implementation Services
+described in Section 2.2.1, all costs and expenses of performing Transition
+Services under this Section 2.2, specifically including software programming in
+conjunction with proper formatting and transfer of data under Section 2.6.3,
+shall be billed on a time and materials basis in accordance with Section 6.1.
+
+         2.3 Single Point of Contact. Supplier hereby designates Robert E. Maly
+and Customer hereby designates Roger Smith to be the Primary Contact (the
+"Primary Contact") that the other party shall contact regarding any matter
+relating to this Agreement. The Primary Contacts will endeavor to meet at least
+quarterly to review contract issues, including the proper allocation of Pass
+Through Charges (as described in the definition thereof) and the scope of Basic
+Services provided under Section 2.1, and will specifically address any possible
+elimination of Services under Section 9.2. In the event that the Primary Contact
+designated by Customer or Supplier is unresponsive or otherwise unsatisfactory
+to the other party in its reasonable judgment, Customer and Supplier agree to
+replace the applicable designated Primary Contact upon receipt of a written
+request setting forth the reasons for removal and signed by an officer of the
+party requesting removal. Neither Customer nor Supplier shall request removal of
+a Primary Contact for any reason that would give rise to any violation of law.
+
+         2.4 Additional Operating Requirements. Provided that Supplier is able
+to provide the Services to Customer at the quality levels set forth in Section
+2.9, Supplier shall have the right from time to time, acting in good faith and
+with reasonable discretion in accordance with its own internal policies and
+procedures then in effect, and without the prior approval or consent of
+Customer, to determine which Equipment (or other resources used to provide the
+Services) shall be used to perform the Services.
+
+         2.5 Third Parties. Supplier may use qualified independent contractors,
+consultants and independent third parties (such independent contractors or other
+independent third parties collectively referred to as "Independent Contractors")
+to perform any of the Services. The applicable schedule will state if any such
+charges for Basic Services may qualify as Pass Through Charges. To the extent
+practicable, Supplier shall advise Customer of any other third party fees to be
+considered Pass Through Charges in connection with any Basic Services or
+Transition Services prior to contracting for such services and shall attempt to
+secure Customer's approval thereof. Customer agrees to be responsible for
+contractual commitments made by it or its Affiliates under any Enterprise
+Contracts. Specifically with respect to the VESTA Contract (as identified on
+Schedule 9.2/9.3), an existing Enterprise Contract for telecommunications
+services and equipment benefiting Supplier and Customer, Customer acknowledges
+its responsibilities and agrees to sign a "Specially Designated Affiliate User"
+joinder agreement (substantially in the form contemplated by the VESTA Contract)
+that will include provisions ensuring Customer's direct assumption of financial
+responsibility for its proportionate share of
+
+
+                                       6
+<PAGE>
+
+charges and minimum annual commitments for all service categories contemplated
+by the VESTA Contract at the time of its execution.
+
+         2.6 Equipment, Customer Equipment, Facilities and Information.
+
+            2.6.1 During the Term of this Agreement, (i) Supplier shall provide
+and maintain, as part of the Basic Services (subject to the limitations in
+Schedule 2.1), all Equipment, Software, and related facilities and materials
+(other than those which are the property, or are otherwise under the custody or
+control of Customer, including without limitation Customer Equipment and
+Customer Software) required for the performance of the Services in accordance
+with the terms of this Agreement and specifically at the standard of care set
+forth in Section 2.9, reasonable wear and tear excepted and (ii) Customer shall
+maintain in Customer's offices (or any successor location) during the Term, at
+no expense to the Supplier, all Customer Equipment and Customer Software
+required in order to permit the Supplier to provide Services to Customer under
+this Agreement. Customer Equipment and Customer Software shall be upgraded
+consistent with reasonable business practices and Supplier's practices for
+Services provided. Any Data migration or any implementation, maintenance or
+Enhancements of Customer Equipment or Customer Software provided by Supplier
+will be at an additional cost to be negotiated by Customer and Supplier at the
+time of delivery.
+
+            2.6.2 Customer shall provide to Supplier's Employees and Independent
+Contractors such access to Customer's facilities, Customer Equipment, Software
+and personnel as may be reasonably necessary to permit Supplier to perform the
+Services in a manner consistent with the requirements established by this
+Agreement.
+
+            2.6.3 In conjunction with this Agreement and the Reinsurance
+Agreement, Customer shall furnish to Supplier all instructions, data and
+information in its possession, and take such other steps as may be reasonably
+determined by Supplier, including the general performance requirements described
+in Schedule 2.6.3, to be necessary (i) for Supplier to furnish the Services,
+(ii) for Supplier to comply with all applicable regulatory and statutory
+requirements or (iii) to maintain legal and regulatory compliance with respect
+to the Reinsured Business. Customer and Supplier shall agree upon the format of
+any information to be submitted to Supplier, and Customer shall maintain and
+promptly provide in an accurate format all such information and shall promptly
+correct, at Customer's sole cost, any errors identified by Supplier. Supplier
+may rely upon any instructions or information provided by Customer and shall
+incur no liability as a result of either incorrect data or its reasonable
+reliance on such instructions, information or data. This provision shall survive
+the termination of this Agreement.
+
+         2.7 Compliance with Law. Supplier and Customer shall use reasonable
+care to ensure material compliance with all applicable Laws in connection with
+their respective obligations hereunder.
+
+         2.8 Non-disruption of Services. Other than for disruptions scheduled
+pursuant to Section 3 or excused pursuant to Section 12.6, Supplier shall
+provide and perform the Services throughout the Term.
+
+
+                                       7
+<PAGE>
+
+         2.9 Standard of Care. Supplier covenants to provide the Services at
+standards and with a level of performance and scope in all events consistent
+with the quality and level of performance and scope it would use in providing
+similar services to itself or its Affiliates and consistent with the service
+levels and workflow processes provided to the Business during the immediately
+preceding calendar year.
+
+       Section 3. Scheduled Interruptions. If, in addition to regularly
+scheduled outage time for maintenance and backup, Supplier determines during the
+Term to modify, repair or replace any Equipment or Software or other resources
+used to perform the Services in such a manner as to require one or more
+scheduled interruptions of Supplier's ability to perform the Services, Supplier
+shall give reasonable advance written notice to Customer and cooperate in good
+faith to arrange scheduling and similar issues in order to minimize the
+disruption of Customer's ongoing business operations.
+
+       Section 4. Use of Equipment and Software.
+
+         4.1 Existing Equipment and Software
+
+            4.1.1 Supplier shall assist Customer in obtaining any Licensed
+Software licenses needed for the provision of Services hereunder and required by
+the Licensed Software vendors. Under certain circumstances Customer may be
+required to obtain such licenses. Customer shall hold Supplier harmless from and
+against any Damages or Claims incurred by Supplier as a result of Customer's
+failure to obtain or maintain any licenses for the Licensed Software.
+
+            4.1.2 In the event that Supplier obtains any licenses or pays any
+fees, expenses or costs on behalf of Customer with respect to the continued use
+of Software in the performance of the Services, Supplier shall prepare an
+invoice and other supporting Documentation with respect to such amounts and
+Customer shall reimburse Supplier for all such amounts within 30 days of invoice
+date, unless Customer is disputing such invoice in good faith in accordance with
+Section 6.8.
+
+         4.2 Customer Equipment and Customer Software
+
+            4.2.1 Use of Customer Equipment and Customer Software. Supplier
+shall use all Customer Equipment and Customer Software installed and implemented
+pursuant to this Agreement exclusively for the performance of Services and for
+no other purpose; provided Supplier and its Affiliates shall not be restricted
+from using Customer Software for which they independently acquire or previously
+possess the necessary rights. Supplier shall not be responsible to Customer for
+any Damages and Claims resulting from the installation or implementation of any
+Customer Equipment and/or Customer Software unless caused by the gross
+negligence or willful misconduct of Supplier, its employees, agents or
+contractors.
+
+            4.2.2 Customer Payments In addition to amounts payable by Customer
+pursuant to Section 4.1, Customer shall also be responsible for the
+reimbursement to Supplier of certain incremental costs approved by Customer
+(after any required consultation between the Primary Contacts) associated with
+the maintenance by Supplier of Software which supports any of the Licensed
+Software described in Section 4.1. In the event any Enhancement or release of
+
+
+                                       8
+<PAGE>
+
+any such Licensed Software described in Section 4.1 is required by the licensor
+thereof to be installed by Supplier, Customer shall reimburse Supplier the
+amounts reasonably required to upgrade the related Licensed Software to permit
+it to run satisfactorily with the new Enhancement or release of the Software.
+
+            4.3 DISCLAIMER. SUPPLIER, AS TO ANY LICENSED SOFTWARE OR ANY OTHER
+SOFTWARE PROVIDED BY IT OR ANY OF ITS AFFILIATES HEREBY EXPRESSLY DISCLAIMS ALL
+REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, RESPECTING SUCH SOFTWARE,
+INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS OR WARRANTIES AS TO
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+         Section 5. LIMITATION OF LIABILITY. NEITHER PARTY SHALL BE LIABLE TO
+THE OTHER FOR SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR
+PUNITIVE DAMAGES OR FOR ANY FORM OF DAMAGES OTHER THAN DIRECT DAMAGES ARISING
+OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SUBJECT MATTER HEREOF.
+NOTWITHSTANDING THE FOREGOING, THE LIMITATIONS OF LIABILITY IN THIS AGREEMENT
+SHALL NOT APPLY TO LIMIT A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER THIS
+AGREEMENT OR DAMAGES ARISING SOLELY FROM FRAUD OR WILLFUL MISCONDUCT.
+
+         Section 6. Costs; Invoicing and Payments.
+
+            6.1 Basic Costs. Subject to the remaining terms and conditions of
+this Agreement, in consideration of the performance of the Services by Supplier,
+Customer shall pay Supplier on a monthly basis an amount for all Services
+calculated in accordance with each Schedule 2.1, in addition to any applicable
+Pass-Through Charges. The monthly invoice shall provide a detail of the
+Pass-Through Charges as well as the items listed on each Schedule 2.1. At each
+anniversary of this Agreement, Supplier shall apply a cost of living adjustment
+based on the U.S. Department of Labor Bureau of Labor Statistics Consumer Price
+Index for Cincinnati-Hamilton, OH-KY-IN to amounts set forth on each Schedule
+2.1 (except for Schedule 2.1e) as described therein. Such adjustment shall be
+effective on the first day of the ensuing month.
+
+            6.2 Transition Costs. Costs for Transition Services shall be
+included within the monthly invoice as described in Section 6.1. Transition
+Services shall be provided at rates based on Supplier's costs then in effect at
+the time of execution of an agreed upon work order for such Transition Services,
+taking into account rates for any comparable Basic Service categories provided
+under this Agreement. In connection with any Transition Services, subject to
+Section 2.5, Customer agrees to pay for any amounts incurred on its behalf that
+are charged by an Independent Contractor.
+
+            6.3 Method of Payment. Commencing April 1, 2003, Supplier shall
+invoice Customer on a monthly basis an amount equal to the sum of (a) the Basic
+Costs for the preceding month and (b) Pass Through Charges for the preceding
+month; provided, however, that the first invoice shall cover such costs and
+charges for the preceding three months. All undisputed
+
+
+                                       9
+<PAGE>
+
+amounts so invoiced will be due and payable 20 days after receipt of invoice.
+Any disputed amounts shall be paid upon resolution in accordance with Section
+6.8.
+
+            6.4 Late Payment Penalty. Subject to Section 6.8, if Customer fails
+to pay any invoice or other amount owed hereunder when due, Supplier may add an
+interest charge of 1% per month, or the maximum rate allowed by law if less, on
+the outstanding balance until paid in full.
+
+            6.5 Taxes. Customer shall pay all taxes that are applicable to or
+are measured directly by payments made under this Agreement, including without
+limit, sales, use, excise or value-added taxes; provided, however, that Supplier
+shall report and pay income taxes, if any, arising out of the payments made by
+Customer to Supplier under this Agreement. Supplier shall also pay all payroll
+taxes of its Employees providing Services under this Agreement.
+
+            6.6 Audit Rights. With five business days prior written notice from
+Customer, during reasonable business hours, Supplier shall make available its
+financial books and records pertaining to the Services in an organized manner to
+Customer to permit an efficient audit of the Pass-Through Charges; provided,
+that Customer shall only have one opportunity to audit any specific period of
+time and shall not be permitted to re-examine any prior audit materials unless
+any dispute involving such prior audit materials remains unresolved. Any audit
+shall be limited to a two week period of time, provided, however, that should
+Supplier fail to comply with Customer's reasonable requests in connection with
+such audit or otherwise fail to assist Customer in conducting such audit, the
+period of time for the audit shall be extended for as long as Customer, in good
+faith and in its reasonable discretion, determines is required to complete the
+audit. Customer shall only request an audit in good faith and with a reasonable
+basis to challenge Supplier's invoicing of Pass Through Charges (after
+discussion between the Primary Contacts) and shall endeavor not to request an
+audit under this Agreement more often than once every six months. All
+information provided in connection with an audit shall be treated as
+Confidential Information. If Supplier agrees with the results of the audit,
+Supplier shall pay to Customer the amounts of any discrepancies discovered in an
+audit conducted pursuant to this Section within two weeks of the conclusion of
+such audit. If Supplier does not agree with the result of the audit, Supplier
+shall, if required, pay the amounts of any discrepancies upon final resolution
+of the matters in accordance with Section 11 of this Agreement. Customer shall
+bear the costs of the audit, unless the audit shall discover a discrepancy to
+Customer's detriment greater than 5% in the amount of Pass-Through Charges
+claimed by Supplier under this Agreement versus the actual amount for any
+12-month period, in which case Supplier shall bear 75% of the cost of the audit
+subject to a maximum amount of $10,000.
+
+            6.7 Offsets. No party shall have any right to offset amounts due
+under this Agreement against any sums owed to it by the other or their
+respective Affiliates, without the express prior written consent of the party
+against whom such right of offset is to be exercised.
+
+            6.8 Disputed Payments. Disputes concerning payments owed under this
+Agreement that cannot be resolved by the parties shall be resolved following the
+guidelines set forth in Section 11 of this Agreement. In addition, notice of any
+disputed invoiced amounts shall be communicated orally by Customer to Supplier
+within 20 days of receipt of invoice (except for the results of audits conducted
+pursuant to Section 6.6), with the written submission required by
+
+
+                                       10
+<PAGE>
+
+Section 11 of this Agreement required within 30 days of receipt of invoice.
+Payments owed by either party and resolved prior to formal arbitration
+proceedings shall be paid within 15 days of resolution. Payments owed by either
+party and resolved only after formal proceedings, as set forth under Section 11
+of this Agreement, shall be paid on the basis determined by the formal
+proceeding.
+
+    Section 7. Ownership of Property and Data.
+
+       7.1 Copyright.
+
+            7.1.1 Exclusive Results. Supplier expressly acknowledges that all
+rights of any kind and character whatsoever in and to all Data and all of the
+products resulting from the Services performed for Customer during the Term of
+and pursuant to this Agreement, which pertain exclusively to the Business (the
+"Exclusive Results"), including, without limitation, all compilations of such
+Data created by Supplier as well as such Data previously owned by Supplier
+shall, from the inception of creation, be owned by Customer for use in any
+manner or media, whether now known or hereinafter discovered, throughout the
+world in perpetuity. The parties hereby acknowledge and agree that, for
+copyright purposes, the Exclusive Results were, are and shall be deemed "a work
+made for hire" under the Copyright Act of 1976, as amended, 17 U.S.C. 101 et.
+seq. (the "Copyright Act"). The Exclusive Results and any other works derived
+from and/or embodying the Exclusive Results which pertains exclusively to the
+Business shall be the sole and exclusive property of Customer, which shall have
+all rights of ownership therein and incident thereto. To the extent that the
+arbitration panel described in Section 11 of this Agreement (or, if required, a
+court of competent jurisdiction) subsequently determines that the Exclusive
+Results are not properly characterized as "works for hire" under the Copyright
+Act, Supplier hereby irrevocably and absolutely assigns, conveys and grants to
+Customer all right, title and interest in and to the Exclusive Results
+(including but not limited to all copyrights and any renewals thereof), and any
+ideas and information embodied therein, in perpetuity throughout the world.
+Regardless of whether the Exclusive Results are deemed to be "a work for hire"
+or not, Customer hereby grants to Supplier a non-exclusive, nontransferable,
+worldwide, perpetual license to use and/or modify the Exclusive Results. The
+terms of this paragraph shall survive the termination or expiration of this
+Agreement.
+
+            7.1.2 Non-Exclusive Results. Customer expressly acknowledges that
+all rights of any kind and character whatsoever in and to all Data and all of
+the products resulting from the Services performed for Customer during the Term
+of and pursuant to this Agreement, which pertain to the business of Supplier and
+its Affiliates, as well as the Business (the "Non-Exclusive Results"),
+including, without limitation, all compilations of Data created by Supplier,
+Data previously owned by Supplier, as well as any other works derived therefrom
+or any work embodying the Non-Exclusive Results (and any works that are derived
+from or embodying the Exclusive Results, but which do not pertain exclusively to
+the Business) shall be the sole and exclusive property of Supplier. Customer
+acknowledges and agrees that it shall not claim or attempt to claim, any
+ownership or other intellectual property rights in any of the Non-Exclusive
+Results except as provided under this Section 7.1.2. Supplier hereby grants to
+Customer and its successors pursuant to Section 12.7 hereof a non-exclusive,
+nontransferable, worldwide, perpetual license to use and/or modify the
+Non-Exclusive Results, excluding, however, the Non-
+
+
+                                       11
+<PAGE>
+
+Exclusive Results listed on Schedule 7.1.2. The terms of this paragraph shall
+survive the termination or expiration of this Agreement.
+
+        7.2 Other Interests. Subject to Section 7.1 hereof, Customer
+acknowledges that nothing contained in this Agreement shall vest in Customer,
+nor shall Customer claim or attempt to claim, any ownership or other
+intellectual property rights in any Data of Supplier or in any of Supplier's
+Software and Equipment (other than rights of use contemplated by Sections 4 and
+7.1 of this Agreement and Customer Equipment). Subject to Section 7.1 hereof,
+Supplier acknowledges that nothing contained in this Agreement shall vest in
+Supplier, nor shall Supplier claim or attempt to claim, any ownership or other
+intellectual property rights in any Customer Equipment or Customer Software, if
+any (other than rights of use contemplated by Sections 4 and 7.1 of this
+Agreement).
+
+        7.3 License Agreement. Simultaneously with the execution of
+this Agreement, Supplier and Customer shall enter into a License Agreement
+granting to Customer the right to use certain intangible and intellectual
+property assets of Supplier, including (a) a non-exclusive, royalty free,
+limited license to use the name "Great American" in connection with (i) the
+Reinsured Business during the term of the Reinsurance Agreement and (ii)
+servicing the Direct Business of Supplier as described in a separate services
+agreement, provided that Customer shall not misappropriate, misrepresent or
+otherwise infringe, abuse or diminish the value of the name Great American, and
+(b) a perpetual, non-exclusive, royalty free license to the "Driver Club"
+product and associated intellectual property rights.
+
+    Section 8. Confidentiality.
+
+        8.1 Definition. For purposes of this Agreement, the term "Confidential
+Information" means the following items, whether currently existing or created in
+the future:
+
+            8.1.1 all knowledge or information concerning the Business or
+concerning the proprietary information of the Supplier or Customer, or their
+respective Affiliates, which is not already available to the public, such as
+internal operating procedures; investment strategy; sales data and customer
+lists; financial plans, projections and reports; insurance programs, plans and
+products; Exclusive Results and Non-Exclusive Results.
+
+            8.1.2 all knowledge or information concerning assets owned, leased,
+licensed and/or developed by or for the Supplier or Customer, or their
+respective Affiliates, and not available to the public, such as computer
+systems, programs, Software and devices, plus information about the design,
+methodology and Documentation relating to such assets;
+
+            8.1.3 information about or personal to insureds, clients, agents,
+Employees or applicants (for employment, products or services) of the Supplier
+or Customer or their respective Affiliates or otherwise relating to the
+Business;
+
+            8.1.4 information, materials, products or any other tangible or
+intangible assets in the possession or under the control of the Supplier or
+Customer, or their respective Affiliates, which is proprietary to, or
+confidential to or about any other Person; and
+
+            8.1.5 records and repositories of the foregoing, however maintained.
+
+
+
+                                       12
+<PAGE>
+
+The foregoing notwithstanding, "Confidential Information" shall not be
+considered to include information which (i) was publicly known and made
+generally available in the public domain prior to the time of disclosure by the
+disclosing party; (ii) becomes publicly known and made generally available after
+disclosure by the disclosing party to the receiving party through no action or
+inaction of the receiving party; (iii) is already in the possession of the
+receiving party at the time of disclosure by the disclosing party as shown by
+the receiving party's files and records immediately prior to the time of
+disclosure; (iv) is obtained by the receiving party from a third party without a
+breach of such third party's obligations of confidentiality; (v) is
+independently developed by the receiving party without use of or reference to
+the disclosing party's Confidential Information, as shown by documents and other
+competent evidence in the receiving party's possession; (vi) is required to be
+disclosed by the receiving party to a regulatory authority or (vii) is otherwise
+required by law to be disclosed by the receiving party, provided that the
+receiving party gives the disclosing party prompt written notice of such
+requirement prior to such disclosure and assistance in obtaining an order
+protecting the information from public disclosure. The failure to mark any
+material or information "confidential" shall not affect the confidential nature
+thereof.
+
+            8.2 Obligations of Customer. Customer shall, and shall cause its
+Affiliates to, hold all Confidential Information pertaining or belonging to
+Supplier or its Affiliates, including, but not limited to, information relating
+to third party owned software, in the strictest confidence at all times, making
+no use thereof other than in connection with this Agreement or the negotiations
+between the parties to this Agreement. Furthermore, Customer shall not, without
+the prior approval of an appropriate officer of Supplier, release any such
+Confidential Information to any Person not directly involved in the activities
+contemplated under this Agreement. However, any such Confidential Information
+may be disclosed to Persons employed or retained by Customer who are directly
+involved in the activities contemplated hereby, it being understood that, in any
+event, Customer shall be responsible for any breach of this Section 8 by any
+such Person. Upon reasonable request by Supplier, Customer shall execute a
+confidentiality or nondisclosure agreement in favor of any third party software
+vendor and shall cause any Person employed or retained by it to sign a form of
+confidentiality agreement previously approved by Supplier.
+
+            8.3 Obligations of Supplier. Supplier shall, and shall cause its
+Affiliates to, hold all Confidential Information pertaining or belonging to
+Customer, or any of its Affiliates, in the strictest confidence at all times,
+making no use thereof other than in connection with this Agreement or the
+negotiations between the parties to this Agreement. Furthermore, without the
+prior approval of an appropriate officer of Customer, Supplier shall not, and
+shall not permit its Affiliates to, release any Confidential Information
+pertaining or belonging to Customer, or any of its respective Affiliates, to any
+Person not directly involved in the activities contemplated under this
+Agreement. However, any such Confidential Information may be disclosed to
+Persons employed or retained by Supplier who are directly involved in the
+activities contemplated hereby, it being understood that, in any event, Supplier
+shall be responsible for any breach of this Section 8 by any such Person.
+
+            8.4 Relief. Each party agrees that if the arbitration panel
+described in Section 11 herein determines that the receiving party has breached,
+or attempted or threatened to breach, any of its confidentiality obligations to
+the disclosing party or the disclosing party's proprietary
+
+
+                                       13
+<PAGE>
+
+rights, the disclosing party will be entitled to obtain appropriate injunctive
+relief and other measures restraining further, attempted or threatened breaches
+of such obligations.
+
+    Section 9. Term and Termination.
+
+        9.1 Term. The Term of this Agreement shall commence on the date of this
+Agreement and shall continue for a three-year period ending on the third
+anniversary of this Agreement.
+
+        9.2 Mutual Termination of Services. The parties contemplate that many
+of the Services will be gradually eliminated throughout the Term and agree to
+the following procedures for eliminating a specific Service from the scope of
+this Agreement:
+
+            9.2.1 At any time, either of the parties' Primary Contacts may
+notify the other (which notice must be in writing) that a particular Service
+listed on an applicable Schedule 2.1 is no longer needed to be provided and can
+be eliminated (including the associated Basic Costs, if inapplicable to any
+remaining Services), effective as of the first day of the ensuing month or a
+different period if mutually agreed to by the parties. If the Primary Contacts
+agree that a particular Service or particular Services (and the associated Basic
+Costs) can be eliminated, then they will promptly execute a service elimination
+form, in the form attached hereto as Appendix II (each, an "Elimination Form").
+Each party represents and warrants that their respective Primary Contacts shall
+have the authority to execute an Elimination Form or the Final Elimination Form
+(as defined below), and such document shall be binding on the party; provided,
+however, that no termination affecting any Enterprise Contract specifically set
+forth on Schedule 9.2/9.3 shall be effective until the end of such contract's
+then-current term, unless otherwise agreed by Supplier. Upon execution, all
+Elimination Forms will amend the remaining Services (and associated Basic Costs)
+obligations of the parties as described herein.
+
+            9.2.2 Except as expressly provided in an Elimination Form, such form
+is not intended to modify, eliminate or alter any other Services (or associated
+Basic Costs) obligation of the parties and in no event shall it modify,
+eliminate or alter any other obligations, or any representations or warranties
+of the parties.
+
+            9.2.3 The parties anticipate that the parties will gradually
+diminish the Services obligations. If all remaining Services are eliminated,
+then that Elimination Form will be deemed to be the final one, must indicate the
+same, and will terminate the Services obligations (and all associated Basic
+Costs obligations) pursuant to this Agreement, effective at the end of the Term
+or a shorter period, if mutually agreed to by the parties (the "Final
+Elimination Form").
+
+        9.3 Termination by Customer. Except as provided below in this Section,
+in addition to its rights under Section 9.2, Customer shall have the right at
+any time, upon 180 days written notice to Supplier, to terminate the obligation
+of Supplier to perform any or all of the Services; provided, however, that no
+termination affecting any Enterprise Contract specifically set forth on Schedule
+9.2/9.3 shall be effective until the end of such contract's then-current term,
+unless otherwise agreed by Supplier. Upon receiving any such notice, Supplier
+shall, subject to the foregoing proviso, (a) terminate performance in accordance
+with the terms specified in such notice and (b) cooperate with Customer in
+accordance with any Transition Procedures related to
+
+
+                                       14
+<PAGE>
+
+the Services being terminated to assure that performance of such Services may be
+continued by Customer (or its designee) without adverse disruption to the
+Business. Any such Transition Procedures shall account for Customer's continuing
+obligation under Section 2.6.3 to provide timely and accurate data to Supplier.
+Customer and Supplier shall execute an Elimination Form for any termination
+under this Section.
+
+            9.4 Termination by Supplier. If Customer fails to pay undisputed
+invoiced amounts (including, without limitation, amounts determined pursuant to
+Section 11 to be owing to Supplier) within thirty (30) days after receipt of a
+written notice from Supplier, Supplier may terminate this Agreement. In the
+event of a failure of Customer to perform any other obligation under this
+Agreement for a period of thirty (30) days following receipt of Supplier's
+written notice, Supplier may terminate this Agreement provided that Supplier
+shall be required to pursue the dispute resolution process in Section 11 prior
+to exercising such right of termination.
+
+            9.5 Obligations upon Termination. Upon any termination pursuant to
+Section 9 of this Agreement, Customer shall have no further payment obligations
+relating to the terminated Services; provided, however, that no such termination
+relating to any or all of the Services shall relieve Customer of its obligation
+(a) to pay Supplier the remaining unpaid balance of any Basic Costs (including
+costs for any Transition Services) and Pass Through Charges due and payable
+through the date of termination, as well as any Pass Through Charges that are
+incurred during the Term but are not yet due and payable, (b) for contractual
+commitments made on behalf of Customer or its Affiliates under any Enterprise
+Contracts, or (c) to provide timely and accurate data to Supplier pursuant to
+Section 2.6.3. Provided Supplier has acted in good faith, Supplier shall not be
+required to perform its obligations under the Transition Procedures or any other
+obligations under this Agreement beyond the date which is 180 days after the
+Termination Date. Nothing contained in this Section 9 shall serve to relieve
+Supplier from its payment obligations to Customer under this Agreement,
+including, but not limited to, any amounts due Customer pursuant to Section 6,
+Section 10 or Section 11.
+
+    Section 10. Indemnification. Subject to the terms of Section 5, in addition
+to any indemnity either party may be expressly entitled to under other
+provisions of this Agreement, the parties shall be entitled to indemnification
+to the extent and upon the terms set forth in this Section 10.
+
+        10.1 Indemnification by Supplier. Supplier shall indemnify, defend and
+hold Customer and its Affiliates harmless from and against any fines and
+penalties (and any costs incident thereto) arising solely from Supplier's action
+or inaction under the terms of this Agreement. In addition, Supplier shall
+indemnify, defend and hold Customer harmless from and against any Damages and
+Claims incurred by reason of:
+
+            10.1.1 the breach by Supplier of this Agreement, including the
+representations, warranties and covenants of Supplier contained herein;
+
+            10.1.2 any Person acting on behalf of Supplier in connection with
+this Agreement, including without limitation, any fee claimed by such Person;
+
+
+                                       15
+<PAGE>
+
+            10.1.3 any claim that any Software utilized in providing the
+Services (other than Customer Software) violates any patent, trademark,
+copyright, trade secret or any other proprietary right of any Person, but in the
+case of any such Software, only to the extent that Supplier is able to
+successfully obtain indemnification therefor from the licensor thereof; or
+
+            10.1.4 the performance by Supplier of the Services under this
+Agreement to the extent caused by Supplier's gross negligence or willful
+misconduct.
+
+            10.2 Indemnification by Customer. Customer shall indemnify, defend
+and hold Supplier and its Affiliates harmless from and against any Damages and
+Claims incurred by reason of:
+
+            10.2.1 the breach by Customer of this Agreement, including the
+representations, warranties and covenants of Customer contained herein;
+
+            10.2.2 actions taken by Supplier in reliance upon written
+instructions or orders received from Customer in connection with the Services
+provided hereunder;
+
+            10.2.3 any Person acting on behalf of Customer in connection with
+this Agreement, including without limitation, any fee claimed by such Person;
+
+            10.2.4 any claim that any Customer Software violates any patent,
+trademark, copyright, trade secret or any other proprietary right of any Person,
+but in the case of any such Customer Software, only to the extent that Customer
+is able to successfully obtain indemnification therefor from the licensor
+thereof; or
+
+            10.2.5 subject to Section 10.1, the performance by Supplier of the
+Services under this Agreement unless caused by Supplier's gross negligence or
+willful misconduct.
+
+        10.3 Notification. Any Person entitled to assert a claim or demand for
+indemnification under this Section 10 (the "Indemnitee"), in order to secure
+indemnification with respect to this Agreement, shall notify the indemnifying
+party hereunder (the "Indemnitor") in writing of the existence of such matter
+within a reasonable time based on the facts and circumstances of the situation,
+including the necessities of court actions. The Indemnitee shall furnish to the
+Indemnitor promptly such information as the Indemnitor may reasonably request in
+respect to such claim or demand. The Indemnitor shall have the right (but not
+the obligation) at its sole expense and in the name of the Indemnitee, to
+compromise or defend any matter involving a third party (a "Third Party Claim")
+for which indemnification has been sought hereunder. The Indemnitee shall
+cooperate and cause its Affiliates to cooperate with the Indemnitor in
+compromising or defending any such Third Party Claim, provided the actual
+out-of-pocket expenditures (other than legal expenses) incurred in such
+cooperation shall be paid by the Indemnitor. After notice from an Indemnitor to
+an Indemnitee of its election to assume the defense of a Third Party Claim, such
+Indemnitor shall not be liable to such Indemnitee under this Section 10 for any
+legal expenses subsequently incurred by such Indemnitee in connection with the
+defense thereof; provided that such Indemnitee shall be entitled to participate
+in such defense and to employ counsel, at the Indemnitee's expense, to assist it
+therein. If the Indemnitor does not provide the Indemnitee with a written notice
+of its intention to defend the Third Party Claim
+
+
+
+                                       16
+<PAGE>
+
+or does not commence to compromise or defend such Third Party Claim within
+thirty (30) days after receipt of notice from the Indemnitee of the existence of
+such claim, or if the Indemnitor disputes its liability to the Indemnitee for
+any sum pursuant to this Section 10 or otherwise, the Indemnitee may defend or
+otherwise dispose of the Third Party Claim; provided that such Indemnitee shall
+not consent to entry of any judgment or enter into any settlement or compromise
+with respect to such Third Party Claim without the written consent of the
+Indemnitor (which consent shall not be unreasonably withheld).
+
+         Any other provision in this Section 10 notwithstanding, if an offer of
+settlement or compromise is received by an Indemnitor with respect to a Third
+Party Claim and such Indemnitor notifies the related Indemnitee in writing of
+such Indemnitor's willingness to settle or compromise such Third Party Claim on
+the basis set forth in such notice and such Indemnitee declines to accept such
+settlement or compromise, such Indemnitee may continue to contest such Third
+Party Claim, free of any participation by such Indemnitor, at such Indemnitee's
+sole expense. In such event, the obligation of such Indemnitor to such
+Indemnitee with respect to such Third Party Claim shall be equal to the lesser
+of (a) the amount of the offer of settlement or compromise which such Indemnitee
+declined to accept plus the amount of indemnifiable costs and expenses incurred
+by such Indemnitee prior to the date such Indemnitor notifies such Indemnitee of
+the offer to settle or compromise and (b) the actual out-of-pocket amounts such
+Indemnitee is obligated to pay as a result of such Indemnitee's continuing to
+contest such Third Party Claim.
+
+            10.4 Sole Remedy. This section states the entire obligation and sole
+remedy of each of the parties with respect to any claim of infringement.
+
+        Section 11. Informal Dispute Resolution; Arbitration. Customer and
+Supplier agree that any dispute, controversy, or claim arising out of or related
+to this Agreement (the "dispute") shall go through the following informal
+dispute resolution process prior to submission to arbitration. First, the
+dispute, together with all relevant documentation, shall be submitted in writing
+to a senior management representative of both Customer and Supplier and, in the
+case of a disputed payment under Section 6.8, within thirty (30) days after
+receipt of invoice. The representatives will negotiate in an effort to resolve
+the dispute without the necessity of any formal proceeding. If the
+representatives cannot resolve the dispute within fifteen business days of
+receipt of written notice, the dispute may be submitted to arbitration.
+
+         If any dispute, controversy or claim arising out of or related to this
+Agreement has not been resolved, the parties hereby agree to arbitration. All
+matters referred to arbitration shall be determined and settled according to the
+Commercial Arbitration Rules of the American Arbitration Association except as
+expressly set forth herein. Either party may demand arbitration by giving
+written notice to the other party stating the nature of the controversy.
+Arbitration shall be by three arbitrators, one of which is selected by each
+party and the third of which is selected by the two arbitrators so selected.
+Arbitrators shall have experience as insurance company executives. The
+arbitration shall be held in Cincinnati, Ohio or such other place as agreed upon
+by the parties. The arbitration panel shall allow discovery as is appropriate
+for the purposes of the arbitration in accomplishing fair, speedy and
+cost-effective resolution of disputes. The costs of arbitration, including,
+without limitation, reasonable attorney fees, shall be apportioned between the
+parties in the proportion to the amount of fault attributed to each party by the
+
+
+                                       17
+<PAGE>
+
+arbitration panel. There shall be no award of punitive, consequential or
+extra-contractual damages. The decision of the arbitration panel shall be final,
+conclusive and binding upon the parties and a judgment upon the award rendered
+by the arbitration panel may be entered into any court having jurisdiction
+thereof. The parties agree and stipulate that time is of the essence in
+conducting the arbitration of disputes. If either party unreasonably delays the
+process of the arbitration, the other party shall not be obligated to continue
+with the arbitration process, and shall have the right to legal review of the
+dispute.
+
+         Section 12. Miscellaneous.
+
+            12.1 Expenses. Except as otherwise provided in this Agreement, all
+costs and expenses incurred in connection with this Agreement and the Services
+contemplated hereby shall be paid by the party incurring such costs and
+expenses.
+
+            12.2 Notices. All notices and requests in connection with this
+Agreement shall be given to or made upon the respective parties in writing and
+shall be deemed given as of the day actually received if sent by telecopy,
+facsimile transmission, some other form of instantaneous transmission, overnight
+or faster private courier, or if otherwise hand-delivered, but if deposited in
+the United States mails, shall not be deemed delivered until three (3) days
+after being sent, with postage pre-paid, certified or registered, with return
+receipt requested and addressed as follows:
+
+            If to Customer:
+
+            Infinity Property and Casualty Corporation
+            2204 Lakeshore Drive
+            Birmingham, Alabama 35209
+            Attn.:  General Counsel
+
+            If to Supplier:
+
+            Great American Insurance Company
+            580 Walnut Street
+            Cincinnati, Ohio  45202
+            Attn:  General Counsel
+
+         Either party may change its address for notices by giving notice of
+same in the manner specified above.
+
+            12.3 Entire Agreement. This Agreement, together with the Schedules
+to this Agreement, and such further amendments as may be incorporated into this
+Agreement from time to time, constitutes the complete and exclusive statement of
+the parties' intentions with respect to the subject matter of this Agreement and
+supersedes all prior agreements and understandings, whether oral or in writing,
+with respect to the subject matter of this Agreement. Without limiting the
+foregoing, this Agreement constitutes the complete and exclusive statement of
+the parties' intentions with respect to any compensation or reimbursement for
+which Customer shall be liable to Supplier or any Affiliate reinsurer of
+Supplier in connection with any unallocated expenses for
+
+
+                                       18
+<PAGE>
+
+employees and ordinary overhead expenses such as salaries, annual retainers,
+office expenses and other fixed expenses of Supplier, including, without
+limitation, any expenses in connection with the foregoing contained in the
+Reinsurance Agreement.
+
+            12.4 Choice of Law. This Agreement shall be governed by and
+construed and enforced in accordance with the internal substantive laws of the
+State of Ohio, without regard to conflicts of laws principles.
+
+            12.5 Severability. If any provision of this Agreement shall be held
+to be invalid, illegal or unenforceable, the validity, legality and
+enforceability of the remaining provisions shall in no way be affected or
+impaired thereby, unless such invalidity, unenforceability or illegality renders
+the Agreement as a whole substantially unperformable.
+
+            12.6 Force Majeure. Notwithstanding the provisions of this
+Agreement, neither party shall be liable in any manner for any failure to
+perform their obligations under this Agreement resulting in any manner from
+delay, failure in performance, loss or damage due to fire, strike, embargo,
+explosion, power blackout, earthquake, flood, act of war, terrorism, riot,
+governmental requirement or other causes beyond such party's reasonable control,
+whether or not similar to any of the foregoing (including, without limitation,
+actions or inactions by unrelated Persons contributing to failures to perform),
+for so long as such circumstances continue to exist and cause such failure to
+perform. If a force majeure event causes a material failure in Supplier's
+performance of any Services for more than two (2) consecutive days, Customer
+shall not be required to pay any fees or expenses for such period of time. In
+addition, if the force majeure event continues uninterrupted for a period of 30
+consecutive days, Customer shall have the right to terminate this Agreement upon
+immediate written notice but otherwise in accordance with Section 9.3.
+
+            12.7 Parties in Interest. This Agreement shall be binding upon and
+inure to the benefit of the parties to this Agreement and their respective
+successors and assigns. Nothing in this Agreement, express or implied, is
+intended to confer on any Person other than the parties and their respective
+successors and assigns any rights or remedies under or by this Agreement. The
+foregoing notwithstanding, neither this Agreement nor the parties' rights and
+obligations hereunder, nor any of these, may be assigned by either party to this
+Agreement without the express written consent of the other party and any
+purported assignment in violation hereof shall be null and void. Notwithstanding
+the foregoing, Customer may designate an Affiliate to receive any of the
+Services to be provided by Supplier provided that the scope of the Services is
+not increased in Supplier's sole judgment. Supplier shall have the right,
+without the consent of Customer but with 30 days prior written notice, to assign
+its rights and obligations under this Agreement to any Affiliate, provided that
+(x) such Affiliate is capable of performing all of Supplier's obligations
+hereunder, including, without limitation, the indemnification obligations and
+(y) Customer shall incur no additional expense as a result of such assignment.
+
+            12.8 Survival. The obligations and other provisions set forth in
+Sections 2.6.3, 5, 7, 8, 9.5, 10, 11 and 12 of this Agreement, together with any
+other indemnification obligations set forth in this Agreement, shall survive any
+expiration or termination of this Agreement.
+
+
+                                       19
+<PAGE>
+
+            12.9 No Partnership. Nothing contained in this Agreement shall be
+deemed or construed by the parties or any other Person to create the
+relationship of partnership or of joint venture. By this Agreement, Supplier and
+Customer intend to create an independent contractor relationship.
+
+            12.10 Captions. The Section and Paragraph headings used in this
+Agreement have been inserted for convenience of reference only and shall not be
+construed to affect the meaning or interpretation of any provision, term or
+condition hereof.
+
+            12.11 Counterparts. This Agreement may be executed in multiple
+counterparts, each of which shall be deemed to be a duplicate original but all
+of which, when taken together, shall constitute a single instrument.
+
+            12.12 Schedules; Order of Precedence. All provisions contained in
+the Schedules hereto shall have the same force and effect as though set forth in
+the body of this Agreement. In the event of any inconsistency between this
+Agreement and any Schedule, this Agreement shall take precedence.
+
+            12.13 Interpretation. The parties are sophisticated and have each
+committed significant resources to the preparation and negotiation of this
+Agreement. As a result, Customer and Supplier agree the presumption of any laws
+or rules relating to the interpretation of contracts against the drafter thereof
+should not apply, and hereby waive any such presumption.
+
+IN WITNESS WHEREOF, the parties to this Agreement have executed this Agreement
+as of the day and year first set forth above by their duly authorized
+representatives.
+
+                       AMERICAN FINANCIAL GROUP, INC.
+
+                       By:    /s/ James C. Kennedy
+                       ---------------------------
+                       Name:    James C. Kennedy
+                       Title:   Vice President, Deputy General Counsel and
+                                Secretary
+
+
+
+                       INFINITY PROPERTY AND CASUALTY CORPORATION
+
+                       By:     /s/  Samuel J. Simon
+                       ---------------------------
+                       Name:    Samuel J. Simon
+                       Title:   Senior Vice President, General Counsel and
+                                Secretary
+
+
+
+                                       20
+
+</TEXT>
+</DOCUMENT>

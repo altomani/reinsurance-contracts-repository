@@ -1,6 +1,7 @@
 requests
 sec-api
 python-dotenv
+pandas
 aiohttp
 asyncio
 nest_asyncio

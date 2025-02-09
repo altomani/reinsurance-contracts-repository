@@ -1,0 +1,422 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>4
+<FILENAME>f91666exv10w4.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.4
+
+
+                           SECOND AMENDMENT AGREEMENT
+
+      SECOND AMENDMENT AGREEMENT, dated as of August 7, 2003 (the "Second
+Amendment"), to the Receivables Loan and Security Agreement, dated as of May 9,
+2003, among Maxtor Funding LLC, as Borrower (the "Borrower"), Maxtor Corporation
+("Maxtor"), as Servicer (the "Servicer"), Merrill Lynch Commercial Finance
+Corp., as Lender (the "Lender"), Merrill Lynch Commercial Finance Corp., as
+agent (the "Agent"), Radian Reinsurance Inc., as Facility Insurer (the "Facility
+Insurer") and U.S. Bank National Association ("U.S. Bank") (as the same has been
+and may be further amended, supplemented, modified and/or restated in accordance
+with its terms, the "RLSA"). Capitalized terms used herein and not otherwise
+defined herein shall have the meanings attributed thereto in the RLSA.
+
+      WHEREAS, the parties hereto have agreed to amend the RLSA on the terms and
+subject to the conditions herein set forth;
+
+      NOW, THEREFORE, for valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, and subject to the fulfillment of the conditions
+set forth below, the parties hereto agree as follows:
+
+                        ARTICLE I. AMENDMENTS TO THE RLSA
+
+            (a) The RLSA is hereby amended by adding the following definitions
+to Section 1.01 thereof (in the correct alphabetical order):
+
+            "Adjusted Yield Rate" means with respect to any Fixed Period for any
+      Loan allocated to such Fixed Period, an interest rate per annum equal to
+      the Stressed Eurodollar Rate; provided, however, that if the Lender shall
+      have notified the Agent that a Eurodollar Disruption Event has occurred,
+      the Adjusted Yield Rate shall be equal to the Stressed Base Rate until the
+      Lender has notified the Agent that such Eurodollar Disruption Event has
+      ceased, at which time the Adjusted Yield Rate shall again be equal to the
+      Stressed Eurodollar Rate.
+
+            "Material Amendment" means a material amendment to this Agreement
+      which would have a material, adverse effect upon the interests of the
+      Lender, the Facility Insurer or the Agent.
+
+
+                                        1
+<PAGE>
+            "Stressed Base Rate" means with respect to any Fixed Period for any
+      Loan allocated to such Fixed Period, an interest rate per annum equal to
+      the sum of (i) the Applicable Margin in effect during such Fixed Period
+      (or if more than one Applicable Margin was in effect during such Fixed
+      Period, the average of the Applicable Margins in effect on each day during
+      such Fixed Period) plus (ii) an amount equal to 1.5 multiplied by the
+      average of the Base Rates in effect on each day during such Fixed Period.
+
+            "Stressed Eurodollar Rate" means with respect to any Fixed Period
+      for any Loan allocated to such Fixed Period, an interest rate per annum
+      equal to the sum of (i) the Applicable Margin in effect during such Fixed
+      Period (or if more than one Applicable Margin was in effect during such
+      Fixed Period, the average of the Applicable Margins in effect on each day
+      during such Fixed Period) plus (ii) an amount equal to 1.5 multiplied by
+      the Eurodollar Rate for such Fixed Period.
+
+            (b) The definition of "Daily Report" in Section 1.01 of the RLSA is
+hereby amended by deleting clause (c) thereof and substituting in lieu thereof
+the following:
+
+      "(c) if such report is delivered on the 25th day of any calendar month
+      (or, if no such report is delivered on such 25th day, if such report is
+      the first such report delivered after such 25th day), sets forth, in a
+      manner satisfactory to the Agent and the Facility Insurer, the aggregate
+      amount of Pledged Receivables owed by each of the Top Ten Obligors as of
+      the date of such report."
+
+            (c) Clause (x)(B) in the definition of "Dell Concentration
+Percentage" in Section 1.01 of the RLSA is hereby amended by deleting the
+percentage "15%" where it appears therein and substituting "12%" in lieu
+thereof.
+
+            (d) Clause (x)(D) in the definition of "Dell Concentration
+Percentage" in Section 1.01 of the RLSA is hereby amended by deleting the
+percentage "5%" where it appears therein and substituting "4.5%" in lieu
+thereof.
+
+            (e) The RLSA is hereby amended by deleting the definition of
+"Dynamic Loss Reserve Percentage" in Section 1.01 of the RLSA in its entirety
+and substituting in lieu thereof the following:
+
+
+                                        2
+<PAGE>
+                  "Dynamic Loss Reserve Percentage" means the greater of (a) 12%
+      and (b) an amount calculated pursuant to the following formula:
+
+                   DLRP = LR x LH x SF where:
+
+                   DLRP = the Dynamic Loss Reserve Percentage;
+
+                  LR = the Loss Ratio, which shall be equal to the greater of
+      (i) the average of the Sales-Based Default Ratios as of the three most
+      recent consecutive Cut-Off Dates and (ii) the highest average of the
+      Sales-Based Default Ratios as of any three consecutive Cut-Off Dates
+      occurring during the previous twelve Fiscal Months;
+
+                  LH = the Loss Horizon, which shall be equal to the cumulative
+      Sales during the previous 90 days divided by the Net Eligible Receivables
+      Balance as of the most recent Cut-Off Date; and
+
+                  SF = the Stress Factor, which shall be 2.
+
+            (f) The RLSA is hereby amended by deleting the definition of "Earned
+Discount Rate" in Section 1.01 thereof in its entirety and substituting in lieu
+thereof the following:
+
+            "Earned Discount Rate" means, as of any date of determination, a
+      percentage rate calculated by the Agent equal to the sum of (i) the
+      weighted average of the Adjusted Yield Rates related to the Fixed Periods
+      in effect as of such date of determination, (ii) the Premium Rate (as
+      defined in the Premium Letter) and (iii) at any time after an Early
+      Amortization Event has occurred, the Default Premium Rate (as defined in
+      the Premium Letter) in effect as of such date of determination.
+
+            (g) Clause (B) in the definition of "HPQ Concentration Percentage"
+in Section 1.01 of the RLSA is hereby amended by deleting the percentage "15%"
+where it appears therein and substituting "12%" in lieu thereof.
+
+            (h) Clause (D) in the definition of "HPQ Concentration Percentage"
+in Section 1.01 of the RLSA is hereby amended by deleting the percentage "5%"
+where it appears therein and substituting "4.5%" in lieu thereof.
+
+            (i) Clause (c) of the definition of "Overconcentration Amount" in
+Section 1.01 of the RLSA is hereby amended by inserting the parenthetical "(or,
+with
+
+
+                                        3
+<PAGE>
+respect to Level III Obligor's which are only rated by Moody's, 3%)" immediately
+after the percentage "5%".
+
+            (j) The RLSA is hereby amended by deleting the definition of "Yield
+and Fee Reserve" in Section 1.01 thereof in its entirety and substituting in
+lieu thereof the following:
+
+                  "Yield and Fee Reserve" means, as of any date of
+      determination, an amount equal to (i) the Net Eligible Receivables Balance
+      as of such date of determination multiplied by (ii) the sum of (A) the
+      Earned Discount Rate in effect as of such date of determination, (B) at
+      any time prior to the occurrence of a Servicer Default and the appointment
+      of the Backup Servicer as Servicer hereunder, the Servicing Fee Rate, (C)
+      at any time prior to the occurrence of a Servicer Default and the
+      appointment of the Backup Servicer as Servicer hereunder, the Backup
+      Servicer Standby Fee Rate, (D) at any time after the occurrence of a
+      Servicer Default and the appointment of the Backup Servicer as Servicer
+      hereunder, the Backup Servicing Fee Rate, (E) the Trustee Fee Rate and (F)
+      an amount, expressed as a percentage, equal to the amount paid to the
+      Lockbox Bank pursuant to the Lockbox Agreement during the immediately
+      preceding Remittance Period divided by the Net Eligible Receivables
+      Balance as of the first day of such Remittance Period divided by (iii) 12,
+      multiplied by (iv) 2, multiplied by (v) the Turnover Rate calculated in,
+      or as should have been calculated in, the most recent Monthly Remittance
+      Report required to have been delivered pursuant to Section 6.11(b) hereof.
+
+            (k) Section 2.05(c) of the RLSA is hereby amended by deleting clause
+(iii) through clause (xii) and the last sentence of such section in their
+entirety and substituting in lieu thereof the following:
+
+            "(iii) on a pari passu basis (A) to the Agent for the account of the
+      Lender in an amount equal to (and for the pro rata payment of) (x) all
+      Yield (other than Default Yield) on all Loans which is accrued and unpaid
+      as of, and including, the day immediately preceding such Remittance Date
+      and (y) any unpaid Liquidation Fees and (B) to the Facility Insurer in an
+      amount equal to (and for the payment of) any Premium (other than Default
+      Premium) which is payable as of such Remittance Date pursuant to the terms
+      of the Premium Letter;
+
+            (iv) on a pari passu basis (A) to the Agent for the account of the
+      Lender in an amount equal to (and for the payment of) any Lender Non-Use
+      Fee which is payable as of such Remittance Date pursuant to the terms of
+      the Fee Letter and (B) to the Facility Insurer in an amount equal to (and
+      for the payment of) any Facility Insurer Non-Use Fee which is payable as
+      of such Remittance Date pursuant to the terms of the Fee Letter;
+
+
+                                        4
+<PAGE>
+            (v) to the Servicer (if the Servicer is Maxtor or any Affiliate
+      thereof) in an amount equal to the Servicing Fee which is accrued and
+      unpaid as the last day of the preceding Remittance Period plus any
+      Servicer Advances not previously reimbursed to the Servicer;
+
+            (vi) to the Agent for the account of the Lender in an amount equal
+      to the Borrowing Base Deficiency (if any) as of such Remittance Date;
+
+            (vii) on or after the occurrence of the Amortization Commencement
+      Date, to the Agent for the account of the Lender for the repayment of
+      Loans outstanding in an amount equal to the lesser of (i) all remaining
+      funds in the Collection Account and (ii) an amount necessary to repay the
+      outstanding principal amount of all Loans in full;
+
+            (viii) to the Facility Insurer an amount equal to any Accrued
+      Liability then due and payable;
+
+            (ix) on a pari passu basis (A) to the Agent for the account of the
+      Lender in an amount equal to all Default Yield on all Loans which is
+      accrued and unpaid as of, and including, the day immediately preceding
+      such Remittance Date and (B) to the Facility Insurer in an amount equal to
+      any Default Premium which is payable as of such Remittance Date pursuant
+      to the terms of the Premium Letter;
+
+            (x) on a pari passu basis to the Agent, the Lender, the Facility
+      Insurer and any other Indemnified Party hereunder in an amount equal to
+      the aggregate amount of any other obligations of the Borrower then due to
+      the Agent, the Lender, the Facility Insurer and any other Indemnified
+      Party hereunder or under any other Transaction Document (other than, in
+      the case of the Facility Insurer, those specified in clause (x) below);
+
+            (xi) to the Facility Insurer an amount equal to any Facility Insurer
+      Interest then due and payable;
+
+            (xii) to the Lockbox Bank in an amount equal to any amounts (other
+      than fees and expenses) due and owing to the Lockbox Bank under the
+      Lockbox Agreement which are accrued and unpaid as of the last day of the
+      preceding Remittance Period; and
+
+            (xiii) to, or at the direction of, the Borrower (or at the direction
+      of the Servicer, on behalf of the Borrower), any remaining amounts.
+
+      Upon its receipt of funds pursuant to clauses (vi), (vii), (ix) and (x),
+      the Agent shall apply such funds as directed by the Lender or as otherwise
+      provided in this Agreement."
+
+            (l) Section 4.01(ff) of the RLSA is hereby amended by deleting the
+word "the" immediately after the phrase "as defined in" and substituting "any"
+in lieu thereof.
+
+
+                                        5
+<PAGE>
+            (m) Section 4.01(gg) of the RLSA is hereby amended by deleting the
+word "the" immediately after the phrase "within the meaning of" and substituting
+"any" in lieu thereof.
+
+            (n) Section 4.02(ff) of the RLSA is hereby amended by deleting the
+word "the" immediately after the phrase "as defined in" and substituting "any"
+in lieu thereof.
+
+            (o) Section 4.02(gg) of the RLSA is hereby amended by deleting the
+word "the" immediately after the phrase "within the meaning of" and substituting
+"any" in lieu thereof.
+
+            (p) Section 9.01 of the RLSA is hereby amended by inserting the
+following sentence at the end of the first paragraph of such section:
+
+      "The Facility Insurer shall provide prior written notice of any Material
+      Amendment to this Agreement to S&P."
+
+            (q) Article IX to the RLSA is hereby amended by adding a new section
+at the end thereof:
+
+                  "SECTION 9.14 Notices to S&P. Upon the written request of S&P,
+      the Borrower and the Servicer shall promptly deliver to S&P any reports,
+      notices or other communications delivered by either such party pursuant to
+      the terms hereof. The Borrower and the Servicer shall promptly notify S&P
+      if it has entered into a credit default swap contemplated in clause (y) of
+      the definition of "Dell Concentration Percentage".
+
+            (r) Schedule VII to the RLSA is hereby amended by adding the
+following at the end of such Schedule.
+
+            "39. Such Pledged Receivable is required to be paid by the related
+Obligor at an address located in the United States."
+
+      SECTION 2. CONDITIONS TO EFFECTIVENESS
+
+      This Second Amendment shall be effective upon the delivery to the Agent of
+counterparts hereof executed by each of the parties hereto.
+
+
+                                        6
+<PAGE>
+      SECTION 3. MISCELLANEOUS
+
+      (i) The Borrower and the Servicer each hereby certifies that the
+representations and warranties set forth in Article IV of the RLSA (and any
+other representations and warranties made by the Borrower or the Servicer in the
+RLSA) are true and correct on the date hereof with the same force and effect as
+if made on the date hereof, except to the extent that such representations and
+warranties speak specifically to an earlier date in which case they shall have
+been true and correct on such date. In addition, the Borrower and the Servicer
+each represents and warrants (which representations and warranties shall survive
+the execution and delivery hereof) that (a) no unwaived Early Amortization Event
+(nor any event that but for notice or lapse of time or both would constitute an
+unwaived Early Amortization Event) shall have occurred and be continuing as of
+the date hereof nor shall any unwaived Early Amortization Event (nor any event
+that but for notice or lapse of time or both would constitute an unwaived Early
+Amortization Event) occur due to this Second Amendment becoming effective, (b)
+the Borrower and the Servicer each has the corporate power and authority to
+execute and deliver this Second Amendment and has taken or caused to be taken
+all necessary corporate actions to authorize the execution and delivery of this
+Second Amendment, (c) no consent of any other person (including, without
+limitation, shareholders or creditors of the Borrower or the Servicer), and no
+action of, or filing with any governmental or public body or authority is
+required to authorize, or is otherwise required in connection with the execution
+and performance of this Second Amendment other than such that have been obtained
+and (d) this Second Amendment constitutes the legal, valid and binding
+obligation of the Borrower and the Servicer, enforceable against such party in
+accordance with its terms, except as enforceability may be limited by
+bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the
+enforcement of creditors' rights generally and general principles of equity
+which may limit the availability of equitable remedies.
+
+      (ii) The RLSA, as amended hereby, is hereby ratified and confirmed in all
+respects and remains in full force and effect in accordance with its terms.
+
+      (iii) All references in the RLSA to "this Agreement" and "herein" and all
+references to the RLSA in the documents executed in connection with the RLSA
+shall mean the RLSA as amended hereby and as it may in the future be amended,
+restated, supplemented or modified from time to time.
+
+      (iv) This Second Amendment may be executed by the parties hereto
+individually or in combination, in one or more counterparts, each of which shall
+be an original and all of which shall constitute one and the same agreement.
+Delivery of an executed
+
+
+                                        7
+<PAGE>
+counterpart of a signature page to this Second Amendment by facsimile shall be
+effective as delivery of a manually executed counterpart of this Second
+Amendment.
+
+      (v) In connection with this Second Amendment, the Borrower hereby agrees
+to pay all costs and expenses incurred by the Lender, the Agent and the Facility
+Insurer in connection with this Second Amendment including, without limitation,
+the fees and expenses of Kaye Scholer LLP, counsel to the Lender and the Agent
+and Sidley Austin Brown and Wood, counsel to the Facility Insurer.
+
+      (vi) GOVERNING LAW. THIS SECOND AMENDMENT SHALL, IN ACCORDANCE WITH
+SECTION 5-1401 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK, BE
+GOVERNED BY THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO ANY CONFLICTS
+OF LAW PRINCIPLES THEREOF THAT WOULD CALL FOR THE APPLICATION OF THE LAWS OF ANY
+OTHER JURISDICTION.
+
+                          [Signature pages to follow.]
+
+
+                                        8
+<PAGE>
+            IN WITNESS WHEREOF, the parties hereto have executed this Second
+Amendment as of the date first above written.
+
+THE BORROWER:                                MAXTOR FUNDING LLC
+
+
+                                             By:
+                                                     ---------------------------
+                                             Title:  Treasurer
+                                                     ---------------------------
+
+
+THE SERVICER:                                MAXTOR CORPORATION
+
+
+                                             By:
+                                                     ---------------------------
+                                             Title:  Treasurer
+                                                     ---------------------------
+
+
+THE AGENT:                                   MERRILL LYNCH COMMERCIAL
+                                             FINANCE CORP.
+
+                                             By:
+                                                     ---------------------------
+                                             Title:  Director
+                                                     ---------------------------
+
+
+
+
+THE LENDER:                                  MERRILL LYNCH COMMERCIAL
+                                             FINANCE CORP.
+
+
+                                             By:
+                                                     ---------------------------
+                                             Title:  Director
+                                                     ---------------------------
+
+
+
+THE FACILITY INSURER:                        RADIAN REINSURANCE INC.
+
+
+                                             By:
+                                                     ---------------------------
+                                             Title:  Vice President
+                                                     ---------------------------
+
+
+                                        9
+<PAGE>
+THE BACKUP SERVICER, THE
+TRUSTEE, THE COLLATERAL
+AGENT AND THE COLLECTION
+ACCOUNT BANK:                                U.S. BANK NATIONAL
+                                             ASSOCIATION
+
+                                             By:
+                                                     ---------------------------
+
+                                             Title:  Vice-President
+                                                     ---------------------------
+
+
+</TEXT>
+</DOCUMENT>

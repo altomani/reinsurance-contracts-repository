@@ -1,0 +1,2544 @@
+<DOCUMENT>
+<TYPE>EX-10.KK
+<SEQUENCE>9
+<FILENAME>l92931aex10-kk.txt
+<DESCRIPTION>EXHIBIT 10 KK
+<TEXT>
+<PAGE>
+                                                                  EXHIBIT 10(KK)
+
+
+
+================================================================================
+
+
+
+
+                 AMENDED AND RESTATED STANDBY PURCHASE AGREEMENT
+
+
+
+                                     between
+
+
+
+                        STATE AUTO FINANCIAL CORPORATION
+
+                                       and
+
+                             SAF FUNDING CORPORATION
+
+
+
+
+
+                          Dated as of November 16, 2001
+
+
+
+
+================================================================================
+
+
+
+
+
+<PAGE>
+
+
+
+                                TABLE OF CONTENTS
+<TABLE>
+<CAPTION>
+
+Section                                                                                                         Page
+-------                                                                                                         ----
+
+<S>                                                                                                              <C>
+ARTICLE I  DEFINITIONS AND ACCOUNTING TERMS.......................................................................1
+     1.1  Definitions and Accounting Terms........................................................................1
+
+ARTICLE II  PURCHASE OF PREFERRED STOCK...........................................................................6
+     2.1  Purchases...............................................................................................6
+     2.2  Notices of Purchases....................................................................................6
+     2.3  Commitment Fee..........................................................................................6
+
+ARTICLE III  CONDITIONS TO PURCHASE...............................................................................6
+
+ARTICLE IV  REPRESENTATIONS AND WARRANTIES OF STATE AUTO FINANCIAL................................................7
+     4.1  Corporate Existence.....................................................................................7
+     4.2  Litigation..............................................................................................7
+     4.3  No Breach...............................................................................................7
+     4.4  Action   ...............................................................................................8
+     4.5  Approvals...............................................................................................8
+     4.6  Capitalization..........................................................................................8
+     4.7  True and Complete Disclosure............................................................................9
+
+ARTICLE V  REPRESENTATIONS AND WARRANTIES OF THE COMPANY..........................................................9
+     5.1  Investment..............................................................................................9
+     5.2  No Agreement to Transfer................................................................................9
+     5.3  Knowledge and Experience................................................................................9
+     5.4  Access to Information...................................................................................9
+     5.5  Risk.... ..............................................................................................10
+     5.6  Restrictions on Transfer...............................................................................10
+
+ARTICLE VI  COVENANTS............................................................................................10
+     6.1  Transfer ..............................................................................................10
+     6.2  Redemption.............................................................................................10
+     6.3  Use of Proceeds........................................................................................10
+
+ARTICLE VII  REGISTRATION RIGHTS.................................................................................11
+     7.1  Demand Registration....................................................................................11
+     7.2  Piggyback Registrations................................................................................12
+     7.3  Registration Procedures................................................................................14
+     7.4  Underwritten Offerings.................................................................................17
+     7.5  Holdback Agreements By State Auto Financial and Other Securityholders..................................18
+     7.6  Indemnification........................................................................................19
+     7.7  Covenants Relating to Rule 144.........................................................................22
+     7.8  References to holders of Registrable Securities........................................................22
+</TABLE>
+<PAGE>
+
+
+
+
+<TABLE>
+
+<S>                                                                                                             <C>
+ARTICLE VIII  MISCELLANEOUS......................................................................................22
+     8.1  Waiver.................................................................................................22
+     8.2  Notices................................................................................................23
+     8.3  Amendments, Etc........................................................................................23
+     8.4  Successors and Assigns.................................................................................23
+     8.5  Captions...............................................................................................23
+     8.6  Counterparts...........................................................................................23
+     8.7  Governing Law; Submission to Jurisdiction..............................................................23
+     8.8  Waiver of Jury Trial...................................................................................23
+     8.9  Further Assurances.....................................................................................24
+     8.10  Payments by State Auto Financial......................................................................24
+     8.11  Payments Received by the Company under Basic Documents................................................24
+     8.12  Third-Party Beneficiaries.............................................................................24
+     8.13  Severability..........................................................................................24
+</TABLE>
+
+
+                                    SCHEDULES
+
+Schedule I             Equity Rights and Repurchase Obligations
+
+                                    EXHIBITS
+
+Exhibit A              Class A Preferred Stock Certificate
+Exhibit B              Purchase Notice
+Exhibit C              Opinion of General Counsel of State Auto Financial
+
+
+
+
+
+
+
+
+
+
+                                     - ii -
+
+
+
+<PAGE>
+
+
+                 AMENDED AND RESTATED STANDBY PURCHASE AGREEMENT
+
+         This Amended and Restated Standby Purchase Agreement, dated as of
+November 16, 2001, is by and between State Auto Financial Corporation, a
+corporation duly organized and validly existing under the laws of the State of
+Ohio ("STATE AUTO FINANCIAL"), and SAF Funding Corporation, a Delaware
+corporation (the "COMPANY").
+
+                                   RECITALS:
+                                   ---------
+
+         A. In order to raise funds for catastrophic loss claims and/or loss
+adjustment expenses that may be made from time to time for residential and
+commercial property under insurance coverage underwritten by State Automobile
+Mutual Insurance Company, an Ohio mutual insurance company ("STATE AUTO
+MUTUAL"), and certain of its affiliates, which have been reinsured by State Auto
+Property and Casualty Insurance Company, a South Carolina corporation ("STATE
+AUTO P&C"), through the issuance and sale by State Auto Financial and the
+purchase by the Company, from time to time, of State Auto Financial's Class A
+Preferred Stock, no par value per share (the "CLASS A PREFERRED STOCK"), State
+Auto Financial and the Company entered into that certain Standby Purchase
+Agreement dated as of November 19, 1999 (the "EXISTING SPA").
+
+         B. State Auto Financial and the Company desire to amend and restate the
+Existing SPA in order to make certain modifications thereto.
+
+                  NOW, THEREFORE, for and in consideration of the mutual
+representations, warranties, covenants and agreements contained herein, and
+intending to be legally bound hereby, the parties hereto agree to amend and
+restate the Existing SPA as follows:
+
+                                   ARTICLE I
+
+                        DEFINITIONS AND ACCOUNTING TERMS
+
+         1.1 DEFINITIONS AND ACCOUNTING TERMS. As used herein, the following
+terms shall have the following meanings (all terms defined in this SECTION 1.1
+or in other provisions of this Agreement in the singular to have the same
+meanings when used in the plural and VICE VERSA):
+
+                  "AGENT" shall mean Bank One, NA, as agent under the Credit
+Agreement.
+
+                  "BASIC DOCUMENTS" shall have the meaning assigned thereto in
+the Credit Agreement.
+
+                  "COMMISSION" shall mean the United States Securities and
+Exchange Commission, or any successor governmental agency or authority.
+
+                  "COMMITMENT" shall have the meaning assigned thereto in the
+Credit Agreement.
+
+                  "COMPANY PLEDGE AGREEMENT" shall mean the Pledge and Security
+Agreement, dated as of the date hereof, among the Company and the Agent, as
+modified and supplemented and in effect from time to time.
+
+
+
+<PAGE>
+
+                  "CREDIT AGREEMENT" shall mean the Amended and Restated Credit
+Agreement, dated as of the date hereof, among the Company, the Agent and the
+Lenders, as modified and supplemented and in effect from time to time.
+
+                  "CUTBACK REGISTRATION" shall mean any Demand Registration or
+Piggyback Registration to be effected as an underwritten Public Offering in
+which the Managing Underwriter with respect thereto advises State Auto Financial
+and the Requesting Holders in writing that, in its opinion, the number of
+securities requested to be included in such registration (including securities
+of State Auto Financial which are not Registrable Securities) exceed the number
+which can be sold in such offering without a material reduction in the selling
+price anticipated to be received for the securities to be sold in such Public
+Offering.
+
+                  "DEMAND REGISTRATION" shall mean any registration of
+Registrable Securities under the Securities Act effected in accordance with
+SECTION 7.1 hereof.
+
+                  "EFFECTIVE LONG-FORM REGISTRATION" shall mean a Long-Form
+Registration that results in an Effective Registration.
+
+                  "EFFECTIVE REGISTRATION" shall mean a Demand Registration
+which (a) has been declared or ordered effective in accordance with the rules of
+the Commission, (b) has been kept effective for the period of time contemplated
+by SECTION 7.3(B) hereof and (c) has resulted in the Registrable Securities
+requested to be included in such registration actually being sold (except by
+reason of some act or omission on the part of the Requesting Holders); PROVIDED
+that for purposes of this Agreement (i) a Cutback Registration shall not be an
+Effective Registration and (ii) a Demand Registration in which State Auto
+Financial includes securities for sale for the account of State Auto Financial
+shall not be an Effective Registration.
+
+                  "EFFECTIVE SHORT-FORM REGISTRATION" shall mean a Short-Form
+Registration that results in an Effective Registration.
+
+                  "EXCHANGE ACT" shall mean the Securities Exchange Act of 1934,
+as amended, and the rules and regulations promulgated thereunder.
+
+                  "FORM S-1" shall mean Form S-1 promulgated by the Commission
+under the Securities Act, or any successor or similar long-form registration
+statement.
+
+                  "FORM S-2" shall mean Form S-2 promulgated by the Commission
+under the Securities Act, or any successor or similar short-form registration
+statement.
+
+                  "FORM S-3" shall mean Form S-3 promulgated by the Commission
+under the Securities Act, or any successor or similar short-form registration
+statement.
+
+                  "INDEMNIFIED PARTY" shall mean a party entitled to indemnity
+in accordance with SECTION 7.6 hereof.
+
+                  "INDEMNIFYING PARTY" shall mean a party obligated to provide
+indemnity in accordance with SECTION 7.6 hereof.
+
+
+
+                                     - 2 -
+<PAGE>
+
+                  "INSPECTORS" shall have the meaning assigned thereto in
+SECTION 7.3(J) hereof.
+
+                  "LENDERS" shall have the meaning assigned thereto in the
+Credit Agreement.
+
+                  "LIEN" shall mean, with respect to any Property, any mortgage,
+lien, pledge, charge, security interest or encumbrance of any kind in respect of
+such Property. For purposes of this Agreement, a Person shall be deemed to own
+subject to a Lien any Property that it has acquired or holds subject to the
+interest of a vendor or lessor under any conditional sale agreement, capital
+lease or other title retention agreement (other than an operating lease)
+relating to such Property.
+
+                  "LOANS" shall have the meaning assigned thereto in the Credit
+Agreement.
+
+                  "LONG-FORM REGISTRATION" shall mean a Demand Registration
+effected by the filing of a registration statement on Form S-1 with the
+Commission.
+
+                  "LOSSES" shall have the meaning assigned thereto in SECTION
+7.6(a) hereof.
+
+                  "MAJORITY LENDERS" shall have the meaning assigned thereto in
+the Credit Agreement.
+
+                  "MANAGING UNDERWRITER" shall mean, with respect to any Public
+Offering, the underwriter or underwriters managing such Public Offering.
+
+                  "MATERIAL ADVERSE EFFECT" shall mean a material adverse effect
+on (a) the Property, business, operations, financial condition, prospects,
+liabilities or capitalization of State Auto Mutual and its Subsidiaries taken as
+a whole, (b) the ability of State Auto Financial to issue the Class A Preferred
+Stock to or perform its obligations under this Agreement, (c) the ability of
+State Auto Mutual or State Auto Financial to perform its respective obligations
+under the Put Agreement, (d) the validity or enforceability of any of the Basic
+Documents or (e) the rights and remedies of the Lenders and the Agent under any
+of the Basic Documents.
+
+                  "NASD" shall mean the National Association of Securities
+Dealers.
+
+                  "NOTICE OF DEMAND REGISTRATION" shall have the meaning
+assigned thereto in SECTION 7.1(a) hereof.
+
+                  "NOTICE OF PIGGYBACK REGISTRATION" shall have the meaning
+assigned thereto in SECTION 7.2(a) hereof.
+
+                  "PIGGYBACK REGISTRATION" shall mean any registration of equity
+securities of State Auto Financial under the Securities Act (other than a
+registration in respect of a dividend reinvestment or similar plan for
+stockholders of State Auto Financial or on Form S-4 or Form S-8 promulgated by
+the Commission, or any successor or similar forms thereto), whether for sale for
+the account of State Auto Financial or for the account of any holder of
+securities of State Auto Financial (other than Registrable Securities).
+
+
+
+                                     - 3 -
+<PAGE>
+
+                  "PROPERTY" shall mean any right or interest in or to property
+of any kind whatsoever, whether real, personal or mixed and whether tangible or
+intangible.
+
+                  "PUBLIC OFFERING" shall mean any offering of any equity
+securities of State Auto Financial to the public, either on behalf of State Auto
+Financial or any of its securityholders, pursuant to an effective registration
+statement under the Securities Act.
+
+                  "PURCHASE COMMITMENT" shall mean the obligation of the Company
+to purchase Class A Preferred Stock with an aggregate original Redemption Value
+of not more than $100,000,000.
+
+                  "PURCHASE COMMITMENT TERMINATION DATE" shall mean November 14,
+2002; PROVIDED that if the "Commitment Termination Date" under the Credit
+Agreement is extended as provided therein, the Purchase Commitment Termination
+Date shall, automatically and without any action on the part of State Auto
+Financial or the Company, be extended to the date to which said "Commitment
+Termination Date" has been so extended.
+
+                  "PURCHASE DATE" shall have the meaning assigned thereto in
+SECTION 2.2 hereof.
+
+                  "PURCHASE NOTICE" shall mean a Purchase Notice substantially
+in the form of EXHIBIT B hereto.
+
+                  "PUT AGREEMENT" shall mean the Amended and Restated Put
+Agreement, dated as of the date hereof, among State Auto Mutual, State Auto
+Financial and the Agent, as modified and supplemented and in effect from time to
+time.
+
+                  "PUT DISHONOR" shall mean the failure of State Auto Mutual for
+any reason after its receipt of a Put Notice (as defined in the Put Agreement)
+to comply with its obligations under the Put Agreement to purchase each Lender's
+Loans, Notes and Commitment (each, as defined in the Put Agreement) or the Class
+A Preferred Stock, as specified in such Put Notice.
+
+                  "PUT EVENT" shall have the meaning assigned thereto in the Put
+Agreement.
+
+                  "QUARTERLY DATES" shall mean the last Business Day of March,
+June, September and December in each year, the first of which shall be the first
+such day after the day hereof.
+
+                  "RECORDS" shall have the meaning assigned thereto in SECTION
+7.3(j) hereof.
+
+                  "REDEMPTION VALUE" shall mean, with respect to any Class A
+Preferred Stock, the "Redemption Value" for such Class A Preferred Stock set
+forth in the certificate evidencing such Class A Preferred Stock.
+
+                  "REGISTRABLE SECURITIES" shall mean (a) any shares of Class A
+Preferred Stock purchased pursuant to SECTION 2.1 hereof and (b) any additional
+shares of Class A Preferred Stock issued or distributed by way of a dividend,
+stock split or other distribution in respect of such Class A Preferred Stock
+purchased pursuant to SECTION 2.1 hereof, or acquired by way of any rights
+offering or similar offering made in respect of such Class A Preferred Stock.
+As to any particular Registrable Securities, once issued such securities shall
+cease to be
+
+
+
+                                     - 4 -
+<PAGE>
+
+Registrable Securities when (i) a registration statement with respect to the
+sale of such securities shall have become effective under the Securities Act and
+such securities shall have been disposed of in accordance with such registration
+statement, (ii) they shall have been distributed to the public pursuant to Rule
+144 or (iii) they shall have ceased to be outstanding.
+
+                  "REGISTRATION EXPENSES" shall mean all expenses incident to
+State Auto Financial's performance of or compliance with its obligations under
+this Agreement to effect the registration of Registrable Securities in a Demand
+Registration or a Piggyback Registration, including, without limitation, all
+registration, filing, securities exchange listing and NASD fees, all
+registration, filing, qualification and other fees and expenses of complying
+with securities or blue sky laws, all word processing, duplicating and printing
+expenses, messenger and delivery expenses, the fees and disbursements of counsel
+for State Auto Financial and of its independent public accountants, including
+the expenses of any special audits or "cold comfort" letters required by or
+incident to such performance and compliance, the reasonable fees and
+disbursements of a single counsel and single firm of accountants retained by the
+holders of a majority of the Registrable Securities being registered, premiums
+and other costs of policies of insurance against liabilities arising out of the
+Public Offering of the Registrable Securities being registered and any fees and
+disbursements of underwriters customarily paid by issuers or sellers of
+securities, but excluding underwriting discounts and commissions and transfer
+taxes, if any, in respect of Registrable Securities, which shall be payable by
+each holder thereof.
+
+                  "REGISTRATION REQUEST" shall have the meaning assigned thereto
+in SECTION 7.1 hereof.
+
+                  "REQUESTING HOLDERS" shall mean, with respect to any Demand
+Registration or Piggyback Registration, the holders of Registrable Securities
+requesting to have Registrable Securities included in such registration in
+accordance with this Agreement.
+
+                  "RULE 144" shall mean Rule 144 promulgated by the Commission
+under the Securities Act, and any successor provision thereto.
+
+                  "SECURITIES ACT" shall mean the Securities Act of 1933, as
+amended, and the rules and regulations promulgated thereunder.
+
+                  "SHORT-FORM REGISTRATION" shall mean a Demand Registration
+effected by the filing of a registration statement on Form S-2 or Form S-3 with
+the Commission.
+
+                  "STATE AUTO MUTUAL" shall mean the meaning assigned thereto in
+the first Whereas clause of this Agreement.
+
+                  "STATE AUTO P&C" shall mean the meaning assigned thereto in
+the first Whereas clause of this Agreement.
+
+                  "SUBSIDIARY" shall mean, with respect to any Person, any
+corporation, partnership or other entity of which at least a majority of the
+securities or other ownership interests having by the terms thereof ordinary
+voting power to elect a majority of the board of directors or other persons
+performing similar functions of such corporation, partnership or other entity
+(irrespective of whether or not at the time securities or other ownership
+interests of any other class or classes
+
+
+
+                                     - 5 -
+<PAGE>
+
+of such corporation, partnership or other entity shall have or might have voting
+power by reason of the happening of any contingency) is at the time directly or
+indirectly owned or controlled by such Person or one or more Subsidiaries of
+such Person or by such Person and one or more Subsidiaries of such Person.
+
+                                   ARTICLE II
+
+                           PURCHASE OF PREFERRED STOCK
+
+         2.1 PURCHASES. The Company agrees, on the terms and conditions of this
+Agreement, to purchase from State Auto Financial in one or more transactions,
+Class A Preferred Stock with an aggregate Redemption Value of not more than
+$100,000,000. The purchase price payable by the Company for each share of Class
+A Preferred Stock shall be equal to the Redemption Value thereof.
+
+         2.2 NOTICES OF PURCHASES. State Auto Financial shall give the Company
+notice of each purchase hereunder by delivering to the Company a Purchase Notice
+not less than four Business Days prior to the date of such purchase (the
+"PURCHASE DATE"). Not later than 2:00 p.m. New York time on the Purchase Date
+specified for each such purchase, the Company shall make available the amount of
+the purchase price of the Class A Preferred Stock to be purchased by it by
+depositing in immediately available funds such purchase price in an account
+designated by State Auto Financial.
+
+         2.3 COMMITMENT FEE. State Auto Financial shall pay to the Company a
+commitment fee on the daily average unused amount (based on the aggregate
+Redemption Value of not more than $100,000,000 of Class A Preferred Stock) of
+the Company's Purchase Commitment, for the period from and including the date
+hereof to but not including the earlier of the date such Purchase Commitment is
+terminated and the Purchase Commitment Termination Date, at a rate per annum
+equal to 0.20%. Accrued commitment fees shall be payable on each Quarterly Date
+and on the earlier of the date the Purchase Commitments are terminated and the
+Purchase Commitment Termination Date.
+
+                                  ARTICLE III
+
+                             CONDITIONS TO PURCHASE
+
+         The obligations of the Company to purchase any Class A Preferred Stock
+hereunder is subject to the following conditions:
+
+                  (a) PURCHASE NOTICE. The Company shall have received a
+Purchase Notice with respect to such purchase, duly completed and executed.
+
+                  (b) OPINION OF COUNSEL TO THE COMPANY. The Company shall have
+received an opinion, dated the Purchase Date, of John Lowther, general counsel
+of State Auto Financial, substantially in the form of EXHIBIT C hereto and
+covering such other matters as the Company may reasonably request.
+
+
+
+                                     - 6 -
+<PAGE>
+
+                  (c) CERTIFICATES. The Company shall have received duly
+executed stock certificates, substantially in the form of EXHIBIT A hereto,
+evidencing the aggregate number of shares of Class A Preferred Stock to be
+purchased by the Company on such Purchase Date.
+
+                  (d) CATASTROPHIC LOSS. Any one or more of State Auto Mutual,
+State Auto P&C, Milbank Insurance Company, Farmers Casualty Insurance Company,
+Midwest Security Insurance Company, State Auto National Insurance Company,
+Meridian Security Insurance Company, Meridian Citizens Security Insurance
+Company and Meridian Citizens Mutual Insurance Company shall have incurred
+liability in excess of $120,000,000 in the aggregate in respect of catastrophic
+loss claims and/or loss adjustment expenses resulting from the occurrence of a
+single catastrophic event (but excluding catastrophic loss claims and/or
+adjustment expenses under war-risk, allied perils, terrorism, hijacking,
+governmental confiscation or expropriation insurance coverage) and the Company
+shall have received a certificate of a senior financial officer of State Auto
+Financial to such effect.
+
+                  (e) OFFICER'S CERTIFICATE. The Company shall have received a
+certificate of a senior financial officer of State Auto Financial to the effect
+that, both immediately prior to such purchase and also after giving effect
+thereto and to the intended use thereof (i) no Put Event (or an event with
+notice or lapse of time or both would become a Put Event) shall have occurred
+and be continuing; and (ii) the representations and warranties made by State
+Auto Financial in ARTICLE IV hereof shall be true and complete on and as of the
+date of such purchase with the same force and effect as if made on and as of
+such date (or, if any such representation or warranty is expressly stated to
+have been made as of a specific date, as of such specific date).
+
+                                   ARTICLE IV
+
+             REPRESENTATIONS AND WARRANTIES OF STATE AUTO FINANCIAL
+
+         State Auto Financial represents and warrants to the Company that:
+
+         4.1 CORPORATE EXISTENCE. Each of State Auto Financial and its
+Subsidiaries: (a) is a corporation, partnership or other entity duly organized,
+validly existing and in good standing under the laws of the jurisdiction of its
+organization; (b) has all requisite corporate or other power, and has all
+material governmental licenses, authorizations, consents and approvals necessary
+to own its assets and carry on its business as now being or as proposed to be
+conducted; and (c) is qualified to do business and is in good standing in all
+jurisdictions in which the nature of the business conducted by it makes such
+qualification necessary and where failure so to qualify could (either
+individually or in the aggregate) have a Material Adverse Effect.
+
+         4.2 LITIGATION. There are no legal or arbitral proceedings, or any
+proceedings by or before any governmental or regulatory authority or agency, now
+pending or (to the knowledge of State Auto Financial) threatened against State
+Auto Financial or any of its Subsidiaries that, if adversely determined could
+(either individually or in the aggregate) have a Material Adverse Effect.
+
+         4.3 NO BREACH. None of the execution and delivery of this Agreement,
+the consummation of the transactions herein and therein contemplated or
+compliance with the terms
+
+
+
+                                     - 7 -
+<PAGE>
+
+and provisions hereof and thereof (including issuance of the Class A Preferred
+Stock) will conflict with or result in a breach of, or require any consent
+under, the charter or by-laws (or equivalent documents) of State Auto Financial,
+or any applicable law or regulation, or any order, writ, injunction or decree of
+any court or governmental authority or agency, or any agreement or instrument to
+which State Auto Financial or any of its Subsidiaries is a party or by which any
+of them or any of their Property is bound or to which any of them is subject, or
+constitute a default under any such agreement or instrument, or result in the
+creation or imposition of any Lien upon any Property of State Auto Financial or
+any of its Subsidiaries pursuant to the terms of any such agreement or
+instrument.
+
+         4.4 ACTION. State Auto Financial has all necessary corporate power,
+authority and legal right to execute, deliver and perform its obligations under
+this Agreement and to issue the Class A Preferred Stock; the execution, delivery
+and performance by State Auto Financial of this Agreement (and the issuance of
+the Class A Preferred Stock) have been duly authorized by all necessary
+corporate action on its part (including, without limitation, any required
+shareholder approvals); and this Agreement has been duly and validly executed
+and delivered by State Auto Financial and constitutes, its legal, valid and
+binding obligation, enforceable against State Auto Financial in accordance with
+its terms, except as such enforceability may be limited by (a) bankruptcy,
+insolvency, reorganization, moratorium or similar laws of general applicability
+affecting the enforcement of creditors' rights and (b) the application of
+general principles of equity (regardless of whether such enforceability is
+considered in a proceeding in equity or at law).
+
+         4.5 APPROVALS. No authorizations, approvals or consents of, and no
+filings or registrations with, any governmental or regulatory authority or
+agency, or any securities exchange (other than any authorizations, approvals,
+consents, filings and registrations heretofore duly made or obtained and in full
+force and effect), are necessary for the execution, delivery or performance by
+State Auto Financial of this Agreement (or for the issuance of the Class A
+Preferred Stock) or for the legality, validity or enforceability hereof.
+
+         4.6 CAPITALIZATION. The authorized capital stock of State Auto
+Financial consists, on the date hereof, of an aggregate of 105,000,000 shares
+consisting of (a) 100,000,000 shares of common stock, no par value, of which
+38,866,955 shares are duly and validly issued and outstanding, each of which
+shares is fully paid and nonassessable, (b) 2,500,000 shares of Class A
+Preferred Stock, no par value, none of which shares issued and outstanding and
+(c) 2,500,000 shares of Class B Preferred Stock, no par value, none of which
+shares are issued and outstanding. As of the date hereof, 68% of such issued and
+outstanding shares of common stock are owned beneficially and of record by State
+Auto Mutual. Upon issuance, each share of Class A Preferred Stock will benefit
+from the Terms and Conditions of Class A Preferred Stock attached to form of
+Class A Preferred Stock Certificate attached hereto as EXHIBIT A. As of the date
+hereof, (i) except for this Agreement, the Put Agreement and as set forth in
+Part A of SCHEDULE I hereto, there are no outstanding Equity Rights with respect
+to State Auto Financial and (ii) except as set forth in Part B of SCHEDULE I
+hereto, there are no outstanding obligations of State Auto Financial or any of
+its Subsidiaries to repurchase, redeem, or otherwise acquire any shares of
+capital stock of State Auto Financial nor are there any outstanding obligations
+of State Auto Financial or any of its Subsidiaries to make payments to any
+Person, such as "phantom stock" payments, where the amount thereof is calculated
+with reference to the fair market value or equity value of State
+
+
+
+
+                                     - 8 -
+<PAGE>
+
+Auto Financial or any of its Subsidiaries. All shares of Class A Preferred Stock
+purchased by the Company hereunder will, when so purchased, be duly and validly
+issued and outstanding, fully paid and nonassessable.
+
+         4.7 TRUE AND COMPLETE DISCLOSURE. The information, reports, financial
+statements, exhibits and schedules furnished in writing by or on behalf of State
+Auto Financial and State Auto Mutual to the Company, the Agent or any Lender in
+connection with the negotiation, preparation or delivery of this Agreement and
+the other Basic Documents or included herein or therein or delivered pursuant
+hereto or thereto, when taken as a whole do not contain any untrue statement of
+material fact or omit to state any material fact necessary to make the
+statements herein or therein, in light of the circumstances under which they
+were made, not misleading. All written information furnished after the date
+hereof by State Auto Mutual and its Subsidiaries to the Company, the Agent and
+the Lenders in connection with this Agreement and the other Basic Documents and
+the transactions contemplated hereby and thereby will be true, complete and
+accurate in every material respect, or (in the case of projections) based on
+reasonable estimates, on the date as of which such information is stated or
+certified. There is no fact known to State Auto Financial that could have a
+Material Adverse Effect that has not been disclosed herein, in the other Basic
+Documents or in a report, financial statement, exhibit, schedule, disclosure
+letter or other writing furnished to the Agent for use in connection with the
+transactions contemplated hereby or thereby.
+
+                                   ARTICLE V
+
+                  REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+
+         The Company represents and warrants to State Auto Financial that:
+
+         5.1 INVESTMENT. The Company will purchase the Class A Preferred Stock
+only for its own account, for investment purposes and not with a view to resale
+or distribution, and not on behalf of any other person or entity.
+
+         5.2 NO AGREEMENT TO TRANSFER. Except as set forth in this Agreement,
+the Credit Agreement, the Put Agreement and the Company Pledge Agreement, the
+Company is not a party to any agreement, arrangement or understanding concerning
+the transfer of the Class A Preferred Stock or any interest therein to any other
+person or entity.
+
+         5.3 KNOWLEDGE AND EXPERIENCE. The Company has (a) adequate knowledge
+and experience in financial and business matters to be able to evaluate the
+merits and risks of its investment in State Auto Financial and the Class A
+Preferred Stock under this Agreement, or (b) the advice or representation of a
+person or entity having such knowledge and experience.
+
+         5.4 ACCESS TO INFORMATION. The Company has access to sufficient
+information regarding State Auto Financial, including, without limitation, State
+Auto Financial's filings under the Securities Exchange Act of 1934, as amended.
+The Company has requested information concerning State Auto Financial and has
+been given an opportunity to ask questions and receive answers concerning State
+Auto Financial and the terms and conditions of this
+
+
+
+                                     - 9 -
+<PAGE>
+
+Agreement in order to evaluate the merits and risks of its investment in State
+Auto Financial and the Class A Preferred Stock under this Agreement.
+
+         5.5 RISK. The Company is able to bear the economic risk of its
+investment in State Auto Financial and the Class A Preferred Stock under this
+Agreement and to hold the Class A Preferred Stock for purposes of investment.
+
+         5.6 RESTRICTIONS ON TRANSFER.
+
+                  (a) The Class A Preferred Stock which the Company will acquire
+hereunder (i) will not be registered by reason of an exemption from registration
+under Section 3(b) or 4(2) of the Securities Act of 1933, as amended (the
+"SECURITIES ACT"), or Regulation D promulgated thereunder and (ii) is not
+publicly traded, no market exists for the Class A Preferred Stock and the
+Company must hold the Class A Preferred Stock indefinitely unless a subsequent
+transfer or other disposition is registered under the Securities Act or is
+exempt from registration at the time of such transfer or other disposition.
+
+                  (b) In the absence of an effective registration with respect
+to any proposed transfer of the Class A Preferred Stock (other than any transfer
+thereof as contemplated by the Company Pledge Agreement or the Put Agreement),
+State Auto Financial may require, as a condition to such transfer, a legal
+opinion by counsel of its choice, in form and substance as it may determine, or
+other documentation satisfactory to its Board of Directors, that an exemption
+from registration is available for the proposed transfer, and a restrictive
+legend to that effect will be set forth on the stock certificates representing
+the Class A Preferred Stock.
+
+                                   ARTICLE VI
+
+                                    COVENANTS
+
+         6.1 TRANSFER. Except as contemplated by the Company Pledge Agreement
+and the Put Agreement, the Company shall not sell, offer for sale or otherwise
+transfer or dispose of the Class A Preferred Stock or any interest therein,
+unless pursuant to a registration or exemption from registration under the
+Securities Act and all applicable state securities laws then in effect.
+
+         6.2 REDEMPTION. State Auto Financial shall redeem the Class A Preferred
+Stock at the times, in the amounts, at the prices and on such other terms and
+conditions as are described in the stock certificates evidencing such Class A
+Preferred Stock.
+
+         6.3 USE OF PROCEEDS. State Auto Financial shall use the proceeds of the
+sale of Class A Preferred Stock hereunder solely for the purpose of contributing
+such proceeds to State Auto P&C for it to use to pay direct and assumed
+catastrophic loss claims and/or loss adjustment expenses resulting from the
+catastrophic event to which such sale relates.
+
+
+
+                                     - 10 -
+<PAGE>
+                                  ARTICLE VII
+
+                               REGISTRATION RIGHTS
+
+         7.1 DEMAND REGISTRATION.
+
+                  (a) DEMAND REGISTRATION. At any time after the occurrence of a
+Put Dishonor, upon the written request of the holders of a majority of the
+Registrable Securities requesting that State Auto Financial effect the
+registration under the Securities Act of all or part of such holders'
+Registrable Securities and specifying the number of Registrable Securities to be
+registered and the intended method of disposition thereof (a "REGISTRATION
+REQUEST"), State Auto Financial will promptly, and in no event more than ten
+(10) Business Days after receipt of such Registration Request, give written
+notice (a "NOTICE OF DEMAND REGISTRATION") of such request to all other holders
+of Registrable Securities, and thereupon will use its best efforts to effect the
+registration under the Securities Act of:
+
+                           (i) the Registrable Securities which State Auto
+         Financial has been so requested to register by such holders of a
+         majority of the Registrable Securities; and
+
+                           (ii) all other Registrable Securities the holders of
+         which have made written requests to State Auto Financial for
+         registration thereof within 20 days after the giving of the Notice of
+         Demand Registration (which requests shall specify the intended method
+         of disposition thereof),
+
+all to the extent requisite to permit the disposition (in accordance with the
+intended methods thereof) of the Registrable Securities so to be registered. If
+requested by the holders of a majority of the Registrable Securities requested
+to be included in any Demand Registration, the method of disposition of all
+Registrable Securities included in such registration shall be an underwritten
+offering effected in accordance with SECTION 7.4(a) hereof. Subject to paragraph
+(e) of this SECTION 7.1, State Auto Financial may include in such registration
+other securities for sale for its own account or for the account of any other
+Person. If any security holders of State Auto Financial (other than the holders
+of Registrable Securities in such capacity) register securities of State Auto
+Financial in a Demand Registration in accordance with this SECTION 7.1, such
+holders shall pay the fees and expenses of their counsel and their pro rata
+share, on the basis of the respective amounts of the securities included in such
+registration on behalf of each such holder, of the Registration Expenses if the
+Registration Expenses for such registration are not paid by State Auto Financial
+for any reason.
+
+                  (b) LIMITATIONS ON DEMAND REGISTRATIONS. Notwithstanding
+anything herein to the contrary, State Auto Financial shall not be required to
+honor a request for a Demand Registration if:
+
+                           (i) a Put Dishonor shall not have occurred;
+
+                           (ii) in the case of a Long-Form Registration, State
+         Auto Financial has previously effected one Effective Long-Form
+         Registration;
+
+
+
+                                     - 11 -
+<PAGE>
+
+                           (iii) in the case of a Short-Form Registration, State
+         Auto Financial has previously effected one Effective Short-Form
+         Registration; or
+
+                           (iv) such request is received by State Auto Financial
+         less than 90 days following the effective date of any previous
+         registration statement filed in connection with a Demand Registration,
+         regardless of whether any holder of Registrable Securities exercised
+         its rights under this Agreement with respect to such registration.
+
+                  (c) REGISTRATION STATEMENT FORM. Demand Registrations shall be
+on such appropriate registration form promulgated by the Commission as shall be
+selected by State Auto Financial, and shall be reasonably acceptable to the
+holders of a majority of the Registrable Securities to which such registration
+relates, and shall permit the disposition of such Registrable Securities in
+accordance with the intended method or methods specified in their request for
+such registration; PROVIDED that such registration form is available under the
+terms of this Agreement. Notwithstanding the foregoing, if State Auto Financial
+selects a Form S-3 and the use of such form is available under the terms of this
+Agreement and is permitted by law, the holders of a majority of the Registrable
+Securities to which such registration relates may notify State Auto Financial in
+writing that, in the judgment of such holders (or, if applicable, the Managing
+Underwriter), the inclusion of some or all of the information required in a more
+detailed form specified in such notice is of material importance to the success
+of the Public Offering of such Registrable Securities, in which case State Auto
+Financial shall supplement or amend the Form S-3 to include such information.
+
+                  (d) REGISTRATION EXPENSES. State Auto Financial will pay all
+Registration Expenses incurred in connection with any Demand Registration.
+
+                  (e) PRIORITY IN CUTBACK REGISTRATIONS. If a Demand
+Registration becomes a Cutback Registration, State Auto Financial will include
+in any such registration to the extent of the number which the Managing
+Underwriter advises State Auto Financial can be sold in such offering (i) FIRST,
+Registrable Securities requested to be included in such registration by the
+Requesting Holders, pro rata on the basis of the number of Registrable
+Securities requested to be included by such holders and (ii) SECOND, other
+securities of State Auto Financial proposed to be included in such registration,
+allocated among the holders thereof in accordance with the priorities then
+existing among State Auto Financial and the holders of such other securities;
+and any securities so excluded shall be withdrawn from and shall not be included
+in such Demand Registration.
+
+         7.2 PIGGYBACK REGISTRATIONS.
+
+                  (a) RIGHT TO INCLUDE REGISTRABLE SECURITIES. If, at any time
+after the occurrence of a Put Dishonor, State Auto Financial at any time
+proposes after any shares of Class A Preferred Stock have been purchased
+hereunder to effect a Piggyback Registration, it will each such time give prompt
+written notice (a "NOTICE OF PIGGYBACK REGISTRATION"), at least 30 days prior to
+the anticipated filing date, to all holders of Registrable Securities of its
+intention to do so and of such holders' rights under this SECTION 7.2, which
+Notice of Piggyback Registration shall include a description of the intended
+method of disposition of such securities. Upon the written request of any such
+holder made within 15 days after receipt of a Notice of
+
+
+
+                                     - 12 -
+<PAGE>
+
+Piggyback Registration (which request shall specify the Registrable Securities
+intended to be disposed of by such holder and the intended method of disposition
+thereof), State Auto Financial will use its best efforts to include in the
+registration statement relating to such Piggyback Registration all Registrable
+Securities which State Auto Financial has been so requested to register.
+Notwithstanding the foregoing, if, at any time after giving a Notice of
+Piggyback Registration and prior to the effective date of the registration
+statement filed in connection with such registration, State Auto Financial shall
+determine for any reason not to register or to delay registration of such
+securities, State Auto Financial may, at its election, give written notice of
+such determination to each holder of Registrable Securities and, thereupon, (i)
+in the case of a determination not to register, shall be relieved of its
+obligation to register any Registrable Securities in connection with such
+registration (but not from its obligation to pay the Registration Expenses in
+connection therewith), without prejudice, however, to the rights of any
+Requesting Holder entitled to do so to request that such registration be
+effected as a Demand Registration under SECTION 7.1 hereof, and (ii) in the case
+of a determination to delay registering, shall be permitted to delay registering
+any Registrable Securities for the same period as the delay in registering such
+other securities. No registration effected under this SECTION 7.2 shall relieve
+State Auto Financial of its obligations to effect a Demand Registration under
+SECTION 7.1 hereof.
+
+                  (b) REGISTRATION EXPENSES. State Auto Financial will pay all
+ Registration Expenses incurred in connection with each Piggyback Registration.
+
+                  (c) PRIORITY IN CUTBACK REGISTRATIONS. If a Piggyback
+Registration becomes a Cutback Registration, State Auto Financial will include
+in such registration to the extent of the amount of the securities which the
+Managing Underwriter advises State Auto Financial can be sold in such offering:
+
+                           (i) if such registration as initially proposed by
+         State Auto Financial was solely a primary registration of its
+         securities, (x) FIRST, the securities proposed by State Auto Financial
+         to be sold for its own account, and (y) SECOND any Registrable
+         Securities requested to be included in such registration by Requesting
+         Holders, PRO RATA on the basis of the number of Registrable Securities
+         requested to be included by such holders, and (z) THIRD, any other
+         securities of State Auto Financial proposed to be included in such
+         registration, allocated among the holders thereof in accordance with
+         the priorities then existing among State Auto Financial and such
+         holders; and
+
+                           (ii) if such registration as initially proposed by
+         State Auto Financial was in whole or in part requested by holders of
+         securities of State Auto Financial, other than holders of Registrable
+         Securities in their capacities as such, pursuant to demand registration
+         rights, (x) FIRST, such securities held by the holders initiating such
+         registration and, if applicable, any securities proposed by State Auto
+         Financial to be sold for its own account, allocated in accordance with
+         the priorities then existing among State Auto Financial and such
+         holders, and (y) SECOND any Registrable Securities requested to be
+         included in such registration by Requesting Holders, PRO RATA on the
+         basis of the number of Registrable Securities requested to be included
+         by such holders, and (z) THIRD, any other securities of State Auto
+         Financial proposed to be included in such registration, allocated among
+         the holders thereof in accordance with the priorities then existing
+         among State Auto Financial and the holders of such other securities;
+
+
+
+                                     - 13 -
+<PAGE>
+
+and any securities so excluded shall be withdrawn from and shall not be included
+in such Piggyback Registration.
+
+         7.3 REGISTRATION PROCEDURES. If and whenever State Auto Financial is
+required to use its best efforts to effect the registration of any Registrable
+Securities under the Securities Act pursuant to SECTION 7.1 or 7.2 hereof, State
+Auto Financial will use its best efforts to effect the registration and sale of
+such Registrable Securities in accordance with the intended methods of
+disposition thereof specified by the Requesting Holders. Without limiting the
+foregoing, State Auto Financial in each such case will, as expeditiously as
+possible:
+
+                  (a) prepare and file with the Commission the requisite
+registration statement to effect such registration and use its best efforts to
+cause such registration statement to become effective as soon as practicable,
+PROVIDED that as far in advance as practical before filing such registration
+statement or any amendment or supplement thereto, State Auto Financial will
+furnish to the Requesting Holders copies of reasonably complete drafts of all
+such documents proposed to be filed (including exhibits), and any such holder
+shall have the opportunity to object to any information pertaining solely to
+such holder that is contained therein and State Auto Financial will make the
+corrections reasonably requested by such holder with respect to such information
+prior to filing any such registration statement or amendment;
+
+                  (b) prepare and file with the Commission such amendments and
+supplements to such registration statement and any prospectus used in connection
+therewith as may be necessary to maintain the effectiveness of such registration
+statement and to comply with the provisions of the Securities Act with respect
+to the disposition of all Registrable Securities covered by such registration
+statement, in accordance with the intended methods of disposition thereof, until
+the earlier of (i) such time as all of such securities have been disposed of in
+accordance with the intended methods of disposition by the seller or sellers
+thereof set forth in such registration statement and (ii) 180 days after such
+registration statement becomes effective;
+
+                  (c) promptly notify each Requesting Holder and the underwriter
+or underwriters, if any
+
+                           (i) when such registration statement or any
+         prospectus used in connection therewith, or any amendment or supplement
+         thereto, has been filed and, with respect to such registration
+         statement or any post-effective amendment thereto, when the same has
+         become effective;
+
+                           (ii) of any written request by the Commission for
+         amendments or supplements to such registration statement or prospectus;
+
+                           (iii) of the notification to State Auto Financial by
+         the Commission of its initiation of any proceeding with respect to the
+         issuance by the Commission of, or of the issuance by the Commission of,
+         any stop order suspending the effectiveness of such registration
+         statement (and State Auto Financial shall promptly attempt to have such
+         order withdrawn); and
+
+
+
+                                     - 14 -
+<PAGE>
+
+                           (iv) of the receipt by State Auto Financial of any
+         notification with respect to the suspension of the qualification of any
+         Registrable Securities for sale under the applicable securities or blue
+         sky laws of any jurisdiction;
+
+                  (d) furnish to each seller of Registrable Securities covered
+by such registration statement such number of conformed copies of such
+registration statement and of each amendment and supplement thereto (in each
+case including all exhibits and documents incorporated by reference), such
+number of copies of the prospectus contained in such registration statement
+(including each preliminary prospectus and any summary prospectus) and any other
+prospectus filed under Rule 424 promulgated under the Securities Act relating to
+such holder's Registrable Securities, and such other documents, as such seller
+may reasonably request to facilitate the disposition of its Registrable
+Securities;
+
+                  (e) use its best efforts to register or qualify all
+Registrable Securities covered by such registration statement under such other
+securities or blue sky laws of such jurisdictions as each holder thereof shall
+reasonably request, to keep such registration or qualification in effect for so
+long as such registration statement remains in effect, and take any other action
+which may be reasonably necessary or advisable to enable such holder to
+consummate the disposition in such jurisdictions of the Registrable Securities
+owned by such holder, except that State Auto Financial shall not for any such
+purpose be required (i) to qualify generally to do business as a foreign
+corporation in any jurisdiction wherein it would not but for the requirements of
+this paragraph (e) be obligated to be so qualified, (ii) to subject itself to
+taxation in any such jurisdiction or (iii) to consent to general service of
+process in any jurisdiction;
+
+                  (f) use its best efforts to cause all Registrable Securities
+covered by such registration statement to be registered with or approved by such
+other governmental agencies or authorities as may be necessary to enable each
+holder thereof to consummate the disposition of such Registrable Securities;
+
+                  (g) furnish to each Requesting Holder a signed counterpart
+addressed to such holder (and the underwriters, if any), of
+
+                           (i) an opinion of counsel for State Auto Financial,
+         dated the effective date of such registration statement (or, if such
+         registration includes an underwritten Public Offering, dated the date
+         of any closing under the underwriting agreement), reasonably
+         satisfactory in form and substance to such holder, and
+
+                           (ii) a "comfort" letter, dated the effective date of
+         such registration statement (and, if such registration includes an
+         underwritten Public Offering, dated the date of any closing under the
+         underwriting agreement), signed by the independent public accountants
+         who have certified State Auto Financial's financial statements included
+         in such registration statement,
+
+in each case covering substantially the same matters with respect to such
+registration statement (and the prospectus included therein) and, in the case of
+the accountants' letter, with respect to events subsequent to the date of such
+financial statements, as are customarily covered in opinions of issuer's counsel
+and in accountants' letters delivered to the underwriters in underwritten
+
+
+
+                                     - 15 -
+<PAGE>
+
+Public Offerings of securities and, in the case of the accountants' letter, such
+other financial matters, as such holder (or the underwriters, if any) may
+reasonably request;
+
+                  (h) notify each holder of Registrable Securities covered by
+such registration statement, at any time when a prospectus relating thereto is
+required to be delivered under the Securities Act, of the happening of any event
+as a result of which any prospectus included in such registration statement, as
+then in effect, includes an untrue statement of a material fact or omits to
+state any material fact required to be stated therein or necessary to make the
+statements therein, in the light of the circumstances under which they were
+made, not misleading, and at the request of any such holder promptly prepare and
+furnish to such holder a reasonable number of copies of a supplement to or an
+amendment of such prospectus as may be necessary so that, as thereafter
+delivered to the purchasers of such securities, such prospectus shall not
+include an untrue statement of a material fact or omit to state a material fact
+required to be stated therein or necessary to make the statements therein, in
+the light of the circumstances under which they were made, not misleading;
+
+                  (i) otherwise use its best efforts to comply with all
+applicable rules and regulations of the Commission, and make available to its
+securityholders, as soon as reasonably practicable, an earnings statement
+covering the period of at least twelve (12) months, but not more than eighteen
+(18) months, beginning with the first full calendar month after the effective
+date of such registration statement, which earnings statement shall satisfy the
+provisions of Section 11(a) of the Securities Act and Rule 158 promulgated
+thereunder;
+
+                  (j) make available for inspection by any Requesting Holder,
+any underwriter participating in any disposition pursuant to such registration
+statement and any attorney, accountant or other agent retained by any such
+seller or underwriter (collectively, the "INSPECTORS"), all financial and other
+records, pertinent corporate documents and properties of State Auto Financial
+(collectively, the "RECORDS") as shall be reasonably necessary to enable them to
+exercise their due diligence responsibility, and cause State Auto Financial's
+officers, directors and employees to supply all information reasonably requested
+by any such Inspector in connection with such registration statement, and permit
+the Inspectors to participate in the preparation of such registration statement
+and any prospectus contained therein and any amendment or supplement thereto.
+Records which State Auto Financial determines, in good faith, to be confidential
+and which it notifies the Inspectors are confidential shall not be disclosed by
+the Inspectors unless (i) the disclosure of such Records is necessary to avoid
+or correct a misstatement or omission in the registration statement, (ii) the
+release of such Records is ordered pursuant to a subpoena or other order from a
+court of competent jurisdiction or (iii) the information in such Records has
+been made generally available to the public. The seller of Registrable
+Securities agrees by acquisition of such Registrable Securities that it will,
+upon learning that disclosure of such Records is sought in a court of competent
+jurisdiction, give notice to State Auto Financial and allow State Auto
+Financial, at State Auto Financial's expense, to undertake appropriate action to
+prevent disclosure of the Records deemed confidential;
+
+                  (k) provide a transfer agent and registrar for all Registrable
+Securities covered by such registration statement not later than the effective
+date of such registration statement; and
+
+
+
+                                     - 16 -
+<PAGE>
+
+                  (l) use its best efforts to cause all Registrable Securities
+covered by such registration statement to be listed, upon official notice of
+issuance, on any securities exchange on which any of the securities of the same
+class as the Registrable Securities are then listed.
+
+                  State Auto Financial may require each holder of Registrable
+Securities as to which any registration is being effected to, and each such
+holder, as a condition to including Registrable Securities in such registration,
+shall, furnish State Auto Financial with such information and affidavits
+regarding such holder and the distribution of such securities as State Auto
+Financial may from time to time reasonably request in writing in connection with
+such registration.
+
+                  Each holder of Registrable Securities agrees by acquisition of
+such Registrable Securities that upon receipt of any notice from State Auto
+Financial of the happening of any event of the kind described in paragraph (h)
+of this SECTION 7.3, such holder will forthwith discontinue such holder's
+disposition of Registrable Securities pursuant to the registration statement
+relating to such Registrable Securities until such holder's receipt of the
+copies of the supplemented or amended prospectus contemplated by such paragraph
+(h) and, if so directed by State Auto Financial, will deliver to State Auto
+Financial (at State Auto Financial's expense) all copies, other than permanent
+file copies, then in such holder's possession of the prospectus relating to such
+Registrable Securities current at the time of receipt of such notice. In the
+event State Auto Financial shall give any such notice, the period referred to in
+paragraph (b) of this SECTION 7.3 shall be extended by a number of days equal to
+the number of days during the period from and including the giving of notice
+pursuant to paragraph (h) of this SECTION 7.3 and to and including the date when
+each holder of any Registrable Securities covered by such registration statement
+shall receive the copies of the supplemented or amended prospectus contemplated
+by such paragraph (h).
+
+         7.4 UNDERWRITTEN OFFERINGS.
+
+                  (a) UNDERWRITTEN DEMAND OFFERINGS. In the case of any
+underwritten Public Offering being effected pursuant to a Demand Registration,
+the Managing Underwriter and any other underwriter or underwriters with respect
+to such offering shall be selected, after consultation with State Auto
+Financial, by the holders of a majority of the Registrable Securities to be
+included in such underwritten offering with the consent of State Auto Financial,
+which consent shall not be unreasonably withheld. State Auto Financial shall
+enter into an underwriting agreement in customary form with such underwriter or
+underwriters, which shall include, among other provisions, indemnities to the
+effect and to the extent provided in SECTION 7.6 hereof and shall take all such
+other actions as are reasonably requested by the Managing Underwriter in order
+to expedite or facilitate the registration and disposition of the Registrable
+Securities. The holders of Registrable Securities to be distributed by such
+underwriters shall be parties to such underwriting agreement and may, at their
+option, require that any or all of the representations and warranties by, and
+the other agreements on the part of, State Auto Financial to and for the benefit
+of such underwriters also be made to and for their benefit and that any or all
+of the conditions precedent to the obligations of such underwriters under such
+underwriting agreement also be conditions precedent to their obligations. No
+holder of Registrable Securities shall be required to make any representations
+or warranties to or agreements with State Auto Financial or the underwriters
+other than representations, warranties
+
+
+
+                                     - 17 -
+<PAGE>
+
+or agreements regarding such holder and its ownership of the securities being
+registered on its behalf and such holder's intended method of distribution and
+any other representation required by law. No Requesting Holder may participate
+in such underwritten offering unless such holder agrees to sell its Registrable
+Securities on the basis provided in such underwriting agreement and completes
+and executes all questionnaires, powers of attorney, indemnities and other
+documents reasonably required under the terms of such underwriting agreement. If
+any Requesting Holder disapproves of the terms of an underwriting, such holder
+may elect to withdraw therefrom and from such registration by notice to State
+Auto Financial and the Managing Underwriter, and each of the remaining
+Requesting Holders shall be entitled to increase the number of Registrable
+Securities being registered to the extent of the Registrable Securities so
+withdrawn in the proportion which the number of Registrable Securities being
+registered by such remaining Requesting Holder bears to the total number of
+Registrable Securities being registered by all such remaining Requesting
+Holders.
+
+                  (b) UNDERWRITTEN PIGGYBACK OFFERINGS. If State Auto Financial
+at any time proposes to register any of its securities in a Piggyback
+Registration and such securities are to be distributed by or through one or more
+underwriters, State Auto Financial will, subject to the provisions of SECTION
+7.2(c) hereof, use its best efforts, if requested by any holder of Registrable
+Securities, to arrange for such underwriters to include the Registrable
+Securities to be offered and sold by such holder among the securities to be
+distributed by such underwriters, and such holders shall be obligated to sell
+their Registrable Securities in such Piggyback Registration through such
+underwriters on the same terms and conditions as apply to the other Company
+securities to be sold by such underwriters in connection with such Piggyback
+Registration. The holders of Registrable Securities to be distributed by such
+underwriters shall be parties to the underwriting agreement between State Auto
+Financial and such underwriter or underwriters and may, at their option, require
+that any or all of the representations and warranties by, and the other
+agreements on the part of, State Auto Financial to and for the benefit of such
+underwriters also be made to and for their benefit and that any or all of the
+conditions precedent to the obligations of such underwriters under such
+underwriting agreement also be conditions precedent to their obligations. No
+holder of Registrable Securities shall be required to make any representations
+or warranties to or agreements with State Auto Financial or the underwriters
+other than representations, warranties or agreements regarding such holder and
+its ownership of the securities being registered on its behalf and such holder's
+intended method of distribution and any other representation required by law. No
+Requesting Holder may participate in such underwritten offering unless such
+holder agrees to sell its Registrable Securities on the basis provided in such
+underwriting agreement and completes and executes all questionnaires, powers of
+attorney, indemnities and other documents reasonably required under the terms of
+such underwriting agreement. If any Requesting Holder disapproves of the terms
+of an underwriting, such holder may elect to withdraw therefrom and from such
+registration by notice to State Auto Financial and the Managing Underwriter, and
+each of the remaining Requesting Holders shall be entitled to increase the
+number of Registrable Securities being registered to the extent of the
+Registrable Securities so withdrawn in the proportion which the number of
+Registrable Securities being registered by such remaining Requesting Holder
+bears to the total number of Registrable Securities being registered by all such
+remaining Requesting Holders.
+
+         7.5 HOLDBACK AGREEMENTS BY STATE AUTO FINANCIAL AND OTHER
+SECURITYHOLDERS. Unless the Managing Underwriter otherwise agrees, State Auto
+Financial and each holder of
+
+
+
+                                     - 18 -
+<PAGE>
+
+Registrable Securities agrees not to effect any public sale or distribution of
+its equity securities, or any securities convertible into or exchangeable or
+exercisable for such securities, during the 14 days prior to and the 180 days
+after the effective date of the registration statement filed in connection with
+an underwritten offering made pursuant to a Demand Registration (or for such
+shorter period of time as is sufficient and appropriate, in the opinion of the
+Managing Underwriter, in order to complete the sale and distribution of the
+securities included in such registration), except as part of such underwritten
+registration and except pursuant to registrations on Form S-4 or Form S-8
+promulgated by the Commission or any successor or similar forms thereto. State
+Auto Financial also agrees, unless the Managing Underwriter otherwise agrees, to
+cause each holder of its equity securities which is a party to a registration
+rights agreement with State Auto Financial entered into on or after the date
+hereof, and each holder of its equity securities, or of any securities
+convertible into or exchangeable or exercisable for such securities, in each
+case purchased from State Auto Financial, at any time after the date of this
+Agreement (other than in a Public Offering), to agree, to the extent permitted
+by law, not to effect any such public sale or distribution of such securities
+(including a sale under Rule 144), during such period, except as part of such
+underwritten registration.
+
+         7.6 INDEMNIFICATION.
+
+                  (a) INDEMNIFICATION BY STATE AUTO FINANCIAL. State Auto
+Financial shall, to the full extent permitted by law, indemnify and hold
+harmless each seller of Registrable Securities included in any registration
+statement filed in connection with a Demand Registration or a Piggyback
+Registration, its directors and officers, and each other Person, if any, who
+controls any such seller within the meaning of the Securities Act, against any
+losses, claims, damages, expenses or liabilities, joint or several (together,
+"LOSSES"), to which such seller or any such director or officer or controlling
+Person may become subject under the Securities Act or otherwise, insofar as such
+Losses (or actions or proceedings, whether commenced or threatened, in respect
+thereof) arise out of or are based upon any untrue statement or alleged untrue
+statement of any material fact contained in any such registration statement, any
+preliminary prospectus, final prospectus or summary prospectus contained
+therein, or any amendment or supplement thereto, or any omission or alleged
+omission to state therein a material fact required to be stated therein or
+necessary to make the statements therein (in the case of a prospectus, in the
+light of the circumstances under which they were made) not misleading, and State
+Auto Financial will reimburse such seller and each such director, officer and
+controlling Person for any legal or any other expenses reasonably incurred by
+them in connection with investigating or defending any such Loss (or action or
+proceeding in respect thereof); PROVIDED that State Auto Financial shall not be
+liable in any such case to the extent that any such Loss (or action or
+proceeding in respect thereof) arises out of or is based upon an untrue
+statement or alleged untrue statement or omission or alleged omission made in
+any such registration statement, preliminary prospectus, final prospectus,
+summary prospectus, amendment or supplement in reliance upon and in conformity
+with written information furnished to State Auto Financial through an instrument
+duly executed by such seller specifically stating that it is for use in the
+preparation thereof. Such indemnity shall remain in full force and effect
+regardless of any investigation made by or on behalf of such seller or any such
+director, officer or controlling Person, and shall survive the transfer of such
+securities by such seller. State Auto Financial shall also indemnify each other
+Person who participates (including as an underwriter) in the offering or sale of
+Registrable Securities, their officers and directors and each other Person, if
+any, who controls
+
+
+
+                                     - 19 -
+<PAGE>
+
+any such participating Person within the meaning of the Securities Act to the
+same extent as provided above with respect to sellers of Registrable Securities.
+
+                  (b) INDEMNIFICATION BY THE SELLERS. Each holder of Registrable
+Securities which are included or are to be included in any registration
+statement filed in connection with a Demand Registration or a Piggyback
+Registration, as a condition to including Registrable Securities in such
+registration statement, shall, to the full extent permitted by law, indemnify
+and hold harmless State Auto Financial, its directors and officers, and each
+other Person, if any, who controls State Auto Financial within the meaning of
+the Securities Act, against any Losses to which State Auto Financial or any such
+director or officer or controlling Person may become subject under the
+Securities Act or otherwise, insofar as such Losses (or actions or proceedings,
+whether commenced or threatened, in respect thereof) arise out of or are based
+upon any untrue statement or alleged untrue statement of any material fact
+contained in any such registration statement, any preliminary prospectus, final
+prospectus or summary prospectus contained therein, or any amendment or
+supplement thereto, or any omission or alleged omission to state therein a
+material fact required to be stated therein or necessary to make the statements
+therein (in the case of a prospectus, in the light of the circumstances under
+which they were made) not misleading, if such untrue statement or alleged untrue
+statement or omission or alleged omission was made in reliance upon and in
+conformity with written information furnished to State Auto Financial through an
+instrument duly executed by such seller specifically stating that it is for use
+in the preparation of such registration statement, preliminary prospectus, final
+prospectus, summary prospectus, amendment or supplement; PROVIDED however, that
+the obligation to provide indemnification pursuant to this SECTION 7.6(b) shall
+be several, and not joint and several, among such Indemnifying Parties on the
+basis of the number of Registrable Securities included in such registration
+statement and the aggregate amount which may be recovered from any holder of
+Registrable Securities pursuant to the indemnification provided for in this
+SECTION 7.6(B) in connection with any registration and sale of Registrable
+Securities shall be limited to the total proceeds received by such holder from
+the sale of such Registrable Securities. Such indemnity shall remain in full
+force and effect regardless of any investigation made by or on behalf of State
+Auto Financial or any such director, officer or controlling Person and shall
+survive the transfer of such securities by such seller. Such holders shall also
+indemnify each other Person who participates (including as an underwriter) in
+the offering or sale of Registrable Securities, their officers and directors and
+each other Person, if any, who controls any such participating Person within the
+meaning of the Securities Act to the same extent as provided above with respect
+to State Auto Financial.
+
+                  (c) NOTICES OF CLAIMS, ETC. Promptly after receipt by an
+Indemnified Party of notice of the commencement of any action or proceeding
+involving a claim referred to in the preceding paragraph (a) or (b) of this
+SECTION 7.6, such Indemnified Party will, if a claim in respect thereof is to be
+made against an Indemnifying Party pursuant to such paragraphs, give written
+notice to the latter of the commencement of such action, PROVIDED that the
+failure of any Indemnified Party to give notice as provided herein shall not
+relieve the Indemnifying Party of its obligations under the preceding paragraphs
+of this SECTION 7.6, except to the extent that the Indemnifying Party is
+actually prejudiced by such failure to give notice. In case any such action is
+brought against an Indemnified Party, the Indemnifying Party shall be entitled
+to participate in and, unless, in the reasonable judgment of any Indemnified
+Party, a conflict of interest between such Indemnified Party and any
+Indemnifying Party exists with respect to such claim, to assume
+
+
+
+                                     - 20 -
+<PAGE>
+
+the defense thereof, jointly with any other Indemnifying Party similarly
+notified to the extent that it may wish, with counsel reasonably satisfactory to
+such Indemnified Party, and after notice from the Indemnifying Party to such
+Indemnified Party of its election so to assume the defense thereof, the
+Indemnifying Party shall not be liable to such Indemnified Party for any legal
+or other expenses subsequently incurred by the latter in connection with the
+defense thereof other than reasonable costs of investigation; PROVIDED that the
+Indemnified Party may participate in such defense at the Indemnified Party's
+expense; and PROVIDED further that the Indemnified Party or Indemnified Parties
+shall have the right to employ one counsel to represent it or them if, in the
+reasonable judgment of the Indemnified Party or Indemnified Parties, it is
+advisable for it or them to be represented by separate counsel by reason of
+having legal defenses which are different from or in addition to those available
+to the Indemnifying Party, and in that event the reasonable fees and expenses of
+such one counsel shall be paid by the Indemnifying Party. If the Indemnifying
+Party is not entitled to, or elects not to, assume the defense of a claim, it
+will not be obligated to pay the fees and expenses of more than one counsel for
+the Indemnified Parties with respect to such claim, unless in the reasonable
+judgment of any Indemnified Party a conflict of interest may exist between such
+Indemnified Party and any other Indemnified Parties with respect to such claim,
+in which event the Indemnifying Party shall be obligated to pay the fees and
+expenses of such additional counsel for the Indemnified Parties or counsels. No
+Indemnifying Party shall consent to entry of any judgment or enter into any
+settlement without the consent of the Indemnified Party. No Indemnifying Party
+shall be subject to any liability for any settlement made without its consent,
+which consent shall not be unreasonably withheld.
+
+                  (d) CONTRIBUTION. If the indemnity and reimbursement
+obligation provided for in any paragraph of this SECTION 7.6 is unavailable or
+insufficient to hold harmless an Indemnified Party in respect of any Losses (or
+actions or proceedings in respect thereof) referred to therein, then the
+Indemnifying Party shall contribute to the amount paid or payable by the
+Indemnified Party as a result of such Losses (or actions or proceedings in
+respect thereof) in such proportion as is appropriate to reflect the relative
+fault of the Indemnifying Party on the one hand and the Indemnified Party on the
+other hand in connection with statements or omissions which resulted in such
+Losses, as well as any other relevant equitable considerations. The relative
+fault shall be determined by reference to, among other things, whether the
+untrue or alleged untrue statement of a material fact or the omission or alleged
+omission to state a material fact relates to information supplied by the
+Indemnifying Party or the Indemnified Party and the parties' relative intent,
+knowledge, access to information and opportunity to correct or prevent such
+untrue statement or omission. The parties hereto agree that it would not be just
+and equitable if contributions pursuant to this paragraph were to be determined
+by pro rata allocation or by any other method of allocation which does not take
+account of the equitable considerations referred to in the first sentence of
+this paragraph. The amount paid by an Indemnified Party as a result of the
+Losses referred to in the first sentence of this paragraph shall be deemed to
+include any legal and other expenses reasonably incurred by such Indemnified
+Party in connection with investigating or defending any Loss which is the
+subject of this paragraph.
+
+                  No Indemnified Party guilty of fraudulent misrepresentation
+(within the meaning of Section 11(f) of the Securities Act) shall be entitled to
+contribution from the Indemnifying Party if the Indemnifying Party was not
+guilty of such fraudulent misrepresentation.
+
+
+
+                                     - 21 -
+<PAGE>
+
+                  (e) OTHER INDEMNIFICATION. Indemnification similar to that
+specified in the preceding paragraphs of this SECTION 7.6 (with appropriate
+modifications) shall be given by State Auto Financial and each seller of
+Registrable Securities with respect to any required registration or other
+qualification of securities under any federal or state law or regulation of any
+governmental authority other than the Securities Act. The provisions of this
+SECTION 7.6 shall be in addition to any other rights to indemnification or
+contribution which an Indemnified Party may have pursuant to law, equity,
+contract or otherwise.
+
+                  (f) INDEMNIFICATION PAYMENTS. The indemnification required by
+this SECTION 7.6 shall be made by periodic payments of the amount thereof during
+the course of the investigation or defense, as and when bills are received or
+Losses are incurred.
+
+         7.7 COVENANTS RELATING TO RULE 144. The Company will file reports in
+compliance with the Exchange Act, will comply with all rules and regulations of
+the Commission applicable in connection with the use of Rule 144 and take such
+other actions and furnish such holder with such other information as such holder
+may request in order to avail itself of such rule or any other rule or
+regulation of the Commission allowing such holder to sell any Registrable
+Securities without registration and will, at its expense, forthwith upon the
+request of any holder of Registrable Securities, deliver to such holder a
+certificate, signed by State Auto Financial's principal financial officer,
+stating (a) State Auto Financial's name, address and telephone number (including
+area code), (b) State Auto Financial's Internal Revenue Service identification
+number, (c) State Auto Financial's Commission file number, (d) the number of
+shares of each class of Stock outstanding as shown by the most recent report or
+statement published by State Auto Financial, and (e) whether State Auto
+Financial has filed the reports required to be filed under the Exchange Act for
+a period of at least 90 days prior to the date of such certificate and in
+addition has filed the most recent annual report required to be filed
+thereunder.
+
+         7.8 REFERENCES TO HOLDERS OF REGISTRABLE SECURITIES. For purposes of
+this Agreement, references to holders of the Registrable Securities or holders
+of a majority of the Registrable Securities shall be deemed to refer to the
+pledgee of the Registered Securities under the Pledge and Security Agreement
+dated as of even date herewith between the Company and the Agent (as modified
+and supplemented and in effect from time to time, the "PLEDGE AGREEMENT") for so
+long as the Pledge Agreement shall remain in effect.
+
+                                  ARTICLE VIII
+
+                                  MISCELLANEOUS
+
+         8.1 WAIVER. No failure on the part of the either party hereto to
+exercise and no delay in exercising, and no course of dealing with respect to,
+any right, power or privilege under this Agreement shall operate as a waiver
+thereof, nor shall any single or partial exercise of any right, power or
+privilege under this Agreement preclude any other or further exercise thereof or
+the exercise of any other right, power or privilege. The remedies provided
+herein are cumulative and not exclusive of any remedies provided by law.
+
+
+
+                                     - 22 -
+<PAGE>
+
+         8.2 NOTICES. All notices, requests and other communications to any
+party hereunder shall be in writing (including electronic transmission,
+facsimile transmission or similar writing) and shall be given to such party at
+its address or facsimile number set forth on the signature pages hereof at such
+other address or facsimile number as such party may hereafter specify for the
+purpose by notice to the Agent and the Borrower in accordance with the
+provisions of this SECTION 8.2. Each such notice, request or other communication
+shall be effective (a) if given by facsimile transmission, when transmitted to
+the facsimile number specified in this Section and confirmation of receipt is
+received, (b) if given by mail, 72 hours after such communication is deposited
+in the mails with first class postage prepaid, addressed as aforesaid, or (c) if
+given by any other means, when delivered (or, in the case of electronic
+transmission, received) at the address specified in this Section.
+
+         8.3 AMENDMENTS, ETC. Except as otherwise expressly provided in this
+Agreement and subject to the Credit Agreement and the Put Agreement, any
+provision of this Agreement may be modified or supplemented only by an
+instrument in writing signed by each of State Auto Financial and the Company
+(with the consent of the Agent and the Lenders as specified in the Credit
+Agreement), and any provision of this Agreement may be waived by the Company
+(with the consent of the Agent and the Lenders as specified in the Credit
+Agreement).
+
+         8.4 SUCCESSORS AND ASSIGNS. This Agreement shall be binding upon and
+inure to the benefit of the parties hereto and their respective successors and
+permitted assigns, PROVIDED, that State Auto Financial may not assign any of its
+rights or obligations hereunder without the prior consent of the Company (with
+the consent of the Agent and all of the Lenders).
+
+         8.5 CAPTIONS. The captions and section headings appearing herein are
+included solely for convenience of reference and are not intended to affect the
+interpretation of any provision of this Agreement.
+
+         8.6 COUNTERPARTS. This Agreement may be executed in any number of
+counterparts, all of which taken together shall constitute one and the same
+instrument and any of the parties hereto may execute this Agreement by signing
+any such counterpart.
+
+         8.7 GOVERNING LAW; SUBMISSION TO JURISDICTION. This Agreement shall be
+governed by, and construed in accordance with, the law of the State of Illinois.
+Each of State Auto Financial and the Company hereby submits to the nonexclusive
+jurisdiction of the United States District Court for the Northern District of
+Illinois and of the Supreme Court of the State of Illinois sitting in Cook
+County (including its Appellate Division), and of any other appellate court in
+the State of Illinois, for the purposes of all legal proceedings arising out of
+or relating to this Agreement or the transactions contemplated hereby. Each of
+State Auto Financial and the Company hereby irrevocably waives, to the fullest
+extent permitted by applicable law, any objection that it may now or hereafter
+have to the laying of the venue of any such proceeding brought in such a court
+and any claim that any such proceeding brought in such a court has been brought
+in an inconvenient forum.
+
+         8.8 WAIVER OF JURY TRIAL. EACH OF STATE AUTO FINANCIAL AND THE COMPANY
+HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW,
+ANY AND ALL RIGHT TO TRIAL BY JURY
+
+
+
+                                     - 23 -
+<PAGE>
+
+IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE
+TRANSACTIONS CONTEMPLATED HEREBY.
+
+         8.9 FURTHER ASSURANCES. State Auto Financial agrees that, from time to
+time upon the written request of the Agent, State Auto Financial will execute
+and deliver such further documents and do such other acts and things as the
+Company, the Agent or any Lender (through the Agent) may reasonably request in
+order fully to effect the purposes of this Agreement.
+
+         8.10 PAYMENTS BY STATE AUTO FINANCIAL. The Company hereby instructs
+State Auto Financial to make any payments required to be made by State Auto
+Financial hereunder or otherwise in respect of the Class A Preferred Stock
+(including, without limitation, any amounts payable upon any redemption of the
+Class A Preferred Stock, any dividends payable on the Class A Preferred Stock
+and the commitment fee payable under SECTION 2.3 hereof) directly to the Agent,
+for the benefit of the Lenders. Each such payment shall be made by State Auto
+Financial in accordance with the provisions of the Credit Agreement.
+
+         8.11 PAYMENTS RECEIVED BY THE COMPANY UNDER BASIC DOCUMENTS. Any
+amounts paid to the Company under any of the Basic Documents (other than the
+proceeds of the Loans made under the Credit Agreement) shall be applied as
+directed by State Auto Financial.
+
+         8.12 THIRD-PARTY BENEFICIARIES. Each of State Auto Financial and the
+Company agrees that the Agent and each Lender shall be third-party beneficiaries
+of this Agreement and shall be entitled to enforce its respective rights
+hereunder as fully as if it were a party hereto.
+
+         8.13 SEVERABILITY. If any provision hereof is invalid and unenforceable
+in any jurisdiction, then, to the fullest extent permitted by law, (a) the other
+provisions hereof shall remain in full force and effect in such jurisdiction in
+order to carry out the intentions of the parties hereto as nearly as may be
+possible and (b) the invalidity or unenforceability of any provision hereof in
+any jurisdiction shall not affect the validity or enforceability of such
+provision in any other jurisdiction.
+
+                            [signature page follows]
+
+
+
+
+
+
+
+
+                                     - 24 -
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed and delivered as of the day and year first above written.
+
+
+                                      STATE AUTO FINANCIAL CORPORATION
+
+                                      By /s/ John R. Lowther
+                                         --------------------------------------
+                                      Title: Senior Vice President
+
+                                      Address for Notices:
+
+                                      State Auto Financial Corporation
+                                      518 East Broad Street
+                                      Columbus, Ohio 43215
+                                      Attention: John Lowther, Esq.
+                                      Telecopier No.: 614-464-4911
+                                      Telephone No.: 614-464-5052
+
+
+                                      SAF FUNDING CORPORATION
+
+                                      By
+                                         --------------------------------------
+                                      Title: VICE PRESIDENT
+
+                                      Address for Notices:
+
+                                      SAF Funding Corporation
+                                      2 Wall Street
+                                      New York, New York 10005
+                                      Attention: Richard Taiano
+                                      Telecopier No.: 212-346-9012
+                                      Telephone No.: 212-346-9006
+
+
+
+
+
+                                       S-1
+              [TO AMENDED AND RESTATED STANDBY PURCHASE AGREEMENT]
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed and delivered as of the day and year first above written.
+
+
+                                      STATE AUTO FINANCIAL CORPORATION
+
+                                      By /s/ John R. Lowther
+                                         --------------------------------------
+                                      Title: Senior Vice President
+
+                                      Address for Notices:
+
+                                      State Auto Financial Corporation
+                                      518 East Broad Street
+                                      Columbus, Ohio 43215
+                                      Attention: John Lowther, Esq.
+                                      Telecopier No.: 614-464-4911
+                                      Telephone No.: 614-464-5052
+
+
+                                      SAF FUNDING CORPORATION
+
+                                      By /s/ Andy Yan
+                                         --------------------------------------
+                                      Title: VICE PRESIDENT
+
+                                      Address for Notices:
+
+                                      SAF Funding Corporation
+                                      2 Wall Street
+                                      New York, New York 10005
+                                      Attention: Andy Yan
+                                      Telecopier No.: 212-346-9012
+                                      Telephone No.: 212-346-9006
+
+
+
+
+
+                                       S-1
+              [TO AMENDED AND RESTATED STANDBY PURCHASE AGREEMENT]
+
+<PAGE>
+
+                           STANDBY PURCHASE AGREEMENT
+
+                                   SCHEDULE 1
+                                     PART A
+
+                                 EQUITY RIGHTS
+
+
+State Auto Financial has in place several stock option plans, all of which are
+registered with the SEC. These plans are disclosed in the footnotes to the
+financial statements of State Auto Financial filed with the SEC form 10K for
+the year 2000. A copy of these Stock Option Plan footnotes is attached hereto
+as Exhibit A.
+
+
+
+
+Agreemen/Standby Purchase Agreement 11-05-01
+<PAGE>
+
+               STATE AUTO FINANCIAL CORPORATION AND SUBSIDIARIES
+   (a majority-owned subsidiary of State Automobile Mutual Insurance Company)
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+
+(10) PREFERRED STOCK
+
+     State Auto Financial has authorized two classes of preferred stock. For
+both classes, upon issuance, the Board of Directors has authority to fix and
+determine the significant features of the shares issued, including, among other
+things, the dividend rate, redemption price, redemption rights, conversion
+features and liquidation price payable in the event of any liquidation,
+dissolution, or winding up of the affairs of State Auto Financial. See note 6
+(a) regarding State Auto Financial's obligation to issue redeemable preferred
+shares to SPC in connection with its catastrophic reinsurance arrangements with
+a financial institution.
+
+     The Class A preferred stock is not entitled to voting rights until, for
+any period, dividends are in arrears in the amount of six or more quarterly
+dividends.
+
+(11) STOCK INCENTIVE PLANS
+
+     The Company follows Accounting Principles Board Option No. 25, "Accounting
+for Stock Issued to Employees" (APB 25) and related interpretations in
+accounting for its employee stock incentive plans. For stock options granted to
+employees of Mutual in 1999, the Company also followed APB 25 and related
+interpretations, as the Company deemed such employees to be common law
+employees of the Company. Compensation cost charged against operations in 2000
+and 1999 were $31,000 and $137,000, respectively, for those employee stock
+options granted where the exercise price was less than the market price of the
+underlying stock on the date of grant. Had compensation cost for the Company's
+plans been determined based on the fair values at the grant dates consistent
+with the method of SFAS No. 123, "Accounting for Stock-Based Compensation,"
+SFAS No. 123), the Company's pro forma net earnings and net earnings per share
+information would have been as follows:
+
+                                                   2000       1999      1998
+                                                   ----       ----      ----
+                                                     (in thousands, except
+                                                       per share figures)
+
+Pro forma net earnings .......................... $45,784    41,414    35,700
+
+Pro forma net earnings per common share
+  Basic ......................................... $  1.19      1.02      0.85
+  Diluted ....................................... $  1.17      1.00      0.83
+
+The fair value of options granted in 2000, 1999 and 1998 were estimated at the
+date of grant using the Black-Scholes option-pricing model. The weighted
+average fair values and related assumptions for options granted were as follows:
+
+                                                   2000       1999      1998
+                                                   ----       ----      ----
+
+Fair value ...................................... $4.66      $4.49     $6.10
+Dividend yield ..................................   .90%       .90%      .75%
+Risk free interest rate .........................  6.51%      5.77%     5.31%
+Expected volatility factor ......................   .34        .32       .31
+Expected life (years) ...........................   7.2        5.7       6.6
+
+     The Black-Scholes option valuation model was developed for use in
+estimating the fair value of traded options which have no vesting restrictions
+and are fully transferable. In addition, option valuation models require the
+input of highly subjective assumptions including the expected stock price
+volatility. Because the Company's employee stock options have characteristics
+significantly different from those of traded options, and because changes in
+the subjective input assumptions can materially affect the fair value estimate,
+in management's opinion, the existing models do not necessarily provide a
+reliable single measure of the fair value of its employee stock options.
+
+     The Company has stock option plans for certain directors and key
+employees. The nonemployee directors' plan provides each nonemployee director
+an option to purchase 1,500 shares of common stock following each annual
+meeting of the shareholders at an option price equal to the fair market value
+at the last business day prior to the annual meeting. The Company has reserved
+300,000 shares of common stock under this plan. These options are exercisable
+at issuance to 10 years from date of grant. The key employee's plan provides
+that qualified stock options
+
+<PAGE>
+
+               STATE AUTO FINANCIAL CORPORATION AND SUBSIDIARIES
+   (a majority-owned subsidiary of State Automobile Mutual Insurance Company)
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+
+may be granted at an option price not less than fair market value at date of
+grant and that nonqualified stock options may be granted at any price
+determined by the options committee of the Board of Directors. The Company has
+reserved 5,000,000 shares of common stock under this plan. These options are
+exercisable at such time or times as may be determined by a committee of the
+Company's Board of Directors. Normally, for certain employees these options are
+exercisable from 1 to 10 years from date of grant and 3 to 10 years for
+remaining employees.
+
+     The Company has an employee stock purchase plan with a dividend
+reinvestment feature, under which employees of the Company may choose at two
+different specified time intervals each year to have up to 6% of their annual
+base earnings withheld to purchase the Company's common stock. The purchase
+price of the stock is 85% of the lower of its beginning-of-interval or end-of-
+interval market price. The Company has reserved 2,400,000 shares of common
+stock under this plan. At December 31, 2000, 1,699,000 shares have been
+purchased under this plan.
+
+     The Company has a stock option incentive plan for certain designated
+independent insurance agencies that represent the Company and its affiliates.
+The Company has reserved 400,000 shares of common stock under this plan. The
+plan provides that the options become exercisable on the first day of the
+calendar year following the agency's achievement of specific production and
+profitability requirements over a period not greater than two calendar years
+from date of grant or a portion thereof in the first calendar year in which an
+agency commences participation under the plan. Options granted and vested under
+this plan have a 10-year term. The Company has accounted for the plan in its
+accompanying financial statements at fair value. The fair value of options
+granted was estimated at the reporting date or vesting date using the
+Black-Scholes option-pricing model. The weighted average fair value and related
+assumptions for 2000 and 1999, respectively, were as follows: fair value of
+$10.91 and $4.02; dividend yield of .90% for both years; expected volatility
+factor of .32 and .30; risk-free interest rate of 5.19% and 6.80%; and expected
+life of the option of 9.0 and 9.7 years. Expense of $493,000 and $105,000
+associated with this plan was recognized in 2000 and 1999, respectively.
+
+     A summary of the Company's stock option activity and related information
+for these plans for the years ended December 31, 2000, 1999 and 1998, follows:
+
+<Table>
+<Caption>
+                                    2000                       1999                       1998
+                           ------------------------   ------------------------   ------------------------
+                               WEIGHTED-AVERAGE           WEIGHTED-AVERAGE           WEIGHTED-AVERAGE
+                           OPTIONS   EXERCISE PRICE   OPTIONS   EXERCISE PRICE   OPTIONS   EXERCISE PRICE
+                           -------   --------------   -------   --------------   -------   --------------
+                                         (numbers in thousands, except per share figures)
+<S>                        <C>       <C>              <C>       <C>              <C>       <C>
+Outstanding, beginning
+  of year                   2,546       $ 7.76         2,272        $ 6.76        2,019        $ 5.04
+    Granted                   492        10.29           453         11.24          339         16.31
+    Exercised                (129)        4.32          (165)         3.34          (86)         4.02
+    Canceled                  (57)       11.15           (14)        10.52           --            --
+                            -----                      -----                      -----
+Outstanding, end of year    2,852         8.28         2,546          7.76        2,272          6.76
+                            =====                      =====                      =====
+</Table>
+
+A summary of information pertaining to options outstanding and exercisable as
+of December 31, 2000 follows:
+
+<Table>
+<Caption>
+                                           OPTIONS OUTSTANDING                   OPTIONS EXERCISABLE
+                              ---------------------------------------------   -------------------------
+                                        WEIGHTED-AVERAGE
+                                            REMAINING      WEIGHTED-AVERAGE            WEIGHTED-AVERAGE
+RANGE OF EXERCISE PRICES      NUMBER    CONTRACTUAL LIFE    EXERCISE PRICE    NUMBER    EXERCISE PRICE
+-------------------------     ------    ----------------   ----------------   ------   ----------------
+                                         (numbers in thousands, except per share figures)
+<S>                           <C>       <C>                <C>                <C>      <C>
+Less than $5.00                 734           2.0               $ 3.98           734        $ 3.98
+$5.01 - $10.00                1,004           4.9                 6.66           961          6.56
+Greater than $10.01           1,114           8.5                12.58           537         13.89
+                              -----                                            -----
+                              2,852           5.5                 8.28         2,232          7.47
+                              =====                                            =====
+</Table>
+<PAGE>
+
+
+                           STANDBY PURCHASE AGREEMENT
+
+
+                                   SCHEDULE 1
+                                     PART B
+
+
+During 2001, the common shares of STFC became a permitted investment in the
+State Auto 401(k) Capital Accumulation Plan (the "CAP") plan and in
+non-qualified deferred compensation plans for key employees and directors. The
+CAP and Employee Non-Qualified Deferred Compensation Plan were registered with
+the SEC. The Directors' Non-Qualified Deferred Compensation Plan was not
+registered with the SEC, since it is within the scope of an exception to
+registration. The participants in the non-qualified deferred compensation plans
+are unsecured creditors of State Auto and part of the obligations under those
+plans will reflect the value of STFC common shares to the extent any
+participants investments are so directed. Fidelity Investments is the Trustee
+of the CAP.
+
+State Auto Financial has an active program of share repurchases ongoing as
+authorized by its board of directors.
+
+
+
+
+Agreemen/Standby Purchase Agreement part B 11-05-01
+<PAGE>
+
+
+
+                                                               EXHIBIT A to the
+                                                      Standby Purchase Agreement
+
+
+
+
+
+
+                   [Form Class A Preferred Stock Certificate]
+
+
+
+<PAGE>
+
+
+
+
+                 [Front of Class A Preferred Stock Certificate]
+
+CERTIFICATE
+NUMBER                                                                   SHARES
+------                                                                   ------
+
+_________________                                               ________________
+
+
+                        STATE AUTO FINANCIAL CORPORATION
+                           Incorporated under the laws
+                              of the State of Ohio
+
+                                                               CUSIP __________
+
+                      SEE REVERSE SIDE FOR CERTAIN TRANSFER
+                  RESTRICTIONS AND OTHER IMPORTANT INFORMATION
+
+     This is to Certify that ______________________________ is the owner of
+
+     ______________________________________________________________________
+
+
+                     FULLY PAID AND NON-ASSESSABLE SHARES OF
+                     CLASS A PREFERRED STOCK NO PAR VALUE OF
+                        State Auto Financial Corporation
+
+transferable on the books of the Corporation by the holder hereof in person or
+by duly authorized Attorney upon surrender of this Certificate properly
+endorsed.
+
+         WITNESS the seal of the Corporation and the signatures of its duly
+authorized officers.
+
+
+______________________________               __________________________________
+Secretary                                           Chief Executive Officer
+
+
+                                             __________________________________
+                                                          President
+
+
+
+<PAGE>
+
+                [Reverse of Class A Preferred Stock Certificate]
+
+
+                        STATE AUTO FINANCIAL CORPORATION
+
+         The Corporation will furnish upon request and without charge to each
+shareholder the powers, designations, preferences and relative, participating,
+optional or other special rights of each class of stock series within a class of
+stock of the Corporation, as well as the qualifications, limitations and
+restrictions relating to those preferences and/or rights.
+
+         THE SHARES EVIDENCED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER
+THE SECURITIES ACT OF 1933, AS AMENDED, AND MAY BE REOFFERED AND SOLD ONLY IF
+REGISTERED PURSUANT TO THE PROVISIONS OF SAID SECURITIES ACT OR IF AN EXEMPTION
+FROM REGISTRATION IS AVAILABLE.
+
+
+
+In addition, the shares evidenced by this certificate are subject to the
+restrictions on transfer set forth in the Terms and Conditions attached hereto.
+
+<PAGE>
+
+
+
+                              TERMS AND CONDITIONS
+
+                                       of
+
+                             CLASS A PREFERRED STOCK
+
+                                       of
+
+                        STATE AUTO FINANCIAL CORPORATION
+
+_______________________________________________________________________________
+
+                       Pursuant to Section 1701.14 of the
+                          Ohio General Corporation Law
+_______________________________________________________________________________
+
+
+         Section 1. GENERAL.
+
+         The certificate to which these Terms and Conditions are attached
+represents one or more shares of Class A Preferred Stock, no par value (the
+"CLASS A PREFERRED STOCK"), of State Auto Financial Corporation, an Ohio
+corporation (the "CORPORATION"). The stated value and liquidation preference
+per share of the Class A Preferred Stock shall be equal to $1,000,000
+(the "REDEMPTION VALUE").
+
+         Section 2. DEFINITIONS.
+
+         Capitalized terms used herein shall have the meanings set forth in this
+SECTION 2:
+
+         "APPLICABLE REDEMPTION DATES" means, with respect to any shares of
+Class A Preferred Stock, each of the 2nd, 4th, 6th, 8th, 10th, 12th, 14th, l6th,
+18th and 20th Quarterly Dates immediately following the date of issuance of such
+shares of Class A Preferred Stock.
+
+         "BANK ONE" means Bank One, NA and any successor entity.
+
+         "BOARD OF DIRECTORS" means the Board of Directors of the Corporation.
+
+         "BUSINESS DAY" shall mean any day on which (a) commercial banks are not
+authorized or required to close in New York City or Chicago and (b) (prior to
+the Rate Conversion Date) dealings in Dollar deposits are carried out in the
+London interbank market.
+
+         "BY-LAWS" means the Code of Regulations of the Corporation, as amended
+or restated from time to time.
+
+         "CERTIFICATE OF INCORPORATION" means the Articles of Incorporation of
+the Corporation as amended or restated from time to time.
+
+         "CLASS A PREFERRED STOCK" has the meaning assigned to such term in
+SECTION 1 hereof.
+
+
+<PAGE>
+
+         "CLASS B PREFERRED STOCK" means all Class B Preferred Stock, no par
+value, issued by the Corporation.
+
+         "COMMON STOCK" means all common stock, of any series and of any par
+value or no par value issued by the Corporation.
+
+         "CORPORATION" means State Auto Financial Corporation, an Ohio
+corporation.
+
+         "CREDIT AGREEMENT" means the Amended and Restated Credit Agreement
+dated as of November 16, 2001, between SAF Funding, the Lenders party thereto
+and Bank One, as Agent, as modified and supplemented and in effect from time to
+time, a copy of which is maintained on file in the Principal Corporate Office.
+
+         "DIVIDEND RATE" means, for each Eurodollar Rate Period relating to any
+Class A Preferred Stock, the Eurodollar Rate for such Eurodollar Rate Period
+PLUS (a) 1% per annum from the date of purchase of such Class A Preferred Stock
+to but not including the first anniversary of such purchase, (b) 1.25% per annum
+from the first anniversary of such purchase to but not including the third
+anniversary of such purchase, and (c) 1.50% per annum from and after the third
+anniversary of such purchase.
+
+         "DOLLARS" and "$" mean lawful money of the United States of America.
+
+         "EURODOLLAR BASE RATE" means, with respect to any shares of Class A
+Preferred Stock for the relevant Eurodollar Rate Period, the applicable British
+Bankers' Association Interest Settlement Rate for deposits in U.S. dollars
+appearing on Reuters Screen FRBD as of 11:00 a.m. (London time) two Business
+Days prior to the first day of such Interest Period, and having a maturity equal
+to such Eurodollar Rate Period, PROVIDED that, (a) if Reuters Screen FRBD is not
+available to Bank One for any reason, the applicable Eurodollar Base Rate for
+the relevant Eurodollar Rate Period shall instead be the applicable British
+Bankers' Association Interest Settlement Rate for deposits in U.S. dollars as
+reported by any other generally recognized financial information service as of
+11:00 a.m. (London time) two Business Days prior to the first day of such
+Eurodollar Rate Period, and having a maturity equal to such Eurodollar Rate
+Period, and (b) if no such British Bankers' Association Interest Settlement Rate
+is available to Bank One, the applicable Eurodollar Base Rate for the relevant
+Eurodollar Rate Period shall instead be the rate determined by Bank One to be
+the rate at which Bank One or one of its Affiliate banks offers to place
+deposits in U.S. dollars with first-class banks in the London interbank market
+at approximately 11:00 a.m. (London time) two Business Days prior to the first
+day of such Eurodollar Rate Period, in the approximate amount of the aggregate
+Redemption Value of such shares of Class A Preferred Stock and having a maturity
+equal to such Interest Period.
+
+         "EURODOLLAR RATE" means, for any shares of Class A Preferred Stock for
+any Eurodollar Rate Period, the sum of (a) the quotient of (i) the Eurodollar
+Base Rate applicable to such Eurodollar Rate Period, divided by (ii) one minus
+the Reserve Requirement (expressed as a decimal) applicable to such Eurodollar
+Period.
+
+         "EURODOLLAR RATE PERIOD" means, with respect to any shares of Class A
+Preferred Stock, each period commencing on the date such Class A Preferred Stock
+is issued or (in the case
+
+<PAGE>
+
+of a continuation of one Eurodollar Rate Period to the next) the last day of the
+next preceding Eurodollar Rate Period for such Class A Preferred Stock and
+ending on the numerically corresponding day in the third calendar month
+thereafter, except that each Eurodollar Rate Period that commences on the last
+Business Day of a calendar month (or on any day for which there is no
+numerically corresponding day in the appropriate subsequent calendar month)
+shall end on the last Business Day of the appropriate subsequent calendar month.
+Notwithstanding the foregoing: (a) no Eurodollar Rate Period may commence before
+and end after any Applicable Redemption Date unless, after giving effect
+thereto, the aggregate Redemption Value of shares of Class A Preferred Stock
+having Eurodollar Rate Periods that end after such Applicable Redemption Date
+shall be equal to or less than the aggregate Redemption Value of shares of Class
+A Preferred Stock scheduled to be outstanding after giving effect to the
+redemption payments required to be made on such Applicable Redemption Date; and
+(b) each Eurodollar Rate Period that would otherwise end on a day that is not a
+Business Day shall end on the next succeeding Business Day (or, if such next
+succeeding Business Day falls in the next succeeding calendar month, on the next
+preceding Business Day); and (c) notwithstanding clause (a) above, no Eurodollar
+Rate Period shall have a duration of less than three months.
+
+         "FEDERAL FUNDS EFFECTIVE RATE" means, for any day, an interest rate per
+annum equal to the weighted average of the rates on overnight Federal funds
+transactions with members of the Federal Reserve System arranged by Federal
+funds brokers on such day, as published for such day (or, if such day is not a
+Business Day, for the immediately preceding Business Day) by the Federal Reserve
+Bank of New York, or, if such rate is not so published for any day which is a
+Business Day, the average of the quotations at approximately 10:00 a.m. (Chicago
+time) on such day on such transactions received by Bank One from three Federal
+funds brokers of recognized standing selected by Bank One in its sole
+discretion.
+
+         "HOLDER" means SAF Funding or any subsequent holder of shares of Class
+A Preferred Stock.
+
+         "LOANS" means the Loans made to SAF Funding under the Credit Agreement.
+
+         "PERSON" means any person or entity of any nature whatsoever,
+specifically including an individual, a firm, a company, a corporation, a
+partnership, a trust, a limited liability company or other entity.
+
+         "PRINCIPAL CORPORATE OFFICE" means the principal corporate office of
+the Corporation located at 518 East Broad Street, Columbus, Ohio 43215.
+
+         "QUARTERLY DATES" means the last Business Day of March, June, September
+and December in each year, the first of which shall be the last Business Day of
+December, 2001.
+
+         "RATE CONVERSION DATE" shall mean the first date upon which the Holder
+is a person or entity other than any of SAF Funding, State Automobile Mutual
+Insurance Company, an Ohio mutual insurance company, any Lender party to the
+Credit Agreement or the Agent under the Credit Agreement.
+
+         "REDEMPTION VALUE" has the meaning assigned to such term in SECTION 1
+hereof.
+
+<PAGE>
+
+         "RESERVE REQUIREMENT" has the meaning assigned to such term in the
+Credit Agreement.
+
+         "SAF FUNDING" means SAF Funding Corporation, a Delaware corporation.
+
+         "SECRETARY" means the Secretary of the Corporation.
+
+         "TRIGGER EVENT" means the occurrence of (a) any "Event of Default"
+described in the Credit Agreement (other than those events described in Section
+7.5 or 7.6 thereof) and the acceleration of the Loans thereunder; or (b) an
+"Event of Default" described in Section 7.5 or 7.6 of the Credit Agreement.
+
+         Section 3. DIVIDENDS AND DISTRIBUTIONS.
+
+         (a) The Holder, in preference to the holders of shares of Class B
+Preferred Stock and the holders of shares of Common Stock shall be entitled to
+receive, when, as and if declared by the Board of Directors out of funds of the
+Corporation legally available for the payment of dividends, dividends at the
+Dividend Rate on the Redemption Value of each share, payable in arrears in cash.
+Accrued dividends on the Class A Preferred Stock shall be payable on the last
+day of each Eurodollar Rate Period for the applicable Class A Preferred Stock
+and upon the redemption of any Class A Preferred Stock (but only on the
+aggregate Redemption Value of the Class A Preferred Stock so redeemed), PROVIDED
+that after the Rate Conversion Date, said dividends shall be payable quarterly
+on the last Business Day of March, June, September and December of each year.
+
+         (b) Dividends payable with respect to any share of Class A Preferred
+Stock shall begin to accrue at the Dividend Rate and be cumulative from the date
+of issuance of such Class A Preferred Stock (whether or not such dividends have
+been declared and whether or not there shall be net profits or net assets of the
+Corporation legally available for the payment of such dividends). Dividends paid
+on the shares of Class A Preferred Stock in an amount less than the total amount
+of such dividends at the time accrued and payable on such shares shall be
+allocated PRO RATA on a share-by-share basis among all such shares at the time
+outstanding. The Board of Directors may fix a record date for the determination
+of Holder entitled to receive payment of a dividend declared thereon, which
+record date shall be no more than thirty (30) days prior to the date fixed for
+the payment thereof.
+
+         (c) The Holder shall not be entitled to receive any dividends or other
+distributions except as provided in these Terms and Conditions.
+
+         (d) Whenever (i) any dividend payable pursuant to paragraph (a) of this
+SECTION 3 has not been paid when due, thereafter and until all accrued and
+unpaid dividends payable pursuant to paragraph (a) of this SECTION 3 have been
+paid in full or (ii) the Corporation shall not have redeemed shares of Class A
+Preferred Stock on the date such redemption is required pursuant to SECTION 5
+hereof, thereafter and until such redemption payment shall have been made the
+Corporation shall not (A) declare or pay dividends on any shares of Class B
+Preferred Stock or Common Stock or make any other distributions on any shares of
+Class B Preferred Stock or Common Stock, whether upon liquidation, redemption or
+otherwise; or
+
+
+
+<PAGE>
+
+(B) redeem or purchase or otherwise acquire for consideration any shares of
+Class B Preferred Stock or Common Stock, whether upon liquidation, redemption,
+or otherwise.
+
+         Section 4. VOTING RIGHTS.
+
+         Except as provided in the Certificate of Incorporation, and except for
+any voting rights provided by law, the Holder shall have no voting rights and
+its consent shall not be required for the taking of any corporate action.
+
+         Section 5. REDEMPTION.
+
+         (a) On each of the first four Applicable Redemption Dates for any
+shares of Class A Preferred Stock the Corporation shall redeem, without prior
+notice to the Holder, out of funds legally available therefor, 7.5% of the
+number of shares of Class A Preferred Stock issued on the date of issuance of
+such shares of Class A Preferred Stock, on each of the fifth through eighth
+Applicable Redemption Dates for any shares of Class A Preferred Stock the
+Corporation shall redeem, without prior notice to the Holder, out of funds
+legally available therefor, 10% of the number of shares of Class A Preferred
+Stock issued on the date of issuance of such shares of Class A Preferred Stock,
+and on the ninth Applicable Redemption Date for any shares of Class A Preferred
+Stock the Corporation shall redeem, without prior notice to the Holder, out of
+funds legally available therefor, 15% of the number of shares of Class A
+Preferred Stock issued on the date of issuance of such shares of Class A
+Preferred Stock, in each case by paying to the Holder the aggregate Redemption
+Value for such Class A Preferred Stock so redeemed plus any accrued but unpaid
+dividends thereon. On the tenth Applicable Redemption Date for such shares of
+Class A Preferred Stock the Corporation shall redeem, without prior notice to
+the Holder, out of funds legally available therefor, the balance of the number
+of shares of Class A Preferred Stock issued on such date of issuance, by paying
+to the Holder the aggregate Redemption Value for such Class A Preferred Stock so
+redeemed plus any accrued but unpaid dividends thereon.
+
+         (b) Upon the occurrence and during the continuance of any Trigger
+Event, the Holder may require the Corporation to redeem out of funds of the
+Corporation legally available therefor, all or any portion of the Class A
+Preferred Stock for a redemption price equal to the aggregate Redemption Value
+for the Class A Preferred Stock so redeemed plus any accrued but unpaid
+dividends thereon. Upon written notice delivered by the Holder to the President
+of the Corporation, such Redemption Value plus such dividends shall be
+immediately due and payable.
+
+         (c) The Corporation may, by delivering written notice that is received
+by the Holder not later than 10:00 a.m. New York time on the third Business Day
+prior to the date of the relevant redemption, redeem out of funds of the
+Corporation legally available therefor, all or any portion of the Class A
+Preferred Stock for a redemption price equal to the aggregate Redemption Value
+for the Class A Preferred Stock so redeemed plus any accrued but unpaid
+dividends thereon.
+
+         (d) From and after the date of a redemption, unless default shall be
+made by the Corporation in providing for the payment of the aggregate Redemption
+Value for the Class A Preferred Stock so redeemed plus accrued but unpaid
+dividends thereon, all dividends on the Class A Preferred Stock so redeemed
+shall cease to accrue, and from and after the date of
+
+<PAGE>
+
+redemption so specified, unless default shall be made by the Corporation as
+aforesaid, all rights of the Holder with respect to such shares, except the
+right to receive such Redemption Value and dividends, shall cease and terminate.
+
+         Section 6. REACQUIRED SHARES.
+
+         Any shares of Class A Preferred Stock redeemed, purchased or otherwise
+acquired by the Corporation in any manner whatsoever shall be retired and
+canceled promptly after the acquisition thereof and shall be restored to the
+status of authorized but unissued shares of Class A Preferred Stock of the
+Corporation and may thereafter be issued. Upon any redemption pursuant to
+SECTION 5 hereof of a fractional number of shares of Class A Preferred Stock,
+the Corporation shall reissue to the Holder Class A Preferred Stock having an
+aggregate Redemption Value equal to the $1,000,000 MULTIPLIED BY the sum of 1
+MINUS such fractional number.
+
+         Section 7. LIQUIDATION, DISSOLUTION OR WINDING UP.
+
+         In the event of any liquidation, dissolution or winding up of the
+Corporation, whether voluntary or involuntary, the Holder shall be entitled to
+receive out of the assets of the Corporation available for distribution to its
+stockholders an amount equal to the Redemption Value per share plus all accrued
+and unpaid dividends thereon to the date of such payment, and no distribution
+shall be made to the holders of shares of Common Stock, the Class B Preferred
+Stock or any other capital stock of the Corporation unless prior thereto the
+Holder shall have received an amount equal to the Redemption Value per share
+plus all accrued and unpaid dividends thereon, to the date of such payment.
+
+         Section 8. RANK.
+
+         The Class A Preferred Stock shall rank as to dividends and distribution
+of assets prior to the Class B Preferred Stock, the Common Stock and all other
+shares of stock of the Corporation.
+
+         Section 9. PAYMENTS.
+
+         Except to the extent otherwise provided herein, all payments to be made
+by the Corporation in respect of the Class A Preferred Stock shall be made in
+Dollars, in immediately available funds, without deduction, set-off or
+counterclaim, to the Holder at an account designated by the Holder, not later
+than 12:00 p.m. New York time on the date on which such payment shall become due
+(each such payment made after such time on such due date to be deemed to have
+been made on the next succeeding Business Day). If the due date of any payment
+hereunder would otherwise fall on a day that is not a Business Day, such date
+shall be extended to the next succeeding Business Day, and dividends shall be
+payable on the aggregate Redemption Value of any shares of Class A Preferred
+Stock for the period of such extension.
+
+         Section 10. FISCAL YEAR.
+
+         The Corporation will not change the last day of its fiscal year from
+December 31 of each year.
+
+
+
+<PAGE>
+
+                                                                EXHIBIT B to the
+                                                      Standby Purchase Agreement
+
+                            [Form of Purchase Notice]
+
+                                     [Date]
+
+SAF Funding Corporation
+
+____________________________________
+____________________________________
+____________________________________
+
+
+
+         Re:      Standby Purchase Agreement dated as of November 16, 2001,
+                  among State Auto Financial Corporation and SAF Funding
+                  Corporation (as modified and supplemented and in effect from
+                  time to time, the "STANDBY PURCHASE AGREEMENT").
+
+Ladies and Gentlemen:
+
+         Reference is made to the Standby Purchase Agreement referred to above.
+Capitalized terms used but not defined herein shall have the respective meanings
+assigned to such terms in the Standby Purchase Agreement.
+
+         Pursuant to Section 2.2 of the Standby Purchase Agreement, State Auto
+Financial hereby notifies you that it intends to sell to you ________ shares of
+Class A Preferred Stock with an aggregate Redemption Value of
+$____________________(1) on _____________, 200__(2).
+
+
+                                          STATE AUTO FINANCIAL CORPORATION
+
+
+
+                                          By ___________________________________
+
+                                             Title: ____________________________
+
+
+
+------------
+
+(1)  Insert an amount at least equal to $10,000,000 or a larger multiple of
+     $1,000,000.
+
+(2)  Insert a date falling on or after the fourth Business Day following the
+     date of this Purchase Notice.
+
+
+
+
+
+<PAGE>
+
+
+                                                               EXHIBIT C to the
+                                                     Standby Purchase Agreement
+
+
+
+          [Form of Opinion of General Counsel of State Auto Financial)
+
+                                                       __________________,_____
+
+
+
+SAF Funding Corporation (the "COMPANY")
+
+To Bank One, NA,
+as Agent (the "AGENT") under, and
+each of the Lenders party to, the
+Amended and Restated Credit Agreement dated
+as of November 16, 2001, among the
+Company, the Agent and such Lenders
+
+Ladies and Gentlemen:
+
+         I am the general counsel of State Auto Financial Corporation ("STATE
+AUTO FINANCIAL") and have acted as counsel to State Auto Financial in connection
+with the Amended and Restated Standby Purchase Agreement dated as of November
+16, 2001 (the "STANDBY PURCHASE AGREEMENT") between State Auto Financial and the
+Company, pursuant to which the Company has agreed to purchase, from time to
+time, a certain number of shares of State Auto Financial's Class A Redeemable
+Preferred Stock, no par value per share (the "CLASS A PREFERRED Stock"). This
+opinion letter is delivered to you pursuant to Section 3(b) of the Standby
+Purchase Agreement in connection with the proposed issuance and sale by State
+Auto Financial, and the purchase by the Company, on the date hereof, of ____
+shares of the Class A Preferred Stock (the "PURCHASED STOCK").
+
+         In rendering the opinions expressed below, I have examined the
+following agreements, instruments and other documents:
+
+         (a)  the Standby Purchase Agreement;
+
+         (b)  certificates evidencing the Purchased Stock (the "PURCHASED STOCK
+              CERTIFICATES"); and
+
+         (c)  such records of State Auto Financial and such other documents as
+              I have deemed necessary as a basis for the opinions expressed
+              below.
+
+         In my examination, I have assumed the genuineness of all signatures,
+the authenticity of all documents submitted to me as originals and the
+conformity with authentic original documents of all documents submitted to me as
+copies. When relevant facts were not independently established, I have relied
+upon certificates of governmental officials and appropriate representatives of
+State Auto Financial and upon representations made in or pursuant to the Standby
+Purchase Agreement.
+
+
+<PAGE>
+
+         Based upon and subject to the foregoing and subject also to the
+comments and qualifications set forth below, and having considered such
+questions of law as I have deemed necessary as a basis for the opinions
+expressed below, I am of the opinion that:
+
+                  1. State Auto Financial is a corporation duly organized,
+         validly existing and in good standing under the laws of the State of
+         Ohio.
+
+                  2. State Auto Financial has all requisite corporate power and
+         authority to issue and sell the Purchased Stock and execute and deliver
+         the Purchased Stock Certificates.
+
+                  3. The issuance and sale of the Purchased Stock to the Company
+         and execution and delivery by State Auto Financial of the Purchased
+         Stock Certificates have been duly authorized by all necessary corporate
+         action on the part of State Auto Financial.
+
+                  4. The Purchased Stock Certificates have been duly executed
+         and delivered by State Auto Financial.
+
+                  5. No authorization, approval or consent of, and no filing or
+         registration with, any governmental or regulatory authority or agency
+         of the United States of America or the State of Ohio (other than any
+         authorizations, approvals, consents, filings and registrations
+         heretofore duly made or obtained and in full force and effect) is
+         required on the part of State Auto Financial for issuance and sale of
+         the Purchased Stock to the Company and the execution and delivery of
+         the Purchased Stock Certificates.
+
+                  6. The issuance and sale of the Purchased Stock to the Company
+         and the execution and delivery of the Purchased Stock do not and will
+         not (a) violate any provision of the Articles of Incorporation or Code
+         of Regulations of State Auto Financial, (b) violate any applicable law,
+         rule or regulation of the United States of America or the State of
+         Ohio, (c) violate any order, writ, injunction or decree of any court or
+         governmental authority or agency or any arbitral award applicable to
+         State Auto Financial of which I have knowledge (after due inquiry) or
+         (d) result in a breach of, constitute a default under, require any
+         consent under, or result in the acceleration or required prepayment of
+         any indebtedness pursuant to the terms of, any agreement or instrument
+         of which I have knowledge (after due inquiry) to which such State Auto
+         Financial or any of its Subsidiaries is a party or by which any of them
+         is bound or to which any of them is subject, or result in the creation
+         or imposition of any Lien upon any Property of State Auto Financial or
+         any of its Subsidiaries pursuant to the terms of any such agreement or
+         instrument.
+
+                  7. The Purchased Shares are validly issued and outstanding,
+         are fully paid and non-assessable and have, and entitle the holders
+         thereof to, the relative rights and preferences set forth with respect
+         to the Class A Preferred Stock in the Purchased Stock Certificates.
+
+                  8. I have no knowledge (after due inquiry) of any legal or
+         arbitral proceedings, or any proceedings by or before any governmental
+         or regulatory authority or
+
+
+<PAGE>
+
+         agency, now pending or threatened against or affecting State Auto
+         Financial or any of its Property that, if adversely determined, could
+         have a Material Adverse Effect (excluding any Material Adverse Effect
+         resulting from the catastrophic loss claims and/or loss adjustment
+         expenses to which the issuance of the Purchased Stock relates).
+
+         The foregoing opinions are limited to matters involving the Federal
+laws of the United States of America and the law of the State of Ohio, and I do
+not express any opinion as to the laws of any other jurisdiction. The opinions
+contained in this letter are rendered only as of the date hereof and I undertake
+no obligation to update this letter or the opinions contained herein after the
+date hereof. The opinions contained in this letter only constitute my
+professional judgment as to the consequences of and the applicability of certain
+laws to the documents and agreements referred to and the parties thereto and
+should not be considered to be a guarantee of any particular result.
+
+         At the request of my clients, this opinion letter is provided to you by
+me in my capacity as counsel to State Auto Financial, and this opinion letter
+may not be relied upon by any Person for any purpose other than in connection
+with the transactions contemplated by the Basic Documents without, in each
+instance, my prior written consent.
+
+
+                                  Very truly yours,
+
+                                  John R. Lowther
+
+
+</TEXT>
+</DOCUMENT>

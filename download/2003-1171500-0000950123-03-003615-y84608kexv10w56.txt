@@ -1,0 +1,1052 @@
+<DOCUMENT>
+<TYPE>EX-10.56
+<SEQUENCE>58
+<FILENAME>y84608kexv10w56.txt
+<DESCRIPTION>SECURITY AGREEMENT
+<TEXT>
+<PAGE>
+
+
+
+                                                                 EXHIBIT 10.56
+
+--------------------------------------------------------------------------------
+
+                               SECURITY AGREEMENT
+
+                           Dated as of November 27, 2002
+
+                                     between
+
+                            PLATINUM RE (UK) LIMITED,
+                                   as Debtor,
+
+                                       and
+
+                      ST. PAUL REINSURANCE COMPANY LIMITED,
+                                as Secured Party
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+                  THIS SECURITY AGREEMENT (this "Agreement"), dated as of
+November 27, 2002, is made and entered into by and between PLATINUM RE (UK)
+LIMITED, a company incorporated in the United Kingdom (the "Debtor"), and ST.
+PAUL REINSURANCE COMPANY LIMITED, a company incorporated in the United Kingdom
+(the "Secured Party").
+
+                             PRELIMINARY STATEMENTS
+
+         1.       The Debtor and the Secured Party entered into that certain
+100% Quota Share Retrocession Agreement (Traditional), dated as of November 27,
+2002 (as such agreement may be amended, modified or supplemented from time to
+time, the "Retrocession Agreement").
+
+         2.       The Debtor and the Secured Party have appointed the Custodian
+(as hereinafter defined) to hold the Collateral (as hereinafter defined) as
+collateral agent and securities intermediary on behalf of the Secured Party
+pursuant to that certain Control Agreement, dated as of November 27, 2002 among
+the Debtor, the Custodian and the Secured Party (the "Control Agreement"). The
+Debtor has also appointed the Investment Adviser (as hereinafter defined) to
+give advice from time to time in relation to the investment of such Collateral
+pursuant to that certain Discretionary Investment Advisory Agreement, dated as
+of November 27, 2002 among the Debtor and the Investment Adviser (the
+"Investment Advisory Agreement").
+
+         3.       The parties hereto desire to enter into this Agreement, among
+other things, to grant to the Secured Party a continuing security interest in
+and to all of the Collateral as security for the Obligations (as hereinafter
+defined).
+
+         4.       This Agreement is being entered into pursuant to the terms of
+subsection (iv) of Section "Security" of the Retrocession Agreement.
+
+                  NOW THEREFORE, in consideration of the foregoing and for other
+good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged the parties hereto agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+                  Section 1.01      Definitions.
+
+                  (a)      For all purposes of this Agreement capitalized terms
+used and not defined herein shall have the meanings assigned to such terms in
+the Retrocession Agreement, the Control Agreement and the Investment Advisory
+Agreement (such meanings to be equally applicable to both the singular and
+plural forms of the terms defined) and all references in this Agreement to
+Sections are to Sections of this Agreement unless specified otherwise.
+
+                  (b)      Except for the terms defined in this Agreement, the
+Retrocession Agreement, the Control Agreement or the Investment Advisory
+Agreement all terms defined in
+
+<PAGE>
+
+Article 8 or 9 of the UCC which are used in this Agreement shall have the
+meaning specified in such Articles.
+
+                  (c)      As used in this Agreement, the following terms shall
+have the following meanings:
+
+                  "Collateral" has the meaning assigned to that term in Section
+2.01(a).
+
+                  "Collateral Accounts" mean Deposit Account and Securities
+Account.
+
+                  "Control Agreement" has the meaning assigned to that term in
+the Preliminary statements.
+
+                  "Custodian" means State Street Bank and Trust Company, a
+Massachusetts trust company, as Custodian for the Debtor pursuant to the
+Custodian Agreement, or such other custodian as the Debtor may from time to
+time appoint with the prior written consent of the Secured Party.
+
+                  "Custodian Lien" means the lien on the Collateral Accounts in
+favor of the Custodian created pursuant to the Control Agreement.
+
+                  "Custodian Agreement" means that certain Custodian and
+Investment Accounting Agreement dated as of November 1, 2002 among the
+Custodian, the Debtor and certain related parties, as amended or supplemented
+from time to time.
+
+                  "Deposit Account" means the separate, segregated Deposit
+Account listed on Schedule I hereto and any other deposit accounts and
+sub-accounts which are established by the Custodian under, and subject to, the
+Control Agreement.
+
+                  "Distributions" means, with respect to Collateral, all
+interest, income and other payments and distributions of cash or other property
+in the nature of income with respect to that Collateral Distributions will not
+include any item of property acquired by the Secured Party upon any disposition
+or liquidation of Collateral.
+
+                  "Ending Asset Value" has the meaning assigned to that term in
+Section 3.02(a).
+
+                  "Ending Reserves" has the meaning assigned to that term in
+Section 3.02(a).
+
+                  "Excess Reserves" has the meaning assigned to that term in
+Section 3.02(b).
+
+                  "Event of Default" means a failure by the Debtor to pay any
+amount due under the Retrocession Agreement within 90 days of the due date for
+payment.
+
+                  "Governmental Authority" means any nation or government, any
+state or other political subdivision thereof and any entity exercising
+executive, legislative, judicial, regulatory or administrative functions of or
+pertaining to government.
+
+                                        2
+
+<PAGE>
+
+                  "Insolvency Event" means any one or more of the following: (a)
+the Debtor becomes unable or admits inability to pay its debts as they fall due,
+or (b) the appointment of an administrator, receiver manager or administrative
+receiver with respect to any of the assets or undertaking of the Debtor, or (c)
+the presentation of any petition or making of any order for the administration
+or winding up of the Debtor or the taking of any other step in insolvency
+proceedings with respect to the Debtor, or (d) the grant of any moratorium in
+respect of the indebtedness of the Debtor or the entry into or proposal by the
+Debtor of any composition or compromise with its creditors.
+
+                  "Investment Adviser" means Alliance Capital Management L.P. or
+such other investment adviser as the Debtor may from time to time appoint with
+the prior written consent of the Secured Party.
+
+                  "Investment. Advisory Agreement" has the meaning assigned to
+that term in the Preliminary Statements.
+
+                  "Investment Guidelines" has the meaning assigned to that term
+in the Investment Advisory Agreement.
+
+                  "Local Business Day" means:
+
+                  (a)      in relation to a transfer of cash or other property
+(other than securities) under this Agreement, a day on which commercial banks
+are open for business (including dealings in foreign exchange and foreign
+currency deposits) in the place where the relevant account is located and, if
+different, in the principal financial center, if any, of the currency of such
+payment;
+
+                  (b)      in relation to a transfer of securities under this
+Agreement, a day on which the clearance system agreed between the parties for
+delivery of the securities is open for the acceptance and execution of
+settlement instructions or, if delivery of the securities is contemplated by
+other means, a day on which commercial banks are open for business (including
+dealings in foreign exchange and foreign currency deposits) in. the place(s)
+agreed between the parties for this purpose;
+
+                  (c)      in relation to a valuation under this Agreement, a
+day on which commercial banks are open for business (including dealings in
+foreign exchange and foreign currency deposits) in the place of location of the
+Custodian and in the place(s) agreed between the parties for this purpose; and
+
+                  (d)      in relation to any notice or other communication
+under this Agreement, in the place specified in the address for notice most
+recently provided by the recipient.
+
+                  "Notification Time" means 1:00 p.m., New York time, on a Local
+Business Day.
+
+                  "Notice of Exclusive Control" has the meaning assigned to that
+term in the Control Agreement.
+
+                                       3
+
+<PAGE>
+
+                  "Obligations" means all present and future obligations from
+time to time of the Debtor under the Retrocession Agreement and this Agreement,
+including but not limited to obligations relating to (a) reinsured losses and
+allocated loss expenses paid by the Secured Party, but not recovered from the
+Debtor, (b) reserves for reinsured losses reported and outstanding, (c) reserves
+for reinsured losses incurred but not reported, and (d) reserves for allocated
+reinsured loss expenses and unearned premiums.
+
+                  "Person" means an individual, partnership, corporation
+(including a business trust), joint stock company, trust, unincorporated
+association, joint venture or other entity, or a government -or any political
+subdivision or agency thereof.
+
+                  "Proceeds" has the meaning assigned to that term in Section
+9-102(a)(64) of the UCC and, in any event, shall include, without limitation,
+the following property: (i) whatever is acquired upon the sale, lease, license,
+exchange, or other disposition of the Collateral, (ii) whatever is collected on,
+or distributed on account of, the Collateral (iii) rights arising out of the
+Collateral, (iv) to the extent of the value of collateral, claims arising out of
+the loss, nonconformity, or interference with the use of, defects or
+infringement of rights in, or damage to, the Collateral, or (v) to the extent of
+the value of collateral and to the extent payable to the Debtor or the Secured
+Party, insurance payable by reason of the loss or nonconformity of, defects or
+infringement of rights in, or damage to, the Collateral.
+
+                  "Property" means, with respect to any Person, any money, cash,
+cash equivalents, securities, investments, financial assets, security
+entitlements or other investment property.
+
+                  "Qualifying Assets" means and includes any security that
+conforms with the criteria set forth in the Investment Guidelines.
+
+                  "Reinsurance Contracts" has the meaning assigned to that term
+in the Retrocession Agreement.
+
+                  "Relevant Event" means any one or more of the following: (a)
+an Event of Default, or (b) the Debtor's failure to perform or otherwise comply
+or procure compliance with any of its obligations under the Retrocession
+Agreement, other than a failure constituting an Event of Default, if such
+failure continues for five Local Business Days after receiving from the Secured
+Party a written notice thereof, or (c) the Debtor's failure to perform or
+otherwise comply with any of its obligations under this Agreement, or (d) any
+Insolvency Event, or (e) the Investment Adviser's failure to comply with any
+investment objectives, policies and restrictions as in effect from time to time
+under the Investment Advisory Agreement, or (f) the Custodian's failure to
+perform or otherwise comply with any of its obligations under the Control
+Agreement, or (g) the Custodian's failure to perform or otherwise comply with
+any of its obligations under the Custodian Agreement, if such failure impairs
+the security interest granted to the Secured Party under this Agreement.
+
+                  "Requirement of Law" means, as to any Person, the certificate
+of incorporation and by-laws or other organizational or governing documents of
+such Person, and all Federal, state, local and foreign laws, rules and
+regulations, the rules of the National Association of
+
+                                       4
+
+<PAGE>
+
+Securities Dealers and all orders, judgments, decrees or other determinations of
+any Governmental Authority or arbitrator, applicable to or binding upon such
+Person or any of its property or to which such Person or any of its property is
+subject.
+
+                  "Retrocedant Ceding Commission" has the meaning assigned to
+that term in the Retrocession Agreement.
+
+                  "Retrocession Agreement" has the meaning assigned to that term
+in the Preliminary Statements.
+
+                  "Securities Account" means the separate, segregated Securities
+Account listed on Schedule I hereto and any other securities accounts and
+sub-accounts which are established by the Custodian under, and subject to, the
+Control Agreement.
+
+                  "Settlement Day" means, in relation to a date, (i) with
+respect to a transfer of cash or other property (other than securities), the
+next Local Business Day and (ii) with respect to a transfer of securities, the
+first Local Business Day after such date on which settlement of a trade in the
+relevant securities, if effected on such date, would have been settled in
+accordance with customary practice when settling through the clearance system
+agreed between the parties for delivery of such securities or, otherwise, on the
+market in which such securities are principally traded (or, in either case, if
+there is no such customary practice, on the first Local Business Day after such
+date on which it is reasonably practicable to deliver such securities).
+
+                  "Substitute Credit Support" has the meaning assigned to that
+term in Section 3.06(a).
+
+                  "Substitution Notice" has the meaning assigned to that term in
+Section 3.06(a).
+
+                  "UCC" means the Uniform Commercial Code as in effect from time
+to time in the Commonwealth of Massachusetts. All terms used herein without
+definitions that are defined in the UCC shall have the respective meanings given
+to those terms in the UCC, except where the context otherwise requires.
+
+                  "USD" means United States Dollars.
+
+                                   ARTICLE II
+
+                                SECURITY INTEREST
+
+                  Section 2.01 Grant of Security Interest, (a) The Debtor hereby
+assigns, pledges, conveys, sets over and transfers unto the Secured Party, and
+does hereby grant to the Secured Party, a continuing first priority security
+interest (subject to the Custodian Lien) in all of the right, title and interest
+of the Debtor in, to and under all of the following, whether now existing or
+hereafter from time to time acquired (collectively, the "Collateral"):
+
+                           (i)      the Deposit Account, including any credit or
+         other balances of account credited thereto or carried therein or other
+         amounts transferred thereto;
+
+                                        5
+
+<PAGE>
+
+                           (ii)     the Securities Account, including any credit
+         or other balances of account credited thereto or carried therein or
+         other amounts transferred thereto;
+
+                           (iii)    "all Qualifying Assets, all other Property
+         transferred or required to be transferred from time to time in, or
+         credited to or required to be credited from time to time to, the
+         Collateral Accounts; provided, however, that, except as expressly
+         provided in Section 4.04, Distributions shall not constitute
+         Collateral;
+
+                           (iv)     all rights, claims and causes of action, if
+         any, that the Debtor may have against any Person in respect of the
+         foregoing; and
+
+                           (v)      all Proceeds of any or all of the other
+         Collateral.
+
+                  (b)      The Debtor agrees that this Agreement, the security
+interest granted pursuant to this Agreement and all rights, remedies, powers
+and privileges provided to the Secured Party under this Agreement are in
+addition to and not in any way affected or limited by any other security now or
+at any time held by the Secured Party to secure payment and performance of the
+Obligations.
+
+                  Section 2.02 Security for Obligations. The Collateral secures
+the prompt and complete payment and performance of all the Obligations.
+
+                  Section 2.03 Continued Perfection of Security Interest. This
+Agreement shall create a continuing security interest in the Collateral and
+shall remain in full force and effect until the payment and performance in full
+of the Obligations. The security interest created under this Agreement shall not
+be impaired by any intermediate payment or performance of the whole or any part
+of the Obligations but shall secure the ultimate balance of the Obligations. The
+Debtor agrees that it will not take any actions or fail to perform any of its
+duties or obligations under this Agreement so that after giving effect to such
+action or inaction the Secured Party will then, or with the passage of time,
+cease to have a first priority perfected security interest (subject to the
+Custodian Lien) in any of the Collateral; provided, however, that investments,
+cash, securities, interest, dividends, financial assets or any other Property
+withdrawn from the Collateral Accounts in accordance with Section 3.02(b),
+3.06(b), 4.03(a) or 6.01 shall not be Collateral from and after the time of such
+withdrawal.
+
+                  Section 2.04 Power of Attorney. The Debtor hereby irrevocably
+appoints the Secured Party as its attorney-in-fact with right of substitution,
+so that the Secured Party or any other Person empowered by the Secured Party
+shall be authorized, without need of further authorization from the Debtor, at
+any time upon the occurrence of and during the continuance of any Relevant
+Event, in the Secured Party's discretion to take any and all actions authorized
+or permitted to be taken by the Secured Party under this Agreement or by law,
+including but not limited to the power to:
+
+                           (a)      take any action and execute or otherwise
+                  authenticate any instrument or other record which the Secured
+                  Party may deem necessary or advisable to accomplish the
+                  purposes of this Agreement, including but not
+
+                                       6
+
+<PAGE>
+
+                  limited to, perfection of the security interest created under
+                  this Agreement in any jurisdiction in any part of the world;
+
+                           (b)      execute any transfer, bill of sale or other
+                  assurance in respect of the Collateral;
+
+                           (c)      exercise all the rights and powers of the
+                  Debtor in respect of the Collateral;
+
+                           (d)      ask for, demand, collect, sue for, recover,
+                  receive and give acquittance and receipts for moneys due and
+                  to become due under or in connection with the Collateral;
+
+                           (e)      receive, indorse, and collect any drafts or
+                  other instruments, documents and chattel paper, in connection
+                  therewith; and
+
+                           (f)      file any claims or take any action or
+                  institute any proceedings which the Secured Party may deem
+                  necessary or desirable for the collection of any of the
+                  Collateral or otherwise to enforce the rights of the Secured
+                  Party with respect to any of the Collateral.
+
+                  The Debtor hereby confirms and ratifies any and all actions
+and things performed or done by the Secured Party as the Debtor's
+attorney-in-fact or any of its representatives in each case pursuant to the
+powers granted hereunder.
+
+                  This special power of attorney shall be deemed coupled with an
+interest, and cannot be revoked by the Debtor until all of the Obligations have
+been paid and performed in full and the Retrocession Agreement has been
+terminated.
+
+                                   ARTICLE III
+
+                           CREDIT SUPPORT OBLIGATIONS
+
+                  Section 3.01 Initial Deposit of Collateral. On the date of
+this Agreement, the Debtor is transferring, or causing to be transferred, into
+the Collateral Accounts Qualifying Assets having a fair market value as at the
+date of this Agreement at least equal to 100% of the premia ceded by the Secured
+Party to the Debtor under the Retrocession Agreement.
+
+                  Section 3.02 Excess Reserves. (a) As of the end of each
+calendar quarter, the Debtor shall calculate the fair market value of the Assets
+held in the Collateral Accounts as of the last day of such quarter (such amount,
+the "Ending Asset Value") and the aggregate loss, loss adjustment expense
+reserves, unearned premium reserves, Retrocedant Ceding Commission and other
+reserves related to the Reinsurance Contracts as reflected in Debtor's
+management accounts, as of the last day of such quarter (the "Ending Reserves")
+and shall provide such calculation to the Secured Party within forty-five days
+of the end of such quarter.
+
+                                       7
+
+<PAGE>
+
+                  (b)      The excess of the Ending Reserves over the Ending
+Asset Value, if any, shall be the "Excess Reserves". To the extent the Ending
+Reserves exceed the Ending Asset Value, the Debtor shall within 3 Local Business
+Days deposit sufficient Qualifying Assets with a fair market value equal to such
+Excess Reserves. To the extent the Ending Asset Value exceeds the Ending
+Reserves, the Secured Party shall upon the Debtor's request, join the Debtor in
+instructing the Custodian to release Collateral with a fair market value equal
+to the amount of such excess, provided, however, that no Relevant Event has
+occurred and is continuing.
+
+                  Section 3.03 Disputed Calculations or Valuations. Upon receipt
+of the quarterly calculation from the Debtor, the Secured Party shall have the
+right to reasonably object to such calculation and to offer a reasonable
+proposal for the amount of the reserves described in Section 3.02 hereof. If the
+parties in good faith are not able to resolve the disagreement within two weeks
+of the Secured Party's indication of disagreement, the parties shall mutually
+agree upon an independent actuarial firm to determine an appropriate level of
+aggregate reserves as described in Section 3.02 hereof with respect to the
+Reinsurance Contracts, such level to be no more than the amount proposed by the
+Secured Party and no less than the amount reported by the Debtor, and both
+parties agree to be bound by such determination. In such case the Debtor shall
+deposit sufficient Qualifying Assets with a fair market value equal to Excess
+Reserves (if any) within 3 Local Business Days after receipt of the actuary
+report. The fees and expenses of the actuarial firm shall be shared equally by
+the Debtor and the. Secured Party.
+
+                  Section 3.04 Transfers. Subject to Section 3.03 and unless
+otherwise agreed between the parties from time to time, if an obligation to
+transfer Qualified Assets or Collateral has become due by the Notification Time,
+then the relevant transfer will be made not later than the close of business on
+the Settlement Day relating to the date such obligation has become due; if an
+obligation becomes due after the Notification Time, then the relevant transfer
+will be made not later than the close of business on the Settlement Day relating
+to the day after the date such obligation became due.
+
+                  Section 3.05 Calculations. The parties agree that valuations
+calculated by the Debtor or, as the case may be, by the Secured Party for the
+purpose of this Agreement shall prevail over any valuations performed by or for
+the Investment Adviser pursuant to the terms of the Investment Advisory
+Agreement.
+
+                  Section 3.06 Substitutions.
+
+                  (a)      The Debtor (acting, where applicable, through the
+Investment Adviser) may on any Local Business Day by notice (a "Substitution
+Notice") inform the Secured Party and the Custodian that it wishes to substitute
+the Qualified Assets specified in that Substitution Notice (the "Substitute
+Credit Support") for certain Qualified Assets specified in the Substitution
+Notice and held in the Collateral Accounts (the "Original Credit Support").
+
+                  (b)      Following the service of such Substitution Notice,
+the Original Credit Support shall be released, upon written instructions by the
+Debtor, to the Debtor against delivery of the Substitute Credit Support (or an
+undertaking for such delivery) in accordance
+
+                                       8
+
+<PAGE>
+
+with the customary settlement procedures; provided, however, that no Relevant
+Event has occurred and is continuing.
+
+                                   ARTICLE IV
+
+                                   COLLATERAL
+
+                  Section 4.01 No Duty. Except to the extent otherwise required
+by applicable law, the Secured Party will have no duty with respect to
+Collateral, including, without limitation, any duty to collect any
+Distributions, or enforce or preserve any rights pertaining to Collateral.
+
+                  Section 4.02 Custodians.
+
+                  (a)      The Debtor shall appoint the Custodian to hold
+Collateral in accordance with the Control Agreement, and the Debtor shall cause
+all such Collateral to be transferred to, and held by. the Custodian.
+
+                  (b)      The Debtor shall be liable for the acts or omissions
+of the Custodian and the Investment Adviser to the same extent that the Debtor
+would be liable under this Agreement for its own acts or omissions.
+
+                  Section 4.03 Maintenance of Collateral Accounts. In addition
+to, and not in limitation or in lieu of, the obligation of Custodian to honor
+entitlement orders as provided in the Control Agreement,
+
+                  (a)      the Secured Party agrees that until such time, if
+any, that the Secured Party delivers a Notice of Exclusive Control to the
+Custodian, the Debtor shall be entitled (i) subject to Section 3.06(b), to give
+entitlement orders and all other forms of instructions to invest, through the
+Investment Adviser, where applicable, the Collateral held in the Collateral
+Accounts solely in cash or categories of securities defined as Qualified Assets,
+which upon their acquisition shall constitute the Collateral (ii) subject to
+Section 4.04, to receive and give entitlement orders and all other forms of
+instructions with respect to all Distributions (subject, where applicable, to
+prior deduction by the Custodian of any fees or expenses owed to Custodian by
+the Debtor for the provision of its custodial services from time to time), and
+(iii) to exercise, or to direct the Custodian to exercise on its behalf, any
+voting rights attached to any of the Collateral (but only in a manner consistent
+with the terms of this Agreement); provided that the Debtor shall not have the
+authority to (x) terminate or close the Collateral Accounts, or (y) sell,
+transfer, exchange, assign, lease or hire out, factor, discount, license, lend,
+part with its interest in or otherwise dispose of any of the Collateral or
+permit the same to occur, or agree to do any of the foregoing, without prior
+written consent of the Secured Party, except, in each case, as expressly
+permitted under this Agreement. The Secured Party agrees that (i) until a
+Relevant Event occurs or unless a Relevant Event would be caused by a proposed
+substitution of Collateral by the Debtor, it shall not give entitlement orders,
+deliver Notice of Exclusive Control or give any other forms of instructions with
+regard to the Collateral Accounts and the financial assets and other Property on
+deposit therein or credited thereto (other than joint instructions in accordance
+with this Agreement), and (ii) it shall join the Debtor in giving
+
+                                       9
+
+<PAGE>
+
+instructions requested by or on behalf of the Debtor so long as no Relevant
+Event then exists or would be caused by the execution of such instructions.
+
+                  (b)      if at any time the Secured Party delivers a Notice of
+Exclusive Control to the Custodian, the Debtor agrees that, from and after
+delivery thereof until the written revocation or rescission of such notice by
+the Secured Party, (i) the Secured Party shall be the sole Person to give all
+entitlement orders and other demands and instructions with respect to the
+Collateral Accounts or any financial asset credited thereto or carried therein
+or any other Collateral, (ii) if it has received any Collateral from the
+Custodian in violation of the terms of the Control Agreement, it shall hold such
+Collateral in trust for the Secured Party and shall promptly thereafter deliver
+such Collateral to the Secured Party and (iii) it shall execute and deliver, and
+use its best efforts to cause the Custodian to execute and deliver, to the
+Secured Party all proxies and other instruments as the Secured Party may
+reasonably request for the purpose of enabling the Secured Party to exercise any
+voting or other consensual rights pertaining to any Collateral. Notice of
+Exclusive Control shall be deemed to be revoked or rescinded upon receipt by
+the Custodian from the Secured Party of written notice thereof The Secured Party
+agrees to deliver a notice of revocation or rescission upon request of the
+Debtor at any time when no Relevant Event has occurred or is continuing.
+
+                  Section 4.04 Distributions. Subject, where applicable, to
+prior deduction by the Custodian of any fees or expenses owed to the Custodian
+by the Debtor for the provision of its custodial services from time to time, the
+Custodian shall transfer the Distributions to the Debtor within 10 days
+following the end of each calendar month, upon proper written instructions by
+the Debtor, to Debtor's custodial account held with the Custodian or any other
+account designated by the Debtor; provided, however, that the Secured Party has
+not delivered a Notice of Exclusive Control that has not been revoked or
+rescinded by the Secured Party, and that a Relevant Event has not occurred and
+is continuing. The Secured Party shall execute such instructions, if any, as may
+be required to permit such credit to be effected. Any Distributions (or portion
+thereof) not transferred pursuant to this Section 4.04 shall constitute
+Collateral and will be subject to the security interest granted under Section
+2.01(a) or otherwise will be subject to the set-off provided in Section 6.01
+(c).
+
+                                    ARTICLE V
+
+                GENERAL REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+                  The Debtor represents, warrants and covenants, which
+representations, warranties and covenants shall be deemed to be repeated as of
+each date on which the Debtor transfers, or causes to be transferred, any
+Qualified Assets into the Collateral Accounts and shall survive execution and
+delivery of this Agreement and the payment in full of the Obligations, as
+follows:
+
+                  Section 5.01 Power to Grant Security Interest. The Debtor has
+the power to grant a security interest in any Collateral pursuant hereto and has
+taken all necessary actions to authorize the granting of that security interest.
+
+                                       10
+
+<PAGE>
+
+                  Section 5.02 Necessary Filings. All filings, registrations and
+recordings necessary or appropriate to create, preserve, protect and perfect, to
+the extent a security interest may be perfected thereby, the security interest
+granted by the Debtor to the Secured Party hereby in respect of the Collateral
+have been accomplished, and the first priority security interest granted to the
+Secured Party pursuant to this Agreement (subject to the Custodian Lien) in and
+to the Collateral constitutes a valid first priority perfected security interest
+which is superior and prior to the rights of all other Persons (other than the
+Custodian Lien) and enforceable against the Debtor (including in Bermuda) and,
+in each case, subject to no other Liens, sales, assignments, conveyances,
+settings over or transfers.
+
+                  Section 5.03 No Liens. The Debtor is the owner of all
+Collateral free from any Lien or other right, title or interest of any Person
+(other than the Custodian Lien), and the Debtor shall defend such Collateral
+against all claims and demands of all Persons at any time claiming the same or
+any interest therein adverse to the Secured Party.
+
+                  Section 5.04 Other Financing Statements. There is no financing
+statement (or similar statement or instrument of registration under the law of
+any jurisdiction) covering or purporting to cover any interest of any kind in
+the Collateral, and so long as any of the Obligations remain unpaid, the Debtor
+will not execute or authorize to be filed in any public office any financing
+statement (or similar statement or instrument of registration under the law of
+any jurisdiction) or statements relating to the Collateral, except financing
+statements filed or to be filed in respect of and covering the security
+interests granted hereby.
+
+                  Section 5.05 Consents. No consent of any Person and no
+authorization, approval or other action by, and no notice to or filing with, any
+Governmental Authority of any jurisdiction is required as of the date of the
+execution and delivery of this Agreement for (i) the grant by the Debtor of the
+pledge, assignment and security interest granted hereby with respect to the
+Collateral, (ii) the execution, delivery or performance of this Agreement by the
+Debtor, (iii) the pledge, assignment and security interest created hereby with
+respect to the Collateral (including the first priority nature of such pledge,
+assignment and security interest with respect to the Collateral (subject to the
+Custodian Lien)) other than the execution .and delivery of the Control Agreement
+and filing of appropriate financing statements or similar filings or
+notifications in respect of the Collateral or (iv) the exercise by the Secured
+Party of the rights provided for in this Agreement or the remedies in respect of
+the Collateral pursuant to this Agreement.
+
+                  (b)      The Debtor shall use its best efforts to obtain after
+the date of the execution and delivery of this Agreement such other consents,
+authorizations, and approvals and obtain such other actions by, and provide such
+notices to or make such filings with, any Governmental Authority of any
+jurisdiction as may be, in the reasonable judgment of the Secured Party,
+necessary after the date of this Agreement (i) for the grant by the Debtor of
+the pledge, assignment and security interest granted hereby or for the
+execution, delivery or performance of this Agreement by the Debtor, (ii) for the
+pledge, assignment and security interest created hereby with respect to the
+Collateral (including the first priority nature of such pledge, assignment and
+security interest with respect to the Collateral (subject to the Custodian
+Lien)) or (iii) for the exercise by the Secured Party of the rights, remedies
+and powers provided for in this Agreement or the remedies in respect of the
+Collateral pursuant to this Agreement.
+
+                                       11
+
+<PAGE>
+
+                  Section 5.06 Further Actions. The Debtor will, at its own
+expense, make, execute, endorse, acknowledge, or otherwise authenticate and file
+and/or deliver to the Secured Party from time to time such confirmatory
+assignments, conveyances, financing statements, transfer endorsements, powers of
+attorney, certificates and other assurances, instruments or other records, and
+take such further steps relating to the Collateral and other property or rights
+covered by the interests hereby granted, which the Secured Party, upon written
+direction, deems reasonably appropriate or advisable to perfect, preserve or
+protect its security interests in the Collateral.
+
+                  Section 5.07 Financing Statements. The Debtor agrees to
+execute or otherwise authenticate (if necessary) and deliver to the Secured
+Party such financing statements (or similar statement or instrument of
+registration under the law of any jurisdiction), in form acceptable to the
+Secured Party as it may from time to time reasonably request or as are necessary
+or desirable in its reasonable opinion to establish and maintain the security
+interests contemplated hereunder as valid, enforceable and first priority
+security interests (subject to the Custodian Lien) as provided herein and the
+other rights and security contemplated herein, all in accordance with the UCC as
+enacted in any and all relevant jurisdictions or any other Requirement of Law.
+The Debtor will pay any applicable filing fees and related expenses. The Debtor
+authorizes the Secured Party to file any such financing statements without the
+signature of the Debtor.
+
+                                   ARTICLE VI
+
+                   REMEDIES UPON OCCURRENCE OF RELEVANT EVENT
+
+                  Section 6.01 Remedies: Obtaining and Disposition of the
+Collateral Upon Default. The Debtor agrees that, if any Relevant Event has
+occurred and is continuing, then and in every such case, subject to any
+Requirements of Law, the Secured Party may:
+
+                  (a)      deliver a Notice of Exclusive Control, instructions
+or entitlement orders with respect to the Collateral Accounts or the Collateral;
+
+                  (b)      exercise in respect of the Collateral, in addition to
+other rights and remedies provided for herein or otherwise available to it, all
+the rights and remedies of a secured party upon default under the UCC to enforce
+this Agreement and the security interest contained herein, and also may (A) if
+applicable, require the Debtor to, and the Debtor hereby agrees that it will at
+its expense and upon request of the Secured Party forthwith, assemble all or
+part of the Collateral as directed by the Secured Party and make it available to
+the Secured Party at a place to be designated by the Secured Party that is
+reasonably convenient to both parties, or (B) without notice except as specified
+below, sell the Collateral or any part thereof in one or more parcels at public
+or private sale, at any of the Secured Party's offices or elsewhere, for cash,
+on credit or for future delivery, and upon such other terms as the Secured Party
+may deem commercially reasonable. The Debtor agrees that, to the extent notice
+of sale shall be required by law. at least thirty (30) days' notice to the
+Debtor of the time and place of any public sale or the time after which any
+private sale is to be made shall constitute reasonable notification. The Secured
+Party shall not be obligated to make any sale of Collateral regardless of notice
+of sale having been given. The Secured Party may adjourn any public or private
+sale from time to time
+
+                                       12
+
+<PAGE>
+
+by announcement at the time and place fixed therefor, and such sale may, without
+further notice, be made at the time and place to which it was so adjourned;
+
+                  (c)      hold any money held by the Secured Party as
+Collateral and all cash proceeds received by the Secured Party in respect of any
+sale of, collection from, or other realization upon all or any part of the
+Collateral, as collateral for, and/or, then, or at any time thereafter, apply
+such amounts, in whole or in part, against all or any part of the Obligations,
+and to make any currency conversions or effect any transaction in currencies
+which it thinks fit, and to do so at such times and rates as it thinks proper;
+and
+
+                  (d)      exercise any and all rights and remedies of the
+Debtor under or in respect of the Collateral.
+
+                  Section 6.02 Waiver of Claims. Except as otherwise provided in
+this Agreement, the Debtor hereby waives, to the extent permitted by all
+Requirements of Law:
+
+                  (a)      all damages occasioned by taking of possession except
+any damages which are the direct result of the gross negligence or willful
+misconduct of the Secured Party or any Person acting on its behalf or
+instruction:
+
+                  (b)      all other requirements as to the time, place and
+terms of sale or other requirements with respect to the enforcement of the
+Secured Party's rights hereunder; and
+
+                  (c)      all rights of redemption, appraisement, valuation,
+stay, extension or moratorium now or hereafter in force under any Requirement of
+Law in order to prevent or delay the enforcement of this Agreement (including,
+without limitation, any right to claim that such enforcement should be stayed
+pending the outcome of any other action or proceeding (including any arbitration
+proceeding)) or the absolute sale of the Collateral or any portion thereof, and
+the Debtor, for itself and all who may claim under it, insofar as it or they now
+or hereafter lawfully may, hereby waives the benefit of all such Requirements of
+Law.
+
+                  Any sale of, or the grant of options to purchase, or any
+other realization upon, any Collateral shall operate to divest all right, title,
+interest, claim and demand, either at law or in equity, of the Debtor therein
+and thereto, and shall be a perpetual bar both at law and in equity against the
+Debtor and against any and all Persons claiming or attempting to claim the
+Collateral so sold, optioned or realized upon, or any part thereof, from,
+through and under the Debtor.
+
+                  Section 6.03 Deficiencies and Excess Proceeds. The Secured
+Party shall transfer, or cause to be transferred, to the Debtor any proceeds and
+Collateral remaining after exercising remedies under Section 6.01 and after
+satisfaction in full of all amounts payable by the Debtor with respect to any
+Obligations. For the avoidance of doubt, it is understood that the Debtor shall
+remain liable to the extent of any deficiency between the amount of the proceeds
+of the Collateral and the aggregate amount of the Obligations.
+
+                  Section 6.04 Remedies Cumulative. No failure or delay on the
+part of the Secured Party, in exercising any right, power or privilege hereunder
+and no course of dealing between the Debtor and the Secured Party shall operate
+as a waiver hereof; nor shall any single or partial exercise of any right, power
+or privilege hereunder preclude any other or further
+
+                                       13
+
+<PAGE>
+
+exercise hereof or the exercise of any other right, power or privilege
+hereunder. The rights, powers and remedies herein expressly provided are
+cumulative and not exclusive of any rights, powers or remedies which the Secured
+Party would otherwise have. No notice to or demand on the Debtor in any case
+shall entitle the Debtor to any other or further notice or demand in similar or
+other circumstances or constitute a waiver of the rights of the Secured Party to
+any other or further action in any circumstances without notice or demand.
+
+                  Section 6.05 Discontinuance of Proceedings. In case the
+Secured Party shall have instituted any proceeding to enforce any right, power
+or remedy under this Agreement by foreclosure, sale, entry or otherwise, and
+such proceeding shall have been discontinued or abandoned for any reason or
+shall have been determined adversely to the Secured Party, then and in every
+such case the Debtor, the Secured Party shall be restored to their former
+positions and rights hereunder with respect to the Collateral subject to the
+security interest created under this Agreement, and all rights, remedies and
+powers of the Secured Party shall continue as if no such proceeding had been
+instituted.
+
+                                   ARTICLE VII
+
+                                  MISCELLANEOUS
+
+                  Section 7.01 Expenses.
+
+                  (a)      Except as otherwise provided in this Section 7.01(b)
+and 7.01(c), each party will pay its own costs and expenses (including any
+stamp, transfer or similar transaction tax or duty payable on any transfer it is
+required to make under this Agreement) in connection with performing its
+obligations under this Agreement and neither party will be liable for any such
+costs and expenses incurred by the other party.
+
+                  (b)      The Debtor shall promptly pay when due all taxes,
+assessments or charges of any nature that are imposed with respect to Collateral
+upon becoming aware of the same.
+
+                  (c)      All reasonable costs, expenses, charges and fees paid
+or incurred by the Secured Party in the exercise of any of the rights, remedies
+or powers granted hereunder shall be for the account of the Debtor, and the
+Debtor undertakes promptly on demand to pay the same or, as the case may be, to
+reimburse the Secured Party and/or its agents, representatives, successors and
+assigns as the case may be, for any monies paid by it with interest thereon to
+the extent that there are then insufficient funds available in the Collateral
+Accounts for this purpose.
+
+                  Section 7.02 Notices. All communications between the parties
+hereto or notices provided herein to be given may be given to the following
+addresses:
+
+                  If to the Secured Party:
+
+                           St. Paul Reinsurance Company Limited
+                           27 Camperdown Street
+                           London El 8DS
+
+                                       14
+
+<PAGE>
+
+                           United Kingdom
+                           Attn: Company Secretary
+                           Facsimile No.: 44-207-488-6345
+
+                  If to the Debtor:
+
+                           Platinum Re (UK) Limited
+                           52 Lime Street
+                           London EC3M 7NL
+                           United Kingdom
+                           Attn: Guy Butler
+                           Facsimile No.: 44-207-623-6610
+
+                  All notices or other communications required or permitted to
+be given hereunder shall be in writing and shall be considered as properly given
+(a) if delivered in person, (b) if sent by internationally recognized overnight
+delivery service, or (c) if sent by facsimile transmission. Notice so given
+shall be effective upon receipt by the addressee; provided, however, that if any
+notice is tendered during normal business hours on a Local Business Day to an
+addressee in accordance with this Section 7.02 and the delivery thereof is
+refused by such addressee, such notice shall be effective upon such tender. Any
+party shall have the right to change its address for notice hereunder to any
+other location by the giving of 30 days notice to the other parties in the
+manner set forth hereinabove.
+
+                  Section 7.03 Instructions. All entitlement orders and other
+instructions and communications that the Debtor is entitled, or desires, to give
+or make under this Agreement may be given or made either by the Debtor itself or
+by the Investment Adviser, acting on behalf of the Debtor. All entitlement
+orders and other instructions and communications that the Secured Party is
+entitled, or desires, to give or make under this Agreement may be given or made
+either by the Secured Party itself or by its attorney in fact.
+
+                  Section 7.04 Waiver: Amendment. This Agreement may be"
+changed, waived, discharged, or terminated only by an instrument in writing
+executed by all of the parties hereto.
+
+                  Section 7.05 Obligations Absolute. The obligations of the
+Debtor under this Agreement shall be absolute and unconditional and shall remain
+in full force and effect without regard to, and shall not be released,
+suspended, discharged, terminated or otherwise affected by, any circumstance or
+occurrence whatsoever, including, without limitation: (a) any renewal,
+extension, amendment or modification of, or addition or supplement to or
+deletion from, the Retrocession Agreement or any other instrument or agreement
+referred to therein, or any assignment or transfer of any thereof; (b) any
+waiver, consent, extension, indulgence or other action or inaction under or in
+respect of any such instrument or agreement or this Agreement or any exercise or
+non-exercise of any right, remedy, power or privilege under or in respect of
+this Agreement or the Retrocession Agreement or any other instrument or
+agreement referred to therein; (c) any furnishing of any additional security to
+the Secured Party or any acceptance thereof or any sale, exchange, release,
+surrender or realization of or upon any security by the
+
+                                       15
+
+<PAGE>
+
+Secured Party; or (d) any invalidity, irregularity or unenforceability of all or
+part of the Obligations or of any security therefor.
+
+                  Section 7.06 Successors and Assigns. This Agreement shall be
+binding upon and inure to the benefit of and be enforceable by the respective
+successors and assigns of the parties hereto; provided, however, that the Debtor
+may not assign or transfer any of its rights or obligations hereunder without
+the prior written consent of the Secured Party.
+
+                  Section 7.07 Headings Descriptive, etc. The headings of the
+sections and subsections of this Agreement are inserted for convenience only and
+shall not in any way affect the meaning or construction of any provision of this
+Agreement.
+
+                  Section 7.08 Governing Law: Submission to Jurisdiction and
+Venue. This Agreement is a contract made under the laws of The Commonwealth of
+Massachusetts of the United States of America and shall for all purposes be
+governed by and construed in accordance with the laws of such Commonwealth. Any
+legal action or proceeding against the Debtor with respect to this Agreement may
+be brought in the courts of The Commonwealth of Massachusetts in the County of
+Suffolk, or in the federal courts of the United States for the District of
+Massachusetts, it being understood that nothing herein shall affect the right of
+the Secured Party to serve process in any other manner permitted by law or to
+commence legal proceedings or otherwise proceed against the Debtor in any
+jurisdiction, and, by execution and delivery of this Agreement, the Debtor
+hereby irrevocably accepts for itself and in respect of its property, generally
+and unconditionally, the jurisdiction of the aforesaid courts. The Debtor agrees
+that a judgment, after exhaustion of all available appeals, in any such action
+or proceeding shall be conclusive and binding upon the Debtor, and may be
+enforced in any jurisdiction, by a suit upon such judgment, a certified copy of
+which shall be conclusive evidence of the judgment.
+
+                  (b)      The Debtor hereby irrevocably waives any objection
+which it may now or hereafter have to the laying of venue of any of the
+aforesaid actions or proceedings arising out of or in connection with this
+Agreement brought in the courts referred to in clause (a) above and hereby
+further irrevocably waives and agrees not to plead or claim in any such court
+that any such action or proceeding brought in any such court has been brought in
+an .inconvenient forum.
+
+                  Section 7.09 Waiver of Jury Trial. Each of the Debtor and the
+Secured Party hereby irrevocably waives all right to trial by jury in any
+action, proceeding or counterclaim arising out or relating to this Agreement, or
+any other instrument or document delivered hereunder or thereunder.
+
+                  Section 7.10 Termination: Release. This Agreement shall
+terminate on the earlier of (i) the irrevocable payment and performance in full
+or termination or waiver of the Obligations (other than contingent surviving
+obligations), as confirmed by a joint notice from the Debtor and the Secured
+Party, or (ii) such time as the Debtor delivers a notice to the Secured Party
+and the Custodian that the Ending Reserves so reported by the Debtor do not
+exceed USD 100 million as of two consecutive calendar years ends, provided,
+however, that no Relevant Event shall have occurred and be continuing. Upon such
+termination, the Secured Party shall, at the Debtor's expense, execute and
+deliver to the Debtor such documents, and take such other acts, as the Debtor
+shall reasonably request to evidence, or give effect to, such termination.
+
+                                       16
+
+<PAGE>
+
+                  Section 7.11 Reinstatement. Notwithstanding anything herein to
+the contrary, this Agreement shall continue to be effective, or be reinstated,
+as the case may be, if at any time payment, or any part thereof, of any of the
+Obligations is rescinded or must otherwise be restored or returned by the
+Secured Party upon the insolvency, bankruptcy, dissolution, liquidation or
+reorganization of the Debtor, or upon or as a result of the appointment of a
+receiver, intervenor or conservator of, or trustee or similar officer for, the
+Debtor or any substantial part of its property, or otherwise, all as though such
+payments had not been made.
+
+                  Section 7.12 Counterparts. This Agreement may be executed in
+counterparts, each of which when so executed and delivered shall be an
+original, and both of which shall together constitute one and the same
+instrument.
+
+                  Section 7.13 Severability. In case any one or more of the
+provisions contained in this Agreement shall be invalid, illegal or
+unenforceable in any respect, the validity, legality and enforceability of the
+remaining provisions contained herein shall not in any way be affected and/or
+impaired thereby.
+
+                            [SIGNATURE PAGE FOLLOWS.]
+
+                                       17
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, the parties hereto have caused this
+Agreement to be duly executed and delivered by their proper and duly authorized
+officers as of the day and year first above written.
+
+                                          PLATINUM RE (UK) LIMITED, as Debtor
+
+                                          By: /s/ G. R. Butler
+                                              -------------------------------
+                                          Name:  G. R. BUTLER
+                                          Title: FINANCE DIRECTOR
+
+                                          ST. PAUL REINSURANCE COMPANY
+                                          LIMITED, as Secured Party
+
+                                          By: /s/ T. MAHONEY
+                                              -------------------------------
+                                          Name:  T. MAHONEY
+                                          Title: M D
+
+<PAGE>
+
+                                                                      SCHEDULE I
+
+                               COLLATERAL ACCOUNTS
+
+                                 Deposit Account
+
+<TABLE>
+<CAPTION>
+           Description                          Number
+<S>                                            <C>
+Platinum Re (UK) fbo St. Paul Re               54798137
+</TABLE>
+
+                               Securities Account
+
+<TABLE>
+<CAPTION>
+           Description                          Number
+<S>                                             <C>
+Platinum Re (UK) fbo St. Paul Re                CIW8
+</TABLE>
+
+                                      S-l
+
+
+</TEXT>
+</DOCUMENT>

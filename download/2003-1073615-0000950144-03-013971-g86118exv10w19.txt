@@ -1,0 +1,1915 @@
+<DOCUMENT>
+<TYPE>EX-10.19
+<SEQUENCE>9
+<FILENAME>g86118exv10w19.txt
+<DESCRIPTION>EX-10.19 AMENDMENT NO.3
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.19
+
+           ARIZONA HEALTH CARE COST CONTAINMENT SYSTEM ADMINISTRATION
+                        DIVISION OF BUSINESS AND FINANCE
+                               CONTRACT AMENDMENT
+
+                                                                     Page 1 of 1
+
+<TABLE>
+<CAPTION>
+1. AMENDMENT NO.:        2. CONTRACT NO.:       3. EFFECTIVE DATE OF MODIFICATION:      4. PROGRAM:
+<S>                      <C>                    <C>                                     <C>
+       03                  YH04-0001-03                   OCTOBER 1, 2003                 DHCM-ACUTE
+</TABLE>
+
+5. CONTRACTOR/PROVIDER NAME AND ADDRESS:
+
+                              HEALTH CHOICE ARIZONA
+                          1600 WEST BROADWAY, SUITE 260
+                            TEMPE, ARIZONA 85282-1136
+
+6. PURPOSE:
+
+       To revise capitation rates contained in Section B.
+
+7. THE CONTRACT REFERENCED ABOVE IS AMENDED AS FOLLOWS:
+
+The purpose of this amendment is to adjust the Maternity Delivery Payment. In
+Amendment 02, the summary rate sheet by GSA had the incorrect rate stated; and,
+the Final Awarded Rate sheets had a rounding error in the reinsurance offset
+line. These errors have been corrected and are reflected in the attached revised
+capitation rates.
+
+All other terms and conditions of the contract remains the same.
+
+Note: Please sign, date and return one
+      original to:                       Diane E. Harnisch, CPPB
+                                         Contract Management Specialist
+                                         AHCCCS Contracts and Purchasing
+                                         701 E. Jefferson, MD5700 Phoenix,
+                                         Arizona 85034
+
+8. EXCEPT AS PROVIDED FOR HEREIN, ALL TERMS AND CONDITIONS OF THE ORIGINAL
+   CONTRACT NOT HERETOFORE CHANGED AND/OR AMENDED REMAIN UNCHANGED AND IN FULL
+   EFFECT.
+
+   IN WITNESS WHEREOF THE PARTIES HERETO SIGN THEIR NAMES IN AGREEMENT.
+
+9. NAME OF CONTRACTOR:                10. ARIZONA HEALTH CARE COST CONTAINMENT
+                                          SYSTEM
+
+    Health Choice Arizona
+
+SIGNATURE OF AUTHORIZED INDIVIDUAL:   SIGNATURE:
+
+    /s/ Carolyn Rose                      /s/ MICHAEL VEIT
+    ----------------                      -----------------
+
+TYPED NAME:                           TYPED NAME:
+
+    Carolyn Rose                          MICHAEL VEIT
+
+TITLE:                                TITLE:
+
+    Chief Executive officer               Contracts and Purchasing Administrator
+
+DATE                                  DATE:
+
+                                          September 10, 2003
+
+<PAGE>
+
+AS OF:                       10/1/2003
+PLAN:                  HEALTH CHOICE ARIZONA
+ACUTE
+GSA:                            4
+COUNTY:            APACHE/COCONINO/MOHAVE/NAVAJO
+
+<TABLE>
+<CAPTION>
+                                                               ACUTE           ACUTE
+                                                                PPC           ONGOING
+                                                               -----          -------
+<S>        <C>                                               <C>             <C>
+TACI       TANF AND CHILDREN M & F < 1 YEAR                    737.97           383.00
+TACS       TANF, CHILDREN AND SOBRA PREG FEMALE                 39.66            93.08
+FMAL       TANF, CHILDREN, SOBRA FEMALES 14-44                 151.00           180.85
+MALE       TANF, CHILDREN MALES 14-44                          122.40           137.53
+ADLT       TANF M & F AND SOBRA FEMALES 45+                    281.97           325.23
+SSIW       SSI AGED, DISABLED, BLIND MEDICARE                   38.50           266.88
+SSIN       SSI AGED, DISABLED, BLIND NON-MEDICARE               86.12           572.83
+SFPS       SOBRA FAMILY PLANNING SERVICES                                        13.96
+SB10       TANF SUPPLEMENTAL BIRTH PAYMENT                                    5,289.63
+SB11       SB PAYMENT FOR TANF EXPANDED                                       5,289.63
+SB20       SSI W/O SUPPLEMENTAL BIRTH PAYMENT                                 5,289.63
+SB21       SSI W/ SUPPLEMENTAL BIRTH PAYMENT                                  5,289.63
+SB22       SB PAYMENT FOR SSI EXPANDED WITH MEDICARE                          5,289.63
+SB23       SB PAYMENT FOR SSI EXPANDED NO MEDICARE                            5,289.63
+SB33       SB PAYMENT FOR AHCCCS CARE                                         5,289.63
+SB34       SB PAYMENT FOR MED ELIGIBLES                                       5,289.63
+SB36       SB PAYMENT FOR AHC CARE/MI                                         5,289.63
+SB50       SOBRA SUPPLEMENTAL BIRTH PAYMENT                                   5,289.63
+SB60       KIDSCARE SUPPLEMENTAL BIRTH PAYMENT
+ACMA       AHC CARE                                            590.95           419.64
+MEDE       MED ELIGIBILITY                                   1,601.66           723.91
+HS00       HOSPITALIZED KICK FOR AHCCCS CARE                                      0.00
+HS01       HOSPITALIZED KICK FOR AHC CARE/MI                                      0.00
+HS02       HOSPITALIZED KICK FOR MED ELIGIBLES                               10,548.19
+HFML       HIFA FEMALE 14-44                                                    198.76
+HMAL       HIFA MALE 14-44                                                      151.16
+HADT       HIFA ADULT 45+, M & F                                                357.54
+KIDI       KIDS < 1 M & F
+KIDC       KIDS 1-13 M & F
+KIDF       KIDS 14-19 FEMALE
+KIDM       KIDS 14-19 MALE
+</TABLE>
+
+<PAGE>
+
+AS OF:                       10/1/2003
+PLAN:                  HEALTH CHOICE ARIZONA
+ACUTE
+GSA:                            8
+COUNTY:                     GILA/PINAL
+
+<TABLE>
+<CAPTION>
+                                                               ACUTE           ACUTE
+                                                                PPC           ONGOING
+                                                               -----          -------
+<S>        <C>                                               <C>              <C>
+TACI       TANF AND CHILDREN M & F < 1 YEAR                    737.97           380.35
+TACS       TANF, CHILDREN AND SOBRA PREG FEMALE                 39.66            92.41
+FMAL       TANF, CHILDREN, SOBRA FEMALES 14-44                 151.00           160.67
+MALE       TANF, CHILDREN MALES 14-44                          122.40           116.81
+ADLT       TANF M & F AND SOBRA FEMALES 45+                    281.97           321.13
+SSIW       SSI AGED, DISABLED, BLIND MEDICARE                   38.50           239.91
+SSIN       SSI AGED, DISABLED, BLIND NON-MEDICARE               86.12           509.05
+SFPS       SOBRA FAMILY PLANNING SERVICES                                        15.49
+SB10       TANF SUPPLEMENTAL BIRTH PAYMENT                                    5,606.32
+SB11       SB PAYMENT FOR TANF EXPANDED                                       5,606.32
+SB20       SSI W/O SUPPLEMENTAL BIRTH PAYMENT                                 5,606.32
+SB21       SSI W/ SUPPLEMENTAL BIRTH PAYMENT                                  5,606.32
+SB22       SB PAYMENT FOR SSI EXPANDED WITH MEDICARE                          5,606.32
+SB23       SB PAYMENT FOR SSI EXPANDED NO MEDICARE                            5,606.32
+SB33       SB PAYMENT FOR AHCCCS CARE                                         5,606.32
+SB34       SB PAYMENT FOR MED ELIGIBLES                                       5,606.32
+SB36       SB PAYMENT FOR AHC CARE/MI                                         5,606.32
+SB50       SOBRA SUPPLEMENTAL BIRTH PAYMENT                                   5,606.32
+SB60       KIDSCARE SUPPLEMENTAL BIRTH PAYMENT
+ACMA       AHC CARE                                            554.83           386.59
+MEDE       MED ELIGIBILITY                                   1,584.83           730.00
+HS00       HOSPITALIZED KICK FOR AHCCCS CARE                                      0.00
+HS01       HOSPITALIZED KICK FOR AHC CARE/MI                                      0.00
+HS02       HOSPITALIZED KICK FOR MED ELIGIBLES                                9,355.58
+HFML       HIFA FEMALE 14-44                                                    176.58
+HMAL       HIFA MALE 14-44                                                      128.38
+HADT       HIFA ADULT 45+, M & F                                                353.05
+KIDI       KIDS < 1 M & F
+KIDC       KIDS 1-13 M & F
+KIDF       KIDS 14-19 FEMALE
+KIDM       KIDS 14-19 MALE
+</TABLE>
+
+<PAGE>
+
+AS OF:                       10/1/2003
+PLAN:                  HEALTH CHOICE ARIZONA
+ACUTE
+GSA:                            10
+COUNTY:                        PIMA
+
+<TABLE>
+<CAPTION>
+                                                               ACUTE           ACUTE
+                                                                PPC           ONGOING
+                                                               -----          -------
+<S>        <C>                                               <C>              <C>
+TACI       TANF AND CHILDREN M & F < 1 YEAR                  1,200.85           372.73
+TACS       TANF, CHILDREN AND SOBRA PREG FEMALE                 39.66            88.86
+FMAL       TANF, CHILDREN, SOBRA FEMALES 14-44                 157.05           160.25
+MALE       TANF, CHILDREN MALES 14-44                          127.30           111.45
+ADLT       TANF M & F AND SOBRA FEMALES 45+                    293.24           347.05
+SSIW       SSI AGED, DISABLED, BLIND MEDICARE                   30.10           253.64
+SSIN       SSI AGED, DISABLED, BLIND NON-MEDICARE               81.25           551.47
+SFPS       SOBRA FAMILY PLANNING SERVICES                                        11.78
+SB10       TANF SUPPLEMENTAL BIRTH PAYMENT                                    5,456.54
+SB11       SB PAYMENT FOR TANF EXPANDED                                       5,456.54
+SB20       SSI W/O SUPPLEMENTAL BIRTH PAYMENT                                 5,456.54
+SB21       SSI W/ SUPPLEMENTAL BIRTH PAYMENT                                  5,456.54
+SB22       SB PAYMENT FOR SSI EXPANDED WITH MEDICARE                          5,456.54
+SB23       SB PAYMENT FOR SSI EXPANDED NO MEDICARE                            5,456.54
+SB33       SB PAYMENT FOR AHCCCS CARE                                         5,456.54
+SB34       SB PAYMENT FOR MED ELIGIBLES                                       5,456.54
+SB36       SB PAYMENT FOR AHC CARE/MI                                         5,456.54
+SB50       SOBRA SUPPLEMENTAL BIRTH PAYMENT                                   5,456.54
+SB60       KIDSCARE SUPPLEMENTAL BIRTH PAYMENT
+ACMA       AHC CARE                                            601.35           345.60
+MEDE       MED ELIGIBILITY                                   1,624.59           726.34
+HS00       HOSPITALIZED KICK FOR AHCCCS CARE                                      0.00
+HS01       HOSPITALIZED KICK FOR AHC CARE/MI                                      0.00
+HS02       HOSPITALIZED KICK FOR MED ELIGIBLES                                9,723.91
+HFML       HIFA FEMALE 14-44                                                    176.10
+HMAL       HIFA MALE 14-44                                                      122.49
+HADT       HIFA ADULT 45+, M & F                                                381.57
+KIDI       KIDS < 1 M & F
+KIDC       KIDS 1-13 M & F
+KIDF       KIDS 14-19 FEMALE
+KIDM       KIDS 14-19 MALE
+</TABLE>
+
+<PAGE>
+
+AS OF:                       10/1/2003
+PLAN:                  HEALTH CHOICE ARIZONA
+ACUTE
+GSA:                            12
+COUNTY:                      MARICOPA
+
+<TABLE>
+<CAPTION>
+                                                               ACUTE           ACUTE
+                                                                PPC           ONGOING
+                                                               -----          -------
+<S>        <C>                                               <C>              <C>
+TACI       TANF AND CHILDREN M & F < 1 YEAR                  1,196.40           372.71
+TACS       TANF, CHILDREN AND SOBRA PREG FEMALE                 39.66            93.54
+FMAL       TANF, CHILDREN, SOBRA FEMALES 14-44                 157.05           161.06
+MALE       TANF, CHILDREN MALES 14-44                          127.30           119.45
+ADLT       TANF M & F AND SOBRA FEMALES 45+                    293.24           327.04
+SSIW       SSI AGED, DISABLED, BLIND MEDICARE                   30.21           233.51
+SSIN       SSI AGED, DISABLED, BLIND NON-MEDICARE               81.25           498.98
+SFPS       SOBRA FAMILY PLANNING SERVICES                                        16.32
+SB10       TANF SUPPLEMENTAL BIRTH PAYMENT                                    5,668.10
+SB11       SB PAYMENT FOR TANF EXPANDED                                       5,668.10
+SB20       SSI W/O SUPPLEMENTAL BIRTH PAYMENT                                 5,668.10
+SB21       SSI W/ SUPPLEMENTAL BIRTH PAYMENT                                  5,668.10
+SB22       SB PAYMENT FOR SSI EXPANDED WITH MEDICARE                          5,668.10
+SB23       SB PAYMENT FOR SSI EXPANDED NO MEDICARE                            5,668.10
+SB33       SB PAYMENT FOR AHCCCS CARE                                         5,668.10
+SB34       SB PAYMENT FOR MED ELIGIBLES                                       5,668.10
+SB36       SB PAYMENT FOR AHC CARE/MI                                         5,668.10
+SB50       SOBRA SUPPLEMENTAL BIRTH PAYMENT                                   5,668.10
+SB60       KIDSCARE SUPPLEMENTAL BIRTH PAYMENT
+ACMA       AHC CARE                                            538.76           404.81
+MEDE       MED ELIGIBILITY                                   1,572.86           734.18
+HS00       HOSPITALIZED KICK FOR AHCCCS CARE                                      0.00
+HS01       HOSPITALIZED KICK FOR AHC CARE/MI                                      0.00
+HS02       HOSPITALIZED KICK FOR MED ELIGIBLES                                9,244.71
+HFML       HIFA FEMALE 14-44                                                    177.01
+HMAL       HIFA MALE 14-44                                                      131.28
+HADT       HIFA ADULT 45+, M & F                                                359.55
+KIDI       KIDS < 1 M & F
+KIDC       KIDS 1-13 M & F
+KIDF       KIDS 14-19 FEMALE
+KIDM       KIDS 14-19 MALE
+</TABLE>
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 4 -
+                              (EFFECTIVE 10/01/03)
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+         [ILLEGIBLE]                      [ILLEGIBLE]   [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------------------------
+<S>                                       <C>           <C>             <C>             <C>             <C>
+Originally Awarded PMPM                    $362.08        $ 88.38         $170.68         $127.08         $308.53
+-------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                                   1.46%          2.79%           3.22%           3.71%           3.14%
+Cost Sharing Proposal Adjustment              0.00%          0.00%           0.00%           0.00%           0.00%
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment                  -1.74%          0.09%          -0.13%           1.70%          -0.02%
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)            -0.10%         -0.02%          -0.05%          -0.03%          -0.05%
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                            -0.17%         -0.06%          -0.16%          -0.30%          -0.41%
+Premium Tax Implementation
+ Adjustment                                   2.04%          2.04%           2.04%           2.04%           2.04%
+-----------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM (2)                                1.45%          4.89%           4.97%           7.27%           4.75%
+-----------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                    $367.33        $ 92.70         $179.15         $136.32         $323.17
+-----------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (3)                   4.27%          0.40%           0.95%           0.88%           0.64%
+=================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible               $383.00        $ 93.08         $180.85         $137.53         $325.23
+-----------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+         [ILLEGIBLE]                      [ILLEGIBLE]      [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]    [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------------
+<S>                                       <C>              <C>           <C>           <C>            <C>
+Originally Awarded PMPM                    $  255.77         $516.54       $13.68       $5,238.20       $740.35
+---------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                                     2.00%           2.94%        0.00%          -0.73%         0.00%
+Cost Sharing Proposal Adjustment                0.00%           0.00%        0.00%           0.00%         0.00%
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment                     0.18%           3.76%        0.00%           0.00%         0.00%
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)              -0.02%          -0.04%       -0.02%          -0.09%         0.00%
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                              -0.09%          -0.38%        0.00%           0.04%         0.00%
+Premium Tax Implementation
+ Adjustment                                     2.04%           2.04%        2.04%           2.04%         2.04%
+---------------------------------------------------------------------------------------------------------------
+  Total Adjustment Impacting
+   Base PMPM (2)                                4.16%           8.53%        2.02%           1.24%         2.04%
+---------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                    $  266.41         $560.62       $13.96       $5,303.20       $755.46
+---------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (3)                     0.18%           2.18%        0.00%          -0.26%         0.00%
+===============================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible               $  266.88         $572.83       $13.96       $5,289.63       $755.46
+---------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+         [ILLEGIBLE]                      [ILLEGIBLE]   [ILLEGIBLE]  [ILLEGIBLE]     [ILLEGIBLE]  [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------------------
+<S>                                       <C>           <C>          <C>             <C>          <C>
+Originally Awarded PMPM                     $566.00       $420.48    $ 1,537.54        $732.17    $ 10,269.35
+-------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                                    2.77%         2.77%         2.65%          2.65%          1.39%
+Cost Sharing Proposal Adjustment               0.00%        -4.41%         0.00%         -5.09%          0.00%
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment                    0.00%         0.00%         0.00%          0.00%          0.00%
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)             -0.06%        -0.06%        -0.06%         -0.06%         -0.23%
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                             -0.38%        -0.38%        -0.49%         -0.49%         -0.49%
+Premium Tax Implementation
+ Adjustment                                    2.04%         2.04%         2.04%          2.04%          2.04%
+-------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM (2)                                 4.41%        -0.20%         4.17%         -1.13%          2.72%
+-------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                     $590.95       $419.64    $ 1,601.66        $723.91    $ 10,548.19
+-------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (3)                    0.00%         0.00%         0.00%          0.00%          0.00%
+=============================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible               $ 590.95       $419.64    $ 1,601.66        $723.91    $ 10,548.19
+-------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+        [ILLEGIBLE]                     [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE    [ILLEGIBLE]  [ILLEGIBLE]   [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------------------------------
+<S>                                     <C>          <C>          <C>          <C>           <C>          <C>           <C>
+Originally Awarded PMPM                   $714.74      $37.84       $143.67     $116.05       $ 269.14     $  37.03       $ 82.34
+---------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                                  1.46%       2.79%         3.22%       3.71%          3.14%        2.00%         2.94%
+Cost Sharing Proposal Adjustment             0.00%       0.00%         0.00%       0.00%          0.00%        0.00%         0.00%
+Reinsurance Incorporating
+ Catastrophic and  Transplant
+ Data Adjustment                             0.00%       0.00%         0.00%       0.00%          0.00%        0.00%         0.00%
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)           -0.10%      -0.02%        -0.05%      -0.03%         -0.05%       -0.02%        -0.04%
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                           -0.17%      -0.06%        -0.16%      -0.30%         -0.41%       -0.09%        -0.38%
+Premium Tax Implementation
+ Adjustment                                  2.04%       2.04%         2.04%       2.04%          2.04%        2.04%         2.04%
+---------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM (2)                               3.25%       4.80%         5.11%       5.47%          4.77%        3.97%         4.60%
+---------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                   $737.97      $39.66       $151.00     $122.40       $ 291.97     $  38.50       $ 86.12
+---------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible                      0.00%       0.00%         0.00%       0.00%          0.00%        0.00%         0.00%
+=================================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible              $737.97      $39.66       $151.00     $122.40       $ 281.97     $  38.50       $ 86.12
+---------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+        [ILLEGIBLE]                     [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------------------------
+<S>                                     <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                                 N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal Adjustment            N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment                 N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)           N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                           N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation
+ Adjustment                                 N/A          N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM (2)                              N/A          N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible                     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+=================================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible                N/A          N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1.   The KidsCare age cohort includes individuals 14 to 18 years of age, while
+     the TANF rate cell includes 14 - 44.
+
+2.   The adjustment is multiplicative, not additive.
+
+3.   The Maternity Delivery Payment does not have a reinsurance component built
+     directly into the rate. However, it is indirectly affected by choosing a
+     different deductible level because the TANF 14-44 female rate is applied as
+     an 8-month offset to the Maternity Delivery Payment, and the female rate is
+     directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     1 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 4 -
+                              (EFFECTIVE 10/01/03)
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+         [ILLEGIBLE]                   [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]      [ILLEGIBLE]      [ILLEGIBLE]
+--------------------------------------------------------------------------------------------------------------------
+<S>                                    <C>             <C>             <C>              <C>              <C>
+Originally Awarded PMPM                 $ 362.08         $ 88.38         $ 170.68         $ 127.08         $ 308.53
+--------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                             $   5.29         $  2.46         $   5.50         $   4.71         $   9.70
+Cost Sharing Proposal Adjustment        $   0.00         $  0.00         $   0.00         $   0.00         $   0.00
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment            ($   6.40)        $  0.08        ($   0.23)        $   2.25        ($   0.06)
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)      ($   0.37)       ($  0.02)       ($   0.08)       ($   0.04)       ($   0.15)
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                      ($   0.61)       ($  0.06)       ($   0.29)       ($   0.40)       ($   1.32)
+Premium Tax Implementation
+ Adjustment                             $   7.35         $  1.85         $   3.58         $   2.73         $   6.46
+--------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM                              $   5.25         $  4.32         $   8.47         $   9.24         $  14.64
+--------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                 $ 367.33         $ 92.70         $ 179.15         $ 136.32         $ 323.17
+--------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (2)             $  15.67         $  0.38         $   1.70         $   1.21         $   2.06
+====================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible            $ 383.00         $ 93.08         $ 180.85         $ 137.53         $ 325.23
+--------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+        [ILLEGIBLE]                    [ILLEGIBLE]     [ILLEGIBLE]       [ILLEGIBLE]        [ILLEGIBLE]       [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------------------------------
+<S>                                    <C>             <C>               <C>                <C>               <C>
+Originally Awarded PMPM                 $ 255.77         $ 516.54         $   13.88          $ 5,238.20         $  740.35
+-------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                             $   5.13         $  15.16         $    0.00         ($    37.98)        $    0.00
+Cost Sharing Proposal Adjustment        $   0.00         $   0.00         $    0.00          $     0.00         $    0.00
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment             $   0.47         $  20.01         $    0.00          $     0.00         $    0.00
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)      ($   0.05)       ($   0.22)       ($    0.00)        ($     4.93)        $    0.00
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                      ($   0.24)       ($   2.09)        $    0.00          $     1.85         $    0.00
+Premium Tax Implementation
+ Adjustment                             $   5.33         $  11.21         $    0.28          $   106.06         $   15.11
+-------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM                              $  10.64         $  44.08         $    0.28          $    65.00         $   15.11
+-------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                 $ 266.41         $ 560.82         $   13.96          $ 5,303.20         $  755.46
+-------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (2)             $   0.47         $  12.21         $    0.00         ($    13.56)        $    0.00
+=========================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible            $ 266.88         $ 572.83         $   13.96          $ 5,289.63         $  755.46
+-------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+        [ILLEGIBLE]                    [ILLEGIBLE]      [ILLEGIBLE]        [ILLEGIBLE]         [ILLEGIBLE]        [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------------------------
+<S>                                    <C>              <C>                <C>                 <C>                <C>
+Originally Awarded PMPM                 $ 566.00         $   420.48         $ 1,537.54         $    732.17         $10,269.35
+-----------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                             $  15.66         $    11.84         $    40.74         $     19.40         $   142.47
+Cost Sharing Proposal Adjustment        $   0.00        ($    19.06)        $     0.00        ($     38.23)        $     0.00
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment             $   0.00         $     0.00         $     0.00         $      0.00         $     0.00
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)      ($   0.33)       ($     0.23)       ($     0.92)       ($      0.42)       ($    23.68)
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                      ($   2.21)       ($     1.57)       ($     7.73)       ($      3.49)       ($    50.90)
+Premium Tax Implementation
+ Adjustment                             $  11.82         $     8.39         $    32.03         $     14.48         $   210.96
+-----------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM                              $  24.95        ($     0.84)        $    64.12        ($      8.27)        $   278.85
+-----------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                 $ 590.95         $   419.64         $ 1,601.66         $    723.91         $10,548.19
+-----------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible (2)             $   0.00         $     0.00         $     0.00         $      0.00         $     0.00
+=============================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible            $ 590.95         $   419.84         $ 1,601.66         $    723.91         $10,548.19
+-----------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+       [ILLEGIBLE]                    [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]  [ILLEGIBLE]
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>          <C>          <C>           <C>           <C>           <C>          <C>
+Originally Awarded PMPM                $ 714.74      $ 37.84      $ 143.67      $ 116.05      $ 269.14      $ 37.03      $ 82.34
+----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                            $  10.44      $  1.05      $   4.63      $   4.30      $   8.46      $  0.74      $  2.42
+Cost Sharing Proposal Adjustment       $   0.00      $  0.00      $   0.00      $   0.00      $   0.00      $  0.00      $  0.00
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment            $   0.00      $  0.00      $   0.00      $   0.00      $   0.00      $  0.00      $  0.00
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)     ($   0.75)    ($  0.01)    ($   0.07)    ($   0.04)    ($   0.13)    ($  0.01)    ($  0.03)
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                     ($   1.23)    ($  0.02)    ($   0.24)    ($   0.36)    ($   1.15)    ($  0.03)    ($  0.32)
+Premium Tax Implementation
+ Adjustment                            $  14.76      $  0.79      $   3.02      $   2.45      $   5.64      $  0.77      $  1.72
+----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM                             $  23.23      $  1.82      $   7.33      $   6.35      $  12.83      $  1.47      $  3.78
+----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                $ 737.97      $ 39.66      $ 151.00      $ 122.40      $ 281.97      $ 38.50      $ 86.12
+----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible                $   0.00      $  0.00      $   0.00      $   0.00      $   0.00      $  0.00      $  0.00
+==================================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible           $ 737.97      $ 39.66      $ 151.00      $ 122.40      $ 281.97      $ 38.50      $ 86.12
+----------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+       [ILLEGIBLE]                    [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------------------------------------
+<S>                                   <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+-------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+ Adjustment                               N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal Adjustment          N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating
+ Catastrophic and
+ Transplant Data Adjustment               N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI Trend
+ Update Adjustment - (4.0%
+ estimate changed to 3.8% actual)         N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule
+ Change (Referral Physician and
+ Lab & X-Ray COS)                         N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation
+ Adjustment                               N/A          N/A          N/A          N/A          N/A          N/A          N/A
+-------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+ Base PMPM                                N/A          N/A          N/A          N/A          N/A          N/A          N/A
+-------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+ Plans Electing the $20k
+ Reinsurance Deductible                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+-------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+ Reinsurance Deductible                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+===============================================================================================================================
+Adjusted Awarded PMPM for
+ Plans Electing the
+ $35k Reinsurance Deductible              N/A          N/A          N/A          N/A          N/A          N/A          N/A
+-------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1.   The kidsCare age cohort covers individuals 14 - 18 years of age, while the
+     TANF rate cell includes 14 - 44.
+
+2.   The Maternity Delivery Payment does not have a reinsurance component built
+     directly into the rate. However, it is indirectly affected by choosing a
+     different deductible level because the TANF 14-44 female rate is applied as
+     an 8-month offset to the Maternity Delivery Payment, and the female rate is
+     directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     2 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 8 -
+                              (EFFECTIVE 10/01/03)
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+                 [ILLEGIBLE]                       [ILLEGIBLE]   [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------
+<S>                                                <C>           <C>          <C>          <C>
+Originally Awarded PMPM                              $361.00       $87.78       $151.60      $107.87
+----------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                  1.46%        2.79%         3.22%        3.71%
+Cost Sharing Proposal Adjustment                        0.00%        0.00%         0.00%        0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                             -1.74%        0.09%        -0.13%        1.70%
+Hospital Inpatient DRI Trend Update Adjustment-
+(4.0% estimate changed to 3.8% actual)                 -0.10%       -0.02%        -0.05%       -0.03%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)               -0.17%       -0.06%        -0.16%       -0.30%
+Premium Tax Implementation Adjustment                   2.04%        2.04%         2.04%        2.04%
+----------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                1.45%        4.89%         4.97%        7.27%
+----------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                          $366.24       $92.07       $159.13      $115.71
+----------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible (3)                                          3.85%        0.37%         0.97%        0.95%
+====================================================================================================
+Adjusted Awarded PMPM for plans Electing the
+$35k Reinsurance Deductible                          $380.35       $92.41       $160.67      $116.81
+----------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                 [ILLEGIBLE]                       [ILLEGIBLE]    [ILLEGIBLE]  [ILLEGIBLE]
+------------------------------------------------------------------------------------------
+<S>                                                <C>            <C>          <C>
+Originally Awarded PMPM                              $304.79       $229.93       $458.90
+----------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                  3.14%         2.00%         2.94%
+Cost Sharing Proposal Adjustment                        0.00%         0.00%         0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                             -0.02%         0.18%         3.76%
+Hospital Inpatient DRI Trend Update Adjustment-
+(4.0% estimate changed to 3.8% actual)                 -0.05%        -0.02%        -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)               -0.41%        -0.09%        -0.38%
+Premium Tax Implementation Adjustment                   2.04%         2.04%         2.04%
+----------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                4.75%         4.16%         8.53%
+----------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                          $319.25       $239.49       $498.06
+----------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible (3)                                          0.59%         0.18%         2.21%
+========================================================================================
+Adjusted Awarded PMPM for plans Electing the
+$35k Reinsurance Deductible                          $321.13       $239.91       $509.05
+----------------------------------------------------------------------------------------
+
+<CAPTION>
+                 [ILLEGIBLE]                     [ILLEGIBLE]    [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------------
+<S>                                              <C>            <C>           <C>           <C>
+Originally Awarded PMPM                            $15.18       $5,549.77       $740.35       $531.41
+-----------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment               0.00%          -0.73%         0.00%         2.77%
+Cost Sharing Proposal Adjustment                     0.00%           0.00%         0.00%         0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                           0.00%           0.00%         0.00%         0.00%
+Hospital Inpatient DRI Trend Update Adjustment-
+(4.0% estimate changed to 3.8% actual)              -0.02%          -0.09%         0.00%        -0.06%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)             0.00%           0.04%         0.00%        -0.38%
+Premium Tax Implementation Adjustment                2.04%           2.04%         2.04%         2.04%
+-----------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)             2.02%           1.24%         2.04%         4.41%
+-----------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                        $15.49       $5,618.63       $755.46       $554.83
+-----------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible (3)                                       0.00%          -0.22%         0.00%         0.00%
+=====================================================================================================
+Adjusted Awarded PMPM for plans Electing the
+$35k Reinsurance Deductible                        $15.49       $5,606.32       $755.46       $554.83
+-----------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                 [ILLEGIBLE]                     [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------
+<S>                                              <C>             <C>             <C>             <C>
+Originally Awarded PMPM                            $387.36        $1,521.38        $738.34        $9,108.27
+-----------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                2.77%            2.65%          2.65%            1.39%
+Cost Sharing Proposal Adjustment                     -4.41%            0.00%         -5.09%            0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                            0.00%            0.00%          0.00%            0.00%
+Hospital Inpatient DRI Trend Update Adjustment-
+(4.0% estimate changed to 3.8% actual)               -0.06%           -0.06%         -0.06%           -0.23%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)             -0.38%           -0.49%         -0.49%           -0.49%
+Premium Tax Implementation Adjustment                 2.04%            2.04%          2.04%            2.04%
+-----------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)             -0.20%            4.17%         -1.13%            2.72%
+-----------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                        $386.59        $1,584.83        $730.00        $9,355.58
+-----------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible (3)                                        0.00%            0.00%          0.00%            0.00%
+===========================================================================================================
+Adjusted Awarded PMPM for plans Electing the
+$35k Reinsurance Deductible                        $386.59        $1,584.83        $730.00        $9,355.58
+-----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                        PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+                 [ILLEGIBLE]                          [ILLEGIBLE]     [ILLEGIBLE]    [ILLEGIBLE]    [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------
+<S>                                                   <C>             <C>            <C>            <C>
+Originally Awarded PMPM                                 $714.74         $37.84         $143.67        $116.05
+--------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                     1.46%          2.79%           3.22%          3.71%
+Cost Sharing Proposal Adjustment                           0.00%          0.00%           0.00%          0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                                 0.00%          0.00%           0.00%          0.00%
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)                    -0.10%         -0.02%          -0.05%         -0.03%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)                  -0.17%         -0.06%          -0.16%         -0.30%
+Premium Tax Implementation Adjustment                      2.04%          2.04%           2.04%          2.04%
+--------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                   3.25%          4.80%           5.11%          5.47%
+--------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                             $737.97         $39.66         $151.00        $122.40
+--------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance Deductible         0.00%          0.00%           0.00%          0.00%
+==============================================================================================================
+Adjusted Awarded PMPM for Plans Electing the
+$35k Reinsurance Deductible                             $737.97         $39.66         $151.00        $122.40
+--------------------------------------------------------------------------------------------------------------
+
+
+                 [ILLEGIBLE]                          [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+-------------------------------------------------------------------------------------------
+<S>                                                   <C>          <C>          <C>
+Originally Awarded PMPM                                $269.14        $37.03       $82.34
+------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                    3.14%         2.00%        2.94%
+Cost Sharing Proposal Adjustment                          0.00%         0.00%        0.00%
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                                0.00%         0.00%        0.00%
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)                   -0.05%        -0.02%       -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)                 -0.41%        -0.09%       -0.38%
+Premium Tax Implementation Adjustment                     2.04%         2.04%        2.04%
+------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                  4.77%         3.97%        4.60%
+------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                            $281.97        $38.50       $86.12
+------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance Deductible        0.00%         0.00%        0.00%
+==========================================================================================
+Adjusted Awarded PMPM for Plans Electing the
+$35k Reinsurance Deductible                            $281.97        $38.50       $86.12
+------------------------------------------------------------------------------------------
+
+<CAPTION>
+                  [ILLEGIBLE]                        [ILLEGIBLE]      [ILLEGIBLE]   [ILLEGIBLE]    [ILLEGIBLE]
+--------------------------------------------------------------------------------------------------------------
+<S>                                                  <C>              <C>           <C>            <C>
+Originally Awarded PMPM                                  N/A             N/A            N/A            N/A
+----------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                   N/A             N/A            N/A            N/A
+Cost Sharing Proposal Adjustment                         N/A             N/A            N/A            N/A
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                               N/A             N/A            N/A            N/A
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)                   N/A             N/A            N/A            N/A
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)                 N/A             N/A            N/A            N/A
+Premium Tax Implementation Adjustment                    N/A             N/A            N/A            N/A
+----------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                 N/A             N/A            N/A            N/A
+----------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                              N/A             N/A            N/A            N/A
+----------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance Deductible       N/A             N/A            N/A            N/A
+==========================================================================================================
+Adjusted Awarded PMPM For Plans Electing the
+$35k Reinsurance Deductible                              N/A             N/A            N/A            N/A
+----------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                  [ILLEGIBLE]                            [ILLEGIBLE]    [ILLEGIBLE]     [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------
+<S>                                                      <C>            <C>             <C>
+Originally Awarded PMPM                                     N/A             N/A             N/A
+-----------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                      N/A             N/A             N/A
+Cost Sharing Proposal Adjustment                            N/A             N/A             N/A
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                                  N/A             N/A             N/A
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)                      N/A             N/A             N/A
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)                    N/A             N/A             N/A
+Premium Tax Implementation Adjustment                       N/A             N/A             N/A
+-----------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)                    N/A             N/A             N/A
+-----------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                                 N/A             N/A             N/A
+-----------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance Deductible          N/A             N/A             N/A
+===============================================================================================
+Adjusted Awarded PMPM For Plans Electing the
+$35k Reinsurance Deductible                                 N/A             N/A             N/A
+-----------------------------------------------------------------------------------------------
+</TABLE>
+
+1. The KidsCare age cohort includes Individuals 14 to 18 years of age, while the
+   TANF rate cell includes 14 - 44.
+
+2. The adjustment is multiplicative, not additive.
+
+3. The Maternity Delivery Payment does not have a reinsurance component built
+   directly into the rate. However, it is indirectly affected by choosing a
+   different deductible level because the TANF 14-44 female rate is applied as
+   an 8-month offset to the Maternity Delivery Payment, and the female rate is
+   directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     3 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 8 -
+                              (EFFECTIVE 10/01/03)
+
+                  PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+                  [ILLEGIBLE]                       [ILLEGIBLE]     [ILLEGIBLE]     [ILLEGIBLE]    [ILLEGIBLE]
+--------------------------------------------------------------------------------------------------------------
+<S>                                                 <C>             <C>             <C>            <C>
+Originally Awarded PMPM                                $361.00        $  87.78         $151.60        $107.87
+-------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                 $  5.27        $   2.45         $  4.88        $  4.00
+Cost Sharing Proposal Adjustment                       $  0.00        $   0.00         $  0.00        $  0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                            ($  6.38)       $   0.08        ($  0.21)       $  1.91
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)                ($  0.37)      ($   0.02)       ($  0.07)      ($  0.04)
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)              ($  0.61)      ($   0.05)       ($  0.26)      ($  0.34)
+Premium Tax Implementation Adjustment                  $  7.32        $   1.84         $  3.18        $  2.31
+-------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM                   $  5.24        $   4.29         $  7.53        $  7.84
+-------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                            $366.24        $  92.07         $159.13        $115.71
+=============================================================================================================
+Impact of Electing the $35k Reinsurance
+Deductible (2)                                         $ 14.11        $   0.34         $  1.54        $  1.10
+-------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM For Plans Electing the
+$35k Reinsurance Deductible                            $380.35        $  92.41         $160.67        $116.81
+-------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                  [ILLEGIBLE]                       [ILLEGIBLE]     [ILLEGIBLE]    [ILLEGIBLE]
+----------------------------------------------------------------------------------------------
+<S>                                                 <C>             <C>            <C>
+Originally Awarded PMPM                               $304.79         $ 229.93        $458.90
+---------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                $  9.58         $   4.61        $ 13.47
+Cost Sharing Proposal Adjustment                      $  0.00         $   0.00        $  0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                           ($  0.06)        $   0.42        $ 17.78
+Hospital Inpatient DRI Trend Update Adjustment -
+(4.0% estimate changed to 3.8% actual)               ($  0.15)       ($   0.04)      ($  0.10)
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)             ($  1.30)       ($   0.21)      ($  1.80)
+Premium Tax Implementation Adjustment                 $  6.39         $   4.79        $  9.96
+---------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM                  $ 14.46         $   9.56        $ 39.16
+---------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                           $319.25         $ 239.49        $498.06
+=============================================================================================
+Impact of Electing the $35k Reinsurance
+Deductible (2)                                        $  1.87         $   0.42        $ 10.99
+---------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM For Plans Electing the
+$35k Reinsurance Deductible                           $321.13         $ 239.91        $509.05
+---------------------------------------------------------------------------------------------
+
+<CAPTION>
+          [ILLEGIBLE]             [ILLEGIBLE]     [ILLEGIBLE]      [ILLEGIBLE]   [ILLEGIBLE]
+--------------------------------------------------------------------------------------------
+<S>                               <C>             <C>              <C>           <C>
+Originally Awarded PMPM              $15.18         $5,549,77        $740.35        $531.41
+-------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                           $ 0.00        ($   40.24)       $  0.00        $ 14.71
+Cost Sharing Proposal
+Adjustment                           $ 0.00         $    0.00        $  0.00        $  0.00
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment                      $ 0.00         $    0.00        $  0.00        $  0.00
+Hospital Inpatient DRI Trend
+Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                        ($ 0.00)       ($    5.23)       $  0.00       ($  0.31)
+Fee-for-Service Schedule Change
+(Referral Physician and
+Lab & X-Ray COS)                     $ 0.00         $    1.96        $  0.00       ($  2.07)
+Premium Tax Implementation
+Adjustment                           $ 0.31         $  112.37        $ 15.11        $ 11.10
+-------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                            $ 0.31         $   68.86        $ 15.11        $ 23.42
+-------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                           $15.49         $5,618.83        $755.46        $554.83
+-------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible (2)           $ 0.00        ($   12.31)       $  0.00        $  0.00
+===========================================================================================
+Adjusted Awarded PMPM For Plans
+Electing the $35k Reinsurance
+Deductible                           $15.49         $5,606.32        $755.46        $554.83
+-------------------------------------------------------------------------------------------
+
+<CAPTION>
+                  [ILLEGIBLE]         [ILLEGIBLE]     [ILLEGIBLE]      [ILLEGIBLE]    [ILLEGIBLE]
+-------------------------------------------------------------------------------------------------
+<S>                                   <C>             <C>              <C>            <C>
+Originally Awarded PMPM                 $387.36         $1,521.38        $738.34       $9,108.27
+-------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                              $ 10.72         $   40.31        $ 19.56       $  126.36
+Cost Sharing Proposal
+Adjustment                             ($ 17.56)        $    0.00       ($ 38.56)      $    0.00
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment                         $  0.00         $    0.00        $  0.00       $    0.00
+Hospital Inpatient DRI Trend
+Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                           ($  0.21)       ($    0.91)      ($  0.42)     ($   21.01)
+Fee-for-Service Schedule Change
+(Referral Physician and
+Lab & X-Ray COS)                       ($  1.45)       ($    7.65)      ($  3.52)     ($   45.15)
+Premium Tax Implementation
+Adjustment                              $  7.73         $   31.70        $ 14.60       $  187.11
+------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                              ($  0.77)        $   63.45       ($  8.34)      $  247.32
+------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                              $386.59         $1,584.83        $730.00       $9,355.58
+------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible (2)              $  0.00         $    0.00        $  0.00       $    0.00
+================================================================================================
+Adjusted Awarded PMPM For Plans
+Electing the $35k Reinsurance
+Deductible                              $386.59         $1,584.83        $730.00       $9,355.58
+------------------------------------------------------------------------------------------------
+</TABLE>
+
+                  PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+                 [ILLEGIBLE]                      [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------
+<S>                                               <C>           <C>           <C>           <C>
+Originally Awarded PMPM                             $714.74       $37.84        $143.67       $116.05
+-----------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment              $ 10.44       $ 1.05        $  4.93       $  4.30
+Cost Sharing Proposal Adjustment                    $  0.00       $ 0.00        $  0.00       $  0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                          $  0.00       $ 0.00        $  0.00       $  0.00
+Hospital Inpatient DRI Trend Update Adjustment
+-(4.0% estimate changed to 3.8% actual)            ($  0.75)     ($ 0.01)      ($  0.07)     ($  0.04)
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)           ($  1.23)     ($ 0.02)      ($  0.24)     ($  0.36)
+Premium Tax Implementation Adjustment               $ 14.76       $ 0.79        $  3.02       $  2.45
+-----------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM                $ 23.23       $ 1.82        $  7.33       $  6.35
+-----------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                         $737.97       $38.66        $151.00       $122.40
+-----------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                          $  0.00       $ 0.00        $  0.00       $  0.00
+=====================================================================================================
+Adjusted Awarded PMPM for Plans Electing the
+$35k Reinsurance Deductible                         $737.97       $39.66        $151.00       $122.40
+-----------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                 [ILLEGIBLE]                       [ILLEGIBLE]    [ILLEGIBLE]     [ILLEGIBLE]
+--------------------------------------------------------------------------------------------
+<S>                                                <C>            <C>             <C>
+Originally Awarded PMPM                               $269.14        $37.03          $82.34
+-------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment                $  8.46        $ 0.74          $ 2.42
+Cost Sharing Proposal Adjustment                      $  0.00        $ 0.00          $ 0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                            $  0.00        $ 0.00          $ 0.00
+Hospital Inpatient DRI Trend Update Adjustment
+-(4.0% estimate changed to 3.8% actual)              ($  0.13)      ($ 0.01)        ($ 0.03)
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)             ($  1.15)      ($ 0.03)        ($ 0.32)
+Premium Tax Implementation Adjustment                 $  5.64        $ 0.77          $ 1.72
+-------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM                  $ 12.83        $ 1.47          $ 3.78
+-------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                           $281.97        $38.50          $86.12
+-------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                            $  0.00        $ 0.00          $ 0.00
+===========================================================================================
+Adjusted Awarded PMPM for Plans Electing the
+$35k Reinsurance Deductible                           $281.97        $38.50          $88.12
+-------------------------------------------------------------------------------------------
+
+<CAPTION>
+                 [ILLEGIBLE]                    [ILLEGIBLE]  [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------------------------------
+<S>                                             <C>          <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM                             N/A          N/A         N/A         N/A          N/A         N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment              N/A          N/A         N/A         N/A          N/A         N/A          N/A
+Cost Sharing Proposal Adjustment                    N/A          N/A         N/A         N/A          N/A         N/A          N/A
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                          N/A          N/A         N/A         N/A          N/A         N/A          N/A
+Hospital Inpatient DRI Trend Update Adjustment
+-(4.0% estimate changed to 3.8% actual)             N/A          N/A         N/A         N/A          N/A         N/A          N/A
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)            N/A          N/A         N/A         N/A          N/A         N/A          N/A
+Premium Tax Implementation Adjustment               N/A          N/A         N/A         N/A          N/A         N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM                N/A          N/A         N/A         N/A          N/A         N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing the
+$20k Reinsurance Deductible                         N/A          N/A         N/A         N/A          N/A         N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                          N/A          N/A         N/A         N/A          N/A         N/A          N/A
+==================================================================================================================================
+Adjusted Awarded PMPM for Plans Electing the
+$35k Reinsurance Deductible                         N/A          N/A         N/A         N/A          N/A         N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1. The KidsCare age cohort covers Individuals 14-18 years of age while the TANF
+   rate cell includes 14 - 44.
+
+2. The Maternity Delivery Payment does not have a reinsurance component built
+   directly into the rate. However, it is indirectly affected by choosing a
+   different deductible level because the TANF 14-44 female rate is applied as
+   an 8-month offset to the Maternity Delivery Payment, and the female rate is
+   directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     4 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                            FINAL AWARDED RATE-CYE04
+                       -HEALTH CHOICE: GSA 10 PIMA ONLY-
+                              (EFFECTIVE 10/01/03)
+
+                PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+[ILLEGIBLE]                              [ILLEGIBLE]  [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                      <C>          <C>           <C>           <C>          <C>          <C>          <C>
+Originally Awarded PMPM                   $ 352.67     $  84.37      $ 151.12      $ 102.82     $ 329.46     $ 243.09     $ 497.41
+-----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment        1.46%        2.79%         3.22%         3.71%        3.14%        2.00%        2.94%
+Cost Sharing Proposal Adjustment              0.00%        0.00%         0.00%         0.00%        0.00%        0.00%        0.00%
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment               -1.74%        0.09%        -0.13%         1.70%       -0.02%        0.18%        3.76%
+Hospital Impatient DRI Trend Update
+Adjustment - (4.0% estimate changed
+to 3.8% actual)                              -0.10%       -0.02%        -0.05%        -0.03%       -0.05%       -0.02%       -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)     -0.17%       -0.06%        -0.16%        -0.30%       -0.41%       -0.09%       -0.38%
+Premium Tax Implementation Adjustment         2.04%        2.04%         2.04%         2.04%        2.04%        2.04%        2.04%
+-----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM(2)       1.45%        4.89%         4.97%         7.27%        4.75%        4.16%        8.53%
+-----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance Deductible  $ 357.79     $  88.50      $ 158.62      $ 110.30     $ 345.10     $ 253.20     $ 539.85
+-----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible(3)                     4.18%        0.41%         1.02%         1.05%        0.57%        0.17%        2.15%
+===================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                                $ 372.73     $  88.86      $ 160.25      $ 111.45     $ 347.05     $ 253.64     $ 551.47
+-----------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+[ILLEGIBLE]                                [ILLEGIBLE]    [ILLEGIBLE]     [ILLEGIBLE]   [ILLEGIBLE]    [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------
+<S>                                        <C>            <C>             <C>           <C>            <C>
+Originally Awarded PMPM                     $  11.55      $ 5,402.48       $ 740.35      $ 575.97       $ 346.29
+------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment          0.00%          -0.73%          0.00%         2.77%          2.77%
+Cost Sharing Proposal Adjustment                0.00%           0.00%          0.00%         0.00%         -4.41%
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment                  0.00%           0.00%          0.00%         0.00%          0.00%
+Hospital Impatient DRI Trend Update
+Adjustment - (4.0% estimate changed
+to 3.8% actual)                                -0.02%          -0.09%          0.00%        -0.06%         -0.06%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab &
+X-Ray COS)                                      0.00%           0.04%          0.00%        -0.38%         -0.38%
+Premium Tax Implementation Adjustment           2.04%           2.04%          2.04%         2.04%          2.04%
+------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM(2)         2.02%           1.24%          2.04%         4.41%         -0.20%
+------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible             $  11.78      $ 5,469.52       $ 755.46      $ 601.35       $ 345.60
+------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible(3)                       0.00%          -0.24%          0.00%         0.00%          0.00%
+==================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                                  $  11.78      $ 5,456.54       $ 755.46      $ 601.35       $ 345.60
+------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+[ILLEGIBLE]                                 [ILLEGIBLE]    [ILLEGIBLE]     [ILLEGIBLE]
+--------------------------------------------------------------------------------------
+<S>                                         <C>            <C>             <C>
+Originally Awarded PMPM                     $ 1,559.55      $ 734.64       $ 9,488.88
+--------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment            2.65%         2.65%            1.39%
+Cost Sharing Proposal Adjustment                  0.00%        -5.09%            0.00%
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment                    0.00%         0.00%            0.00%
+Hospital Impatient DRI Trend Update
+Adjustment - (4.0% estimate changed
+to 3.8% actual)                                  -0.06%        -0.08%           -0.23%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab &
+X-Ray COS)                                       -0.49%        -0.49%           -0 49%
+Premium Tax Implementation Adjustment             2.04%         2.04%            2.04%
+--------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM(2)           4.17%        -1.13%            2.72%
+--------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible             $ 1,624.59      $ 726.34       $ 9,723.91
+--------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible(3)                         0.00%         0.00%            0.00%
+======================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                                  $ 1,624.59      $ 726.34       $ 9,723.91
+--------------------------------------------------------------------------------------
+</TABLE>
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+      [ILLEGIBLE]                        [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                                      <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                      N/A          N/A          N/A          N/A          N/A          N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment       N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal Adjustment             N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment               N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI Trend Update
+Adjustment -(4.0% estimate changed
+to 3.8% actual)                              N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation Adjustment        N/A          N/A          N/A          N/A          N/A          N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base
+PMPM(2)                                      N/A          N/A          N/A          N/A          N/A          N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible                       N/A          N/A          N/A          N/A          N/A          N/A          N/A
+==================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+----------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+      [ILLEGIBLE]                        [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                                      <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                  $ 1,163.05    $ 37.84      $ 149.42     $ 120.69     $ 279.90     $  28.95     $  77.68
+----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment         1.46%      2.79%         3.22%        3.71%        3.14%        2.00%        2.94%
+Cost Sharing Proposal Adjustment               0.00%      0.00%         0.00%        0.00%        0.00%        0.00%        0.00%
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment                 0.00%      0.00%         0.00%        0,00%        0.00%        0.00%        0.00%
+Hospital Inpatient DRI Trend Update
+Adjustment -(4.0% estimate changed
+to 3.8% actual)                               -0.10%     -0.02%        -0.05%       -0.03%       -0.05%       -0.02%       -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray COS)      -0.17%     -0.06%        -0.16%       -0.30%       -0.41%       -0.09%       -0.38%
+Premium Tax Implementation Adjustment          2.04%      2.04%         2.04%        2.04%        2.04%        2.04%        2.04%
+----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM(2)        3.25%      4.80%         5.11%       5. 47%        4.77%        3.97%        4.80%
+----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                               $ 1,200.85    $ 39.66      $ 157.05     $ 127.30     $ 293.24     $  30.10     $  81.25
+----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible                         0.00%      0.00%         0.00%        0.00%        0.00%        0.00%        0 00%
+==================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                               $ 1,200.85    $ 39.66      $ 157.05     $ 127.30     $ 293.24     $  30.10     $  81.25
+----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1.   The KidsCare age cohort includes individuals 14 to 18 years of age, while
+     the TANF rate cell includes 14 - 44.
+
+2.   The adjustment is multiplicative, not additive.
+
+3.   The Maternity Delivery Payment does not have a reinsurance component built
+     directly into the rate. However, it is indirectly affected by choosing a
+     different deductible level because the TANF 14-44 female rate is applied as
+     an 8-month offset to the Maternity Delivery Payment, and the female rate is
+     directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                         [ILLEGIBLE]
+
+                                     5 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                      - HEALTH CHOICE: GSA 10 PIMA ONLY -
+                              (EFFECTIVE 10/01/03)
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+              [ILLEGIBLE]                    [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+--------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                        $ 352.67     $  84.37     $ 151.12     $ 102.82     $ 329.46     $ 243.09
+--------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment         $   5.15     $   2.35     $   4.87     $   3.81     $  10.36     $   4.87
+Cost Sharing Proposal Adjustment               $   0.00     $   0.00     $   0.00     $   0.00     $   0.00     $   0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                    ($   6.23)    $   0.08    ($   0.21)    $   1.82    ($   0.06)    $   0.44
+Hospital Inpatient DRI Trend Update
+Adjustment -(4.0% estimate changed to
+3.8% actual)                                  ($   0.36)   ($   0.02)   ($   0.07)   ($   0.04)   ($   0.16)   ($   0.04)
+Fee-for-Service Schedule Change (Referral
+Physician and Lab & X-Ray COS)                ($   0.60)   ($   0.05)   ($   0.26)   ($   0.32)   ($   1.40)   ($   0.23)
+Premium Tax implementation Adjustment          $   7.16     $   1.77     $   3.17     $   2.21     $   6.90     $   5.06
+--------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM           $   5.12     $   4.13     $   7.50     $   7.48     $  15.84     $  10.11
+--------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                $ 357.79     $  88.50     $ 158.62     $ 110.30     $ 345.10     $ 253.20
+--------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible(2)                                  $  14.94     $   0.36     $   1.62     $   1.16     $   1.96     $   0.44
+==========================================================================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                $ 372.73     $  88.86     $ 160.25     $ 111.45     $ 347.05     $ 253.64
+--------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+              [ILLEGIBLE]                    [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]     [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+-----------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>          <C>          <C>             <C>          <C>          <C>
+Originally Awarded PMPM                        $ 497.41     $  11.55     $ 5,402.48      $ 740.35     $ 575.97     $ 346.29
+-----------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment         $  14.60     $   0.00    ($    39.18)     $   0.00     $  15.94     $   9.58
+Cost Sharing Proposal Adjustment               $   0.00     $   0.00     $     0.00      $   0.00     $   0.00    ($  15.70)
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                     $  19.27     $   0.00     $     0.00      $   0.00     $   0.00     $   0.00
+Hospital Inpatient DRI Trend Update
+Adjustment -(4.0% estimate changed to
+3.8% actual)                                  ($   0.21)   ($   0.00)   ($     5.09)     $   0.00    ($   0.33)   ($   0.19)
+Fee-for-Service Schedule Change (Referral
+Physician and Lab & X-Ray COS)                ($   2.02)    $   0.00     $     1.91      $   0.00    ($   2.25)   ($   1.20)
+Premium Tax implementation Adjustment          $  10.80     $   0.24     $   109.39      $  15.11     $  12.03     $   6.91
+-----------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM           $  42.44     $   0.23     $    67.04      $  15.11     $  25.39    ($   0.89)
+-----------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                $ 539.85     $  11.78     $ 5,469.52      $ 755.46     $ 601.35     $ 345.60
+-----------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible(2)                                  $  11.61     $   0.00    ($    12.98)     $   0.00     $   0.00     $   0.00
+=============================================================================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                $ 551.47     $  11.78     $ 5,456.54      $ 755.46     $ 601.35     $ 345.60
+-----------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+              [ILLEGIBLE]                      [ILLEGIBLE]   [ILLEGIBLE]   [ILLEGIBLE]
+--------------------------------------------------------------------------------------
+<S>                                           <C>            <C>           <C>
+Originally Awarded PMPM                        $ 1,559.55     $ 734.64     $ 9,466.86
+--------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment         $    41.32     $  19.46     $   131.33
+Cost Sharing Proposal Adjustment               $     0.00    ($  38.36)    $     0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                     $     0.00     $   0.00     $     0.00
+Hospital Inpatient DRI Trend Update
+Adjustment -(4.0% estimate changed to
+3.8% actual)                                  ($     0.93)   ($   0.42)   ($    21.83)
+Fee-for-Service Schedule Change (Referral
+Physician and Lab & X-Ray COS)                ($     7.84)   ($   3.51)   ($    46.92)
+Premium Tax implementation Adjustment          $    32.49     $  14.53     $   194.48
+--------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM           $    65.04    ($   8.29)    $   257.06
+--------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                $ 1,624.59     $ 726.34     $ 9,723.91
+--------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible(2)                                  $     0.00     $   0.00     $     0.00
+======================================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                $ 1,624.59     $ 726.34     $ 9,723.91
+--------------------------------------------------------------------------------------
+</TABLE>
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+              [ILLEGIBLE]                     [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+--------------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                           N/A          N/A          N/A          N/A          N/A          N/A
+--------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment            N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal Adjustment                  N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                        N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI Trend Update
+Adjustment - (4.0% estimate changed to
+3.8% actual)                                      N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule Change (Referral
+Physician and Lab & X-Ray COS)                    N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation Adjustment             N/A          N/A          N/A          N/A          N/A          N/A
+--------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM              N/A          N/A          N/A          N/A          N/A          N/A
+--------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                   N/A          N/A          N/A          N/A          N/A          N/A
+--------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                        N/A          N/A          N/A          N/A          N/A          N/A
+==========================================================================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                   N/A          N/A          N/A          N/A          N/A          N/A
+--------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+              [ILLEGIBLE]                     [ILLEGIBLE]     [ILLEGIBLE]    [ILLEGIBLE]   [ILLEGIBLE]    [ILLEGIBLE]  [ILLEGIBLE]
+----------------------------------------------------------------------------------------------------------------------------------
+<S>                                           <C>             <C>            <C>           <C>            <C>          <C>
+Originally Awarded PMPM                           N/A          $ 1,163.05      $ 37.84       $ 149.42      $ 120.69      $ 279.90
+----------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment            N/A          $    16.99      $  1.05       $   4.81      $   4.48      $   8.80
+Cost Sharing Proposal Adjustment                  N/A          $     0.00      $  0.00       $   0.00      $   0.00      $   0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                        N/A          $     0.00      $  0.00       $   0.00      $   0.00      $   0.00
+Hospital Inpatient DRI Trend Update
+Adjustment - (4.0% estimate changed to
+3.8% actual)                                      N/A         ($     1.21)    ($  0.01)     ($   0.07)    ($   0.04)    ($   0.13)
+Fee-for-Service Schedule Change Referral
+Physician and Lab & X-Ray COS)                    N/A         ($     2.00)    ($  0.02)     ($   0.25)    ($   0.37)    ($   1.19)
+Premium Tax Implementation Adjustment             N/A          $    24.02      $  0.79       $   3.14      $   2.55      $   5.86
+----------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM              N/A          $    37.80      $  1.82       $   7.63      $   6.61      $  13.34
+----------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                   N/A          $ 1,200.85      $ 39.66       $ 157.05      $ 127.30      $ 293.24
+----------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                        N/A          $     0.00      $  0.00       $   0.00      $   0.00      $   0.00
+==================================================================================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                   N/A          $ 1,200.85      $ 39.66       $ 157.05      $ 127.30      $ 293.24
+----------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                [ILLEGIBLE]                      [ILLEGIBLE]   [ILLEGIBLE]
+--------------------------------------------------------------------------
+<S>                                              <C>           <C>
+Originally Awarded PMPM                            $ 28.95       $ 77.68
+--------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment             $  0.58       $  2.28
+Cost Sharing Proposal Adjustment                   $  0.00       $  0.00
+Reinsurance Incorporating Catastrophic and
+Transplant Data Adjustment                         $  0.00       $  0.00
+Hospital Inpatient DRI Trend Update
+Adjustment - (4.0% estimate changed to
+3.8% actual)                                      ($  0.01)     ($  0.03)
+Fee-for-Service Schedule Change Referral
+Physician and Lab & X-Ray COS)                    ($  0.03)     ($  0.30)
+Premium Tax Implementation Adjustment              $  0.60       $  1.63
+--------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM               $  1.15       $  3.57
+--------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans Electing
+the $20k Reinsurance Deductible                    $ 30.10       $ 81.25
+--------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                         $  0.00       $  0.00
+==========================================================================
+Adjusted Awarded PMPM for Plans Electing
+the $35k Reinsurance Deductible                    $ 30.10       $ 81.25
+--------------------------------------------------------------------------
+</TABLE>
+
+1. The KidsCare age cohort covers Individuals 14 - 18 years of age while the
+   TANF rate cell includes 14 - 44.
+
+2. The Maternity Delivery Payment does not have a reinsurance component built
+   directly into the rate. However, it is indirectly affected by choosing a
+   different deductible level because the TANF 14-44 female rate is applied as
+   an 8-month offset to the Maternity Delivery Payment, and the female rate is
+   directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     6 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 12-
+                              (EFFECTIVE 10/01/03)
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+           [ILLEGIBLE]               [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------------
+<S>                                  <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM                $353.70     $88.86      $152.00     $110.35     $310.47     $223.79     $449.81
+------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                                1.46%      2.79%        3.22%       3.71%       3.14%       2.00%       2.94%
+Cost Sharing Proposal Adjustment          0.00%      0.00%        0.00%       0.00%       0.00%       0.00%       0.00%
+Reinsurance Incorporating
+Catastrophic and Transplant Data
+Adjustment                               -1.74%      0.09%       -0.13%       1.70%      -0.02%       0.18%       3.76%
+Hospital Impatient DRI Trend
+Update Adjustment - (4.0% estimate
+changed to 3.8% actual)                  -0.10%     -0.02%       -0.05%      -0.03%      -0.05%      -0.02%      -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab
+& X-Ray COS)                             -0.17%     -0.06%       -0.16%      -0.30%      -0.41%      -0.09%      -0.38%
+Premium Tax Implementation
+Adjustment                                2.04%      2.04%        2.04%       2.04%       2.04%       2.04%       2.04%
+------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base
+PMPM(2)                                   1.45%      4.89%        4.97%       7.27%       4.75%       4.16%       8.53%
+------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                             $358.83     $93.21      $159.55     $118.37     $325.20     $233.10     $488.19
+------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible(3)                 3.87%      0.36%        0.95%       0.91%       0.56%       0.18%       2.21%
+========================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                             $372.71     $93.54%     $161.08     $119.45     $327.04     $233.51     $496.98
+------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+           [ILLEGIBLE]               [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                  <C>         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM                $16.00     $5,610.56    $740.35     $516.02     $405.62    $1,509.89    $742.57    $9,000.32
+------------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                               0.00%        -0.73%      0.00%       2.77%       2.77%        2.65%      2.65%        1.39%
+Cost Sharing Proposal Adjustment         0.00%         0.00%      0.00%       0.00%      -4.41%        0.00%     -5.09%        0.00%
+Reinsurance Incorporating
+Catastrophic and Transplant Data
+Adjustment                               0.00%         0.00%      0.00%       0.00%       0.00%        0.00%      0.00%        0.00%
+Hospital Inpatient DRI Trend
+Update Adjustment - (4.0% estimate
+changed to 3.8% actual)                 -0.02%        -0.09%      0.00%      -0.06%      -0.06%       -0.06%     -0.06%       -0.23%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab &
+X-Ray COS)                               0.00%         0.04%      0.00%      -0.38%      -0.38%       -0.49%     -0.49%       -0.49%
+Premium Tax Implementation
+Adjustment                               2.04%         2.04%      2.04%       2.04%       2.04%        2.04%      2.04%        2.04%
+------------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base
+PMPM(2)                                  2.02%         1.24%      2.04%       4.41%      -0.20%        4.17%     -1.13%        2.72%
+------------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                             $16.32     $5,680.18    $755.48     $538.76     $404.81    $1,572.86    $734.18    $9,244.71
+------------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k
+Reinsurance Deductible(3)                0.00%        -0.21%      0.00%       0.00%       0.00%        0.00%      0.00%        0.00%
+====================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance
+Deductible                             $16.32     $5,668.10    $755.46     $538.76     $404.81    $1,572.86    $734.18    $9,244.71
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                 PERCENT CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+              [ILLEGIBLE]                  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                        <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                        N/A          N/A          N/A          N/A          N/A          N/A          N/A
+------------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment         N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal Adjustment               N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment                 N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI Trend Update
+Adjustment - (4.0% estimate changed to
+3.8% actual)                                   N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray
+COS)                                           N/A          N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation Adjustment          N/A          N/A          N/A          N/A          N/A          N/A          N/A
+------------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM(2)        N/A          N/A          N/A          N/A          N/A          N/A          N/A
+------------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                                     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+------------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                     N/A          N/A          N/A          N/A          N/A          N/A          N/A
+====================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance Deductible       N/A          N/A          N/A          N/A          N/A          N/A          N/A
+------------------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+              [ILLEGIBLE]                  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+------------------------------------------------------------------------------------------------------------------------------------
+<S>                                        <C>          <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM                     $1,158.74    $   37.84    $  149.42    $  120.69    $  279.90    $   29.05    $   77.68
+------------------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room Adjustment           1.46%        2.79%        3.22%        3.71%        3.14%        2.00%        2.94%
+Cost Sharing Proposal Adjustment                 0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%
+Reinsurance Incorporating Catastrophic
+and Transplant Data Adjustment                   0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%
+Hospital Inpatient DRI Trend Update
+Adjustment - (4.0% estimate changed to
+3.8% actual)                                    -0.10%       -0.02%       -0.05%       -0.03%       -0.05%       -0.02%       -0.04%
+Fee-for-Service Schedule Change
+(Referral Physician and Lab & X-Ray
+COS)                                            -0.17%       -0.06%       -0.16%       -0.30%       -0.41%       -0.09%       -0.38%
+Premium Tax Implementation Adjustment            2.04%        2.04%        2.04%        2.04%        2.04%        2.04%        2.04%
+------------------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting Base PMPM (2)         3.25%        4.80%        5.11%        5.47%        4.77%        3.97%        4.60%
+------------------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for Plans
+Electing the $20k Reinsurance
+Deductible                                  $1,196.40    $   39.66    $  157.05    $  127.30    $  293.24    $   30.21    $   81.25
+------------------------------------------------------------------------------------------------------------------------------------
+Impact of Electing the $35k Reinsurance
+Deductible                                       0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%
+====================================================================================================================================
+Adjusted Awarded PMPM for Plans
+Electing the $35k Reinsurance Deductible    $1,196.40    $   39.66    $  157.05    $  127.30    $  293.24    $   30.21    $   81.25
+------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1.   The KidsCare age cohort includes Individuals 14 to 18 years of age, while
+     the TANF rate cell includes 14 - 44.
+
+2.   The adjustment is multiplicative, not additive.
+
+3.   The Maternity Delivery Payment does not have a reinsurance component built
+     directly into the rate. However, it is indirectly affected by choosing a
+     different deductible level because the TANF 14-44 female rate is applied as
+     an 8-month offset to the Maternity Delivery Payment, and the female rate is
+     directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                     7 of 8
+<PAGE>
+
+AZ-AHCCCS                                           PROPRIETARY AND CONFIDENTIAL
+
+                           FINAL AWARDED RATE - CYE04
+                            - HEALTH CHOICE: GSA 12 -
+                              (EFFECTIVE 10/01/03)
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+        [ILLEGIBLE]         [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------------------
+<S>                         <C>         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM       $353.70     $ 88.86     $152.00     $110.35     $310.47     $223.79     $449.81     $ 16.00
+-------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                    $  5.17     $  2.48     $  4.90     $  4.09     $  9.76     $  4.49     $ 13.20     $  0.00
+Cost Sharing Proposal
+Adjustment                    $  0.00     $  0.00     $  0.00     $  0.00     $  0.00     $  0.00     $  0.00     $  0.00
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment              ($  6.25)    $  0.08    ($  0.21)    $  1.95    ($  0.06)    $  0.41     $ 17.43     $  0.00
+Hospital Inpatient DRI
+Trend Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                 ($  0.36)   ($  0.02)   ($  0.07)   ($  0.04)   ($  0.15)   ($  0.04)   ($  0.10)   ($  0.00)
+Fee-for-Service Schedule
+Change (Referral Physician
+and Lab & X-Ray COS)         ($  0.60)   ($  0.06)   ($  0.26)   ($  0.35)   ($  1.32)   ($  0.21)   ($  1.82)    $  0.00
+Premium Tax Implementation
+Adjustment                    $  7.18     $  1.86     $  3.19     $  2.37     $  6.50     $  4.66     $  9.76     $  0.33
+-------------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                     $  5.13     $  4.35     $  7.55     $  8.02     $ 14.73     $  9.31     $ 38.38     $  0.32
+-------------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+Plans Electing the $20k
+Reinsurance Deductible        $358.83     $ 93.21     $159.55     $118.37     $325.20     $233.10     $488.19     $ 16.32
+-------------------------------------------------------------------------------------------------------------------------
+Impact of Electing, the
+$35k Reinsurance
+Deductible (2)                $ 13.88     $  0.33     $  1.51     $  1.08     $  1.83     $  0.41     $ 10.79     $  0.00
+=========================================================================================================================
+Adjusted Awarded PMPM for
+Plans Electing the $35k
+Reinsurance Deductible        $372.71     $ 93.54     $161.06     $119.45     $327.04     $233.51     $496.98     $ 16.32
+-------------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+        [ILLEGIBLE]         [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------
+<S>                         <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM      $5,610.56    $740.35     $516.02     $ 405.62   $1,509.89    $742.57    $9,000.32
+--------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                  ($   40.68)   $  0.00     $ 14.28     $  11.23   $   40.00    $ 19.67    $  124.86
+Cost Sharing Proposal
+Adjustment                   $    0.00    $  0.00     $  0.00    ($  18.39)  $    0.00   ($ 38.76)   $    0.00
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment              $    0.00    $  0.00     $  0.00     $   0.00   $    0.00    $  0.00    $    0.00
+Hospital Inpatient DRI
+Trend Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                ($    5.28)   $  0.00    ($  0.30)   ($   0.22) ($    0.90)  ($  0.42)  ($   20.76)
+Fee-for-Service Schedule
+Change (Referral Physician
+and Lab & X-Ray COS)         $    1.98    $  0.00    ($  2.01)   ($   1.51) ($    7.59)  ($  3.54)  ($   44.61)
+Premium Tax Implementation
+Adjustment                   $  113.60    $ 15.11     $ 10.78     $   8.10   $   31.46    $ 14.68    $  184.89
+--------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                    $   69.82    $ 15.11     $ 22.74    ($   0.81)  $   62.97   ($  8.38)   $  244.39
+--------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+Plans Electing the $20k
+Reinsurance Deductible       $5,680.18    $755.46     $538.76     $ 404.81   $1,572.86    $734.18    $9,244.71
+--------------------------------------------------------------------------------------------------------------
+Impact of Electing, the
+$35k Reinsurance
+Deductible (2)              ($   12.07)   $  0.00     $  0.00     $   0.00   $    0.00    $  0.00   $     0.00
+==============================================================================================================
+Adjusted Awarded PMPM for
+Plans Electing the $35k
+Reinsurance Deductible       $5,668.10    $755.46     $538.76     $ 404.81   $1,572.86    $734.18   $ 9,244.71
+--------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                   PMPM CHANGE DUE TO PROGRAMMATIC ADJUSTMENTS
+
+<TABLE>
+<CAPTION>
+        [ILLEGIBLE]              [ILLEGIBLE]   [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]  [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------------------
+<S>                              <C>           <C>          <C>          <C>          <C>          <C>          <C>
+Originally Awarded PMPM              N/A           N/A          N/A          N/A          N/A          N/A          N/A
+---------------------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                           N/A           N/A          N/A          N/A          N/A          N/A          N/A
+Cost Sharing Proposal
+Adjustment                           N/A           N/A          N/A          N/A          N/A          N/A          N/A
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment                      N/A           N/A          N/A          N/A          N/A          N/A          N/A
+Hospital Inpatient DRI
+Trend Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                         N/A           N/A          N/A          N/A          N/A          N/A          N/A
+Fee-for-Service Schedule
+Change (Referral Physician
+and Lab & X-Ray COS)                 N/A           N/A          N/A          N/A          N/A          N/A          N/A
+Premium Tax Implementation
+Adjustment                           N/A           N/A          N/A          N/A          N/A          N/A          N/A
+-----------------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                            N/A           N/A          N/A          N/A          N/A          N/A          N/A
+-----------------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+Plans Electing the $20k
+Reinsurance Deductible               N/A           N/A          N/A          N/A          N/A          N/A          N/A
+-----------------------------------------------------------------------------------------------------------------------
+Impact of Electing the
+$35k Reinsurance
+Deductible                           N/A           N/A          N/A          N/A          N/A          N/A          N/A
+=======================================================================================================================
+Adjusted Awarded PMPM for
+Plans Electing the $35k
+Reinsurance Deductible               N/A           N/A          N/A          N/A          N/A          N/A          N/A
+-----------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+        [ILLEGIBLE]          [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE]
+---------------------------------------------------------------------------------------------------------------
+<S>                          <C>         <C>         <C>         <C>         <C>         <C>         <C>
+Originally Awarded PMPM       $1,158.74   $   37.84   $  149.42   $  120.69   $  279.90   $   29.06   $   77.68
+----------------------------------------------------------------------------------------------------------------
+Outpatient & Emergency Room
+Adjustment                    $   16.93   $    1.05   $    4.81   $    4.48   $    8.80   $    0.58   $    2.28
+Cost Sharing Proposal
+Adjustment                    $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00
+Reinsurance Incorporating
+Catastrophic and Transplant
+Data Adjustment               $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00
+Hospital Inpatient DRI
+Trend Update Adjustment -
+(4.0% estimate changed to
+3.8% actual)                 ($    1.21) ($    0.01) ($    0.07) ($    0.04) ($    0.13) ($    0.01) ($    0.03)
+Fee-for-Service Schedule
+Change (Referral Physician
+and Lab & X-Ray COS)         ($    1.99) ($    0.02) ($    0.25) ($    0.37) ($    1.19) ($    0.03) ($    0.30)
+Premium Tax Implementation
+Adjustment                    $   23.93   $    0.79   $    3.14   $    2.55   $    5.86   $    0.60   $    1.63
+---------------------------------------------------------------------------------------------------------------
+Total Adjustment Impacting
+Base PMPM                     $   37.86   $    1.82   $    7.63   $    6.61   $   13.34   $    1.15   $    3.57
+---------------------------------------------------------------------------------------------------------------
+Adjusted Awarded PMPM for
+Plans Electing the $20k
+Reinsurance Deductible        $1,196.40   $   39.66   $  157.05   $  127.30   $  293.24   $   30.21   $   81.25
+---------------------------------------------------------------------------------------------------------------
+Impact of Electing the
+$35k Reinsurance
+Deductible                    $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00   $    0.00
+===============================================================================================================
+Adjusted Awarded PMPM for
+Plans Electing the $35k
+Reinsurance Deductible        $1,196.40   $   39.66   $  157.05   $  127.30   $  293.24   $   30.21   $   81.25
+---------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+1. The KidsCare age cohort covers individuals 14 - 18 years of age while the
+   TANF rate cell includes 14 - 44.
+
+2. The Maternity Delivery Payment does not have a reinsurance component built
+   directly into the rate. However, it is indirectly affected by choosing a
+   different deductible level because the TANF 14-44 female rate is applied as
+   an 8-month offset to the Maternity Delivery Payment, and the female rate is
+   directly affected by a new reinsurance election.
+
+Mercer Government Human Services Consulting                          [ILLEGIBLE]
+
+                                   8 of 8
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1095 @@
+<DOCUMENT>
+<TYPE>EX-10.(N)
+<SEQUENCE>18
+<FILENAME>doc17.txt
+<TEXT>
+                                                                   EXHIBIT 10(n)
+
+
+
+                        QUOTA SHARE REINSURANCE AGREEMENT
+
+
+                                  by and among
+
+
+                         21st CENTURY INSURANCE COMPANY
+                          21st CENTURY CASUALTY COMPANY
+
+
+                                       and
+
+
+                            BALBOA INSURANCE COMPANY.
+
+
+                          Dated as of December 18, 2001
+
+
+<PAGE>
+                        QUOTA SHARE REINSURANCE AGREEMENT
+
+
+                                      INDEX
+
+
+CLAUSE                                                          ARTICLE  PAGE
+------                                                          -------  ----
+
+DEFINITIONS                                                           I     1
+
+BUSINESS REINSURED                                                   II     3
+
+REINSURING CLAUSE                                                   III     4
+
+COMMENCEMENT AND EXPIRATION                                          IV     4
+
+TERRITORY                                                             V     5
+
+EXCLUSIONS                                                           VI     5
+
+EXTRA CONTRACTUAL OBLIGATIONS                                       VII     6
+
+REINSURANCE PREMIUM                                                VIII     7
+
+REINSURANCE CEDING COMMISSION                                        IX     7
+
+SALVAGE AND SUBROGATION                                               X     9
+
+REPORTS, REMITTANCES AND CLAIMS                                      XI    10
+
+OFFSET                                                              XII    12
+
+ACCESS TO RECORDS                                                  XIII    12
+
+ERRORS AND OMISSIONS                                                XIV    12
+
+REINSURANCE SECURITY                                                 XV    12
+
+INSOLVENCY                                                          XVI    13
+
+ARBITRATION                                                        XVII    14
+
+NOTICES                                                            XVII    16
+
+GOVERNING LAW                                                       XIX    16
+
+SEVERABILITY                                                         XX    17
+
+CONFIDENTIALITY                                                     XXI    17
+
+ENTIRE AGREEMENT, INTERPRETATION                                   XXII    17
+
+MISCELLANEOUS                                                     XXIII    17
+
+
+                                      -i-
+<PAGE>
+
+                        QUOTA SHARE REINSURANCE AGREEMENT
+                        ---------------------------------
+
+
+     This  AGREEMENT  is  made  and  entered  into  by and between, 21ST CENTURY
+INSURANCE  COMPANY,  2LST CENTURY CASUALTY COMPANY, both of which are California
+domiciled  insurance  companies  (the "COMPANY") and, BALBOA INSURANCE COMPANY a
+California  insurance  company  (the  "REINSURER"),
+
+     WHEREAS,  subject  to  the  terms of this AGREEMENT, the Company desires to
+cede to the REINSURER, 100% of the INCURRED LOSSES on the BUSINESS REINSURED, as
+defined  below,  arising under certain insurance policies written and renewed by
+the  Company;  and
+
+     WHEREAS,  the  REINSURER  desires to accept from the Company as reinsurance
+100% of such INCURRED LOSSES on these certain policies in return for 100% of the
+REINSURANCE PREMIUM, net of the REINSURANCE CEDING COMMISSION, as defined below;
+
+     NOW  THEREFORE,  for and in consideration of the foregoing premises and the
+mutual  covenants  and agreements hereinafter set forth, (the "AGREEMENT") it is
+agreed  by  the  COMPANY  and  the  REINSURER  as  follows:
+
+
+ARTICLE  I.     DEFINITIONS
+-----------     -----------
+
+1.   As  used  in  this  AGREEMENT,  capitalized  terms shall have the following
+     meanings  (the  definitions  to  be applicable to both the singular and the
+     plural  forms  of  each  term  defined  in  this  AGREEMENT):
+
+2.   ACCIDENT  YEAR  LOSSES INCURRED shall have the meaning set forth in Article
+     IX
+
+3.   ALLOCATED LOSS ADJUSTMENT EXPENSE means all costs and expenses allocable to
+     a  specific  claim  that  are incurred by the COMPANY in the investigation,
+     appraisal,  adjustment,  settlement,  litigation,  defense  or  appeal of a
+     specific  claim, including court costs and costs of supersede as and appeal
+     bonds,  and  including legal expenses and costs incurred in connection with
+     coverage  questions  and  EXTRA  CONTRACTUAL  OBLIGATIONS and legal actions
+     connected  thereto  which  are  allocable  to a specific claim or action on
+     POLICIES  covered  hereunder.  ALLOCATED LOSS ADJUSTMENT EXPENSE shall also
+     include  a  pro  rata  share  of  salaries  and  expenses  of COMPANY field
+
+
+<PAGE>
+     employees,  and  expenses  of  other  COMPANY  employees  who  have  been
+     temporarily diverted from their normal and customary duties and assigned to
+     the  field  adjustment  of  losses covered by the COMPANY in the event of a
+     loss  designated  as a catastrophic loss. ALLOCATED LOSS ADJUSTMENT EXPENSE
+     does  not  include  unallocated  loss  adjustment expense. Unallocated loss
+     adjustment  expense  includes,  but  is  not  limited  to, office and other
+     overhead expenses and salaries and expenses of COMPANY employees, except as
+     in  this  paragraph.
+
+4.   COMPANY shall mean 21st Century Insurance Company and 21st Century Casualty
+     Company.
+
+5.   BUSINESS  REINSURED  shall  have  the  meaning  set  forth  in  Article II.
+
+6.   EFFECTIVE  DATE shall be 12:00 A.M. Pacific Standard Time, January 1, 2002.
+
+7.   EARNED  REINSURANCE PREMIUM shall have the meaning set forth in Article IX.
+
+8.   EXTRA  CONTRACTUAL  OBLIGATION  shall have the meaning set forth in Article
+     VII.
+
+9.   FIRST  MANIFESTED shall mean with respect to MOLD LOSSES, the date the MOLD
+     first  begins  to  appear,  grow, cause damage to property, or emit toxins,
+     allergens,  irritants  vapors  or  gas  as a result of a condition or event
+     occurring  prior  to  the  EFFECTIVE  DATE.
+
+10.  GROSS NET WRITTEN PREMIUM shall have the meaning set forth in Article VIII.
+
+11.  Incurred  Losses shall mean with respect to the BUSINESS REINSURED, subject
+     to  the  terms,  conditions,  exclusions  and limitations contained in this
+     AGREEMENT, all LOSSES and ALLOCATED LOSS ADJUSTMENT EXPENSES ("ALAE") first
+     occurring  on  or  after the EFFECTIVE DATE, less Salvage, and Subrogation,
+     provided,  however,  that any claims for LOSSES related to exposure to MOLD
+     shall  be deemed to have occurred prior to the EFFECTIVE DATE if the LOSSES
+     are  related  to  or resulting from a LOSS occurring prior to the EFFECTIVE
+     DATE or FIRST MANIFESTED prior to the EFFECTIVE DATE and, provided further,
+     that  all  LOSSES  related  to a claim of a continuing nature, or resulting
+     from  continuous  or repeated exposure to substantially the same conditions
+     will  be  considered  as  resulting  from  one  occurrence and if the first
+     manifestation  of  the LOSS is prior to the EFFECTIVE DATE, shall be deemed
+     to  have  occurred  prior  to  the  EFFECTIVE  DATE.
+
+
+<PAGE>
+12.  LOSSES  shall  mean  gross  amounts payable by the Company in settlement of
+     claims  under  the  POLICIES  including EXTRA CONTRACTUAL OBLIGATIONS, and,
+     with  respect  to  Losses  arising  from  or  related to Mold, any costs or
+     expenses  associated,  in  any  way,  with  the  abatement,  mitigation,
+     remediation,  containment,  detoxification,  neutralization,  monitoring,
+     removal,  or disposal of Mold or property affected or contaminated by Mold.
+
+13.  MOLD  shall  mean  any  form of fungus, fungi, mold, mushroom, microbes, or
+     spores  and any substance, toxin, allergen, irritant, vapor or gas produced
+     by  or  arising  out  of  any  MOLD.
+
+14.  POLICIES  shall  have  the  meaning  set  forth  in  Article  II.
+
+15.  REINSURANCE  CEDING  COMMISSION shall have the meaning set forth in Article
+     IX.
+
+16.  REINSURANCE  PREMIUM  shall  have  the  meaning  set forth in Article VIII.
+
+17.  REINSURER  shall  mean  Balboa  Insurance  Company.
+
+
+ARTICLE  II.     BUSINESS  REINSURED
+------------     -------------------
+
+1.   "BUSINESS REINSURED" hereunder is defined to mean:
+
+     A.   All  policies, certificates and binders of insurance covering inforce,
+          new  and  renewal business under-written and classified by the COMPANY
+          as Homeowners', Condominium Owners', and Dwelling Fire policies on the
+          list  of policies set forth on Exhibit I-A hereto, ("POLICIES") issued
+          or  renewed  on  or  after  January 1, 2001 but prior to the EFFECTIVE
+          DATE.  COMPANY  represents  and  warrants  that Exhibit 1-A sets forth
+          complete  and  accurate  details  of the POLICIES reinsured hereunder;
+          provided,  however,  that notwithstanding the foregoing, if and to the
+          extent  that Exhibit 1-A is inaccurate, the sole remedy of the parties
+          hereto  is to correct the inaccuracy in Exhibit 1-A and, as corrected,
+          Exhibit  1-A  will  be  incorporated  herein.
+
+
+<PAGE>
+     B.   All  POLICIES  issued  or  renewed  by  the  COMPANY  on  or after the
+          EFFECTIVE  DATE  through  March  31, 2002, but only to the extent that
+          such POLICIES are renewals of POLICIES written by the COMPANY prior to
+          the  EFFECTIVE  DATE  that,  despite its best efforts, the COMPANY has
+          been  unable  to  non-renew.
+
+
+ARTICLE  III.     REINSURING  CLAUSE
+-------------     ------------------
+
+1.   Subject  to  the terms, conditions, exclusions and limitations contained in
+     this  AGREEMENT,  the COMPANY hereby cedes and the REINSURER hereby accepts
+     as  reinsurance  of  the  COMPANY  a  100% Quota Share reinsurance, without
+     limitation  as  to  the  amount of liability, of the INCURRED LOSSES of the
+     COMPANY.
+
+2.   The  REINSURER'S  liability  shall  attach  simultaneously with that of the
+     COMPANY  and  shall  be  subject  in all respects to the same risks, terms,
+     conditions,  interpretations,  waivers,  and  to  the  same  modification,
+     alterations  and cancellations as the respective insurances of the COMPANY,
+     the  true intent of this AGREEMENT being that the REINSURER shall, in every
+     case  to  which this AGREEMENT applies, follow the underwriting fortunes of
+     the  COMPANY.
+
+
+ARTICLE  IV.     COMMENCEMENT  AND  EXPIRATION
+------------     -----------------------------
+
+1.   This  AGREEMENT  shall  incept  on the EFFECTIVE DATE and the liability and
+     obligations  of  the  Reinsurer  shall  be continuous and shall, subject to
+     section  IV.2,  below, remain in effect until the date on which the parties
+     mutually agree (or it is judicially determined) that all obligations of the
+     Reinsurer  under  this  AGREEMENT  have  been  discharged.
+
+2.   Within  forty-five  (45)  days  after  December  31, 2003 the COMPANY shall
+     provide  the  REINSURER  with a report on outstanding LOSSES. Based on said
+     report  the  parties  will  in  good faith attempt to negotiate a portfolio
+     transfer from the COMPANY to the REINSURER of all remaining unpaid INCURRED
+     LOSSES  and  upon  entry into such a loss portfolio transfer agreement this
+     AGREEMENT  shall  terminate.
+
+
+<PAGE>
+ARTICLE  V.     TERRITORY
+-----------     ---------
+
+1.   The  liability  of  the REINSURER shall be limited to losses under POLICIES
+     covering  property  located  within  the  territorial  limits of the United
+     States  of  America, its territories or possessions, including the District
+     of  Columbia;  but  this limitation shall not apply to moveable property if
+     the  COMPANY'S  POLICIES  provide  coverage  when said moveable property is
+     outside  the  aforesaid  territorial  limits.
+
+
+ARTICLE  VI.     EXCLUSIONS
+------------     ----------
+
+1.   This AGREEMENT does not apply to and specifically excludes, unless required
+     by  operation  of  law  to  be  covered  by  the  COMPANY,  the  following:
+
+     A.   Reinsurance  assumed  by  the  COMPANY.
+
+     B.   Bodily  Injury  liability,  Property  Damage  liability  and  Medical
+          Payments  business  other than as covered or required to be covered by
+          POLICIES.
+
+     C.   Nuclear  risks  as  defined  in  the  "Nuclear  Incident  Exclusion
+          Clauses--Physical Damage-Reinsurance (U.S.A.)" attached to and forming
+          part  of  this  AGREEMENT.
+
+     D.   Loss or damage caused by or resulting from war, invasion, hostilities,
+          acts  of foreign enemies, civil war, rebellion, insurrection, military
+          or  usurped  power,  or  martial  law  or confiscation by order of any
+          government  or public authority, but this exclusion shall not apply to
+          loss  or  damage  covered  under a standard policy with a standard War
+          Exclusion  Clause.
+
+     E.   Loss  or  liability  excluded  under  the  provisions  of  the "Pools,
+          Associations  and Syndicates Exclusion Clause" attached to and forming
+          part  of  this  AGREEMENT.
+
+     F.   All liability of the COMPANY arising by contract, operation of law, or
+          otherwise,  from its participation or membership, whether voluntary or
+          involuntary,  in  any  insolvency fund. "Insolvency fund" includes any
+          guaranty  fund, insolvency fund, plan pool, association, fund or other
+          arrangement,  however  denominated,  established  or  governed,  which
+          provides for any assessment of or payment or assumption by the COMPANY
+          of  part or all of any claim, debt, charge, fee or other obligation of
+          an  insurer,  or  its successor or assigns, which has been declared by
+          any  competent authority to be insolvent, or which is otherwise deemed
+          unable  to  meet  any  claim, debt, charge, fee or other obligation in
+          whole  or  in  part.
+
+
+<PAGE>
+     G.   Pollution  and  seepage coverages excluded under the provisions of the
+          "Pollution  and Seepage Exclusion Clause" attached to and forming part
+          of  this  AGREEMENT.
+
+     H.   Flood  when  written as such except for excess flood written above the
+          National Flood Insurance Program limits either as part of a Homeowners
+          policy  or  separately,  however  styled.
+
+     I.   Earthquake,  landslide, subsidence or other earth movement or volcanic
+          eruption,  provided,  however,  that  nothing in this Article shall be
+          interpreted  as  excluding  "fire  following  earthquake".
+
+
+Article VII.          EXTRA CONTRACTUAL OBLIGATIONS
+------------          -----------------------------
+
+1.   This  AGREEMENT,  to  the extent permitted by applicable law, shall protect
+     the  COMPANY  for  100%  of  any  EXTRA CONTRACTUAL OBLIGATIONS relating to
+     INCURRED  LOSSES.  The  term  "EXTRA CONTRACTUAL OBLIGATIONS" is defined as
+     those  liabilities  resulting  from  loss  in  excess  of  the limit of the
+     Company's  original policy or not covered under any other provision of this
+     AGREEMENT  and  which  arise  from  the  handling  of any claim on business
+     covered hereunder, such liabilities arising because of, but not limited to,
+     the following: failure by the COMPANY to settle within the policy limit, or
+     by  reason  of  alleged  or actual negligence, fraud or bad faith in claims
+     adjustment,  rejecting  an offer of settlement or in the preparation of the
+     defense  or  in the trial of any action against its insured or reinsured or
+     in the preparation or prosecution of an appeal consequent upon such action.
+
+2.   The  date  on  which  any  EXTRA  CONTRACTUAL OBLIGATION is incurred by the
+     COMPANY  shall  be  deemed,  in  all  circumstances,  to be the date of the
+     INCURRED  LOSS.
+
+3.   However,  this Article shall not apply where the loss has been incurred due
+     to  fraud  by  a member of the Board of Directors or a corporate officer of
+     the  COMPANY  acting  individually or collectively or in collusion with any
+     individual  or  corporation  or any other organization or party involved in
+     the  presentation,  defense  or  settlement of any claim covered hereunder.
+
+
+<PAGE>
+ARTICLE  VIII.     REINSURANCE  PREMIUM
+--------------     --------------------
+
+1.   The  COMPANY  shall  cede  and  pay  to  the REINSURER the Unearned Premium
+     Reserve established by the Company as of December 31, 2001 for the POLICIES
+     issued  prior  to  the  EFFECTIVE  DATE, less returned premium for Policies
+     issued  prior  to the EFFECTIVE DATE and cancelled after the EFFECTIVE DATE
+     and  100% of the Gross Net Written Premium subject to this AGREEMENT on all
+     POLICIES issued on or after the Effective Date (the "REINSURANCE PREMIUM").
+
+2.   The term "GROSS NET WRITTEN PREMIUM" as used herein means gross premiums on
+     POLICIES  issued  by  the  COMPANY  after  the  EFFECTIVE DATE, less return
+     premiums.
+
+
+ARTICLE  IX.     REINSURANCE  CEDING  COMMISSION
+------------     -------------------------------
+
+1.   The  REINSURER  shall  allow  the  COMPANY a provisional REINSURANCE CEDING
+     COMMISSION of sixteen percent (16%) on all REINSURANCE PREMIUM. The COMPANY
+     shall  allow the REINSURER return commission on return premiums at the same
+     rate.
+
+2.   The  provisional REINSURANCE CEDING COMMISSION allowed the COMPANY shall be
+     adjusted  periodically  in accordance with the provisions set forth herein.
+     The  first  adjustment  period  shall  be  from  the EFFECTIVE DATE through
+     December  31, 2002. The second and final adjustment period shall be January
+     1,  2003  through  December  31,  2003.
+
+3.   The  adjusted  REINSURANCE CEDING COMMISSION rate shall be calculated on an
+     accident year basis as follows separately for each adjustment period and be
+     applied  to  the  EARNED  REINSURANCE  PREMIUM  for  the  period  under
+     consideration:
+
+     A.   If  the  ratio  of  ACCIDENT  YEAR LOSSES INCURRED to EARNED REINSURED
+          PREMIUM is 100% or greater, the adjusted REINSURANCE CEDING COMMISSION
+          rate  for  the  period  under  consideration  shall be negative 12.8%;
+
+     B.   If  the  ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM  is  less  than  100%  but  not  less than 82.2%, the adjusted
+          REINSURANCE  CEDING COMMISSION rate for the period under consideration
+          shall  be  87.2%,  minus  the  actual  ratio  of  ACCIDENT YEAR LOSSES
+          INCURRED  to  EARNED  REINSURANCE  PREMIUM;
+
+
+<PAGE>
+     C.   If  the  ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM  is  less  than  82.2%  but  not less than 67.2%, the adjusted
+          REINSURANCE  CEDING COMMISSION rate for the period under consideration
+          shall  be  5%, plus 75% of the difference between 82.2% and the actual
+          ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE PREMIUM;
+
+     D.   If  the  ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM  is  less  than  67.2%  but  not less that 62.2%, the adjusted
+          REINSURANCE  CEDING COMMISSION rate for the period under consideration
+          shall be 16.25% and 50% of the difference between 67.2% and the actual
+          ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE PREMIUM.
+
+     E.   If  the  ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM  is  less  than  62.2%  but  not less than 52.2%, the adjusted
+          REINSURANCE  CEDING COMMISSION rate for the period under consideration
+          shall  be  16.25%,  plus  75%  of the difference between 62.2% and the
+          actual  ratio  of  ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM.
+
+     F.   If  the  ratio  of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE
+          PREMIUM is less than 52.2%, the adjusted REINSURANCE CEDING COMMISSION
+          rate  for the period under consideration shall be 26.25%, plus 100% of
+          the difference in percentage points between 52.2% and the actual ratio
+          of  ACCIDENT  YEAR  LOSSES  INCURRED  to  EARNED  REINSURANCE PREMIUM.
+
+4.   If the ratio of ACCIDENT YEAR LOSSES INCURRED to EARNED REINSURANCE PREMIUM
+     for  any  period  is greater than 100%, the difference in percentage points
+     between  the  actual  ratio  of  ACCIDENT  YEAR  LOSSES  INCURRED to EARNED
+     REINSURANCE  PREMIUM  and  100%  shall  be multiplied by EARNED REINSURANCE
+     PREMIUM for the period and the product shall be carried forward to the next
+     adjustment  period  and  added  to  ACCIDENT  YEAR LOSSES INCURRED for that
+     period.
+
+
+<PAGE>
+5.   Within  forty-five  (45)  days  after the end of each adjustment period The
+     REINSURER  shall  calculate  and  report  the  adjusted  REINSURANCE CEDING
+     COMMISSION  on EARNED REINSURANCE PREMIUM for the adjustment period. If the
+     adjusted  REINSURANCE  CEDING  COMMISSION  on EARNED REINSURANCE PREMIUM is
+     less  than  REINSURANCE  CEDING  COMMISSIONS  previously  allowed  by  the
+     REINSURER  on  EARNED  REINSURANCE  PREMIUM  for the adjustment period, the
+     COMPANY  shall  remit the difference to the REINSURER within 15 days of the
+     receipt  of  the  REINSURER'S  report.  If  the adjusted REINSURANCE CEDING
+     COMMISSION on EARNED REINSURANCE PREMIUM is greater than REINSURANCE CEDING
+     COMMISSIONS  previously  allowed  by  the  REINSURER  on EARNED REINSURANCE
+     PREMIUM  for the adjustment period, REINSURER shall remit the difference to
+     the  Company within 15 days of the issuance of the report by the Reinsurer.
+     Any verifications of data provided in the report will be made within the 15
+     days  following  receipt  of  the  report  from  the  REINSURER.
+
+6.   "ACCIDENT  YEAR LOSSES INCURRED" as used herein means Losses, and ALLOCATED
+     LOSS  ADJUSTMENT  EXPENSE  paid  during  the  adjustment  period  under
+     consideration,  plus  the reserves for LOSSES, including IBNR, and reserves
+     for  ALLOCATED  LOSS  ADJUSTMENT  EXPENSE  outstanding as of the end of the
+     adjustment period under consideration, plus the adjustment to ACCIDENT YEAR
+     LOSSES  Incurred  from  the  preceding  adjustment  period,  if  any.
+
+7.   "EARNED  REINSURANCE  PREMIUM"  as  used  herein  means  (i)  for the first
+     adjustment  period,  the  sum  of the Unearned Premium Reserves paid to the
+     REINSURER  (less returned premium) plus the premium earned during the first
+     adjustment  period  by the COMPANY for POLICIES renewed after the EFFECTIVE
+     DATE  and  (ii) for the second adjustment period, the premium earned during
+     the  second adjustment period by the COMPANY for POLICIES renewed after the
+     EFFECTIVE  DATE.
+
+
+ARTICLE  X.     SALVAGE  AND  SUBROGATION
+-----------     -------------------------
+
+1.   The  REINSURER shall be credited with its proportionate share of salvage or
+     subrogation  recoveries  (i.e., reimbursement actually obtained or recovery
+     actually  made  by the COMPANY, less the actual cost, excluding salaries of
+     officials  and employees of the COMPANY, of obtaining such reimbursement or
+     making  such  recovery)  on  account  of  claims  and settlements involving
+     reinsurance  hereunder.
+
+
+<PAGE>
+ARTICLE  XI.     REPORTS,  REMITTANCES  AND  CLAIMS
+------------     ----------------------------------
+
+1.   The  COMPANY  shall pay and transfer to the REINSURER on the first Business
+     Day after the EFFECTIVE DATE cash equal to the unearned premium reserves as
+     of  11:59  P.M.  Pacific  Standard  Time  December 31, 2001 with respect to
+     POLICIES  issued or renewed by the COMPANY prior to the EFFECTIVE DATE, net
+     of  the  provisional  REINSURANCE  CEDING  COMMISSION.
+
+2.   The  COMPANY  shall directly deposit or immediately electronically transfer
+     into  a  bank  account  established  by  the REINSURER all written premiums
+     received by the COMPANY with respect to POLICIES issued after the EFFECTIVE
+     DATE,  net  of  the  provisional  REINSURANCE  CEDING  COMMISSION.
+
+3.   The  COMPANY shall provide the REINSURER with monthly bordereaus of premium
+     and loss information, which bordereaus will be first provided for the month
+     of  January  2002  on  or  before February 10, 2002, and will thereafter be
+     provided  within  10  days  after  the last day of each month after January
+     2002.  Within thirty (30) days after the close of each quarter, the COMPANY
+     shall  furnish  the REINSURER with a report summarizing the written premium
+     ceded less return premium, LOSSES paid by the COMPANY, LOSSES reimbursed by
+     or  paid  directly  by  the  REINSURER  pursuant  to  Article XI section 7,
+     ALLOCATED  LOSS  ADJUSTMENT EXPENSE paid, monies recovered, the provisional
+     REINSURANCE  CEDING  COMMISSION  and  net  balance  due  either  party.  In
+     addition,  the  COMPANY  shall  furnish the REINSURER a quarterly statement
+     showing  the  unearned  premium,  the total reserves for outstanding LOSSES
+     including ALLOCATED LOSS ADJUSTMENT EXPENSE, IBNR, FAIR Plan assessments, a
+     breakdown  by  Property  Claims Services catastrophic code numbers for paid
+     and  outstanding  catastrophe  losses and loss adjustment expense, and such
+     other information as may be required by the REINSURER for completion of its
+     NAIC  annual  statements.  The  net balance shall be paid within forty five
+     (45)  days  after  the  close  of  the  respective  quarter.
+
+4.   All  reports  required  to  be  provided  by  the  COMPANY to the REINSURER
+     pursuant  to  this  Article XI, shall be provided (i) electronically to the
+     e-mail  address  set  forth  in  Article  XVIII, and (ii) with a paper copy
+     delivered  to  the  REINSURER  by  overnight  delivery  or  express  mail.
+
+
+<PAGE>
+5.   The COMPANY shall adjust, settle or compromise all LOSSES arising under the
+     POLICIES. All such adjustments, settlements or compromises shall be binding
+     upon  the  REINSURER.
+
+6.   The  COMPANY  will  immediately advise the REINSURER of all large losses by
+     issuing  a  large loss notice and of all lawsuits involving (a) allegations
+     of bad faith, extra contractual claims or claims in excess of policy limits
+     or for liability indemnity, or (b) declaratory relief actions. For purposes
+     of this section, large losses means any claim or LOSS for which the COMPANY
+     makes a payment (individually or in the aggregate) or establishes a reserve
+     in  excess  of  $25,000.
+
+7.   Should  payment  due from the REINSURER exceed $250,000 as respects any one
+     loss,  the  COMPANY  may  give  the REINSURER notice of payment made or its
+     intention  to  make  payment on a certain date. If the COMPANY has paid the
+     loss,  payment  shall  be made by the REINSURER immediately. If the COMPANY
+     intends  to pay the loss by a certain date and has submitted a satisfactory
+     proof  of loss or similar document, payment shall be due from the REINSURER
+     twenty-four  (24)  hours  prior  to that date, provided the REINSURER has a
+     period  of  five  (5) working days after receipt of said notice to dispatch
+     the  payment.  Cash  loss amounts specifically remitted by the REINSURER as
+     set  forth  herein  shall  be  credited  to  its  next  quarterly  account.
+
+8.   With respect to all claims, suits and proceedings relating to the POLICIES,
+     the  COMPANY will afford the Reinsurer an opportunity to be associated with
+     the COMPANY in the defense or control of any such claim, suit or proceeding
+     at  the  REINSURER'S  expense,  and  the  REINSURER  and  the COMPANY shall
+     cooperate  in  every  respect  in  the  defense  of  such  suit,  claim, or
+     proceeding,  provided further, that in the event the ratio of ACCIDENT YEAR
+     LOSSES  INCURRED to EARNED REINSURANCE PREMIUM has exceeded or is likely to
+     exceed  100%,  the  REINSURER,  at its own expense, shall have the right to
+     become  directly  involved  in  the  administration  of  claims  and  claim
+     settlement  decisions,  including the right to have counsel of its choosing
+     actively  participate  in,  inter  alia, all court proceedings, alternative
+     dispute  resolution  processes  and  settlement  discussions.
+
+
+<PAGE>
+ARTICLE  XII.     OFFSET
+-------------     ------
+
+1.   Each party hereto shall have, and may exercise at any time and from time to
+     time,  the  right  to offset any undisputed balance or balances, whether on
+     account  of  premiums  or  on account of LOSSES or otherwise, due from such
+     party  to  the  other  party hereto under this AGREEMENT or under any other
+     reinsurance  agreement  heretofore or hereafter entered into by and between
+     them,  and  may  offset the same against any undisputed balance or balances
+     due  to  the former from the latter under the same or any other reinsurance
+     contract  between  them,  and the party asserting the right of offset shall
+     have and may exercise such right whether the undisputed balance or balances
+     due  to  such party from the other are on account of premiums or on account
+     of  LOSSES and regardless of the capacity, whether as assuming insurer or a
+     ceding  insurer,  in  which each party acted under the contract or, if more
+     than one, the different contracts involved, provided, however, that, in the
+     event of the insolvency of a party hereto, offsets shall only be allowed in
+     accordance with the applicable provisions of the Insurance Law of the State
+     of  California.
+
+
+ARTICLE  XIII.     ACCESS  TO  RECORDS
+--------------     -------------------
+
+1.   The  REINSURER,  or  its  duly  authorized  representative, shall have free
+     access  at  all  reasonable  times  during  and  after the currency of this
+     AGREEMENT,  to  books  and  records  maintained  by  any  of  the division,
+     department  and  branch  offices  of  the COMPANY which are involved in the
+     subject  matter  of  this  AGREEMENT  and  which pertain to the reinsurance
+     provided  hereunder  and  all  claims  made  in  connection  therewith.
+
+
+ARTICLE  XIV.     ERRORS  AND  OMISSIONS
+-------------     ----------------------
+
+1.   Any  inadvertent  delay,  omission  or error shall not relieve either party
+     hereto from any liability which would attach to it hereunder if such delay,
+     omission or error had not been made, provided such delay, omission or error
+     is  rectified  immediately  upon  discovery.
+
+
+ARTICLE  XV.          REINSURANCE  SECURITY
+------------          ---------------------
+
+1.   To  the  extent  that security is required in order to allow the COMPANY to
+     obtain  financial  statement  credit  under  this  AGREEMENT, the REINSURER
+     shall,  at  its  expense  assure  that  adequate  security  satisfying  the
+     insurance  laws  of  the  state  of California is provided. The security so
+     provided shall be adjusted quarterly to equal the unearned premium reserve,
+     Incurred  Loss  and  ALLOCATED  LOSS ADJUSTMENT EXPENSE reserves, including
+     incurred  but  not  reported  losses.
+
+
+<PAGE>
+ARTICLEXVI.          INSOLVENCY
+-----------          ----------
+
+1.   In  the  event  of  insolvency  and  the  appointment  of  a  conservator,
+     liquidator, or statutory successor of the COMPANY, the portion. of any risk
+     or obligation assumed by the REINSURER shall be payable to the conservator,
+     liquidator,  or  statutory successor on the basis of claims allowed against
+     the  COMPANY  by any court of competent jurisdiction or by any conservator,
+     liquidator, or statutory successor of the COMPANY having authority to allow
+     such  claims, without diminution because of that insolvency, or because the
+     conservator,  liquidator, or statutory successor has failed to pay all or a
+     portion  of  any  claims.  Payment  by  the  REINSURER as set forth in this
+     Article  shall  be  made  directly  to  the  COMPANY or to its conservator,
+     liquidator,  or  statutory  successor,  except  where  this  AGREEMENT
+     specifically provides another payee of such reinsurance in the event of the
+     insolvency  of  the  COMPANY.
+
+2.   The  conservator,  liquidator,  or statutory successor of the COMPANY shall
+     give  written  notice  of  the  pendency  of  a  claim  against the COMPANY
+     indicating  the policy reinsured, within a reasonable time after such claim
+     is  filed. During the pendency of such claim, the REINSURER may investigate
+     said claim and interpose, at the REINSURER'S own expense, in the proceeding
+     where  such claim is to be adjudicated, any defense or defenses that it may
+     deem  available  to  the  COMPANY  or  to  its  conservator, liquidator, or
+     statutory  successor.  The  expense thus incurred by the REINSURER shall be
+     payable,  subject  to  court  approval, out of the estate of the COMPANY as
+     part  of the expense of conservation or liquidation to the extent that such
+     proportionate  share  of  the  benefit  shall  accrue  to  the  COMPANY  in
+     conservation  or  liquidation, solely as a result of the defense undertaken
+     by  the  REINSURER.
+
+
+<PAGE>
+ARTICLE  XVII.          ARBITRATION
+--------------          -----------
+
+1.   Any  and  all  disputes  or  differences  arising  out  of  this AGREEMENT,
+     including  its  formation  and  validity,  shall  be  submitted  to binding
+     arbitration.  Any  arbitration  shall  be based upon the Procedures for the
+     Resolution  of U.S. Insurance and Reinsurance Disputes dated September 1999
+     (the  "Procedures")  (which  are  attached  hereto  as  Exhibit XVII-l), as
+     supplemented  by  the  paragraphs  below.
+
+2.   The  Panel  shall  consist  of  three  disinterested arbitrators, one to be
+     appointed  by the Petitioner, one to be appointed by the Respondent and the
+     third  to  be  appointed  by the two Party-appointed arbitrators. The third
+     arbitrator shall serve as the umpire, who shall be neutral. The arbitrators
+     and  umpire  shall  be  persons  who  are  current  or  former  officers or
+     executives  of  an  insurer  or  reinsurer.  Within  thirty  days  of  the
+     commencement  of  the arbitration proceeding (or, if applicable, the longer
+     period  provided  in paragraph E below), each Party shall provide the other
+     Party with the identification of its Party-appointed arbitrator, his or her
+     address  (including  telephone,  fax and e-mail information), and provide a
+     copy of the arbitrator's curriculum vitae. If either Party fails to appoint
+     an  arbitrator within that thirty-day period (or applicable longer period),
+     the  non-defaulting  Party  shall  appoint  an  arbitrator  to  act  as the
+     Party-appointed  arbitrator  for  the defaulting Party. The umpire shall be
+     appointed  by the two Party-appointed arbitrators as soon as practical (but
+     no  later than 30 days) after the appointment of the second arbitrator. The
+     Party-appointed  arbitrators may consult, in confidence, with the Party who
+     appointed  them  concerning  the  appointment  of  the  umpire.
+
+3.   Where the two Party-appointed arbitrators have failed to reach agreement on
+     an  umpire  within  the  time  specified  in  paragraph B, each Party shall
+     propose  to  the  other  in writing, within 7 days thereafter, eight umpire
+     candidates  from  the ARIASU.S. Certified Arbitrators List in effect at the
+     time  of  the  commencement  of  the  arbitration. The umpire shall then be
+     selected  in  accordance  with  6.7(b)-(e)  of  the Procedures. (Unless the
+     Parties  agree otherwise, the ARIASU.S. Umpire Questionnaire Form in effect
+     at  the  time  of  the  commencement  of  the  arbitration  shall be used.)
+
+4.   The  arbitration  shall  take  place  in  Woodland  Hills,  California.
+
+
+<PAGE>
+5.   If  the  COMPANY  and  more  than  one  REINSURER  are involved in the same
+     dispute(s)  or difference(s) arising out of this AGREEMENT, and the COMPANY
+     requests  consolidated  arbitration  with  those  REINSURERS  in an initial
+     Notice  of  Arbitration or Response, then those REINSURERS shall constitute
+     and  act as one Party for purposes of the arbitration and thus shall select
+     a  single  Party-appointed  arbitrator among them. (If the COMPANY requests
+     consolidation  in  a  Response, then (i) that Response shall be appended to
+     the  COMPANY'S  Notice of Arbitration to the additional REINSURER(s) joined
+     in  the proceeding, (ii) any arbitral appointment made before that Response
+     shall  be  of  no  effect,  and  (iii)  the  Reinsurers  shall select their
+     arbitrator  within  30  days  of  their  receipt  of  those pleadings.) For
+     purposes  of  this  paragraph, any instance in which two or more REINSURERS
+     have  not paid their proportional shares of the same balance claimed due by
+     the  COMPANY  shall  be  deemed  to  involve  the  "same  dispute(s)  or
+     difference(s)  arising out of this AGREEMENT." Communications shall be made
+     by the COMPANY to each of the REINSURERS constituting one Party. Nothing in
+     this  paragraph  shall  impair  the  rights of REINSURERS to assert several
+     rather  than  joint  defenses  or claims, change their liability under this
+     AGREEMENT  from several to joint, or impair their rights to retain separate
+     counsel  in  connection  with  the  arbitration.
+
+6.   Unless prohibited by law, the Superior Court of the State of California and
+     the  United  States  District Court for the Southern District of California
+     shall  have  exclusive jurisdiction over any and all court proceedings that
+     either  Party  may  initiate  in connection with the arbitration, including
+     proceedings  to  compel, stay, or enjoin arbitration or to confirm, vacate,
+     modify,  or  correct  an  Arbitration  Award.
+
+7.   Each  party  shall bear the expense of its own arbitrator and shall jointly
+     and  equally  bear  with  the  other  party  the expense of the umpire. The
+     remaining  costs  of  the arbitration proceedings shall be allocated by the
+     board.
+
+8.   For  purposes  of  this  Article,  the  terms  "Arbitration  Award,"
+     "Disinterested,"  "Notice of Arbitration," "Panel," "Party" (or "Parties"),
+     "Petitioner,"  "Respondent,"  and  "Response"  shall  have the meanings set
+     forth  in  article  2  of  the  Procedures  (Definitions).
+
+9.   In  the event of any conflict between the Procedures and this Article, this
+     Article,  and  not  the  Procedures,  shall  control.
+
+
+<PAGE>
+10.  This  Article  shall  survive  the  termination  of  this  Agreement.
+
+
+ARTICLE  XVIII.     NOTICES
+---------------     -------
+
+1.   Any  notice  or  other  communication  required  or  permitted  under  this
+     AGREEMENT shall be in writing and shall be delivered personally, or sent by
+     certified,  registered  or  express  mail, postage prepaid. Any such notice
+     shall  be  deemed given when so delivered personally, or, if mailed, on the
+     date  of  receipt  as  follows:
+
+          A.   if  to  the  COMPANY  to:
+
+               21st  Century  Insurance  Company
+               6301  Owensmouth  Avenue
+               Woodland  Mills,  California  91367
+               Attention:  General  Counsel
+
+
+          B.   if  to  the  Reinsurer  to:
+
+               Balboa  Insurance  Company
+               18581  Teller  Avenue
+               Irvine,  California  92612-1627
+               ATTENTION:  General  Counsel
+
+2.   All  reports  that  are  required  to  be electronically transmitted by the
+     COMPANY  to  REINSURER  pursuant  to Article XI shall be transmitted to the
+     following  e-mail  addresses:
+
+          betsy_white@balboainsurance.com
+          and  nick_lannutti@countrywide.com
+               -----------------------------
+
+3.   By  notice  given  in  accordance with this Article to the other party, any
+     party may designate another address or person or e-mail address for receipt
+     of  notices  or  reports  hereunder.
+
+
+ARTICLE  XIX.     GOVERNING  LAW
+-------------     --------------
+
+1.   This  AGREEMENT  shall  be governed by and construed in accordance with the
+     laws  of  the  State  of  California.
+
+
+<PAGE>
+ARTICLE  XX.     SEVERABILITY
+------------     ------------
+
+1.   If  any  provision  of  this  AGREEMENT  shall  be  rendered  illegal  or
+     unenforceable  by the laws, regulations or public policy of any state, such
+     provision shall be considered void in such state, but this shall not affect
+     the  validity or enforceability of any other provision of this AGREEMENT or
+     the  enforceability  of  such  provision  in  any  other  jurisdiction.
+
+
+ARTICLE  XXI.     CONFIDENTIALITY
+-------------     ---------------
+
+1.   All terms and conditions of this AGREEMENT and any material provided in the
+     course of inspection shall be kept confidential by the REINSURER as against
+     third parties, unless the disclosure is required pursuant to process of law
+     or  unless  the  disclosure  is to REINSURER'S retrocessionaires, financial
+     auditors  or  governing  regulatory  bodies.  Disclosing  or  using  this
+     information  for  any purpose beyond the scope of this AGREEMENT, or beyond
+     the  exceptions  set  forth above, is expressly forbidden without the prior
+     consent  of  the  COMPANY.
+
+
+ARTICLE  XXII.     ENTIRE  AGREEMENT,INTERPRETATION
+-------------      --------------------------------
+
+1.   With  respect  to  the  BUSINESS  REINSURED  hereunder,  (i) this AGREEMENT
+     constitutes the entire agreement between the parties, and (ii) there are no
+     understandings or agreements between the parties other than those expressed
+     in this AGREEMENT. Any change to or modification of this AGREEMENT shall be
+     made  by  written  amendment  to  this  AGREEMENT and signed by the parties
+     hereto.
+
+2.   This AGREEMENT is between sophisticated parties, each of which has reviewed
+     the  AGREEMENT  and  is fully knowledgeable about its terms and conditions.
+     The  parties therefore agree that this AGREEMENT shall be construed without
+     regard  to  the  authorship  of the language and without any presumption or
+     rule  of  construction  in  favor  of  either  of  them.
+
+
+ARTICLE  XXIII.          MISCELLANEOUS
+---------------          -------------
+
+1.   This  AGREEMENT:
+
+     A.   may  be  executed in counterparts (or by counterpart signature pages),
+          each  of which shall be deemed an original and all of which constitute
+          one  and  the  same  instrument;
+
+
+<PAGE>
+     B.   is  not  intended  to  confer any rights upon any party other than the
+          parties  hereto  and  their  respective  successors  and  assigns; and
+
+     C.   shall  be  binding upon and inure to the benefit of the parties hereto
+          and  their  respective  successors  and  assigns.
+
+
+     IN  WITNESS  WHEREOF,  the  parties hereto have caused this AGREEMENT to be
+executed  by  their  duly  authorized  representatives.
+
+
+Signed  at  WOODLAND  HILLS,  CALIFORNIA
+
+                         21ST CENTURY INSURANCE COMPANY
+                         21ST CENTURY CASUALTY COMPANY
+
+
+
+Signature:  /s/    Douglas  K.  Howell
+                   -------------------
+                   Douglas  K.  Howell
+                   Senior  Vice  President  &  Chief  Financial  Officer
+
+
+Attest:   /s/      Michael  J.  Cassanego     Date:  December  18,  2001
+                   ----------------------
+                   Michael  J.  Cassanego
+                   Senior  Vice  President,  Secretary  &  General  Counsel
+
+
+Signed  at  IRVINE,  CALIFORNIA
+
+BALBOA  INSURANCE  COMPANY
+
+
+Signature:  /s/    Patrick  Driscoll
+                   -----------------
+                   Patrick  Driscoll
+                   Executive  Vice  President
+
+
+Attest:     /s/    Robert P. Barbarowicz          Date: December 18, 2001
+                   ---------------------
+                   Robert P. Barbarowicz
+                   Executive  Vice  President  &  Secretary
+
+
+<PAGE>
+                       NUCLEAR INCIDENT EXCLUSION CLAUSE -
+                      PHYSICAL DAMAGE - REINSURANCE - U.S.A
+
+     1.     This  Reinsurance  does  not cover any loss or liability accruing to
+the  COMPANY,  directly or indirectly, and whether as Insurer or REINSURER, from
+any  Pool of Insurers or Reinsurers formed for the purpose of covering Atomic or
+Nuclear  Energy  risks.
+
+     2.     Without  in  any  way  restricting the operation of paragraph (1) of
+this  Clause,  this Reinsurance does not cover any loss or liability accruing to
+the  COMPANY,  directly  or indirectly and whether as Insurer or reinsurer, from
+any  insurance  against  Physical  Damage  (including  business  interruption or
+consequential  loss  arising  out  of  such  Physical  Damage)  to:
+
+          I.   Nuclear  reactor power plants including all auxiliary property on
+               the  site,  or
+
+          II.  Any  other  nuclear  reactor installation, including laboratories
+               handling  radioactive  materials  in  connection  with  reactor
+               installations,  and  "critical  facilities"  as  such,  or
+
+          III. Installations  for  fabricating  complete  fuel  elements  or for
+               processing  substantial quantities of "special nuclear material",
+               and  for  reprocessing, salvaging, chemically separating, storing
+               or  disposing  of  "spent"  nuclear  fuel  or waste materials, or
+
+          V.   Installations  other than those listed in paragraph (2) III above
+               using  substantial  quantities  of  radioactive isotopes or other
+               products  of  nuclear  fission.
+
+     3.     Without  in any way restricting the operations of paragraphs (1) and
+(2) hereof, this Reinsurance does not cover any loss or liability by radioactive
+contamination  accruing to the Reinsured, directly or indirectly, and whether as
+Insurer  or  reinsurer, from any insurance on property which is on the same site
+as  a  nuclear  reactor  power  plant  or  other  nuclear installation and which
+normally  would  be  insured  therewith except that this paragraph (3) shall not
+operate
+
+     (a)  where  COMPANY  does  not have knowledge of such nuclear reactor power
+          plant  or  nuclear  installation,  or
+
+
+     (b)  where  said  insurance  contains  a  provision  excluding coverage for
+          damage  to  property  caused  by  or  resulting  from  radioactive
+          contamination,  however  caused. However on and after 1st January 1960
+
+
+<PAGE>
+          this  sub-paragraph (b) shall only apply provided the said radioactive
+          contamination  exclusion  provision  has  been  approved  by  the
+          Governmental  Authority  having  jurisdiction  thereof.
+
+     4.     Without in any way restricting the operations of paragraphs (1), (2)
+and  (3)  hereof,  this  Reinsurance  does  not  cover  any loss or liability by
+radioactive  contamination  accruing to the COMPANY, directly or indirectly, and
+whether  as Insurer or reinsurer, when such radioactive contamination is a named
+hazard  specifically  insured  against.
+
+     5.     It  is  understood  and  agreed that this Clause shall not extend to
+risks  using  radioactive isotopes in any form where the nuclear exposure is not
+considered  by  the  COMPANY  to  be  the  primary  hazard.
+
+     6.     The  term "special nuclear material" shall have the meaning given it
+in  the  Atomic  Energy  Act  of  1954,  or  by  any  law  amendatory  thereof.
+
+     7.     COMPANY  to  be  sole  judge  of  what  constitutes:
+          (a)  substantial  quantities,  and
+          (b)  the  extent  of  installation,  plant  or  site.
+
+NOTE:     Without  in any way restricting the operation of paragraph (1) hereof,
+it  is  understood  and  agreed  that
+
+
+          (a)  all  POLICIES  issued  by  the COMPANY on or before 31st December
+               1957  shall  be free from the application of the other provisions
+               of  this Clause until expiry date or 31st December 1960 whichever
+               first  occurs  whereupon  all the provisions of this Clause shall
+               apply.
+
+          (b)  with respect to any risk located in Canada POLICIES issued by the
+               Reinsured  on or before 31st December 1958 shall be free from the
+               application  of  the other provisions of this Clause until expiry
+               date  or  31st December 1960 whichever first occurs whereupon all
+               the  provisions  of  this  Clause  shall  apply.
+
+
+<PAGE>
+                       POOLS, ASSOCIATIONS AND SYNDICATES
+                                EXCLUSION CLAUSE
+
+     SECTION A
+
+Excluding:
+
+          (a)  All  Business  derived  directly  or  indirectly  from  any Pool,
+               Association  or  Syndicate  which  maintains  its own reinsurance
+               facilities.
+
+          (b)  Any  Pool or Scheme (whether voluntary or mandatory) formed after
+               March  1,  1968 for the purpose of insuring property whether on a
+               country-wide  basis  or  in  respect  of  designated  areas. This
+               exclusion shall not apply to so-called Automobile Insurance Plans
+               or other Pools formed to provide coverage for Automobile Physical
+               Damage.
+
+     SECTION B
+
+Nevertheless  the  REINSURER  specifically agrees that liability accruing to the
+COMPANY  from  its participation in residual market mechanisms including but not
+limited  to:
+
+(1)  The  following  so-called  "Coastal  Pools":
+
+     Alabama  Insurance  Underwriting  Association
+     Florida  Windstorm  Underwriting  Association  ("FWUA")
+     Louisiana  Insurance  Underwriting  Association
+     Mississippi  Windstorm  Underwriting  Association
+     North  Carolina  Insurance  Underwriting  Association
+     South  Carolina  Windstorm  and  Hail  Underwriting  Association
+     Texas  Catastrophe  Property  Insurance  Association
+
+                                     a. AND
+
+(2)  All  "Fair  Plan"  and  "Rural  Risk  Plan"  business
+
+                                     b. AND
+
+(3)  The  Florida  Property  and  Casualty  Joint  Underwriting  Association
+     ("FPCJUA"),  the  Florida  Residential  Property  and  Casualty  Joint
+     Underwriting Association ("RPCJUA") and the California Earthquake Authority
+     (CEA).
+
+For  all  perils  otherwise  protected  hereunder shall not be excluded, except,
+however,  that  this reinsurance does not include any increase in such liability
+resulting  from:
+
+     (i)  The  inability  of any other participant in such "Coastal Pool" and/or
+          "Fair Plan" and/or "Rural Risk Plan" and/or Residual Market Mechanisms
+          to  meet  its  liability.
+
+
+<PAGE>
+     (ii) Any claim against such "Coastal Pool" and/or "Fair Plan" and/or "Rural
+          Risk  Plan"  and/or  Residual  Market  Mechanisms,  or any participant
+          therein,  including  the  COMPANY,  whether  by  way of subrogation or
+          otherwise,  brought by or on behalf of any insolvency fund (as defined
+          in  the  Insolvency  Fund  Exclusion  Clause  incorporated  in  the
+          AGREEMENT).
+
+     SECTION C
+
+(l)  Notwithstanding Section B above, in respect of the CEA, where an assessment
+     is  made  against  the  COMPANY  by  the CEA, the COMPANY may include in it
+     Ultimate  Net  Loss  only  that  assessment  directly  attributable to each
+     separate  loss  occurrence covered hereunder. The COMPANY'S initial capital
+     contribution  to  the  CEA  shall not be included in the Ultimate Net Loss.
+
+(2)  Notwithstanding Section B above, in respect of the FWUA, FPCJUA and RPCJUA,
+     where  an  assessment  is made against the COMPANY by the FWUA, the FPCJUA,
+     the  RPCJUA,  or any combination thereof, the maximum loss that the COMPANY
+     may  include  in  the  Ultimate  Net Loss in respect of any loss occurrence
+     hereunder  shall  not  exceed  the  lesser  of:
+
+     (a)  The COMPANY'S assessment from the relevant entity (FWUA, FPCJUA and/or
+          RPCJUA)  for  the  accounting  year  in  which  the  loss  occurrence
+          commenced,  or
+
+     (b)  The  product  of  the  following:
+
+          (i)  The COMPANY'S percentage participation in the relevant entity for
+               the  accounting  year in which the loss occurrence commenced; and
+
+          (ii) The  relevant  entity's  total  LOSSES  in  such loss occurrence.
+
+     Any  assessments  for accounting years subsequent to that in which the loss
+     occurrence  commenced  may  not  be  included  in  the  Ultimate  Net  Loss
+     hereunder.  Moreover,  notwithstanding  Section  B above, in respect of the
+     FWUA,  the  FPCJUA and/or the RPCJUA, the Ultimate Net Loss hereunder shall
+     not  include  any  monies  expended  to  purchase  or  retire  bonds  as  a
+     consequence  of  being  a member of the FWUA, the FPCJUA and/or the RPCJUA.
+     For  the  purposes  of  this  AGREEMENT, the COMPANY may not include in the
+     Ultimate Net Loss any assessment or any percentage assessment levied by the
+     FWEJA, the FPCJUA and/or the RPCJUA to meet the obligations of an insolvent
+     insurer  member or other party, or to meet any obligations arising from the
+     deferment  by  the  FWUA, the FPCJUA and/or the RPCJUA of the collection of
+     monies.
+
+
+<PAGE>
+NOTES:     Wherever used herein the terms:
+
+"COMPANY"           shall  be  understood  to  mean  "COMPANY",  "Reinsured",
+                    "Reassured"  or whatever other terms is used in the attached
+                    reinsurance  document  to designate the reinsured COMPANY or
+                    companies.
+
+"AGREEMENT"         shall  be  understood  to  mean  "AGREEMENT",  "Contract",
+                    "Policy",  or  whatever  other term is used to designate the
+                    attached  reinsurance  document.
+
+"REINSURERS"        shall be understood to mean  "REINSURERS", Underwriters" or
+                    whatever  other  term  is  used  in the attached reinsurance
+                    document  to  designate  the  reinsurer  or  reinsurers.
+
+
+<PAGE>
+                     POLLUTION AND SEEPAGE EXCLUSION CLAUSE
+
+
+This  AGREEMENT excludes loss and/or damage and/or costs and/or expenses arising
+from  seepage  and/or  pollution  and/or contamination, other than contamination
+from  smoke.  Nevertheless, this exclusion does not preclude payment of the cost
+of  removing  debris  of property damaged by a loss otherwise covered hereunder,
+subject  always  to  a  limit  of  25%  of the COMPANY'S property loss under the
+applicable  original  policy.
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

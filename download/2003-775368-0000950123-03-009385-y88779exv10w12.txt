@@ -1,0 +1,1565 @@
+<DOCUMENT>
+<TYPE>EX-10.12
+<SEQUENCE>14
+<FILENAME>y88779exv10w12.txt
+<DESCRIPTION>ADMINISTRATIVE SERVICES AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.12
+
+
+                        ADMINISTRATIVE SERVICES AGREEMENT
+
+                                  BY AND AMONG
+
+                     ROYAL SURPLUS LINES INSURANCE COMPANY,
+
+                       ROYAL SPECIALTY UNDERWRITING, INC.
+
+                                       AND
+
+                        UNDERWRITERS REINSURANCE COMPANY
+
+                               DATED JULY 1, 2003
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                       Page
+                                                                                                       ----
+<S>                                                                                                    <C>
+                                       ARTICLE I DEFINITIONS
+
+Section 1.1   Definitions.........................................................................      2
+
+                           ARTICLE II APPOINTMENT; PERFORMANCE STANDARDS
+
+Section 2.1   Appointment.........................................................................      5
+Section 2.2   Standards...........................................................................      5
+
+                       ARTICLE III SERVICES TO BE PROVIDED BY ADMINISTRATOR
+
+Section 3.1   Administrative Services.............................................................      6
+Section 3.2   Administration......................................................................      6
+
+                       ARTICLE IV REGULATORY COMPLIANCE AND CUSTOMER ISSUES
+
+Section 4.1   Certain Regulatory Filings..........................................................      6
+Section 4.2   Changes in Applicable Laws..........................................................      6
+Section 4.3   Inquiries, Notification and Customer Complaints.....................................      7
+Section 4.4   Management of Customer Relationships................................................      7
+Section 4.5   Maintenance of Treaty Reinsurance...................................................      7
+
+                                        ARTICLE V AUTHORITY
+
+Section 5.1   Authority...........................................................................      7
+Section 5.2   Administration of Excluded Liabilities..............................................      8
+Section 5.3   Marketing and Advertising...........................................................      9
+
+                          ARTICLE VI OTHER SERVICES AND FEES FOR SERVICES
+
+Section 6.1   Additional Services.................................................................      9
+Section 6.2   Fee for Services....................................................................      9
+Section 6.3   Services Provided by Insurer........................................................      9
+
+                       ARTICLE VII REPORTS, ELECTRONIC PREMIUM AND LOSS DATA
+
+Section 7.1   Reports, Electronic Premium and Loss Data...........................................     10
+Section 7.2   Payment of Amounts..................................................................     10
+
+                           ARTICLE VIII BOOKS AND RECORDS; BANK ACCOUNTS
+
+Section 8.1   Access to Books and Records.........................................................     11
+Section 8.2   Bank Accounts.......................................................................     13
+
+                         ARTICLE IX INABILITY TO PERFORM SERVICES; ERRORS
+
+Section 9.1   Inability to Perform Services.......................................................     13
+Section 9.2   Errors..............................................................................     13
+</TABLE>
+
+                                       i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                    <C>
+                                      ARTICLE X LEGAL ACTIONS
+
+Section 10.1  Regulatory Proceedings..............................................................     13
+Section 10.2  Compliance of Reinsured Contracts...................................................     14
+Section 10.3  Defense of Litigation...............................................................     14
+Section 10.4  Communications Regarding Certain Matters............................................     15
+
+                                 ARTICLE XI DURATION; TERMINATION
+
+Section 11.1  Duration............................................................................     15
+Section 11.2  Termination.........................................................................     15
+
+                                    ARTICLE XII CONFIDENTIALITY
+
+Section 12.1  Use of Confidential Information.....................................................     16
+Section 12.2  Confidentiality of Individuals......................................................     16
+Section 12.3  Disclosure..........................................................................     16
+
+                                   ARTICLE XIII INDEMNIFICATION
+
+Section 13.1  Indemnification by Insurer..........................................................     17
+Section 13.2  Indemnification by Administrator....................................................     17
+Section 13.3  Indemnification Procedure...........................................................     17
+Section 13.4  Relationship to RSLIC Quota Share Reinsurance Agreement.............................     17
+
+                                      ARTICLE XIV ARBITRATION
+
+Section 14.1  Arbitration.........................................................................     18
+Section 14.2  Notice of Arbitration...............................................................     18
+Section 14.3  Arbitration Panel...................................................................     18
+Section 14.4  Submission of Briefs................................................................     18
+Section 14.5  Arbitration Board's Decision........................................................     19
+Section 14.6  Jurisdiction........................................................................     19
+Section 14.7  Expenses............................................................................     19
+Section 14.8  Production of Documents and Witnesses...............................................     19
+Section 14.9  Relief Available....................................................................     20
+Section 14.10 Consolidation.......................................................................     20
+
+                                     ARTICLE XV MISCELLANEOUS
+
+Section 15.1  Cooperation.........................................................................     20
+Section 15.2  Amendment, Modification and Waiver..................................................     20
+Section 15.3  Relationship........................................................................     20
+Section 15.4  Entire Agreement....................................................................     21
+Section 15.5  Governing Law.......................................................................     21
+Section 15.6  Severability........................................................................     21
+Section 15.7  Counterparts........................................................................     21
+Section 15.8  Consent to Jurisdiction.............................................................     21
+Section 15.9  Third Party Beneficiaries...........................................................     22
+Section 15.10 Binding; Assignment.................................................................     22
+Section 15.11 Specific Performance................................................................     22
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                    <C>
+Section 15.12 Descriptive Headings................................................................     22
+Section 15.13 Expenses............................................................................     22
+Section 15.14 Use of Name.........................................................................     22
+Section 15.15 Survival............................................................................     22
+Section 15.16 Subcontracting......................................................................     23
+Section 15.17 Notices.............................................................................     23
+Section 15.18 Interpretation......................................................................     25
+</TABLE>
+
+                                    EXHIBITS
+
+Exhibit A  Administrative Services Intellectual Property License Agreement
+
+Exhibit B  RSA Reinsurance Security Guidelines
+
+Exhibit C  Form of Report Required Pursuant to Section 7.1
+
+                                   SCHEDULES
+
+Schedule 4.5(a) Levels of Treaty Reinsurance
+
+                                      iii
+
+<PAGE>
+
+                        ADMINISTRATIVE SERVICES AGREEMENT
+
+                  This ADMINISTRATIVE SERVICES AGREEMENT, dated as of July 1,
+2003 (hereinafter referred to as the "RSLIC Administrative Services Agreement")
+is made and entered into by and among ROYAL SURPLUS LINES INSURANCE COMPANY, a
+Connecticut company ("Insurer"), ROYAL SPECIALTY UNDERWRITING, INC., a Georgia
+company ("RSUI" or "Administrator"), and UNDERWRITERS REINSURANCE COMPANY, a
+property and casualty insurance company organized under the laws of the State of
+New Hampshire ("Reinsurer").
+
+                  WHEREAS, prior to the Effective Date (defined below), RSUI has
+underwritten certain insurance and reinsurance contracts on behalf of Insurer
+and administered the claims, reinsurance recoverables and premium activity
+relating to such contracts;
+
+                  WHEREAS, pursuant to an Acquisition Agreement, dated as of
+June 6, 2003 (the "Acquisition Agreement"), by and between Royal Group, Inc., a
+Delaware corporation ("Royal") and Alleghany Insurance Holdings LLC, a Delaware
+limited liability company ("AIHL"), the parties agreed, among other things, that
+Royal will sell, and AIHL will buy, all of the issued and outstanding shares of
+common stock of RSUI;
+
+                  WHEREAS, pursuant to the Assignment and Assumption Agreement
+dated as of June 30, 2003 (the "Assignment Agreement"), AIHL assigned to RSUI
+Group, Inc., a Delaware corporation and a wholly-owned subsidiary of AIHL ("RSUI
+Group"), and RSUI Group assumed from AIHL, all of AIHL's rights and obligations
+under the Acquisition Agreement;
+
+                  WHEREAS, pursuant to the terms of the Acquisition Agreement
+and the Assignment Agreement, Royal and RSUI Group have agreed that Royal shall
+cause Insurer, and RSUI Group shall cause Reinsurer, to enter into a Quota Share
+Reinsurance Agreement (the "RSLIC Quota Share Reinsurance Agreement"), pursuant
+to which Insurer has agreed to cede to Reinsurer, and Reinsurer has agreed to
+assume, on a 100% quota share basis, the liabilities and obligations arising out
+of (i) the insurance contracts issued by Reinsurer in Insurer's name with an
+effective date (new or renewal) on or after the Effective Date; and (ii) the
+RSUI-Produced Insurance Contracts (defined below) which are in force on the
+Effective Date, but only to the extent they arise out of, or relate to, periods
+on or after the Effective Date;
+
+                  WHEREAS, Insurer wishes to appoint Administrator to provide
+all administrative services and other services with respect to the Reinsured
+Contracts and Reinsured Liabilities (as such terms are defined in the RSLIC
+Quota Share Reinsurance Agreement), and Administrator desires to provide such
+administrative services in consideration of Insurer entering into the RSLIC
+Quota Share Reinsurance Agreement; and
+
+                  WHEREAS, the parties agree that Administrator shall continue,
+for the duration of this RSLIC Administrative Services Agreement, to administer
+the claims,
+
+<PAGE>
+
+reinsurance recoverables and premium activity relating to the Reinsured
+Contracts on the Computer Systems and to prepare and deliver reports relating to
+such administration to Insurer in substantially the same manner as RSUI has been
+doing prior to the Effective Date.
+
+                  NOW, THEREFORE, for and in consideration of the premises and
+the promises and the mutual agreements hereinafter set forth and set forth in
+the Acquisition Agreement and RSLIC Quota Share Reinsurance Agreement, the
+parties hereto, intending to be legally bound, covenant and agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+                  Section 1.1 Definitions. Capitalized terms used but not
+defined herein and which are defined in the RSLIC Quota Share Reinsurance
+Agreement shall have the meanings ascribed to them in the RSLIC Quota Share
+Reinsurance Agreement. As used in this RSLIC Administrative Services Agreement,
+the following terms shall have the meanings set forth herein:
+
+                  "AAA" shall have the meaning set forth in Section 14.3 hereof.
+
+                  "Acquisition Agreement" shall have the meaning set forth in
+the recitals.
+
+                  "Administrative Services" shall have the meaning set forth in
+Section 3.1 hereof.
+
+                  "Administrative Services Intellectual Property License
+Agreement" shall have the meaning set forth in Section 2.1(d) hereof.
+
+                  "Administrator" shall have the meaning set forth in the
+recitals.
+
+                  "Affiliate" of any Person means another Person that as from
+time to time, directly or indirectly controls, is controlled by, or is under
+common control with, such first Person, where "control" means the possession,
+directly or indirectly, of the power to direct or cause the direction of the
+management policies of a Person, whether through the ownership of voting
+securities, by contract, as trustee or executor, or otherwise. For the purposes
+of this RSLIC Administrative Services Agreement, the term "Affiliated" has a
+meaning correlative to the foregoing.
+
+                  "AIHL" shall have the meaning set forth in the recitals.
+
+                  "Applicable Law" means any applicable order, law, statute,
+regulation, rule, ordinance, writ, injunction, directive, judgment, decree,
+principal of common law, constitution or treaty enacted, promulgated, issued,
+enforced or entered by any Governmental Entity, including any amendments thereto
+that may be adopted from time to time.
+
+                                       2
+
+<PAGE>
+
+                  "Assignment Agreement" shall have the meaning set forth in the
+recitals.
+
+                  "Bank Accounts" shall have the meaning set forth in Section
+8.2 hereof.
+
+                  "Board" shall have the meaning set forth in Section 14.1
+hereof.
+
+                  "Books and Records" means the originals or copies of all
+customer lists, policy information, insurance contract forms, administrative and
+pricing manuals, medical procedure code lists, claim records, sales records,
+underwriting records, financial records, compliance records, data files prepared
+for or filed with regulators of the Business (as such term is defined in the
+Acquisition Agreement) and premium tax records, each in the possession or
+control of RSUI, Royal or any of its Affiliates, or, after the Closing, AIHL or
+any of its Affiliates and used in the operation of the Business, whether or not
+stored in hardcopy form or on magnetic or optical media (to the extent not
+subject to licensing restrictions), but excluding (i) prior to the Closing, any
+such lists, information and records that are prohibited from being disclosed or
+transferred by Applicable Law or regulatory requirements and (ii) any such
+information that is part of any consolidated, unitary, combined or similar Tax
+Return except to the extent directly related to RSUI.
+
+                  "Business Day" means a Monday, Tuesday, Wednesday, Thursday or
+Friday on which banking institutions in the State of New York are not authorized
+or obligated by Applicable Law to close.
+
+                  "Closing" shall mean the closing of the transactions
+contemplated under the Acquisition Agreement.
+
+                  "Closing Date" shall mean the date of the Closing.
+
+                  "Computer Systems" means the PODS relational database, the
+ENTRII: Premium registration system (electronic user interface populated by
+B-File database) and other computer systems RSUI utilizes, and utilized
+immediately prior to the Closing, to perform the Administrative Services.
+
+                  "Damages" shall have the meaning set forth in the RSLIC Quota
+Share Reinsurance Agreement.
+
+                  "Effective Date" shall have the meaning set forth in the RSLIC
+Quota Share Reinsurance Agreement.
+
+                  "Excluded Liabilities" shall have the meaning set forth in the
+RSLIC Quota Share Reinsurance Agreement.
+
+                  "Governmental Entities" shall have the meaning set forth in
+the RSLIC Quota Share Reinsurance Agreement.
+
+                  "Material Regulatory Proceeding" shall have the meaning set
+forth in Section 10.1(c) hereof.
+
+                                       3
+
+<PAGE>
+
+                  "90-Day Treasury Rate" means the annual yield rate, as of any
+given date, of actively traded U.S. Treasury securities having remaining
+duration to maturity of three months, as such rate is published under "Treasury
+Constant Maturities" in Federal Reserve Statistical Release H.15(519).
+
+                  "Person" shall have the meaning set forth in the RSLIC Quota
+Share Reinsurance Agreement.
+
+                  "Policyholder" shall have the meaning set forth in the RSLIC
+Quota Share Reinsurance Agreement.
+
+                  "Producers" shall mean any reinsurance intermediary, agent or
+other producer of Insurer.
+
+                  "Quota Share Reinsurance Agreements" shall mean, collectively,
+the RIC Quota Share Reinsurance Agreement, the RSLIC Quota Share Reinsurance
+Agreement and the Landmark Quota Share Reinsurance Agreement, as such terms are
+defined in the Acquisition Agreement.
+
+                  "Reinsured Contracts" shall have the meaning set forth in the
+RSLIC Quota Share Reinsurance Agreement.
+
+                  "Reinsured Liabilities" shall have the meaning set forth in
+the RSLIC Quota Share Reinsurance Agreement.
+
+                  "Reinsurer" shall have the meaning set forth in the recitals.
+
+                  "Representative" shall mean, with respect to a particular
+Person, any director, officer, employee, agent, consultant, advisor, or other
+representative of such Person, including legal counsel accounts and financial
+advisors.
+
+                  "Royal" shall have the meaning set forth in the recitals.
+
+                  "RSUI" shall have the meaning set forth in the recitals.
+
+                  "RSUI Group" shall have the meaning set forth in the recitals.
+
+                  "RSUI-Produced Insurance Contracts" shall have the meaning set
+forth in the RSLIC Quota Share Reinsurance Agreement.
+
+                  "Subsidiary" of any Person means another Person, an amount of
+the voting securities, other voting ownership or voting partnership interests of
+which is sufficient to elect at least a majority of its Board of Directors or
+other governing body (or, if there are no such voting interests, 50% or more of
+the equity interests of which) is owned directly or indirectly by such first
+Person.
+
+                                       4
+
+<PAGE>
+
+                  "Transition Services Agreement" shall mean the Transition
+Services Agreement entered into by and between Royal and AIHL on the Closing
+Date pursuant to the Acquisition Agreement.
+
+                                   ARTICLE II
+
+                       APPOINTMENT; PERFORMANCE STANDARDS
+
+                  Section 2.1 Appointment.
+
+                  (a)      Insurer hereby appoints Administrator as its agent
+and attorney-in-fact to provide the Administrative Services and other services
+specified herein with respect to the Reinsured Contracts and the Reinsured
+Liabilities on the terms, and subject to the limitations and conditions, set
+forth in this RSLIC Administrative Services Agreement, and Administrator hereby
+accepts such appointment and agrees to perform such Administrative Services on
+behalf of and in the name of Insurer in accordance with the terms and conditions
+of this RSLIC Administrative Services Agreement.
+
+                  (b)      Administrator represents that it has or will obtain
+and maintain any and all licenses required under Applicable Law to perform its
+obligations under this RSLIC Administrative Services Agreement.
+
+                  (c)      The intention of the parties hereto is that
+Administrator shall perform all Administrative Services in such a manner as to
+minimize the involvement of Insurer and its Affiliates, subject to the
+requirements of any Applicable Law that require that specific actions be taken
+by Insurer without the Administrator acting on its behalf.
+
+                  (d)      Administrator's access to the Computer Systems
+controlled by Insurer that are necessary for it to provide the Administrative
+Services and other services specified herein shall be governed by the
+Administrative Services Intellectual Property License Agreement, the form of
+which is attached hereto as EXHIBIT A (the "Administrative Services Intellectual
+Property License Agreement").
+
+                  Section 2.2 Standards.
+
+                  (a)      Administrator acknowledges that the performance of
+the Administrative Services in an accurate and timely manner is of paramount
+importance to Insurer. Subject to the provisions of this RSLIC Administrative
+Services Agreement, Administrator agrees that in providing the Administrative
+Services: (i) it shall conduct itself in accordance with all administrative and
+claims handling standards utilized by leading property and casualty insurers,
+which standards are at least equal to the standards pursuant to which RSUI
+administered the RSUI-Produced Insurance Contracts and the related liabilities
+immediately prior to the Effective Date; (ii) it shall comply in all material
+respects with all Applicable Laws relating to the Reinsured Contracts and the
+Reinsured Liabilities and to the conduct of the activities contemplated hereby;
+and (iii) it shall comply with the terms of the Reinsured Contracts.
+
+                                       5
+
+<PAGE>
+
+                  (b)      For the duration of this RSLIC Administrative
+Services Agreement, Administrator hereby covenants that it will employ and
+retain staff with the experience, skill and expertise to perform the
+Administrative Services the Administrator is obligated to perform hereunder in a
+manner consistent with the standards set forth in Section 2.2(a) hereof. In
+connection therewith, Administrator shall have suitable business continuity
+plans in place.
+
+                  (c)      Administrator shall in all respects administer the
+Reinsured Contracts in a manner which would not adversely affect the reputation
+of the Insurer.
+
+                  (d)      Notwithstanding anything in this RSLIC Administrative
+Services Agreement to the contrary, Insurer shall retain the authority to make
+all final decisions with respect to the administration of the Reinsured
+Contracts, and shall consult with the Administrator of its intention to do so.
+
+                                  ARTICLE III
+
+                    SERVICES TO BE PROVIDED BY ADMINISTRATOR
+
+                  Section 3.1 Administrative Services. While this RSLIC
+Administrative Services Agreement is in effect, Administrator shall provide the
+Administrative Services, including, but not limited to, all services currently
+provided and all services currently performed by RSUI and/or Insurer or required
+to be provided by Applicable Law or the Reinsured Contracts, and generally, any
+and all other services incidental to the administration of the Reinsured
+Contracts and the Reinsured Liabilities (the "Administrative Services").
+
+                  Section 3.2 Administration. Administrator shall continue, for
+the duration of this RSLIC Administrative Services Agreement, to administer the
+claims, reinsurance recoverables and premium activity relating to the Reinsured
+Contracts on RSUI's existing systems and to prepare and deliver reports relating
+to such administration to Insurer's Computer Systems in substantially the same
+manner as RSUI has been doing prior to the Effective Date and as provided in the
+Administrative Services Intellectual Property License Agreement.
+
+                                   ARTICLE IV
+
+                    REGULATORY COMPLIANCE AND CUSTOMER ISSUES
+
+                  Section 4.1 Certain Regulatory Filings. Administrator and the
+Reinsurer shall use best efforts to obtain all policy form, rate and rule
+filings necessary to enable Reinsurer or an Affiliate to issue in Reinsurer's or
+such Affiliate's own name contracts or policies similar to the Reinsured
+Contracts as soon as practicable after the Effective Date.
+
+                  Section 4.2 Changes in Applicable Laws. From time to time,
+Administrator and Insurer shall share with each other information they have in
+their
+
+                                       6
+
+<PAGE>
+
+possession relating to material changes in Applicable Laws in order to ensure
+the Reinsured Contracts are administered in compliance with Applicable Laws.
+
+                  Section 4.3 Inquiries, Notification and Customer Complaints.
+Administrator shall promptly notify Insurer regarding any inquiries or
+notifications received from Governmental Entities and any inquiries and
+complaints received from Producers or other customers with respect to the
+Reinsured Contracts and the Reinsured Liabilities.
+
+                  Section 4.4 Management of Customer Relationships. Each of
+Administrator and Insurer shall appoint one senior executive whose
+responsibility shall be to work with the other party in overseeing that the
+standards and the provisions set forth in this Article IV and elsewhere are
+complied with, in particular with respect to issues involving management of
+customer relationships.
+
+                  Section 4.5 Maintenance of Treaty Reinsurance.
+
+                  (a)      Each of Administrator and Reinsurer shall maintain
+minimum levels of treaty reinsurance as set forth in SCHEDULE 4.5(a) hereto.
+
+                  (b)      Commencing with any renewal of the treaties set forth
+in Schedule 4.5(a), Reinsurer shall purchase a level of catastrophe reinsurance
+protection which would protect Reinsurer's surplus loss to no more than 10%
+arising out of a single catastrophe on a one in a 250 year modeling event
+standard.
+
+                  (c)      All third party reinsurance with respect to the
+Reinsured Contracts placed by Administrator in the name of Insurer must comply
+with the RSA Reinsurance Security Guidelines attached hereto as EXHIBIT B.
+
+                                    ARTICLE V
+
+                                    AUTHORITY
+
+                  Section 5.1 Authority
+
+                  (a)      Insurer agrees that, on and after the Effective Date,
+Administrator shall have the authority to issue the Reinsured Contracts in
+Insurer's name for the benefit of the Reinsurer; provided, however, except as
+otherwise required by Applicable Laws, Administrator shall have no authority to
+issue the Reinsured Contracts or take other actions authorized under this
+Section 5.1 in Insurer's name in any state on or after the earlier of (i) thirty
+(30) days after the date the Administrator or an Affiliate of the Administrator
+obtains all policy form, rate and rule filings necessary to enable the Reinsurer
+or an Affiliate to issue in Reinsurer's or such Affiliate's own name contracts
+or policies similar to the RSUI-Produced Insurance Contracts in a particular
+state, and (ii) one (1) year after the Effective Date; provided, further,
+however, with respect to the Reinsured Contracts issued in Texas, Insurer agrees
+that Administrator shall have the authority to issue Reinsured Contracts in
+Insurer's name for the benefit of Reinsurer until
+
+                                       7
+
+<PAGE>
+
+December 31, 2004, or such earlier date as is agreed to by the parties in the
+event that Landmark American Insurance Company is authorized to issue policies
+on an excess or surplus lines basis in Texas prior to December 31, 2004.
+
+                  (b)      Administrator acknowledges that its authority to
+issue the Reinsured Contracts in Insurer's name pursuant to this Section 5.1 is
+subject to the following additional limitations: (i) Administrator shall not
+assign or delegate its authority to a third party other than the Reinsurer; (ii)
+Administrator shall not issue any Reinsured Contracts outside the United States,
+(iii) the Reinsured Contracts shall be limited to the type of business
+comprising the RSUI-Produced Insurance Contracts as of the date hereof; (iv) in
+issuing the Reinsured Contracts, Administrator shall observe similar policy
+wordings and policy limits found in the RSUI-Produced Insurance Contracts; (v)
+the aggregate gross written premiums attributable to the business ceded under
+the Quota Share Reinsurance Agreements collectively (exclusive of the unearned
+premium attributable to the Assumed Contracts under the respective Quota Share
+Reinsurance Agreement as of the Effective Date) shall not exceed one billion
+dollars in the aggregate; provided, however, the aggregate gross written
+premiums attributable to the business ceded under the RSLIC Quota Share
+Reinsurance Agreement solely (exclusive of the unearned premium attributable to
+the Assumed Contracts under the RSLIC Quota Share Reinsurance Agreement as of
+the Effective Date) shall not exceed five hundred million dollars; and (vi) any
+other limitations as may be contained in the Managing General Agency Agreement,
+dated as of the Closing Date, by and between Insurer and Administrator.
+
+                  Section 5.2 Administration of Excluded Liabilities.
+
+                  (a)      Insurer shall retain liability and administrative
+responsibility for all Excluded Liabilities. Insurer shall reimburse
+Administrator for all reasonable out-of-pocket costs and expenses incurred by
+Administrator in connection with the administration of Excluded Liabilities.
+
+                  (b)      With respect to any claims (including claims for
+reinsurance recoveries) presented in which both Reinsured Liabilities and
+Excluded Liabilities are alleged and where the predominant claim activities and
+costs relate to Excluded Liabilities, Administrator, on behalf of Reinsurer,
+shall notify Insurer and Insurer will either assume the administration of such
+claim activities or fund Administrator's out-of-pocket costs and expenses of
+such claim activities to the extent they relate to Excluded Liabilities.
+
+                  (c)      In the event claims are presented in connection with
+Reinsured Liabilities, and it is in question whether a Reinsured Liability or an
+Excluded Liability is at issue, Administrator, on behalf of Reinsurer, shall
+defend or prosecute such claim and Insurer and Administrator shall resolve the
+responsibility for any amount of loss, allocated loss expense or other costs and
+expenses pursuant to the provisions of the RSLIC Quota Share Reinsurance
+Agreement. In the event that, during the course of a claim, it becomes clear
+that the claim (or a portion thereof) is an Excluded Liability, Administrator
+shall notify Insurer and Insurer will either assume the administration of
+
+                                       8
+<PAGE>
+
+such claim (or the Excluded Liability portion thereof) or fund the out-of-pocket
+costs and expenses of such claim activities to the extent they relate to
+Excluded Liabilities.
+
+                  (d)      In the event that a claim (including claims for
+reinsurance recoveries) presented in connection with a Reinsured Contract is not
+a Reinsured Liability or is an Excluded Liability, Insurer shall have the sole
+responsibility to defend or prosecute such claim.
+
+                  (e)      With respect to those matters described in (b), (c)
+and (d) of this Section 5.2, the party administering the claim shall be provided
+the full cooperation of the other party as well as the Reinsurer and shall be
+responsible for reimbursing such other party for any out-of-pocket costs and
+expenses incurred by such party in providing such cooperation.
+
+                  Section 5.3 Marketing and Advertising. Subject to the terms of
+the Transitional Trademark License Agreement, Insurer hereby grants
+Administrator and the Reinsurer the authority to prepare, print, publish and
+distribute descriptive brochures and other promotional material related to the
+Reinsured Contracts and to engage in or direct all other marketing activities
+related thereto.
+
+                                   ARTICLE VI
+
+                      OTHER SERVICES AND FEES FOR SERVICES
+
+                  Section 6.1 Additional Services. If Administrator or Insurer,
+as the case may be, requires from the other party services to be provided with
+respect to the Reinsured Contracts which are not otherwise contemplated under
+this RSLIC Administrative Services Agreement, the parties shall negotiate in
+good faith to reach a mutually acceptable arrangement with respect to the
+provision of such services. Each party shall reasonably compensate such other
+party for such additional services provided by such other party.
+
+                  Section 6.2 Fee for Services. Except as otherwise specifically
+provided for by this RSLIC Administrative Services Agreement, Administrator
+shall provide Administrative Services pursuant to this RSLIC Administrative
+Services Agreement at its own expense (or at the expense of the Reinsurer),
+subject to the other terms in this RSLIC Administrative Services Agreement, in
+consideration for the promises made by Insurer under this RSLIC Administrative
+Services Agreement, the Acquisition Agreement, the RSLIC Quota Share Reinsurance
+Agreement, the Transition Services Agreement and the other Ancillary Agreements
+(as such term is defined in the Acquisition Agreement) to which it is a party,
+and shall not receive any separate fee from Insurer for the provision of
+Administrative Services.
+
+                  Section 6.3 Services Provided by Insurer. Insurer agrees to
+promptly notify Administrator with respect to any inquiries or notifications
+received from Governmental Entities or from Producers, including, without
+limitation, inquiries regarding consumer inquiries and complaints, market
+conduct exams, zone exams,
+
+                                       9
+
+<PAGE>
+
+summons and complaints, subpoenas and Internal Revenue Service inquiries
+relating to the Reinsured Contracts and the Reinsured Liabilities.
+
+                                   ARTICLE VII
+
+                    REPORTS, ELECTRONIC PREMIUM AND LOSS DATA
+
+                  Section 7.1 Reports, Electronic Premium and Loss Data.
+
+                  (a)      Administrator shall collect, administer and provide
+to Insurer all necessary quality information and data for Insurer to continue to
+maintain financial and statistical data with respect to the Reinsured Contracts
+and Reinsured Liabilities in order to permit Insurer to timely make all required
+regulatory, statistical, and financial reports and filings. All information and
+data provided by Administrator to Insurer pursuant to this Article VII will be
+provided as reasonably requested by Insurer. Without limiting the generality of
+the foregoing, Administrator shall prepare all reports needed by Insurer or the
+Seller in connection with the Reinsured Liabilities and the Reinsured Contracts
+to enable Insurer or the Seller to comply with Applicable Law and any and all
+reporting or filing requirements. Any monthly, quarterly or year-end reports
+required to be prepared by Administrator shall be prepared on a timely basis in
+order for Insurer or the Seller to comply with any filing deadlines required.
+
+                  (b)      During the term of this RSLIC Administrative Services
+Agreement, Administrator shall transmit to Insurer, within thirty (30) days
+following the end of each calendar month, a summary report in form and substance
+as set forth in EXHIBIT C hereto, of all activity relating to the Reinsured
+Contracts and Reinsured Liabilities for the period reported. The report shall
+include, but not be limited to, the amount of premiums, commissions, related
+expenses, reserves and paid losses, as applicable; provided, however, that
+notwithstanding anything herein to the contrary, in no event shall such reports
+be deemed to indicate that the Administrator or the Reinsurer has any obligation
+to pay to the Insurer any amount in respect of Excluded Liabilities which may be
+reflected on such reports.
+
+                  Section 7.2 Payment of Amounts. Except to the extent that this
+RSLIC Administrative Services Agreement or the RSLIC Quota Share Reinsurance
+Agreement provides otherwise and regardless of whether any amounts due to either
+party are being disputed pursuant to the provisions of Article XV hereof, all
+amounts due either party under this RSLIC Administrative Services Agreement
+shall be paid on or before the thirtieth (30th) Business Days of delivery of
+such report, and any amount not paid on or before the thirtieth (30th) Business
+Day period shall bear simple interest at the 90-Day Treasury Rate from the
+twentieth Business Day until the date of payment.
+
+                                       10
+
+<PAGE>
+
+                                  ARTICLE VIII
+
+                        BOOKS AND RECORDS; BANK ACCOUNTS
+
+                  Section 8.1 Access to Books and Records.
+
+                  (a)      To the extent permitted by Applicable Law, from the
+date hereof until the date on which Insurer has fulfilled all of its obligations
+to Administrator under this RSLIC Administrative Services Agreement, and at any
+time (without limitation) as may be required in Administrator's reasonable
+judgment in order for Administrator to comply with any Applicable Law or to
+perform its obligations or responsibilities under this RSLIC Administrative
+Services Agreement, Administrator and its Representatives may from time to time
+reasonably request, and Insurer shall provide, at reasonable times during normal
+business hours, full and open access to examine all Books and Records under the
+control of Insurer pertaining to the Reinsured Contracts, the Reinsured
+Liabilities and the RSUI-Produced Insurance Contracts, and services to be
+provided under this RSLIC Administrative Services Agreement, and to discuss any
+matters relating to the Reinsured Contracts or the Reinsured Liabilities and
+services to be provided under this RSLIC Administrative Services Agreement with
+the employees and agents of Insurer who are familiar therewith, so that
+Administrator shall have sufficient opportunity to make whatever investigation
+it shall deem necessary and desirable in connection with the transactions
+contemplated by this RSLIC Administrative Services Agreement. The Administrator
+shall also have reasonable access to Insurer's Computer Systems and accounting
+systems for such purposes. Such access and opportunity shall be exercised by
+Administrator and such Representatives in a manner that shall not interfere
+unreasonably with the operations of Insurer. Such access shall include the right
+of Administrator to make and retain copies of any Books and Records relating to
+the Reinsured Contracts or the Reinsured Liabilities to the extent that
+Administrator reasonably determines that it requires copies of any such Books
+and Records in order to carry out the transactions contemplated by this RSLIC
+Administrative Services Agreement or for any legitimate business purposes
+related to this RSLIC Administrative Services Agreement.
+
+                  (b)      To the extent permitted by Applicable Law, from the
+date hereof until the date on which Administrator has fulfilled all of its
+obligations to perform services for Insurer under this RSLIC Administrative
+Services Agreement, and at any time (without limitation) as may be required in
+the reasonable judgment of Insurer for Insurer to comply with any Applicable Law
+or to perform its obligations or responsibilities under this RSLIC
+Administrative Services Agreement, Insurer and its Representatives may from time
+to time reasonably request, and Administrator shall provide, at reasonable times
+during normal business hours, full and open access to examine the Books and
+Records of Administrator and of its independent auditor pertaining to the
+Reinsured Contracts, the Reinsured Liabilities and the RSUI-Produced Insurance
+Contracts, and to the services to be provided under this RSLIC Administrative
+Services Agreement (including, but not limited to, the Books and Records
+transferred to Administrator pursuant to this Section 8.1 and still then
+retained by Administrator) and to discuss such Reinsured Contracts, Reinsured
+Liabilities and services with the employees and agents of Administrator who are
+familiar therewith, so that Insurer shall have
+
+                                       11
+
+<PAGE>
+
+sufficient opportunity to make whatever investigation it shall deem necessary
+and desirable in connection with the transactions contemplated by this RSLIC
+Administrative Services Agreement. Such access and opportunity shall be
+exercised by Insurer and such Representatives in a manner that shall not
+interfere unreasonably with the operations of Administrator. Such access shall
+include the right of Insurer to make and retain copies of any Books and Records
+relating to the Reinsured Contracts and Reinsured Liabilities to the extent that
+Insurer reasonably determines that it requires copies of any such Books and
+Records in order to carry out the transactions contemplated by this RSLIC
+Administrative Services Agreement or for any legitimate business purposes
+related to this RSLIC Administrative Services Agreement.
+
+                  (c)      During the term of this RSLIC Administrative Services
+Agreement, Administrator shall retain all Books and Records relating to the
+Reinsured Contracts and Reinsured Liabilities transferred by Insurer or produced
+by Administrator on behalf of Insurer to the extent such Books and Records are
+required by Applicable Law to be retained by either Administrator or Insurer,
+but in any case, for at least ten (10) years after termination of the Reinsured
+Contracts applicable to such Books and Records.
+
+                  (d)      Each party hereto shall pay all storage and related
+expenses associated with any Books and Records relating to the Reinsured
+Contracts and Reinsured Liabilities, and copies thereof, that it retains in its
+possession.
+
+                  (e)      Administrator shall provide security for the Books
+and Records that are in its possession. Administrator shall comply with all
+Applicable Laws, including, without limitation, privacy laws applicable to the
+Insurer, in connection with all such data and Books and Records. Administrator
+shall cooperate with any regulatory authority having jurisdiction over Insurer
+in providing access to such Books and Records.
+
+                  (f)      Following expiration of this RSLIC Administrative
+Services Agreement other than by reason of Insurer's termination pursuant to
+Section 11.2 hereof, all Books and Records pertaining to the Reinsured Contracts
+and Reinsured Liabilities shall be the sole property of Reinsurer, unless
+otherwise provided by Applicable Law or herein and provided that Insurer shall
+have full access to such Books and Records to the extent required to respond to
+regulatory, statistical, tax or similar inquiries or investigations and for
+Insurer to defend any claim against it.
+
+                  Section 8.2 Bank Accounts
+
+                  (a)      During the term of this RSLIC Administrative Services
+Agreement, Administrator may establish and maintain accounts with banking
+institutions to provide the Administrative Services (the "Bank Accounts"). The
+Administrator shall have the exclusive authority over the Bank Accounts
+including, within reason, the exclusive authority to (i) open the Bank Accounts
+in the name of Insurer, (ii) designate the authorized signatories on the Bank
+Accounts, (iii) issue drafts on and make deposits in the Bank Accounts in the
+name of Insurer, and (iv) make withdrawals from the Bank Accounts. The
+Administrator agrees to limit transactions using these Bank Accounts to
+
+                                       12
+
+<PAGE>
+
+only those transactions that pertain to the RSLIC Quota Share Reinsurance
+Agreement. Insurer shall do all things reasonably necessary to enable
+Administrator to open and maintain the Bank Accounts including, without
+limitation, executing and delivering such depository resolutions and other
+documents as may be requested from time to time by the banking institutions.
+Insurer agrees that without Administrator's prior written consent or as may be
+required by Applicable Law or regulatory authorization it shall not make any
+changes to the authorized signatories on the Bank Accounts or attempt to
+withdraw any funds therefrom. Administrator and the Reinsurer will have the sole
+obligation to the Bank Accounts and shall own all funds deposited in the Bank
+Accounts. Administrator shall be responsible for all abandoned property laws
+requirements and obligations, and shall pay all fees and charges made in
+connection with such accounts.
+
+                  (b)      Notwithstanding any provision of this RSLIC
+Administrative Services Agreement to the contrary, the Administrator shall have
+no authority to borrow money or incur any indebtedness on behalf of the Insurer
+or permit any Bank Accounts to become overdrawn.
+
+                                   ARTICLE IX
+
+                      INABILITY TO PERFORM SERVICES; ERRORS
+
+                  Section 9.1 Inability to Perform Services. In the event that
+Administrator shall be unable to perform any Administrative Service for a period
+that could reasonably be expected to exceed ninety (90) days or such shorter
+period as may be required by Applicable Law or the Reinsured Contracts,
+Administrator and Insurer shall mutually agree on alternative means of providing
+such services. If alternative means for the provision of the Administrative
+Services cannot be agreed upon by the parties, Insurer may procure such
+Administrative Services for the Reinsured Contracts and Reinsured Liabilities by
+commercially reasonable means. Administrator and the Reinsurer shall be solely
+responsible for all costs incurred in restoring Administrative Services which
+have not been provided due to its failure to adhere to its obligations under
+this RSLIC Administrative Services Agreement.
+
+                  Section 9.2 Errors. Administrator shall, at its own expense,
+correct any errors in the Administrative Services caused by it within a
+reasonable time (not to exceed thirty (30) days) after receiving written notice
+thereof from Insurer or otherwise.
+
+                                   ARTICLE X
+
+                                  LEGAL ACTIONS
+
+                  Section 10.1 Regulatory Proceedings.
+
+                  (a)      If Insurer or Administrator receive notice of, or
+otherwise become aware of, any regulatory investigation or proceeding relating
+to the Reinsured Contracts or the Reinsured Liabilities, Insurer or
+Administrator, as applicable, shall promptly notify the other party thereof.
+Subject to the provisions of Section 10.1(c), Administrator shall
+
+                                       13
+
+<PAGE>
+
+have the authority to respond to and resolve all regulatory matters and
+regulatory investigations and proceedings relating to the Reinsured Contracts
+and Reinsured Liabilities to the extent the resolution is limited to the
+Reinsured Contracts or Reinsured Liabilities.
+
+                  (b)      Subject to the provisions of Section 10.1(c),
+Administrator will promptly respond on behalf of Insurer to inquiries received
+from Governmental Entities and Administrator shall conduct whatever
+investigation is reasonable under the circumstances in order to respond to such
+inquiries. Administrator shall promptly notify in writing Insurer of any inquiry
+to which Administrator determines that it will not provide a response in order
+to permit the Insurer to timely respond.
+
+                  (c)      Notwithstanding anything contained herein to the
+contrary, the parties shall mutually agree to an appropriate response, including
+which party should respond, to any regulatory investigation or proceeding
+relating to the Reinsured Contracts or the Reinsured Liabilities which could
+reasonably be expected to have meaningful adverse effect on any business of the
+Insurer other than the Reinsured Contracts, or which could meaningfully and
+adversely interfere with the business, assets, liabilities, obligations,
+reputation, license, permit, financial condition or results of operations of
+Insurer or any of its Affiliates (a "Material Regulatory Proceeding"), and the
+parties hereby agree to cooperate and coordinate in resolving any and all
+Material Regulatory Proceedings. The parties recognize that, as the issuing
+company, Insurer retains ultimate responsibility for resolution of the matters
+contemplated by this Section 10.1. Notwithstanding anything to the contrary
+contained in this RSLIC Administrative Services Agreement, neither Insurer nor
+Administrator shall have the authority to institute, prosecute, defend or
+maintain any legal or regulatory proceedings on behalf of the other party
+without the prior written consent of such other party except to the extent
+expressly provided for by this RSLIC Administrative Services Agreement.
+
+                  Section 10.2 Compliance of Reinsured Contracts. Insurer,
+Administrator and Reinsurer agree to cooperate with each other and the various
+Governmental Entities in maintaining the Reinsured Contracts in compliance in
+all material respects with Applicable Laws. If Administrator determines that any
+of the Reinsured Contracts are materially not in compliance with such Applicable
+Laws, Administrator shall so notify in writing Insurer and take whatever action
+is reasonably necessary to bring such Reinsured Contracts into compliance with
+Applicable Law. Administrator shall prepare any necessary amendments to such
+Reinsured Contracts and shall prepare any necessary filings for the purpose of
+obtaining governmental authority approval for such amendments.
+
+                  Section 10.3 Defense of Litigation. Administrator and
+Reinsurer shall defend, at their own expense and in the name of Insurer when
+necessary, any action brought in connection with any Reinsured Contract or
+relating to any Reinsured Liability; provided, however, Insurer shall have the
+right, at its own expense, to engage its own separate legal representation and
+to fully participate in the defense of any litigation with respect to the
+Reinsured Contracts or the Reinsured Liabilities in which Insurer is named as a
+party without waiving any rights to indemnification it may have under Article
+XIII
+
+                                       14
+
+<PAGE>
+
+hereof; provided, however, that Administrator and Reinsurer shall have the
+exclusive authority to control such litigation, and to settle any litigation if
+(i) Administrator and Reinsurer pay all settlement amounts with respect thereto,
+(ii) the settlement does not involve any restriction or condition which could
+reasonably be expected to have an adverse effect on Insurer's business other
+than the Reinsured Contracts, and (iii) Administrator or Reinsurer obtains a
+complete release for Insurer, its officers, directors, Representatives and
+Affiliates with respect to such litigation.
+
+                  Section 10.4 Communications Regarding Certain Matters. Insurer
+shall promptly (i) notify Administrator in writing if it receives any
+information or correspondence with respect to any suit, claim, action or
+proceeding relating to the Reinsured Contracts or the Reinsured Liabilities, or
+any written communication threatening any of the foregoing and (ii) forward to
+Administrator any documents it receives relating to any of the matters referred
+to in clause (i) of this Section 10.4.
+
+                                   ARTICLE XI
+
+                              DURATION; TERMINATION
+
+                  Section 11.1 Duration. This RSLIC Administrative Services
+Agreement shall become effective as of the Effective Date and continue until a
+date which is the earlier of (A) a date which is the later of (i) the date on
+which none of the Reinsured Contracts remains in force; (ii) the date on which
+Insurer has no further Reinsured Liabilities; or (iii) the date on which no
+further Administrative Services are required, or (B) the date on which this
+RSLIC Administrative Services Agreement is terminated according to the
+provisions of Section 11.2 hereof.
+
+                  Section 11.2 Termination.
+
+                  (a)      This RSLIC Administrative Services Agreement may be
+terminated at any time upon the mutual written consent of the parties hereto,
+which writing shall state the effective date and relevant terms of termination.
+
+                  (b)      This RSLIC Administrative Services Agreement is
+subject to immediate termination at the option of Insurer, upon written notice
+to Administrator upon the issuance of an order of liquidation or rehabilitation
+against the Reinsurer or bankruptcy or insolvency proceedings against the
+Administrator; provided, however, that in the event an order of liquidation or
+rehabilitation is issued against the Reinsurer, before Insurer may terminate
+this RSLIC Administrative Services Agreement, Administrator or Reinsurer shall
+have the opportunity to contest or appeal such order for a period of sixty (60)
+days from the date of issuance.
+
+                  (c)      Upon termination of this RSLIC Administrative
+Services Agreement pursuant to Section 11.2(a) or (b) hereof, Administrator and
+Reinsurer shall cooperate fully in the prompt transfer of the applicable
+Administrative Services and Books and Records maintained by Administrator
+pursuant to Section 8.1 hereof (or, where appropriate, copies thereof) to
+Insurer or Insurer's designee, so that Insurer or its
+
+                                       15
+
+<PAGE>
+
+designee shall be able to perform the applicable Administrative Services without
+interruption following termination of this RSLIC Administrative Services
+Agreement.
+
+                  (d)      Upon any termination of this Administrative Services
+Agreement, each party shall retain its right to bring actions for, and receive
+damages to, which it may be entitled under Applicable Law.
+
+                                  ARTICLE XII
+
+                                 CONFIDENTIALITY
+
+                  Section 12.1 Use of Confidential Information. Insurer,
+Reinsurer and Administrator acknowledge that they will have access to
+confidential and proprietary information concerning the other party and its
+businesses, which information is not readily available to the public, and
+acknowledge that Insurer, Reinsurer and Administrator have taken and will
+continue to take reasonable actions to ensure such information is not made
+available to the public. Insurer, Reinsurer and Administrator further agree that
+they will not at any time (during the term hereof or thereafter) disclose to any
+Person (except Insurer, Reinsurer or Administrator and their Affiliates and the
+officers, directors, employees, agents and Representatives of Insurer, Reinsurer
+and Administrator and their Affiliates who require such information in order to
+perform their duties in connection with the services provided hereunder),
+directly or indirectly, or make any use of, for any purpose other than those
+contemplated by the Acquisition Agreement, this RSLIC Administrative Services
+Agreement or the RSLIC Quota Share Reinsurance Agreement, any information or
+trade secrets relating to the Reinsured Contracts or the Reinsured Liabilities
+or the business affairs of Insurer, Reinsurer or Administrator, including the
+identity of and/or the compensation arrangements with, any Affiliates and
+Subsidiaries of Insurer, Reinsurer and Administrator, so long as such
+information remains confidential.
+
+                  Section 12.2 Confidentiality of Individuals. Information that
+identifies an individual covered under one of the Reinsured Contracts may be
+confidential. Reinsurer and Administrator shall take all reasonable precautions
+to prevent disclosure or use of information identifying individuals covered
+under such Reinsured Contracts for a purpose unrelated to the performance of
+this RSLIC Administrative Services Agreement. Reinsurer and Administrator shall
+comply with all Applicable Laws and regulations, as in effect on the date hereof
+or as hereafter adopted or amended. With respect to Reinsured Contracts
+reinsured by Reinsurer, Insurer shall take all reasonable precautions to prevent
+disclosure or use of information identifying individuals for a purpose unrelated
+to the performance of this RSLIC Administrative Services Agreement.
+
+                  Section 12.3 Disclosure. Reinsurer, Administrator or Insurer
+may disclose confidential information in the following circumstances (or as
+otherwise provided by the provisions of this RSLIC Administrative Services
+Agreement):
+
+                           (i)      in response to a court order or formal
+         discovery request after notice to the other party (to the extent such
+         notice is
+
+                                       16
+
+<PAGE>
+
+         reasonably practicable); provided, however, that such disclosure shall
+         be limited only to the extent that is required by such court order or
+         formal disclosure request;
+
+                           (ii)     if a proper request is made by any
+         regulatory authority after notice to the other party (to the extent
+         such notice is reasonably practicable); provided, however, that such
+         disclosure shall be limited only to the extent that is required by such
+         regulatory authority;
+
+                           (iii)    at the proper request of Insurer or
+         Policyholder or his/her legal representative; provided, however, that
+         such disclosure shall be limited only to the extent that is reasonably
+         necessary to satisfy such a request; or
+
+                           (iv)     as otherwise required by Applicable Law or
+         the rules of any relevant stock exchange.
+
+                                  ARTICLE XIII
+
+                                 INDEMNIFICATION
+
+                  Section 13.1 Indemnification by Insurer. Insurer hereby
+indemnifies Administrator and its Affiliates and its and their respective
+officers, directors, employees, agents and Representatives against, and agrees
+to hold each of them harmless from any and all Damages incurred or suffered by
+any of them arising out of or relating to, (i) any Excluded Liabilities; (ii)
+any breach or nonfulfillment by Insurer of, or any failure by Insurer to
+perform, any of the covenants, terms or conditions of, or any duties or
+obligations under, this RSLIC Administrative Services Agreement; and (iii) any
+enforcement of this indemnity.
+
+                  Section 13.2 Indemnification by Administrator. Administrator
+hereby indemnifies Insurer and its Affiliates and its and their respective
+officers, directors, employees, agents and Representatives against, and agrees
+to hold each of them harmless from any and all Damages incurred or suffered by
+any of them arising out of or relating to, (i) any Reinsured Liabilities; (ii)
+any breach or nonfulfillment by Administrator of, or any failure by
+Administrator to perform, any of the covenants, terms or conditions of, or any
+duties or obligations under, this RSLIC Administrative Services Agreement; and
+(iii) any enforcement of this indemnity.
+
+                  Section 13.3 Indemnification Procedure. In the event either
+Insurer or Administrator shall have a claim for indemnity against the other
+party under the terms of this RSLIC Administrative Services Agreement, the
+parties shall follow the procedures set forth in Article XV of the Acquisition
+Agreement.
+
+                  Section 13.4 Relationship to RSLIC Quota Share Reinsurance
+Agreement. Nothing contained in this Article XIII is intended to supersede any
+provisions of the RSLIC Quota Share Reinsurance Agreement.
+
+                                       17
+
+<PAGE>
+
+                                   ARTICLE XIV
+
+                                   ARBITRATION
+
+                  Section 14.1 Arbitration. As a condition precedent to any
+cause of action, any and all disputes between Insurer on one side and
+Administrator and Reinsurer on the other side arising out of, relating to, or
+concerning this RSLIC Administrative Services Agreement, whether sounding in
+contract or tort and whether arising during or after termination of this RSLIC
+Administrative Services Agreement, including whether the dispute is subject to
+arbitration, shall be submitted to the decision of a board of arbitration
+composed of two arbitrators and an umpire ("Board") meeting at a site in
+Wilmington, Delaware. The arbitration shall be conducted under the Federal
+Arbitration Act and shall proceed as set forth below.
+
+                  Section 14.2 Notice of Arbitration. A notice requesting
+arbitration, or any other notice made in connection therewith, shall be in
+writing and shall be sent certified or registered mail, return receipt requested
+to the affected parties. The notice requesting arbitration shall state in
+particulars all issues to be resolved in the view of the claimant, shall appoint
+the arbitrator selected by the claimant and shall set a tentative date for the
+hearing, which date shall be no sooner than ninety (90) days and no later than
+one hundred fifty (150) days from the date that the notice requesting
+arbitration is mailed. Within thirty (30) days of receipt of claimant's notice,
+the respondent shall notify claimant of any additional issues to be resolved in
+the arbitration and of the name of its appointed arbitrator.
+
+                  Section 14.3 Arbitration Panel. Unless otherwise mutually
+agreed, the members of the Board shall be impartial and disinterested and shall
+be active or former executive officers of property-casualty insurance companies,
+reinsurance companies, or Lloyd's Underwriters or active or inactive lawyers
+with at least twenty (20) years of experience in insurance and reinsurance.
+Insurer and Administrator shall each appoint an arbitrator and the two (2)
+arbitrators shall choose an umpire before instituting the hearing. If the
+respondent fails to appoint its arbitrator within thirty (30) days after having
+received claimant's written request for arbitration, the claimant is authorized
+to and shall appoint the second arbitrator. If the two arbitrators fail to agree
+upon the appointment of an umpire within thirty (30) days after notification of
+the appointment of the second arbitrator, within ten (10) days thereof, the two
+(2) arbitrators shall request the American Arbitration Association ("AAA") to
+appoint an umpire for the arbitration with the qualifications set forth in this
+Article. If the AAA fails to name an umpire, either party may apply to the court
+named below to appoint an umpire with the above required qualifications. The
+umpire shall promptly notify in writing all parties to the arbitration of his
+selection and of the scheduled date for the hearing. Upon resignation or death
+of any member of the Board, a replacement shall be appointed in the same fashion
+as the resigning or deceased member was appointed.
+
+                  Section 14.4 Submission of Briefs. The claimant and respondent
+shall each submit initial briefs to the Board outlining the issues in dispute
+and the basis, authority and reasons for their respective positions within
+thirty (30) days of the date of
+
+                                       18
+
+<PAGE>
+
+notice of appointment of the umpire. The claimant and the respondent may submit
+reply briefs to the Board within ten (10) days after filing of the initial
+brief(s). Initial and reply briefs may be amended by the submitting party at any
+time, but not later than ten (10) days prior to the date of commencement of the
+arbitration hearing. Reasonable responses shall be allowed at the arbitration
+hearing to new material contained in any amendments filed to the briefs but not
+previously responded to.
+
+                  Section 14.5 Arbitration Board's Decision. The Board shall
+make a decision and award with regard to the terms of this RSLIC Administrative
+Services Agreement and the original intentions of the parties to the extent
+reasonably ascertainable. The Board's decision and award shall be in writing and
+shall state the factual and legal basis for the decision and award. The decision
+and award shall be based upon a hearing in which evidence shall be allowed and
+which the formal rules of evidence shall not strictly apply but in which cross
+examination and rebuttal shall be allowed. At its own election or at the request
+of the Board, either party may submit a post-hearing brief for consideration of
+the Board within twenty (20) days of the close of the hearing. The Board shall
+make its decision and award within thirty (30) days following the close of the
+hearing or the submission of post-hearing briefs, whichever is later, unless the
+parties consent to an extension. Every decision by the Board shall be by a
+majority of the members of the Board and each decision and award by the majority
+of the members of the Board shall be final and binding upon all parties to the
+proceeding.
+
+                  Section 14.6 Jurisdiction. Either party may apply to the
+Chancery Court of the State of Delaware for an order compelling arbitration or
+confirming any decision and the award; a judgment of that court shall thereupon
+be entered on any decision or award. If such an order is issued, the attorneys'
+fees of the party so applying and court costs will be paid by the party against
+whom confirmation is sought. The Board may award interest calculated from the
+date the Board determines that any amounts due the prevailing party should have
+been paid to the prevailing party.
+
+                  Section 14.7 Expenses. Each party shall bear the expense of
+the one arbitrator appointed by it and shall jointly and equally bear with the
+other party the expense of any stenographer requested, and of the umpire.
+
+                  Section 14.8 Production of Documents and Witnesses. Subject to
+customary and recognized legal rules of privilege, each party participating in
+the arbitration shall have the obligation to produce those documents and as
+witnesses to the arbitration those of its employees as any other participating
+party reasonably requests providing always that the same witnesses and documents
+be obtainable and relevant to the issues before the arbitration and not be
+unduly burdensome or excessive. The parties may mutually agree as to pre-hearing
+discovery prior to the arbitration hearing and in the absence of agreement, upon
+the request of any party, pre-hearing discovery may be conducted as the Board
+shall determine in its sole discretion to be in the interest of fairness, full
+disclosure, and a prompt hearing, decision and award by the Board. The Board
+shall be the final judge of the procedures of the Board, the conduct of the
+arbitration, of the rules of evidence, the rules of privilege and production and
+of excessiveness and relevancy of any witnesses and documents upon the petition
+of any
+
+                                       19
+
+<PAGE>
+
+participating party. To the extent permitted by law, the Board shall have
+the authority to issue subpoenas and other orders to enforce their decisions.
+
+                  Section 14.9 Relief Available. Nothing herein shall be
+construed to prevent any participating party from applying to the Chancery Court
+of the State of Delaware to issue a restraining order or other equitable relief
+to maintain the "status quo" of the parties participating in the arbitration
+pending the decision and award by the Board or to prevent any party from
+incurring irreparable harm or damage at any time prior to the decision and award
+of the Board. The Board shall also have the authority to issue interim decisions
+or awards in the interest of fairness, full disclosure, and a prompt and orderly
+hearing and decision and award by the Board.
+
+                  Section 14.10 Consolidation. In the event that there is a
+dispute between the Insurer, on one side, and Administrator and the Reinsurer on
+the other, which implicates the provisions of this RSLIC Administrative Services
+Agreement and the RSLIC Quota Share Reinsurance Agreement, Insurer and
+Administrator hereby agree to consolidate any such dispute under such agreements
+in a single arbitration proceeding.
+
+                                   ARTICLE XV
+
+                                  MISCELLANEOUS
+
+                  Section 15.1 Cooperation. The parties hereto shall cooperate
+in a commercially reasonable manner in order that the duties assumed by
+Administrator will be effectively, efficiently and promptly discharged. The
+parties hereto will use their best efforts to (i) give effect to the intent of
+this RSLIC Administrative Services Agreement, the Acquisition Agreement, the
+RSLIC Quota Share Reinsurance Agreement and the other Ancillary Agreements and
+(ii) refrain from conduct which would frustrate the intent of any such
+agreement. Each party shall, at all reasonable times under the circumstances,
+make available to the other party properly authorized personnel for the purpose
+of consultation and decision.
+
+                  Section 15.2 Amendment, Modification and Waiver. This RSLIC
+Administrative Services Agreement may not be amended, modified or waived except
+by an instrument or instruments in writing signed and delivered on behalf of
+each of the parties hereto.
+
+                  Section 15.3 Relationship. Insurer and Administrator are and
+shall remain independent contractors and not employees of the other party.
+Except as expressly granted in this RSLIC Administrative Services Agreement or
+otherwise by the other party in writing or as may be required by Applicable Law
+or as necessary to perform the services to be provided hereunder or to obtain
+the benefits hereof, no party shall have any authority, express or implied, to
+act as an agent of the other party or its Subsidiaries or Affiliates under this
+RSLIC Administrative Services Agreement. Except as otherwise provided by this
+RSLIC Administrative Services Agreement or by any other agreement between the
+parties, each party shall be responsible for the payment of all employment,
+income and social security taxes arising in connection with the
+
+                                       20
+
+<PAGE>
+
+compensation payable to its personnel involved in the provision of the services
+hereunder.
+
+                  Section 15.4 Entire Agreement. This RSLIC Administrative
+Services Agreement (together with the exhibits hereto and the other agreements,
+documents and instruments delivered in connection herewith) the Acquisition
+Agreement, the RSLIC Quota Share Reinsurance Agreement and the other Ancillary
+Agreements constitute the entire agreement among the parties with respect to the
+subject matter hereof and thereof and supersede all other prior agreements and
+understandings, both written and verbal, among the parties or any of them with
+respect to the subject matter hereof.
+
+                  Section 15.5 Governing Law. This RSLIC Administrative Services
+Agreement shall be governed by and construed in accordance with the laws of the
+State of Delaware, regardless of the laws that might otherwise govern under
+applicable principles of conflicts of laws thereof.
+
+                  Section 15.6 Severability. Any term or provision of this RSLIC
+Administrative Services Agreement which is invalid or unenforceable in any
+jurisdiction shall, as to that jurisdiction, be ineffective to the extent of
+such invalidity or unenforceability without rendering invalid or unenforceable
+the remaining terms and provisions of this RSLIC Administrative Services
+Agreement or affecting the validity or enforceability of any of the terms or
+provisions of this RSLIC Administrative Services Agreement in any other
+jurisdiction. If any provision of this RSLIC Administrative Services Agreement
+is so broad as to be unenforceable, the provision shall be interpreted to be
+only so broad as would be enforceable.
+
+                  Section 15.7 Counterparts. This RSLIC Administrative Services
+Agreement may be executed in counterparts, each of which shall be deemed to be
+an original, but all of which shall constitute one and the same agreement.
+
+                  Section 15.8 Consent to Jurisdiction. Each of the parties
+hereto irrevocably and unconditionally submits to the exclusive jurisdiction of
+the state and federal court located in the State of Delaware for the purposes of
+enforcing this RSLIC Administrative Services Agreement or the other Ancillary
+Agreements. If any action is brought in a state court, the parties shall take
+such actions as are within their control to cause any matter contemplated hereby
+to be assigned to the Chancery Court in the State of Delaware. In any action,
+suit or other proceeding, each of the parties hereto irrevocably and
+unconditionally waives and agrees not to assert by way of motion, as a defense
+or otherwise any claims that it is not subject to the jurisdiction of the above
+courts, that such action or suit is brought in an inconvenient forum or that the
+venue of such action, suit or other proceeding is improper. Each of the parties
+hereto also agrees that any final and unappealable judgment against a party
+hereto in connection with any action, suit or other proceeding shall be
+conclusive and binding on such party and that such award or judgment may be
+enforced in any court of competent jurisdiction, either within or outside of the
+United States. A certified or exemplified copy of such award or judgment shall
+be conclusive evidence of the fact and amount of such award or judgment.
+
+                                       21
+
+<PAGE>
+
+                  Section 15.9 Third Party Beneficiaries. Except for the
+provisions of Article XIII, nothing in this RSLIC Administrative Services
+Agreement, express or implied, is intended to or shall confer upon any Person
+other than the parties hereto any rights, benefits or remedies of any nature
+whatsoever under or by reason of this RSLIC Administrative Services Agreement.
+
+                  Section 15.10 Binding; Assignment. This RSLIC Administrative
+Services Agreement shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and assigns and legal representatives.
+Neither this RSLIC Administrative Services Agreement, nor any rights, interests
+or obligations hereunder, may be directly or indirectly assigned, delegated,
+sublicensed or transferred by any party to this RSLIC Administrative Services
+Agreement, in whole or in part, to any other Person (including any bankruptcy
+trustee) by operation of law or otherwise, whether voluntarily or involuntarily,
+without the prior written consent of the parties hereto.
+
+                  Section 15.11 Specific Performance. The parties recognize and
+agree that if for any reason any of the provisions of this RSLIC Administrative
+Services Agreement are not performed in accordance with their specific terms or
+are otherwise breached, immediate and irreparable harm or injury would be caused
+for which money damages would not be an adequate remedy. Accordingly, each party
+agrees that, in addition to any other available remedies, each other party shall
+be entitled to an injunction restraining any violation or threatened violation
+of any of the provisions of this RSLIC Administrative Services Agreement without
+the necessity of posting a bond or other form of security. In the event that any
+action should be brought in equity to enforce any of the provisions of this
+RSLIC Administrative Services Agreement, no party will allege, and each party
+hereby waives the defense, that there is an adequate remedy at law.
+
+                  Section 15.12 Descriptive Headings. The descriptive article
+and section headings herein are inserted for convenience of reference only and
+are not intended to be part of or to affect the meaning or interpretation of
+this RSLIC Administrative Services Agreement.
+
+                  Section 15.13 Expenses. Unless otherwise specifically provided
+herein or in the Acquisition Agreement, Transition Services Agreement or RSLIC
+Quota Share Reinsurance Agreement, all costs and expenses incurred in connection
+with this RSLIC Administrative Services Agreement shall be paid by the party
+incurring such cost or expense.
+
+                  Section 15.14 Use of Name. Except as otherwise set forth in
+the Acquisition Agreement, the RSLIC Quota Share Reinsurance Agreement or the
+other Ancillary Agreements, neither party shall use the name, trademark, service
+mark, logo or identification of the other party without the other party's prior
+written consent.
+
+                  Section 15.15 Survival. The provisions of Article XII, Article
+XIII and Article XV hereof shall survive the termination of this RSLIC
+Administrative Services Agreement.
+
+                                       22
+
+<PAGE>
+
+                  Section 15.16 Subcontracting. Administrator may subcontract
+for the performance of any Administrative Services that Administrator is to
+provide hereunder upon receipt of the prior written consent of Insurer, which
+consent shall not be unreasonably withheld or delayed; provided, however, that
+such subcontracting shall not be deemed to relieve Administrator of its
+obligations under this RSLIC Administrative Services Agreement.
+
+                  Section 15.17 Notices. All notices, requests, claims, demands
+and other communications hereunder shall be in writing and shall be given (and
+shall be deemed to have been duly given upon receipt) by delivery in person, by
+facsimile (which is confirmed), by courier (delivery of which is confirmed) or
+by registered or certified mail (postage prepaid, return receipt requested) to
+the respective parties to this RSLIC Administrative Services Agreement as
+follows:
+
+                  If to Insurer:
+
+                           Laura S. Lawrence, Esq.
+                           General Counsel
+                           Royal Group, Inc.
+                           9300 Arrowpoint Blvd.
+                           Charlotte, NC 28273
+                           Telephone No.: (704) 522-2851
+                           Facsimile No.: (704) 522-2313
+
+                  With a copy to (which shall not constitute notice to Insurer
+for purposes of this Section 15.17):
+
+                           Robert J. Sullivan, Esq.
+                           Skadden, Arps, Slate, Meagher & Flom LLP
+                           Four Times Square
+                           New York, New York 10036
+                           Telephone No.: 212-735-2930
+                           Facsimile No.: 212-735-2000
+
+                                       23
+
+<PAGE>
+
+                  If to Administrator:
+
+                           Royal Specialty Underwriting, Inc.
+                           Mr. David E. Leonard
+                           Executive Vice President
+                           945 East Paces Ferry Road
+                           Atlanta, GA 30326
+                           Telephone No.: (404) 231-2366
+                           Facsimile No: (404) 231-3755
+
+                  With copies to (which shall not constitute notice to the
+Administrator for purposes of this Section 15.17):
+
+                           Robert M. Hart, Esq.
+                           General Counsel
+                           Alleghany Corporation
+                           375 Park Avenue, Suite 3201
+                           New York, New York 10152
+                           Telephone No.: (212) 752-1356
+                           Facsimile No.: (212) 759-8149
+
+                           and
+
+                           Aileen C. Meehan, Esq.
+                           William W. Rosenblatt, Esq.
+                           Dewey Ballantine LLP
+                           1301 Avenue of the Americas
+                           New York, New York 10019
+                           Telephone No.: (212) 259-8000
+                           Facsimile No.: (212) 259-6333
+
+                  If to Reinsurer:
+
+                           Underwriters Reinsurance Company.
+                           Mr. David E. Leonard
+                           Executive Vice President
+                           c/o Royal Specialty Underwriting, Inc.
+                           945 East Paces Ferry Road
+                           Atlanta, GA 30326
+                           Telephone No.: (404) 231-2366
+                           Facsimile No: (404) 231-3755
+
+                  With copies to (which shall not constitute notice to the
+Reinsurer for purposes of this Section 15.17):
+
+                           Robert M. Hart, Esq.
+                           General Counsel
+
+                                       24
+
+<PAGE>
+
+                           Alleghany Corporation
+                           375 Park Avenue, Suite 3201
+                           New York, New York 10152
+                           Telephone No.: (212) 752-1356
+                           Facsimile No.: (212) 759-8149
+
+                           and
+
+                           Aileen C. Meehan, Esq.
+                           William W. Rosenblatt, Esq.
+                           Dewey Ballantine LLP
+                           1301 Avenue of the Americas
+                           New York, New York 10019
+                           Telephone No.: (212) 259-8000
+                           Facsimile No.: (212) 259-6333
+
+or to such other address as the person to whom notice is given may have
+previously furnished to the others in writing in the manner set forth above. In
+no event shall the provision of notice pursuant to this Section 15.17 constitute
+notice for service of any writ, process or summons in any suit, action or other
+proceeding.
+
+                  Section 15.18 Interpretation.
+
+                  (a)      When a reference is made in this RSLIC Administrative
+Services Agreement to a Section or Article, such reference shall be to a section
+or article of this RSLIC Administrative Services Agreement unless otherwise
+clearly indicated to the contrary. Whenever the words "include", "includes" or
+"including" are used in this RSLIC Administrative Services Agreement, they shall
+be deemed to be followed by the words "without limitation." The words "hereof,"
+"herein" and "herewith" and words of similar import shall, unless otherwise
+stated, be construed to refer to this RSLIC Administrative Services Agreement as
+a whole and not to any particular provision of this RSLIC Administrative
+Services Agreement. The meaning assigned to each term used in this RSLIC
+Administrative Services Agreement shall be equally applicable to both the
+singular and the plural forms of such term, and words denoting any gender shall
+include all genders. Where a word or phrase is defined herein, each of its other
+grammatical forms shall have a corresponding meaning.
+
+                  (b)      The parties have participated jointly in the
+negotiation and drafting of this RSLIC Administrative Services Agreement;
+consequently, in the event an ambiguity or question of intent or interpretation
+arises, this RSLIC Administrative Services Agreement shall be construed as if
+drafted jointly by the parties thereto, and no presumption or burden of proof
+shall arise favoring or disfavoring any party by virtue of the authorship of any
+provisions of this RSLIC Administrative Services Agreement.
+
+                                       25
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, this RSLIC Administrative Services
+Agreement has been duly executed by a duly authorized officer of each party
+hereto as of the date first above written.
+
+                                        ROYAL SURPLUS LINES INSURANCE COMPANY
+
+                                        By: /s/ Stephen M. Mulready
+                                            -----------------------
+                                           Name: Stephen M. Mulready
+                                           Title:President and Chief Executive
+                                                 Officer
+
+                                        ROYAL SPECIALTY UNDERWRITING, INC.
+
+                                        By: /s/ James A. Dixon
+                                            -----------------------
+                                           Name:  James A. Dixon
+                                           Title: Chairman
+
+                                        UNDERWRITERS REINSURANCE COMPANY
+
+                                        By: /s/ James P. Slattery
+                                            ------------------------
+                                           Name:  James P. Slattery
+                                           Title: President
+
+
+</TEXT>
+</DOCUMENT>

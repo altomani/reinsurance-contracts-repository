@@ -1,0 +1,1298 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>10
+<FILENAME>b317102ex10-32.txt
+<DESCRIPTION>MATERIAL CONTRACTS
+<TEXT>
+<PAGE>
+
+
+                            PXRE REINSURANCE COMPANY
+                            AGGREGATE EXCESS OF LOSS
+                                   REINSURANCE
+
+                             Effective July 1, 2001
+Article  Summary                                                            Page
+
+    1     Business Covered                                                   2
+    2     Term, Territory and Inuring Reinsurances                           2
+    3     Basis of Coverage                                                  3
+    4     Exclusions                                                         3
+    5     Coverage, Retention, Aggregate Limit and Franchise Deductible      4
+    6     Definitions                                                        6
+    7     Net Retained Lines                                                 9
+    8     Initial Premium, Additional Premium, Return Premium               10
+            and Reinsurer's Expense
+    9     Ceding Commission                                                 11
+   10     Funds Held Account                                                11
+   11     Interest Credit                                                   12
+   12     Accounts, Remittances and Loss Settlements                        13
+   13     Commutation                                                       14
+   14     Profit Sharing                                                    14
+   15     Currency                                                          15
+   16     Taxes                                                             15
+   17     Reinsurer's Security                                              15
+   18     Excess of Policy Limits                                           17
+   19     Extra Contractual Obligations                                     17
+   20     Offset                                                            18
+   21     Indemnification and Errors and Omissions                          18
+   22     Access to Records                                                 18
+   23     Assignment and Assumption                                         19
+   24     Insolvency                                                        19
+   25     Confidentiality                                                   20
+   26     Arbitration                                                       20
+   27     Service of Suit                                                   21
+   28     Governing Law                                                     21
+   29     Severability                                                      22
+   30     Contingent Trust Fund                                             22
+   31     Changes in Administrative Practices                               23
+   32     Intermediary                                                      23
+   33     Counterparts                                                      23
+   34     Other Clauses                                                     23
+
+
+                                       1
+<PAGE>
+
+                     ACCIDENT YEAR AGGREGATE EXCESS OF LOSS
+                                   REINSURANCE
+
+                  (hereinafter referred to as the "Agreement")
+
+                                     between
+
+                            PXRE REINSURANCE COMPANY
+                              Hartford, Connecticut
+
+                   (hereinafter referred to as the "Company")
+
+                                       and
+
+                             SELECT REINSURANCE LTD.
+                                Hamilton, Bermuda
+
+                  (hereinafter referred to as the "Reinsurers")
+
+
+                                    ARTICLE 1
+
+BUSINESS COVERED
+
+This Agreement is to indemnify the Company with respect to the Ultimate Net
+Losses which may accrue to the Company as a result of losses occurring, and
+claims made during the Term, all as per underlying policies and binders of
+insurance, facultative certificates and programs of Reinsurance Agreements
+(hereinafter referred to as "Subject Business") as respects all classes of
+business underwritten by the Company except for business excluded in Article 4,
+Exclusions, all subject to the terms and conditions of this Agreement.
+
+
+                                    ARTICLE 2
+
+TERM, TERRITORY AND INURING REINSURANCES
+
+A.    This Agreement shall be effective from 12:01 a.m. Eastern Standard Time,
+      July 1, 2001, until 11:59 p.m. Eastern Standard Time, June 30, 2002 (the
+      "Term"), both days inclusive unless this Agreement is terminated early.
+
+B.    This Agreement applies to losses worldwide on all Subject Business.
+
+C.    All other reinsurance treaties, other than those set forth on Schedule A
+      (such treaties, "Non-Inuring Reinsurance"), that inure to the benefit of
+      this Agreement shall be deemed in place until all liability of the
+      Reinsurers under this Agreement is finalized by payment of all covered
+      Ultimate Net Losses or Commutation as outlined in Article 13.
+
+
+                                       2
+<PAGE>
+
+                                   ARTICLE 3
+
+
+BASIS OF COVERAGE
+
+The Reinsurers shall indemnify the Company for all losses on Subject Business
+during the Term. Coverage for Loss Occurrences or claims made or losses
+discovered shall in all cases follow the underlying coverage form of the
+Company's policies, binders and certificates of insurance or Reinsurance
+Agreements.
+
+
+                                    ARTICLE 4
+
+EXCLUSIONS
+
+This Agreement shall not apply to and specifically excludes:
+
+A.    Nuclear incident, in accordance with the following clauses attached
+      hereto:
+
+      1.    Nuclear Incident Exclusion Clause - Physical Damage - Reinsurance -
+            U.S.A. - NMA 1119;
+
+      2.    Nuclear Incident Exclusion Clause - Physical Damage and Liability
+            (Boiler and Machinery Policies) - Reinsurance - U.S.A. - NMA 1166;
+
+      3.    Nuclear Incident Exclusion Clause - Physical Damage - Reinsurance -
+            Canada - NMA 1980;
+
+      4.    Nuclear Incident Exclusion Clause - Physical Damage and Liability
+            (Boiler and Machinery Policies) Reinsurance - Canada - NMA 1251;
+
+      5.    Nuclear Incident Exclusion Clause - Liability - Reinsurance - U.S.A.
+            - NMA 1590;
+
+      6.    Nuclear Incident Exclusion Clause - Liability - Reinsurance - Canada
+            - NMA 1979; and
+
+      7.    Nuclear Energy Risks Exclusion Clause (Reinsurance) (1984) -
+            Worldwide Excluding U.S.A. and Canada - NMA 1975;
+
+B.    War risks, in accordance with the war risks exclusion clause attached
+      hereto;
+
+C.    Insolvency Funds Exclusion Clause attached hereto;
+
+D.    With respect to property business liability assumed by the Company as a
+      member of any Pool, Association or Syndicate as per the property
+      catastrophe clause attached hereto;
+
+
+                                       3
+<PAGE>
+
+E.    With respect to workers' compensation, any loss or liability accruing to
+      the Company directly or indirectly as insurer arising out of membership in
+      any Pool, Association or Syndicate; however, this exclusion shall not
+      apply to the Company's involuntary participation in workers' compensation
+      assigned risk plans or to business assumed through the National Workers'
+      Compensation Reinsurance Pool; and
+
+F.    All reinsurance business classified by the Company as finite reinsurance
+      business, other than those finite reinsurance agreements and treaties set
+      forth on Schedule B.
+
+G.    All credit default swaps, credit derivatives, collateralized debt
+      obligations, collateralized bond obligations and collateralized loan
+      obligations.
+
+H.    Any and all exposure associated with the Company's run-off of its Lloyd's
+      operations.
+
+
+                                    ARTICLE 5
+
+COVERAGE, RETENTION, AGGREGATE LIMIT AND FRANCHISE DEDUCTIBLE
+
+A.    Coverage - The Reinsurers shall indemnify the Company for 100% (one
+      hundred percent) of the paid Ultimate Net Loss during the Term for the
+      layers as defined herein, in excess of the respective Retention, as
+      defined in Section B. below, and the Franchise Deductible, as defined in
+      Section D. below, subject to a maximum liability equal to the Aggregate
+      Limit, as defined in Section C. below, in respect of Ultimate Net Loss of
+      the Company. The layers of coverage as provided hereon are defined as the
+      following:
+
+      Layer A - Layer A Coverage shall equal 333.33% (three hundred thirty three
+      point three three percent) of the net Premium (including Additional
+      Premiums) paid by the Company, either on a funds transferred or funds held
+      basis or by offset, in respect of Layer A only, not to exceed total Layer
+      A Coverage equal to the greater of, but not to exceed, $62,000,000 (sixty
+      two million dollars) or 27.94% (twenty seven point nine four percent) of
+      SNEPI (such amount, the "Layer A Coverage Limit").
+
+      Layer B - Layer B Coverage shall equal the greater of, but not to exceed,
+      $63,000,000 (sixty three million dollars) or 28.39% (twenty eight point
+      three nine percent) of SNEPI (such amount, the "Layer B Coverage Limit").
+
+      Layer C - Layer C Coverage shall equal $52,000,000 (fifty two million
+      dollars) (the "Layer C Coverage Limit") per occurrence and in the
+      aggregate. Layer C Coverage shall be available only to the extent losses
+      are not ceded to Layer A.
+
+B.    Retention - The Retention for the Term shall equal the following:
+
+
+      Layer A - The Reinsurers shall indemnify the Company for 100% (one hundred
+      percent) of the Ultimate Net Loss incurred during the Term and paid in
+      respect of Ultimate Net Loss within the Net Retained Liability of the
+      Company in excess of an amount equal to the sum of 72.14% (seventy two
+      point one four percent) of SNEPI and the Franchise Deductible below (i.e.,
+      effective retention), not to exceed the respective Layer A Coverage Limit
+      hereon. Layer A is subject to a minimum Retention of $152,000,000 (one
+      hundred fifty two million dollars).
+
+                                       4
+<PAGE>
+      Layer B - The Reinsurers shall indemnify the Company for 100% (one hundred
+      percent) of the Ultimate Net Loss incurred during the Term and paid in
+      respect of Ultimate Net Loss within the Net Retained Liability of the
+      Company in excess of an amount equal to the sum of 100.08% (one hundred
+      point zero eight percent) of SNEPI, not to exceed the respective Layer B
+      Coverage Limit hereon. Layer B is subject to a minimum Retention of
+      $152,000,000 (one hundred fifty two million dollars) plus the greater of
+      $62,000,000 (sixty two million dollars) or 27.94% (twenty seven point nine
+      four percent) of SNEPI. In addition, Coverage provided under Layer B shall
+      be reduced to $40,874,000 (forty million eight hundred seventy four
+      dollars) if the additional Reinsurers' Expense as set forth in Article 8,
+      item C., Reinsurers' Expense is not paid by the Company to the Reinsurers
+      on or before the payment dates established in Article 8.
+
+      Except for Non-Inuring Reinsurance, the Company shall retain and be liable
+      for the paid portion of Ultimate Net Loss equal to the Retention, as
+      defined above, inclusive of the Franchise Deductible, as defined below,
+      for the coverage afforded hereunder.
+
+      Layer C- The Reinsurers shall indemnify the Company for 100% (one hundred
+      percent) of the Ultimate Net Loss incurred during the Term and paid in
+      respect of Ultimate Net Loss in excess of $10,000,000 (ten million
+      dollars) on a per event basis only.
+
+C.    Aggregate Limit - The Reinsurers' liability shall be subject to a maximum
+      Aggregate Limit for the Term of an amount equal to the greater of
+      $125,000,000 (one hundred twenty five million dollars) or 56.32% (fifty
+      six point three two percent) of SNEPI, subject to a maximum of
+      $135,000,000 (one hundred thirty five million dollars. Should the result
+      of multiplying the actual SNEPI by 61.73% (sixty one point seven three
+      percent) exceed $135,000,000 (one hundred thirty five million dollars),
+      then Ultimate Net Loss and SNEPI shall be prorated based upon applying the
+      factor equal to the result of $135,000,000 (one hundred thirty five
+      million dollars) divided by the result of multiplying SNEPI by 61.73%
+      (sixty one point seven three percent) to the respective Ultimate Net Loss
+      and SNEPI hereon.
+
+D.    Franchise Deductible - Coverage hereunder is subject to a Franchise
+      Deductible. Except for Non-Inuring Reinsurance, the Company shall retain
+      net and unreinsured the following percentage of SNEPI corresponding to the
+      respective Ultimate Net Loss Ratio:
+
+
+                                       5
+<PAGE>
+
+                           (A)             (B)       (C)=(A)+(B)
+        Ultimate Net                   Franchise        Effective
+         Loss Ratio        Retention   Deductible      Retention
+       --------------      ---------   ----------    -------------
+
+         81.45% or below    72.14%       9.31%           81.45%
+         83.45%             72.14%       8.31%           80.45%
+         85.45%             72.14%       7.31%           79.45%
+         87.45%             72.14%       6.31%           78.45%
+         89.45%             72.14%       5.31%           77.45%
+         91.45%             72.14%       4.31%           76.45%
+         93.45%             72.14%       3.31%           75.45%
+         95.45%             72.14%       2.31%           74.45%
+         97.45%             72.14%       1.31%           73.45%
+         99.45%             72.14%       0.31%           72.45%
+        100.08% or greater               0.00%           72.14%
+
+
+                                    ARTICLE 6
+
+DEFINITIONS
+
+A.    "Allocated Loss Adjustment Expenses", as used in this Agreement, shall
+      mean the Company's share of costs and expenses allocable to specific
+      claims attaching to the Reinsurance Agreements and that are incurred in
+      the investigation, appraisal, adjustment, settlement, litigation, defense
+      or appeal of such specific claims, including statutory penalties, court
+      costs and costs of supersedeas and appeal bonds, and including:
+
+      1)    pre-judgment interest, unless included as part of the award or
+            judgment;
+
+      2)    post-judgement interest; and
+
+      3)    legal expenses and costs incurred in connection with coverage
+            questions and legal actions connected thereto, including declaratory
+            judgement expense.
+
+      Allocated Loss Adjustment Expenses shall not include the Company's office
+      expenses and salaries of employees of the Company, except: 1) payments to
+      attorneys on the Company's staff who are engaged in the investigation,
+      litigation or settlement of claims, suits, legal proceedings or losses
+      reinsured under this Agreement; 2) when the Company uses its own employees
+      or officials, including claims personnel and engineers to settle losses,
+      the Company shall be permitted to include a pro rata share of expenses
+      incurred by and salaries related to such employees and officials,
+      including claim personnel and engineers. The Company warrants that the
+      allocation of Loss Adjustment Expenses will remain consistent while this
+      Agreement is in force and /or the Reinsurer is at risk.
+
+                                       6
+<PAGE>
+
+
+B.    "Loss Occurrence(s)", "Claim(s) Made", and "Loss(es) Discovered" shall
+      follow the definition each such term may have under the policies, binders
+      and certificates of insurance covered by this Agreement. The Reinsurers
+      shall accept such definitions and any subsequent loss allocations as
+      determined by the Company.
+
+C.    "Net Written Premium Income" shall mean gross premium of the Company's
+      Business Covered less cancellations and returns and less premium paid for
+      all other specific or aggregate excess reinsurance inuring to this
+      Agreement.
+
+D.    "Other Lines" shall mean lines of business other than Short-Tail Lines of
+      business including, but not limited to, workers' compensation finite
+      specific excess of loss contracts.
+
+E.    "Prejudgment Interest or Delayed Damages" shall mean interest or damages
+      added to a settlement, verdict, award, or judgment based on the amount of
+      time prior to the settlement, verdict, award or judgment whether or not
+      made part of the settlement, verdict, award or judgment.
+
+F.    "Property Catastrophe Loss" shall mean any loss event worldwide which is
+      assigned a catastrophe designation by the organization responsible for
+      assigning such designation for the geographic area in which the loss event
+      occurred and for which the Company receives a specific identification via
+      report(s) from their underlying clients of such Property Catastrophe
+      Losses.
+
+G.    "Short-Tail Lines" shall mean property lines of business, including
+      property catastrophe and assumed finite business that is not more than 50%
+      (fifty percent) casualty oriented in terms of underlying Subject Business.
+
+H.    "Statutory Penalties" shall mean fines imposed by statutes or laws.
+
+
+I.    "Subject Net Earned Premium Income (SNEPI)" for any period applicable to
+      this Agreement shall mean the Net Written Premium Income of the Company's
+      Business Covered for the Term plus the respective Net Written Premium
+      Income Unearned as of the inception of this Agreement Year less the
+      respective Net Written Premium Income Unearned as of the end of the
+      calculation period less ceded premium in respect of all inuring
+      reinsurance/retrocessional protection. SNEPI shall be gross of all
+      premiums including Initial Premium and Minimum Premium for Subject
+      Business in respect of this reinsurance coverage. For purposes of the
+      agreements set forth on Schedule B, Premium, Earned Premium, Gross Premium
+      and Written Premium shall be as defined in such agreements.
+
+      (i)   "Net Written Premium Income Unearned" shall be determined by the
+            Company following its standard practices and calculations as
+            respects the subject Reinsurance Agreements.
+
+
+                                       7
+<PAGE>
+
+J.    "Ultimate Net Loss" shall mean the sum of losses incurred by the Company
+      on its net retained liability in settlement of losses, including Allocated
+      Loss Adjustment Expenses, on Subject Business plus reserves for
+      outstanding losses and Allocated Loss Adjustment Expenses, including
+      reserves for incurred but not reported claims, ex gratia payments, the
+      liability for Loss in Excess of Original Policy Limits, in accordance with
+      Article 18, Excess of Policy Limits, and the liability for Extra
+      Contractual Obligations emanating from underlying contracts of the
+      Company's clients, in accordance with Article 19, Extra Contractual
+      Obligations, from the Company's assumed reinsurance contracts. Ultimate
+      Net Loss shall be net of inuring reinsurances (but gross of Non-Inuring
+      Reinsurance), whether collectible or not, and all salvages and recoveries
+      deducted from the Ultimate Net Loss, provided, however, that in the event
+      of the insolvency of the Company, payments by the Reinsurers shall be made
+      in accordance with the provisions of Article 24, Insolvency. Nothing
+      herein shall be construed to mean that losses under this Agreement are not
+      recoverable until the Company's Ultimate Net Loss has been ascertained.
+
+      Ultimate Net Loss that may be ceded under this Agreement shall be subject
+      to a Property Catastrophe Loss per event aggregate sublimit equal to
+      $62,000,000 (sixty two million dollars). Ultimate Net Loss in respect of
+      Short-Tail Lines that may be ceded under this Agreement shall be limited
+      in the aggregate to $90,000,000 (ninety million dollars) above plan (as
+      detailed in Schedule C). In addition, Short-Tail Ultimate Net Loss ceded
+      with respect to Short-Tail Lines shall decrease dollar for dollar the
+      amount that the subject Ultimate Net Loss is greater than the Retention
+      plus the Limit for Layers A and B.
+
+      The Ultimate Net Loss in respect of the agreement set forth on Schedule B,
+      item 4., shall be limited to plan (as detailed in Schedule C) plus 10%
+      (ten percent) of Ultimate Net Loss above plan only, in respect of this
+      Agreement.
+
+      With respect to the agreements set forth on Schedule B, (i) Ultimate Net
+      Loss, Ceding Commission and Return Premium shall be as defined in such
+      agreements, and (ii) Ultimate Net Loss shall only include Return Premium
+      and Ceding Commissions earned during the Term.
+
+      Ultimate Net Loss shall exclude both unallocated Loss Adjustment Expenses
+      and all other general operating expenses (overhead) of the Company, but
+      shall include any unallocated Loss Adjustment Expenses where the
+      underlying treaties and facultative business with the Company's clients
+      provide for such coverage.
+
+      Ultimate Net Loss amounts shall include Business Covered paid losses,
+      outstanding losses, and losses incurred, as referenced in this Agreement.
+      As referred to in this Agreement, outstanding losses shall include in
+      respect of Business Covered the Company's loss reserves for losses
+      incurred, losses incurred but not reported and reserves for loss
+      adjustment expense as of the calculation date; losses incurred shall
+      comprise the sum of Ultimate Net Losses paid and Ultimate Net Losses
+      outstanding as of the calculation date.
+
+
+                                       8
+<PAGE>
+
+      Notwithstanding the Coverage, Aggregate Limit and Premium terms hereon,
+      the Reinsurers shall not be obligated to pay any further Ultimate Net
+      Losses otherwise due to the Company upon the Reinsurers sustaining a
+      present value economic loss on a paid basis greater than 15.1% (fifteen
+      point one percent) of present value ceded Premiums hereon (i.e., excluding
+      the Franchise Deductible).
+
+      Present value economic loss shall be based upon Ultimate Net Loss and
+      Return Premiums, if applicable, paid by the Reinsurers, being discounted
+      at an 8.0% (eight point zero percent) effective annual rate for those
+      payments made by debiting the Funds Held Account and a 4.66% (four point
+      six six percent) effective annual rate for said payments made from the
+      Reinsurers' Expenses, and other funds of the Reinsurers, including
+      Premiums paid to the Reinsurers, all back to inception of this Agreement.
+
+      The Company must cede Ultimate Net Loss as reported in the Company's
+      audited financial statements unless otherwise agreed by the Company and
+      the Reinsurers provided, however, that with respect to Layer B only, the
+      Company shall have the option to not report Ultimate Net Loss as long as
+      the election to not report and cede such loss does not have a material
+      detrimental economic effect on the Reinsurers.
+
+K.    "Ultimate Net Loss Ratio" shall mean the ratio of Ultimate Net Losses
+      incurred divided by Subject Net Earned Premium Income as of the date of
+      calculation.
+
+
+
+                                    ARTICLE 7
+
+NET RETAINED LINES
+
+This Agreement applies only to that portion of any Reinsurance Agreement which
+the Company retains net for its own account, and in calculating the amount of
+any Ultimate Net Loss hereunder and also in computing the amounts in Article 5,
+Coverage, Retention, Aggregate Limit and Franchise Deductible to which this
+Agreement applies, only Ultimate Net Loss in respect of that portion of any
+Reinsurance Agreement which the Company retains net for its own account shall be
+included, provided, however, that Non-Inuring Reinsurance shall be disregarded
+for purposes of calculating Ultimate Net Loss hereunder.
+
+The amount of the Reinsurers' liability hereunder in respect of any Ultimate Net
+Loss shall not be increased by reason of the inability of the Company to collect
+from any other reinsurer, whether specific or general, any amounts which may
+have become due from such reinsurer, whether such inability arises from the
+insolvency of such other reinsurer or otherwise.
+
+
+                                       9
+<PAGE>
+
+
+                                    ARTICLE 8
+
+INITIAL PREMIUM, ADDITIONAL PREMIUM, RETURN PREMIUM AND REINSURERS' EXPENSE
+
+A.    Initial Premium - The Company shall pay an Initial Premium to the
+      Reinsurers as follows:
+
+      Layer A - There shall be no Initial Premium in respect of Layer A
+      Coverage.
+
+      Layer B - An Initial Premium, in respect of Layer B Coverage, equal to the
+      greater of $40,874,000 (forty million eight hundred seventy four thousand
+      dollars) or 18.42% (eighteen point four two percent) of SNEPI shall be
+      credited to the Funds Held Account as of July 1, 2001.
+
+      Layer C - There shall be no Initial Premium in respect of Layer C
+      Coverage.
+
+B.    Additional Premium - The Company shall pay Additional Premium to the
+      Reinsurers as follows:
+
+
+      Layer A - Additional Premium, in respect of Layer A Coverage only, equal
+      to 30% (thirty percent) of the ceded amount of Ultimate Net Loss in
+      respect of Layer A Coverage shall be credited to the Funds Held Account as
+      of July 1, 2001.
+
+      Layer B - There shall be no Additional Premium in respect of Layer B
+      Coverage.
+
+      Layer C - Additional Premium, in respect of Layer C Coverage only, equal
+      to 30% (thirty percent) of the ceded amount of Ultimate Net Loss plus 10%
+      (ten percent) of ceded Ultimate Net Loss in excess of $26,000,000 (twenty
+      six million dollars) in respect of Layer C Coverage shall be credited to
+      the Funds Held Account as of July 1, 2001.
+
+C.    Return Premium - The Company shall be entitled to 100% (one hundred
+      percent) of the difference between Layer B Initial Premium less Ceding
+      Commission if subject Ultimate Net Loss does not exceed the Retention of
+      Layer B Coverage, provided that if any portion of the Layer B Initial
+      Premium is paid on a funds held basis, such portion shall be credited with
+      interest, as provided in Article 11, Interest Credit, paragraph 2. Subject
+      Ultimate Net Loss excess the Retention of Layer B Coverage will reduce the
+      Return Premium dollar for dollar. The Reinsurers shall pay Return Premium
+      at the earlier of the final settlement of Ultimate Net Loss or Commutation
+      by debit to the Funds Held Account.
+
+D.    Reinsurers' Expense - The Company shall pay an up-front Reinsurers'
+      Expense equal to the greater of .83% (point eight three percent) of SNEPI
+      or $1,850,000 (one million eight hundred fifty thousand dollars), net of
+      Ceding Commission. Reinsurers' Expense shall be paid by the Company to the
+      Reinsurers as soon as practicable on or after the inception of this
+      Agreement. Furthermore, the Company shall pay the Reinsurers 3.50% (three
+      point five zero percent) of the gross Additional Premium payable
+      hereunder, except in respect of the 10% (ten percent) Additional Premium
+      in Layer C, including interest back to inception. The Reinsurers shall pay
+      the Company any return Reinsurers' Expense, including interest back to
+      inception, based upon downward adjustment of ceded Ultimate Net Loss.
+
+
+                                       10
+<PAGE>
+
+      The Company shall also pay the Reinsurers an additional Reinsurers'
+      Expense of $1,000,000 (one million dollars) on July 1, 2003 and another
+      $1,000,000 on July 1, 2005 if Coverage afforded under this Agreement is in
+      force and not commuted at such respective dates.
+
+      Reinsurers' Expense shall be debited from the Funds Held Account at July
+      1, 2001.
+
+
+
+                                    ARTICLE 9
+
+CEDING COMMISSION
+
+A.    The Reinsurers shall allow the Company a Ceding Commission equal to 40.0%
+      (forty percent) of all Initial Premium, Additional Premium and Reinsurers'
+      Expense hereon after grossing up all such Premiums and Reinsurers' Expense
+      by 0.60 (100% - 40%). All Ceding Commissions shall be credited to the
+      Funds Held Account as of July 1, 2001. Accordingly, all such grossed up
+      Premiums and Reinsurers' Expense shall be credited to the Funds Held
+      Account at July 1, 2001.
+
+B.    Ceding Commission due hereunder shall be paid by the Reinsurers to the
+      Company at the earlier of final settlement of Business Covered Ultimate
+      Net Losses or Commutation, as defined in Article 13, Commutation.
+
+
+                                   ARTICLE 10
+
+FUNDS HELD ACCOUNT
+
+For purposes of this Agreement, the Reinsurers shall allow the Company to
+establish and maintain a cumulative Funds Held Account, comprised of the
+following:
+
+      A.    The Funds Held Account balance at June 30, 2001 shall be equal to
+            zero.
+
+      B.    The Funds Held Account at each subsequent calendar quarter end shall
+            be comprised of the following cumulative amounts:
+
+            1)    The Funds Held Account at the end of the prior calendar
+                  quarter; plus
+
+            2)    100% (one hundred percent) of incremental Initial Premiums,
+                  Additional Premiums and Reinsurers' Expense, inclusive of
+                  Ceding Commission due, if any; plus
+
+
+                                       11
+<PAGE>
+
+            3)    Ceding Commission actually paid by the Reinsurers, if any;
+                  less
+
+            4)    Return Premium paid by the Reinsurers, if any; less
+
+            5)    Reinsurers' Expense; plus
+
+            6)    Interest Credit, per Article 11, Interest Credit; less
+
+            7)    Ceded Ultimate Net Losses paid by the Reinsurers for the
+                  respective calendar quarter; less
+
+            8)    Any Commutation Amounts paid by the Reinsurer per Article 13,
+                  Commutation.
+
+      The Company shall determine and report the balance and activity of the
+      Funds Held Account quarterly within 60 (sixty) days to the Reinsurer.
+
+      It is hereby understood that, in order for the Reinsurer to receive the
+      balance of the Funds Held Account, for any other reason except as provided
+      by the terms and conditions of this Agreement, this Agreement must be
+      surrendered and reissued to transfer the right to maintain the Funds Held
+      Account.
+
+      The Reinsurer shall remain liable under the terms and conditions hereon
+      until all Ultimate Net Losses are finalized or until this Agreement is
+      commuted.
+
+      In the event the Company is required to transfer the balance of the Funds
+      Held Account to a Contingent Trust Fund pursuant to Article 30 of this
+      Agreement, then the Contingent Trust Fund shall be deemed to be the Funds
+      Held Account for all purposes under this Agreement, including without
+      limitation, determining Commutation payments under Article 13, Profit
+      Sharing under Article 14 and the security required under Article 17.
+
+
+                                   ARTICLE 11
+
+INTEREST CREDIT
+
+The Funds Held Account shall be credited quarterly by the Company with 1). an
+Interest Credit rate of 1.9427% (one point nine four two seven percent) as of
+the first day of each calendar quarter resulting in an effective annual rate of
+8.0% (eight point zero percent) on the Funds Held Account balance as of the end
+of the preceding calendar quarter.
+
+Interest Credit on the Funds Held Account will continue even in the event of the
+Company's insolvency, liquidation or rehabilitation.
+
+                                       12
+<PAGE>
+
+In the event that the Funds Held Account is transferred to a trust account, as
+provided in Article 30, Contingent Trust Account, the Company is obligated to
+contribute additional assets to the trust so that the 1.9427% (one point nine
+four two seven percent) quarterly yield on the trust assets are equivalent to
+the Funds Held Account Interest Credit rate stipulated herein.
+
+
+                                   ARTICLE 12
+
+ACCOUNTS, REMITTANCES AND LOSS SETTLEMENTS
+
+A.    Within 60 (sixty) days following the end of each calendar quarter, the
+      Company shall report to the Reinsurers the amount of:
+
+      1)    Subject Net Earned Premium Income segregated by Short-Tail and Other
+            Lines of Business and Retention;
+
+      2)    Ultimate Net Losses paid segregated by Short-Tail and Other Lines of
+            Business;
+
+      3)    Ultimate Net Losses outstanding segregated by Short-Tail and Other
+            Lines of Business;
+
+      4)    Ultimate Net Losses paid and outstanding under this
+            Agreement segregated by Short-Tail and Other Lines of Business, in
+            accordance with Article 5, Coverage, Retention, Aggregate Limit and
+            Franchise Deductible;
+
+      5)    Premium amounts calculated in accordance with Article 8, Initial
+            Premium, Additional Premium, Return Premium and Reinsurers' Expense,
+            including applicable Ceding Commission; and
+
+      6)    The balance of the Funds Held Account as of that calendar quarter
+            end and activity in the Funds Held Account during the calendar
+            quarter.
+
+      The report outlined in this section shall continue until final settlement
+      of all losses hereunder or Commutation in accordance with Article 13,
+      Commutation.
+
+B.    Remittance of Reinsurers' Expense amounts due shall be paid by the Company
+      to the Reinsurers as premiums are due in the manner outlined under Article
+      8, Initial Premium, Additional Premium, Return Premium and Reinsurers'
+      Expense.
+
+      All loss settlements made by the Company on Subject Business, whether
+      under policy terms and conditions or by way of compromise, shall be in the
+      sole discretion of the Company and shall be unconditionally binding on the
+      Reinsurers. Upon satisfactory proof of loss, the Reinsurers shall pay or
+      allow, as applicable, its share of each such settlement in accordance with
+      this Agreement.
+
+
+                                       13
+<PAGE>
+
+C.    Settlement of Ultimate Net Losses paid in excess of the Retention shall be
+      made by the Reinsurers to the Company quarterly within 15 (fifteen) days
+      of receipt of the report by the Reinsurers or 75 (seventy five) days after
+      the end of the quarter, whichever is later. Ultimate Net Loss amounts
+      shall be firstly deducted from the Funds Held Account until such time as
+      the Funds Held Account is zero, after which amounts shall be paid by the
+      Reinsurers to the Company. The Reinsurers' liability for Ultimate Net
+      Losses (including ceded Ultimate Net Losses paid from the Funds Held
+      Account) shall be subject to the Aggregate Limits hereunder as detailed in
+      Article 5, Coverage, Retention, Aggregate Limit and Franchise Deductible,
+      Sections C, D and E.
+
+
+                                   ARTICLE 13
+
+COMMUTATION
+
+The Company may unilaterally elect to commute Ultimate Net Loss liability
+outstanding if the Funds Held Account balance equals or exceeds total ceded
+reinsurance recoverables (ceded outstanding Ultimate Net Loss, Ceding
+Commissions payable and Return Premiums payable). Otherwise, Commutation is also
+available upon the mutual consent of the Company and the Reinsurers effective at
+any calendar quarter end on or after the termination date, to commute Ultimate
+Net Loss liability outstanding hereunder. At Commutation, the Reinsurers shall
+pay to the Company, the lesser of:
+
+      1)    the present value of any Ultimate Net Loss liability, as determined
+            by the Company; or
+
+      2)    the existing value of the Funds Held Account at the Commutation
+            date.
+
+Commutation payments in accordance with this Article shall be treated as
+Ultimate Net Loss paid under this Agreement for determination of the Funds Held
+Account.
+
+Said payment shall constitute, together with the Profit Sharing payment, Ceding
+Commission and Return Premium settlements, a full and final settlement of all
+terms of this Agreement. The Company will execute a hold harmless agreement in a
+form acceptable to the Company and the Reinsurers so stating and the Reinsurers
+will be thereby released from all current and future liability hereunder.
+
+                                   ARTICLE 14
+
+PROFIT SHARING
+
+Upon finalization of the payment of all Ultimate Net Loss recoverable hereunder
+and/or Commutation, the Reinsurers will relinquish to the Company 100% (one
+hundred percent) of the remaining Funds Held Account balance, if any, after
+payment of the Return Premium and Ceding Commission. Payment of Profit Sharing
+by the Reinsurers to the Company shall release the Reinsurers from all current
+and future liability hereunder.
+
+
+                                       14
+<PAGE>
+
+                                   ARTICLE 15
+
+CURRENCY
+
+Whenever the word "dollars" or the "$" sign appears in this Agreement, they
+shall be construed to mean United States Dollars and all transactions under this
+Agreement shall be in United States Dollars.
+
+Amounts paid or received by the Company in any other currency shall be converted
+to United States Dollars at the rate of exchange at the date such transaction is
+entered on the books of the Company.
+
+
+                                   ARTICLE 16
+
+TAXES
+
+In consideration of the terms under which this Agreement is issued, the Company
+undertakes not to claim any deduction of the premium hereon when making Canadian
+tax returns or when making tax returns, other than income or profits tax
+returns, to any state or territory of the United States of America or to the
+District of Columbia.
+
+The Company shall pay any United States Federal Excise Tax and/or Withholding
+Tax which are applicable to remittances under this Agreement to the appropriate
+authorities. Federal Excise Tax shall not be deducted from the Funds Held
+Account.
+
+Any foreign Reinsurer must file U.S. Federal Tax Form W-8, "Certificate of
+Foreign Status", with the Company certifying that it is a foreign person.
+
+
+                                   ARTICLE 17
+
+REINSURERS' SECURITY
+
+(This Article applies only to a Reinsurer who does not qualify for full credit
+with any insurance regulatory authority having jurisdiction over the Company's
+reserves.)
+
+It is agreed that when the Company files with the Insurance Department or
+establishes reserves for claims covered and unearned premium hereunder, as
+required by law, the Company shall forward to the Reinsurers a statement showing
+the proportion of such loss and unearned premium reserves which is applicable to
+the Reinsurers. The Reinsurers hereby agree, if it is necessary for the Company
+to obtain statutory credit for such, to fund such reserves in respect of
+unearned premium, known outstanding losses that have been reported to the
+Reinsurers and allocated loss adjustment expense relating thereto, losses and
+allocated loss adjustment expense paid by the Company but not recovered from the
+Reinsurers, plus reserves for losses incurred but not reported, as shown in the
+statement prepared by the Company to the extent such reserves exceed the Funds
+Held Account Balance. Upon the Company's request, the Reinsurers hereby agree to
+apply for and secure delivery to the Company of a clean, irrevocable,
+unconditional and evergreen Letter of Credit or Trust, with a minimum term of
+one year, that is issued or confirmed, and presentable and payable in the United
+States by any bank or trust company meeting the requirements under the insurance
+laws of the State of Connecticut, and is in a format acceptable to the
+governmental authority having jurisdiction over the Company's reserves, in an
+amount equal to the Reinsurer's proportion of such loss and unearned premium and
+commission reserves which exceed the Funds Held Account balance.
+
+
+                                       15
+<PAGE>
+
+The Company and the Reinsurers agree that the Letter of Credit provided by the
+Reinsurers under this provision may be drawn upon at any time, notwithstanding
+any other provisions in this Agreement, including and without limitation by any
+liquidator, rehabilitator, receiver or conservator of such Company for the
+following purposes:
+
+      1)    to reimburse the Company for the Reinsurer's share of Ultimate Net
+            Losses paid by the Company under the Reinsurance Agreements
+            reinsured under this Agreement and which has not otherwise been
+            paid;
+
+      2)    to reimburse the Company for the Reinsurer's share of premium
+            returned under the Reinsurance Agreements reinsured under this
+            Agreement on account of cancellation of such Reinsurance Agreements;
+
+      3)    to fund an account with the Company in an amount at least equal to
+            the deduction, for reinsurance ceded, from the Company's liabilities
+            for amounts ceded under this Agreement. Such cash deposits shall be
+            held in an interest bearing account separate from the Company's
+            other assets, and interest thereon shall accrue to the benefit of
+            the Reinsurers. Such amount shall include, but not be limited to,
+            amounts for reserves for claims and losses incurred, including
+            losses incurred but not reported, loss adjustment expenses, and
+            unearned premiums;
+
+      4)    to pay any other amounts the Company claims are due under this
+            Agreement;
+
+      5)    to return any amounts drawn down on Letters of Credit in excess of
+            the actual amounts required for (1), (2) and (3) above, or in case
+            of (4) above, any amounts which are subsequently determined not to
+            be due.
+
+All of the foregoing should be applied without diminution because of insolvency
+on the part of the Company or the Reinsurers.
+
+The designated bank shall have no responsibility whatsoever in connection with
+the propriety of withdrawals made by the Company or the disposition of funds
+withdrawn, except to see that withdrawals are made only upon the order of
+properly authorized representatives of the Company.
+
+
+                                       16
+<PAGE>
+
+
+The Company agrees to pay the actual costs of obtaining any such Letter of
+Credit for amounts up to, but not exceeding, 60 (sixty) basis points times the
+time weighted annual average face amount of such Letter of Credit.
+
+
+
+                                   ARTICLE 18
+
+EXCESS OF POLICY LIMITS
+
+A.    This Agreement shall protect the Company, within the limits hereof, for
+      100% (one hundred percent) of loss in excess of the limit of its original
+      policies of insurance or Reinsurance Agreements, such loss in excess of
+      the limit having been incurred because of failure by the Company to settle
+      within the policies of insurance or Reinsurance Agreement limit or by
+      reason of alleged or actual negligence or bad faith in rejecting an offer
+      of settlement or in the preparation of the defense or in the trial of any
+      action against its insured or reinsured or in the preparation or
+      prosecution of an appeal consequent upon such action.
+
+      However, this Article shall not apply where the loss has been incurred due
+      to fraud by a member of the board of directors or a corporate officer of
+      the company acting individually or collectively or in collusion with any
+      individual or corporation or any other organization or party involved in
+      the presentation, defense or settlement of any claim covered hereunder.
+
+      For the purpose of this Article, the word "loss" shall mean any amounts
+      for which the Company would have been contractually liable to pay had it
+      not been for the limit of the original Reinsurance Agreement.
+
+B.    In addition, Ultimate Net Loss, as defined above, shall include 100% (one
+      hundred percent) of the Company's share of losses paid under excess of
+      policy limits coverage provided by the Company in its Subject Business.
+
+
+                                   ARTICLE 19
+
+EXTRA CONTRACTUAL OBLIGATIONS
+
+A.    This Agreement shall protect the Company for 100% (one hundred percent) of
+      any extra contractual obligations within the limits hereof. The term
+      "Extra Contractual Obligations" is defined as those liabilities not
+      covered under any other provision of the Company's original policies of
+      insurance or Reinsurance Agreements and which arise from the handling of
+      any claim on business covered hereunder, such liabilities arising because
+      of, but not limited to, the following: failure by the Company to settle
+      within the policies of insurance or Reinsurance Agreement limit, or by
+      reason of alleged or actual negligence or bad faith in rejecting an offer
+      of settlement or in the preparation of the defense or in the trial of any
+      action against its insured or reinsured or in the preparation or
+      prosecution of an appeal consequent upon such action.
+
+
+                                       17
+<PAGE>
+
+      The date on which any Extra Contractual Obligation is incurred by the
+      Company shall be deemed, in all circumstances, to be the date of the
+      original loss event. However, this Article shall not apply where the loss
+      has been incurred due to fraud by a member of the board of directors or a
+      corporate officer of the Company acting individually or collectively or in
+      collusion with any individual or corporation or any other organization or
+      party involved in the presentation, defense or settlement of any claim
+      covered hereunder.
+
+B.    In addition, Ultimate Net Loss, as defined above, shall include 100% (one
+      hundred percent) of the Company's share of losses paid under extra
+      contractual obligations coverage provided by the Company in its Subject
+      Business.
+
+
+                                   ARTICLE 20
+
+OFFSET
+
+The Company or the Reinsurers shall have and may exercise, at any time and from
+time to time, the right to offset any balance or balances whether on account of
+Initial Premiums, Return Premiums, Interest Credit, Ceding Commissions, or on
+account of ceded Ultimate Net Losses paid, or otherwise any amounts due from one
+party to the other party hereto under the terms of this Agreement.
+
+
+                                   ARTICLE 21
+
+INDEMNIFICATION AND ERRORS AND OMISSIONS
+
+Any inadvertent delay, omission or error shall not be held to relieve either
+party hereto from any liability which would attach to it hereunder if such
+delay, omission or error had not been made, providing such delay, omission or
+error is rectified upon discovery.
+
+
+                                   ARTICLE 22
+
+ACCESS TO RECORDS
+
+The Company shall place at the disposal of the Reinsurers at all reasonable
+times, and the Reinsurers shall have the right to inspect, through their
+authorized representatives, all books, records and papers of the Company in
+connection with any reinsurance hereunder or claims in connection herewith.
+
+
+                                       18
+<PAGE>
+
+
+                                   ARTICLE 23
+
+ASSIGNMENT AND ASSUMPTION
+
+All the terms of this Agreement will be binding upon the successors and assigns
+of the parties hereto and will inure to the benefit of and be enforceable by the
+parties, their successors and assigns, provided however, that this Agreement may
+not be assigned by either party hereto without the prior written consent to the
+other; and provided further that nothing in this Agreement will prevent either
+the Reinsurers or the Company from merging or consolidating with a corporation
+or having the assets of either the Reinsurers or the Company sold or otherwise
+transferred.
+
+
+                                   ARTICLE 24
+
+INSOLVENCY
+
+A.    In the event of the insolvency of the Company, reinsurance under this
+      Agreement shall be payable by the Reinsurers (on the basis of the
+      liability of the Company under the policy or policies reinsured without
+      diminution because of the insolvency of the Company) to the Company or to
+      its liquidator, receiver or statutory successor, except as provided by
+      Connecticut insurance law or except:
+
+      1)    Where the Agreement specifically provides another payee of such
+            reinsurance in the event of the insolvency of the Company; and
+
+      2)    Where the Reinsurers, with the consent of the direct insured or
+            insureds, has assumed such policy obligations of the Company as
+            direct obligations of the Reinsurers to the payees under such
+            policies and in substitution for the obligations of the Company to
+            such payees.
+
+B.    It is agreed, however, that the liquidator or receiver or statutory
+      successor of the insolvent Company shall give written notice to the
+      Reinsurers of the pendency of a claim against the insolvent Company on the
+      policy or policies reinsured within a reasonable time after such claim is
+      filed in the insolvency proceeding and that, during the pendency of such
+      claim, the Reinsurers may investigate such claim and interpose, at their
+      own expense, in the proceeding where such claim is to be adjudicated, any
+      defense or defenses which they may deem available to the Company or its
+      liquidator or receiver or statutory successor. The expense thus incurred
+      by the Reinsurers shall be chargeable, subject to court approval, against
+      the insolvent Company as part of the expense of liquidation to the extent
+      of a proportionate share of the benefit which may accrue to the Company
+      solely as a result of the defense undertaken by the Reinsurers.
+
+C.    Should the Company go into liquidation or should a receiver be appointed,
+      the Reinsurers shall be entitled to deduct from any sums which may be or
+      may become due to the Company under this Agreement any sums which are due
+      to the Reinsurers by the Company under this Agreement and which are
+      payable at a fixed or stated date, as well as any other sums due the
+      Reinsurers which are permitted to be offset under applicable law.
+
+
+                                       19
+<PAGE>
+
+                                   ARTICLE 25
+
+CONFIDENTIALITY
+
+The parties acknowledge there may be portions of this Agreement, the treaty
+prospectus or the marketing package that may contain confidential, proprietary
+information of the Company. The Reinsurers shall maintain the confidentiality of
+such information concerning the Company or its business and shall not disclose
+it to any third person without prior approval; provided, however, that the
+Reinsurers may be required and are permitted under this Agreement to disclose
+such information in answers to interrogatories, subpoenas or other
+legal/arbitration processes as well as to the Company's Intermediaries, to the
+Reinsurers' retrocessionaires, and applicable intermediaries, or in response to
+request by governmental and regulatory agencies. In addition, the Reinsurers may
+disclose such information to their accountants and to their outside legal
+counsel as may be necessary.
+
+
+                                   ARTICLE 26
+
+ARBITRATION
+
+A.    As a condition precedent to any right of action hereunder, if any dispute
+      shall arise between the Company and the Reinsurers with reference to the
+      formation or validity of this Agreement, the interpretation of this
+      Agreement or their rights with respect to any transaction involved,
+      whether such dispute arises before or after termination of this Agreement,
+      such dispute, upon the written request of either party, shall be submitted
+      to three arbitrators, one to be chosen by each party, and the third by the
+      two so chosen. If either party refuses or neglects to appoint an
+      arbitrator within 30 (thirty) days after the receipt of written notice
+      from the other party requesting it to do so, the requesting party may
+      appoint two arbitrators. If the two arbitrators fail to agree on the
+      selection of a third arbitrator within 30 (thirty) days of their
+      appointment, each of them shall name two, of whom each shall decline one
+      and the decision shall be made by the American Arbitration Association.
+      All arbitrators shall be active or retired disinterested executive
+      officers of insurance or reinsurance companies not under the management or
+      control of either party to this Agreement.
+
+B.    Each party shall submit its case to its arbitrator within 30 (thirty) days
+      of the appointment of the third arbitrator. The arbitrators shall render a
+      decision within 30 (thirty) days of the close of the arbitration hearing.
+
+C.    The decision in writing of any two arbitrators, when filed with the
+      parties hereto, shall be final and binding on both parties. Judgment may
+      be entered upon the final decision of the arbitrators in any court having
+      jurisdiction. Each party shall bear the expense of its own arbitrator and
+      shall jointly and equally bear with the other party the expense of the
+      third arbitrator and of the arbitration. Said arbitration shall take place
+      in Edison, New Jersey, unless some other place is mutually agreed upon by
+      the Company and the Reinsurers.
+
+
+                                       20
+<PAGE>
+
+                                   ARTICLE 27
+
+SERVICE OF SUIT
+
+Subject to the provisions of Article 26, Arbitration ,it is agreed that in the
+event of the failure of the Reinsurers to pay any amount claimed to be due under
+this Agreement, the Reinsurers, at the request of the Company, shall submit to
+the jurisdiction of any court of competent jurisdiction within the United States
+of America and shall comply with all requirements necessary to give such court
+jurisdiction; and all matters arising hereunder shall be determined in
+accordance with the law and practice of such court. Nothing in this Article
+constitutes or should be understood to constitute a waiver of the Reinsurers'
+rights to commence an action in any court of competent jurisdiction in the
+United States of America, to remove an action to a United States District Court,
+or to seek a transfer of a case to another court as permitted by the laws of the
+United States of America or of any state in the United States of America.
+
+Service of process in such suit may be made upon Messrs. Mendes and Mount, 750
+Seventh Avenue, New York, New York 10019-6829 (hereinafter "agent for service of
+process"), and in any suit instituted against the Reinsurers upon this
+Agreement, the Reinsurers shall abide by the final decision of such court or of
+any appellate court in the event of an appeal.
+
+The above named are authorized and directed to accept service of process on
+behalf of the Reinsurers in any such suit and/or upon the request of the Company
+to give a written undertaking to the Company that the agent for service of
+process shall enter a general appearance on behalf of the Reinsurers in the
+event such a suit shall be instituted.
+
+Further, pursuant to any statute of any state, territory or district of the
+United States of America which makes provision therefor, the Reinsurers hereby
+designate the Superintendent, Commissioner or Director of Insurance, or other
+officer specified for that purpose in the statute, or his successor or
+successors in office, as their true and lawful attorney upon whom may be served
+any lawful process in any action, suit or proceeding instituted by or on behalf
+of the Company or any beneficiary hereunder arising out of this Agreement and
+hereby designate the agent for service of process as the firm to whom the said
+officer is authorized to mail such process or a true copy thereof.
+
+
+                                   ARTICLE 28
+GOVERNING LAW
+
+This Agreement shall be governed as to performance, administration and
+interpretation by the laws of New York, exclusive of the rules with respect to
+conflicts of law, and except as to rules with respect to credit for reinsurance
+in which case the rules of all applicable states shall apply.
+
+
+                                       21
+<PAGE>
+
+                                   ARTICLE 29
+
+SEVERABILITY
+
+If any provision of this Agreement shall be rendered illegal or unenforceable by
+the laws, regulation or public policy of any jurisdiction, the parties hereto
+agree to renegotiate in good faith the terms and conditions of such provision as
+it applies to such jurisdiction, but only to the extent required to conform to
+the applicable statute or regulation, and to renegotiate in good faith such
+other terms and provisions of this Agreement (if any) which are affected by the
+illegality or unenforceability of such provision as it applies to such
+jurisdiction.
+
+
+                                   ARTICLE 30
+
+CONTINGENT TRUST FUND
+
+The Company will immediately transfer the balance of the Funds Held Account in
+no less than 30 (thirty) days from the date of a Triggering Event, into a New
+York Regulation No. 114 compliant trust account. Notwithstanding the above, the
+Company is required to deposit additional assets into the trust account as to
+guarantee an investment return equivalent to the Interest Credit, as provided in
+Article 11, Interest Credit. A Triggering Event shall include the following:
+
+      1)    Change of Control - a change in the ultimate controlling shareholder
+            of the Company that requires a filing to be made with any insurance
+            regulatory authority or with the Securities and Exchange Commission
+            of the United States, excluding any internal consolidation or
+            reorganization which does not change such ultimate controlling
+            shareholder;
+
+      2)    Change in Management - any change, without the prior written consent
+            of the Reinsurers, in the offices of Chairman, President or Chief
+            Executive Officer or a change to the office of the majority of
+            Executive Vice Presidents of the Company; or
+
+      3)    Downgrade - a downgrade in the Company's rating by A.M. Bests below
+            "B++" (Very Good); or
+
+      4)    Regulatory Scrutiny or Oversight - the Company becomes (a) subject
+            to the administrative supervision of any applicable insurance
+            regulatory authority, (b) becomes subject to any rehabilitation or
+            insolvency proceeding, or (c), the Company's risk based capital
+            falls below the Company Action Level, as defined in the NAIC Risk
+            Based Capital Model Act; or
+
+
+                                       22
+<PAGE>
+
+                                   ARTICLE 31
+
+
+CHANGES IN ADMINISTRATIVE PRACTICES
+
+The Company may not commute any of the reinsurance agreements set forth on
+Schedule B without the prior approval of the Reinsurer, provided, however, that
+if the Company is required to commute under the terms of the underlying
+reinsurance agreements, then such agreement shall be deemed to be in place as if
+there had been no commutation until all liability of the Reinsurer under this
+Agreement is commuted.
+
+
+                                   ARTICLE 32
+
+INTERMEDIARY
+
+Pegasus Advisors - Towers Perrin Reinsurance is hereby recognized as the
+Intermediary negotiating this Agreement for all business hereunder. All
+communications (including but not limited to notices, statements, premium,
+return premium, commissions, taxes, losses, loss adjustment expenses, salvages
+and loss settlements) related hereto shall be transmitted to the Company or the
+Reinsurer through Pegasus Advisors - Towers Perrin Reinsurance, Forestal Centre,
+175 Powder Forest Drive, Weatogue, Connecticut 06089. It is understood, as
+regards remittances due either party hereunder, that payment by the Company to
+the Intermediary shall constitute payment to the Reinsurer but payment by the
+Reinsurer to the Intermediary shall only constitute payment to the Company to
+the extent that such payments are actually received by the Company.
+Notwithstanding the foregoing, it is agreed that all payments will be direct
+from the Reinsurer to the Company, or from the Company to the Reinsurer, as
+appropriate.
+
+
+                                   ARTICLE 33
+
+COUNTERPARTS
+
+This Agreement may be executed in two or more counterparts, each of which shall
+be deemed an original, but all of which together shall constitute one and the
+same instrument.
+
+
+                                   ARTICLE 34
+
+OTHER CLAUSES
+
+1)       Change in Control
+2)       Others to be agreed.
+
+
+                                       23
+<PAGE>
+
+
+In Witness Whereof, the parties hereto express their agreement by their duly
+authorized signatures below:
+
+
+For and on behalf of PXRE Reinsurance Company in confirmation of the terms,
+conditions and Reinsurers hereon:
+
+By:    /s/ J. Radke
+       -------------------------
+
+Title:  EVP
+       -------------------------
+
+
+For and on behalf of Select Reinsurance Ltd., for a 40% (forty percent)
+participation, in confirmation of the terms and conditions hereon, however
+signed subject to no other reinsurer or rcinsurers to this transaction receiving
+more favorable terms and conditions than Select Reinsurance Ltd., additionally
+noting however that Select Re is not requiring PXRE Reinsurance Company to post
+a letter of credit at the inception of the agreement as required by other
+reinsurers to this Agreement and also that Select Reinsurance Ltd. shall have
+Change of Control as a Triggering Event per Article 30 of this Agreement while
+other reinsurer or reinsurers may not have such a provision included within the
+terms of their own Agreements.
+
+
+ By:   /s/ Robert P. Myron
+       ---------------------------
+
+Title: Vice President
+       Select Reinsurance Ltd.
+       ---------------------------
+
+
+                                       24
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2705 @@
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>15
+<FILENAME>w56746ex10-30.txt
+<DESCRIPTION>CREDIT AGREEMENT DATED NOVEMBER 7, 2001
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.30
+
+================================================================================
+
+                                CREDIT AGREEMENT
+
+                                      among
+
+                          ENHANCE REINSURANCE COMPANY,
+
+                                  VARIOUS BANKS
+
+                                       and
+
+                                DEUTSCHE BANK AG,
+                                NEW YORK BRANCH,
+                                    as Agent
+
+                                   ----------
+
+                          Dated as of November 7, 2001
+
+                                   ----------
+
+                         DEUTSCHE BANC ALEX. BROWN INC.,
+                                   as Arranger
+
+================================================================================
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                Page
+                                                                                ----
+<S>                                                                             <C>
+SECTION 1.  DEFINITIONS AND PRINCIPLES OF CONSTRUCTION......................       1
+
+      Section 1.01  Defined Terms...........................................       1
+      Section 1.02  Principles of Construction..............................      10
+
+SECTION 2.  AMOUNT AND TERMS OF CREDIT......................................      10
+
+      Section 2.01  The Loans...............................................      10
+      Section 2.02  Amount of Each Borrowing................................      11
+      Section 2.03  Notice of Borrowing.....................................      11
+      Section 2.04  Disbursement of Funds...................................      11
+      Section 2.05  Notes...................................................      11
+      Section 2.06  Interest................................................      12
+      Section 2.07  Capital Adequacy........................................      12
+      Section 2.08  Obligations of Defaulting Banks.........................      13
+
+SECTION 3.  COMMITMENT FEES, FEES; AND TERMINATIONS, EXTENSIONS
+            AND INCREASES OF COMMITMENTS AND CONTINGENT
+            COMMITMENTS.....................................................      13
+
+      Section 3.01  Fees....................................................      13
+      Section 3.02  Voluntary Termination of Unutilized Commitments and
+                    Unutilized Contingent Commitments.......................      14
+      Section 3.03  Mandatory Termination of Commitments and Contingent
+                    Commitments.............................................      14
+      Section 3.04  Expiry Date.............................................      14
+
+SECTION 4.  PREPAYMENTS; PAYMENTS...........................................      15
+
+      Section 4.01  Voluntary Prepayments...................................      15
+      Section 4.02  Mandatory Prepayments...................................      15
+      Section 4.03  Method and Place of Payment.............................      15
+      Section 4.04  Net Payments............................................      16
+      Section 4.05  Limitations on Sources of Payment.......................      17
+
+SECTION 5.  CONDITIONS PRECEDENT TO EFFECTIVENESS...........................      17
+
+      Section 5.01  Execution of Agreement; Notes...........................      18
+      Section 5.02  No Default; Representations and Warranties..............      18
+      Section 5.03  Opinions of Counsel.....................................      18
+      Section 5.04  Corporate Documents; Proceedings........................      18
+      Section 5.05  Security Agreement......................................      18
+      Section 5.06  Covered Portfolio, etc..................................      18
+</TABLE>
+
+
+                                       (i)
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                Page
+                                                                                ----
+<S>                                                                             <C>
+      Section 5.07  Requisite Approvals.....................................      19
+      Section 5.08  Litigation..............................................      19
+      Section 5.09  Fees, etc...............................................      19
+
+SECTION 6.  CONDITIONS PRECEDENT TO ALL CREDIT EVENTS.......................      19
+
+      Section 6.01  Loss Threshold Incurrence Date..........................      19
+      Section 6.02  Notice of Borrowing.....................................      19
+
+SECTION 7.  REPRESENTATIONS, WARRANTIES AND AGREEMENTS......................      20
+
+      Section 7.01  Corporate Status........................................      20
+      Section 7.02  Corporate Power and Authority...........................      20
+      Section 7.03  No Violation............................................      20
+      Section 7.04  Governmental Approvals..................................      20
+      Section 7.05  Financial Statements; Financial Condition;
+                    Undisclosed Liabilities; etc............................      21
+      Section 7.06  Litigation..............................................      21
+      Section 7.07  True and Complete Disclosure............................      21
+      Section 7.08  Use of Proceeds; Margin Regulations.....................      22
+      Section 7.09  Tax Returns and Payments................................      22
+      Section 7.10  Compliance with ERISA...................................      22
+      Section 7.11  Capitalization..........................................      23
+      Section 7.12  No Subsidiaries.........................................      23
+      Section 7.13  Compliance with Statutes, etc...........................      23
+      Section 7.14  Investment Company Act..................................      23
+      Section 7.15  Public Utility Holding Company Act......................      23
+      Section 7.16  Compliance with Insurance Law...........................      23
+      Section 7.17  Covered Portfolio.......................................      24
+
+SECTION 8.  AFFIRMATIVE COVENANTS...........................................      24
+
+      Section 8.01  Information Covenants...................................      24
+      Section 8.02  Books, Records and Inspections..........................      26
+      Section 8.03  Corporate Franchises....................................      27
+      Section 8.04  Compliance with Statutes, etc...........................      27
+      Section 8.05  ERISA...................................................      27
+      Section 8.06  Performance of Obligations..............................      27
+      Section 8.07  Use of Proceeds.........................................      28
+      Section 8.08  Conduct of Business.....................................      28
+      Section 8.09  Underwriting Criteria...................................      28
+      Section 8.10  Collection of Pledged Recoveries and Pledged Premiums...      28
+      Section 8.11  Pledged Reserve Release Notice..........................      28
+      Section 8.12  Registry................................................      28
+
+SECTION 9.  NEGATIVE COVENANTS..............................................      28
+
+      Section 9.01  Liens...................................................      28
+</TABLE>
+
+
+                                      (ii)
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                Page
+                                                                                ----
+<S>                                                                             <C>
+      Section 9.02  Consolidation, Merger, Sale of Assets, etc..............      29
+
+SECTION 10.  EVENTS OF DEFAULT..............................................      30
+
+      Section 10.01  Payments...............................................      30
+      Section 10.02  Representations, etc...................................      30
+      Section 10.03  Covenants..............................................      30
+      Section 10.04  Default Under Other Agreements.........................      30
+      Section 10.05  Bankruptcy, etc........................................      30
+      Section 10.06  Security Agreement.....................................      31
+      Section 10.07  Judgments..............................................      31
+      Section 10.08  Change of Control......................................      31
+
+SECTION 11.  THE AGENT......................................................      31
+
+      Section 11.01  Appointment............................................      31
+      Section 11.02  Nature of Duties.......................................      32
+      Section 11.03  Lack of Reliance on the Agent..........................      32
+      Section 11.04  Certain Rights of the Agent............................      32
+      Section 11.05  Reliance...............................................      33
+      Section 11.06  Indemnification........................................      33
+      Section 11.07  The Agent in Its Individual Capacity...................      33
+      Section 11.08  Resignation by the Agent...............................      33
+
+SECTION 12.  MISCELLANEOUS..................................................      34
+
+      Section 12.01  Payment of Expenses, etc...............................      34
+      Section 12.02  Right of Setoff........................................      34
+      Section 12.03  Notices................................................      35
+      Section 12.04  Benefit of Agreement...................................      35
+      Section 12.05  No Waiver; Remedies Cumulative.........................      37
+      Section 12.06  Calculations; Computations.............................      38
+      Section 12.07  Governing Law; Submission to Jurisdiction; Venue;
+                      Waiver of Jury Trial..................................      38
+      Section 12.08  Counterparts...........................................      39
+      Section 12.09  Effectiveness..........................................      39
+      Section 12.10  Headings Descriptive...................................      39
+      Section 12.11  Amendment or Waiver....................................      39
+      Section 12.12  Survival...............................................      39
+      Section 12.13  Exclusions from Covered Portfolio......................      39
+      Section 12.14  Confidentiality........................................      40
+      Section 12.15  Payments Pro Rata......................................      41
+</TABLE>
+
+
+                                      (iii)
+<PAGE>
+SCHEDULES
+
+Schedule I        Commitments
+Schedule II       Email re Reinsured Obligations
+
+EXHIBITS
+
+Exhibit A         Notice of Borrowing
+Exhibit B         Note
+
+Exhibit C         Matters to be Covered by Opinions of
+                     Counsel to the Borrower
+Exhibit D         Officers' Certificate of the Borrower
+Exhibit E         Pledge and Security Agreement
+Exhibit F         Assignment and Assumption Agreement
+
+
+                                      (iv)
+<PAGE>
+            CREDIT AGREEMENT, dated as of November 7, 2001, among ENHANCE
+REINSURANCE COMPANY, a New York stock insurance company (the "Borrower"), the
+Banks party hereto from time to time, and DEUTSCHE BANK AG, NEW YORK BRANCH,
+acting in its capacity as Agent pursuant to Section 11 (in such capacity, the
+"Agent").
+
+                              W I T N E S S E T H :
+
+            WHEREAS, subject to and upon the terms and conditions herein set
+forth, the Banks are willing to make available to the Borrower the credit
+facility provided for herein;
+
+            NOW, THEREFORE, IT IS AGREED:
+
+SECTION 1. DEFINITIONS AND PRINCIPLES OF CONSTRUCTION.
+
+            Section 1.01 Defined Terms. As used in this Agreement, the following
+terms shall have the following meanings (such meanings to be equally applicable
+to both the singular and plural forms of the terms defined):
+
+            "Affiliate" shall mean, with respect to any Person, any other Person
+(other than an individual) directly or indirectly controlling, controlled by, or
+under direct or indirect common control with, such Person; provided, however,
+that an Affiliate of the Borrower shall include any Person that directly or
+indirectly owns more than 10% of the Borrower and any officer or director of the
+Borrower or any such Person. A Person shall be deemed to control another Person
+if such Person possesses, directly or indirectly, the power to direct or cause
+the direction of the management and policies of such other Person, whether
+through the ownership of voting securities, by contract or otherwise.
+
+            "Agent" shall mean Deutsche Bank AG, New York Branch, in its
+capacity as Agent for the Banks hereunder, and shall include any successor to
+the Agent appointed pursuant to Section 11.08.
+
+            "Agreement" shall mean this Credit Agreement, as modified,
+supplemented or amended from time to time.
+
+            "Applicable Margin" shall mean a percentage per annum equal to 2.0%.
+
+            "Assignment and Assumption Agreement" shall mean any Assignment and
+Assumption Agreement substantially in the form of Exhibit F entered into
+pursuant to the terms hereof.
+
+            "Authorized Officer" shall mean the president, any vice president,
+the chief financial officer or the treasurer of the Borrower.
+
+            "Average Annual Debt Service" as of a specified date with respect to
+an Insured Obligation shall mean the applicable Retained Percentage times the
+sum of (i) the aggregate outstanding principal amount of such Insured Obligation
+and (ii) the aggregate amount of interest thereafter required to be paid on such
+Insured Obligation (giving effect to all mandatory sinking
+<PAGE>
+fund payments or other regularly scheduled required redemptions, prepayments or
+other retirement of principal), divided by the number of whole and fractional
+years from the date of determination to the latest maturity date of such Insured
+Obligation, and as of a specified date with respect to the Covered Portfolio
+shall mean the sum of the Annual Average Debt Service as of such date of all
+Insured Obligations contained in the Covered Portfolio. In the event that an
+Insured Obligation bears interest at a variable rate, the interest thereon for
+purposes of the determination of Average Annual Debt Service shall be calculated
+at the rate employed by the Borrower to compute average annual debt service with
+respect to such Insured Obligation in accordance with its customary business
+practices.
+
+            "Bank" shall mean the banks listed on the signature pages hereof on
+the Effective Date as well as any institution which becomes a Bank hereunder
+pursuant to Section 12.04(b).
+
+            "Bankruptcy Code" shall have the meaning provided in Section 10.05.
+
+            "Base Rate" shall mean the higher of (i) 1/2 of 1% in excess of the
+Federal Funds Rate and (ii) the Prime Lending Rate.
+
+            "Borrower" shall have the meaning provided in the first paragraph of
+this Agreement.
+
+            "Borrower's Rating" shall mean the Borrower's claims-paying ability
+rating.
+
+            "Borrowing" shall mean the borrowing of Loans on a given date.
+
+            "Business Day" shall mean any day except Saturday, Sunday and any
+day which shall be in New York City a legal holiday or a day on which banking
+institutions are authorized or required by law or other government action to
+close.
+
+            "Change of Control" shall mean and include the occurrence of any of
+the following events: any Person, entity or "group" (within the meaning of
+Sections 13(d) or 14(d) of the Securities Exchange Act of 1934) other than
+Radian Group Inc. or any Affiliate thereof (i) shall have acquired, directly or
+indirectly, beneficial ownership of 20% or more of any outstanding class of
+capital stock of the Borrower having ordinary voting power in the election of
+directors, provided that any Person, entity or group shall be permitted to
+acquire up to 25% of the outstanding capital stock of any such class in a
+transaction approved before the consummation of same by a majority of the
+directors of the Borrower or (ii) shall have obtained the power (whether or not
+exercised) to elect the majority of the Board of Directors of the Borrower.
+
+            "Code" shall mean the Internal Revenue Code of 1986, as amended from
+time to time, and the regulations promulgated and rulings issued thereunder.
+Section references to the Code are to the Code, as in effect at the date of this
+Agreement and any subsequent provisions of the Code, amendatory thereof,
+supplemental thereto or substituted therefor.
+
+            "Collateral" shall mean all "Collateral" as defined in the Security
+Agreement.
+
+            "Collateral Account" shall have the meaning provided in the Security
+Agreement.
+
+
+                                      -2-
+<PAGE>
+            "Collateral Agent" shall have the meaning provided in the Security
+Agreement.
+
+            "Commitment" shall mean, for each Bank, the amount set forth
+opposite such Bank's name in Part A of Schedule I hereto directly below the
+column entitled "Commitment", as the same may be (i) reduced from time to time
+pursuant to Section 3.02 and/or 3.03 and (ii) adjusted from time to time as a
+result of assignments to or from such Bank pursuant to Section 3.04 or 12.04.
+
+            "Commitment Fees" shall have the meaning provided in Section
+3.01(a).
+
+            "Commitment Period" initially shall mean the period commencing on
+the Effective Date and ending on the Expiry Date and, from and after the date of
+any extension of the Expiry Date, shall mean the period commencing on the date
+which is seven years prior to the Expiry Date and ending on the Expiry Date.
+
+            "Contingent Commitment" shall mean for each Part C Bank the amount
+set forth opposite such Part C Bank's name in Part C of Schedule I hereto
+directly below the column entitled "Contingent Commitment", as the same may be
+(i) reduced from time to time pursuant to Section 3.02 and/or 3.03 and (ii)
+adjusted from time to time as a result of assignments to or from such Part C
+Bank pursuant to Section 3.04 or 12.04.
+
+            "Contingent Obligation" shall mean, as to any Person, any obligation
+of such Person guaranteeing or intended to guarantee any Indebtedness, leases,
+dividends or other obligations ("primary obligations") of any other Person (the
+"primary obligor") in any manner, whether directly or indirectly, including,
+without limitation, any obligation of such Person, whether or not contingent,
+(i) to purchase any such primary obligation or any property constituting direct
+or indirect security therefor, (ii) to advance or supply funds (a) for the
+purchase or payment of any such primary obligation or (b) to maintain working
+capital or equity capital of the primary obligor or otherwise to maintain the
+net worth or solvency of the primary obligor, (iii) to purchase property,
+securities or services primarily for the purpose of assuring the holder of any
+such primary obligation of the ability of the primary obligor to make payment of
+such primary obligation or (iv) otherwise to assure or hold harmless the holder
+of such primary obligation against loss in respect thereof; provided, however,
+that the term Contingent Obligation shall not include endorsements of
+instruments for deposit or collection in the ordinary course of business or
+obligations under insurance or reinsurance contracts entered into in the
+ordinary course of business to secure reinsurance obligations. The amount of any
+Contingent Obligation shall be deemed to be an amount equal to the stated or
+determinable amount of the primary obligation in respect of which such
+Contingent Obligation is made or, if not stated or determinable, the maximum
+reasonably anticipated liability in respect thereof (assuming such Person is
+required to perform thereunder) as determined by such Person in good faith.
+
+            "Covered Portfolio" shall mean and include each Insured Obligation
+as of the Effective Date and each Insured Obligation issued thereafter and prior
+to the Loss Threshold Incurrence Date other than any Insured Obligation which is
+excluded from the Covered Portfolio pursuant to Section 12.13.
+
+
+                                      -3-
+<PAGE>
+            "Credit Documents" shall mean this Agreement, each Note and the
+Security Agreement.
+
+            "Credit Event" shall mean the making of any Loan.
+
+            "Cumulative Losses" for a specified period shall mean the aggregate
+Losses of the Borrower determined cumulatively during such period without regard
+to Pledged Recoveries.
+
+            "Declining Bank" shall have the meaning provided in Section 3.04(b).
+
+            "Default" shall mean any event, act or condition which with notice
+or lapse of time, or both, would constitute an Event of Default.
+
+            "Defaulted Loan" shall mean, with respect to any Bank at any time,
+the Loan or portion of any Loan required to be made by such Bank to the Borrower
+pursuant to Section 2.01 at or prior to such time that has not been made by such
+Bank as of such time.
+
+            "Defaulting Bank" shall mean, at any time, any Bank that, at such
+time, owes a Defaulted Loan.
+
+            "Dollars" and the sign "$" shall each mean freely transferable
+lawful money of the United States.
+
+            "Effective Date" shall have the meaning provided in Section 12.09.
+
+            "Eligible Transferee" shall mean and include a commercial bank,
+financial institution or other "accredited investor" (as defined in Regulation D
+of the Securities Act of 1933, as amended, and the rules and regulations
+promulgated thereunder) assigned, or the parent of which is assigned, an
+unsecured senior debt rating (or shadow rating as reflected in a letter) by each
+of Moody's and S&P.
+
+            "ERISA" shall mean the Employee Retirement Income Security Act of
+1974, as amended from time to time, and the regulations promulgated and rulings
+issued thereunder. Section references to ERISA are to ERISA, as in effect at the
+date of this Agreement, and to any subsequent provisions of ERISA, amendatory
+thereof, supplemental thereto or substituted therefor.
+
+            "ERISA Affiliate" shall mean any person (as defined in Section 3(9)
+of ERISA) which together with the Borrower or any of its Subsidiaries would be
+deemed to be a "single employer" within the meaning of Section 414(b), (c), (m)
+or (o) of the Code.
+
+            "Event of Default" shall have the meaning provided in Section 10.
+
+            "Expiry Date" shall have the meaning provided in Section 3.04(a).
+
+            "Extending Bank" shall have the meaning provided in Section 3.04(b).
+
+            "Extension Request" shall have the meaning provided in Section
+3.04(a).
+
+
+                                      -4-
+<PAGE>
+            "Federal Funds Rate" shall mean for any period, a fluctuating
+interest rate equal for each day during such period to the weighted average of
+the rates on overnight Federal Funds transactions with members of the Federal
+Reserve System arranged by Federal Funds brokers, as published for such day (or,
+if such day is not a Business Day, for the next preceding Business Day) by the
+Federal Reserve Bank of New York, or, if such rate is not so published for any
+day which is a Business Day, the average of the quotations for such day on such
+transactions received by the Agent from three Federal Funds brokers of
+recognized standing selected by the Agent.
+
+            "Fees" shall mean all amounts payable pursuant to or referred to in
+Section 3.01.
+
+            "holder of any Note" shall mean any Federal Reserve Bank to which a
+Bank has pledged its Note to the extent such Federal Reserve Bank has foreclosed
+upon such Note.
+
+            "Increasing Extending Bank" shall have the meaning provided in
+Section 3.04(b).
+
+            "Indebtedness" shall mean, as to any Person, without duplication,
+(i) all indebtedness (including principal, interest, fees and charges) of such
+Person for borrowed money or for the deferred purchase price of property or
+services, (ii) the face amount of all letters of credit issued for the account
+of such Person and all drafts drawn thereunder, (iii) all liabilities secured by
+any Lien on any property owned by such Person, whether or not such liabilities
+have been assumed by such Person, (iv) the aggregate amount required to be
+capitalized under leases under which such Person is the lessee and (v) all
+Contingent Obligations of such Person.
+
+            "Installment Premiums" shall mean any and all premiums which are
+required to be paid or claimed to be required to be paid to or for the account
+of the Borrower in respect of Insured Obligations in the Covered Portfolio on a
+periodic basis rather than by payment in full on the date of the effectiveness
+of the relevant Insurance Contract.
+
+            "Insurance Contracts" shall have the meaning provided in Section
+7.16.
+
+            "Insured Obligation" shall mean "municipal obligation bonds",
+"special revenue bonds", "industrial development bonds" and "utility first
+mortgage obligations" which the Borrower is permitted to insure or reinsure
+under the provisions of Section 6904 (b) (1) (A), (B) or (C) of the New York
+Insurance Law (without regard to clause (J) thereof) as in effect on the
+Effective Date and issued by the United States, a state thereof or the District
+of Columbia, a municipality or governmental unit or other political subdivision
+of the foregoing or any public agency or instrumentality, in any event to the
+extent that the payment of principal thereof and/or interest thereon is insured,
+reinsured or otherwise guaranteed by the Borrower, and which, as of the
+Effective Date (with respect to Insured Obligations in the Covered Portfolio as
+of the Effective Date), or at the time it so insured, reinsured or otherwise
+guaranteed (with respect to Insured Obligations which are added to the Covered
+Portfolio after the Effective Date), has an investment grade rating (either
+directly or by a shadow rating) from Moody's, S&P or Fitch, Inc.
+
+            "Lending Office" shall mean the office of the Agent located at 31
+West 52nd Street, New York, New York 10019 or such other office, Subsidiary or
+Affiliate of the Agent as the Agent may from time to time specify as such to the
+Borrower.
+
+
+                                      -5-
+<PAGE>
+            "Lien" shall mean any mortgage, pledge, hypothecation, assignment,
+deposit arrangement, encumbrance, lien (statutory or other), preference,
+priority or other security agreement of any kind or nature whatsoever
+(including, without limitation, any conditional sale or other title retention
+agreement, any financing or similar statement or notice filed under the UCC or
+any other similar recording or notice statute, and any lease having
+substantially the same effect as any of the foregoing).
+
+            "Loan" shall have the meaning provided in Section 2.01(a).
+
+            "Loss" shall mean at any time the aggregate sum of (i) the amount
+paid by the Borrower at such time or required at such time to be paid by the
+Borrower on claims under an Insurance Contract with respect to an Insured
+Obligation in the Covered Portfolio by reason of the failure by the issuer
+thereof or other obligor with respect thereto to pay insured amounts on such
+Insured Obligations when due (including adjustment expenses with respect to such
+claims), plus (ii) Permitted Reserves at such time, minus (iii) amounts paid at
+such time or reasonably expected by the Borrower at such time to be paid to the
+Borrower under reinsurance agreements (whether facultative or treaty) and
+similar arrangements with respect to the claims referred to in clause (i), minus
+(iv) any amount received prior to the Loss Threshold Incurrence Date which if
+received after the Loss Threshold Incurrence Date would constitute a Pledged
+Recovery, provided that, without limiting the generality of the foregoing, the
+term "Loss" shall not include any damages or penalties required to be paid by
+the Borrower in respect of an Insurance Contract by reason of the breach by the
+Borrower of its obligations thereunder or the cancellation or termination
+thereof other than in accordance with its terms.
+
+            "Loss Threshold Incurrence Date" shall mean the date on which the
+Borrower has Cumulative Losses (net of recoveries) during the relevant
+Commitment Period equal to the greater of $200,000,000 and 7% of Average Annual
+Debt Service as of any date of determination thereof.
+
+            "Majority Banks" shall mean at any time Banks owed at least 51% of
+the aggregate principal amount of the Loans outstanding at such time or, if no
+Loans are outstanding at such time, Banks holding at least 51% of the aggregate
+Commitments at such time; provided, however, that if any Bank shall be a
+Defaulting Bank at such time, there shall be excluded from the determination of
+Majority Banks at such time (i) the aggregate principal amount of the Loans
+owing to such Bank and outstanding at such time and (ii) the Commitment of such
+Bank at such time.
+
+            "Majority Participants" shall have the meaning provided in Section
+12.04(a).
+
+            "Margin Stock" shall have the meaning provided in Regulation U of
+the Board of Governors of the Federal Reserve System.
+
+            "Moody's" shall mean Moody's Investors Service, Inc.
+
+            "Multiemployer Plan" shall mean any multiemployer plan as defined in
+Section 4001(1)(3) of ERISA, which is contributed to by (or to which there is an
+obligation to contribute
+
+
+                                      -6-
+<PAGE>
+of) the Borrower, a Subsidiary of the Borrower or an ERISA Affiliate, and each
+such plan for the five-year period immediately following the latest date on
+which the Borrower, a Subsidiary of the Borrower or an ERISA Affiliate
+contributed to or had an obligation to contribute to such plan.
+
+            "Note" shall have the meaning provided in Section 2.05.
+
+            "Notice of Borrowing" shall have the meaning provided in Section
+2.03.
+
+            "Notice Office" shall mean the office of the Agent located at 31
+West 52nd Street, New York, New York 10019, or such other office as the Agent
+may hereafter designate in writing as such to the Borrower.
+
+            "Obligations" shall mean all amounts owing to the Agent, Collateral
+Agent or any Bank pursuant to the terms of this Agreement or any other Credit
+Document.
+
+            "Part B Bank" shall mean each Bank listed on Part B of Schedule I
+hereto.
+
+            "Part C Bank" shall mean each Bank listed on Part C of Schedule I
+hereto.
+
+            "Part C Loan" shall have the meaning provided in Section 2.08.
+
+            "Payment Office" shall mean the office of the Agent located at 31
+West 52nd Street, New York, New York 10019, or such other office as the Agent
+may hereafter designate in writing as such to the Borrower.
+
+            "PBGC" shall mean the Pension Benefit Guaranty Corporation
+established pursuant to Section 4002 of ERISA or any successor thereto.
+
+            "Permitted Liens" shall have the meaning provided in Section 9.01.
+
+            "Permitted Reserves" shall mean, with respect to any Insured
+Obligation, an amount equal to the reserves established in accordance with the
+Borrower's statutory accounting practices which are deemed necessary or prudent
+in the reasonable judgment of the Borrower by reason of the failure or
+anticipated failure by the issuer of such Insured Obligation or other obligor
+with respect thereto to pay such Insured Obligation when due, all as reflected
+on the Borrower's books and which are or will be reported by the Borrower in its
+statutory financial statements.
+
+            "Person" shall mean any individual, partnership, limited liability
+company, joint venture, firm, corporation, association, trust or other
+enterprise or any government or political subdivision or any agency, department
+or instrumentality thereof.
+
+            "Plan" shall mean an employee pension benefit plan which is covered
+by Title IV of ERISA or subject to the minimum funding standards under Section
+412 of the Code, which is maintained or contributed to by (or to which there is
+an obligation to contribute of), or at any time during the five calendar years
+preceding the date of this Agreement was maintained or
+
+
+                                      -7-
+<PAGE>
+contributed to by (or to which there was an obligation to contribute of), the
+Borrower or an ERISA Affiliate.
+
+            "Pledged Premiums" shall mean at any time on and after the Loss
+Threshold Incurrence Date (i) any and all Installment Premiums which are paid or
+payable to the Borrower (it being understood that the Borrower is required to
+remit only those Installment Premiums actually received) at such time with
+respect to an Insurance Contract covering any defaulted Insured Obligations in
+the Covered Portfolio minus (ii) the aggregate amount of such Installment
+Premiums referred to in clause (i) paid or payable to any Person other than the
+Borrower at such time under reinsurance agreements (whether facultative or
+treaty) and similar arrangements.
+
+            "Pledged Recoveries" shall mean at any time on and after the Loss
+Threshold Incurrence Date any and all moneys and other payments, property and
+other consideration and compensation received or receivable by or for the
+account of the Borrower (it being understood that the Borrower is required to
+remit only that consideration and compensation actually received) at such time
+(excluding the aggregate amount of any and all monies, payments, property,
+consideration and compensation paid or payable to any Person other than the
+Borrower under reinsurance agreements (whether facultative or treaty) and
+similar arrangements) as repayment or reimbursement of, or otherwise in respect
+of or arising out of, the payment of a claim by the Borrower under an Insurance
+Contract covering any Insured Obligation in the Covered Portfolio (without
+regard to whether such claim was paid from the proceeds of a Loan), whether from
+the issuer thereof or any other Person including without limitation under or
+pursuant to (i) such Insurance Contract, any reimbursement agreement, guaranty,
+letter of credit, mortgage, security agreement, pledge agreement or other
+contract, agreement or arrangement with respect to such Insurance Contract,
+other than such items described in (ii) through (ix) below, (ii) any account or
+account receivable, (iii) any compromise, settlement or similar arrangement with
+respect to such payment, (iv) any voluntary payment or gift, (v) any reinsurance
+of such Insured Obligation to the extent that payment or expected payment under
+such reinsurance was not deducted in determining the Loss attributed to the
+Borrower's payment or required payment of such claim, (vi) any contractual,
+statutory, common law or other right of subrogation, (vii) any realization upon
+any mortgage, security interest or other Lien, (viii) any cause of action,
+whether sounding in tort, contract or otherwise, and any judicial, arbitration
+or other proceeding by or before any court, agency, tribunal, association or
+other governmental or private body, or (ix) any other legal or equitable right
+or claim, whether or not similar to the foregoing), less the out-of-pocket costs
+and expenses, including without limitation attorneys fees and court costs,
+actually incurred by the Borrower in connection with the collection or other
+realization of such moneys and other payments, property and other consideration
+and compensation.
+
+            "Pledged Reserves Account" shall have the meaning provided in the
+Security Agreement.
+
+            "Pledged Reserves Account Funds" shall mean at any time the
+aggregate amount of proceeds of Loans borrowed hereunder for the purpose of
+establishing or maintaining Permitted Reserves, such proceeds to be deposited in
+the Pledged Reserves Account in accordance with Section 2.1(b) of the Security
+Agreement.
+
+
+                                      -8-
+<PAGE>
+            "Pledged Reserve Release Notice" shall have the meaning provided in
+Section 8.11.
+
+            "Pledged Reserve Repayment Date" shall mean the date on which the
+Borrower delivers the Pledged Reserve Release Notice required by Section 8.11.
+
+            "Prime Lending Rate" shall mean the rate as announced by Deutsche
+Bank AG, New York Branch, from time to time as its prime lending rate, the Prime
+Lending Rate to change when and as such prime lending rate changes. The Prime
+Lending Rate is a reference rate and does not necessarily represent the lowest
+or best rate actually charged to any customer. Deutsche Bank AG, New York
+Branch, may make commercial loans or other loans at rates of interest at, above
+or below the Prime Lending Rate.
+
+            "Replacement Bank" shall have the meaning provided in Section
+3.04(b).
+
+            "Reportable Event" shall mean an event described in Section 4043(c)
+of ERISA with respect to a Plan as to which the 30-day notice requirement has
+not been waived by the PBGC.
+
+            "Retained Percentage" of an Insured Obligation shall mean the
+percentage of risk assumed by the Borrower under Insurance Contracts with
+respect thereto.
+
+            "Security Agreement" shall have the meaning provided in Section
+5.05.
+
+            "S&P" shall mean Standard & Poor's Corporation.
+
+            "Subsidiary" shall mean, as to any Person, (i) any corporation more
+than 50% of whose stock of any class or classes having by the terms thereof
+ordinary voting power to elect a majority of the directors of such corporation
+(irrespective of whether or not at the time stock of any class or classes of
+such corporation shall have or might have voting power by reason of the
+happening of any contingency) is at the time owned by such Person and/or one or
+more Subsidiaries of such Person and (ii) any partnership, limited liability
+company, association, joint venture or other entity in which such Person and/or
+one or more Subsidiaries of such Person has more than a 50% equity interest at
+the time.
+
+            "Taxes" shall have the meaning provided in Section 4.04(a).
+
+            "UCC" shall mean the Uniform Commercial Code as from time to time in
+effect in the relevant jurisdiction.
+
+            "Unfunded Current Liability" of any Plan means the amount, if any,
+by which the present value of the accrued benefits under the Plan as of the
+close of its most recent plan year, determined in accordance with Statement of
+Financial Accounting Standards No. 35, based upon the actuarial assumptions used
+by the Plan's actuary in the most recent annual valuation of the Plan, exceeds
+the fair market value of the assets allocable thereto, determined in accordance
+with Section 412 of the Code.
+
+
+                                      -9-
+<PAGE>
+            "United States" and "U.S." shall each mean the United States of
+America.
+
+            "Unutilized Commitment" shall mean, for any Bank, at any time, the
+Commitment of such Bank at such time less the aggregate principal amount of all
+Loans made by such Bank pursuant to Section 2.01(a) prior to such time.
+
+            "Unutilized Contingent Commitment" shall mean, for any Part C Bank,
+at any time, the Contingent Commitment of such Bank at such time less the
+aggregate principal amount of all Loans made by such Bank pursuant to Section
+2.02(b) prior to such time.
+
+            "Wholly-Owned Subsidiary" shall mean, as to any Person, (i) any
+corporation 100% of whose capital stock is at the time owned by such Person
+and/or one or more Wholly-Owned Subsidiaries of such Person and (ii) any
+partnership, limited liability company, association, joint venture or other
+entity in which such Person and/or one or more Wholly-Owned Subsidiaries of such
+Person has a 100% equity interest at such time.
+
+            Section 1.02 Principles of Construction. (a) All references to
+sections, schedules and exhibits are to sections, schedules and exhibits in or
+to this Agreement unless otherwise specified. The words "hereof", "herein" and
+"hereunder" and words of similar import when used in this Agreement shall refer
+to this Agreement as a whole and not to any particular provision of this
+Agreement.
+
+            (b) The term generally accepted accounting principles means
+generally accepted accounting principles in the United States, and all
+accounting terms not specifically defined herein shall be construed in
+accordance therewith.
+
+SECTION 2. AMOUNT AND TERMS OF CREDIT.
+
+            Section 2.01 The Loans. (a) Subject to and upon the terms and
+conditions set forth herein, each Bank severally agrees, at any time and from
+time to time prior to the Expiry Date, to make loans (such loans, together with
+any loans made pursuant to Section 2.01(b), being each a "Loan" and,
+collectively, the "Loans") to the Borrower, provided, however, that the
+principal amount of any Loan made by a Bank at any time pursuant to this Section
+2.01(a) shall not exceed the Unutilized Commitment of such Bank at such time.
+
+            (b) In the event that (i) the Borrower requests a Borrowing under
+Section 2.01(a) and (ii) any Part B Bank shall fail to make on the date
+specified in the Notice of Borrowing for such requested Borrowing any Loan or
+any portion of a Loan required to be made by such Bank hereunder representing
+such Bank's pro rata portion (in accordance with the Commitment of such Bank and
+the aggregate Commitments of all of the Banks as in effect on such date) of the
+amount of such requested Borrowing, then each Part C Bank severally agrees to
+make a Loan to the Borrower on such date in an amount equal to such Part C
+Bank's pro rata portion (in accordance with the Contingent Commitment of such
+Part C Bank and the aggregate Contingent Commitments of all of the Part C Banks
+as in effect on such date) of such Part B Bank's Defaulted Loan, provided,
+however, that the principal amount of any Loan made by a Part
+
+
+                                      -10-
+<PAGE>
+C Bank at any time pursuant to this Section 2.01(b) shall not exceed the
+Unutilized Contingent Commitment of such Part C Bank at such time.
+
+            (c) Once repaid, Loans incurred hereunder may not be reborrowed.
+
+            Section 2.02 Amount of Each Borrowing. The aggregate principal
+amount of each Borrowing hereunder shall not (i) be less than $1,000,000, and if
+greater, shall be in an integral multiple of $100,000 and (ii) exceed the lesser
+of (a) Cumulative Losses incurred after the occurrence of the Loss Threshold
+Incurrence Date less the aggregate principal amount of all Loans previously made
+and (b) the aggregate Unutilized Commitments of all Banks as in effect on the
+date such Borrowing is made.
+
+            Section 2.03 Notice of Borrowing. Whenever the Borrower desires to
+make a Borrowing hereunder, it shall give the Agent at its Notice Office at
+least two Business Days' prior notice made hereunder, provided that any such
+notice shall be deemed to have been given on a certain day only if given before
+12:00 Noon (New York time) on such day. Each such notice (each a "Notice of
+Borrowing") shall be in the form of Exhibit A, appropriately completed to
+specify the aggregate principal amount of the Loans to be made pursuant to such
+Borrowing, and the date of such Borrowing (which shall be a Business Day).
+
+            Section 2.04 Disbursement of Funds. (a) No later than 11:00 A.M.
+(New York time) on the date specified in each Notice of Borrowing, (i) each Bank
+will make available at the Payment Office of the Agent its pro rata portion (in
+accordance with the Commitment of such Bank and the aggregate Commitments of all
+of the Banks as in effect on such date) of the amount of the Borrowing requested
+to be made on such date, in Dollars and in immediately available funds and (ii)
+the Agent will make available to the Borrower the aggregate of the amounts so
+made available by the Banks on such day at its Payment Office.
+
+            (b) In the event that any Part B Bank shall fail to make available
+at the Payment Office of the Agent its pro rata portion (in accordance with the
+Commitment of such Bank and the aggregate Commitments of all of the Banks as in
+effect on such date) of the amount of the Borrowing requested to be made in any
+Notice of Borrowing, at or prior to 11:00 A.M. (New York time) on the date
+specified in such Notice of Borrowing, the Agent shall immediately notify each
+Part C Bank that such Part B Bank has so defaulted and no later than 1:00 P.M.
+(New York time) on such date, (i) each Part C Bank will (subject to the proviso
+at the end of Section 2.01(b)) make available at the Payment Office its pro rata
+portion (in accordance with the Contingent Commitment of such Part C Bank and
+the aggregate Contingent Commitments of all of the Part C Banks as in effect on
+such date) of such Part B Bank's Defaulted Loan, in Dollars and in immediately
+available funds, and (ii) the Agent will make available to the Borrower the
+aggregate of the amounts so made available by the Part C Banks on such day at
+the Payment Office.
+
+            Section 2.05 Notes. The Borrower's obligation to pay the principal
+of, and interest on, the Loans made by each Bank shall be evidenced by a
+promissory note duly executed and delivered by the Borrower substantially in the
+form of Exhibit B with blanks appropriately completed in conformity herewith
+(each a "Note" and, collectively, the "Notes"). Each Note
+
+
+                                      -11-
+<PAGE>
+shall (i) be payable to the order of such Bank and be dated the Effective Date
+if such Bank shall be a party hereto on the Effective Date or the effective date
+of the Assignment and Assumption Agreement pursuant to which it becomes a party
+hereto if such Bank shall become a party hereto after the Effective Date, (ii)
+be in a stated principal amount equal to such Bank's Commitment (plus, if such
+Bank shall be a Part C Bank, such Bank's Contingent Commitment) and be payable
+in the principal amount of the Loans evidenced thereby, (iii) mature, with
+respect to each Loan evidenced thereby, on the Expiry Date, (iv) bear interest
+as provided in the appropriate clause of Section 2.06 in respect of the Loans
+evidenced thereby and (v) be entitled to the benefits of this Agreement and be
+secured by the Security Agreement. Each Bank will note on its internal records
+the amount of each Loan made by it and each payment in respect thereof and will
+prior to any transfer of its Note endorse on the reverse side thereof the
+outstanding principal amount of Loans evidenced thereby. Failure to make any
+such notation shall not affect the Borrower's obligations in respect of such
+Loans.
+
+            Section 2.06 Interest. (a) The Borrower agrees to pay interest in
+respect of the unpaid principal amount of each Loan from the date the proceeds
+thereof are made available to the Borrower until the maturity thereof (whether
+by acceleration or otherwise) at a rate per annum which shall be equal to the
+Base Rate in effect from time to time plus the Applicable Margin.
+
+            (b) Overdue principal and, to the extent permitted by law, overdue
+interest in respect of each Loan and any other overdue amount payable by the
+Borrower hereunder shall bear interest from the date payment thereof was due
+until (but not including) the date of actual payment at a rate per annum equal
+to 4.0% per annum in excess of the Base Rate in effect from time to time.
+
+            (c) Accrued (and theretofore unpaid) interest shall be payable (i)
+in respect of each Loan, quarterly in arrears on the last Business Day of each
+March, June, September and December, and (ii) in respect of each Loan, on any
+prepayment (on the amount prepaid), at maturity (whether by acceleration or
+otherwise) and, after such maturity, on demand.
+
+            Section 2.07 Capital Adequacy. If any Bank determines at any time
+that the introduction of or change to any applicable law or governmental rule,
+regulation, order or request (whether or not having the force of law) concerning
+capital adequacy, or any change in interpretation or administration thereof by
+any governmental authority, central bank or comparable agency, in any case
+occurring after the date hereof, will have the effect of increasing the amount
+of capital required or expected to be maintained by such Bank based on the
+existence of its Commitment and/or Contingent Commitment hereunder or its
+obligations hereunder, then the Borrower shall pay to such Bank, upon its
+written demand therefor, such additional amounts as shall be required to
+compensate such Bank for the increased cost to such Bank as a result of such
+increase of capital. In determining such additional amounts, such Bank will act
+reasonably and in good faith and will use averaging and attribution methods
+which are reasonable, provided that such Bank's determination of compensation
+owing under this Section 2.07 shall, absent manifest error, be final and
+conclusive and binding on all the parties hereto. Each Bank, upon determining
+that any additional amounts will be payable pursuant to this Section 2.07, will
+give prompt written notice thereof to the Borrower, which notice shall show the
+basis for the
+
+
+                                      -12-
+<PAGE>
+calculation of such additional amounts. The failure to give any such notice
+shall not be deemed to be a waiver of any of the Borrower's obligations to pay
+additional amounts pursuant to this Section 2.07, provided that the Borrower
+shall not be required to pay any such additional amounts (i) until it receives
+written notice from a Bank in accordance with this Section 2.07 or (ii) with
+respect to any period prior to 60 days prior to the date any such notice is
+received, unless the relevant introduction or change has a retroactive effect,
+in which case the Borrower's obligation to pay additional amounts pursuant to
+this Section 2.07 may encompass the entire period of retroactivity.
+
+            Section 2.08 Obligations of Defaulting Banks. Anything contained in
+this Agreement to the contrary notwithstanding, in the event any Part C Bank
+makes a Loan pursuant to Section 2.01(b) (a "Part C Loan") because of a Part B
+Bank failing to make a Loan required to be made pursuant to this Agreement, such
+Part C Bank, in addition to any other right or remedy it may have pursuant to
+this Agreement or any other Credit Document, shall be entitled to receive, from
+such Part B Bank, upon demand, the principal amount of such Part C Loan, plus
+interest thereon, from the date made until paid, at the Federal Funds Rate for
+the first three days and at the Base Rate plus 2% per annum thereafter. Upon any
+such payment by a Part B Bank, such Part B Bank shall be subrogated to the
+rights of the relevant Part C Bank with respect to the relevant Part C Loan. In
+addition, for so long as any amounts are owed to any Part C Bank with respect to
+any Part C Loan, any amounts otherwise owing by a Part B Bank pursuant to this
+Agreement or any other Credit Document shall be paid on a pro rata basis to the
+Part C Banks until all amounts with respect to outstanding Part C Loans have
+been repaid.
+
+SECTION 3. COMMITMENT FEES, FEES; AND TERMINATIONS, EXTENSIONS AND INCREASES OF
+           COMMITMENTS AND CONTINGENT COMMITMENTS.
+
+            Section 3.01 Fees. (a) The Borrower agrees to pay to the Agent for
+distribution to the Banks pro rata in accordance with their respective
+Unutilized Commitments a commitment fee (such commitment fee, together with the
+commitment fee payable pursuant to Section 3.01(b), being the "Commitment Fees")
+for the period from the Effective Date until the Expiry Date (or such earlier
+date as the Commitments shall have been terminated) computed at a rate equal to
+0.6% per annum on the daily average Unutilized Commitments of the Banks;
+provided, however, that any Commitment Fee accrued with respect to the
+Unutilized Commitment of a Defaulting Bank during the period prior to the time
+such Bank became a Defaulting Bank and unpaid at such time shall not be payable
+by the Borrower so long as such Bank shall be a Defaulting Bank except to the
+extent that such Commitment Fee shall otherwise have been due and payable by the
+Borrower prior to such time; and provided further that no Commitment Fee shall
+accrue on the Unutilized Commitment of a Defaulting Bank so long as such Bank
+shall be a Defaulting Bank.
+
+            (b) The Borrower agrees to pay each Part C Bank a Commitment Fee for
+the period from the Effective Date until the Expiry Date (or such earlier date
+as the Contingent Commitment of such Part C Bank shall have been terminated)
+computed as agreed in writing from time to time by the Borrower and such Part C
+Bank.
+
+
+                                      -13-
+<PAGE>
+            (c) Accrued Commitment Fees shall be due and payable quarterly in
+arrears on the last Business Day of each March, June, September and December of
+each year and on the Expiry Date or upon such earlier date as the Commitments or
+the Contingent Commitments, as the case may be, shall be terminated, and shall
+be based on a 365/366-day year and actual days elapsed.
+
+            (d) The Borrower shall pay to the Agent such fees in connection with
+the Credit Documents as may be agreed to from time to time between the Borrower
+and the Agent.
+
+            Section 3.02 Voluntary Termination of Unutilized Commitments and
+Unutilized Contingent Commitments. Upon at least five Business Days' prior
+notice to the Agent at its Notice Office, the Borrower shall have the right to
+terminate the Unutilized Commitments or the Unutilized Contingent Commitments,
+or both, in whole or in part, in minimum aggregate amounts of $5,000,000 (or, if
+greater, in integral multiples of $1,000,000), provided that the Borrower shall
+concurrently satisfy its obligations, if any, at such time under Section 3.01.
+
+            Section 3.03 Mandatory Termination of Commitments and Contingent
+Commitments. (a) The Commitment of each Bank shall be permanently reduced on
+each date a Loan is made by such Bank pursuant to Section 2.01(a) by the amount
+of such Loan. In addition, the Contingent Commitment of each Part C Bank shall
+be permanently reduced on each date a Loan is made pursuant to Section 2.01(a)
+by any Bank that is not a Part C Bank by an amount equal to 30% of such Loan.
+The Contingent Commitment of each Part C Bank shall be permanently reduced on
+each date a Loan is made by such Part C Bank pursuant to Section 2.01(b) by the
+amount of such Loan.
+
+            (b) Notwithstanding anything herein to the contrary, the Borrower
+shall have the right to unilaterally terminate the Commitment and/or Contingent
+Commitment of any Bank if, at any time after the Effective Date (with respect to
+any Bank that is a party hereto on the Effective Date) or at any time after the
+effective date of the relevant Assignment and Assumption Agreement (with respect
+to any Bank that becomes a party hereto after the Effective Date pursuant to
+Section 3.04 or 12.04), the unsecured senior debt rating (or shadow rating as
+reflected in a letter) of such Bank or its parent shall be downgraded by Moody's
+or S&P, such termination to be effective 60 days after the Borrower delivers to
+such Bank a notice of termination. The Borrower shall, concurrent with such
+termination, pay to such Bank the aggregate amount, if any, owing at such time
+by the Borrower to such Bank under this Agreement.
+
+            (c) In addition to any other mandatory Commitment reductions
+pursuant to this Section 3.03, the Commitment of each Bank, and the Contingent
+Commitment of each Part C Bank, shall each terminate in its entirety on the
+Expiry Date.
+
+            Section 3.04 Expiry Date. (a) The expiration of the Commitments and
+the Contingent Commitments shall occur on November 7, 2008 (the "Expiry Date");
+provided, however, that before (but not earlier than 120 days nor later than 60
+days before) each anniversary of the Effective Date, the Borrower may make a
+written request (an "Extension Request") to the Agent at the Notice Office that
+the Expiry Date be extended by one calendar year. Such Extension Request (a copy
+of which shall be forwarded by the Agent to each of the Banks) shall
+
+
+                                      -14-
+<PAGE>
+include a certification by a senior officer of the Borrower that no Default or
+Event of Default has occurred and is continuing and all representations and
+warranties contained herein and the other Credit Documents are true and correct
+in all material aspects on and as of the date of the Extension Request (it being
+understood and agreed that any representation or warranty which expressly refers
+by its terms to a specified date shall be required to be true only as of such
+date). If by the date occurring 30 days next succeeding the Agent's receipt of
+such Extension Request, any Bank agrees thereto in writing by so indicating on
+counterparts of the Extension Request and delivering such counterpart to the
+Borrower, "Expiry Date" as to such Bank shall mean the November 7, occurring in
+the calendar year next succeeding the Expiry Date then in effect, provided that
+any failure to so notify the Borrower shall be deemed to be a disapproval by
+such Bank of the Borrower's Extension Request. The Commitment of any Bank which
+does not so agree, the Contingent Commitment, if any, of each Part C Bank with
+respect thereto and the Contingent Commitment of such Bank if such Bank is a
+Part C Bank, shall terminate upon the Expiry Date then in effect. No Bank shall
+be obligated to grant any extension pursuant to this Section 3.04(a), and any
+such extension shall be in the sole discretion of each Bank. The Borrower shall
+pay to each Bank which does not so agree all amounts owing under its Note and
+this Agreement on the effective date of the termination of such Bank's
+Commitment and Contingent Commitment, if any.
+
+            (b) If fewer than all of the Banks consent to an Extension Request
+(each Bank that has not so consented being a "Declining Bank", and each other
+Bank being an "Extending Bank"), the Borrower shall have the right to require
+any Declining Bank to assign in full its rights and obligations under this
+Agreement (i) to any one or more Extending Banks designated by the Borrower that
+have offered in their returned counterpart of the Extension Request to increase
+their respective Commitments (and, if any such Extending Bank is a Part C Bank,
+its Contingent Commitment) in an aggregate amount at least equal to the amount
+of such Declining Bank's Commitment (and, if such Declining Bank is a Part C
+Bank, its Contingent Commitment) (each such Extending Bank being an "Increasing
+Extending Bank") and (ii) to the extent of any shortfall in the aggregate amount
+of extended Commitments or extended Contingent Commitments, to any one or more
+Eligible Transferees designated by the Borrower that agree to assume all of such
+rights and obligations (each such Eligible Transferee being a "Replacement
+Bank"), provided that (1) such Declining Bank shall have received payment of all
+amounts owing under its Note and this Agreement on the effective date of such
+assignment, (2) such assignment shall otherwise have occurred in compliance with
+Section 12.04 including, without limitation, clauses (iii) and (iv) of
+subsection (b) thereof and (3) the effective date of such assignment shall be
+the date specified by the Borrower and agreed to by the Replacement Bank or
+Increasing Extending Bank, as the case may be, which date shall be on or prior
+to the applicable Expiry Date (without giving effect to the relevant requested
+extension).
+
+SECTION 4. PREPAYMENTS; PAYMENTS.
+
+            Section 4.01 Voluntary Prepayments. The Borrower shall have the
+right to prepay the Loans, without premium or penalty, in whole or in part from
+time to time.
+
+            Section 4.02 Mandatory Prepayments. On each Pledged Reserve
+Repayment Date, an amount equal to 100% of the Pledged Reserves Account Funds
+with respect to which
+
+
+                                      -15-
+<PAGE>
+the Borrower has delivered a Pledged Reserve Release Notice as required by
+Section 8.11 shall be applied as a mandatory prepayment of principal of
+outstanding Loans.
+
+            Section 4.03 Method and Place of Payment. Except as otherwise
+specifically provided herein, all payments under this Agreement or any Note
+shall be made to the Agent not later than 12:00 Noon (New York time) on the date
+when due and shall be made in Dollars in immediately available funds at the
+Agent's Payment Office. Whenever any payment to be made hereunder or under the
+Note shall be stated to be due on a day which is not a Business Day, the due
+date thereof shall be extended to the next succeeding Business Day and, with
+respect to payments of principal, interest shall be payable at the applicable
+rate during such extension.
+
+            Section 4.04 Net Payments. (a) All payments made by the Borrower
+hereunder or under any Note will be made without setoff, counterclaim or other
+defense. All such payments will be made free and clear of, and without deduction
+or withholding for, any present or future taxes, levies, imposts, duties, fees,
+assessments or other charges of whatever nature now or hereafter imposed by any
+jurisdiction or by any political subdivision or taxing authority thereof or
+therein with respect to such payment (but excluding any tax imposed on or
+measured by the net income of any Bank pursuant to the laws of the jurisdiction
+(or any political subdivision or taxing authority thereof or therein) in which
+the principal office or lending office of such Bank is located or in which such
+Bank is organized) or any interest, penalties or similar liabilities with
+respect thereto (collectively, "Taxes"). If any Taxes are so levied or imposed,
+the Borrower agrees to pay the full amount of such Taxes and such additional
+amounts as may be necessary so that every payment of all amounts due hereunder
+or under any Note, after withholding or deduction for or on account of any
+Taxes, will not be less than the amount provided for herein or in such Note. The
+Borrower shall also reimburse each Bank, upon its written request (which request
+shall set forth the basis for calculation of such reimbursement), for taxes
+imposed on or measured by the net income of such Bank pursuant to the laws of
+the jurisdiction (or any political subdivision or taxing authority thereof or
+therein) in which its principal office or lending office is located or in which
+such Bank is organized as it shall determine are payable by it in respect of
+amounts paid to or on behalf of such Bank pursuant to the preceding sentence and
+for any withholding of taxes as such Bank shall determine are payable by, or
+withheld from, such Bank, in respect of such amounts so paid to or on behalf of
+such Bank pursuant to the preceding sentence and in respect of any amounts paid
+to or on behalf of such Bank pursuant to this sentence. The Borrower will
+furnish to the applicable Bank within 45 days after the date the payment of any
+Taxes is due pursuant to applicable law certified copies of any tax receipts
+available to the Borrower evidencing such payment by the Borrower. The Borrower
+will indemnify and hold harmless each Bank, and reimburse each Bank upon its
+written request, for the amount of any Taxes so levied or imposed and paid by
+such Bank.
+
+            (b) Each of the Banks organized under the laws of a jurisdiction
+outside the United States shall, on or prior to the date of its execution and
+delivery of this Agreement in the case of each of Bank party to this Agreement
+as of the date of this Agreement, and on the date of the Assignment and
+Assumption Agreement pursuant to which it becomes a Bank in the case of each of
+the other Banks, and from time to time thereafter as reasonably requested in
+writing by the Borrower or the Agent (but only so long thereafter as such Bank
+remains lawfully able to do so), provide each of the Borrower and the Agent with
+an original Internal Revenue Service Form
+
+
+                                      -16-
+<PAGE>
+W-8BEN or Form W-8ECI (in each case with all appropriate attachments) or, in the
+case of any Bank that is claiming exemption from United States withholding tax
+under Section 871(h) or 881(c) of the Internal Revenue Code with respect to
+payments of "portfolio interest", Form W-8BEN (and, if such Bank delivers a Form
+W-8BEN, a certificate representing that such Bank is not a "bank" for purposes
+of Section 881(c) of the Internal Revenue Code, certifying that such Bank is
+exempt from or entitled to a reduced rate of United States withholding tax on
+payments pursuant to this Agreement or the other Credit Documents or certifying
+that such Bank is a foreign corporation, partnership, estate or trust). If the
+forms referred to in this Section 4.04(b) that are provided by a Bank at the
+time such Bank first becomes a party to this Agreement indicate a United States
+interest withholding tax rate in excess of zero, withholding tax at such rate
+shall be considered excluded from Taxes unless and until such Bank provides the
+appropriate form certifying that a lesser rate applies, whereupon withholding
+tax at such lesser rate shall be considered excluded from Taxes solely for the
+period governed by such form. However, if, on the date of the Assignment and
+Assumption Agreement pursuant to which a Bank assignee becomes a party to this
+Agreement, the Bank assignor was entitled to payments under Section 4.04(a) in
+respect of United States withholding tax with respect to interest paid at such
+date, then, to such extent (and only to such extent), the term "Taxes" shall
+include (in addition to withholding taxes that may be imposed in the future or
+other amounts otherwise includable in Taxes) United States withholding tax, if
+any, applicable with respect to such Bank assignee on such date.
+
+            (c) For any period with respect to which any of the Banks has failed
+to provide the Borrower with the appropriate form, certificate or other document
+described in Section 4.04(b), such Bank shall not be entitled to payment or
+indemnification under Section 4.04(a) with respect to Taxes imposed by reason of
+such failure.
+
+            (d) Each of the Banks hereby agrees that, upon the occurrence of any
+circumstances entitling such Bank to additional amounts pursuant to this Section
+4.04, such Bank shall, if requested by the Borrower, use reasonable efforts
+(consistent with its internal policy and legal and regulatory restrictions) to
+designate a different applicable lending office if the making of such a change
+would avoid the need for, or reduce the amount of, any such additional amounts
+that may thereafter accrue and would not, determined by the Bank in its sole
+discretion, be otherwise disadvantageous to such Bank in any respect.
+
+            Section 4.05 Limitations on Sources of Payment. Notwithstanding any
+other provision of this Agreement or of any other Credit Document, the
+obligations of the Borrower to make payments of principal and interest on the
+Loans and the Notes are limited recourse obligations of the Borrower payable
+solely from the Pledged Recoveries, the Pledged Premiums, the Pledged Reserves
+Account Funds and the other Collateral, and none of the Agent, the Collateral
+Agent, any Bank or any other Person shall be entitled to procure any money
+judgment against or to levy or foreclose upon or attach any other assets or
+properties of the Borrower for payment of such obligations; provided, however,
+that nothing herein contained shall limit, restrict or impair the lien created
+by the Security Agreement or the right of any Bank to exercise any of its rights
+herein or in any of the other Credit Documents upon the occurrence of an Event
+of Default or otherwise, or to bring suit and obtain a judgment against the
+Borrower (recourse
+
+
+                                      -17-
+<PAGE>
+thereon being limited as to payment of principal and interest on the Loans and
+the Notes as provided in this Section 4.05).
+
+SECTION 5. CONDITIONS PRECEDENT TO EFFECTIVENESS.
+
+            This Agreement shall become effective subject to the satisfaction
+(or waiver by the Banks) of the following conditions:
+
+            Section 5.01 Execution of Agreement; Notes. The Borrower and each
+Bank shall have signed a copy hereof (whether the same or different copies) and
+shall have delivered the same to the Agent at its Notice Office and there shall
+have been delivered to each Bank a Note executed by the Borrower in the amount,
+maturity and as otherwise provided herein.
+
+            Section 5.02 No Default; Representations and Warranties. There shall
+exist no Default or Event of Default and all representations and warranties
+contained herein and in the other Credit Documents shall be true and correct in
+all material respects with the same effect as though such representations and
+warranties had been made on and as of the Effective Date.
+
+            Section 5.03 Opinions of Counsel. The Agent shall have received
+separate opinions addressed to it and the Banks and dated the Effective Date
+from Cadwalader, Wickersham & Taft and David Beidler, Senior Vice President and
+Chief Legal Officer of the Borrower, covering the matters set forth in Exhibit
+C.
+
+            Section 5.04 Corporate Documents; Proceedings. (a) The Agent shall
+have received a certificate, dated the Effective Date, signed by the president
+or any vice president of the Borrower, and attested to by the secretary or any
+assistant secretary of the Borrower, in the form of Exhibit D with appropriate
+insertions, together with copies of the charter documents and resolutions of the
+Borrower referred to in such certificate.
+
+            (b) All corporate and legal proceedings and all instruments and
+agreements in connection with the transactions contemplated in this Agreement
+and the other Credit Documents shall be satisfactory in form and substance to
+the Agent, and it shall have received all information and copies of all
+documents and papers, including records of corporate proceedings and
+governmental approvals, if any, which the Agent reasonably may have requested in
+connection therewith, such documents and papers where appropriate to be
+certified by proper corporate or governmental authorities.
+
+            Section 5.05 Security Agreement. The Borrower shall have duly
+authorized, executed and delivered a Pledge and Security Agreement in the form
+of Exhibit E (as modified, supplemented or amended from time to time, the
+"Security Agreement") covering all the Borrower's present and future Collateral,
+together with:
+
+            (a) evidence of all filings as may be necessary or, in the opinion
+      of the Collateral Agent, desirable to perfect the security interests
+      purported to be created by the Security Agreement; and
+
+
+                                      -18-
+<PAGE>
+            (b) evidence that all other actions necessary or, in the opinion of
+      the Collateral Agent, desirable to perfect and protect the security
+      interests purported to be created by the Security Agreement have been
+      taken.
+
+            Section 5.06 Covered Portfolio, etc. The Agent shall have received a
+certificate, dated the Effective Date, signed by the president, the chief
+financial officer or other senior financial officer of the Borrower, setting
+forth in reasonable detail as of September 30, 2001 (i) each Insured Obligation
+in the Covered Portfolio and each reinsurance agreement or similar arrangement
+which covers any material amount of such Insured Obligations, (ii) each default
+by the issuer of any such Insured Obligation or other obligor with respect
+thereto which has formed or the Borrower reasonably expects to form the basis of
+a claim under an Insurance Contract, in each case to the extent the Borrower has
+knowledge thereof, (iii) each default by any party to any such reinsurance
+agreement or similar arrangement, (iv) each claim paid by the Borrower under any
+Insurance Contract with respect to such Insured Obligations and (v) the
+Borrower's reasonable estimate as of September 30, 2001 of Installment Premiums
+payable with respect to the Covered Portfolio.
+
+            Section 5.07 Requisite Approvals. All necessary governmental
+(domestic and foreign) and third party approvals in connection with the
+transactions contemplated by the Credit Documents and otherwise referred to
+herein or therein shall have been obtained and remain in effect, and all
+applicable waiting periods shall have expired without any action being taken by
+any competent authority which restrains, prevents or imposes materially adverse
+conditions upon the consummation of the transactions contemplated by the Credit
+Documents and otherwise referred to herein or therein. Additionally, there shall
+not exist any judgment, order, injunction or other restraint issued or filed or
+a hearing seeking injunctive relief or other restraint pending or notified
+prohibiting or imposing materially adverse conditions upon the making of the
+Loans.
+
+            Section 5.08 Litigation. No litigation by any entity (private or
+governmental) shall be pending or threatened with respect to this Agreement or
+any documentation executed in connection herewith or the transactions
+contemplated hereby, or with respect to any material Indebtedness of the
+Borrower or which any Bank shall determine would reasonably be expected to have
+a materially adverse effect on the business, operations, property, assets,
+liabilities, prospects or condition (financial or otherwise) of the Borrower.
+
+            Section 5.09 Fees, etc. The Borrower shall have paid to the Agent
+and to the Banks all costs, fees and expenses (including, without limitation,
+legal fees and expenses) payable to the Agent and/or the Banks to the extent
+then due.
+
+All of the certificates, legal opinions and other documents and papers referred
+to in this Section 5, unless otherwise specified, shall have been delivered to
+the Agent at its Notice Office.
+
+SECTION 6. CONDITIONS PRECEDENT TO ALL CREDIT EVENTS.
+
+            The obligation of the Banks to make Loans is subject, at the time of
+each such Credit Event, to the satisfaction of the following conditions:
+
+
+                                      -19-
+<PAGE>
+            Section 6.01 Loss Threshold Incurrence Date. At or prior to the time
+of each such Credit Event, the Loss Threshold Incurrence Date shall have
+occurred.
+
+            Section 6.02 Notice of Borrowing. Prior to the making of each Loan,
+the Agent shall have received a Notice of Borrowing meeting the requirements of
+Section 2.03.
+
+The acceptance of the proceeds of each Credit Event shall constitute a
+representation and warranty by the Borrower to each Bank that the Loss Threshold
+Incurrence Date has occurred.
+
+SECTION 7. REPRESENTATIONS, WARRANTIES AND AGREEMENTS.
+
+            In order to induce the Banks to enter into this Agreement, the
+Borrower makes the following representations, warranties and agreements as of
+the Effective Date, which shall survive the execution and delivery of this
+Agreement and the Notes (it being understood and agreed that any representation
+or warranty which expressly refers by its terms to a specified date shall be
+required to be true and correct in all material respects only as of such date):
+
+            Section 7.01 Corporate Status. The Borrower (i) is a duly organized
+and validly existing stock insurance company in good standing under the laws of
+New York, (ii) has the power and authority to own its property and assets and to
+transact the business in which it is engaged and (iii) is duly qualified as a
+foreign corporation and in good standing in each jurisdiction where the
+ownership, leasing or operation of property or the conduct of its business
+requires such qualification, except where the failure to qualify would not have
+a material adverse effect on the business, operations, property, assets,
+liabilities, prospects or condition (financial or otherwise) of the Borrower.
+
+            Section 7.02 Corporate Power and Authority. The Borrower has the
+corporate power to execute, deliver and perform the terms and provisions of each
+of the Credit Documents to which it is party and has taken all necessary
+corporate action to authorize the execution, delivery and performance by it of
+each of such Credit Documents. The Borrower has, or in the case of the Credit
+Documents other than this Agreement, by the Effective Date will have, duly
+executed and delivered each of the Credit Documents to which it is party, and
+each of such Credit Documents constitutes or, in the case of each such other
+Credit Document when executed and delivered, will constitute, its legal, valid
+and binding obligation enforceable in accordance with its terms, subject to the
+qualifications that enforcement of the rights and remedies created hereby or
+thereby is subject to (i) bankruptcy, insolvency, reorganization, moratorium and
+other laws of general application affecting the rights and remedies of creditors
+and (ii) general principles of equity (regardless of whether such enforcement is
+considered in a proceeding in equity or at law).
+
+            Section 7.03 No Violation. Neither the execution, delivery or
+performance by the Borrower of the Credit Documents to which it is a party, nor
+compliance by it with the terms and provisions thereof, nor the use of the
+proceeds of the Loans (i) will contravene any provision of any law, statute,
+rule or regulation or any order, writ, injunction or decree of any court or
+governmental instrumentality, (ii) will conflict or be inconsistent with or
+result in any breach of any of the terms, covenants, conditions or provisions
+of, or constitute a default under, or result in
+
+
+                                      -20-
+<PAGE>
+the creation or imposition of (or the obligation to create or impose) any Lien
+(other than Permitted Liens) upon any of the property or assets of the Borrower
+pursuant to the terms of any indenture, mortgage, deed of trust, credit
+agreement, loan agreement or any other agreement, contract or instrument to
+which the Borrower is a party or by which it or any of its property or assets is
+bound or to which it may be subject or (iii) will violate any provision of the
+certificate of incorporation or by-laws of the Borrower.
+
+            Section 7.04 Governmental Approvals. No order, consent, approval,
+license, authorization or validation of, or filing, recording or registration
+with (except as have been obtained or made prior to the Effective Date), or
+exemption by, any governmental or public body or authority, or any subdivision
+thereof, is required to authorize, or is required in connection with, (i) the
+execution, delivery and performance of any Credit Document to which the Borrower
+is a party or (ii) the legality, validity, binding effect or enforceability of
+any such Credit Document.
+
+            Section 7.05 Financial Statements; Financial Condition; Undisclosed
+Liabilities; etc. (a) The balance sheet of the Borrower at December 31, 2000,
+and the related statements of income and retained earnings and changes in
+financial position of the Borrower for the fiscal year ended on such date, all
+heretofore furnished to the Banks, present fairly the financial condition of the
+Borrower at December 31, 2000, and the results of the operations of the Borrower
+for the fiscal year ended on such date. All such financial statements have been
+audited by Deloitte & Touche LLP. Since December 31, 2000, there has been no
+material adverse change in the business, operations, property, assets,
+liabilities, prospects or condition (financial or otherwise) of the Borrower,
+except as may be set forth in any unaudited quarterly financial statements
+prepared by the Borrower since the date of the audited financial statements or
+in a quarterly report on Form 10-Q/A filed by Radian Group Inc. with the
+Securities and Exchange Commission (all of which have heretofore been furnished
+to the Banks).
+
+            (b) Except as fully reflected in the financial statements delivered
+pursuant to Section 7.05(a), there are no liabilities or obligations with
+respect to the Borrower of any nature whatsoever (whether absolute, accrued,
+contingent or otherwise and whether or not due) which, either individually or in
+aggregate, would be material to the Borrower. The Borrower does not know of any
+basis for the assertion against the Borrower of any liability or obligation of
+any nature whatsoever that is not fully reflected in the financial statements
+delivered pursuant to Section 7.05(a) which, either individually or in the
+aggregate, could reasonably be expected to be material to the Borrower. At
+September 30, 2001, Average Annual Debt Service was $3,712,636,466.
+
+            (c) The Borrower has delivered to each Bank its annual statements
+and its financial statements as filed with the New York Insurance Department for
+the years ended December 31, 1999 and December 31, 2000, and its quarterly
+statements and its financial statements as filed with the New York Insurance
+Department for the periods ended March 31 and June 30, 2001. Such annual and
+quarterly statements and financial statements were prepared in accordance with
+the statutory accounting principles set forth in the New York Insurance Law, and
+each such annual statement is a full and true statement of all the assets and
+liabilities and of
+
+
+                                      -21-
+<PAGE>
+the condition and affairs of the Borrower as of such date and of its income and
+deductions therefrom for the year ended on such date.
+
+            Section 7.06 Litigation. There are no actions, suits or proceedings
+pending or, to the best knowledge of the Borrower, threatened (i) with respect
+to any Credit Document or (ii) that are reasonably likely to materially and
+adversely affect the business, operations, property, assets, liabilities,
+prospects or condition (financial or otherwise) of the Borrower.
+
+            Section 7.07 True and Complete Disclosure. All factual information
+(taken as a whole) heretofore or contemporaneously furnished by or on behalf of
+the Borrower in writing to the Banks (including without limitation all
+information contained in the Credit Documents) for purposes of or in connection
+with this Agreement or any transaction contemplated herein is, and all other
+such factual information (taken as a whole) hereafter furnished by or on behalf
+of the Borrower in writing to the Banks will be, true and accurate in all
+material respects on the date as of which such information is dated or certified
+and not incomplete by omitting to state any fact necessary to make such
+information (taken as a whole) not misleading at such time in light of the
+circumstances under which such information was provided.
+
+            Section 7.08 Use of Proceeds; Margin Regulations. All proceeds of
+each Loan shall be used by the Borrower only to establish and/or maintain
+Permitted Reserves in the Pledged Reserves Account and/or to pay or reimburse
+itself for the payment of Losses in respect of the Covered Portfolio, and no
+part of the proceeds of any Loan will be used by the Borrower to purchase or
+carry any Margin Stock or to extend credit to others for the purpose of
+purchasing or carrying any Margin Stock. Neither the making of any Loan nor the
+use of the proceeds thereof will violate or be inconsistent with the provisions
+of Regulations T, U or X of the Board of Governors of the Federal Reserve
+System.
+
+            Section 7.09 Tax Returns and Payments. The Borrower has filed all
+tax returns required to be filed by it and has paid all income taxes payable by
+it which have become due pursuant to such tax returns and all other taxes and
+assessments payable by it which have become due, other than those not yet
+delinquent and except for those contested in good faith and for which adequate
+reserves have been established. The Borrower has paid, or has provided adequate
+reserves (in the good faith judgment of the management of the Borrower) for the
+payment of, all federal and state income taxes applicable for all prior fiscal
+years and for the current fiscal year to the date hereof.
+
+            Section 7.10 Compliance with ERISA. Each Plan is in substantial
+compliance with all applicable provisions of ERISA and the Code; no Reportable
+Event has occurred with respect to any Plan; no Plan has an accumulated or
+waived funding deficiency or has applied for an extension of any amortization
+period within the meaning of Section 412 of the Code or Section 302 of ERISA;
+neither the Borrower nor any ERISA Affiliate has incurred any material liability
+to or on account of a Plan or a Multiemployer Plan pursuant to Section 409,
+502(i), 515, 4201, 4204, 4212, 4062, 4063, 4064 or 4069 of ERISA or Section
+401(a)(29), 4971 or 4975 of the Code which has not been satisfied in full or
+expects to incur any material liability under any of the foregoing sections with
+respect to any such Plan or Multiemployer Plan; no condition exists which
+presents a material risk to the Borrower or any ERISA Affiliate of incurring a
+
+
+                                      -22-
+<PAGE>
+material liability to or on account of a Plan pursuant to the foregoing
+provisions of ERISA and the Code; neither the Borrower nor any of its ERISA
+Affiliates is or has ever been a party to, or is or has ever been required to
+make contributions to, or has terminated any Multiemployer Plan; no Lien imposed
+under the Code or ERISA on the assets of the Borrower or any ERISA Affiliate
+exists or is likely to arise on account of any Plan or Multiemployer Plan; and
+the Borrower does not maintain or contribute to any employee welfare benefit
+plan (as defined in Section 3(1) of ERISA) which provides benefits to retired
+employees or other former employees (other than as required by Section 601 of
+ERISA) or any employee pension benefit plan (as defined in Section 3(2) of
+ERISA) the obligations with respect to which would reasonably be expected to
+have a material adverse effect on the ability of the Borrower to perform its
+obligations under this Agreement.
+
+            Section 7.11 Capitalization. As of the date hereof, the authorized
+capital stock of the Borrower consists of 100,000 shares of common stock, $40.00
+par value per share, all of which are issued and outstanding. All such
+outstanding shares have been duly and validly issued, and are fully paid and
+non-assessable. The Borrower does not have outstanding any securities
+convertible into or exchangeable for its capital stock or outstanding any rights
+to subscribe for or to purchase, or any options for the purchase of, or any
+agreements providing for the issuance (contingent or otherwise) of, or any
+calls, commitments or claims of any character relating to, its capital stock
+except as otherwise disclosed in its financial statements.
+
+            Section 7.12 No Subsidiaries. The Borrower has no Subsidiaries.
+
+            Section 7.13 Compliance with Statutes, etc.. The Borrower is in
+compliance with all applicable statutes, regulations and orders of, and all
+applicable restrictions imposed by, all governmental bodies, domestic or
+foreign, in respect of the conduct of its business and the ownership of its
+property (including applicable statutes, regulations, orders and restrictions
+relating to environmental standards and controls), except such noncompliances as
+could not reasonably be expected to have, in the aggregate, a material adverse
+effect on the business, operations, property, assets, liabilities, prospects or
+condition (financial or otherwise) of the Borrower.
+
+            Section 7.14 Investment Company Act. The Borrower is not an
+"investment company" within the meaning of the Investment Company Act of 1940,
+as amended.
+
+            Section 7.15 Public Utility Holding Company Act. The Borrower is not
+a "holding company", or a "subsidiary company" of a "holding company", or an
+"affiliate" of a "holding company" or of a "subsidiary company" of a "holding
+company" within the meaning of the Public Utility Holding Company Act of 1935,
+as amended.
+
+            Section 7.16 Compliance with Insurance Law. The Borrower is duly
+licensed to transact business as a financial guaranty insurance corporation by
+the New York Insurance Department and (a) has all other requisite federal, state
+and other governmental licenses, authorizations, permits, consents and approvals
+to conduct its insurance and other business as currently conducted and proposed
+to be conducted in New York and in each jurisdiction in which it writes or
+issues policies of insurance (including without limitation any form of financial
+
+
+                                      -23-
+<PAGE>
+guaranty insurance, certain lines of surety insurance or credit insurance),
+surety bonds, guaranties, contracts of reinsurance or other undertakings similar
+to the foregoing (collectively, "Insurance Contracts") or in which it conducts
+business, except for failures, if any, to have such licenses, authorizations,
+permits, consents and approvals which singly or in the aggregate could not
+reasonably be expected to have a material adverse effect on the business,
+operations, property, assets, liabilities, prospects or condition (financial or
+otherwise) of the Borrower or the ability of the Borrower to perform its
+obligations under this Agreement or any of the other Credit Documents, (b) has
+made all filings of each of its forms of Insurance Contracts and of its rates
+and charges with the New York Insurance Department and all other federal, state
+and other administrative or governmental bodies required for the use thereof and
+has obtained all requisite approvals thereof, except for failures, if any, to
+file or to obtain such approvals which singly or in the aggregate could not
+reasonably be expected to have a material adverse effect on the business,
+assets, operations or financial condition of the Borrower or the ability of the
+Borrower to perform its obligations under this Agreement or any of the other
+Credit Documents, (c) has duly established and maintains all reserves required
+under the New York Insurance Law and other applicable federal, state and other
+laws, rules and regulations, except for failures, if any, to maintain reserves
+which could not reasonably be expected to have a material adverse effect on the
+business, assets, operations, property or condition (financial or otherwise) of
+the Borrower or the ability of the Borrower to perform its obligations under
+this Agreement or any of the Credit Documents and (d) is in compliance (and has
+not received any notice from the New York Insurance Department or similar
+administrative or governmental body or an authorized representative thereof
+claiming that it is not in compliance) with the New York Insurance Law and with
+all other applicable federal, state and other laws relating to its insurance and
+other businesses, except with respect to failures, if any, to comply which
+singly or in the aggregate could not reasonably be expected to have a material
+adverse effect on the business, assets, operations, property or condition
+(financial or otherwise) of the Borrower or the ability of the Borrower to
+perform its obligations under this Agreement or any of the other Credit
+Documents.
+
+            Section 7.17 Covered Portfolio. Substantially all of the Insured
+Obligations in the Covered Portfolio are insured or reinsured by the Borrower
+under Insurance Contracts in the form or forms heretofore supplied to the Agent
+in accordance with the Borrower's underwriting criteria. The Borrower has no
+reason to believe that its rights included among the Collateral are not valid
+and binding against the obligors thereunder in accordance with their respective
+terms, except insofar as enforceability may be limited by bankruptcy,
+insolvency, moratorium or other similar laws affecting the enforcement of
+creditors' rights generally and the availability of equitable remedies, except
+for such Collateral which, in the aggregate, could not reasonably be expected to
+have a material adverse effect on the right and ability of the Collateral Agent,
+in accordance with the Security Agreement, to realize upon the Collateral as a
+whole. The Borrower has delivered to each Bank, via an email message in the form
+set forth on Schedule II attached hereto, a listing, as of September 30, 2001,
+of the reinsurer and the related amounts (both ceded par inforce and ceded
+principal and interest inforce) of reinsured Insured Obligations as of such
+date.
+
+
+                                      -24-
+<PAGE>
+SECTION 8. AFFIRMATIVE COVENANTS.
+
+            The Borrower covenants and agrees that on and after the Effective
+Date and until the Commitments have terminated and the Loans and the Notes,
+together with interest, Fees and all other obligations incurred hereunder and
+thereunder, are paid in full:
+
+            Section 8.01 Information Covenants. The Borrower will furnish to the
+Agent and, upon the request of any Bank, to such Bank:
+
+            (a) Quarterly Financial Statements. Within 60 days after the close
+of each of the first three quarterly accounting periods in each fiscal year of
+the Borrower, (i) the balance sheet of the Borrower as at the end of such
+quarterly period and the related statements of income and retained earnings for
+such quarterly period and for the elapsed portion of the fiscal year ended with
+the last day of such quarterly period, in each case setting forth comparative
+figures for the related periods in the prior fiscal year, all of which shall be
+certified by the president, chief financial officer or the treasurer or other
+senior financial officer of the Borrower, subject to normal year-end audit
+adjustments which unaudited financial statements are not required to contain
+footnotes, and (ii) all statutory statements required to be filed for such
+period with the New York Insurance Department.
+
+            (b) Annual Financial Statements. Within 120 days after the close of
+each fiscal year of the Borrower, but in any event as promptly as shall be
+available, (i) the balance sheet of the Borrower as at the end of such fiscal
+year and the related combined statements of income and retained earnings and of
+cash flows for such fiscal year setting forth comparative figures for the
+preceding fiscal year and audited by Deloitte & Touche LLP, or such other
+independent certified public accountants of recognized national standing
+reasonably acceptable to the Agent, together with a report of such accounting
+firm stating that in the course of its regular audit of the financial statements
+of the Borrower, the audit was conducted in accordance with generally accepted
+auditing standards, (ii) if prepared, management's discussions and analysis of
+the important operational and financial developments during such fiscal year and
+(iii) all statutory statements required to be filed for such fiscal year with
+the New York Insurance Department.
+
+            (c) Management Letters. Promptly after the receipt thereof by the
+Borrower or any of its Subsidiaries, a copy of any "management letter" received
+by the Borrower or such Subsidiary from its certified public accountants and the
+management's responses thereto.
+
+            (d) Officer's Certificates. At the time of the delivery of the
+financial statements provided for in Section 8.01(a) or 8.01(b), a certificate
+of the president, chief financial officer or treasurer or other senior financial
+officer of the Borrower (i) to the extent provided to the Borrower by primary
+insurers (it being understood that such information is to be provided by the
+Borrower solely in reliance on the information so provided by such primary
+insurers without investigation by the Borrower), listing the Insured Obligations
+in the Covered Portfolio (and if the Loss Threshold Incurrence Date has occurred
+identifying the Insurance Contracts with respect thereto) and calculating in
+reasonable detail as of the date of such financial statements (A) if such date
+is prior to the Loss Threshold Incurrence Date, (1) the Borrower's Cumulative
+Losses
+
+
+                                      -25-
+<PAGE>
+(stating separately any Permitted Reserves included therein) for the current
+Commitment Period and (2) the Average Annual Debt Service, and (B) if such date
+is on or after the occurrence of the Loss Threshold Incurrence Date, (1) the
+date of the occurrence thereof, (2) evidence of the occurrence thereof, (3) the
+amount of Permitted Reserves as of the date of such financial statements, and
+(4) the aggregate amount of Pledged Recoveries received by or for the account of
+the Borrower during the current Commitment Period on or prior to the date of
+such financial statements, (ii) to the extent provided to the Borrower by
+primary insurers (it being understood that such information is to be provided by
+the Borrower solely in reliance on the information so provided by such primary
+insurers without investigation by the Borrower), certifying information with
+respect to reinsured Insured Obligations as of the date of such financial
+statements in a format comparable to the listing referred to in the last
+sentence of Section 7.17 and (iii) to the effect that, to the best of his
+knowledge, no Default or Event of Default has occurred and is continuing (and
+including a specific reference to compliance with Section 8.09) or, if any
+Default or Event of Default has occurred and is continuing, specifying the
+nature and extent thereof.
+
+            (e) Notice of Default or Litigation. Promptly, and in any event
+within two Business Days, after an Authorized Officer obtains knowledge thereof,
+written notice of (i) the occurrence of any event which constitutes a Default or
+Event of Default, (ii) any litigation or governmental proceeding pending (A)
+against the Borrower or any of its Subsidiaries which could reasonably be
+expected to have a materially adverse effect upon the business, operations,
+property, assets, liabilities, or condition (financial or otherwise) of the
+Borrower and its Subsidiaries taken as a whole or (B) with respect to any Credit
+Document, (iii) any other event which could reasonably be expected to have a
+materially adverse effect upon the business, operations, property, assets,
+liabilities, prospects or condition (financial or otherwise) of the Borrower and
+its Subsidiaries taken as a whole, (iv) any rating report received by the
+Borrower published by Moody's, S&P or, if either Moody's or S&P no longer rates
+the claims-paying ability of the Borrower, any other nationally recognized
+rating agency which, with the consent of the Borrower, rates the
+creditworthiness of obligations insured by the Borrower, (v) each Loss in excess
+of $100,000, including without limitation, identification of the Insured
+Obligation with respect to which such Loss occurred, (vi) each default by the
+issuer of any Insured Obligation in the Covered Portfolio or other obligor with
+respect thereto which could form the basis of a claim in excess of $100,000
+under an Insurance Contract and (vii) each default by any party to a reinsurance
+agreement or similar arrangement with the Borrower which covers at least
+$100,000 of Insured Obligations in the Covered Portfolio.
+
+            (f) Other Reports and Filings. Within 10 Business Days following the
+filing thereof with the Securities and Exchange Commission or any successor
+thereto, copies of all financial information, proxy materials and other
+information and reports, if any, which the Borrower or any Affiliate of the
+Borrower shall file with the Securities and Exchange Commission or any successor
+thereto.
+
+            (g) Specific Information. No less frequently than quarterly, (i)
+information with respect to the Covered Portfolio received by the Borrower from
+the relevant primary insurer, (ii) service mix (i.e., health care, education,
+small issue industrial development bonds, utilities and pollution control, etc.)
+detail, on a par insured and debt service basis, with respect to the
+
+
+                                      -26-
+<PAGE>
+Covered Portfolio and (iii) a watch list/weakening credit update with respect to
+the Covered Portfolio.
+
+            (h) Other Information. From time to time, such other information or
+documents (financial or otherwise) as any Bank may reasonably request,
+including, without limitation, information with respect to, and copies of, any
+relevant reinsurance agreement.
+
+            Section 8.02 Books, Records and Inspections. The Borrower will, and
+will cause each of its Subsidiaries to, keep proper books of record and account
+in which full, true and correct entries in conformity with generally accepted
+accounting principles in the United States and all requirements of law shall be
+made of all dealings and transactions in relation to its business and
+activities. The Borrower will, and will cause each of its Subsidiaries to,
+permit officers and designated representatives of the Agent or any Bank to visit
+and inspect, during regular business hours and under guidance of officers of the
+Borrower or such Subsidiary, any of the properties of the Borrower or such
+Subsidiary, and to examine the books of account of the Borrower or such
+Subsidiary and discuss the affairs, finances and accounts of the Borrower or
+such Subsidiary with, and be advised as to the same by, its and their officers
+and independent accountants, all at such reasonable times and intervals and to
+such reasonable extent as the Agent or such Bank may request.
+
+            Section 8.03 Corporate Franchises. The Borrower will do or cause to
+be done all things necessary to preserve and keep in full force and effect its
+existence and its material rights, franchises, licenses and patents; provided,
+however, that nothing in this Section 8.03 shall prevent (i) transactions by the
+Borrower or any of its Subsidiaries which are permitted as exceptions to the
+restrictions of Section 9.02 or (ii) the withdrawal by the Borrower of its
+qualification as a foreign corporation in any jurisdiction where such withdrawal
+could not reasonably be expected to have a material adverse effect on the
+business, operations, property, assets, liabilities, prospects or condition
+(financial or otherwise) of the Borrower or of the Borrower and its Subsidiaries
+taken as a whole.
+
+            Section 8.04 Compliance with Statutes, etc. The Borrower will, and
+will cause each of its Subsidiaries to, comply with all applicable statutes,
+regulations and orders of, and all applicable restrictions imposed by, all
+governmental bodies, domestic or foreign, in respect of the conduct of its
+business and the ownership of its property (including applicable statutes,
+regulations, orders and restrictions relating to environmental standards and
+controls), except such noncompliances as could not, individually or in the
+aggregate, reasonably be expected to have a material adverse effect on the
+business, operations, property, assets, liabilities, prospects or condition
+(financial or otherwise) of the Borrower or of the Borrower and its Subsidiaries
+taken as a whole.
+
+            Section 8.05 ERISA. Promptly after an Authorized Officer of the
+Borrower has received notice or otherwise has knowledge thereof, the Borrower
+shall deliver to the Agent a written notice describing in reasonable detail the
+occurrence of any of the following: that a Reportable Event has occurred; that
+an accumulated funding deficiency, within the meaning of Section 412 of the Code
+or Section 302 of ERISA, has been incurred or an application may be or has been
+made to the Secretary of the Treasury for a waiver or modification of the
+minimum
+
+
+                                      -27-
+<PAGE>
+funding standard (including any required installment payments) or an extension
+of any amortization period under Section 412 of the Code or Section 303 or 304
+of ERISA with respect to a Plan; that a Plan has an Unfunded Current Liability
+giving rise to a Lien under ERISA; or that the Borrower or any ERISA Affiliate
+will or may incur any material liability (including any contingent or secondary
+liability) to or on account of the termination of or withdrawal from a Plan or
+Multiemployer Plan under Section 4062, 4063, 4064, 4069, 4201, 4204 or 4212 of
+ERISA. Upon written request of the Agent, the Borrower will deliver to each Bank
+a complete copy of the annual report (Form 5500) of each Plan required to be
+filed with the Internal Revenue Service.
+
+            Section 8.06 Performance of Obligations. The Borrower will, and will
+cause each of its Subsidiaries to, perform all of its obligations under the
+terms of each mortgage, indenture, security agreement and other debt instrument
+by which it is bound, except such non-performances as could not, individually or
+in the aggregate, reasonably be expected to have a material adverse effect on
+the business, operations, property, assets, liabilities, prospects or condition
+(financial or otherwise) of the Borrower or of the Borrower and its Subsidiaries
+taken as a whole.
+
+            Section 8.07 Use of Proceeds. The Borrower will use the proceeds of
+the Loans only to pay or reimburse itself for the payment of Losses (including
+establishing and/or maintaining Permitted Reserves in the Pledged Reserves
+Account) in respect of the Covered Portfolio.
+
+            Section 8.08 Conduct of Business. The Borrower will continue to
+engage in business of the same general type as conducted by it on the Effective
+Date.
+
+            Section 8.09 Underwriting Criteria. The Borrower shall maintain (i)
+its criteria for underwriting (including reinsuring) Insurance Contracts and
+(ii) with respect to the Covered Portfolio, its basic service/industry mix
+substantially as heretofore in effect.
+
+            Section 8.10 Collection of Pledged Recoveries and Pledged Premiums.
+The Borrower shall at all times use its commercially reasonable efforts to
+collect and otherwise realize upon all Pledged Recoveries and Pledged Premiums
+in compliance with applicable law and in a commercially reasonable manner.
+
+            Section 8.11 Pledged Reserve Release Notice. The Borrower hereby
+acknowledges and agrees that if, at any time, it shall cease to maintain (other
+than as a result of a transfer or application contemplated by Section 2.4(d) of
+the Security Agreement) all or any portion of Permitted Reserves in respect of
+which Pledged Reserves Account Funds have been deposited in the Pledged Reserves
+Account, the Borrower as promptly as possible (and in any event within three
+Business Days) after it shall cease to maintain such Permitted Reserves shall
+give written notice thereof (each such notice, a "Pledged Reserve Release
+Notice") to the Agent and the Collateral Agent which notice shall provide the
+amount of such Pledged Reserves Account Funds that have been released.
+
+
+                                      -28-
+<PAGE>
+            Section 8.12 Registry. The Borrower hereby covenants that it shall
+maintain a register on which it will record the Commitment and Contingent
+Commitment from time to time of each of the Banks, the Loans made by each of the
+Banks and each repayment in respect of the principal amount of the Loans of each
+Bank. Failure to make any such recordation, or any error in such recordation,
+shall not affect the Borrower's obligations in respect of such Loans. Upon the
+request of the Borrower, the Agent hereby agrees to use its reasonable efforts
+to provide to the Borrower such information not otherwise available to the
+Borrower, as the Borrower shall reasonably request from time to time in order to
+enable it to fulfill its obligations pursuant to this Section 8.12.
+
+SECTION 9. NEGATIVE COVENANTS.
+
+            The Borrower covenants and agrees that on and after the Effective
+Date and until the Commitments have terminated and the Loans and the Notes,
+together with interest, Fees and all other obligations incurred hereunder and
+thereunder, are paid in full:
+
+            Section 9.01 Liens. The Borrower will not, and will not permit any
+of its Subsidiaries to, create, incur, assume or suffer to exist any Lien upon
+any Pledged Recoveries, Pledged Premiums, Pledged Reserves Account Funds or
+other Collateral, provided that the provisions of this Section 9.01 shall not
+prevent the creation, incurrence, assumption or existence of the following
+(Liens described below are herein referred to as "Permitted Liens"):
+
+            (i) the Lien in favor of the Banks under the Security Agreement or
+otherwise permitted thereunder;
+
+            (ii) inchoate Liens for taxes, assessments or governmental charges
+or levies not yet due or Liens for taxes, assessments or governmental charges or
+levies being contested in good faith and by appropriate proceedings for which
+adequate reserves have been established in accordance with generally accepted
+accounting principles;
+
+            (iii) Liens in respect of property or assets of the Borrower or any
+of its Subsidiaries imposed by law, which were incurred in the ordinary course
+of business and do not secure Indebtedness for borrowed money, such as
+carriers', warehousemen's, materialmen's and mechanics' liens and other similar
+Liens arising in the ordinary course of business, which relate to Indebtedness
+which has not been paid when due and payable in accordance with its terms and
+which are being contested in good faith by appropriate proceedings, which
+proceedings have the effect of preventing the forfeiture or sale of the property
+or assets subject to any such Lien; and
+
+            (iv) Liens incurred in connection with reinsurer trust agreements
+entered into pursuant to Section 114 of the New York Insurance Law.
+
+            Section 9.02 Consolidation, Merger, Sale of Assets, etc. The
+Borrower will not, and will not permit any of its Subsidiaries to, wind up,
+liquidate or dissolve its affairs or enter into any transaction of merger or
+consolidation, or convey, sell, lease or otherwise dispose of (or agree to do
+any of the foregoing at any future time) all or any substantial part of its
+property or assets, or purchase or otherwise acquire (in one or a series of
+related transactions) all or
+
+
+                                      -29-
+<PAGE>
+substantially all of the property or assets (other than purchases or other
+acquisitions of inventory, materials and equipment in the ordinary course of
+business) of any Person, or permit any of its Subsidiaries so to do any of the
+foregoing, except that:
+
+            (i) each of the Borrower and its Subsidiaries may in the ordinary
+course of business sell or lease assets;
+
+            (ii) any Subsidiary may wind up its affairs or liquidate or dissolve
+into, and may consolidate or merge with or into, the Borrower or any other
+Subsidiary of the Borrower;
+
+            (iii) the assets or stock of any Subsidiary of the Borrower may be
+purchased or otherwise acquired by the Borrower or any other Subsidiary of the
+Borrower; and
+
+            (iv) the Borrower or any of its Subsidiaries may purchase or
+otherwise acquire all or substantially all of the properties or assets of any
+Person (other than the Borrower) or acquire such Person by merger so long as (a)
+no Default or Event of Default has occurred and is continuing or would occur
+after giving effect thereto, (b) such purchase, acquisition or merger shall not
+result in any downgrading of the Borrower's Rating assigned by Moody's or S&P
+from that in effect immediately prior to such purchase, acquisition or merger
+and (c) the Borrower shall deliver to the Agent a certificate of the president,
+chief financial officer or the treasurer of the Borrower stating that such
+purchase, merger or acquisition complied with the conditions contained in this
+clause (iv).
+
+SECTION 10. EVENTS OF DEFAULT.
+
+            Upon the occurrence of any of the following specified events (each
+an "Event of Default"):
+
+            Section 10.01 Payments. The Borrower shall (i) default in the
+payment when due of any principal of any Loan or any Note or (ii) default, and
+such default shall continue unremedied for two or more Business Days, in the
+payment when due of any interest on any Loan or any Note or any Fees or any
+other amounts owing hereunder or under any Note; or
+
+            Section 10.02 Representations, etc. Any representation, warranty or
+statement made by or on behalf of the Borrower herein or in any other Credit
+Document or in any certificate delivered pursuant hereto or thereto shall prove
+to be untrue in any material respect on the date as of which made or deemed
+made; or
+
+            Section 10.03 Covenants. The Borrower shall (i) default in the due
+performance or observance by it of any term, covenant or agreement contained in
+Section 8.01(e)(i), 8.07, 8.08, 8.09, 8.10, 8.11 or 9 or (ii) default in the due
+performance or observance by it of any term, covenant or agreement (other than
+those referred to in Sections 10.01 and 10.02 and clause (i) of this Section
+10.03) contained in this Agreement and such default shall continue unremedied
+for a period of 30 days after written notice to the Borrower by the Agent or, in
+the event there is no Agent, any Bank; or
+
+
+                                      -30-
+<PAGE>
+            Section 10.04 Default Under Other Agreements. The Borrower or any of
+its Subsidiaries shall (i) default in any payment of any Indebtedness (other
+than the Notes) with an outstanding principal balance in excess of $10,000,000
+beyond the period of grace, if any, provided in the instrument or agreement
+under which such Indebtedness was created or (ii) default in the observance or
+performance of any agreement or condition relating to any such Indebtedness
+beyond the grace period as provided therein (other than the Notes) or contained
+in any instrument or agreement evidencing, securing or relating thereto, or any
+other event shall occur or condition exist, the effect of any such default or
+other event or condition is to cause, or to permit the holder or holders of such
+Indebtedness (or a trustee or agent on behalf of such holder or holders) to
+cause any such Indebtedness to become due prior to its stated maturity; or any
+Indebtedness of the Borrower or any of its Subsidiaries shall be declared to be
+due and payable, or required to be prepaid other than by a regularly scheduled
+required prepayment, prior to the stated maturity thereof; or
+
+            Section 10.05 Bankruptcy, etc. The Borrower or any of its
+Subsidiaries shall commence a voluntary case concerning itself under Title 11 of
+the United States Code entitled "Bankruptcy," as now or hereafter in effect, or
+any successor thereto (the "Bankruptcy Code"); or an involuntary case is
+commenced against the Borrower or any of its Subsidiaries, and the petition is
+not controverted within 10 days, or is not stayed or dismissed and remains in
+effect after 60 days, after commencement of the case; or a custodian (as defined
+in the Bankruptcy Code) is appointed for, or takes charge of, all or
+substantially all of the property of the Borrower or any of its Subsidiaries, or
+the Borrower or any of its Subsidiaries commences any other proceeding under any
+reorganization, arrangement, adjustment of debt, relief of debtors, dissolution,
+insolvency or liquidation or similar law of any jurisdiction whether now or
+hereafter in effect relating to the Borrower or any of its Subsidiaries, or
+there is commenced against the Borrower or any of its Subsidiaries any such
+proceeding which remains undismissed or unstayed for a period of 60 days, or the
+Borrower or any of its Subsidiaries is adjudicated insolvent or bankrupt; or any
+order of relief or other order approving any such case or proceeding is entered;
+or the Borrower or any of its Subsidiaries suffers any appointment of any
+custodian or the like for it or any substantial part of its property to continue
+undischarged or unstayed for a period of 60 days; or the Borrower or any of its
+Subsidiaries makes a general assignment for the benefit of creditors; or any
+corporate action is taken by the Borrower or any of its Subsidiaries for the
+purpose of effecting any of the foregoing; or
+
+            Section 10.06 Security Agreement. (i) The Security Agreement or any
+provision thereof shall cease to be in full force and effect, or shall cease in
+any material respect to give the Collateral Agent for the benefit of the Banks,
+the Liens, rights, powers and privileges purported to be created thereby, or
+(ii) the Borrower shall otherwise default in any material respect in the due
+performance or observance of any term, covenant or agreement on its part to be
+performed or observed pursuant to the Security Agreement and such default shall
+continue unremedied for a period of 30 days after written notice to the Borrower
+by the Agent or, in the event there is no Agent, any Bank; or
+
+            Section 10.07 Judgments. One or more judgments or decrees shall be
+entered against the Borrower or any of its Subsidiaries involving in the
+aggregate for the Borrower and its Subsidiaries a liability (not paid or fully
+covered by insurance) of $5,000,000 or more at any
+
+
+                                      -31-
+<PAGE>
+one time, and all such judgments or decrees shall not have been vacated,
+discharged or stayed or bonded pending appeal within 60 days after the entry
+thereof; or
+
+            Section 10.08 Change of Control. A Change of Control shall occur;
+
+then, and in any such event, and at any time thereafter, if any Event of Default
+shall then be continuing, the Agent may or shall upon direction from the
+Majority Banks, by written notice to the Borrower, take the following actions to
+the extent permitted below (provided, that, if an Event of Default specified in
+Section 10.05 shall occur with respect to the Borrower, the result which would
+occur upon the giving of written notice to the Borrower as specified below shall
+occur automatically without the giving of any such notice): if any Event of
+Default has occurred and is continuing, the Agent may declare the principal of
+and any accrued interest in respect of all Loans and the Notes and all
+obligations owing hereunder and thereunder to be, whereupon the same shall
+become, forthwith due and payable without presentment, demand, protest or other
+notice of any kind, all of which are hereby waived by the Borrower.
+
+SECTION 11. THE AGENT.
+
+            Section 11.01 Appointment. The Banks hereby designate Deutsche Bank
+AG, New York Branch as Agent (for purposes of this Section 11, the term "Agent"
+shall also include Deutsche Bank AG, New York Branch in its capacity as
+Collateral Agent pursuant to the Security Documents) to act as specified herein
+and in the other Credit Documents. Each Bank hereby irrevocably authorizes, and
+each holder of any Note by the acceptance of such Note shall be deemed
+irrevocably to authorize, the Agent to take such action on its behalf under the
+provisions of this Agreement, the other Credit Documents and any other
+instruments and agreements referred to herein or therein and to exercise such
+powers and to perform such duties hereunder and thereunder as are specifically
+delegated to or required of the Agent by the terms hereof and thereof and such
+other powers as are reasonably incidental thereto. The Agent may perform any of
+its duties hereunder by or through its officers, directors, agents or employees.
+
+            Section 11.02 Nature of Duties. The Agent shall not have any duties
+or responsibilities except those expressly set forth in this Agreement and the
+Security Agreement. Neither the Agent nor any of its officers, directors, agents
+or employees shall be liable for any action taken or omitted by it or them
+hereunder or under any other Credit Document or in connection herewith or
+therewith, unless caused by its or their gross negligence or willful misconduct.
+The duties of the Agent shall be mechanical and administrative in nature; the
+Agent shall not have by reason of this Agreement or any other Credit Document a
+fiduciary relationship in respect of any Bank or the holder of any Note; and
+nothing in this Agreement or any other Credit Document, expressed or implied, is
+intended to or shall be so construed as to impose upon the Agent any obligations
+in respect of this Agreement or any other Credit Document except as expressly
+set forth herein or therein.
+
+            Section 11.03 Lack of Reliance on the Agent. Independently and
+without reliance upon the Agent, each Bank and the holder of each Note, to the
+extent it deems appropriate, has made and shall continue to make (i) its own
+independent investigation of the financial condition and affairs of the Borrower
+in connection with the making and the continuance of the Loans and
+
+
+                                      -32-
+<PAGE>
+the taking or not taking of any action in connection herewith and (ii) its own
+appraisal of the creditworthiness of the Borrower and, except as expressly
+provided in this Agreement, the Agent shall not have any duty or responsibility,
+either initially or on a continuing basis, to provide any Bank with any credit
+or other information with respect thereto, whether coming into its possession
+before the making of the Loans or at any time or times thereafter. The Agent
+shall not be responsible to any Bank or the holder of any Note for any recitals,
+statements, information, representations or warranties herein or in any
+document, certificate or other writing delivered in connection herewith or for
+the execution, effectiveness, genuineness, validity, enforceability, perfection,
+collectability, priority or sufficiency of this Agreement or any other Credit
+Document or the financial condition of the Borrower or be required to make any
+inquiry concerning either the performance or observance of any of the terms,
+provisions or conditions of this Agreement or any other Credit Document, or the
+financial condition of the Borrower or the existence or possible existence of
+any Default or Event of Default.
+
+            Section 11.04 Certain Rights of the Agent. If the Agent shall
+request instructions from the Banks with respect to any act or action (including
+failure to act) in connection with this Agreement or any other Credit Document,
+the Agent shall be entitled to refrain from such act or taking such action
+unless and until the Agent shall have received instructions from the Majority
+Banks or all the Banks to the extent required by Section 12.11; and the Agent
+shall not incur liability to any Person by reason of so refraining. Without
+limiting the foregoing, no Bank or the holder of any Note shall have any right
+of action whatsoever against the Agent as a result of the Agent acting or
+refraining from acting hereunder or under any other Credit Document in
+accordance with the instructions of the Majority Banks or the Banks, as the case
+may be.
+
+            Section 11.05 Reliance. The Agent shall be entitled to rely, and
+shall be fully protected in relying, upon any note, writing, resolution, notice,
+statement, certificate, telex, teletype or telecopier message, cablegram,
+radiogram, order or other document or telephone message signed, sent or made by
+any Person that the Agent believed to be the proper Person, and, with respect to
+all legal matters pertaining to this Agreement and any other Credit Document and
+its duties hereunder and thereunder, upon advice of counsel selected by the
+Agent.
+
+            Section 11.06 Indemnification. To the extent the Agent is not
+reimbursed and indemnified by the Borrower, each Bank will reimburse and
+indemnify the Agent for and against any and all liabilities, obligations,
+losses, damages, penalties, claims, actions, judgments, suits and reasonable
+costs, expenses and disbursements of whatsoever kind or nature which may be
+imposed on, asserted against or incurred by the Agent in performing its duties
+hereunder or under any other Credit Document, in any way relating to or arising
+out of this Agreement or any other Credit Document; provided that no Bank shall
+be liable for any portion of such liabilities, obligations, losses, damages,
+penalties, actions, judgments, suits, costs, expenses or disbursements resulting
+from the Agent's gross negligence or willful misconduct.
+
+            Section 11.07 The Agent in Its Individual Capacity. With respect to
+its obligation to make Loans under this Agreement, the Agent shall have the
+rights and powers specified herein for a "Bank" and may exercise the same rights
+and powers as though it was not performing the duties specified herein; and the
+term "Banks," "holders of Notes" or any similar terms shall, unless the context
+clearly otherwise indicates, include the Agent in its individual capacity. The
+
+
+                                      -33-
+<PAGE>
+Agent may accept deposits from, lend money to, and generally engage in any kind
+of banking, trust or other business with the Borrower or any Affiliate of the
+Borrower as if they were not performing the duties specified herein, and may
+accept fees and other consideration from the Borrower for services in connection
+with this Agreement and otherwise without having to account for the same to the
+Banks.
+
+            Section 11.08 Resignation by the Agent. (a) The Agent may resign
+from the performance of all its functions and duties hereunder and/or under the
+other Credit Documents at any time by giving 15 Business Days' prior written
+notice to the Borrower and the Banks. In the case of the resignation by the
+Agent, such resignation shall take effect upon the appointment of a successor
+Agent pursuant to Section 11.08(b) or 11.08(c) or as otherwise provided in
+Section 11.08(d).
+
+            (b) Upon any such notice of resignation by the Agent, the Banks
+shall appoint a successor Agent hereunder or thereunder who shall be a
+commercial bank or trust company reasonably acceptable to the Borrower (it being
+understood and agreed that any Bank is deemed to be acceptable to the Borrower).
+
+            (c) If a successor Agent shall not have been so appointed within
+such 15 Business Day period, the Agent, with the consent of the Borrower, shall
+then appoint a successor Agent who shall serve as Agent hereunder or thereunder
+until such time, if any, as the Banks appoint a successor Agent as provided
+above.
+
+            (d) If no successor Agent has been appointed pursuant to Section
+11.08(b) or 11.08(c) by the 20th Business Day after the date such notice of
+resignation was given by the Agent, the Agent may appoint any other Bank which
+agrees to such appointment to act as successor Agent.
+
+SECTION 12. MISCELLANEOUS.
+
+            Section 12.01 Payment of Expenses, etc. The Borrower shall: (i)
+whether or not the transactions herein contemplated are consummated, pay all
+reasonable out-of-pocket costs and expenses (a) of the Agent (including, without
+limitation, the reasonable fees and disbursements of White & Case, LLP, counsel
+for the Agent) in connection with the preparation, execution and delivery of
+this Agreement and the other Credit Documents and the documents and instruments
+referred to herein and therein and any amendment, waiver or consent relating
+hereto or thereto and (b) of the Agent and the Banks in connection with the
+enforcement of this Agreement and the other Credit Documents and the documents
+and instruments referred to herein and therein (including, without limitation,
+the reasonable fees and disbursements of counsel for the Agent and the Banks);
+(ii) pay and hold each Bank harmless from and against any and all present and
+future stamp and other similar taxes with respect to the foregoing matters and
+save such Bank harmless from and against any and all liabilities with respect to
+or resulting from any delay or omission (other than to the extent attributable
+to such Bank) to pay such taxes; and (iii) except as otherwise provided in
+Section 4.05, indemnify each Bank, its officers, directors, employees,
+representatives and agents from and hold each of them harmless against any and
+all liabilities, obligations, losses, damages, penalties, claims, actions,
+judgments, suits and
+
+
+                                      -34-
+<PAGE>
+reasonable costs, expenses and disbursements incurred by any of them as a result
+of, or arising out of, or in any way related to, or by reason of, any
+investigation, litigation or other proceeding (whether or not such Bank is a
+party thereto) related to the entering into and/or performance of this Agreement
+or any other Credit Document or the use of the proceeds of any Loans hereunder
+or the consummation of any transactions contemplated herein or in any other
+Credit Document, including, without limitation, the reasonable fees and
+disbursements of counsel incurred in connection with any such investigation,
+litigation or other proceeding (but excluding any such liabilities, obligations,
+losses, etc., to the extent incurred by reason of the gross negligence or
+willful misconduct of the Person to be indemnified).
+
+            Section 12.02 Right of Setoff. Except as otherwise provided in
+Section 4.05, in addition to any rights now or hereafter granted under
+applicable law or otherwise, and not by way of limitation of any such rights and
+to the extent permitted by applicable law, during the continuance of an Event of
+Default, each Bank is hereby authorized at any time or from time to time,
+without presentment, demand, protest or other notice of any kind to the Borrower
+or to any other Person, any such notice being hereby expressly waived, to set
+off and to appropriate and apply any and all deposits (general or special), and
+any other Indebtedness at any time held or owing by such Bank (including without
+limitation by branches and agencies of such Bank wherever located) to or for the
+credit or the account of the Borrower against and on account of the Obligations
+and liabilities of the Borrower to such Bank under this Agreement or under any
+of the other Credit Documents, and all other claims of any nature or description
+arising out of or connected with this Agreement or any other Credit Document,
+irrespective of whether or not the Bank shall have made any demand hereunder and
+although such Obligations, liabilities or claims, or any of them, shall be
+contingent or unmatured, provided however that (i) except to the extent provided
+in the next succeeding clause (ii), no Bank is authorized hereunder to take any
+of the foregoing actions, nor shall any Bank exercise any other right of setoff
+or bankers' lien or any other right now or hereafter granted under applicable
+law with respect to the Pledged Reserves Account or any portion of the Pledged
+Reserves Account Funds or any Collateral contained in the Pledged Reserves
+Account (each of the Agent, the Collateral Agent and each Bank hereby waiving,
+to the extent permitted by applicable law, any such right) and (ii) from and
+after receipt by the Agent or the Collateral Agent of any Pledged Reserve
+Release Notice, the Agent, the Collateral Agent or any Bank is authorized to and
+may exercise, to the extent permitted by applicable law, any of such foregoing
+actions or such rights only with respect to the amount of Pledged Reserves
+Account Funds described in such Pledged Reserve Release Notice and the other
+Collateral contained in the Pledged Reserves Account in an amount equal to the
+interest and other earnings on such Pledged Reserves Account Funds.
+
+            Section 12.03 Notices. Except as otherwise expressly provided
+herein, all notices and other communications provided for hereunder shall be in
+writing (including telegraphic, telex, facsimile or cable communication) and
+mailed, telegraphed, telexed, telecopied, cabled or delivered: if to the
+Borrower or any Bank, at its address listed opposite its name on the signature
+page hereto; and if to the Agent at its Notice Office; or, as to any Bank or the
+Agent, at such other address as shall be designated by such party in a written
+notice to the other parties hereto and, as to each other party, at such other
+address as shall be designated by such party in a written notice to the Borrower
+and the Agent. All such notices and communications shall not be effective until
+received by the Agent or the Borrower.
+
+
+                                      -35-
+<PAGE>
+            Section 12.04 Benefit of Agreement. (a) This Agreement shall be
+binding upon and inure to the benefit of and be enforceable by the respective
+successors and assigns of the parties hereto; provided, however, that the
+Borrower may not assign or transfer any of its rights or obligations hereunder
+without the prior written consent of the Banks and, provided further, that, no
+Bank may transfer or assign its rights or obligations hereunder or under any of
+the other Credit Documents, except as provided in this Section 12.04, provided
+further, that no Bank shall transfer, grant or assign any participation under
+which the participant shall have rights to approve any amendment to or waiver of
+this Agreement or any of the other Credit Documents (i) except to the extent
+such amendment or waiver (A) extends the final maturity of any Loan or Note
+other than in accordance with Section 3.04, or reduces the rate or extends the
+time of payment of interest or Fees thereon, or reduces the principal amount
+thereof, or increases the Commitment of any Bank over the amount thereof then in
+effect (it being understood that a waiver of any Default or Event of Default
+shall not constitute a change in the terms of any Commitment of any Bank), (B)
+releases any material portion of the Collateral under the Security Agreement
+except as shall be otherwise provided in any Credit Document, (C) consents to
+the assignment or transfer by the Borrower of any of its rights and obligations
+under any Credit Document, (D) amends the definition of Loss Threshold
+Incurrence Date other than to increase the dollar amount or the percentage
+specified therein, (E) reduces the percentage specified in the definition of
+Majority Participants or (F) amends, modifies or waives any provision of this
+Section 12.04 or (ii) except to the extent that a Bank may permit its Majority
+Participants to approve any material written amendment, modification, waiver or
+release of any other provision of this Agreement or any other Credit Document
+which would, if effected, materially adversely affect the interests of its
+participants. "Majority Participants" for purposes of this Section 12.04 shall
+mean, with respect to each Bank, at any time participants of such Bank
+participating in at least 51% of the aggregate principal amount of Loans made by
+such Bank and outstanding at such time, or if no such Loans are outstanding at
+such time, participants of such Bank participating in at least 51% of the
+Commitment of such Bank at such time. In the case of any such participation, the
+participant shall not constitute a "Bank" hereunder and shall not have any
+rights under this Agreement or any of the other Credit Documents (the
+participant's rights against any Bank in respect of such participation to be
+those set forth in the agreement executed by such Bank in favor of the
+participant relating thereto) and all amounts payable by the Borrower hereunder
+shall be determined as if such Bank had not sold such participation, except that
+the participant shall be entitled to the benefits of Section 2.07 or 4.04 of
+this Agreement to the extent that such Bank would be entitled to such benefits
+if the participation had not been transferred, granted or assigned.
+
+            (b) Notwithstanding the foregoing, any Bank (or any Bank together
+with one or more other Banks) may (and, at the direction of the Borrower
+following a rating downgrade of such Bank, shall) assign all or a portion of its
+Commitment (plus, if such Bank shall be a Part C Bank, such Bank's Contingent
+Commitment) and related outstanding rights and obligations hereunder to one or
+more Eligible Transferees, each of which assignees shall become a party to this
+Agreement as a Bank and, if applicable, a Part C Bank by execution of an
+Assignment and Assumption Agreement and delivery of such Assignment and
+Assumption Agreement to the Borrower and the Agent, provided that (i) new Notes
+will be issued to such new Bank in the stated amount of its assumed Commitment
+(plus, if such Bank shall be a Part C Bank, such
+
+
+                                      -36-
+<PAGE>
+Bank's Contingent Commitment), and to the assigning Bank in the stated amount of
+the Commitment (plus, if such Bank shall be a Part C Bank, the Contingent
+Commitment) if any, retained by it, upon the request of such new Bank or
+assigning Bank and the surrender of the Note previously issued to the assigning
+Bank (or the execution and delivery to the Borrower of an indemnity satisfactory
+to the Borrower), such new Notes to be in conformity with the requirements of
+Section 2.05 to the extent needed to reflect the revised Commitments and, if
+applicable, Contingent Commitments, (ii) unless such assignment is to an
+Affiliate of such assigning Bank with the same or higher unsecured senior debt
+rating, and so long as no Default or Event of Default exists at the time of such
+assignment, the Borrower shall have consented to such assignment, (iii) at the
+time of such assignment, the new Bank or (except to the extent the new Bank is
+an affiliate of the assigning Bank) its parent shall have an unsecured senior
+debt rating (or shadow rating as reflected in a letter) by each of Moody's and
+S&P (A) acceptable to the Borrower (if such assignment is at the direction of
+the Borrower) or (B) no lower than the unsecured senior debt rating (or shadow
+rating as reflected in a letter) by each of Moody's and S&P of the assigning
+Bank or its parent (if such assignment is not at the direction of the Borrower),
+(iv) in the case of any assignment of all or a portion of a Part C Bank's
+Contingent Commitment, the new Part C Bank or its parent shall have, at the time
+of such assignment, an unsecured senior debt rating (or shadow rating as
+reflected in a letter) by each of Moody's and S&P of Aaa and AAA, respectively,
+(v) such assignment shall not result in a downgrading of the Borrower's Rating
+by Moody's or S&P from that in effect immediately prior to such assignment, (vi)
+the assigning Bank shall provide notice of any such assignment to the Agent and
+the Borrower and the Borrower shall provide notice of same to Moody's and S&P
+and (vii) the new Bank shall deliver a legal opinion addressed to each of the
+Borrower, Moody's and S&P dated the effective date of the applicable assignment
+to the effect that this Agreement constitutes its legal, valid and binding
+obligation enforceable in accordance with its terms, except to the extent that
+the enforceability thereof may be limited by applicable bankruptcy, insolvency,
+reorganization, moratorium or other similar laws generally affecting creditor's
+rights and by equitable principles (regardless of whether enforcement is sought
+in equity or at law) as the same may be applied in the event of bankruptcy or
+similar proceedings with respect to such new Bank. To the extent of any
+assignment pursuant to this Section 12.04(b), the assigning Bank shall be
+relieved of its obligations hereunder with respect to its assigned Commitment.
+To the extent that an assignment of all or any portion of a Bank's Commitment
+and related outstanding Obligations pursuant to this Section 12.04(b) would at
+the time of such assignment, result in increased costs under Section 2.07 or
+4.04 from those being charged by the respective assigning Bank prior to such
+assignment, then the Borrower shall not be obligated to pay such increased costs
+(although the Borrower shall be obligated to pay any other increased costs of
+the type described above resulting from changes in applicable law, or government
+rules, regulations, orders or requests after the date of the respective
+assignment).
+
+            (c) Upon the execution and delivery of an Assignment and Assumption
+Agreement in accordance with, and subject to the restrictions of, Section
+12.04(b), the assignee thereunder shall be a party hereto and, to the extent
+that rights and obligations hereunder and under the other Credit Documents have
+been assigned to it pursuant to such Assignment and Assumption Agreement, have
+the rights and obligations of a "Bank" hereunder and thereunder.
+
+
+                                      -37-
+<PAGE>
+            (d) Any Bank claiming any amounts payable pursuant to Section 4.04
+shall use reasonable efforts (consistent with legal and regulatory restrictions
+and subject to overall policy considerations of such Bank) to designate another
+lending office for its Commitment or Loans or take such other action to minimize
+such amounts, as may be reasonably requested by the Borrower, provided that such
+designation is made or such other action is taken on such terms that such Bank
+and its lending office suffer no economic, legal or regulatory disadvantage.
+
+            (e) Nothing in this Agreement shall prevent or prohibit any Bank
+from pledging its Loans and Notes hereunder to a Federal Reserve Bank in support
+of borrowings made by such Bank from such Federal Reserve Bank.
+
+            (f) Each Bank shall promptly notify the Borrower of any change in
+the location of its applicable lending office.
+
+            Section 12.05 No Waiver; Remedies Cumulative. No failure or delay on
+the part of any Bank or the holder of any Note in exercising any right, power or
+privilege hereunder or under any other Credit Document and no course of dealing
+between the Borrower and any Bank or the holder of any Note shall operate as a
+waiver thereof; nor shall any single or partial exercise of any right, power or
+privilege hereunder or under any other Credit Document preclude any other or
+further exercise thereof or the exercise of any other right, power or privilege
+hereunder or thereunder. Except as otherwise expressly provided herein or in any
+other Credit Document, the rights, powers and remedies herein or in any other
+Credit Document expressly provided are cumulative and not exclusive of any
+rights, powers or remedies which any Bank would otherwise have. No notice to or
+demand on the Borrower in any case shall entitle the Borrower to any other or
+further notice or demand in similar or other circumstances or constitute a
+waiver of the rights of any Bank or the holder of any Note to any other or
+further action in any circumstances without notice or demand.
+
+            Section 12.06 Calculations; Computations. (a) The financial
+statements to be furnished to the Banks pursuant to Section 8.01(a) and (b)
+shall be made and prepared in accordance with generally accepted accounting
+principles in the United States consistently applied throughout the periods
+involved (except as set forth in the notes thereto or as otherwise disclosed in
+writing by the Borrower to the Banks).
+
+            (b) All computations of interest hereunder shall be made on the
+basis of a year of 360 days for the actual number of days (including the first
+day but excluding the last day) occurring in the period for which such interest
+is payable.
+
+            Section 12.07 Governing Law; Submission to Jurisdiction; Venue;
+Waiver of Jury Trial. (a) This Agreement and the other Credit Documents and the
+rights and obligations of the parties hereunder and thereunder shall be
+construed in accordance with and be governed by the law of the State of New
+York, without regard to the conflict of law provisions thereof. Any legal action
+or proceeding against the Borrower with respect to this Agreement or any other
+Credit Document may be brought in the courts of the State of New York or of the
+United States for the Southern District of New York, and, by execution and
+delivery of this Agreement, the Borrower hereby irrevocably accepts for itself
+and in respect of its property, generally and uncon-
+
+
+                                      -38-
+<PAGE>
+ditionally, the jurisdiction of the aforesaid courts. The Borrower irrevocably
+consents to the service of process out of any of the aforementioned courts in
+any such action or proceeding by the mailing of copies thereof by registered or
+certified mail, postage prepaid, to the Borrower at its address set forth
+opposite its signature below (or to such other address as the Borrower may from
+time to time notify the Agent in writing), such service to become effective 30
+days after such mailing. Except as otherwise provided in Section 4.05, nothing
+herein shall affect the right of the Agent or any Bank under this Agreement to
+serve process in any other manner permitted by law or to commence legal
+proceedings or otherwise proceed against the Borrower in any other jurisdiction.
+
+            (b) The Borrower hereby irrevocably waives any objection which it
+may now or hereafter have to the laying of venue of any of the aforesaid actions
+or proceedings arising out of or in connection with this Agreement or any other
+Credit Document brought in the courts referred to in Section 12.07(a) and hereby
+further irrevocably waives and agrees not to plead or claim in any such court
+that any such action or proceeding brought in any such court has been brought in
+an inconvenient forum.
+
+            (c) Each of the Borrower, the Agent and each of the Banks hereby
+irrevocably waives its right to a jury trial in connection with any action,
+proceeding or counterclaim arising out of or relating to this Agreement or any
+other Credit Document or any transaction contemplated hereby or thereby.
+
+            Section 12.08 Counterparts. This Agreement may be executed in any
+number of counterparts and by the different parties hereto on separate
+counterparts, each of which when so executed and delivered shall be an original,
+but all of which shall together constitute one and the same instrument. A set of
+counterparts executed by all the parties hereto shall be lodged with the
+Borrower and the Agent.
+
+            Section 12.09 Effectiveness. This Agreement shall become effective
+on the date (the "Effective Date") on which the Borrower and the Banks shall
+have signed a copy hereof (whether the same or different copies) and shall have
+delivered the same to the Agent at its Notice Office and the conditions set
+forth in Section 5 shall have been satisfied or waived by the Banks, as
+evidenced by a written notice by the Agent to the Borrower confirming that the
+Agreement has become effective and setting forth the Effective Date.
+
+            Section 12.10 Headings Descriptive. The headings of the several
+sections and subsections of this Agreement are inserted for convenience only and
+shall not in any way affect the meaning or construction of any provision of this
+Agreement.
+
+            Section 12.11 Amendment or Waiver. Neither this Agreement nor any
+other Credit Document nor any terms hereof or thereof may be changed, waived,
+discharged or terminated unless such change, waiver, discharge or termination is
+in writing signed by the Borrower and the Majority Banks and the Agent;
+provided, however, that no such change, waiver, discharge or termination shall,
+without the consent of each Bank (other than any Bank that is, at the time of
+the proposed extension, release, amendment, reduction or consent, a Defaulting
+Bank; provided, however, that, with respect to any matter described in clause
+(i) or
+
+
+                                      -39-
+<PAGE>
+(ii) of this Section 12.11, the consent of each Defaulting Bank which at such
+time has a Loan outstanding shall also be required) (i) extend the final
+maturity of any Loan or Note other than in accordance with Section 3.04 or
+reduce the rate or extend the time of payment of interest or Fees thereon, or
+reduce the principal amount thereof, or increase the Commitment or percentage of
+the Commitment of any Bank over the amount thereof then in effect (it being
+understood that a waiver of any Default or Event of Default shall not constitute
+a change in the terms of any Commitment of any Bank), (ii) release any material
+portion of the Collateral under any Security Document except as shall be
+otherwise provided in any Credit Document, (iii) amend, modify or waive any
+provision of this Section 12.11, (iv) reduce the percentage specified in the
+definition of Majority Banks, (v) consent to the assignment or transfer by the
+Borrower of any of its rights and obligations under any Credit Document or (vi)
+amend the definition of Loss Threshold Incurrence Date other than to increase
+the dollar amount or the percentage specified therein.
+
+            Section 12.12 Survival. All indemnities set forth herein including,
+without limitation, in Sections 2.07, 4.04 and 12.01 shall survive the execution
+and delivery of this Agreement and the Notes and the making and repayment of the
+Loans.
+
+            Section 12.13 Exclusions from Covered Portfolio. In the event that
+any Bank (or any participant to whom such Bank has transferred, granted or
+assigned any participation in its rights and obligations hereunder and under the
+other Credit Documents) is, or upon the occurrence of any contingency would be,
+obligated under the terms of a line of credit, standby bond purchase agreement,
+letter of credit, liquidity agreement or similar agreement or arrangement to
+purchase any Insured Obligation listed in a certificate delivered by the
+Borrower to the Agent pursuant to Section 5.06 or 8.01(d), such Bank (or such
+participant) shall promptly notify the Agent, and the Agent shall promptly
+notify the Borrower, that such Bank (or such participant) is or would be so
+obligated to purchase such Insured Obligation. Upon delivery by the Agent to the
+Borrower of any such notice with respect to an Insured Obligation, such Insured
+Obligation shall, effective upon delivery of such notice by the Agent to the
+Borrower, be excluded from the Covered Portfolio.
+
+            Section 12.14 Confidentiality. Each of the Agent and each Bank
+agrees to take and cause its respective Affiliates to take normal and reasonable
+precautions and exercise due care to maintain the confidentially of all
+financial information and all other information reasonably identified as
+"confidential" or "secret" by the Borrower and provided to it by the Borrower or
+by the Agent on the Borrower's behalf, and neither it nor any of its Affiliates
+shall use such information other than in connection with or in enforcement of
+this Agreement and the other Credit Documents, except to the extent such
+information (i) was or becomes generally available to the public other than as a
+result of a disclosure by the Agent or any Bank or (ii) was or becomes available
+on a non-confidential basis from a source other than the Borrower, provided that
+such source is not bound by a confidentiality agreement with the Borrower known
+to the Agent or such Bank; provided, however, that the Agent or any Bank may
+disclose such information (a) at the request or pursuant to any requirement of
+any authority to which the Agent or such Bank is subject or in connection with
+an examination of the Agent or such Bank by any such authority; (b) pursuant to
+subpoena or other court process, provided that if not prohibited by law, the
+Agent or such Bank will make reasonable efforts to provide notice to the
+Borrower of the receipt of such subpoena prior to delivering confidential
+material in response thereto, and the
+
+
+                                      -40-
+<PAGE>
+Agent and the Banks will cooperate with the Borrower in any attempt to obtain a
+protective order, at the Borrower's expense, as may be reasonably requested by
+the Borrower; (c) when required to do so in accordance with the provisions of
+any applicable law or regulation; (d) to the extent reasonably required in
+connection with any litigation or proceeding with respect to the transactions
+contemplated hereby to which the Agent or any Bank or their respective
+Affiliates may be party; (e) to the extent reasonably required in connection
+with the exercise of any remedy hereunder or under any other Credit Document;
+(f) to the Agent's or such Bank's independent auditors and other professional
+advisors with a need to know and who agrees to keep such information
+confidential to the extent required of the Agent or such Bank hereunder; and (g)
+to any assignee or participant, actual or potential, provided that such Person
+agrees to keep such information confidential to the same extent required of the
+Agent or the Bank hereunder. In addition to the foregoing, each of the Agent and
+each Bank agrees that, with respect to any information provided to them by or on
+behalf of the Borrower pursuant to Section 8.01(d) or 8.01(g) or which is
+obtained from, or derived from information provided by, any primary insurer
+pursuant to any other provision of this Agreement, and in any event which the
+Borrower notifies the Agent is subject to any confidentiality undertaking made
+by the Borrower to any primary insurer, (1) such information shall be deemed
+"confidential" for purposes of this Section 12.14, (2) such information shall
+only be provided to any employee, agent, attorney or advisor on a need to know
+basis and (3) each of the Agent and each Bank shall be deemed to have made the
+same confidentiality undertakings as the Borrower with respect to such
+information.
+
+            Section 12.15 Payments Pro Rata. (a) The Agent agrees that promptly
+after its receipt of each payment from or on behalf of the Borrower in respect
+of any Obligation (including, without limitation, any payment received pursuant
+to Section 2.4 or 6.4 of the Security Agreement) it shall distribute such
+payment to the Banks pro rata based upon their respective shares, if any, of the
+Obligations with respect to which such payment was received.
+
+            (b) Each of the Banks agrees that, if it should receive any amount
+hereunder (whether by voluntary payment, by realization upon security, by the
+exercise of the right of setoff or banker's lien, by counterclaim or cross
+action, by the enforcement of any right under any Credit Document or otherwise),
+which is applicable to the payment of the principal of, or interest on, any Loan
+or Commitment Fee, the sum of which when compared to the related sum or sums
+received by other Banks is in a greater proportion than the total amount of such
+Obligation then owed and due to such Bank vis a vis that owed and due to all
+Banks immediately prior to such receipt, then such Bank receiving such excess
+payment shall purchase for cash without recourse or warranty from the other
+Banks an interest in the Obligations of the Borrower to such Banks in such
+amount as shall result in a proportional participation by all the Banks in such
+amount; provided, however, that if all or any portion of such excess amount is
+thereafter recovered from such Bank, such purchase shall be rescinded and the
+purchase price restored to the extent of such recovery, but without interest.
+
+            (c) Anything contained herein to the contrary notwithstanding, the
+provisions of Sections 12.15(a) and 12.15(b) shall be subject to the express
+provisions of this Agreement which require or permit differing payments to be
+made to Defaulting Banks as opposed to non-Defaulting Banks.
+
+
+                                      -41-
+<PAGE>
+            IN WITNESS WHEREOF, the parties hereto have caused their respective
+duly authorized officers to execute and deliver this Agreement as of the date
+first above written.
+
+Address:
+
+335 Madison Avenue                  ENHANCE REINSURANCE COMPANY
+25th Floor
+New York, New York 10017-4607       By_________________________________
+Attention:  President                 Title:
+
+
+                                      -42-
+<PAGE>
+1211 Avenue of the Americas         WESTDEUTSCHE LANDESBANK
+23rd Floor                             GIROZENTRALE, NEW YORK BRANCH
+New York, New York 10036
+Attention:  Ms. Lillian Tung Lum    By_________________________________
+                                      Title:
+
+                                    By_________________________________
+                                      Title:
+
+
+245 Park Avenue                     COOPERATIEVE CENTRALE
+New York, New York  10167-0062         RAIFFEISEN-BOERENLEENBANK,
+Attention:  Ms. Angela Reilly          B.A., "RABOBANK NEDERLAND",
+                                       NEW YORK BRANCH
+
+                                    By_________________________________
+                                      Title:
+
+                                    By_________________________________
+                                      Title:
+
+
+1114 Avenue of the Americas         NORDDEUTSCHE LANDESBANK
+37th Floor                             GIROZENTRALE, NEW YORK
+New York, New York 10036               BRANCH
+Attention:  Mr. Hinrich Holm
+                                    By_________________________________
+                                      Title:
+
+                                    By_________________________________
+                                      Title:
+
+
+                                      -43-
+<PAGE>
+                                    DEUTSCHE BANK AG,
+31 West 52nd Street                    NEW YORK BRANCH,
+New York, New York  10019              Individually and as Agent
+Attention:  Mr. John S. McGill
+                                    By_________________________________
+                                      Title:
+
+                                    By_________________________________
+                                      Title:
+
+
+                                      -44-
+<PAGE>
+                                                                      SCHEDULE I
+
+PART A
+
+                                   Commitments
+
+<TABLE>
+<CAPTION>
+      Name                                                      Commitment
+      ----                                                      ----------
+<S>                                                            <C>
+      Deutsche Bank AG,                                        $25,000,000
+        New York Branch
+
+      Westdeutsche Landesbank                                   25,000,000
+        Girozentrale, New York Branch
+
+      Cooperatieve Centrale                                     20,000,000
+        Raiffeisen-Boerenleenbank, B.A.,
+        "Rabobank Nederland",
+        New York Branch
+
+      Norddeutsche Landesbank                                   20,000,000
+                                                               -----------
+        Girozentrale, New York Branch
+
+              Total                                            $90,000,000
+                                                               ===========
+</TABLE>
+
+PART B
+
+                                  Part B Banks
+
+Deutsche Bank AG, New York Branch
+Westdeutsche Landesbank Girozentrale, New York Branch
+Norddeutsche Landesbank Girozentrale, New York Branch
+
+PART C
+
+                       Part C Banks/Contingent Commitments
+
+<TABLE>
+<CAPTION>
+      Name                                                Contingent Commitment
+      ----                                                ---------------------
+<S>                                                       <C>
+      Cooperatieve Centrale                                    $21,000,000
+                                                               -----------
+        Raiffeisen-Boerenleenbank, B.A.,
+        "Rabobank Nederland",
+        New York Branch
+
+            Total                                              $21,000,000
+                                                               ===========
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

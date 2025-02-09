@@ -1,16 +1,3 @@
-# %% [markdown]
-# # Install Dependencies
-# Use pip or conda to install necessary packages like requests or edgar libraries.
-
-# %%
-# Install Dependencies
-# %pip install requests sec-api python-dotenv aiohttp asyncio nest_asyncio pandas
-
-# %% [markdown]
-# # Configure Search Parameters
-# Define parameters such as company name or keywords to narrow the EDGAR search.
-
-# %%
 # Configure Search Parameters
 
 import os
@@ -24,7 +11,7 @@ from sec_api import FullTextSearchApi
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
-load_dotenv()
+load_dotenv(override=True)
 
 # Read the API key from environment variable
 api_key = os.getenv('SEC_API_KEY')
@@ -34,7 +21,6 @@ full_text_search_api = FullTextSearchApi(api_key)
 
 def load_config():
     """Load environment variables and initialize API."""
-    load_dotenv()
     api_key = os.getenv('SEC_API_KEY')
     if not api_key:
         raise ValueError("SEC_API_KEY is missing in environment variables.")
@@ -44,7 +30,7 @@ def build_search_params(year):
     """Build search parameters for a given year."""
     return {
         "query": "reinsurance (contract OR agreement OR treaty) EX- NOT EX-99.1 NOT EX-99.2 NOT EX-13.1",
-        "formTypes": ["10-K", "10-Q", "S-1"],
+        "formTypes": ["10-K", "10-Q"], # 10-K: Annual report, 10-Q: Quarterly report, should also include S-1?
         "startDate": f"{year}-01-01",
         "endDate": f"{year}-12-31"
     }
@@ -82,13 +68,19 @@ nest_asyncio.apply()
 download_dir = 'download'
 os.makedirs(download_dir, exist_ok=True)
 
-async def download_filing(session, filing, semaphore):
+async def download_filing(session, filing, year, semaphore):
     async with semaphore:
         url = filing.get('filingUrl')
         path = urlparse(url).path
+        original_filename = os.path.basename(path) or 'document.html'
         ext = os.path.splitext(path)[1] or '.html'
-        filename = os.path.join(download_dir, filing.get('accessionNo') + ext)
-        # Skip download if file already exists
+        # Compose final download file name using year, CIK, accession no., and original filename
+        download_filename = f"{year}-{filing.get('cik', 'UNKNOWN')}-{filing.get('accessionNo', 'UNKNOWN')}-{original_filename}"
+
+        filename = os.path.join(download_dir, download_filename)
+        # Store for CSV output
+        filing["downloadFilename"] = download_filename
+
         if os.path.exists(filename):
             print(f"Skipped download (already exists): {filename}")
             return
@@ -104,10 +96,10 @@ async def download_filing(session, filing, semaphore):
         except Exception as e:
             print(f"Error downloading {url}: {e}")
 
-async def download_all_filings(filings):
+async def download_all_filings(filings, year):
     semaphore = asyncio.Semaphore(1000)
     async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0 (Company info@company.com)"}) as session:
-        tasks = [download_filing(session, filing, semaphore) for filing in filings]
+        tasks = [download_filing(session, filing, year, semaphore) for filing in filings]
         for i in range(0, len(tasks), 5):
             await asyncio.gather(*tasks[i:i+5])
             await asyncio.sleep(1)
@@ -123,7 +115,8 @@ def save_metadata_to_csv(filings, year):
         "formType": filing.get("formType"),
         "type": filing.get("type"),
         "filingUrl": filing.get("filingUrl"),
-        "filedAt": filing.get("filedAt")
+        "filedAt": filing.get("filedAt"),
+        "downloadFilename": filing.get("downloadFilename", "")
     } for filing in filings]
     df = pd.DataFrame(metadata)
     df.to_csv(os.path.join(download_dir, f"index-{year}.csv"), index=False)
@@ -136,7 +129,7 @@ def process_year(api, year):
     if results:
         exhibit_filings = filter_exhibit_filings(results)
         if exhibit_filings:
-            asyncio.run(download_all_filings(exhibit_filings))
+            asyncio.run(download_all_filings(exhibit_filings, year))
             df = save_metadata_to_csv(exhibit_filings, year)
             return df
         else:
@@ -148,14 +141,11 @@ def process_year(api, year):
 
 def main():
     api = load_config()
-    all_metadata = []
     for year in range(2002, 2004):
         print(f"Processing year: {year}")
         df = process_year(api, year)
         all_metadata.append(df)
         print("-" * 40)
-    full_index = pd.concat(all_metadata, ignore_index=True)
-    full_index.to_csv(os.path.join(download_dir, "index-full.csv"), index=False)
 
 if __name__ == '__main__':
     main()
