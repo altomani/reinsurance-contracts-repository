@@ -144,7 +144,6 @@ def main():
     for year in range(2002, 2004):
         print(f"Processing year: {year}")
         df = process_year(api, year)
-        all_metadata.append(df)
         print("-" * 40)
 
 if __name__ == '__main__':
