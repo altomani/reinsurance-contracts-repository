@@ -1,0 +1,2192 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>10
+<FILENAME>a2087177zex-10_8.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+<Page>
+
+                                                                    Exhibit 10.8
+
+                                 LOAN AGREEMENT
+
+                                 BY AND BETWEEN
+
+                           M&I MARSHALL & ILSLEY BANK
+
+                                       AND
+
+                               COBALT CORPORATION
+
+                           DATED AS OF AUGUST 7, 2002
+
+<Page>
+
+<Table>
+<S>          <C>                                                                                           <C>
+ARTICLE 1       THE LOANS...................................................................................1
+
+    1.1      Revolving Credit Loans.........................................................................1
+    1.2      Unused Fee.....................................................................................1
+    1.3      Interest.......................................................................................1
+    1.4      Interest Options...............................................................................2
+    1.5      Notice of Borrowing; Conversion................................................................2
+    1.6      Warranty.......................................................................................2
+    1.7      Payments.......................................................................................2
+    1.8      Use of Proceeds................................................................................3
+    1.9      Optional Prepayments...........................................................................3
+    1.10     Recordkeeping..................................................................................3
+    1.11     Increased Costs................................................................................4
+    1.12     Deposits Unavailable or Interest Rate Unascertainable..........................................4
+    1.13     Change in Law Rendering LIBOR Loans Unlawful...................................................5
+    1.14     Discretion of M&I as to Manner of Funding......................................................5
+    1.15     Letters of Credit..............................................................................5
+
+ARTICLE 2       CONDITIONS..................................................................................6
+
+    2.1      General Conditions.............................................................................6
+    2.2      Deliveries at Closing..........................................................................6
+
+ARTICLE 3       REPRESENTATIONS AND WARRANTIES..............................................................7
+
+    3.1      Organization and Qualification; Subsidiaries...................................................7
+    3.2      Financial Statements...........................................................................8
+    3.3      Authorization; Enforceability..................................................................8
+    3.4      Absence of Conflicting Obligations.............................................................8
+    3.5      Taxes..........................................................................................8
+    3.6      Absence of Litigation..........................................................................8
+    3.7      Accuracy of Information........................................................................9
+    3.8      Title to Property..............................................................................9
+    3.9      ERISA..........................................................................................9
+    3.10     Fiscal Year....................................................................................9
+    3.11     Compliance With Laws...........................................................................9
+    3.12     Dump Sites.....................................................................................9
+    3.13     Tanks..........................................................................................9
+    3.14     Other Environmental Conditions................................................................10
+    3.15     Environmental Judgments, Decrees and Orders...................................................10
+    3.16     Environmental Permits and Licenses............................................................10
+    3.17     Use of Proceeds; Margin Stock.................................................................10
+    3.18     Insurance Licenses............................................................................10
+    3.19     Reinsurance...................................................................................10
+    3.20     Reserves......................................................................................11
+    3.21     Surplus Ratio.................................................................................11
+    3.22     Dividends.....................................................................................11
+
+ARTICLE 4       NEGATIVE COVENANTS.........................................................................11
+</Table>
+
+                                        i
+<Page>
+
+<Table>
+<S>          <C>                                                                                           <C>
+    4.1      Revolving Credit Loans........................................................................12
+    4.2      Liens.........................................................................................12
+    4.3      Indebtedness..................................................................................12
+    4.4      Consolidation or Merger.......................................................................12
+    4.5      Disposition of Assets.........................................................................12
+    4.6      Sale and Leaseback............................................................................12
+    4.7      Investments...................................................................................12
+    4.8      Restricted Payments...........................................................................12
+    4.9      Transactions with Affiliates..................................................................12
+    4.10     Guarantees....................................................................................13
+    4.11     Change in Control.............................................................................13
+    4.12     Reinsurance...................................................................................13
+    4.13     A.M. Best Rating..............................................................................13
+
+ARTICLE 5       AFFIRMATIVE COVENANTS......................................................................13
+
+    5.1      Payment.......................................................................................13
+    5.2      Corporate Existence; Properties; Ownership....................................................13
+    5.3      Licenses......................................................................................14
+    5.4      Reporting Requirements........................................................................14
+    5.5      Taxes.........................................................................................16
+    5.6      Inspection of Properties and Records..........................................................16
+    5.7      Reference in Financial Statements.............................................................16
+    5.8      Compliance with Laws..........................................................................16
+    5.9      Compliance with Agreements....................................................................16
+    5.10     Notices.......................................................................................16
+    5.11     Compcare......................................................................................17
+    5.12     Insurance.....................................................................................18
+    5.13     New Subsidiaries..............................................................................18
+    5.14     Financial Covenants...........................................................................18
+
+ARTICLE 6       REMEDIES...................................................................................19
+
+    6.1      Acceleration..................................................................................19
+    6.2      M&I's Right to Cure Default...................................................................19
+    6.3      Remedies Not Exclusive........................................................................19
+    6.4      Setoff........................................................................................19
+    6.5      Cash Collateral...............................................................................20
+
+ARTICLE 7       DEFINITIONS................................................................................20
+
+    7.1      Definitions...................................................................................20
+    7.2      Interpretation................................................................................32
+
+ARTICLE 8       MISCELLANEOUS..............................................................................32
+
+    8.1      Expenses and Attorneys' Fees..................................................................32
+    8.2      Assignability; Successors.....................................................................32
+    8.3      Survival......................................................................................33
+    8.4      Governing Law.................................................................................33
+    8.5      Counterparts; Headings........................................................................33
+</Table>
+
+                                       ii
+<Page>
+
+<Table>
+<S>          <C>                                                                                           <C>
+    8.6      Entire Agreement..............................................................................33
+    8.7      Notices.......................................................................................33
+    8.8      Amendment.....................................................................................34
+    8.9      Taxes.........................................................................................34
+    8.10     Severability..................................................................................34
+    8.11     Indemnification...............................................................................34
+    8.12     Participation.................................................................................34
+    8.13     Inconsistent Provisions.......................................................................34
+    8.14     WAIVER OF RIGHT TO JURY TRIAL.................................................................34
+    8.15     TIME OF ESSENCE...............................................................................35
+    8.16     SUBMISSION TO JURISDICTION; SERVICE OF PROCESS................................................35
+</Table>
+
+                                      iii
+<Page>
+
+                                 LOAN AGREEMENT
+     THIS LOAN AGREEMENT is made as of August 7, 2002, by and between M&I
+MARSHALL & ILSLEY BANK, a Wisconsin banking corporation ("M&I"), and COBALT
+CORPORATION, a Wisconsin corporation ("Borrower").
+
+     NOW THEREFORE, in consideration of the mutual covenants, conditions and
+agreements set forth herein and for other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, it is hereby agreed as
+follows:
+
+                                    ARTICLE 1
+
+                                    THE LOANS
+
+     1.1    REVOLVING CREDIT LOANS. From time to time prior to the Revolving
+Credit Termination Date and subject to the terms and conditions set forth in
+this Loan Agreement, M&I agrees to make Revolving Credit Loans to Borrower. The
+aggregate amount of Revolving Credit Loans outstanding at any one time shall
+never exceed the Revolving Credit Commitment. Upon request of M&I, Borrower
+shall confirm in writing the making of any and all Revolving Credit Loans. All
+Revolving Credit Loans shall be evidenced by the Revolving Credit Note, Borrower
+being obligated, however, to pay the amount of Revolving Credit Loans actually
+made (including any over-advances), together with interest on the amount which
+remains outstanding from time to time. Borrower may borrow, repay and reborrow
+under this Section 1.1 subject to the terms and conditions of this Loan
+Agreement. The Revolving Credit Note shall mature on the Revolving Credit
+Termination Date.
+
+     1.2    UNUSED FEE. As consideration for the Revolving Credit Commitment,
+the Borrower agrees to pay to M&I on the last Business Day of each quarter prior
+to the Revolving Credit Termination Date, commencing on September 30, 2002, and
+on the Revolving Credit Termination Date, an unused fee equal to 0.375% per year
+on the daily average unused amount of the Revolving Credit Commitment during the
+preceding quarter or other applicable period.
+
+     1.3    INTEREST. (a) Revolving Credit Loans shall be either LIBOR Loans or
+Prime Rate Loans as selected by the Borrower in Section 1.5 hereof.
+
+            (b)  In the event that any amount of the principal of, or interest
+on, the Revolving Credit Note is not paid on the date when due (whether at
+stated maturity, by acceleration or otherwise), the entire principal amount
+outstanding under the Revolving Credit Note shall bear interest, in addition to
+the interest otherwise payable under the Revolving Credit Note and to the extent
+permitted by Law, at the annual rate of two percent (2%) from the day following
+the due date until all such overdue amounts have been paid in full.
+
+            (c)  All interest, the unused fee and other amounts due under this
+Loan Agreement and the Revolving Credit Note shall be computed for the actual
+number of days elapsed on the basis of a 360-day year.
+
+                                        1
+<Page>
+
+     1.4    INTEREST OPTIONS.
+
+                 (a)  PRIME RATE LOANS. The unpaid principal balance of all
+            Prime Rate Loans shall bear interest at the Prime Rate. The interest
+            rate for any outstanding Prime Rate Loans shall change on each day
+            that the Prime Rate changes.
+
+                 (b)  LIBOR LOANS. The unpaid principal of all LIBOR Loans shall
+            bear interest at LIBOR quoted on the first Business Day of any
+            calendar month (and such rate shall be the effective interest rate
+            for the entire calendar month) plus the applicable Add-On. The
+            interest rate for any outstanding LIBOR Loans shall change on each
+            day that the applicable Add-On changes and also as of the first day
+            of each calendar month. The LIBOR interest rate established on the
+            first Business Day of any calendar month shall apply to all LIBOR
+            Loans during that calendar month, whether previously advanced or
+            advanced thereafter.
+
+     1.5    NOTICE OF BORROWING: CONVERSION.
+
+                 (a)  Each Revolving Credit Loan shall be made on written notice
+            or telephonic notice from an authorized representative of the
+            Borrower to the Person designated by M&I. Such notice shall be given
+            at least one (1) Business Day prior to the day of the requested
+            borrowing date (which must be a Business Day). Each notice shall
+            specify the date and amount of such Revolving Credit Loan. Each new
+            Revolving Credit Loan shall be a LIBOR Loan unless otherwise
+            specified in writing by the Borrower to M&I at least one (1)
+            Business Day in advance of the requested borrowing date. The
+            Revolving Credit Loans shall be all either LIBOR Loans or Prime Rate
+            Loans. Each such notice shall be effective upon receipt, provided
+            that any notice received after 2:00 p.m., Milwaukee time, may be
+            deemed by M&I, in its sole discretion, effective as of the next
+            Business Day. Borrower shall promptly confirm any such telephonic
+            request in writing.
+
+                 (b)  Prime Rate Loans shall continue as such unless and until
+            converted into LIBOR Loans or repaid. LIBOR Rate Loans shall
+            continue as such unless and until they are converted into Prime Rate
+            Loans or repaid.
+
+     1.6    WARRANTY. Each notice of borrowing or conversion, and each request
+for the issuance of a Letter of Credit, shall automatically constitute a
+warranty by Borrower to M&I that, on the date of the requested date of such
+borrowing, continuation or conversion: (a) all of the representations and
+warranties of Borrower contained in this Loan Agreement shall be true and
+correct on such date as though made on such date; and (b) no Default or Event of
+Default shall exist on such date.
+
+     1.7    PAYMENTS. (a) The outstanding unpaid principal balance plus all
+accrued and unpaid interest on the Revolving Credit Loans shall be paid in full
+on the Revolving Credit Termination Date. In the event that the outstanding
+principal balance of the Revolving Credit Loans at any time exceeds the
+Revolving Credit Commitment, Borrower shall immediately pay the amount necessary
+to reduce such balance to be less than or equal to the then applicable Revolving
+Credit Commitment.
+
+                                        2
+<Page>
+
+            (b)  Interest accrued on the Revolving Credit Loans through the last
+day of each month (including in the case of the first interest payment, interest
+accrued from the Closing Date) shall be payable on such last day of the each
+month, commencing on August 31, 2002 and continuing thereafter until all
+principal of and accrued interest on the Revolving Credit Loans are repaid in
+full.
+
+            (c)  All payments of principal and interest on account of the
+Revolving Credit Note and all other payments made pursuant to this Loan
+Agreement shall be delivered to M&I, 770 North Water Street, Milwaukee,
+Wisconsin 53202, Attention: Commercial Loan Department or at such other place as
+M&I or any holder of the Revolving Credit Note shall designate in writing to
+Borrower, in immediately available funds by 2:00 p.m., Milwaukee time on the
+date when due, and if received after such time on any day shall be deemed to
+have been made on the next Business Day. Whenever any payment to be made under
+this Loan Agreement or under the Revolving Credit Note shall be stated to be due
+on a day which is not a Business Day, the day for such payment shall be extended
+to the next succeeding Business Day, and such extension of time shall be
+included in the computation of interest. Borrower hereby authorizes M&I to debit
+its deposit accounts at M&I for all payments of principal and interest due and
+owing on the Revolving Credit Loans and for all other payments due and owing
+under this Loan Agreement.
+
+            (d)  All payments owed by Borrower to M&I under this Loan Agreement
+and the Revolving Credit Note shall be made without any counterclaim and free
+and clear of any restrictions or conditions and free and clear of, and without
+deduction for or on account of, any present or future taxes, levies, imposts,
+duties, charges, fees, deductions or withholdings of any nature now or hereafter
+imposed on Borrower by any governmental or other authority. If Borrower is
+compelled by Law to make any such deductions or withholdings it will pay such
+additional amounts as may be necessary in order that the net amount received by
+M&I after such deductions or withholding shall equal the amount M&I would have
+received had no such deductions or withholding been required to be made, and it
+will provide M&I with evidence satisfactory to M&I that it has paid such
+deductions or withholdings.
+
+     1.8    USE OF PROCEEDS. Borrower shall use the proceeds of the Loans to (a)
+repay the outstanding principal balance, if any, of Borrower's promissory note,
+dated as of December 31, 2001, in the original principal amount of $7,500,000
+and payable to the order of M&I, (b) repay certain Indebtedness owing to its
+Subsidiaries and (c) for working capital and other general corporate purposes.
+
+     1.9    OPTIONAL PREPAYMENTS. Borrower may, from time to time and without
+premium or penalty, prepay the Revolving Credit Loans in whole or in part.
+
+     1.10   RECORDKEEPING. M&I shall record in its records the date and amount
+of each Revolving Credit Loan and each repayment of Revolving Credit Loans. The
+aggregate amounts so recorded shall be rebuttable presumptive evidence of the
+principal and interest owing and unpaid on the Revolving Credit Note. The
+failure to so record any such amount or any error in so recording any such
+amount shall not, however, limit or otherwise affect the obligations of Borrower
+under this Loan Agreement or under the Revolving Credit Note to repay the
+principal amount of the Revolving Credit Loans together with all interest
+accruing thereon.
+
+                                        3
+<Page>
+
+     1.11   INCREASED COSTS. If Regulation D of the Board of Governors of the
+Federal Reserve System, or the adoption of any applicable law, rule or
+regulation of general application, or any change therein, or any interpretation
+or administration thereof by any governmental authority, central bank or
+comparable agency charged with the interpretation or administration thereof, or
+compliance by M&I with any request or directive of general application (whether
+or not having the force of law) or any such authority, central bank or
+comparable agency:
+
+                 (a)  shall subject M&I to any tax, duty or other charge with
+            respect to the Revolving Credit Loans, the Revolving Credit Note,
+            any Letter of Credit or M&I's obligation to make Revolving Credit
+            Loans or issue Letters of Credit, or shall change the basis of
+            taxation of payments to M&I of the principal of or interest on the
+            Revolving Credit Loans or any other amounts due under this Loan
+            Agreement in respect of the Revolving Credit Loans or Letters of
+            Credit or M&I's obligation to make Revolving Credit Loans or issue
+            Letters of Credit (except for changes in the rate of tax on the
+            overall net income of M&I); or
+
+                 (b)  shall impose, modify or deem applicable any reserve
+            (including, without limitation, any reserve imposed by the Board of
+            Governors of the Federal Reserve System, but excluding any reserve
+            included in the determination of interest rates pursuant to this
+            Loan Agreement), special deposit or similar requirement against
+            assets of, deposits with or for the account of, or credit extended
+            by, M&I; or
+
+                 (c)  shall affect the amount of capital required or expected to
+            be maintained by M&I or any corporation controlling M&I; or
+
+                 (d)  shall impose on M&I any other condition affecting the
+            Revolving Credit Loans, the Revolving Credit Note or the Letters of
+            Credit;
+
+and the result of any of the foregoing is to increase the cost to (or in the
+case of Regulation D referred to above, to impose a cost on) M&I of making or
+maintaining any Revolving Credit Loan or issuing Letters of Credit, or to reduce
+the amount of any sum received or receivable by M&I under this Loan Agreement or
+under the Revolving Credit Note with respect thereto or with respect to Letters
+of Credit, then within ten (10) days after demand by M&I (which demand shall be
+accompanied by a statement setting forth the basis of such demand), Borrower
+shall pay directly to M&I such additional amount or amounts as will compensate
+M&I for such increased cost or such reduction. Determinations by M&I for
+purposes of this Section of the effect of any change in applicable laws or
+regulations or of any interpretations, directives or requests thereunder on its
+costs of making or maintaining Revolving Credit Loans or issuing Letters of
+Credit hereunder, or sums receivable by it in respect of Revolving Credit Loans
+or Letters of Credit, and of the additional amounts required to compensate M&I
+in respect thereof, shall be conclusive, absent manifest error.
+
+     1.12   DEPOSITS UNAVAILABLE OR INTEREST RATE UNASCERTAINABLE.
+
+                 (a)  If M&I is advised that deposits in dollars (in the
+            applicable amount) are not being offered to banks in the relevant
+            market for an Interest
+
+                                        4
+<Page>
+
+            Period, or M&I otherwise determines (which determination shall be
+            binding and conclusive on all parties) that by reason of
+            circumstances affecting the interbank London Eurodollar market
+            adequate and reasonable means do not exist for ascertaining the
+            applicable LIBOR; or
+
+                 (b)  If lenders similar to M&I have determined that the LIBOR
+            will not adequately and fairly reflect the cost to such lenders of
+            maintaining or funding such LIBOR Loans for an Interest Period, or
+            that the making or funding of such LIBOR Loans has become
+            impracticable as a result of an event occurring after the date of
+            this Loan Agreement which in the opinion of M&I materially affects
+            such LIBOR Loans;
+
+then so long as such circumstances shall continue, M&I shall not be under any
+obligation to make or continue LIBOR Loans and on the last day of the
+then-current Interest Period, such LIBOR Loans shall, unless then repaid in
+full, be converted to Prime Rate Loans.
+
+     1.13   CHANGE IN LAW RENDERING LIBOR LOANS UNLAWFUL. In the event that any
+change in (including the adoption of any new) applicable laws or regulations, or
+any change in the interpretation of applicable laws or regulations by any
+governmental or other regulatory body charged with the administration thereof,
+should make it unlawful for M&I to make, maintain or fund LIBOR Loans, then: (a)
+M&I shall promptly notify Borrower; (b) the obligation of M&I to make or
+continue LIBOR Loans shall, upon the effectiveness of such event, be suspended
+for the duration of such unlawfulness; and (c) on the last day of the current
+Interest Period for LIBOR Loans (or, in any event, if M&I so requests, on such
+earlier date as may be required by the relevant law, regulation or
+interpretation), the LIBOR Loans shall, unless then repaid in full, be converted
+to Prime Rate Loans.
+
+     1.14   DISCRETION OF M&I AS TO MANNER OF FUNDING. Notwithstanding any
+provision of this Loan Agreement to the contrary, M&I shall be entitled to fund
+and maintain its funding of all or any part of the Revolving Credit Loans in any
+manner it sees fit, provided that no such funding decision on the part of M&I
+shall affect any interest option election made by Borrower as to any Revolving
+Credit Loan.
+
+     1.15   LETTERS OF CREDIT. (a) From time to time prior to the Revolving
+Credit Termination Date, Borrower may request, and M&I may issue, Letters of
+Credit up to an aggregate undrawn face amount of $30,000,000. The aggregate
+undrawn face amount of all Letters of Credit shall reduce the amount available
+for borrowing under the Revolving Credit Commitment. In the event the Borrower
+does not reimburse M&I in full on the date M&I is required to make a payment
+with respect to any Letter of Credit, the Borrower shall be deemed to have
+borrowed, as of the date such payment is made, a Revolving Credit Loan bearing
+interest at the rate option applicable to other Revolving Credit Loans in an
+amount equal to the amount drawn under such Letter of Credit which shall be used
+to satisfy the Borrower's reimbursement obligation with respect to such Letter
+of Credit. No expiration date of any Letter of Credit shall be beyond the
+Revolving Credit Termination Date.
+
+            (b)  Borrower shall pay to M&I upon issuance of each Letter of
+Credit all customary fees, commissions and charges as established by M&I and
+agreed to by Borrower and
+
+                                        5
+<Page>
+
+execute all letter of credit applications and other agreements as may be
+required by M&I in connection with the issuance of any letters of credit.
+
+                                   ARTICLE 2
+
+                                   CONDITIONS
+
+     2.1    GENERAL CONDITIONS. The obligation of M&I to make any Revolving
+Credit Loan or issue any Letter of Credit under this Loan Agreement is subject
+to the satisfaction, on the date hereof and on the date of making each Revolving
+Credit Loan and issuing each Letter of Credit, of the following express
+conditions precedent:
+
+                 (a)  the representations and warranties of Borrower contained
+            in this Loan Agreement shall be true and accurate on and as of such
+            date;
+
+                 (b)  there shall not exist on such date any Default or Event of
+            Default;
+
+                 (c)  the making of the relevant Revolving Credit Loan or the
+            issuance of the relevant Letter of Credit shall not be prohibited by
+            any applicable Law and shall not subject M&I to any penalty under or
+            pursuant to any applicable Law; and
+
+                 (d)  all proceedings to be taken in connection with the
+            Revolving Credit Loans or Letter of Credit and all documents
+            incident thereto shall be reasonably satisfactory in form and
+            substance to M&I and its counsel.
+
+     2.2    DELIVERIES AT CLOSING. The obligation of M&I to make the initial
+Revolving Credit Loans is further subject the satisfaction on or before the
+Closing Date of each of the following express conditions precedent:
+
+                 (a)  M&I shall have received each of the following (each to be
+            properly executed, dated and completed), in form and substance
+            satisfactory to M&I:
+
+                      (i)    this Loan Agreement;
+
+                      (ii)   the Revolving Credit Note;
+
+                      (iii)  a certificate from an authorized officer of the
+                 Borrower, dated as of the Closing Date, certifying that (a) all
+                 of the representations and warranties contained in Article 3 of
+                 this Agreement are true and (b) no Default or Event of Default
+                 exists;
+
+                      (iv)   a certificate of the Secretary of Borrower, in the
+                 form of Exhibit B attached to this Loan Agreement, dated the
+                 Closing Date, as to: (A) the incumbency and signature of the
+                 officers of the Borrower who have signed or will sign this Loan
+                 Agreement, the Revolving Credit Note, the Collateral Documents
+                 and any other documents or materials to be delivered by
+                 Borrower to M&I pursuant to this Loan Agreement; (B) the
+
+                                        6
+<Page>
+
+                 adoption and continued effect of resolutions of the board of
+                 directors of Borrower authorizing the execution, delivery and
+                 performance of this Loan Agreement, the Revolving Credit Note
+                 and the Collateral Documents together with copies of those
+                 resolutions; and (C) the accuracy and completeness of copies of
+                 the articles of incorporation and bylaws of Borrower, as
+                 amended to date, attached thereto;
+
+                      (v)    the Pledge Agreement together with all original
+                 stock certificates representing all of the issued and
+                 outstanding capital stock of the applicable Subsidiaries,
+                 together with related stock powers executed by the Borrower in
+                 blank;
+
+                      (vi)   the Financing Statements;
+
+                 (b)  M&I shall have received a certificate of the Wisconsin
+            Department of Financial Institutions as to the existence of the
+            Borrower dated as of a recent date;
+
+                 (c)  M&I shall have received a search of the Uniform Commercial
+            Code records of the Wisconsin Department of Financial Institutions
+            and of the real estate records for Milwaukee county, against the
+            name of the Borrower;
+
+                 (d)  M&I shall have received certificates evidencing the
+            insurance coverages required under this Loan Agreement and the
+            Collateral Documents;
+
+                 (e)  M&I shall have received a favorable opinion of Borrower's
+            counsel, in form and substance satisfactory to M&I and its counsel;
+            and
+
+                 (f)  M&I shall have received such other agreements,
+            instruments, documents, certificates and opinions as M&I or its
+            counsel may reasonably request.
+
+                                    ARTICLE 3
+
+                         REPRESENTATIONS AND WARRANTIES
+
+     Borrower hereby represents and warrants to M&I as follows:
+
+     3.1    ORGANIZATION AND QUALIFICATION; SUBSIDIARIES. Borrower and each
+Material Insurance Subsidiary is a corporation duly and validly organized and
+existing under the Laws of the state of its incorporation and has the corporate
+power and all necessary licenses, permits and franchises to own its assets and
+properties and to carry on its business as now conducted or presently
+contemplated. Each of Borrower and each Material Insurance Subsidiary is duly
+licensed or qualified to do business and is in active status or good standing in
+all jurisdictions in which failure to do so would have a material adverse effect
+on its business or financial condition. All of the Subsidiaries of the Borrower,
+together with the Borrower's percentage of ownership of each Subsidiary, are set
+forth on Schedule 3.1.
+
+                                        7
+<Page>
+
+     3.2    FINANCIAL STATEMENTS. All of the financial statements of Borrower
+and its Subsidiaries heretofore furnished to M&I by Borrower are accurate and
+complete in all material respects and fairly present the financial condition and
+the results of operations of Borrower and its Subsidiaries for the periods
+covered thereby and as of the relevant dates thereof, all financial statements
+were prepared in accordance with GAAP or SAP, as applicable, subject in the case
+of interim financial statements to audit and year-end adjustments. There has
+been no material adverse change in the business, properties or condition
+(financial or otherwise) of Borrower and its Subsidiaries since the date of the
+latest of such financial statements. Borrower has no knowledge of any material
+liabilities of any nature not disclosed in writing to M&I.
+
+     3.3    AUTHORIZATION; ENFORCEABILITY. The making, execution, delivery and
+performance of this Loan Agreement, the Revolving Credit Note and the Collateral
+Documents, and compliance with their respective terms, have been duly authorized
+by all necessary corporate action of Borrower. This Loan Agreement, the
+Revolving Credit Note and the Collateral Documents are the valid and binding
+obligations of Borrower, enforceable against Borrower in accordance with their
+respective terms, except as the enforcement thereof may be limited by applicable
+bankruptcy, insolvency, reorganization, moratorium or similar Laws generally
+affecting the rights of creditors and subject to general equity principles.
+
+     3.4    ABSENCE OF CONFLICTING OBLIGATIONS. The making, execution, delivery
+and performance of this Loan Agreement, the Revolving Credit Note and the
+Collateral Documents, and compliance with their respective terms, do not violate
+any presently existing provision of Law or the articles or certificate of
+incorporation or bylaws of Borrower or any agreement material to the business of
+Borrower or any Material Insurance Subsidiary to which either Borrower or any
+Material Insurance Subsidiary is a party or by which Borrower or any Material
+Insurance Subsidiary or any of their respective assets is bound.
+
+     3.5    TAXES. Except as set forth on Schedule 3.5, each of the Borrower and
+each Material Insurance Subsidiary has filed all federal, state, foreign and
+local tax returns which were required to be filed (subject to any valid
+extensions of the time for filing), the failure to file of which would have a
+material adverse effect on the Borrower's or such Subsidiary's business or
+Financial condition, and has paid, or made provision for the payment of, all
+taxes owed by it, and no tax deficiencies have been assessed or, to Borrower's
+knowledge, proposed against Borrower or any Material Insurance Subsidiary.
+
+     3.6    ABSENCE OF LITIGATION. Except as set forth on Schedule 3.6, neither
+the Borrower nor any Material Insurance Subsidiary is a party to, and so far as
+is known to Borrower there is no threat of, any litigation or administrative
+proceeding which would, if adversely determined, impair the ability of Borrower
+to perform its obligations under this Loan Agreement, the Revolving Credit Note
+or the Collateral Documents, cause any material adverse change in the assets and
+properties of Borrower or any Material Insurance Subsidiary, cause any material
+impairment of the right to carry on the business of Borrower or any Material
+Insurance Subsidiary, or cause any material adverse effect on the financial
+condition of Borrower or any Material Insurance Subsidiary.
+
+                                        8
+<Page>
+
+     3.7    ACCURACY OF INFORMATION. All information, certificates or statements
+by Borrower given in, or pursuant to, this Loan Agreement (whether in writing,
+by electronic messaging or otherwise) shall be accurate, true and complete when
+given.
+
+     3.8    TITLE TO PROPERTY. Each of Borrower and each Material Insurance
+Subsidiary has good title to, or a valid leasehold interest in, all assets and
+properties necessary to conduct its business as now conducted or proposed to be
+conducted, and there are no Liens on any of the assets or properties of Borrower
+or any Material Insurance Subsidiary other than Permitted Liens. Each of
+Borrower and each Material Insurance Subsidiary has all licenses, permits,
+franchises, patents, copyrights, trademarks and trade names, or rights thereto,
+reasonably necessary to conduct its business as now conducted or proposed to be
+conducted, and Borrower does not know of any conflict with or violation of any
+valid rights of others with respect thereto.
+
+     3.9    ERISA. Borrower has no knowledge that any Plan is in noncompliance
+in any material respect with the applicable provisions of ERISA or the Internal
+Revenue Code. Borrower has no knowledge of any pending or threatened litigation
+or governmental proceeding or investigation against or relating to any Plan, and
+has no knowledge of any reasonable basis for any material proceedings, claims or
+actions against or relating to any Plan. Borrower has no knowledge that Borrower
+has incurred any "accumulated funding deficiency" within the meaning of Section
+302(a)(2) of ERISA in connection with any Plan. Borrower has no knowledge that
+there has been any Reportable Event or Prohibited Transaction (as such terms are
+defined in ERISA) with respect to any Plan, the occurrence of which would have a
+material adverse effect on the business or condition (financial or otherwise) of
+Borrower or any Material Insurance Subsidiary, or both, or that Borrower or any
+Material Insurance Subsidiary, or both, has incurred any liability to the PBGC
+under Section 4062 of ERISA in connection with any Plan.
+
+     3.10   FISCAL YEAR. The Borrower's fiscal year ends on December 31.
+
+     3.11   COMPLIANCE WITH LAWS. Each of the Borrower and each Material
+Insurance Subsidiary is in compliance in all material respects with all Laws
+applicable to Borrower or any Material Insurance Subsidiary, their respective
+assets or operations, the failure to comply with which could have a material
+adverse effect on the Borrower's or such Material Insurance Subsidiary's
+business or Financial condition.
+
+     3.12   DUMP SITES. To the best of Borrower's knowledge, with respect to any
+period during which the Borrower or any Material Insurance Subsidiary has
+occupied the Facilities and with respect to the time before Borrower or any
+Material Insurance Subsidiary occupied the Facilities, no Person has caused or
+permitted petroleum products or hazardous substances or other materials to be
+stored, deposited, treated, recycled or disposed of on, under or at the
+Facilities, which materials, if known to be present, might require material
+investigation, clean-up, removal or some other remedial action under
+Environmental Laws.
+
+     3.13   TANKS. To the best of Borrower's knowledge, other than as shown on
+Schedule 3.13, have there ever been tanks, containers or other vessels on, under
+or at the Facilities that contained petroleum products or hazardous substances
+or other materials which, if known to be
+
+                                        9
+<Page>
+
+present in soils or ground water, might require material investigation,
+clean-up, removal or some other remedial action under Environmental Laws.
+
+     3.14   OTHER ENVIRONMENTAL CONDITIONS. To the best of Borrower's knowledge,
+there are no conditions existing currently or likely to exist during the term of
+this Loan Agreement that would subject Borrower or any Material Insurance
+Subsidiary to damages, penalties, injunctive relief or clean-up costs under any
+Environmental Laws, or that might require material investigation, clean-up,
+removal or some other remedial action by Borrower or any Material Insurance
+Subsidiary under Environmental Laws.
+
+     3.15   ENVIRONMENTAL JUDGMENTS, DECREES AND ORDERS. To the best of
+Borrower's knowledge, no judgment, decree, order or citation related to or
+arising out of Environmental Laws is applicable to or binds Borrower, any
+Material Insurance Subsidiary, the Facilities or the owner of any of the
+Facilities.
+
+     3.16   ENVIRONMENTAL PERMITS AND LICENSES. To the best of Borrower's
+knowledge, all permits, licenses and approvals required under Environmental Laws
+necessary for each of Borrower and each Material Insurance Subsidiary to operate
+the Facilities and to conduct its business as now conducted or proposed to be
+conducted, which are currently obtainable have been obtained and are in full
+force and effect.
+
+     3.17   USE OF PROCEEDS; MARGIN STOCK. Borrower shall use the proceeds of
+the Revolving Credit Loans solely for the purposes set forth in Section 1.8
+hereof. No part of the proceeds of the Revolving Credit Loans will be used,
+directly or indirectly, for the purpose of purchasing or carrying any margin
+stock within the meaning of Regulation U of the Board of Governors of the
+Federal Reserve System or to extend credit to others for the purpose of
+purchasing or carrying any such margin stock.
+
+     3.18   INSURANCE LICENSES. Schedule 3.18 hereto lists the jurisdiction of
+domicile of each Material Insurance Subsidiary, the line or lines of insurance
+in which each Material Insurance Subsidiary is engaged, if applicable, and the
+jurisdictions in which each Material Insurance Subsidiary holds a license and is
+authorized to transact insurance business, in each case as of the date of this
+Agreement. No license, the loss of which could reasonably be expected to have a
+material adverse effect on the business or condition (financial or otherwise) of
+the applicable Material Insurance Subsidiary, is the subject of a proceeding for
+suspension or revocation. To the Borrower's knowledge, there is no sustainable
+basis for such suspension or revocation, and no such suspension or revocation
+has been threatened by any governmental authority. To the Borrower's knowledge,
+no Material Insurance Subsidiary has received written notice from any
+governmental authority that it is deemed to be "commercially domiciled" for
+insurance regulatory purposes in any jurisdiction other than that indicated on
+Schedule 3.18.
+
+     3.19   REINSURANCE. Schedule 3.19 lists all ceded or assumed reinsurance
+agreements to which any Material Insurance Subsidiary is, as of the date of this
+Agreement, a party, which are currently in force, and under which there is
+liability by either party to the agreement (collectively, the "Existing
+Reinsurance Agreements"). Each of the Existing Reinsurance Agreements is in full
+force and effect, is valid and binding in all material respects in accordance
+with its terms, and, as of the date hereof, no Material Insurance Subsidiary
+has, to the Borrower's
+
+                                       10
+<Page>
+
+knowledge, received notice (other than provisional notices of cancellation
+received in the ordinary course of business) that any other party to an in-force
+Existing Reinsurance Agreement will cancel or not renew such agreement, which
+cancellation or nonrenewal could reasonably be expected to have a material
+adverse effect on the business or condition (financial or otherwise) of the
+applicable Subsidiary. The Borrower has no knowledge as of the date hereof that
+any amount recoverable by any Material Insurance Subsidiary pursuant to any
+Existing Reinsurance Agreement is not fully collectible in due course. To the
+knowledge of the Borrower, no Material Insurance Subsidiary is in default in any
+material respect as to any Existing Reinsurance Agreement. Except as disclosed
+in Schedule 3.19, each Material Insurance Subsidiary is entitled to take full
+credit in its statutory financial statements for ceded reinsurance under the
+Existing Reinsurance Agreements pursuant to applicable insurance laws. Except as
+disclosed in Schedule 3.19, there is no claim under any Existing Reinsurance
+Agreement in excess of $100,000 which is disputed by any other party to such
+agreement.
+
+     3.20   RESERVES. Except as set forth on Schedule 3.20, each reserve and
+other material liability amount in respect of the insurance business, including,
+without limitation, material reserve and other material liability amounts in
+respect of insurance policies of each Material Insurance Subsidiary, established
+or reflected in the SAP Financial Statements for the year ended December 31,
+2001 of such Material Insurance Subsidiary, was determined in accordance with
+generally accepted actuarial standards consistently applied, was fairly stated
+in accordance with sound actuarial principles and was in compliance with the
+requirements of the insurance laws, rules and regulations of its state of
+domicile as of the date thereof. Each Material Insurance Subsidiary owns assets
+that qualify as admitted assets under applicable law in an amount at least equal
+to the sum of all such reserves and liability amounts and its minimum Statutory
+Capital and Surplus as required by the insurance laws, rules and regulations of
+its state of domicile.
+
+     3.21   SURPLUS RATIO. As of the date of this Agreement, each Material
+Insurance Subsidiary has a ratio of Adjusted Statutory Capital and Surplus to
+Compulsory Surplus of at least 110%.
+
+     3.22   DIVIDENDS. Except as set forth on Schedule 3.22, No Insurance
+Subsidiary is subject to any regulatory prohibition regarding the declaration or
+payment of dividends that is not generally applicable to all insurance companies
+that are domiciled in the same jurisdiction and are engaged in the same line of
+business as such Insurance Subsidiary.
+
+                                    ARTICLE 4
+
+                               NEGATIVE COVENANTS
+
+     From and after the date of this Loan Agreement and until: (i) the entire
+amount of principal of and interest due on the Revolving Credit Loans, and all
+other amounts of fees and payments due under this Loan Agreement and the
+Revolving Credit Note are paid in full; and (ii) the commitment of M&I to make
+Revolving Credit Loans under Section 1.1 of this Loan Agreement has ended; and
+(iii) there are no outstanding Letters of Credit, Borrower shall not, and
+Borrower shall not permit any Material Insurance Subsidiary to, without the
+prior written consent of M&I:
+
+                                       11
+<Page>
+
+     4.1    REVOLVING CREDIT LOANS. Permit the sum of the amount of outstanding
+Revolving Credit Loans to exceed the Revolving Credit Commitment.
+
+     4.2    LIENS. Incur, create, assume or permit to be created or allow to
+exist any Lien upon or in any of its assets or properties, except Permitted
+Liens.
+
+     4.3    INDEBTEDNESS. Incur, create, assume, permit to exist, guarantee,
+endorse or otherwise become directly or indirectly or contingently responsible
+or liable for any Indebtedness, except Permitted Indebtedness.
+
+     4.4    CONSOLIDATION OR MERGER. Consolidate with or merge into any other
+Person, or permit another Person to merge into it, or acquire substantially all
+of the assets of any other Person, whether in one or a series of transactions,
+except that Borrower may permit any Subsidiary to merge into it or into a wholly
+owned Subsidiary.
+
+     4.5    DISPOSITION OF ASSETS. Sell, lease, assign, transfer or otherwise
+dispose of any of its now owned or hereafter acquired assets or properties
+except, prior to the occurrence of an Event of Default: (a) sales of inventory
+and Investments in the ordinary course of business; (b) sales or other
+disposition of equipment, provided that such equipment is replaced by equipment
+of a similar kind and equivalent value; and (c) sales or other disposition of
+any interest in any Subsidiary other than a Material Insurance Subsidiary, (d)
+sales or other disposition of any interest in American Medical Security Group,
+Inc.; (e) sales by Blue Cross & Blue Shield United of Wisconsin of capital stock
+of the Borrower: and (f) other dispositions of assets provided that such assets,
+in the aggregate for all such dispositions after the Closing Date, (i) represent
+no more than 10% of the consolidated assets of the Borrower and its consolidated
+Subsidiaries and (ii) are responsible for no more than 5% of the consolidated
+net revenues or of the consolidated net income of the Borrower and its
+consolidated Subsidiaries, in both cases as of the end of the fiscal quarter
+preceding the disposition date.
+
+     4.6    SALE AND LEASEBACK. Enter into any agreement, directly or
+indirectly, to sell or transfer any real or personal property used in its
+business and thereafter to lease back the same or similar property.
+
+     4.7    INVESTMENTS. Make any new Investment in or to other Persons, except
+Permitted Investments.
+
+     4.8    RESTRICTED PAYMENTS. (a) Declare or pay any non-cash dividends; or
+(b) purchase, redeem, retire, or otherwise acquire for value any of its capital
+stock now or hereafter outstanding; or (c) make any distribution of assets to
+its stockholders as such, whether in assets or in obligations of Borrower; or
+(d) allocate or otherwise set apart any sum for the purchase, redemption, or
+retirement of any shares of its capital stock; or (e) make any other
+distribution by reduction of capital or otherwise in respect of any shares of
+its capital stock; or (f) pay any cash dividends to any stockholders; provided,
+however, the Subsidiaries may pay cash dividends to the Borrower or to a wholly
+owned Subsidiary of the Borrower.
+
+     4.9    TRANSACTIONS WITH AFFILIATES. Except as set forth on Schedule 4.9,
+engage in any transaction with an Affiliate on terms materially less favorable
+to Borrower than would be available at the time from a Person who is not an
+Affiliate.
+
+                                       12
+<Page>
+
+     4.10   GUARANTEES. Except as set forth on Schedule 4.10, guarantee the
+Indebtedness of any Person, except guaranties in favor of M&I.
+
+     4.11   CHANGE IN CONTROL. Permit a Change in Control.
+
+     4.12   REINSURANCE. Permit any Material Insurance Subsidiary to (a) enter
+into bulk reinsurance arrangements, including without limitation any bulk
+financial reinsurance arrangements, or (b) enter into any other reinsurance
+arrangements except in the ordinary course of business (i) with reinsurers rated
+at least "A-" (at the time such reinsurance arrangements are entered into) by
+A.M. Best & Co. or its equivalent by another reputable rating agency or
+reinsurers whose obligations to the Material Insurance Subsidiaries are
+sufficiently secured to permit Borrower to claim financial credit for
+reinsurance under applicable Law, or (ii) with other reinsurers so long as the
+aggregate corresponding credits to reserves (page 3, lines 1, 2, 3 and 4 of the
+Annual Statement ) of all Material Insurance Subsidiaries in respect of
+reinsurance arrangements with all such other reinsurers does not exceed 3% of
+the aggregate of such reserves of all Material Insurance Subsidiaries; provided,
+however, that Borrower or any Subsidiary may renew or extend any reinsurance
+arrangement existing on the date hereof, and the Borrower or any Subsidiary may
+enter into any reinsurance transaction which individually does not exceed 3% of
+the aggregate insured premiums of the Borrower and the Subsidiaries; provided,
+further, that Borrower shall update Schedule 3.19 as necessary such that
+Schedule 3.19 shall at all times be an accurate and complete list of Existing
+Reinsurance Agreements.
+
+     4.13   A.M. BEST RATING. Each Material Insurance Subsidiary shall at all
+times maintain an A.M. Best rating of at least B-.
+
+                                    ARTICLE 5
+
+                              AFFIRMATIVE COVENANTS
+
+     From and after the date of this Loan Agreement and until: (i) the entire
+amount of principal of and interest due on the Revolving Credit Loans, and all
+other amounts of fees and payments due under this Loan Agreement and the
+Revolving Credit Note are paid in full; and (ii) the commitment of M&I to make
+Revolving Credit Loans under Section 1.1 of this Loan Agreement has ended; and
+(iii) there are no outstanding Letters of Credit:
+
+     5.1    PAYMENT. Borrower shall timely pay or cause to be paid the principal
+of and interest on the Revolving Credit Loans and all other amounts due under
+this Loan Agreement, the Revolving Credit Note, the Letters of Credit and the
+Collateral Documents.
+
+     5.2    CORPORATE EXISTENCE; PROPERTIES; OWNERSHIP. Borrower shall, and
+Borrower shall cause each Material Insurance Subsidiary to: (a) maintain its
+corporate existence; except that Borrower may permit any Subsidiary to merge
+into it or into a wholly owned Subsidiary; (b) conduct its business
+substantially as now conducted or as described in any business plans delivered
+to M&I prior to the Closing Date; (c) maintain all assets (other than assets no
+longer used or useful in the conduct of its business) in good repair, working
+order and condition, ordinary wear and tear excepted; and (d) maintain accurate
+records and books of account in accordance with GAAP consistently applied
+throughout all accounting periods.
+
+                                       13
+<Page>
+
+     5.3    LICENSES. Borrower shall, and Borrower shall cause each Material
+Insurance Subsidiary to, maintain in full force and effect each license, permit
+and franchise granted or issued by any federal, state or local governmental
+agency or regulatory authority that is reasonably necessary to or used in
+Borrower's or any Material Insurance Subsidiary's business.
+
+     5.4    REPORTING REQUIREMENTS. Borrower shall furnish to M&I such
+information respecting the business, assets and financial condition of Borrower
+and its Subsidiaries as M&I may reasonably request and, without request:
+
+                 (a)  As soon as available, and in any event within forty-five
+            (45) days after the end of each month other than the last month of
+            each fiscal year, (i) a consolidated and consolidating balance sheet
+            of Borrower and its Subsidiaries as of the end of each such month
+            and of the comparable month in the preceding fiscal year; and (ii)
+            consolidated and consolidating statements of income and retained
+            earnings of Borrower and its Subsidiaries for each such month and
+            for that part of the fiscal year ending with each month and for the
+            corresponding periods of the preceding fiscal year, all in
+            reasonable detail and certified as true and correct, subject to
+            audit and normal year-end adjustments, by the chief financial
+            officer or treasurer of Borrower; and
+
+                 (b)  as soon as available, and in any event within ninety (90)
+            days after the close of each fiscal year, a copy of the detailed
+            annual audit report for such year and accompanying consolidated
+            financial statements of Borrower and its Subsidiaries prepared in
+            reasonable detail and in accordance with GAAP and audited by
+            independent certified public accountants of recognized standing
+            selected by Borrower, and reasonably satisfactory to M&I, which
+            audit report shall be unqualified and shall be accompanied by: (i)
+            an unqualified opinion of such accountants, in form and substance
+            reasonably satisfactory to M&I, to the effect that the same fairly
+            presents the financial condition and the results of operations of
+            Borrower and its Subsidiaries for the periods and as of the relevant
+            dates thereof, and (ii) a certificate of such accountants setting
+            forth their computations as to Borrower's compliance with Section
+            5.14 of this Loan Agreement stating that in the ordinary course of
+            their audit, conducted in accordance with generally accepted
+            auditing practices, they did not become aware of any Event of
+            Default or, if their audit disclosed an Event of Default, a
+            specification of the Event of Default and the actions taken or
+            proposed to be taken by Borrower with respect thereto; and
+
+                 (c)  within forty-five (45) days after the end of each fiscal
+            quarter, an executed Officer's Certificate, in the form of Exhibit A
+            attached to this Loan Agreement; and
+
+                 (d)  promptly upon its becoming available, furnish to M&I one
+            copy of each financial statement, report, notice, or proxy statement
+            sent by the Borrower to its shareholders generally and of each
+            regular or periodic report, registration statement or prospectus
+            filed by the Borrower with any securities exchange or the Securities
+            and Exchange Commission or any successor agency; and
+
+                                       14
+<Page>
+
+                 (e)  as soon as received, but in any event not later than ten
+            (10) days after receipt, copies of all management letters and other
+            reports submitted to Borrower by independent certified public
+            accountants in connection with any examination of the financial
+            statements of Borrower and notify M&I promptly of any change in any
+            accounting method used by Borrower in the preparation of the
+            financial statements to be delivered to M&I pursuant to this
+            Section; and
+
+                 (f)  (i) No later than fifteen (15) days after the regulatory
+            filing date (including any extension thereof) of each fiscal year of
+            each Material Insurance Subsidiary, copies of the unaudited Annual
+            Statement of such Material Insurance Subsidiary, certified by the
+            chief financial officer of such Material Insurance Subsidiary, all
+            such statements to be prepared in accordance with SAP consistently
+            applied throughout the periods reflected therein and (ii) no later
+            than each June 15, copies of annual financial statements of such
+            Material Insurance Subsidiary, prepared in accordance with SAP,
+            audited by independent certified public accountants of recognized
+            national standing and reasonably acceptable to M&I (M&I agrees,
+            without limitation, that Ernst & Young LLP is an acceptable auditor
+            for purposes of this Section); and
+
+                 (g)  No later than ten (10) days after the regulatory filing
+            date (including any extension thereof) or (ii) 60 days after the
+            close of each of the first three fiscal quarters of each fiscal year
+            of each Material Insurance Subsidiary, copies of the Quarterly
+            Statement of each of the Material Insurance Subsidiaries, certified
+            by the chief financial officer of such Material Insurance
+            Subsidiary, all such statements to be prepared in accordance with
+            SAP consistently applied through the period reflected herein; and
+
+                 (h)  Promptly and in any event within ten (10) days after (i)
+            learning thereof, notification of any changes after the date hereof
+            in the rating given by A.M. Best & Co. in respect of any Insurance
+            Subsidiary and (ii) receipt thereof, copies of any ratings analysis
+            by A.M. Best & Co. relating to any Insurance Subsidiary; and
+
+                 (i)  As soon as available and in any event within ten (10) days
+            after the regulatory filing date (including any extension thereof)
+            of each fiscal year, a "Statement of Actuarial Opinion" and
+            "Management Discussion and Analysis" including review of year-end
+            loss reserves for each Material Insurance Company (prepared in
+            accordance with SAP) for such fiscal year by an actuary reasonably
+            acceptable to M&I (who may be an employee of the Borrower, and M&I
+            agrees, without limitation, that Mark Cain of IRMS Actuarial
+            Services is an acceptable actuary for purposes of this Section) as
+            filed with the applicable regulatory insurance authority in
+            compliance with the requirements thereof (or a report containing
+            equivalent information for any Material Insurance Company not so
+            required to file the foregoing with the applicable regulatory
+            insurance authority); and
+
+                                       15
+<Page>
+
+                 (j)  Copies of any other actuarial certificates prepared with
+            respect to any Material Insurance Subsidiary, promptly after the
+            receipt thereof.
+
+     5.5    TAXES. Borrower shall, and Borrower shall cause each Material
+Insurance Subsidiary to, pay all taxes and assessments prior to the date on
+which penalties attach thereto, except for any tax or assessment which is either
+not delinquent or which is being contested in good faith and by proper
+proceedings and against which adequate reserves have been provided.
+
+     5.6    INSPECTION OF PROPERTIES AND RECORDS. Borrower shall, and Borrower
+shall cause each Material Insurance Subsidiary to, permit M&I or its agents or
+representatives to visit any of its properties and examine any of its books and
+records upon reasonable prior notice, at any reasonable time and as often as may
+be reasonably desired, and Borrower shall facilitate each such inspection, audit
+and examination.
+
+     5.7    REFERENCE IN FINANCIAL STATEMENTS. Borrower shall include, to the
+extent required by applicable Law, or cause to be included, a reference to this
+Loan Agreement in all financial statements of Borrower which are furnished to
+stockholders, financial reporting services, creditors and prospective creditors.
+
+     5.8    COMPLIANCE WITH LAWS. Borrower shall, and Borrower shall cause each
+Material Insurance Subsidiary to: (a) comply in all material respects with all
+applicable Environmental Laws, and orders of regulatory and administrative
+authorities with respect thereto, and, without limiting the generality of the
+foregoing, promptly undertake and diligently pursue to completion appropriate
+and legally authorized containment, investigation and clean-up action in the
+event of any release of petroleum products or hazardous materials or substances
+on, upon or into any real property owned, operated or within the control of
+Borrower or any Material Insurance Subsidiary; and (b) comply in all material
+respects with all other Laws applicable to Borrower, its Material Insurance
+Subsidiaries, its assets or operations.
+
+     5.9    COMPLIANCE WITH AGREEMENTS. Borrower shall, and Borrower shall cause
+each Material Insurance Subsidiary to, perform and comply in all respects with
+the provisions of any agreement (including without limitation any collective
+bargaining agreement), license, regulatory approval, permit and franchise
+binding upon Borrower or any Material Insurance Subsidiary or their respective
+assets or properties, if the failure to so perform or comply would have a
+material adverse effect on the condition (financial or otherwise) of the
+business, assets or properties of Borrower or any Material Insurance Subsidiary.
+
+     5.10   NOTICES. Borrower shall:
+
+                 (a)  as soon as possible and in any event within five (5)
+            Business Days after Borrower's knowledge of the occurrence of any
+            Default or Event of Default, notify M&I in writing of such Default
+            or Event of Default and set forth the details thereof and the action
+            which is being taken or proposed to be taken by Borrower with
+            respect thereto;
+
+                 (b)  promptly notify M&I of the commencement of any litigation
+            or administrative proceeding that would cause the representation and
+            warranty of Borrower contained in Section 3.6 of this Loan Agreement
+            to be untrue;
+
+                                       16
+<Page>
+
+                 (c)  promptly notify M&I: (i) of the occurrence of any
+            Reportable Event or Prohibited Transaction (as such terms are
+            defined in ERISA) that has occurred with respect to any Plan; and
+            (ii) of the institution by the PBGC or Borrower or any Subsidiary of
+            proceedings under Title IV of ERISA to terminate any Plan;
+
+                 (d)  unless prohibited by applicable Law, notify M&I, and
+            provide copies, immediately upon receipt but in any event not later
+            than ten (10) days after receipt, of any notice, pleading, citation,
+            indictment, complaint, order or decree from any federal, state or
+            local government agency or regulatory body, or any other source,
+            asserting or alleging a circumstance or condition that requires or
+            may require a financial contribution by Borrower or any Material
+            Insurance Subsidiary, or both, or an investigation, clean-up,
+            removal, remedial action or other response by or on the part of
+            Borrower or any Material Insurance Subsidiary, or both, under
+            Environmental Laws or which seeks damages or civil, criminal or
+            punitive penalties from or against Borrower or any Material
+            Insurance Subsidiary, or both, for an alleged violation of
+            Environmental Laws; and provide M&I with written notice of any
+            condition or event which would make the representations and
+            warranties contained in Sections 3.11 through 3.16 of this Loan
+            Agreement inaccurate, as soon as Borrower becomes aware of such
+            condition or event;
+
+                 (e)  notify M&I at least thirty (30) days prior to any change
+            of Borrower's or any Material Insurance Subsidiary's name or their
+            use of any trade name;
+
+                 (f)  promptly notify M&I of any damage to, or loss of, any of
+            the assets or properties of Borrower or any Material Insurance
+            Subsidiary if the net book value of the damaged or lost asset or
+            property at the time of such damage or loss exceeds $500,000; and
+
+                 (g)  promptly notify M&I of the commencement of any
+            investigation, litigation, or administrative or regulatory
+            proceeding by, or the receipt of any notice, citation, pleading,
+            order, decree or similar document issued by, any federal, state or
+            local governmental agency or regulatory authority that results in,
+            or may result in, the termination or suspension of any license,
+            permit or franchise necessary to Borrower's or any Material
+            Insurance Subsidiary's business, or that imposes, or may result in
+            the imposition of, a material fine or penalty on Borrower or any
+            Material Insurance Subsidiary, or both.
+
+     5.11   COMPCARE. If at any time the Borrower repays all of the Indebtedness
+owed to Blue Cross & Blue Shield United of Wisconsin secured by the capital
+stock of Compcare Health Services Insurance Company, the Borrower agrees to
+execute and deliver to M&I a Pledge Agreement covering all of the issued and
+outstanding capital stock of Compcare Health Services Insurance Company,
+together with all original stock certificates representing all of the issued and
+outstanding capital stock of Compcare Health Services Insurance Company, all
+related stock powers executed by the Borrower in blank, and such other officer's
+certificates, legal opinions
+
+                                       17
+<Page>
+
+and other approvals, documents, and materials as M&I may reasonably require in
+connection therewith.
+
+     5.12   INSURANCE. Borrower shall, and Borrower shall cause each Material
+Insurance Subsidiary to obtain and maintain at its own expense the following
+insurance, which shall be with insurers satisfactory to M&I: (a) "all risks"
+property insurance in amounts not less than the one hundred percent (100%)
+replacement cost of all buildings, improvements, fixtures, equipment and other
+real and personal property of Borrower or such Material Insurance Subsidiary,
+with a replacement cost agreed amount endorsement; (b) commercial general
+liability insurance covered under a commercial general liability policy
+including contractual liability in an amount not less than $1,000,000 combined
+single limit for bodily injury, including personal injury, and property damage;
+(c) product liability insurance in such amounts as is customarily maintained by
+companies engaged in the same or similar businesses; and (d) worker's
+compensation insurance in amounts meeting all statutory state and local
+requirements. The property and commercial general liability policies described
+above shall name M&I as lender's loss payee or additional insured as its
+interest may appear, and shall require the insurer to provide at least thirty
+(30) days' prior written notice to M&I of any material change or cancellation of
+such policy.
+
+     5.13   NEW SUBSIDIARIES. If the Borrower organizes one or more new
+Subsidiaries after the Closing Date in compliance with the terms of this
+Agreement, the Borrower shall promptly deliver to M&I an amended Schedule 3.1
+listing all of the Subsidiaries of the Borrower, together with the Borrower's
+Percentage of ownership of such Subsidiary.
+
+     5.14   FINANCIAL COVENANTS.
+
+                 (a)  TANGIBLE NET WORTH. Borrower and its Subsidiaries shall
+            maintain an aggregate Tangible Net Worth of at least $136,075,000.00
+            PLUS (i) 50% of the positive consolidated net income earned by the
+            Borrower and its consolidated Subsidiaries for the two quarters
+            ending on December 31, 2002, PLUS (ii) 50% of the positive
+            consolidated net income earned by the Borrower and its consolidated
+            Subsidiaries for each fiscal year ending after December 31, 2002,
+            PLUS (iii) 100% of the net proceeds received by [A] the Borrower
+            from the issuance of equity securities after the Closing Date or [B]
+            Blue Cross & Blue Shield United of Wisconsin from the sale of
+            capital stock of Borrower, all as determined at the end of each
+            fiscal quarter.
+
+                 (b)  FIXED CHARGE COVERAGE RATIO. Borrower shall at all times
+            maintain a Fixed Charge Coverage Ratio of at least 1.10:1.0. The
+            Fixed Charge Coverage Ratio shall be tested at the end of each
+            fiscal quarter.
+
+                 (c)  RISK-BASED CAPITAL. After the date hereof, the Borrower
+            will cause each Material Insurance Subsidiary to maintain a ratio of
+            (i) Total Adjusted Capital (as defined in the Risk-Based Capital Act
+            or in the rules and procedures prescribed from time to time by the
+            NAIC with respect thereto) to (ii) the Company Action Level RBC (as
+            defined in the Risk-Based Capital Act or in the rules and procedures
+            prescribed from time to time by the NAIC with respect
+
+                                       18
+<Page>
+
+            thereto) of at least 200%, as determined [A] for the Borrower and
+            each Material Insurance Subsidiary (other than Blue Cross & Blue
+            Shield United of Wisconsin and Compcare Health Services Insurance
+            Company until such ratio exceeds 375%) at the end of each fiscal
+            year and [B] for Blue Cross & Blue Shield United of Wisconsin and
+            Compcare Health Services Insurance Company at the end of each fiscal
+            quarter until such time that such ratio exceeds 375%. The Borrower
+            shall also provide M&I with copies of the IRIS ratio calculations
+            for each applicable Material Insurance Subsidiary not later than 10
+            days after receipt from the NAIC.
+
+                                    ARTICLE 6
+
+                                    REMEDIES
+
+     6.1    ACCELERATION. (a) Upon the occurrence of an Automatic Event of
+Default, then, without notice, demand or action of any kind by M&I: (i) the
+obligation of M&I to make any Revolving Credit Loans or to issue any Letters of
+Credit under this Loan Agreement shall automatically and immediately terminate;
+and (ii) the entire unpaid principal of, and accrued interest on, the Revolving
+Credit Note, and any other amount due under this Loan Agreement and the
+Collateral Documents, shall be automatically and immediately due and payable.
+
+            (b)  Upon the occurrence of a Notice Event of Default, M&I may, upon
+written notice and demand to Borrower: (i) terminate its obligation to make any
+Revolving Credit Loans or to issue any Letters of Credit under this Loan
+Agreement; and (ii) declare the entire unpaid principal of, and accrued interest
+on, the Revolving Credit Note, and any other amount due under this Loan
+Agreement and the Collateral Documents, immediately due and payable.
+
+     6.2    M&I'S RIGHT TO CURE DEFAULT. In case of failure by Borrower to
+procure or maintain insurance, or to pay any fees, assessments, charges or taxes
+arising with respect to any properties and assets pledged under any Collateral
+Documents, M&I shall have the right, but shall not be obligated, to effect such
+insurance or pay such fees, assessments, charges or taxes, as the case may be,
+and, in that event, the cost thereof shall be payable by Borrower to M&I
+immediately upon demand together with interest at an annual rate equal to the
+Prime Rate plus three percent (3%) (to the extent permitted by applicable Law)
+from the date that is ten days after the date M&I demands payment by Borrower.
+
+     6.3    REMEDIES NOT EXCLUSIVE. No remedy herein conferred upon M&I is
+intended to be exclusive of any other remedy and each and every such remedy
+shall be cumulative and shall be in addition to every other remedy given under
+this Loan Agreement, the Revolving Credit Note or the Collateral Documents or
+now or hereafter existing at law or in equity. No failure or delay on the part
+of M&I in exercising any right or remedy shall operate as a waiver thereof nor
+shall any single or partial exercise of any right preclude other or further
+exercise thereof or the exercise of any other right or remedy.
+
+     6.4    SETOFF. Borrower agrees that M&I and its affiliates shall have all
+rights of setoff and bankers' Lien provided by applicable Law, and in addition
+thereto, Borrower agrees that if at any time any payment or other amount owing
+by Borrower under the Revolving Credit Note or
+
+                                       19
+<Page>
+
+this Loan Agreement is then due to M&I, M&I may apply to the payment of such
+payment or other amount any and all balances, credits, deposits, accounts or
+moneys of Borrower then or thereafter with M&I or any affiliates of M&I.
+
+     6.5    CASH COLLATERAL. If an Event of Default has occurred and is
+continuing, M&I may make written demand upon Borrower, and Borrower will then
+immediately cause to be deposited with M&I, in immediately available funds, an
+amount equal to the maximum amount which could be drawn on all outstanding
+Letters of Credit, to be held in a special cash collateral account in the name
+of M&I. Funds on deposit and interest accrued on such funds held in such special
+cash collateral account may be applied by M&I to the obligations of Borrower to
+M&I and shall not be subject to withdrawal by Borrower until all outstanding
+Letters of Credit are canceled or terminated and all obligations to M&I are paid
+in full, unless otherwise agreed to by M&I.
+
+                                    ARTICLE 7
+
+                                   DEFINITIONS
+
+     7.1    DEFINITIONS. When used in this Loan Agreement, the following terms
+shall have the meanings specified:
+
+            "Affiliate" shall mean any Person: (a) that directly or indirectly
+controls, or is controlled by, or is under common control with, Borrower or any
+Subsidiary; (b) that directly or indirectly beneficially owns or holds five
+percent (5%) or more of any class of voting stock of Borrower or any Subsidiary;
+(c) five percent (5%) or more of the voting stock of which Person is directly or
+indirectly beneficially owned or held by Borrower or any Subsidiary; (d) that is
+an officer or director of Borrower or any Subsidiary; (e) of which an Affiliate
+is an officer or director; or (f) who is related by blood, adoption or marriage
+to an Affiliate. The term "control" means the possession, directly or
+indirectly, of the power to direct or cause the direction of the management and
+policies of a Person, whether through the ownership of voting securities, by
+contract or otherwise.
+
+            ADD-ON. "Add-On" shall mean the applicable percentage set forth in
+the table below:
+
+<Table>
+<Caption>
+            Level:                   Usage:                              Add-On:
+            ------                   ------                              -------
+             <S>      <C>                                                 <C>
+             I        Less than or equal to 25%                           1.50%
+             II       Less than or equal to 50% but greater than 25%      1.75%
+             III      Less than or equal to 75% but greater than 50%      2.00%
+             IV       Greater than 75%                                    2.50%
+</Table>
+
+                                       20
+<Page>
+
+The initial Add-On shall be Level IV. The Add-On shall adjusted in accordance
+with the table above on the first Business Day of each February, May, August,
+and November, commencing February 1, 2003, based upon the Usage of the credit
+facility created by this Loan Agreement. The "Usage" for purposes of the table
+above shall be the percentage of (a) the Borrower's daily average outstanding
+Revolving Credit Loans plus the daily average undrawn face amount of outstanding
+Letters of Credit during the quarter preceding the date of determination, to (b)
+the Revolving Credit Commitment plus the undrawn face amount of outstanding
+Letters of Credit during the quarter preceding the date of determination.
+
+            "Adjusted Interbank Rate" shall mean an annual rate with respect to
+any Interest Period (rounded upwards, if necessary, to the nearest 1/100 of 1%),
+determined pursuant to the following formula:
+
+            Adjusted Interbank Rate =              INTERBANK RATE
+                                      ---------------------------------------
+                                         1 - Interbank Reserve Requirement
+
+            "Adjusted Statutory Capital and Surplus" shall mean Statutory
+Capital and Surplus adjusted for security fund deposits of health maintenance
+organizations and Insurance Subsidiaries.
+
+            "Annual Statement" shall mean the annual statutory financial
+statement of any Insurance Subsidiary required to be filed with the insurance
+commissioner (or similar authority) of its jurisdiction of incorporation, which
+statement shall be in the form required by such Insurance Subsidiary's
+jurisdiction of incorporation or, if no specific form is so required, in the
+form of financial statements permitted by such insurance commissioner (or such
+similar authority) to be used for filing annual statutory financial statements
+and shall contain the type of information permitted by such insurance
+commissioner (or such similar authority) to be disclosed therein, together with
+all exhibits or schedules filed therewith.
+
+            "Automatic Event of Default" shall mean any one or more of the
+following:
+
+                 (a)  Borrower or any Material Insurance Subsidiary shall become
+            insolvent or generally not pay, or be unable to pay, or admit in
+            writing its inability to pay, its debts as they mature; or
+
+                 (b)  Borrower or any Material Insurance Subsidiary shall make a
+            general assignment for the benefit of creditors or to an agent
+            authorized to liquidate any substantial amount of its assets; or
+
+                 (c)  Borrower or any Material Insurance Subsidiary shall become
+            the subject of an "order for relief" within the meaning of the
+            United States Bankruptcy Code, or shall file a petition in
+            bankruptcy, for reorganization or to effect a plan or other
+            arrangement with creditors; or
+
+                 (d)  Borrower or any Material Insurance Subsidiary shall have a
+            petition or application filed against it in bankruptcy or any
+            similar proceeding, or shall have such a proceeding commenced
+            against it, and such petition, application
+
+                                       21
+<Page>
+
+            or proceeding shall remain unstayed or undismissed for a period of
+            sixty (60) days or more, or Borrower or any Material Insurance
+            Subsidiary shall file an answer to such a petition or application,
+            admitting the material allegations thereof; or
+
+                 (e)  Borrower or any Material Insurance Subsidiary shall apply
+            to a court for the appointment of a receiver or custodian for any of
+            its assets or properties, or shall have a receiver or custodian
+            appointed for any of its assets or properties, with or without
+            consent, and such receiver shall not be discharged or dismissed
+            within sixty (60) days after his appointment; or
+
+                 (f)  Borrower or any Material Insurance Subsidiary shall adopt
+            a plan of complete liquidation of its assets.
+
+            "Business Day" shall mean any day other than a Saturday, Sunday,
+public holiday or other day when commercial banks in Wisconsin are authorized or
+required by Law to close.
+
+            "Change in Control" shall mean the acquisition by any Person or a
+group of Affiliates of any Person of 25% or more of the outstanding common stock
+of the Borrower or a change in the membership of a majority of the board of
+directors of the Borrower, if not approved by the incumbent directors of the
+Borrower.
+
+            "Closing Date" shall mean August 7, 2002 or such later date on which
+all of the conditions precedent contained in Section 2.2 are satisfied or waived
+by M&I.
+
+            "Code" shall mean the Internal Revenue Code of 1986, as amended.
+
+            "Collateral" shall mean all of the personal property of Borrower,
+its Subsidiaries or third parties subject to a Lien in favor of M&I pursuant to
+the Collateral Documents.
+
+            "Collateral Documents" shall mean the Pledge Agreement and such
+other guaranties, security agreements, mortgages, deeds of trust and other
+credit enhancements as may be executed from time to time by Borrower, or third
+parties in favor of M&I in connection with this Loan Agreement.
+
+            "Compulsory Surplus" shall mean, with respect to any Insurance
+Subsidiary at any time, the compulsory surplus of such Insurance Subsidiary at
+such time, as determined in accordance with policies and procedures established
+by Wisconsin Law and applicable regulations.
+
+            "Default" shall mean any event which would constitute an Event of
+Default but for the requirement that notice be given or time elapse or both.
+
+            "Environmental Laws" means any Law, including any common law, which
+relates to or otherwise imposes liability or standards of conduct concerning
+discharges, emissions, releases or threatened releases of noises, odors or any
+pollutants, contaminants or hazardous or toxic wastes,
+
+                                       22
+<Page>
+
+substances or materials, into air, water or groundwater, or land, or otherwise
+relating to the manufacture, processing, generation, distribution, use,
+treatment, storage, disposal, cleanup, transport or handling of pollutants,
+contaminants, or hazardous or toxic wastes, substances or materials, including,
+but not limited to CERCLA as amended, the Resource Conservation and Recovery Act
+of 1976, as amended, the Toxic Substances Control Act of 1976, as amended, the
+Federal Water Pollution Control Act Amendments of 1972, the Clean Water Act of
+1977, as amended, the Oil Pollution Act of 1990, as amended, any so-called
+"Superlien" law, and any other similar Federal, state or local statutes.
+
+            "ERISA" shall mean the Employee Retirement Income Security Act of
+1974, as amended and as in effect from time to time.
+
+            "Event of Default" shall mean any Automatic Event of Default or any
+Notice Event of Default.
+
+            "Facilities" shall mean all real property and improvements now or
+hereafter owned or occupied by Borrower and its Material Insurance Subsidiaries
+in the conduct of its business.
+
+            "Financing Statements" shall mean Uniform Commercial Code financing
+statements related to the Collateral Documents.
+
+            "Fixed Charge Coverage Ratio" shall mean the relationship, expressed
+as a numerical ratio of:
+
+            (a)  the result of (i) operating income from continuing operations,
+PLUS (ii) to the extent deducted in the calculation of operating income from
+continuing operations, [A] interest expense, [B] depreciation and amortization
+expense, MINUS (iii) income tax expense, MINUS (iv) cash distributions paid to
+shareholders of the Borrower, PLUS (v) cash balances of the Borrower as of June
+30, 2002, PLUS (vi) to the extent not already included to the calculation of
+operating income from continuing operations, [A] cash proceeds from the issuance
+of equity interests of the Borrower arising solely from employee purchases
+through the employee 401k plan or as a result of the exercise of stock options,
+and [B] the aggregate of the cash dividends the Insurance Subsidiaries are
+permitted to pay to the Borrower as determined in accordance with restrictions
+established by the applicable state insurance commissioner or similar
+governmental authority; to
+
+            (b)  the sum of (i) interest expense, PLUS (ii) regularly scheduled
+principal payments (excluding any scheduled principal payments on the $7,500,000
+promissory note of the Borrower, dated as of December 31, 2002, and payable to
+M&I), PLUS (iii) the automatic reduction of the Revolving Credit Commitment when
+applicable,
+
+all as determined for the Borrower on a year to date basis until December 31,
+2002, and for the four quarter period preceding the date of determination
+thereafter, without duplication, and in accordance with GAAP applied on a
+consistent basis.
+
+            "GAAP" shall mean generally accepted accounting principles as in
+effect from time to time in the United States of America, applied by Borrower
+and its Subsidiaries on a basis consistent with the preparation of Borrower's
+most recent financial statements furnished to M&I pursuant to Section 3.2
+hereof.
+
+                                       23
+<Page>
+
+            "Indebtedness" shall mean all liabilities or obligations of Borrower
+or any Subsidiary, whether primary or secondary or absolute or contingent: (a)
+for borrowed money or for the deferred purchase price of property or services
+(excluding trade obligations incurred in the ordinary course of business, which
+are not the result of any borrowing); (b) as lessee under leases that have been
+or should be capitalized according to GAAP; (c) evidenced by notes, bonds,
+debentures or similar obligations; (d) under any guaranty or endorsement (other
+than in connection with the deposit and collection of checks in the ordinary
+course of business), and other contingent obligations to purchase, provide funds
+for payment, supply funds to invest in any Person, or otherwise assure a
+creditor against loss; or (e) secured by any Liens on assets of either Borrower
+or any Subsidiary, whether or not the obligations secured have been assumed by
+Borrower or any Subsidiary.
+
+            "Insurance Subsidiary" shall mean any Subsidiary which is engaged in
+the insurance business.
+
+            "Interbank Rate" shall mean with respect to any Revolving Credit
+Loan for any Interest Period, the rate per annum equal to the rate (rounded
+upwards, if necessary, to the nearest 1/16 of 1%) quoted as the rate at which
+dollar deposits in immediately available funds are offered on the first Business
+Day of each calendar month in the interbank Eurodollar market on or about 9:00
+A.M. Milwaukee time for a period of one (1) calendar month. Each such
+determination shall be conclusive and binding upon the parties hereto in the
+absence of demonstrable error. M&I currently uses the Knight Ridder Information
+Service to provide information with respect to the interbank Eurodollar market,
+but M&I may change the service providing such information at any time.
+
+            "Interbank Reserve Requirement" shall mean a percentage (expressed
+as a decimal) equal to the aggregate reserve requirements in effect on the first
+day of each calendar month (including all basic, supplemental, marginal and
+other reserves and taking into account any transitional adjustments or other
+scheduled changes in reserve requirements during each calendar month) specified
+for "Eurocurrency Liabilities" under Regulation D of the Board of Governors of
+the Federal Reserve System, or any other regulation of the Board of Governors
+which prescribes reserve requirements applicable to "Eurocurrency Liabilities"
+as presently defined in Regulation D, as then in effect, as applicable to the
+class or classes of banks of which M&I is a member. As of the date of this Loan
+Agreement, the Interbank Reserve Requirement is 0%.
+
+            "Interest Period" shall mean a period commencing on the first day of
+any calendar month and ending on the last day of that calendar month.
+
+            "Investment" shall mean: (a) any transfer or delivery of cash, stock
+or other property or value by such Person in exchange for Indebtedness, stock or
+any other security of another Person; (b) any loan, advance or capital
+contribution to or in any other Person; (c) any guaranty, creation or assumption
+of any liability or obligation of any other Person; and (d) any investment in
+any fixed property or fixed assets other than fixed properties and fixed assets
+acquired and used in the ordinary course of the business of that Person.
+
+                                       24
+<Page>
+
+            "Law" shall mean any federal, state, local or other law, rule,
+regulation or governmental requirement of any kind, and the rules, regulations,
+written interpretations and orders promulgated thereunder.
+
+            "Letters of Credit" shall mean any letters of credit which are now
+or at any time hereafter issued by M&I at the request and for the account of
+Borrower pursuant to this Loan Agreement and which have not expired or been
+revoked or terminated.
+
+            "LIBOR" shall mean an annual rate of interest equal to the Adjusted
+Interbank Rate, which rate shall change on the first day of each calendar month.
+Each change in any rate of interest computed by reference to LIBOR shall take
+effect on the first day of each calendar month.
+
+            "LIBOR Loan" shall mean a Revolving Credit Loan bearing interest at
+a rate determined by reference to LIBOR.
+
+            "Lien" shall mean, with respect to any asset: (a) any mortgage,
+pledge, lien, charge, security interest or encumbrance of any kind in respect of
+such asset; or (b) the interest of a vendor or lessor under any conditional sale
+agreement, financing lease or other title retention agreement relating to such
+asset.
+
+            "Loan Agreement" shall mean this Loan Agreement, together with the
+Exhibits and Schedules attached hereto, as the same shall be amended from time
+to time in accordance with the terms hereof.
+
+            "M&I" shall mean M&I Marshall & Ilsley Bank, a Wisconsin banking
+corporation.
+
+            "Material Insurance Subsidiary" shall mean an Insurance Subsidiary
+with a Statutory Capital and Surplus of greater than $5,000,000.
+
+            "NAIC" shall mean the National Association of Insurance
+Commissioners or any successor thereto, or in lieu thereof, any other
+association, agency or other organization performing advisory, coordination or
+other like functions among insurance departments, insurance commissioners and
+similar governmental authorities of the various states of the United States
+toward the promotion of uniformity in the practices of such governmental
+authorities.
+
+            "Notice Event of Default" shall mean any one or more of the
+following:
+
+                 (a)  Borrower shall fail: (i) to pay when due any installment
+            of the principal of the Revolving Credit Note; or (ii) to pay when
+            due any interest on the Revolving Credit Note, any fee, expense or
+            other amount due under this Loan Agreement, the Revolving Credit
+            Note and the Collateral Documents and such failure continues for
+            five days; or
+
+                 (b)  there shall be a default in the performance or observance
+            of any of the covenants and agreements contained in Article IV or
+            Sections 5.1, 5.2, 5.4, 5.6, 5.10, 5.13 or 5.14 of this Loan
+            Agreement; or
+
+                                       25
+<Page>
+
+                 (c)  there shall be a default in the performance or observance
+            of any of the other covenants, agreements or conditions contained in
+            this Loan Agreement, the Revolving Credit Note or the Collateral
+            Documents, and such default shall have continued for a period of
+            thirty (30) calendar days after written notice from M&I to Borrower
+            specifying such default and requiring it to be remedied; or
+
+                 (d)  any representation or warranty made by Borrower in this
+            Loan Agreement or in any document or financial statement delivered
+            pursuant to this Loan Agreement shall prove to have been false in
+            any material respect as of the time when made or given; or
+
+                 (e)  any final judgment shall be entered against Borrower or
+            any Subsidiary which, when aggregated with other final judgments
+            against Borrower and its Subsidiaries, exceeds $100,000 in amount,
+            and shall remain outstanding and unsatisfied, unbonded or unstayed
+            after sixty (60) days from the date of entry thereof; provided that
+            no final judgment shall be included in the calculation under this
+            subsection to the extent that the claim underlying such judgment is
+            covered by insurance and defense of such claim has been tendered to
+            and accepted by the insurer without reservation; or
+
+                 (f)  (i) any Reportable Event (as defined in ERISA) shall have
+            occurred which constitutes grounds for the termination of any Plan
+            by the PBGC or for the appointment of a trustee to administer any
+            Plan, or any Plan shall be terminated within the meaning of Title IV
+            of ERISA, or a trustee shall be appointed by the appropriate court
+            to administer any Plan, or the PBGC shall institute proceedings to
+            terminate any Plan or to appoint a trustee to administer any Plan,
+            or Borrower or any trade or business which together with Borrower
+            would be treated as a single employer under Section 4001 of ERISA
+            shall withdraw in whole or in part from a multi-employer Plan, and
+            (ii) the aggregate amount of Borrower's liability for all such
+            occurrences, whether to a Plan, the PBGC or otherwise, may exceed
+            $100,000, and such liability is not covered for the benefit of
+            Borrower or its Subsidiaries by insurance; or
+
+                 (g)  Borrower or any Subsidiary shall: (i) fail to pay any
+            amount of principal or interest when due (whether by scheduled
+            maturity, required prepayment, acceleration or otherwise) under any
+            Indebtedness (other than the Revolving Credit Note or as provided in
+            (h) below) in an aggregate amount of $100,000 or more and such
+            failure shall continue after the applicable grace period, if any,
+            specified in any agreement or instrument relating to such
+            Indebtedness; or (ii) fail to perform or observe any term, covenant
+            or condition on its part to be performed or observed under any
+            agreement or instrument relating to any such Indebtedness in an
+            aggregate amount of $100,000 or more when required to be performed
+            or observed, and such failure shall not be waived and shall continue
+            after the applicable grace period, if any, specified in such
+            agreement or instrument, if the effect of such failure to perform or
+            observe is to accelerate, or to permit acceleration of, with the
+            giving of notice if required, the maturity of such Indebtedness; or
+
+                                       26
+<Page>
+
+                 (h)  Borrower or any Subsidiary shall: (i) fail to pay any
+            amount of principal or interest when due (whether by scheduled
+            maturity, required prepayment, acceleration or otherwise) under any
+            Indebtedness to M&I (other than the Revolving Credit Note) and such
+            failure shall continue after the applicable grace period, if any,
+            specified in any agreement or instrument relating to such
+            Indebtedness; or (ii) fail to perform or observe any term, covenant
+            or condition on its part to be performed or observed under any
+            agreement or instrument relating to any such Indebtedness to M&I
+            when required to be performed or observed, and such failure shall
+            not be waived and shall continue after the applicable grace period,
+            if any, specified in such agreement or instrument, if the effect of
+            such failure to perform or observe is to accelerate, or to permit
+            acceleration of, with the giving of notice if required, the maturity
+            of such Indebtedness;
+
+                 (i)  Any license of any Material Insurance Subsidiary issued in
+            its state of domicile or in a state in which its earned premiums in
+            the prior fiscal year constituted 2% or more of its aggregate earned
+            premiums in such period (i) shall be revoked by the governmental
+            authority which issued such license, or any formal action
+            (administrative or judicial) to revoke such license shall have been
+            commenced against such Material Insurance Subsidiary and shall not
+            have been dismissed within 30 days after the commencement thereof,
+            (ii) shall be suspended by such governmental authority for a period
+            in excess of 30 days or (iii) shall not be reissued or renewed by
+            such governmental authority upon the expiration thereof following
+            application for such reissuance or renewal of such Material
+            Insurance Subsidiary;
+
+                 (j)  Any Insurance Subsidiary shall be the subject of a final
+            non-appealable order imposing a fine in an amount in excess of
+            $500,000 in any single instance or other such orders imposing fines
+            in excess of $2,000,000 in the aggregate after the date of this
+            Agreement by or at the request of any state insurance regulatory
+            agency as a result of the violation by such Insurance Subsidiary of
+            such state's applicable insurance laws of the regulations
+            promulgated in connection therewith;
+
+                 (k)  Any Insurance Subsidiary shall become subject to (i) any
+            conservation or liquidation order, directive or mandate issued by
+            any governmental authority or (ii) any other directive or mandate
+            issued by any governmental authority which is materially adverse to
+            such Insurance Subsidiary, which in either case is not stayed within
+            ten (10) days.
+
+            "Obligations" shall mean: (a) the outstanding principal of, and all
+interest on, the Revolving Credit Note, and any renewal, extension or
+refinancing thereof; (a) the undrawn face amount of all outstanding Letters of
+Credit; (c) all other debts, liabilities, obligations, covenants and agreements
+of Borrower contained in this Loan Agreement, the Collateral Documents and any
+Swap Agreements; and (d) any and all other debts, liabilities and obligations of
+Borrower to M&I.
+
+                                       27
+<Page>
+
+            "PBGC" shall mean Pension Benefit Guaranty Corporation or any entity
+succeeding to any or all of its functions under ERISA.
+
+            "Permitted Indebtedness" shall mean: (a) Indebtedness of Borrower to
+M&I; (b) purchase money Indebtedness secured by Purchase Money Liens, which
+Indebtedness shall not exceed $500,000 per year on a non-cumulative consolidated
+basis; (c) unsecured accounts payable and other unsecured obligations of
+Borrower or any Subsidiary incurred in the ordinary course of business of
+Borrower or any Subsidiary and not as a result of any borrowing; (d)
+Indebtedness owed by the Borrower to a Subsidiary or owed by a Subsidiary to the
+Borrower or another Subsidiary and constituting a Permitted Investment; and (e)
+Indebtedness existing on the Closing Date and set forth on Schedule 7.1 and
+refinancings thereof which does not increase the principal amount thereof or
+accelerate the amortization thereof.
+
+            "Permitted Investments" shall mean: (a) for the Borrower and each
+Subsidiary that is not an Insurance Subsidiary:
+
+                      (i)    Investments in insured savings accounts and
+                 certificates of deposit;
+
+                      (ii)   Investments in prime commercial paper, rated either
+                 P-1 by Moody's Investors Service or A-1 by Standard & Poor's
+                 Rating Services, or "local rated" commercial paper from M&I,
+                 maturing within one year of the date of acquisition;
+
+                      (iii)  Investments in obligations of a governmental body,
+                 rated "A" or better, maturing within one year of the date of
+                 acquisition;
+
+                      (iv)   Investments in money market instruments or funds;
+
+                      (v)    Investments in Subsidiaries and other Investments
+                 in existence on the Closing Date and, to the extent they
+                 consist of loans, refinancings thereof or amendments or
+                 modifications thereto which do not have the effect of
+                 increasing the principal amount thereof or accelerating the
+                 amortization thereof;
+
+                      (vi)   acquisitions of blocks of life, accident or health
+                 insurance business through assumptive reinsurance, coinsurance
+                 or indemnity reinsurance, so long as the only consideration
+                 paid in connection therewith consists of (A) premiums sharing
+                 and (B) payments of up to $5,000,000 in the aggregate after the
+                 date hereof; and
+
+                      (vii)  acquisitions of businesses or entities engaged in
+                 the life, accident and health insurance business which do not
+                 constitute hostile takeovers, that maintain a rating by A.M.
+                 Best & Co. of B++ or better (and Investments in Subsidiaries
+                 formed to acquire such businesses or acquired after the date of
+                 this Agreement), and, if an acquisition of stock, the
+                 outstanding stock of which is pledged to M&I upon M&I's request
+                 (subject to obtaining regulatory approval for any such pledge
+                 that the
+
+                                       28
+<Page>
+
+                 Borrower shall use its commercially reasonable efforts to
+                 obtain), and made after the Closing Date for an aggregate
+                 consideration not to exceed $10,000,000 (including the amount
+                 of any consideration paid in connection with reinsurance
+                 transactions).
+
+            and (b) in addition for each Insurance Subsidiary:
+
+                      (i)    Investments in debt securities rated BBB- or better
+                 by S&P, Baa-3 or better by Moody's or NAIC-2 or better by the
+                 NAIC; provided, that any such Investment which, at any time
+                 after which it is made, ceases to meet such rating requirements
+                 shall cease to be a Permitted Investment under this Clause
+                 (b)(i); and
+
+                      (ii)   Other Investments of a quality acceptable to the
+                 insurance commissioner in the respective domiciliary state of
+                 such Insurance Subsidiary not otherwise permitted under this
+                 definition; provided, that such Investments (excluding all
+                 Investments comprised of capital stock of American Medical
+                 Security Group, Inc. and the Borrower owned by Blue Cross &
+                 Blue Shield United of Wisconsin) of (A) each such Insurance
+                 Subsidiary that is a Material Insurance Subsidiary do not
+                 exceed, in the aggregate at any one time outstanding, 20% of
+                 the Statutory Capital and Surplus of such Material Insurance
+                 Subsidiary or (B) all other Insurance Subsidiaries as a group,
+                 if such other Insurance Subsidiaries have an aggregate
+                 Statutory Capital and Surplus in excess of $5,000,000, do not
+                 exceed 20% of such aggregate Statutory Capital and Surplus.
+
+            "Permitted Liens" shall mean:
+
+                 (a)  Liens in favor of M&I;
+
+                 (b)  Liens for taxes, assessments, or governmental charges, or
+            levies that are not yet due and payable or that are being contested
+            in good faith by appropriate proceedings and for which adequate
+            reserves have been established;
+
+                 (c)  easements, restrictions, minor title irregularities and
+            similar matters which have no material adverse effect as a practical
+            matter upon the ownership and use of the affected property;
+
+                 (d)  Liens or deposits in connection with workmen's
+            compensation, unemployment insurance, social security, ERISA or
+            similar legislation or to secure customs' duties, public or
+            statutory obligations in lieu of surety, stay or appeal bonds, or to
+            secure performance of contracts or bids (other than contracts for
+            the payment of borrowed money) or deposits required by law as a
+            condition to the transaction of business or other liens or deposits
+            of a like nature made in the ordinary course of business;
+
+                 (e)  Purchase Money Liens securing purchase money Indebtedness
+            which is permitted hereunder; and
+
+                                       29
+<Page>
+
+                 (f)  deposits made by any Insurance Subsidiary with the
+            insurance regulatory authority in its jurisdiction of domicile or
+            other statutory Liens or Liens or claims imposed or required by
+            applicable insurance law or regulation against the assets of any
+            Insurance Subsidiary, in each case in favor of all policy holders of
+            such Insurance Subsidiary and in the ordinary course of such
+            Insurance Subsidiary's business.
+
+                 (g)  Liens set forth on Schedule 7.1.
+
+            "Person" shall mean and include an individual, partnership, limited
+liability entity, corporation, trust, unincorporated association and any unit,
+department or agency of government.
+
+            "Plan" shall mean each pension, profit sharing, stock bonus, thrift,
+savings and employee stock ownership plan established or maintained, or to which
+contributions have been made, by Borrower or any Subsidiary or any trade or
+business which together with Borrower or any Subsidiary would be treated as a
+single employer under Section 4001 of ERISA.
+
+            "Pledge Agreement" shall mean the Pledge Agreement between Borrower
+and M&I, in substantially the form of EXHIBIT C attached to this Loan Agreement
+
+            "Prime Rate" shall mean the rate of interest adopted by M&I from
+time to time as its base rate for interest determinations.
+
+            "Prime Rate Loan" shall mean a Revolving Credit Loan bearing
+interest at a rate determined by reference to the Prime Rate.
+
+            "Purchase Money Liens" shall mean Liens securing purchase money
+Indebtedness incurred in connection with the acquisition of capital assets by
+Borrower or any Subsidiary in the ordinary course of business, provided that
+such Liens do not extend to or cover assets or properties other than those
+purchased in connection with the purchase in which such Indebtedness was
+incurred and that the obligation secured by any such Lien so created shall not
+exceed one hundred percent (100%) of the cost of the property covered thereby.
+
+            "Quarterly Statement" shall mean the quarterly statutory financial
+statement of any Insurance Subsidiary required to be filed with the insurance
+commissioner (or similar authority) of its jurisdiction of incorporation or, if
+no specific form is so required, in the form of financial statements permitted
+by such insurance commissioner (or such similar authority) to be used for filing
+quarterly statutory financial statements and shall contain the type of financial
+information permitted by such insurance commissioner (or such similar authority)
+to be disclosed therein, together with all exhibits or schedules filed
+therewith.
+
+            "Revolving Credit Commitment" shall mean the commitment of M&I to
+make Revolving Credit Loans to Borrower up to a maximum principal amount
+outstanding from time to time, (a) during the period from the Closing Date
+through the first anniversary thereof, equal to Thirty Million Dollars
+($30,000,000) minus the undrawn face amount of outstanding Letters of Credit,
+(b) during the period following the first anniversary of the Closing date
+through the second anniversary thereof, equal to Twenty-Five Million Dollars
+($25,000,000) minus the
+
+                                       30
+<Page>
+
+undrawn face amount of outstanding Letters of Credit, and (c) during the period
+from the second anniversary of the Closing Date through the Revolving Credit
+Termination Date, equal to Fifteen Million Dollars ($15,000,000) minus the
+undrawn face amount of outstanding Letters of Credit.
+
+            "Revolving Credit Loans" shall mean the loans made from time to time
+to Borrower by M&I pursuant to Section 1.1 of this Loan Agreement.
+
+            "Revolving Credit Note" shall mean a promissory note from Borrower
+to M&I evidencing the Revolving Credit Loans and in substantially the form of
+EXHIBIT D attached to this Loan Agreement, as such note may be extended, renewed
+or refinanced from time to time.
+
+            "Revolving Credit Termination Date" shall mean the earlier of: (a)
+the third anniversary of the Closing Date; and (b) the date that the Revolving
+Credit Commitment is terminated pursuant to Section 6.1 of this Loan Agreement.
+
+            "SAP" shall mean, with respect to any Insurance Subsidiary, the
+statutory accounting practices prescribed or permitted by the insurance
+commissioner (or other similar authority) in the jurisdiction of such Insurance
+Subsidiary for the preparation of annual statements and other financial reports
+by insurance companies of the same type as such Insurance Subsidiary in effect
+from time to time, consistently applied.
+
+            "Statutory Capital and Surplus" shall mean, with respect to any
+Insurance Subsidiary at any time, the capital and surplus of such Insurance
+Subsidiary at such time, as determined in accordance with SAP ("Liabilities,
+Surplus and Other Funds" statement, Page 3, Column 1, Line 38 of the Annual
+Statement) for a Subsidiary which is a life insurance company, Page 3, Column 1,
+Line 32 of the Annual Statement for a Subsidiary which is a property and
+casualty insurance company; and Page 3, Column 3, Line 26 of the Annual
+Statement for a Subsidiary which is a health insurance company, as such
+references may change from the 2001 annual statements.
+
+            "Statutory Net Income" shall mean, with respect to any Insurance
+Subsidiary for any computation period, the net income earned by such Insurance
+Subsidiary during such period, as determined in accordance with SAP ("Summary of
+Operations" statement, Page 4, Column 1, Line 33 of the Annual Statement) for a
+Subsidiary which is a life insurance company; "Underwriting and Investment
+Exhibit--Statement of Income" statement, Page 4, Column 1, Line 19 for a
+Subsidiary which is a property and casualty insurance company; and "Statement of
+Revenue and Expenses: statement, Page 4, Column 2, Line 29 for a Subsidiary
+which is a health insurance company, as such references may change from the 2001
+annual statements.
+
+            "Subsidiary" shall mean any corporation, more than fifty percent
+(50%) of the outstanding stock of which (of any class or classes, however
+designated, having ordinary voting power for the election of at least a majority
+of the members of the board of directors of such corporation, other than stock
+having such power only by reason of the happening of a contingency) shall at all
+time be owned by Borrower directly or through one or more Subsidiaries.
+
+            "Swap Agreement" shall mean any agreement governing any transaction
+now existing or hereafter entered into between the Borrower and M&I or any of
+M&I's subsidiaries
+
+                                       31
+<Page>
+
+or affiliates or their successors, which is a rate swap, basis swap, forward
+rate transaction, commodity swap, commodity option, equity or equity index swap,
+equity or equity index option, bond option, interest rate option, foreign
+exchange transaction, cap transaction, floor transaction, collar transaction,
+forward transaction, currency swap transaction, cross-currency rate swap
+transaction, currency option or any other similar transaction (including any
+option with respect to any of these transactions) or any combination thereof,
+whether linked to one or more interest rates, foreign currencies, commodity
+prices, equity prices or other financial measures.
+
+            "Tangible Net Worth" shall mean the Borrower's total consolidated
+shareholder's equity (including capital stock, paid-in-capital and retained
+earnings after deducting treasury stock, but excluding all unrealized gains or
+losses on the capital stock of American Medical Security Group, Inc.) MINUS the
+book amount of all assets treated as intangibles (including goodwill, deferred
+acquisition costs and unamortized financing costs), all as determined for the
+Borrower and its Subsidiaries on a consolidated basis as of the date of
+determination, without duplication, and in accordance with GAAP applied on a
+consistent basis.
+
+     7.2    INTERPRETATION. The foregoing definitions are equally applicable to
+both the singular and plural forms of the terms defined. The words "hereof",
+"herein", and "hereunder" as words of like import when used in this Loan
+Agreement shall refer to this Loan Agreement as a whole and not to any
+particular provision of this Loan Agreement. Where the character or amount of
+any asset or liability or item of income or expense is required to be determined
+or any consolidation or other accounting computation is required to be made for
+the purposes of this Loan Agreement, it shall be done in accordance with GAAP or
+SAP, as applicable, except where such principles are inconsistent with the
+specific provisions of this Loan Agreement.
+
+                                    ARTICLE 8
+
+                                  MISCELLANEOUS
+
+     8.1    EXPENSES AND ATTORNEYS' FEES. Borrower shall pay all reasonable fees
+and expenses incurred by M&I and any loan participants, including the reasonable
+fees of counsel, in connection with the preparation, issuance, maintenance and
+amendment of this Loan Agreement, the Revolving Credit Note and the Collateral
+Documents and the consummation of the transactions contemplated by this Loan
+Agreement, and the administration, protection and enforcement of M&I's rights
+under this Loan Agreement, the Revolving Credit Note and the Collateral
+Documents, or with respect to the Collateral, including without limitation the
+protection and enforcement of such rights in any bankruptcy, reorganization or
+insolvency proceeding involving Borrower, both before and after judgment.
+Borrower further agrees to pay on demand all internal audit fees and
+accountants' fees incurred by M&I in connection with the maintenance (limited to
+$2,000 per year prior to a Default or an Event of Default) and enforcement of
+this Loan Agreement, the Revolving Credit Note, the Collateral Documents or any
+other collateral security.
+
+     8.2    ASSIGNABILITY; SUCCESSORS. Borrower's rights and liabilities under
+this Loan Agreement are not assignable or delegable, in whole or in part,
+without the prior written consent of M&I. The provisions of this Loan Agreement
+shall inure to the benefit of and be binding upon the permitted successors and
+assigns of the parties.
+
+                                       32
+<Page>
+
+     8.3    SURVIVAL. All agreements, representations and warranties made in
+this Loan Agreement or in any document delivered pursuant to this Loan Agreement
+shall survive the execution and delivery of this Loan Agreement, the issuance of
+the Revolving Credit Note and the delivery of any such document.
+
+     8.4    GOVERNING LAW. This Loan Agreement, the Revolving Credit Note, the
+Collateral Documents and the other instruments, agreements and documents issued
+pursuant to this Loan Agreement shall be governed by, and construed and
+interpreted in accordance with, the Laws of the State of Wisconsin applicable to
+agreements made and wholly performed within such state.
+
+     8.5    COUNTERPARTS; HEADINGS. This Loan Agreement may be executed in
+several counterparts, each of which shall be deemed an original, but such
+counterparts shall together constitute but one and the same agreement. The table
+of contents and article and section headings in this Loan Agreement are inserted
+for convenience of reference only and shall not constitute a part of this Loan
+Agreement.
+
+     8.6    ENTIRE AGREEMENT. This Loan Agreement, the Revolving Credit Note,
+the Collateral Documents and the other documents referred to herein and therein
+contain the entire understanding of the parties with respect to the subject
+matter hereof. There are no restrictions, promises, warranties, covenants or
+undertakings other than those expressly set forth in this Loan Agreement. This
+Loan Agreement supersedes all prior negotiations, agreements and undertakings
+between the parties with respect to such subject matter.
+
+     8.7    NOTICES. All communications or notices required or permitted by this
+Loan Agreement shall be in writing and shall be deemed to have been given: (a)
+upon delivery if hand delivered; or (b) two (2) Business Days following deposit
+in the United States mail, postage prepaid, or with a nationally recognized
+overnight commercial carrier, airbill prepaid; or (c) upon transmission if by
+facsimile, and each such communication or notice shall be addressed as follows,
+unless and until any party notifies the other in accordance with this Section
+8.7 of a change of address:
+
+            If to Borrower:               Cobalt Corporation
+                                          401 West Michigan Avenue
+                                          Milwaukee, WI  53203
+                                          Attention:  Gail Hanson
+                                          Fax No.:  (414) 226-6229
+
+            If to M&I:                    M&I Marshall & Ilsley Bank
+                                          770 North Water Street
+                                          Milwaukee, WI 53202
+                                          Attention:  Thomas F. Bickelhaupt
+                                          Fax No.:  (414) 765-7625
+
+                                          with a copy to:
+
+                                          Quarles & Brady LLP
+                                          411 East Wisconsin Avenue
+                                          Milwaukee, Wisconsin 53202
+
+                                       33
+<Page>
+
+                                          Attention:  Ann M. Murphy
+                                          Fax No.:  (414) 271-3552
+
+     8.8    AMENDMENT. No amendment of this Loan Agreement shall be effective
+unless in writing and signed by Borrower and M&I.
+
+     8.9    TAXES. If any transfer or documentary taxes, assessments or charges
+levied by any governmental authority shall be payable by reason of the
+execution, delivery or recording of this Loan Agreement, the Revolving Credit
+Note, the Collateral Documents or any other document or instrument issued or
+delivered pursuant to this Loan Agreement, Borrower shall pay all such taxes,
+assessments and charges, including interest and penalties (except to the extent
+such interest or penalty is due to M&I's negligence), and hereby indemnifies M&I
+against any liability therefor.
+
+     8.10   SEVERABILITY. Any provision of this Loan Agreement which is
+prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction,
+be ineffective to the extent of such prohibition or unenforceability without
+invalidating the remaining provisions of this Loan Agreement in such
+jurisdiction or affecting the validity or enforceability of any provision in any
+other jurisdiction.
+
+     8.11   INDEMNIFICATION. Borrower hereby indemnifies, agrees to defend and
+holds M&I harmless from and against all loss, liability, damage and expense,
+including reasonable costs associated with administrative and judicial
+proceedings and reasonable attorneys' fees, suffered or incurred by M&I on
+account of: (i) Borrower's or any Subsidiary's failure to comply with any
+Environmental Law, or any order of any regulatory or administrative authority
+with respect thereto; (ii) any release of petroleum products or hazardous
+materials or substances on, upon or into real property owned, operated or
+controlled by Borrower or any Subsidiary; and (iii) any and all damage to
+natural resources or real property or harm or injury to Persons resulting or
+alleged to have resulted from any failure to comply or any release of petroleum
+products or hazardous materials or substances as described in clauses (i) and
+(ii) above. All indemnities set forth in this Loan Agreement shall survive the
+execution and delivery of this Loan Agreement and the Revolving Credit Note and
+the making and repayment of the Revolving Credit Loans.
+
+     8.12   PARTICIPATION. The M&I may, at any time and from time to time, grant
+to any bank or banks a participation in any part of the Revolving Credit Loans.
+All of the representations, warranties and covenants of Borrower in this Loan
+Agreement are also made to any participant with the same force and effect as if
+expressly so made.
+
+     8.13   INCONSISTENT PROVISIONS. The provisions of the Collateral Documents,
+Revolving Credit Note and this Loan Agreement are not intended to supersede the
+provisions of each other or this Loan Agreement, but shall be construed as
+supplemental to this Loan Agreement and to each other. In the event of any
+inconsistency between the provisions of the Collateral Documents, the Revolving
+Credit Note and this Loan Agreement, it is intended that the provisions of this
+Loan Agreement shall control.
+
+     8.14   WAIVER OF RIGHT TO JURY TRIAL. M&I AND BORROWER ACKNOWLEDGE AND
+AGREE THAT ANY CONTROVERSY WHICH MAY ARISE
+
+                                       34
+<Page>
+
+UNDER THIS LOAN AGREEMENT AND THE COLLATERAL DOCUMENTS OR WITH RESPECT TO THE
+TRANSACTION CONTEMPLATED HEREBY AND THEREBY WOULD BE BASED UPON DIFFICULT AND
+COMPLEX ISSUES AND, THEREFORE, THE PARTIES AGREE THAT ANY LAWSUIT ARISING OUT OF
+ANY SUCH CONTROVERSY SHALL BE TRIED IN A COURT OF COMPETENT JURISDICTION BY A
+JUDGE SITTING WITHOUT A JURY.
+
+     8.15   TIME OF ESSENCE. TIME IS OF THE ESSENCE FOR THE PERFORMANCE BY
+BORROWER OF THE OBLIGATIONS SET FORTH IN THIS LOAN AGREEMENT AND THE COLLATERAL
+DOCUMENTS.
+
+     8.16   SUBMISSION TO JURISDICTION; SERVICE OF PROCESS. AS A MATERIAL
+INDUCEMENT TO M&I TO ENTER INTO THIS LOAN AGREEMENT:
+
+                 (a)  THE BORROWER AGREES THAT ALL ACTIONS OR PROCEEDINGS IN ANY
+            MANNER RELATING TO OR ARISING OUT OF THIS AGREEMENT OR THE OTHER
+            COLLATERAL DOCUMENTS MAY BE BROUGHT ONLY IN COURTS OF THE STATE OF
+            WISCONSIN LOCATED IN MILWAUKEE COUNTY OR THE FEDERAL COURT FOR THE
+            EASTERN DISTRICT OF WISCONSIN AND THE BORROWER CONSENTS TO THE
+            JURISDICTION OF SUCH COURTS. THE BORROWER WAIVES ANY OBJECTION IT
+            MAY NOW OR HEREAFTER HAVE TO THE VENUE OF ANY SUCH COURT AND ANY
+            RIGHT IT MAY HAVE NOW OR HEREAFTER HAVE TO CLAIM THAT ANY SUCH
+            ACTION OR PROCEEDING IS IN AN INCONVENIENT COURT; and
+
+                 (b)  The Borrower consents to the service of process in any
+            such action or proceeding by certified mail sent to the address
+            specified in Section 8.7.
+
+                 (c)  Nothing contained herein shall affect the right of M&I to
+            serve process in any other manner permitted by law or to commence an
+            action or proceeding in any other jurisdiction.
+
+                                       35
+<Page>
+
+            IN WITNESS WHEREOF, the parties hereto have executed this Loan
+Agreement as of the day and year first above written.
+
+                                    COBALT CORPORATION
+
+
+                                    By: /s/ Thomas R. Hefty
+                                       -----------------------
+                                      Its: Chairman & CEO
+                                          --------------------
+
+                                    By: /s/ Gail L. Hanson
+                                       -----------------------
+                                      Its: Sr VP & Treasurer
+                                          --------------------
+
+
+                                    M&I MARSHALL & ILSLEY BANK
+
+
+                                    By: /s/ Thomas F. Bickelhaup
+                                       -------------------------
+                                      Its: Vice President
+                                          --------------------
+
+
+                                    By: /s/ Ann M. Benschoter
+                                       -----------------------
+                                      Its: S.V.P.
+                                          --------------------
+
+                                       36
+
+</TEXT>
+</DOCUMENT>

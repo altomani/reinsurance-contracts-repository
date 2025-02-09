@@ -1,13 +1,13 @@
 <DOCUMENT>
-<TYPE>EX-10.15
-<SEQUENCE>3
-<FILENAME>dex1015.txt
-<DESCRIPTION>REINSURANCE TREATY
+<TYPE>EX-10.16
+<SEQUENCE>4
+<FILENAME>dex1016.txt
+<DESCRIPTION>VALUE PLAN REINSURANCE TREATY
 <TEXT>
 <PAGE>
 
 
-                       AMERINST INSURANCE COMPANY LIMITED
+                               VALUE PLAN POLICIES
                        ACCOUNTANTS PROFESSIONAL LIABILITY
                                QUOTA SHARE TREATY
                   (hereinafter referred to as the "Agreement")
@@ -17,17 +17,17 @@
                                     issued to
 
                           Continental Casualty Company
-                                Chicago, Illinois
+                               Chicago, Illinois
                    (hereinafter referred to as the "Company")
 
                                        by
 
                        AmerInst Insurance Company Limited
-                                Hamilton, Bermuda
+                               Hamilton, Bermuda
                   (hereinafter referred to as the "Reinsurer")
 
-ARTICLE 1- DEFINITION OF COMPANY
---------------------------------
+ARTICLE 1 - DEFINITION OF COMPANY
+---------------------------------
 
 As respects the use of "Company" within this Agreement, it is understood and
 agreed that Company shall mean the insurance companies owned directly or
@@ -53,18 +53,18 @@ ARTICLE 2 - BUSINESS COVERED
 
 The Company agrees to cede and the Reinsurer agrees to accept a 10% quota share
 of the Company's net retained liability on policies classified by the Company as
-Accountants Professional Liability for members of the American Institute of
-Certified Public Accountants,
+Value Plan
 
-Accountants Professional Liability
+Value Plan Accountants Professional Liability
 AmerInst - Bermuda at January 1, 2002
-Page 1 of 14
+Page 1 of 15
 
 <PAGE>
 
-written or renewed with an effective date on or after the inception of this
-Agreement, subject to the following terms, conditions and exclusions. Value Plan
-policies are excluded hereunder.
+Accountants Professional Liability for members of the American Institute of
+Certified Public Accountants, written or renewed with an effective date on or
+after the inception of this Agreement, subject to the following terms,
+conditions and exclusions.
 
 ARTICLE 3 - TERM AND CANCELLATION
 ---------------------------------
@@ -103,24 +103,24 @@ ARTICLE 4 - QUOTA SHARE PARTICIPATION
 The Company shall cede and the Reinsurer shall accept 10% of the Company's net
 retained liability from each policy covered hereunder for each loss or annual
 aggregate where applicable. However, the Reinsurers' share of the Company's net
-liability shall not be more than 10% of $1,000,000 each covered policy for each
-claim or annual aggregate where applicable.
+liability shall not be more than 10% of each covered policy for each claim or
+annual aggregate where applicable.
 
 In the event that a loss covered hereunder involves more than one of the
 Company's policies, this Agreement shall provide coverage for each and every
 policy in such loss.
+
+Value Plan Accountants Professional Liability
+AmerInst- Bermuda at January 1, 2002
+Page 2 of 15
+
+<PAGE>
 
 In addition, as respects each loss, the Reinsurer agrees to pay a 10% quota
 share of up to $1,000,000 of any Excess of Original Policy Limit (as provided
 for in Article 10); and, in addition as respects each loss, the Reinsurer agrees
 to pay a 10% quota share of up to $1,000,000 of any Extra Contractual Obligation
 (as provided for in Article 11).
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 2 of 14
-
-<PAGE>
 
 ARTICLE 5 - TERRITORY
 ---------------------
@@ -167,16 +167,20 @@ E.   all liability of the Company arising by contract, operation of law, or
      for any assessment of or payment or assumption by the Company of part or
      all of any claim, debt, charge, fee or other obligation of an insurer, or
      its successors or assigns, which has been declared by any competent
-     authority to be insolvent, or which is otherwise deemed unable to meet any
-     claim, debt, charge, fee or other obligation in whole or in part.
+     authority to be insolvent, or which is
 
-F.   Value Plan policies.
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1,2002
-Page 3 of 14
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 3 of 15
 
 <PAGE>
+
+     otherwise deemed unable to meet any claim, debt, charge, fee or other
+     obligation in whole or in part.
+
+F.   Any policy, other than Value Plan policies, classified by the Company as
+     Accountants Professional Liability for members of the American Institute of
+     Certified Public Accountants.
 
 ARTICLE 8 - DEFINITIONS
 -----------------------
@@ -188,7 +192,7 @@ or following one event.
 
 The term "net retained liability" means the remaining portion of the Company's
 gross liability on each policy reinsured under this Agreement after deduction of
-all Facultative Reinsurance which inures to the Company's sole benefit.
+all Facultative Reinsurance which insures to the Company's sole benefit.
 
 The term "policies" as used herein means the Company's binders, policies and
 contracts providing insurance on the business covered under this Agreement. A
@@ -219,22 +223,24 @@ under policies reinsured hereunder, including court costs, interest accrued
 prior to final judgment if included as expense on reinsured policies, and
 interest accrued after final judgment, but excluding internal office expenses,
 salaries, per diem, and other remuneration of regular Company employees.
-However, in the event a verdict or judgment is reduced by an appeal or a
-settlement, subsequent to the entry of the judgment, resulting in an ultimate
-saving on such verdict or judgment, or a judgment is reversed outright, the
-expense incurred in securing such final reduction or reversal will be prorated
-between the Reinsurer and the Company in the proportion that each benefits from
-such reduction or reversal, and the expenses incurred up to the time of the
-original verdict or judgment will be (a) pro rated in proportion to each party's
-interest in such verdict or judgment, or (b) when the terms and conditions of
-the Company's original policies reinsured hereunder include expense as part of
-the policy limit, be added to the Company's loss.
+However, in the event a verdict or
 
-Accountants Professional Liability
+Value Plan Accountants Professional Liability
 AmerInst - Bermuda at January 1, 2002
-Page 4 of 14
+Page 4 of 15
 
 <PAGE>
+
+judgment is reduced by an appeal or a settlement, subsequent to the entry of the
+judgment, resulting in an ultimate saving on such verdict or judgment, or a
+judgment is reversed outright, the expense incurred in securing such final
+reduction or reversal will be prorated between the Reinsurer and the Company in
+the proportion that each benefits from such reduction or reversal, and the
+expenses incurred up to the time of the original verdict or judgment will be (a)
+pro rated in proportion to each party's interest in such verdict or judgment, or
+(b) when the terms and conditions of the Company's original policies reinsured
+hereunder include expense as part of the policy limit, be added to the Company's
+loss.
 
 Regardless of whether or not the policy reinsured hereunder includes loss
 expenses within the limit of liability, in addition, the Reinsurer shall bear
@@ -254,10 +260,8 @@ by it to settle within the policy limit or by reason of alleged or actual
 negligence, fraud or bad faith in rejecting an offer of settlement or in the
 preparation of the defense or in the trial of any action against its insured or
 reinsured or in the preparation or prosecution of an appeal consequent upon such
-action.
-
-However, this Article shall not apply where the loss has been incurred due to
-fraud by a member of the Board of Directors or a corporate officer of the
+action. However, this Article shall not apply where the loss has been incurred
+due to fraud by a member of the Board of Directors or a corporate officer of the
 Company acting individually or collectively or in collusion with any individual
 or corporation or any other organization or party involved in the presentation,
 defense or settlement of any claim covered hereunder.
@@ -277,9 +281,16 @@ covered under any other provision of this Agreement and which arise from the
 handling of any claim on business covered hereunder, such liabilities arising
 because of, but not limited to, the following: failure by the Company to settle
 within the policy limit, or by reason of alleged or actual negligence, fraud or
-bad faith in rejecting an offer of settlement or in preparation of the defense
-or in trial of any action against its insured or reinsured or in the preparation
-or prosecution of an appeal consequent upon such action.
+bad faith in rejecting an offer of settlement or in preparation of
+
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 5 of 15
+
+<PAGE>
+
+the defense or in trial of any action against its insured or reinsured or in the
+preparation or prosecution of an appeal consequent upon such action.
 
 The date on which any Extra Contractual Obligation loss is incurred by the
 Company shall be deemed, in all circumstances, to be the date of the original
@@ -292,19 +303,13 @@ Company acting individually or collectively or in collusion with any individual
 or corporation or any other organization or party involved in the presentation,
 defense or settlement of any loss covered hereunder.
 
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 5 of 14
-
-<PAGE>
-
 ARTICLE 12 - PREMIUM
 --------------------
 
 The Company shall pay to the Reinsurer 10% of the Company's Original Gross
-Premium for up to $1,000,000 of policy limits ceded for each new or renewal
-policy written during the period this Agreement is in effect, in respect to its
-net retained liability on the business covered hereunder.
+Premium for policy limits ceded for each new or renewal policy written during
+the period this Agreement is in effect, in respect to its net retained liability
+on the business covered hereunder.
 
 The term "Original Gross Premium" means the total of the gross premiums written,
 plus deposits and additions, less cancellations and returns, by the Company on
@@ -333,6 +338,12 @@ A.   Within 15 days after the end of each calendar quarter, the Company shall
      1.   Ceded net written premium for the quarter, less return premium
           adjusted for ceding commission received during the quarter;
 
+Value Plan Accountants Professional Liability
+AmerInst- Bermuda at January 1, 2002
+Page 6 of 15
+
+<PAGE>
+
      2.   Ceding commission thereon;
 
      3.   Ceded losses and loss adjustment expenses paid during this quarter.
@@ -346,12 +357,6 @@ A.   Within 15 days after the end of each calendar quarter, the Company shall
 B.   Within 30 days after each calendar quarter, the Company shall report to the
      Reinsurer the ceded unearned premiums and ceded outstanding loss reserves
      as of the end of the calendar quarter.
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 6 of 14
-
-<PAGE>
 
 C.   Annually the Company shall furnish the Reinsurer with such information as
      the Reinsurer may require to complete its Annual Convention Statement.
@@ -386,6 +391,12 @@ Reinsurer that are overdue as provided in the Interest Penalty Article of this
 Agreement or b) the Reinsurer has funded all balances due hereunder in an
 interest bearing trust fund or with a Letter of Credit as hereinafter provided.
 
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 7 of 15
+
+<PAGE>
+
 Should the Reinsurer choose option b) of the foregoing paragraph, the Reinsurer
 agrees to provide the Company a Trust Agreement established at Morgan Guaranty
 Trust Company of New York, New York, or at a mutually agreed successor Trustee,
@@ -406,12 +417,6 @@ Any inadvertent delay, omission or error shall not be held to relieve either
 party hereto from any liability or duty which would attach to it hereunder if
 such delay, omission, or error had not been made, provided such omission or
 error is rectified as soon as possible after discovery.
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 7 of 14
-
-<PAGE>
 
 ARTICLE 19 - TAXES
 ------------------
@@ -437,6 +442,12 @@ In the event of any return of premium becoming due hereunder, the Reinsurer will
 deduct the same applicable percentage from the return premium payable hereon and
 the Company, or its agent, is responsible for recovering the tax from the U.S.
 government.
+
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 8 of 15
+
+<PAGE>
 
 ARTICLE 21 - INTEREST PENALTY
 -----------------------------
@@ -466,17 +477,9 @@ D.   Failure by the Reinsurer or the Company to comply with their respective
                 -----------------------
      date a remittance becomes due, plus 1 % per annum, to be compounded and
      adjusted quarterly. Any interest that occurs pursuant to this Article shall
-     be calculated by the party to which it is
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 8 of 14
-
-<PAGE>
-
-     owed. The accumulation of the number of days that any payment is past due
-     will stop on the date that the Intermediary, where applicable, receives
-     payment.
+     be calculated by the party to which it is owed. The accumulation of the
+     number of days that any payment is past due will stop on the date that the
+     intermediary, where applicable, receives payment.
 
 E.   The validity of any claim or payment may be contested under the provisions
      of this Agreement. To the extent the debtor party prevails in whole or part
@@ -494,6 +497,12 @@ G.   Any interest which occurs pursuant to this Article may be waived by the
      such interest shall not affect the waiving party's rights to similar
      interest for any other failure by the other party to make payment when due
      under this Article.
+
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 9 of 15
+
+<PAGE>
 
 H.   Nothing in this Article shall diminish any legal remedies that either party
      may have against the other.
@@ -528,12 +537,6 @@ of conservation or liquidation to the extent of a pro rata share of the benefit
 which may accrue to the Company as a result of the defense undertaken by the
 Reinsurer.
 
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 9 of 14
-
-<PAGE>
-
 As to all reinsurance made, ceded, renewed or otherwise becoming effective under
 this Agreement, the reinsurance shall be payable as set forth above by the
 Reinsurer to the Company or to its liquidator, receiver, conservator or
@@ -548,6 +551,12 @@ Company, with the prior approval of the certificate of assumption on New York
 risks by the Superintendent of Insurance of the State of New York, is entirely
 released from its obligation and the Reinsurer pays any loss directly to payees
 under such policy.
+
+Value Plan Accountants Professional Liability
+AmerInst- Bermuda at January 1, 2002
+Page 10 of 15
+
+<PAGE>
 
 ARTICLE 24 - FUNDING OF RESERVES
 --------------------------------
@@ -587,12 +596,6 @@ of the Company including, without limitation, any liquidator, rehabilitator,
 receiver or conservator of the Company for the following purposes, unless
 otherwise provided for in a separate Trust Agreement:
 
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 10 of 14
-
-<PAGE>
-
 A.   to reimburse the Company for the Reinsurer's Obligations, the payment of
      which is due under the terms of this Agreement and which has not been
      otherwise paid;
@@ -604,6 +607,12 @@ C.   to fund an account with the Company for the Reinsurer's Obligations. Such
      cash deposit shall be held in an interest bearing account separate from the
      Company's other assets, and interest thereon not in excess of the prime
      rate shall accrue to the benefit of the Reinsurer.
+
+Value Plan Accountants Professional Liability
+AmerInst- Bermuda at January 1, 2002
+Page 11 of 15
+
+<PAGE>
 
 In the event the amount drawn by the Company on any trust agreement and/or
 Letter of Credit is in excess of the actual amount required for A) or C), the
@@ -644,12 +653,6 @@ York as respects suits instituted in New York. This Article is not intended to
 conflict with nor override the parties obligation to arbitrate their disputes in
 accordance with the Arbitration Article.
 
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 11 of 14
-
-<PAGE>
-
 It is agreed that in the event of the failure of the Reinsurer hereon to pay any
 amount claimed to be due hereunder, the Reinsurer hereon, at the request of the
 Company, will submit to the jurisdiction of a Court of competent jurisdiction
@@ -659,6 +662,12 @@ action in any Court of competent jurisdiction in the United States, to remove an
 action to a United States District Court, or to seek a transfer of a case to
 another Court as permitted by the laws of the United States or of any State in
 the United States.
+
+Value Plan Accountants Professional Liability
+AmerInst- Bermuda at January 1, 2002
+Page 12 of 15
+
+<PAGE>
 
 It is further agreed that service of process in such suit may be made upon
 Mendes & Mount, 750 Seventh Avenue, New York, New York 10019-6829, and that in
@@ -702,24 +711,25 @@ nominations, each of them shall name three and the decision of the third umpire
 shall be made by mutual agreement. If the two arbitrators are unable to agree
 upon the third arbitrator within thirty (30) days of their appointment, the
 third arbitrator shall be selected from a list of six individuals (three named
-by each arbitrator) by a judge of the federal district court having
-
-Accountants Professional Liability
-AmerInst - Bermuda at January 1, 2002
-Page 12 of 14
-
-<PAGE>
-
-jurisdiction over the geographical area in which the arbitration is to take
-place, or if the federal court declines to act, the state court having general
-jurisdiction in such area.
+by each arbitrator) by a judge of the federal district court having jurisdiction
+over the geographical area in which the arbitration is to take place, or if the
+federal court declines to act, the state court having general jurisdiction in
+such area.
 
 The claimant shall submit its initial brief within 20 days from the appointment
 of the umpire. The respondent shall submit its brief within 20 days thereafter,
-and the claimant may submit a reply brief within 10 days after filing of the
-respondent's brief. The parties shall have discovery rights equivalent to those
-available to litigants in Illinois. In setting a hearing date, the board shall
-not commence the hearing within 21 days of the completion of discovery.
+and the claimant may submit
+
+Value Plan Accountants Professional Liability
+AmerInst - Bermuda at January 1, 2002
+Page 13 of 15
+
+<PAGE>
+
+a reply brief within 10 days after filing of the respondent's brief. The parties
+shall have discovery rights equivalent to those available to litigants in
+Illinois. In setting a hearing date, the board shall not commence the hearing
+within 21 days of the completion of discovery.
 
 The board shall make its decision with due regard to the custom and usage of the
 insurance and reinsurance business. The board shall issue its decision in
@@ -749,9 +759,9 @@ except as to rules with respect to credit for reinsurance where the laws of the
 of the other states applying their laws with respect to credit for reinsurance
 with a foreign reinsurer shall also apply.
 
-Accountants Professional Liability
+Value Plan Accountants Professional Liability
 AmerInst - Bermuda at January 1, 2002
-Page 13 of 14
+Page 14 of 15
 
 <PAGE>
 
@@ -769,7 +779,7 @@ By: /s/ Raymond Cyborski
 
 Attested by: Corinne Kruse
 
-and on this 4th day of December, 2001
+and on this 4th day of December
 
 AMERINST INSURANCE COMPANY LIMITED
 
@@ -781,9 +791,9 @@ By: /s/ Richard Lowther
 Attested by: Eva Dillas
              --------------------
 
-Accountants Professional Liability
+Value Plan Accountants Professional Liability
 AmerInst - Bermuda at January 1, 2002
-Page 14 of 14
+Page 15 of 15
 
 </TEXT>
 </DOCUMENT>

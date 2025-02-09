@@ -1,0 +1,2582 @@
+<DOCUMENT>
+<TYPE>EX-10.101
+<SEQUENCE>5
+<FILENAME>ex10-101.txt
+<DESCRIPTION>EXHIBIT 10.101
+<TEXT>
+<PAGE>
+
+                                 Exhibit 10.101
+
+                          RADIAN ASSET ASSURANCE INC.,
+                             as Certificate Insurer,
+
+
+                HOMEAMERICAN CREDIT, INC. D/B/A UPLAND MORTGAGE,
+                      as an Original Mortgage Loan Seller,
+
+
+                   AMERICAN BUSINESS MORTGAGE SERVICES, INC.,
+                      as an Original Mortgage Loan Seller,
+
+
+                         AMERICAN BUSINESS CREDIT, INC.,
+              as an Original Mortgage Loan Seller and as Servicer,
+
+                               ABFS 2003-1, INC.,
+                       as Secondary Mortgage Loan Seller,
+
+                   BEAR STEARNS ASSET BACKED SECURITIES, INC.,
+                                  as Depositor,
+
+                                       and
+
+                              JPMORGAN CHASE BANK,
+
+             as Trustee, as Back-up Servicer and as Collateral Agent
+
+
+
+
+                        INSURANCE AND INDEMNITY AGREEMENT
+
+
+                        ABFS MORTGAGE LOAN TRUST 2003-1,
+           MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2003-1, CLASS M
+
+
+
+                           Dated as of March 31, 2003
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+(This Table of Contents is for convenience of reference only and shall not be
+deemed to be part of this Agreement. All capitalized terms used in this
+Agreement and not otherwise defined shall have the meanings set forth in Article
+I of this Agreement.)
+
+                                                                           Page
+                                                                           ----
+
+ARTICLE I  DEFINITIONS.......................................................2
+
+   Section 1.01  Defined Terms...............................................2
+   Section 1.02. Other Definitional Provisions...............................6
+
+ARTICLE II  REPRESENTATIONS, WARRANTIES AND COVENANTS........................6
+
+   Section 2.01. Representations and Warranties..............................6
+   Section 2.02. Affirmative Covenants......................................11
+   Section 2.03. Negative Covenants.........................................17
+   Section 2.04. Representations, Warranties and Covenants of
+                   the Certificate Insurer..................................18
+
+ARTICLE III  THE POLICY; REIMBURSEMENT......................................20
+
+   Section 3.01. Issuance of the Policy.....................................20
+   Section 3.02. Payment of Fees and Premium................................22
+   Section 3.03. Reimbursement Obligation...................................23
+   Section 3.04. Indemnification............................................25
+   Section 3.05. Payment Procedure..........................................28
+   Section 3.06. Subrogation................................................28
+   Section 3.07. Assignment and Other Rights................................29
+
+ARTICLE IV  FURTHER AGREEMENTS..............................................29
+
+   Section 4.01. Effective Date; Term of the Insurance Agreement............29
+   Section 4.02. Further Assurances and Corrective Instruments..............29
+   Section 4.03. Obligations Absolute.......................................30
+   Section 4.04. Assignments; Reinsurance; Third-Party Rights...............32
+   Section 4.05. Liability of the Certificate Insurer.......................32
+   Section 4.06. Annual Servicing Audit and Certification...................33
+
+ARTICLE V  DEFAULTS AND REMEDIES............................................33
+
+   Section 5.01. Defaults...................................................33
+   Section 5.02. Remedies; No Remedy Exclusive..............................34
+   Section 5.03. Waivers....................................................35
+
+ARTICLE VI  MISCELLANEOUS...................................................36
+
+   Section 6.01. Amendments, Etc............................................36
+   Section 6.02. Notices....................................................36
+   Section 6.03. Severability...............................................36
+   Section 6.04. GOVERNING LAW..............................................37
+   Section 6.05. Payments...................................................37
+
+
+
+
+                                       i
+<PAGE>
+
+
+   Section 6.06. Consent to Jurisdiction....................................37
+   Section 6.07. Consent of the Certificate Insurer.........................38
+   Section 6.08. Counterparts...............................................38
+   Section 6.09. Headings...................................................38
+   Section 6.10. Trial by Jury Waived.......................................38
+   Section 6.11. Limited Liability..........................................38
+   Section 6.12. Entire Agreement...........................................39
+   Section 6.13. Joint and Several Liability................................39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       ii
+
+
+<PAGE>
+
+
+         INSURANCE AND INDEMNITY AGREEMENT (as may be amended, modified or
+supplemented from time to time, this "Insurance Agreement"), dated as of March
+31, 2003, by and among RADIAN ASSET ASSURANCE INC., a New York stock insurance
+company, regulated by the Insurance Department of the State of New York, as
+Certificate Insurer, AMERICAN BUSINESS CREDIT, INC., a Pennsylvania corporation
+("ABC Inc."), in its capacity as an Original Mortgage Loan Seller and as
+Servicer, HOMEAMERICAN CREDIT, INC. d/b/a UPLAND MORTGAGE, as an Original
+Mortgage Loan Seller, AMERICAN BUSINESS MORTGAGE SERVICES, INC., as an Original
+Mortgage Loan Seller, ABFS 2003-1, INC., as Secondary Mortgage Loan Seller, BEAR
+STEARNS ASSET BACKED SECURITIES, INC., a Delaware corporation, in its capacity
+as depositor (the "Depositor"), and JPMORGAN CHASE BANK, a New York banking
+corporation, as Trustee, Back-up Servicer and Collateral Agent (the "Trustee").
+
+                              W I T N E S S E T H:
+
+         WHEREAS, (i) the Original Mortgage Loan Sellers have sold and assigned
+their entire interest to the Secondary Mortgage Loan Seller and (ii) the
+Secondary Mortgage Loan Seller has sold and assigned its entire interest to the
+Depositor, and the Depositor has accepted from the Secondary Mortgage Loan
+Seller the sale and assignment of such interest, in the Mortgage Loans pursuant
+to an Unaffiliated Seller's Agreement, dated as of March 1, 2003, by and among
+the Original Mortgage Loan Sellers, the Secondary Mortgage Loan Seller and the
+Depositor (the "Purchase Agreement");
+
+         WHEREAS, each of the Original Mortgage Loan Sellers and the Secondary
+Mortgage Loan Seller has made certain representations and warranties with
+respect to the related Mortgage Loans subject to the Purchase Agreement;
+
+         WHEREAS, a Pooling and Servicing Agreement, dated as of March 1, 2003,
+by and among the Depositor, the Servicer, the Back-up Servicer, the Collateral
+Agent and the Trustee (as may be amended, modified or supplemented from time to
+time as set forth therein, the "P&S Agreement") provides for, among other
+things, the assignment of the Mortgage Loans by the Depositor to the Trustee for
+the benefit of the Certificateholders and the Certificate Insurer, the issuance
+of the ABFS Mortgage Loan Trust 2003-1 Mortgage Pass-Through Certificates,
+Series 2003-1 evidencing the entire beneficial ownership interest in the Trust
+Fund and the servicing of the Mortgage Loans;
+
+         WHEREAS, the Certificate Insurer intends to issue the Policy, pursuant
+to which it will agree to pay in favor of the Trustee for the benefit of the
+Holders of the Class M Certificates, amounts in respect of certain payments on
+the Class M Certificates;
+
+         WHEREAS, the Certificate Insurer shall be paid a Premium as set forth
+herein; and
+
+         WHEREAS, each of the Sellers and the Depositor has undertaken certain
+obligations under the Purchase Agreement and the P&S Agreement for the benefit
+of the Certificate Insurer and in consideration for the Certificate Insurer's
+issuance of its Policy.
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements herein contained, the parties hereto agree as follows:
+<PAGE>
+
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+     Section 1.01. Defined Terms. Unless the context clearly requires
+otherwise, capitalized terms used and not defined herein shall have the
+respective meanings given to them in the P&S Agreement or, if not defined
+therein, the Policy specified below. References herein to the Servicer shall
+also be deemed to refer to ABC Inc. in its capacity as Servicer under the P&S
+Agreement. For purposes of this Insurance Agreement, the terms set forth below
+shall have the following meanings:
+
+         "ABC Inc." means American Business Credit, Inc., a Pennsylvania
+corporation, as seller and/or originator under the Purchase Agreement and as
+Servicer under the P&S Agreement.
+
+         "ABFS" means American Business Financial Services, Inc., a Delaware
+corporation.
+
+         "Affiliate" means, as to any specified Person, any other Person
+controlling or controlled by or under common control with such specified Person.
+For the purposes of this definition, "control" when used with respect to any
+specified Person means the power to direct the management and policies of such
+Person, directly or indirectly, whether through the ownership of voting
+securities, by contract or otherwise; and the terms "controlling" or
+"controlled" have meanings correlative to the foregoing.
+
+         "Benefit Plan" means any "employee benefit plan," as defined in Section
+3(3) of ERISA, and any other employee benefit arrangement or payroll practice,
+including, without limitation, any bonus plan, consulting, employment or other
+compensation agreement, incentive, equity or equity-based compensation, or
+deferred compensation arrangement, stock purchase, severance pay, sick leave,
+vacation pay, salary continuation for disability, hospitalization, medical
+insurance, life insurance, scholarship program.
+
+         "Certificate Insurer" means Radian Asset Assurance Inc., or any
+successor thereto, as issuer of the Policy.
+
+         "Certificates" means the ABFS Mortgage Loan Trust 2003-1 Mortgage
+Pass-Through Certificates, Series 2003-1, issued pursuant to the P&S Agreement.
+
+         "Class M Certificates" means those of the Certificates designated as
+belonging to Class M pursuant to the P&S Agreement.
+
+         "Closing Date" means the date hereof.
+
+         "Code" means the Internal Revenue Code of 1986, as amended.
+
+         "Commonly Controlled Entity" means, with respect to any Person, each
+entity, whether or not incorporated, which is affiliated with such Person
+pursuant to Section 414(b), (c), (m) or (o) of the Code.
+
+         "Default" means any event which results, or which with the giving of
+notice or the lapse of time or both would result, in an Event of Default.
+
+
+
+                                       2
+<PAGE>
+
+         "Depositor" means Bear Stearns Asset Backed Securities, Inc., a
+Delaware corporation, or any successor thereto as Depositor under the P&S
+Agreement.
+
+         "Documents" has the meaning given to such term in Section 2.01(k)
+herein.
+
+         "ERISA" means the Employee Retirement Income Security Act of 1974,
+including the rules and regulations thereunder, as amended from time to time.
+
+         "ERISA Affiliate" means any entity or trade or business (whether or not
+incorporated) which, together with the subject Person, would be treated as a
+single employer or under common control under Section 414 of the Code or Section
+4001 of ERISA and any general partnership of which any such entity is or has
+been a general partner.
+
+         "Event of Default" means any event of default specified in Section 5.01
+of this Insurance Agreement.
+
+         "Financial Statements" means, with respect to each of the Sellers, the
+consolidated statements of financial condition of ABFS as of June 30, 2002 and
+June 30, 2001, and the statements of operations, stockholders' equity and cash
+flows for each of the years in the three-year period ended June 30, 2001 and for
+the interim period ended December 31, 2002.
+
+         "Fitch" means Fitch Ratings, and any successor thereto.
+
+         "Indemnification Agreement" means the Indemnification Agreement dated
+the Closing Date among the Certificate Insurer and Bear, Stearns & Co. Inc., as
+representative of the Underwriters.
+
+         "Insurance Agreement" has the meaning given to such term in the initial
+paragraph hereof.
+
+         "Insurer Information" means the information with respect to the
+Certificate Insurer set forth in the Offering Document under the caption "THE
+CERTIFICATE INSURER."
+
+         "Investment Company Act" means the Investment Company Act of 1940,
+including, unless the context otherwise requires, the rules and regulations
+thereunder, as in effect from time to time.
+
+         "Late Payment Rate" means the lesser of (A) the greater of (1) the
+"prime rate" of interest, which is published in the "Money Rates" section of The
+Wall Street Journal (any change in such rate of interest to be effective on the
+date such change is so announced), plus 3%, and (2) the then applicable highest
+rate of interest on the Class M Certificates and (B) the maximum rate
+permissible under applicable usury or similar laws limiting interest rates.
+Interest at the Late Payment Rate shall be computed on the basis of a 360-day
+year and the actual number of days elapsed in the related accrual period.
+
+         "Material Adverse Change" means, in respect of any Person, a material
+adverse change in (i) the ability of such Person to perform its obligations
+under any of the Operative Documents or (ii) the business, financial condition,
+
+
+
+
+                                       3
+<PAGE>
+
+results of operations or properties of such Person. References to a "Material
+Adverse Change" herein which do not refer to a particular Person mean a Material
+Adverse Change with regard to the Sellers, the Depositor or the Trust Fund.
+
+         "Mortgage Loan Information" means the information in the Offering
+Document regarding the Mortgage Loans set forth under the heading "THE MORTGAGE
+LOAN POOL" and the related Sellers' underwriting standards set forth under the
+headings "THE ORIGINATORS, THE SELLER AND THE SERVICER--Origination of Mortgage
+Loans" and "--Underwriting Procedures and Practices" and "RISK FACTORS" (to the
+extent of information concerning the Mortgage Loans thereunder).
+
+         "Multiemployer Plan" means a multiemployer plan (within the meaning of
+Section 400(1)(a)(3) of ERISA) in respect of which a Commonly Controlled Entity
+makes contributions, is obligated to contribute or has liability.
+
+         "Offering Document" means the Prospectus Supplement, dated March 26,
+2003 in respect of the Class A, Class A-IO and Class M Certificates and any
+amendment or supplement thereto.
+
+         "Operative Documents" means this Insurance Agreement, the Policy, the
+Indemnification Agreement, the Certificates, the Optional Termination Side
+Letter, the Support Agreement, the Interest Rate Hedge Agreement, the
+Underwriting Agreement, the P&S Agreement and the Purchase Agreement.
+
+         "Optional Termination Side Letter" means the optional termination side
+letter dated as of the date hereof from the Servicer to the Certificate Insurer
+and the Trustee.
+
+         "Original Mortgage Loan Seller" means each of ABC Inc., HomeAmerican
+Credit, Inc. d/b/a Upland Mortgage and American Business Mortgage Services, Inc.
+or any successor thereto, as originator/purchaser of the Mortgage Loans and
+seller thereof to the Secondary Mortgage Loan Seller.
+
+         "P&S Agreement" has the meaning given to such term in the recitals.
+
+         "PBGC" means the Pension Benefit Guaranty Corporation or any successor
+agency, corporation or instrumentality of the United States to which the duties
+and powers of the Pension Benefit Guaranty Corporation are transferred.
+
+         "Person" means an individual, joint stock company, trust,
+unincorporated association, joint venture, corporation, business or other trust,
+limited liability company, partnership or other organization or entity (whether
+governmental or private).
+
+         "Plan" means any Benefit Plan (other than a Multiemployer Plan) covered
+by Title IV of ERISA, which is maintained by a Commonly Controlled Entity or in
+respect of which a Commonly Controlled Entity has liability.
+
+         "Policy" means the Financial Guaranty Insurance Policy, designated as
+policy number FANI-0509-03090-NY, together with all endorsements thereto, issued
+
+
+
+
+                                       4
+<PAGE>
+
+by the Certificate Insurer in favor of the Trustee and for the benefit of the
+Class M Certificateholders in respect of certain payments on the Class M
+Certificates.
+
+         "Premium" means the non-refundable premium payable in respect of the
+Policy, which shall be payable (a) on the Closing Date in an amount equal to
+$75,000.00 and (b) on each Distribution Date in an amount equal to the product
+of (i) the Premium Percentage, (ii) the aggregate Certificate Principal Balance
+of the Class A Certificates and the Class M Certificates that are Outstanding on
+the immediately preceding Distribution Date (or on the Closing Date, in the case
+of the first Distribution Date), after giving effect to any payments of
+principal made on such immediately preceding Distribution Date other than any
+such payment related to an unreimbursed Insured Payment and (iii) 1/12 (or, on
+the first Distribution Date, a fraction, the numerator of which is the actual
+number of days from and including the Closing Date to but excluding the first
+Distribution Date, and the denominator of which is 360).
+
+         "Premium Percentage" shall mean 0.20%.
+
+         "Purchase Agreement" has the meaning given to such term in the
+recitals.
+
+         "S&P" means Standard & Poor's Ratings Services, a division of The
+McGraw-Hill Companies, Inc., and any successor thereto.
+
+         "Securities Act" means the Securities Act of 1933, including, unless
+the context otherwise requires, the rules and regulations thereunder, as amended
+from time to time.
+
+         "Securities Exchange Act" means the Securities Exchange Act of 1934,
+including, unless the context otherwise requires, the rules and regulations
+thereunder, as amended from time to time.
+
+         "Secondary Mortgage Loan Seller" means ABFS 2003-1, Inc. or any
+successor thereto, as seller of the Mortgage Loans to the Depositor.
+
+         "Seller" means each of the Original Mortgage Loan Sellers and the
+Secondary Mortgage Loan Seller.
+
+         "Servicing Information" means the information in the Offering Document
+regarding the Servicer and certain of its servicing practices and set forth
+under the heading "THE ORIGINATORS, THE SELLER AND THE SERVICER--The Servicer"
+and "SERVICING OF THE MORTGAGE LOANS" (to the extent of information concerning
+the Servicer) therein.
+
+         "Transaction" means the transactions contemplated by the Operative
+Documents, including the transactions described in the Offering Document.
+
+         "Trustee" means JPMorgan Chase Bank, as the Trustee under the P&S
+Agreement, and any successor thereto under the P&S Agreement.
+
+         "Underwriter Information" has the meaning provided in section 3(c) of
+the Indemnification Agreement.
+
+
+
+                                       5
+<PAGE>
+
+         "Underwriters" means Bear Stearns & Co. Inc. and Credit Suisse First
+Boston LLC.
+
+         "Underwriting Agreement" means the Underwriting Agreement between Bear,
+Stearns & Co. Inc., as representative of the Underwriters and the Depositor,
+dated March 26, 2003, with respect to the offer and sale of certain of the
+Certificates, as such may be amended, modified or supplemented from time to
+time.
+
+         Section 1.02. Other Definitional Provisions. The words "hereof,"
+"herein" and "hereunder" and words of similar import when used in this Insurance
+Agreement shall refer to this Insurance Agreement as a whole and not to any
+particular provision of this Insurance Agreement, and Section, subsection,
+Schedule and Exhibit references are to this Insurance Agreement unless otherwise
+specified. The meanings given to terms defined herein shall be equally
+applicable to both the singular and plural forms of such terms. The words
+"include" and "including" and words of similar import shall be deemed to be
+followed by the phrase "without limitation."
+
+                                   ARTICLE II
+                    REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+     Section 2.01. Representations and Warranties. Each of the Sellers, the
+Depositor and the Servicer represents and warrants with respect to itself
+(subject to Section 6.13), in each case, as of the Closing Date and as of the
+date of each transfer of the Mortgage Loans (other than any Qualified Substitute
+Mortgage Loan) to the Trust pursuant to the P&S Agreement, as follows:
+
+         (a) Due Organization and Qualification. It is a corporation, duly
+organized, validly existing and in good standing under the laws of the
+jurisdiction of its incorporation or formation. It is duly qualified to do
+business, is in good standing and has obtained all necessary licenses, permits,
+charters, registrations and approvals (together, "approvals") necessary for the
+conduct of its business as currently conducted and as described in the Offering
+Document and the performance of its obligations under the Operative Documents to
+which it is a party in each jurisdiction in which the failure to be so qualified
+or to obtain such approvals would render any Operative Document unenforceable in
+any material respect or would have a material adverse effect upon the
+Transaction.
+
+         (b) Power and Authority. It has all necessary power and authority to
+conduct its business as currently conducted and as described in the Offering
+Document, to execute and deliver, and to perform its obligations under, the
+Operative Documents to which it is a party and to consummate the Transaction.
+
+         (c) Due Authorization. The execution, delivery and performance by it of
+the Operative Documents to which it is a party have been duly authorized by all
+necessary action on its part and does not require any additional approvals or
+consents from, or other action by or any notice to or filing with, any Person,
+including any governmental entity or any of its stockholders, members or other
+owners which have not previously been obtained or given by it.
+
+
+
+                                       6
+<PAGE>
+
+         (d) Noncontravention. The execution and delivery by it of the Operative
+Documents to which it is a party, the consummation of the Transaction and the
+satisfaction of the terms and conditions of the Operative Documents do not and
+will not:
+
+             (i) conflict with or result in any breach or violation of any
+provision of its organizational documents or any law, rule, regulation, order,
+writ, judgment, injunction, decree, determination or award currently in effect
+having applicability to it or any of their respective material properties,
+including regulations issued by any administrative agency or other governmental
+authority having supervisory powers over it;
+
+             (ii) constitute a default by it or result in the acceleration of
+any obligation under, or breach any provision of, any loan agreement, mortgage,
+indenture or other agreement or instrument to which it is a party or by which
+any of their respective properties is or may be bound or affected; or
+
+             (iii) result in or require the creation of any lien upon or in
+respect of any of its assets, except as otherwise contemplated by the Operative
+Documents.
+
+         (e) Legal Proceedings. There is no action, proceeding or investigation
+by or before any court, governmental or administrative agency or arbitrator
+against or affecting it or any of its respective subsidiaries, any of its
+properties or rights or any of its subsidiaries or any of the Mortgage Loans,
+pending or, to its knowledge after reasonable inquiry, threatened, which, in any
+case, could result in a Material Adverse Change.
+
+         (f) Valid and Binding Obligations. The Operative Documents (other than
+the Certificates) to which it is a party have been duly executed and delivered
+by such party and constitute its legal, valid and binding obligations, as
+applicable, enforceable against it in accordance with their respective terms,
+except as such enforceability may be limited by bankruptcy, insolvency,
+reorganization, moratorium or other similar laws affecting creditors' rights
+generally and general equitable principles and public policy considerations as
+to rights of indemnification for violations of federal securities laws. Without
+attributing the representations and warranties in this sentence to the Servicer
+or the Sellers, the Certificates when executed, authenticated and delivered by
+the Trustee in accordance with the P&S Agreement, will be validly issued and
+outstanding and entitled to the benefits of the P&S Agreement. It will not at
+any time in the future deny that the Operative Documents to which it is a party
+constitute its legal, valid and binding obligations.
+
+         (g) Financial Statements. Without attributing the representations and
+warranties in this Section 2.01(g) to the Depositor, such of ABFS's Financial
+Statements as have been furnished to the Certificate Insurer, (i) are, as of the
+dates and for the periods referred to therein, complete and correct in all
+material respects, (ii) present fairly its financial condition and results of
+operations as of the dates and for the periods indicated and (iii) have been
+prepared in accordance with generally accepted accounting principles
+consistently applied, except as certified therein (subject as to interim
+statements to normal year-end adjustments). Since the respective dates of the
+most recent of such Financial Statements, there has been no Material Adverse
+Change with respect to it. Except as disclosed in the Financial Statements, it
+
+
+
+
+                                       7
+<PAGE>
+
+is not subject to any contingent liabilities or commitments that, individually
+or in the aggregate, have a material possibility of causing a Material Adverse
+Change.
+
+         (h) ERISA.
+
+             (i) No accumulated funding deficiency (as defined in Section 302 of
+ERISA or Section 412 of the Code), whether or not waived, has occurred with
+respect to any Plan. No Plan has been terminated, and no Commonly Controlled
+Entity has withdrawn from any Multiemployer Plan under circumstances that could
+result in a Commonly Controlled Entity incurring liability under ERISA that has
+not been satisfied. No Commonly Controlled Entity has withdrawn from a Plan that
+is or was subject to Section 4063 of ERISA during a plan year in which such
+Commonly Controlled Entity was a substantial employer (as defined in Section
+4001(a)(2) of ERISA) and no Commonly Controlled Entity has had a cessation of
+operations that could be treated as a withdrawal under Section 4062(e) of ERISA
+in either case which could result in material liability to it. No reportable
+event (as defined in Section 4043 of ERISA) or other event or condition has
+occurred which could result in the termination of any Plan by the PBGC. As of
+the last day of the Plan's most recently ended plan year, no Plan has
+liabilities (determined using the actuarial and interest factors used by such
+Plan for purposes of the actuarial report used for such plan year, the interest
+and actuarial factors being reasonable at the time used,) that exceed the Plan's
+assets by more than $100,000. As of the last day of the Plan's most recently
+ended plan year, the aggregate liabilities for all Plans (determined using the
+actuarial and interest factors used by such Plan for purposes of the actuarial
+report used for such plan year, the interest and actuarial factors being
+reasonable at the time used,) do not exceed the aggregate assets of the Plans by
+more than $100,000. The liability to which the Commonly Controlled Entities
+would become subject under ERISA if they withdrew completely from all
+Multiemployer Plans (determined as of the most recent valuation date for each
+Multiemployer Plan) does not exceed $100,000. No Multiemployer Plan is in
+reorganization (as defined in Section 4241 of ERISA) or insolvent (as defined in
+Section 4245 of ERISA).
+
+             (ii) Each Commonly Controlled Entity is in compliance in all
+material respects with ERISA and has not incurred and does not reasonably expect
+to incur any liabilities to the PBGC under ERISA in connection with any Plan or
+Multiemployer Plan in any capacity other than as a Commonly Controlled Entity
+with respect to it, or to contribute now or in the future in respect of any Plan
+or Multiemployer Plan.
+
+         (i) Compliance With Law, Etc. No practice, procedure or policy
+employed, or proposed to be employed, by it in the conduct of its business
+violates any law, regulation, judgment, agreement, order or decree applicable to
+either of them that, if enforced, could reasonably be expected to result in a
+Material Adverse Change with respect to it.
+
+         (j) Taxes. It has filed or has participated in the filing of a
+consolidated filing with its parent company or companies prior to the date
+hereof all United States federal, state and local tax returns that are required
+to be filed and paid all taxes, including any assessments received by it or its
+parent company or companies that are not being contested in good faith, to the
+extent that such taxes have become due. Any taxes, fees and other governmental
+charges payable by it or any of its respective parent companies in connection
+with the Transaction, the execution and delivery of the Operative Documents to
+which it is a party and the issuance of the Certificates have been paid or shall
+
+
+
+
+                                       8
+<PAGE>
+
+have been paid at or prior to the Closing Date if such taxes, fees or other
+governmental changes were due on or prior to the Closing Date.
+
+         (k) Accuracy of Information.
+
+             (i) Without attributing the representations and warranties in this
+Section 2.01(k)(i) to the Servicer or the Sellers, neither the Operative
+Documents nor any other information furnished by it to the Certificate Insurer
+and relating to the Operative Documents, the Mortgage Loans, the Trust Fund, the
+Certificates, or the operations or financial condition of the Trustee, any
+Seller, the Depositor, or the Servicer (as amended, supplemented or superseded,
+collectively, the "Documents") contain any statement of a material fact which
+was untrue or misleading in any material respect when made.
+
+             (ii) Without attributing the representations and warranties in this
+Section 2.01(k)(ii) other than to the Servicer and the Sellers, no information
+furnished by it to the Certificate Insurer and relating to the Operative
+Documents, the Mortgage Loans, the Trust Fund or its operations or financial
+condition (as amended, supplement or superseded, collectively, the "Limited
+Documents") contain any statement of a material fact which was untrue or
+misleading in any material respect when made.
+
+             (iii) It does not have any knowledge of any circumstances that
+could reasonably be expected to cause a Material Adverse Change or, to the
+extent that the representations and warranties in this sentence are attributable
+to the Servicer or the Sellers, a Material Adverse Change with respect to it or
+the Trust Fund.
+
+             (iv) Since the furnishing by it of such Documents or, in the case
+of the Servicer and the Sellers, such Limited Documents, there has been no
+change, nor any development or event involving a prospective change known to it,
+that would render any of such Documents or, in the case of the Servicer and the
+Sellers, such Limited Documents untrue or misleading in any material respect.
+
+         (l) Compliance With Securities Laws.
+
+             (i) Without attributing the representations and warranties in this
+Section 2.01(l)(i) to the Servicer or the Sellers, the offer and sale of the
+Certificates comply in all material respects with all requirements of law,
+including all registration requirements of applicable federal securities laws
+and the representations and warranties made in the Underwriting Agreement are
+true and correct as of the date of the Offering Document and the date of this
+Insurance Agreement. Without limiting the foregoing, the Offering Document does
+not contain any untrue statement of a material fact and does not omit to state a
+material fact necessary to make the statements made therein, in light of the
+circumstances under which they were made, not misleading; provided, however,
+that no representation is made with respect to the Insurer Information, the
+Servicing Information or the Mortgage Loan Information. The offer and sale of
+the Certificates have not been and will not be in violation of the Securities
+Act, any other federal, state or local securities laws. The P&S Agreement is not
+required to be qualified under the Trust Indenture Act, and none of the Trustee,
+the Depositor or the Trust Fund is required to be registered as an "investment
+company" under the Investment Company Act. Each of the Trust Fund and the
+
+
+
+
+                                       9
+<PAGE>
+
+Depositor will satisfy in all material respects any of the information reporting
+requirements of the Securities Exchange Act arising out of the Transaction to
+which it or the Depositor is subject.
+
+             (ii) Without attributing the representations and warranties in this
+Section 2.01 (l)(ii) other than to the Servicer, the Servicing Information does
+not contain any untrue statement of a material fact and does not omit to state a
+material fact necessary to make the statements made therein, in light of the
+circumstances under which they were made, not misleading. The Servicer has not
+participated in the offer and sale of the Certificates.
+
+             (iii) Without attributing the representations and warranties in
+this Section 2.01(l)(iii) other than to the Sellers, the Mortgage Loan
+Information does not contain any untrue statement of a material fact and does
+not omit to state a material fact necessary to make the statements made therein,
+in light of the circumstances under which they were made, not misleading. None
+of the Sellers have participated in the offer and sale of the Certificates.
+
+         (m) Operative Documents. Each of the representations and warranties
+made by it in the Operative Documents (other than this Insurance Agreement) to
+which it is a party is true and correct in all material respects and it hereby
+makes each such representation and warranty to, and for the benefit of, the
+Certificate Insurer as if the same were set forth in full herein; provided,
+however, that, except as provided in Section 3.04 and subject to Article V
+hereto, the remedies for a breach of any such representation or warranty shall
+be limited to the remedies therefor provided in the related Operative Document.
+
+         (n) No Consents. No consent, license, approval or authorization from,
+or registration, filing or declaration with, any regulatory body, administrative
+agency, or other governmental instrumentality, nor any consent, approval, waiver
+or notification of any creditor, lessor or other nongovernmental person, is
+required in connection with the execution, delivery and performance by it of
+this Insurance Agreement or of any other Operative Document to which such Person
+is a party, except (in each case) as have been obtained and are in full force
+and effect.
+
+         (o) Solvency; Fraudulent Conveyance. It is solvent and will not be
+rendered insolvent by the Transaction and, after giving effect to the
+Transaction, it will not be left with an unreasonably small amount of capital
+with which to engage in its business, and it does not intend to incur, nor does
+it believe that it has incurred debts beyond its ability to pay as they mature.
+None of the Sellers, the Servicer, the Depositor or the Trustee contemplates the
+commencement of insolvency, bankruptcy, liquidation or consolidation proceedings
+or the appointment of a receiver, liquidator, conservator, trustee or similar
+official in respect of the Sellers, the Servicer, the Depositor or the Trustee,
+or any of their respective assets. The amount of consideration being received by
+the Original Mortgage Loan Sellers upon the sale of Mortgage Loans to the
+Secondary Mortgage Loan Seller and by the Secondary Mortgage Loan Seller upon
+the sale of the Mortgage Loans to the Depositor constitutes reasonably
+equivalent value and fair consideration therefor. The amount of consideration
+being received by the Depositor upon the sale of the Certificates to the
+Underwriters constitutes reasonably equivalent value and fair consideration for
+the Certificates. None of the Original Mortgage Loan Sellers are transferring
+the Mortgage Loans to the Secondary Mortgage Loan Seller and the Secondary
+
+
+
+
+                                       10
+<PAGE>
+
+Mortgage Loan Seller is not transferring the Mortgage Loans to the Depositor and
+the Depositor is not transferring Mortgage Loans to the Trust Fund, nor is the
+Depositor transferring the Certificates to the Underwriters, with any intent to
+hinder, delay or defraud any of the Sellers or the Depositor, or any of their
+respective creditors.
+
+         (p) Good Title; Absence of Liens. Without attributing the
+representations. and warranties in this subsection 2.01(p) to the Servicer or
+the Sellers, immediately prior to the conveyance of the Mortgage Loans to the
+Trust Fund pursuant to the P&S Agreement, the Depositor had good title to, and
+was the sole owner of each Mortgage Loan, free of any interest of any other
+Person.
+
+         (q) Rating Agency. The information supplied by each of the Sellers, the
+Servicer and the Depositor to S&P and Fitch in connection with obtaining a
+rating for the Class M Certificates did not contain any untrue statement of a
+material fact or omit to state any material fact required to be stated in order
+to make such information not misleading.
+
+         (r) No Violation of Securities Exchange Act or Regulations T, U or X.
+Without attributing the representations and warranties in this subsection
+2.01(r) to the Servicer or the Sellers, none of the transactions contemplated in
+the Operative Documents (including the use of the proceeds from the sale of any
+Class of Certificates) will result in a violation of Section 7 of the Securities
+Exchange Act, or any regulations issued pursuant thereto, or will result in a
+violation of any of Regulations T, U or X of the Board of Governors of the
+Federal Reserve System.
+
+     Section 2.02. Affirmative Covenants. Each of the Sellers, the Depositor
+and the Servicer hereby agrees, with respect to itself (subject to Section
+6.13), in each case, that during the term of this Insurance Agreement, unless
+the Certificate Insurer shall otherwise expressly consent in writing:
+
+         (a) Compliance With Agreements and Applicable Laws. It shall comply in
+all material respects with the terms and conditions of, and shall perform its
+obligations under, and shall not be in default under, any of the Operative
+Documents to which it is a party, and shall comply with all material
+requirements of any law, rule or regulation applicable to it.
+
+         (b) Existence. It and its successors and permitted assigns shall
+maintain its existence and shall at all times continue to be duly organized
+under the laws of its jurisdiction of incorporation or formation and duly
+qualified and duly authorized (as described in subsections 2.01(a), (b) and (c)
+hereof) and shall conduct its business in accordance with the terms of its
+organizational documents.
+
+         (c) Financial Statements; Accountants' Reports; Other information. It
+shall keep or cause to be kept in reasonable detail books and records of account
+of its assets and business, including books and records relating to the
+Transaction. Each of the Sellers, the Depositor and the Servicer shall furnish
+or cause to be furnished to the Certificate Insurer in respect of itself:
+
+
+
+                                       11
+<PAGE>
+
+             (i) Annual Financial Statements. As soon as available, and in any
+event within 90 days after the close of ABFS's fiscal year, ABC Inc. shall
+furnish the audited consolidated statement of financial condition of ABFS and
+its subsidiaries as of the end of such fiscal year and the related audited
+consolidated statements of operations, stockholders' equity and cash flows for
+such fiscal year, all in reasonable detail and stating in comparative form the
+respective figures for the corresponding date and period in the preceding fiscal
+year, prepared in accordance with generally accepted accounting principles,
+consistently applied, and accompanied by the audit opinion of its independent
+accountants (which shall be a nationally recognized independent public
+accounting firm or otherwise acceptable to the Certificate Insurer) and by the
+certificate specified in Section 2.02(d).
+
+             (ii) Quarterly Financial Statements. As soon as available and in
+any event within 45 days after the close of each of the first three quarters of
+each fiscal year, ABC Inc. shall furnish the unaudited consolidated statement of
+financial condition of ABFS and its subsidiaries as of the end of such quarter
+and the related unaudited consolidated statements of operations, stockholders'
+equity and cash flows for the portion of the fiscal year then ended, all in
+reasonable detail and stating in comparative form the respective figures for the
+corresponding date and period in the preceding fiscal year, prepared in
+accordance with generally accepted accounting principles consistently applied
+(subject to normal year-end adjustments) and accompanied by the certificate
+specified in Section 2.02(d).
+
+             (iii) Initial Report. On or before the Closing Date, the Depositor
+shall furnish or cause to be furnished to the Certificate Insurer a copy of a
+magnetic tape setting forth, as to each Mortgage Loan to be included in the
+Trust on the Closing Date, the information required under the definition of
+"Mortgage Loan Schedule" in the P&S Agreement.
+
+             (iv) Certain Information. Upon the written request of the
+Certificate Insurer, copies of any proxy statements, financial statements,
+reports and other documents that it or any of its affiliates files with the
+United States Securities and Exchange Commission or any national securities
+exchange.
+
+             (v) Other Information. (A) Promptly upon receipt or delivery
+thereof, copies of all schedules, financial statements or other similar reports
+delivered to or by it pursuant to the terms of any of the Operative Documents,
+including all reports and other information provided by or to the Trustee or any
+holder of Certificates pursuant to the P&S and (B) promptly upon the written
+request of the Certificate Insurer, such other information as the Certificate
+Insurer may reasonably request.
+
+         (d) Compliance Certificate. ABC Inc. shall, with respect to itself and
+the Original Mortgage Loan Sellers, deliver or cause to be delivered to the
+Certificate Insurer, concurrently with the delivery of the financial statements
+required pursuant to subsection 2.02(c)(i) and (ii) hereof, one or more
+certificates signed by an officer authorized to execute such certificates on its
+behalf stating that:
+
+             (i) a review of its performance under the Operative Documents to
+which it is a party during such period has been made under such officer's
+supervision;
+
+
+
+                                       12
+<PAGE>
+
+             (ii) to the best of such individual's knowledge and belief
+following reasonable inquiry, no Default or Event of Default has occurred, or if
+a Default or Event of Default has occurred, specifying the nature thereof and,
+if there is a right to cure such Default or Event of Default, stating in
+reasonable detail (including, if applicable, any supporting calculations) the
+steps, if any, being taken by it to cure such Default or Event of Default or to
+otherwise comply with the terms of the agreement to which such Default or Event
+of Default relates;
+
+             (iii) the financial statements submitted in accordance with
+subsection 2.02(c)(i) or (ii) hereof are complete and correct in all material
+respects and present fairly the financial condition and the results of its,
+operations or the operations of its parent company and consolidated subsidiaries
+as of the dates and for the periods indicated, in accordance with generally
+accepted accounting principles consistently applied; and
+
+             (iv) the Servicer has in full force and effect a blanket fidelity
+bond (or direct surety bond) and an errors and omissions insurance policy in
+accordance with the terms and requirements of the P&S Agreement.
+
+         (e) Access to Records; Discussions with Officers and Accountants. Upon
+the prior written request of the Certificate Insurer, each of the Sellers, the
+Servicer and the Depositor shall permit, at the Certificate Insurer's sole
+expense, the Certificate Insurer or its authorized agents:
+
+             (i) to inspect the books and records as they may relate to the
+Certificates, the Mortgage Loans, the obligations of any such Person under the
+Operative Documents to which it is a party, and the Transaction;
+
+             (ii) to discuss the affairs, finances and accounts of such Person
+(with respect to the Servicer or the Sellers, to the extent relating to its
+capacity to perform its obligations under the Operative Documents to which it is
+a party) with its chief operating officer and chief financial officer; and
+
+             (iii) with its consent, which shall not be unreasonably withheld,
+to discuss the affairs, finances and accounts of such Person (with respect to
+the Servicer or the Sellers, to the extent relating to its capacity to perform
+its obligations under the Operative Documents to which it is a party) with its
+independent accountants; provided, however, that its officers shall have the
+right to be present during such discussions.
+
+     Such inspections and discussions shall be conducted during normal
+business hours and shall not unreasonably disrupt the business of the Sellers,
+the Servicer or the Depositor. The books and records of each of the Sellers, the
+Servicer and the Depositor shall be maintained at its address as designated
+herein for receipt of notices, unless it shall otherwise advise the parties
+hereto in writing.
+
+         (f) Notice of Material Events. It shall be obligated promptly to inform
+the Certificate Insurer in writing of the occurrence of any of the following:
+
+
+
+                                       13
+<PAGE>
+
+             (i) the submission of any claim or the initiation or threat of any
+legal process, litigation or administrative or judicial investigation, or rule
+making or disciplinary proceeding by or against it that (A) would be required to
+be disclosed to its shareholders or to the United States Securities and Exchange
+Commission if any Class of Certificates were publicly registered or (B) could
+result in a Material Adverse Change, or the initiation of any proceeding or the
+promulgation of any proposed or final rule which would likely result in a
+Material Adverse Change;
+
+             (ii) any change in the location of its principal office or any
+change in the location of its books and records, other than the date of the
+relocation by the Sellers and the Servicer to 100 East Penn Square,
+Philadelphia, PA 19103 in July 2003; provided, that, if such relocation does not
+occur in July 2003, it shall so inform the Certificate Insurer;
+
+             (iii) the occurrence of any Default or Event of Default or any
+Material Adverse Change;
+
+             (iv) the commencement of any proceedings by or against it under any
+applicable bankruptcy, reorganization, liquidation, rehabilitation, insolvency
+or other similar law now or hereafter in effect or of any proceeding in which a
+receiver, liquidator, conservator, trustee or similar official shall have been,
+or may be, appointed or requested for it or any of its assets, or any actual,
+proposed or anticipated assignment for the benefit of its creditors;
+
+             (v) the receipt of notice that (A) it is being placed under
+regulatory supervision, (B) any license, permit, charter, registration or
+approval materially necessary for the conduct of its business is to be, or may
+be, suspended or revoked or (C) it is to cease and desist any practice,
+procedure or policy employed by it in the conduct of its business, and such
+suspension, revocation or cessation may result in a Material Adverse Change; or
+
+             (vi) the imposition of any tax, assessment or other government
+charge upon the Trust Fund other than any such charge payable out of collections
+on the Mortgage Loans pursuant to the P&S Agreement.
+
+         (g) Further Assurances. It agrees to cooperate with S&P and Fitch in
+connection with any review of the Transaction that may be undertaken by S&P or
+Fitch after the date hereof.
+
+         (h) Maintenance of Licenses. It has and shall maintain all licenses,
+permits, charters and registrations which are material to the conduct of its
+business.
+
+         (i) Retirement of Class M Certificates. Without attributing the
+covenants in this sentence to the Servicer or the Sellers, it shall instruct the
+Trustee upon a retirement or other payment of all of the Class M Certificates to
+surrender the Policy to the Certificate Insurer for cancellation.
+
+         (j) Third-Party Beneficiary. It agrees that the Certificate Insurer
+shall have all rights of a third-party beneficiary in respect of the Operative
+Documents (other than this Insurance Agreement, the Underwriting Agreement, the
+Certificates and any other Operative Document to which the Certificate Insurer
+is a party) and hereby incorporates and restates its representations,
+
+
+
+
+                                       14
+<PAGE>
+
+warranties, covenants and agreements as set forth therein or in any certificate
+or other document delivered in connection with the Transaction for the benefit
+of the Certificate Insurer.
+
+         (k) Transaction Documents. It shall comply with each of the covenants
+and other agreements made by it in any of the Operative Documents.
+
+         (l) [Reserved]
+
+         (m) Closing Documents. The Depositor shall provide or cause to be
+provided to the Certificate Insurer (i) a photostatic or facsimile copy of each
+of the Operative Documents and any other documents executed and/or delivered in
+connection with the Transaction as requested by the Certificate Insurer
+concurrently with the closing on the Closing Date, and (ii) an executed original
+copy of each document executed in connection with the Transaction within 60 days
+after the Closing Date.
+
+         (n) Due Diligence. The Certificate Insurer shall have the right, so
+long as any Class M Certificates remain outstanding, to conduct reviews of the
+Servicer's practices through reviews of the Mortgage Loans and the servicing
+practices of the Servicer and through reappraisals of Mortgaged Properties. Such
+due diligence shall be conducted in a reasonable manner convenient to both the
+Servicer and the Certificate Insurer and at the Certificate Insurer's sole
+expense.
+
+         (o) Disclosure Document. Each Offering Document delivered with respect
+to the Class M Certificates shall clearly disclose that the Policy is not
+covered by the property/casualty insurance security fund specified in Article 76
+of the New York Insurance Law. In addition, each Offering Document delivered
+with respect to the Class M Certificates which includes financial information of
+the Certificate Insurer prepared in accordance with GAAP shall include the
+following statement immediately preceding such financial information:
+
+     The New York State Insurance Department recognizes only statutory
+accounting practices for determining and reporting the financial condition and
+results of operations of an insurance company, for determining its solvency
+under the New York Insurance Law, and for determining where its financial
+condition warrants the payment of a dividend to its stockholders. No
+consideration is given by the New York State Insurance Department to financial
+statements prepared in accordance with generally accepted accounting principles
+in making any such determinations.
+
+         (p) Special Purpose Entities.
+
+             (i) Each of the Depositor and the Secondary Mortgage Loan Seller
+shall conduct its business solely in its own name through its duly authorized
+officers or agents so as not to mislead others as to the identity of the entity
+with which those others are concerned.
+
+             (ii) Each of the Depositor and the Secondary Mortgage Loan Seller
+shall keep its assets and liabilities wholly separate from those of all other
+entities. Neither the Depositor nor the Secondary Mortgage Loan Seller shall
+commingle its funds or other assets with those of any of its Affiliates (other
+than in respect of items of payment or funds which may be commingled until
+
+
+
+
+                                       15
+<PAGE>
+
+deposit into the Collection Account in accordance with the P&S Agreement) and
+shall not hold its assets in any manner that would create an appearance that
+such assets belong to any such Affiliate, not maintain bank accounts or other
+depository accounts to which any such Affiliate is an account party, into which
+such Affiliate makes deposits or from which any such Affiliate has the power to
+make withdrawals and not act as an agent or representative of any of its
+Affiliates in any capacity.
+
+             (iii) Neither the Depositor nor the Secondary Mortgage Loan Seller
+shall guarantee any obligation of any of its Affiliates, or otherwise hold
+itself out as responsible for the debts of any Affiliate.
+
+             (iv) Each of the Depositor and the Secondary Mortgage Loan Seller
+shall pay its own incidental administrative costs and expenses from its own
+funds and allocate all other shared overhead expenses (including, without
+limitation, telephone and other utility charges, the services of shared
+employees, consultants and agent, and reasonable legal auditing expenses), and
+other items of cost and expense shared between the Depositor or the Secondary
+Mortgage Loan Seller and any respective Affiliate thereof, on the basis of
+actual use to the extent practicable.
+
+             (v) The financial statements, of the Secondary Mortgage Loan Seller
+and the Depositor and their respective affiliates shall disclose the effects of
+the Transactions in accordance with GAAP and shall disclose that the assets of
+the Depositor are not available to pay creditors of the Sellers or their
+respective Affiliates.
+
+             (vi) The resolutions, agreements and other instruments of each of
+the Depositor and the Secondary Mortgage Loan Seller underlying the transactions
+described in this Insurance Agreement and in the other Documents shall, be
+continuously maintained by it as its official records, separately identified and
+held apart from the records of their respective Affiliates.
+
+             (vii) Each of the Depositor and the Secondary Mortgage Loan Seller
+shall take such actions as are necessary on its part to ensure that the facts
+and assumptions set forth in the opinions delivered by its counsel remain true
+and correct at all times.
+
+         (q) Benefit Plan.
+
+             (i) It shall comply in all material respects with the provisions of
+ERISA, the Code and all other applicable laws, and the Plan and Multi-Employer
+Plan regulations and interpretations thereunder to the extent applicable, with
+respect to each Benefit Plan. Without limiting the foregoing, it shall not, and
+shall cause each ERISA Affiliate not to:
+
+                   (A) permit to exist any material accumulated funding
+deficiency as defined in Section 302 of ERISA or Section 412 of the Code with
+respect to any Plan or amend any Plan if, as a result of such amendment, it or
+an ERISA Affiliate would be required to provide material security under Section
+401 or 412 of the Code or Section 306 or 307 of ERISA; or
+
+
+
+                                       16
+<PAGE>
+
+
+                    (B) terminate any Benefit Plan of either it or any ERISA
+Affiliate if such termination would result in any material liability to it or an
+ERISA Affiliate or withdraw from any Multiemployer Plan if such withdrawal would
+result in any material liability to it or an ERISA Affiliate.
+
+                (ii) It and its subsidiaries shall not engage in any non-exempt
+prohibited transaction (within the meaning of Code Section 4975 or ERISA Section
+406) with respect to any Benefit Plan which would result in a material liability
+to it or any such subsidiary.
+
+         Section 2.03. Negative Covenants. Each of the Sellers, the
+Servicer, the Depositor and the Trustee hereby agrees, with respect to itself
+(subject to Section 6.13), that during the term of this Insurance Agreement,
+unless the Certificate Insurer shall otherwise expressly consent in writing:
+
+             (a) Impairment of Rights. It shall not take any action, or fail to
+take any action, if such action or failure to take action may result in a
+Material Adverse Change (within the meaning of the second sentence of the
+definition of such term, for the avoidance of doubt), nor shall it interfere
+(or, with respect to the Trustee, intentionally interfere or fail to remove or
+otherwise withdraw any unintentional interference by it brought to the attention
+of a Responsible Officer, as defined in the P&S Agreement) with the enforcement
+of any rights of the Certificate Insurer under or with respect to any of the
+Operative Documents or with respect to the Trust Fund. It shall give the
+Certificate Insurer written notice of any such event, action or failure to act
+on the earlier of: (i) the date upon which any publicly available filing or
+release is made with respect to such event, action or failure to act and (ii)
+promptly prior to the date of occurrence of such event, action or failure to
+act. It shall furnish to the Certificate Insurer all information reasonably
+requested by it that is necessary to determine compliance with this paragraph.
+
+             (b) Waiver, Amendments, Etc. It shall not modify, waive or amend,
+or consent to any modification, waiver or amendment of, any of the terms,
+provisions or conditions of the Operative Documents to which it is a party
+without the prior written consent of the Certificate Insurer except as permitted
+by the P&S Agreement.
+
+             (c) Clean-up Calls. The Servicer shall not exercise its right to
+terminate the Trust Fund by purchasing the Mortgage Loans and other assets at
+the applicable Termination Price, or otherwise, without the consent of the
+Certificate Insurer unless, as a result of the termination, all interest,
+principal and other amounts due or otherwise owed in respect of the Class M
+Certificates would be or otherwise are paid in full and, following such
+termination, all amounts reimbursable or otherwise payable to the Certificate
+Insurer under any Operative Document would be or otherwise are reimbursed or
+otherwise paid in full of the applicable Termination Price or other
+consideration payable in respect thereof. None of the Servicer, the Depositor or
+the Trustee shall appoint, consent to or otherwise suffer the appointment of any
+successor to the Servicer under the P&S Agreement without the consent of the
+Certificate Insurer unless such successor shall have agreed to be bound by the
+provisions of this Insurance Agreement and the Optional Termination Side Letter,
+and upon becoming the successor to the Servicer under the P&S Agreement, the
+Trustee shall be so bound.
+
+
+                                       17
+<PAGE>
+
+             (d) Creation of Indebtedness; Guarantees. Except as contemplated by
+the Documents, the Depositor shall not create, incur, assume or suffer to exist
+any indebtedness other than indebtedness guaranteed or approved in writing by
+the Certificate Insurer except debt for which there is no recourse to the
+Depositor excluding recourse to the assets pledged to secure such indebtedness.
+The Depositor shall not assume, guarantee, endorse or otherwise be or become
+directly or contingently liable for the obligations of any Person by, among
+other things, agreeing to purchase any obligation of another Person, agreeing to
+advance funds to such Person or causing or assisting such Person to maintain any
+amount of capital.
+
+             (e) Retirement of Certificates. The Trustee shall, upon retirement
+of the Class M Certificates, furnish to the Certificate Insurer a notice of such
+retirement and, upon such retirement, shall surrender the Policy to the
+Certificate Insurer for cancellation.
+
+             (f) No Change in Name, Etc. The Depositor shall not change its name
+(including using any trade names, fictitious names, assumed names or "doing
+business as" names), identity or organizational structure in any manner that
+would, could or might make any financing statement or continuation statement
+filed in connection with the closing of the Transactions, or otherwise in
+accordance herewith, seriously misleading unless it shall have given the
+Certificate Insurer at least 60 days' prior written notice thereof and shall
+have filed before the date of such change appropriate amendments to all such
+previously filed financing statements or continuation statements.
+
+             (g) Limitation on Mergers, Etc. The Depositor shall not consolidate
+with or merge with or into any Person or transfer all or substantially all of
+its assets to any Person or liquidate or dissolve except as provided in the
+Operative Documents to which it is a party or as permitted hereby. The Depositor
+shall furnish to the Certificate Insurer all information requested by the
+Certificate Insurer that is reasonably necessary to determine compliance with
+this paragraph.
+
+             (h) Successors. No successor Servicer, Paying Agent, Collateral
+Agent or Trustee shall be terminated or designated without the prior written
+approval of the Certificate Insurer, which consent shall not be unreasonably
+withheld or delayed.
+
+         Section 2.04. Representations, Warranties and Covenants of the
+Certificate Insurer. The Certificate Insurer represents and warrants to and
+covenants with the other parties hereto as follows:
+
+             (a) Organization and Licensing. The Certificate Insurer is duly
+authorized and validly existing stock insurance company organized under the
+Insurance Laws of the State of New York, duly qualified and licensed to issue
+financial guaranty insurance policies under the laws of the State of New York
+and is in good standing under the laws of that State.
+
+             (b) Corporate Power. The Certificate Insurer has the corporate
+power and authority to issue the Policy and execute and deliver this Insurance
+Agreement and to perform all of its obligations hereunder and thereunder.
+
+
+
+                                       18
+<PAGE>
+
+             (c) Authorization; Approvals. Proceedings legally required for the
+issuance and execution of the Policy and the execution, delivery and performance
+of this Insurance Agreement have been taken and licenses, orders, consents or
+other authorizations or approvals of any governmental boards or bodies legally
+required for the enforceability of the Policy and the conduct by the Certificate
+Insurer of the business and activities contemplated by the Transaction have been
+obtained; any proceedings not taken and any licenses, authorizations or
+approvals not obtained are not material to the enforceability of the Policy.
+
+             (d) Enforceability. The Policy, when issued, and this Insurance
+Agreement will each constitute a legal, valid and binding obligation of the
+Certificate Insurer, enforceable against the Certificate Insurer in accordance
+with its terms, subject to bankruptcy, insolvency, reorganization, moratorium,
+receivership and other similar laws affecting creditors' rights generally and to
+general principles of equity and subject to principles of public policy limiting
+the right to enforce the indemnification provisions contained therein and
+herein, insofar as such provisions relate to indemnification for liabilities
+arising under federal securities laws.
+
+             (e) Insurer Information. The Insurer Information is limited. With
+due regard for the limitations of the Insurer Information, however, as of the
+date of the Offering Document and as of the date hereof, the Insurer Information
+does not contain any untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary to make the statements
+contained therein, in the light of the circumstances under which they were made,
+not misleading. Copies of the Certificate Insurer's quarterly and annual
+statutory financial statements prepared on the basis of statutory accounting
+principles as filed with the New York State Insurance Department and annual
+financial statements prepared in accordance with generally accepted accounting
+principles are available upon written request to the Certificate Insurer.
+
+             (f) No Litigation. There are no actions, suits, proceedings or
+investigations pending or, to the best of the Certificate Insurer's knowledge,
+threatened against it at law or in equity or before or by any court,
+governmental agency, board or commission or any arbitrator which, if decided
+adversely, would materially and adversely affect its ability to perform its
+obligations under the Policy or this Insurance Agreement.
+
+             (g) The execution by the Certificate Insurer of this Insurance
+Agreement will not, and the satisfaction of the terms hereof will not, conflict
+with or result in a breach of any of the terms, conditions or provisions of the
+organizational documents of the Certificate Insurer, or any restriction
+contained in any contract, agreement or instrument to which the Certificate
+Insurer is a party or by which it is bound or constitute a default under any of
+the foregoing.
+
+             (h) Confidential Information. The Certificate Insurer agrees that
+it and its shareholders, directors, agents, accountants and attorneys shall keep
+confidential any information or matter of which it becomes aware (i) as a result
+of financial statements, reports or other information furnished pursuant to
+Section 2.02(c) or (ii) during the inspections conducted or discussions had
+pursuant to Section 2.02(e), unless such information is readily available from
+public sources or is disclosed to the Certificate Insurer on a non-confidential
+basis from any Person or source, which Person or source is not actually known to
+the Certificate Insurer to be subject to a confidentiality obligation to the
+Sellers, the Servicer or the Depositor, or except as may be otherwise required
+by regulation, law or court order or requested by appropriate governmental
+
+
+
+
+                                       19
+<PAGE>
+
+authorities or as necessary or expedient to preserve its rights or security
+under or to enforce any of the Operative Documents or any other agreement
+executed in connection with the transactions related to the Operative Documents
+to which the Certificate Insurer is a party or of which the Certificate Insurer
+is a third party beneficiary, or in connection with the defense of any legal
+proceeding in which the Certificate Insurer is a party; provided, however, that
+the foregoing shall not limit the right of the Certificate Insurer to make such
+information available to its regulators, rating agencies, reinsurers,
+participants, credit and liquidity providers, any government sponsored entities,
+counsel and accountants. If the Certificate Insurer is requested or required (by
+oral questions, interrogatories, requests for information or documents subpoena,
+civil investigative demand or similar process) to disclose any information of
+which it becomes aware through such inspections or discussions, the Certificate
+Insurer will promptly notify the Sellers, the Servicer and the Depositor of such
+request(s) so that the Sellers, the Servicer and the Depositor may seek an
+appropriate protective order and/or waive the Certificate Insurer's compliance
+with the provisions of this Insurance Agreement, unless the Certificate Insurer,
+in the opinion of its counsel, is prohibited from providing such notice by any
+tribunal, court or governmental agency or other governmental or
+quasi-governmental authority. If, in the absence of a protective order or the
+receipt of a waiver hereunder, the Certificate Insurer is, nonetheless, in the
+opinion of its counsel, compelled to disclose such information to any tribunal
+or else suffer a penalty or liability, the Certificate Insurer may disclose such
+information to such tribunal that the Certificate Insurer is compelled to
+disclose; provided, however, that a copy of all information disclosed is
+provided to the Sellers, the Servicer and the Depositor promptly upon such
+disclosure; provided, further, however, that no such copy must be delivered or
+supplied if the Certificate Insurer, in the opinion of its counsel, is
+prohibited from providing such a copy by any tribunal, court or governmental
+agency or other governmental or quasi-governmental authority.
+
+             (i) Compliance with Law, Etc. No practice, procedure or policy
+employed, or proposed to be employed, by the Certificate Insurer in the conduct
+of its business violates any law, regulation, judgment, agreement, order or
+decree applicable to the Certificate Insurer that, if enforced, could result in
+a Material Adverse Change with respect to the Certificate Insurer.
+
+             (j) Rating. The Certificate Insurer is not aware of any facts with
+regard to itself which, if disclosed to S&P or Fitch, would be reasonably
+expected to result in a downgrade of the rating of the claims paying ability of
+the Certificate Insurer by S&P or Fitch.
+
+             (k) Securities Act Registration. To the extent that the Policy
+constitutes a security within the meaning of Section 2(1) of the Securities Act,
+the Policy is a security that is exempt from registration under the Securities
+Act pursuant to the exemption provided by Section 3(a)(8) thereof.
+
+                                  ARTICLE III
+                            THE POLICY; REIMBURSEMENT
+
+         Section 3.01. Issuance of the Policy. The Certificate Insurer
+agrees to issue the Policy on the Closing Date subject to satisfaction of the
+conditions precedent set forth below on or prior to the Closing Date:
+
+
+
+                                       20
+<PAGE>
+
+             (a) Payment of Fees, Premium and Expenses. The Certificate Insurer
+shall have been paid or reimbursed for, or payment shall have been made on
+behalf of the Certificate Insurer of, that portion of the Premium and those fees
+and expenses that are payable on the Closing Date;
+
+             (b) Operative Documents. The Certificate Insurer shall have
+received a copy of each of the Operative Documents, in form and substance
+reasonably satisfactory to the Certificate Insurer, duly authorized, executed
+and delivered by each party thereto (other than the Certificate Insurer);
+
+             (c) Certified Documents and Resolutions. The Certificate Insurer
+shall have received copies of (i) the organizational documents for each of the
+Sellers, the Servicer, the Depositor and the other parties to the Operative
+Documents and (ii) the resolutions of the Board of Directors of each such Person
+authorizing the issuance of the Certificates and the execution, delivery and
+performance by such Person of the Operative Documents to which it is a party and
+the transactions contemplated thereby, certified by the Secretary or an
+Assistant Secretary of such Person (which certificate shall state that such
+organizational documents are in full force and effect without modification on
+the Closing Date);
+
+             (d) Incumbency Certificate. The Certificate Insurer shall have
+received a certificate of the Secretary or an Assistant Secretary of each of the
+Sellers, the Servicer, the Depositor and the other parties to the Operative
+Documents certifying the names and signatures of the officers of each such
+Person authorized to execute and deliver the Operative Documents to which such
+Person is a party and that shareholder consent to the execution and delivery of
+such documents is not necessary or has been obtained;
+
+             (e) Representations and Warranties. The representations and
+warranties of the Sellers, the Servicer, and the Depositor set forth or
+incorporated by reference in this Insurance Agreement shall be true and correct
+on and as of the Closing Date as if made on the Closing Date and the Certificate
+Insurer shall have received a certificate of appropriate officers of each such
+Person to that effect;
+
+             (f) Opinions of Counsel. The Certificate Insurer shall have
+received opinions of counsel addressed to the Certificate Insurer in respect of
+the Sellers, the Servicer and the Depositor, and the other parties to the
+Operative Documents and the Transaction, in form and substance satisfactory to
+the Certificate Insurer and addressing such matters as the Certificate Insurer
+may reasonably request;
+
+             (g) Approvals, Etc. The Certificate Insurer shall have received
+true and correct copies of all approvals and consents, if any (including any
+required approval of the shareholders or other owners of equity interests in
+each of the Sellers, the Servicer and the Depositor), required in connection
+with the Transaction;
+
+             (h) No Litigation, Etc. No suit, action or other proceeding,
+investigation or injunction, or final judgment relating thereto, shall be
+pending or threatened before any court, governmental or administrative agency or
+
+
+
+
+                                       21
+<PAGE>
+
+arbitrator in which it is sought to restrain or prohibit or to obtain damages or
+other relief in connection with any of the Operative Documents or the
+consummation of the Transaction;
+
+             (i) Legality. No statute, rule, regulation or order shall have been
+enacted, entered or deemed applicable by any government or governmental or
+administrative agency or court that would make the Transaction illegal or
+otherwise prevent the consummation thereof;
+
+             (j) Satisfaction of Conditions of the Underwriting Agreement. All
+conditions in the Underwriting Agreement relating to the Underwriters'
+obligation to purchase the Certificates shall have been satisfied. The
+Certificate Insurer shall have received copies of each of the documents, and
+shall be entitled to rely on each of the documents (other than the opinion of
+counsel to the Underwriter), required to be delivered to the Underwriter
+pursuant to the Underwriting Agreement;
+
+             (k) Issuance of Ratings. The Certificate Insurer shall have
+received confirmation that the Class M Certificates insured by the Policy are
+rated at least "BBB" by S&P and Fitch, without regard to the Policy, and that
+the Class M Certificates, when issued, will be rated at least "AA" by S&P and
+Fitch;
+
+             (l) No Default. No Default or Event of Default shall have occurred;
+
+             (m) Additional Items. The Certificate Insurer shall have received
+such other documents, instruments, approvals or opinions reasonably requested by
+the Certificate Insurer, including evidence satisfactory to the Certificate
+Insurer that the conditions precedent, if any, in the other Operative Documents
+have been satisfied; and
+
+             (n) Satisfactory Documentation. The Certificate Insurer and its
+counsel shall have reasonably determined that all agreements, instruments,
+certificates, opinions and other documents to be delivered in connection with
+the issuance of the Class M Certificates conform to the terms of the Operative
+Documents and the Offering Document.
+
+         Section 3.02. Payment of Fees and Premium.
+
+             (a) Legal, Accounting and Due Diligence Fees. ABC Inc. shall pay or
+cause to be paid to the Certificate Insurer, on the Closing Date, the legal,
+accounting and due diligence fees of the Certificate Insurer, as well as
+disbursements of counsel to the Certificate Insurer.
+
+             (b) Rating Agency Fees. ABC Inc. will promptly pay or cause to be
+paid the initial fees of S&P and Fitch with respect to the Class M Certificates
+and the transactions contemplated hereby following, receipt of a statement with
+respect thereto. All periodic and subsequent fees of S&P or Fitch with respect
+to, and directly allocable to, the Class M Certificates shall be for the account
+of, and shall be billed to, ABC Inc.. The fees for any other rating agency shall
+be paid by the party requesting such other agency's rating, unless such other
+agency is a substitute for S&P or Fitch in the event that S&P or Fitch is no
+longer rating the Class M Certificates, in which case the fees for such agency
+shall be paid by ABC Inc.
+
+
+
+                                       22
+<PAGE>
+
+         (c) Premium. In consideration of the issuance by the Certificate
+Insurer of the Policy, the Certificate Insurer shall be entitled to receive
+pursuant to this Insurance Agreement and the P&S Agreement, in the State of New
+York, the Premium as and when due in accordance with the terms of this Insurance
+Agreement (i) in the case of the Premium due on the Closing Date, directly from
+the net proceeds of the issuance of the Class M Certificates or from ABC Inc. to
+the extent that such proceeds are insufficient to pay such Premium, and (ii) on
+each Distribution Date, pursuant to Section 6.05 of the P&S Agreement until the
+Class M Certificates have been indefeasibly paid in full. The Premium paid under
+this Insurance Agreement or under the P&S Agreement shall be nonrefundable and
+the right of the Certificate Insurer to receive any Premium payable hereunder or
+thereunder shall be absolute and unconditional, in each case without regard to
+whether the Certificate Insurer makes any payment under the Policy or any other
+circumstances relating to the Class M Certificates or the Policy (including any
+provision being made for payment of the Class' M Certificates prior to
+maturity). All payments of the Premium shall be made to the Certificate Insurer
+by wire transfer to an account designated by the Certificate Insurer in a
+written notice to ABC Inc. and the Trustee.
+
+     Section 3.03. Reimbursement Obligation.
+
+         (a) As and when due in accordance with and from the funds specified in
+Section 6.05 of the P&S Agreement, the Certificate Insurer shall be entitled to
+reimbursement for any payment made by the Certificate Insurer under the Policy
+and any other amount reimbursable or otherwise payable to the Certificate
+Insurer under this Agreement, to the extent not previously reimbursed or
+otherwise paid. Such right of reimbursement shall be absolute and unconditional,
+in each case without regard to whether the Certificate Insurer makes any payment
+under the Policy or any other circumstances relating to the Class M Certificates
+or the Policy (including any provision) being made for payment of the Class M
+Certificates prior to maturity). Reimbursement shall be due and payable on the
+date that any such amount is paid, in an amount equal to the amount so paid and
+all such amounts previously paid that remain unreimbursed, together with
+interest on any and all such amounts remaining unreimbursed (to the extent
+permitted by law, if in respect of any unreimbursed amounts representing
+interest) from the date such amounts became due until paid in full (after as
+well as before judgment), at a rate of interest equal to the Late Payment Rate.
+
+         (b) Each of the Depositor, the Sellers and the Servicer agrees to pay,
+anything herein or in any of the other Operative Documents to the contrary
+notwithstanding, and the Certificate Insurer shall be entitled to full
+reimbursement from it for:
+
+             (i) in the case of the Servicer, (A) any payment made under the
+Policy' arising as a result of any failure by the Servicer to repurchase,
+substitute for or otherwise deposit any amount required to be deposited in
+respect of any Mortgage Loan as mandated by any Operative Document (whether
+because defective or otherwise), together with interest on any and all such
+amounts remaining unreimbursed (to the extent permitted by law, if in respect of
+any such unreimbursed amounts representing interest) from the date such amounts
+became due until paid in full (after as well as before judgment), at a rate of
+interest equal to the Late Payment Rate, and (B) any payment made under the
+Policy arising as a result of the failure by the Servicer to otherwise pay or
+deposit any amount required to be paid or deposited pursuant to the Operative
+Documents (other than the Certificates), together with interest on any and all
+
+
+
+
+                                       23
+<PAGE>
+
+such amounts remaining unreimbursed (to the extent permitted by law, if in
+respect of any such unreimbursed amounts representing interest) from the date
+such amounts became due until paid in full (after as well as before judgment),
+at a rate of interest equal to the Late Payment Rate;
+
+             (ii) in case of the Sellers, (A) any payment made under the Policy
+arising as a result of its failure to repurchase, substitute for or otherwise
+deposit any amount required to be deposited in respect of any Mortgage Loan as
+mandated by the Purchase Agreement (whether because defective or otherwise),
+together with interest on any and alt such amounts remaining unreimbursed (to
+the extent permitted by law, if in respect of any such unreimbursed amounts
+representing interest) from the date such amounts became due until paid in full
+(after as well as before judgment), at a rate of interest equal to the Late
+Payment Rate; and
+
+             (iii) in the case of the Depositor, any payment made under the
+Policy arising as a result of a breach by the Depositor of any of its
+representations, warranties, covenants or agreements in any of the Operative
+Documents (including any failure to make any payment, remittance or deposit
+required to be made by it pursuant to the Operative Documents (other than the
+Certificates)), together with interest on any and all such amounts remaining
+unreimbursed (to the extent permitted by law, if in respect of any such
+unreimbursed amounts representing interest) from the date such amounts became
+due until paid in full (after as well as before judgment), at a rate of interest
+equal to the Late Payment Rate.
+
+         (c) Each of the Sellers, the Depositor and the Servicer agrees to pay
+to the Certificate Insurer any and all reasonable charges, fees, costs and
+expenses that the Certificate Insurer may reasonably pay or incur, including
+reasonable attorneys' and accountants' fees and expenses, in connection with:
+
+             (i) in the case of the Depositor, the enforcement, defense or
+preservation of any rights in respect of any of the Operative Documents as
+against or otherwise relating to it, including defending, monitoring or
+participating in any litigation or proceeding (including any bankruptcy or other
+insolvency proceeding in respect of any Transaction participant or any affiliate
+thereof) relating to any of the Operative Documents or any party to any of the
+Operative Documents (in its capacity as such a party) or the Transaction; and
+
+             (ii) in the case of the Sellers and the Servicer, (i) any accounts
+established to facilitate payments under the Policy to the extent that the
+Certificate Insurer has not been immediately reimbursed on the date that any
+amount is paid by the Certificate Insurer under the Policy, (ii) the
+enforcement, defense or preservation of any rights in respect of any of the
+Operative Documents as against or otherwise relating to it, including defending,
+monitoring or participating in any litigation or proceeding (including any
+bankruptcy or other insolvency proceeding in respect of any Transaction
+participant or any affiliate thereof) relating to any of the Operative
+Documents, any party to any of the Operative Documents (in its capacity as such
+a party) or the Transaction or (iii) any amendment, waiver, consent or other
+action with respect to, or related to, any Operative Document, whether or not
+executed or completed.
+
+
+                                       24
+<PAGE>
+
+
+Costs and expenses shall include a reasonable allocation of compensation and
+overhead (up to a limit of $30,000 in the aggregate) attributable to the time of
+employees of the Certificate Insurer spent in connection with the actions
+described above (other than surveillance and monitoring), and the Certificate
+Insurer reserves the right to charge a reasonable fee as a condition to
+executing any waiver or consent proposed in respect of any of the Operative
+Documents. Payments under this subsection 3.03(c) shall be made as the related
+charges, fees, costs or expenses are paid or incurred by the Certificate
+Insurer. All amounts payable under this Section 3.03 are to be immediately due
+and payable without demand, in full, without any requirement on the part of the
+Certificate Insurer or any other Person to seek reimbursement of such amounts
+from any source of reimbursement or indemnity, or to allocate such amounts to
+any other transaction that may have benefited from the expenditure of such
+amounts.
+
+         (d) Each of the Sellers, the Servicer and the Depositor agrees to pay
+to the Certificate Insurer interest on any and all amounts specified in
+subsection 3.03(b) or 3.03(c) from the date payable until payment thereof in
+full and to pay to the Certificate Insurer interest on any and all amounts
+specified in Section 3.02 or 3.04 from the date such amounts become due or, in
+the case of Section 3.04, are incurred or paid by the Certificate Insurer until
+payment thereof in full (after as well as before judgment), in each case at the
+Late Payment Rate.
+
+     Section 3.04. Indemnification.
+
+         (a) In addition to any and all of the Certificate Insurer's rights of
+reimbursement, indemnification, subrogation and to any other rights of the
+Certificate Insurer pursuant hereto or under law or in equity, each of the
+Depositor, the Sellers and the Servicer agrees to pay, and to protect, indemnify
+and save harmless, the Certificate Insurer and its officers, directors,
+shareholders, employees, agents and each Person, if any, who controls the
+Certificate Insurer within the meaning of either Section 15 of the Securities
+Act or Section 20 of the Securities Exchange Act from and against, any and all
+claims, losses, liabilities (including penalties), actions, suits, judgments,
+demands, damages, costs or expenses (including reasonable fees and expenses of
+attorneys, consultants and auditors and reasonable costs of investigations
+actually incurred) of any nature (including payments made under the Policy):
+
+             (i) in the case of the Depositor and the Servicer (subject to the
+proviso that, to the extent not required to be paid by the Certificate Insurer
+to any other Person, the Servicer shall not be required to pay to the
+Certificate Insurer or to protect, indemnify or hold the Certificate Insurer
+harmless against punitive or other exemplary damages or loss of profits),
+arising out of or relating to the breach by the Depositor or, with respect to
+the Servicer, its breach of any of the representations, warranties or covenants
+contained herein or arising out of or relating to the transactions contemplated
+by the Operative Documents by reason of:
+
+                 (A) with, respect to the Depositor only, any omission or action
+in connection with the offering, sale, issuance or delivery of the Certificates
+by the Depositor, other than those covered by subparagraph (F) below;
+
+                 (B) the misfeasance or malfeasance of, or gross negligence or
+theft committed by, the Depositor or, with respect to the Servicer, itself, or
+any director, officer, employee, agent, independent contractor or other
+
+
+
+
+                                       25
+<PAGE>
+
+representative of any such Person, in connection with the Transaction or arising
+from or relating to any Operative Document;
+
+                 (C) the violation by the Depositor or, with respect to the
+Servicer, itself of (a) any United States federal, state or local law, rule or
+regulation or (b) any judgment, order or decree that is applicable to any such
+Person;
+
+                 (D) the breach by the Depositor or, with respect to the
+Servicer, itself of any representation, warranty, or covenant under any of the
+other Operative Documents or the occurrence, in respect of any such Person under
+any of the other Operative Documents, of any "incipient default" or "event of
+default";
+
+                 (E) shortfalls, if any (but in the case of the Servicer, only
+to the extent caused by it), attributable to the (A) liability of any Person for
+taxes payable in respect of the Certificates or any interest or interests
+represented thereby, (B) failure to qualify or loss of status by, or termination
+of, any REMIC as such or (C) imposition of income or other taxes on or with
+respect to the Trust or the Trust Fund; or
+
+                 (F) subject to the proviso that the Servicer shall be liable
+under this subparagraph (F) only in respect of the Servicing Information and
+that the Depositor shall not have liability in respect of the Servicing
+Information, any untrue statement or alleged untrue statement of a material fact
+contained in the Offering Document (or any preliminary version thereof or
+information provided in addition thereto, to the extent not corrected in the
+Offering Document as delivered or any subsequently provided additional
+information consistent therewith), or any omission or alleged omission to state
+in the Offering Document (or any preliminary version thereof or information
+provided in addition thereto, to the extent not corrected in the Offering
+Document as delivered or any subsequently provided additional information
+consistent therewith) a material fact required to be stated in the Offering
+Document (or any preliminary version thereof or information provided in addition
+thereto, to the extent not corrected in the Offering Document as delivered or
+any subsequently provided additional information consistent therewith) or
+necessary to make the statements in the Offering Document (or any preliminary
+version thereof or information provided in addition thereto, to the extent not
+corrected in the Offering Document as delivered or any subsequently provided
+additional information consistent therewith), in the light of the circumstances
+under which they were made, not misleading; and provided, further, that this
+subparagraph (F) does not cover the Insurer Information, the Underwriters
+Information and the Mortgage Loan Information; and
+
+             (ii) in the case of each of the Sellers, arising out of or relating
+to its breach of any of the representations, warranties or covenants contained
+herein or arising out of or relating to the transactions contemplated by the
+Operative Documents by reason of:
+
+                 (A) the misfeasance or malfeasance of, or gross negligence or
+theft committed by, it or any of its directors, officers, employees, agents,
+independent contractors or other representatives in connection with the
+Transaction or arising from or relating to any Operative Document;
+
+
+
+                                       26
+<PAGE>
+
+                 (B) the occurrence under any of the other Operative Documents,
+of any "incipient default" or "event of default"; or
+
+                 (C) any (1) untrue statement or alleged untrue statement of any
+material fact contained in the Mortgage Loan Information, or the omission or the
+alleged omission to state therein a material fact required to be stated therein
+or necessary in order to make the statements therein, in the light of the
+circumstances under which they were made, not misleading or (2) representation,
+warranty or covenant made by any of the Sellers in the Purchase Agreement, the
+P&S Agreement or any of the other Operative Documents, being or alleged to be
+untrue or incorrect.
+
+         (b) The Certificate Insurer agrees to pay, and to protect, indemnify
+and save harmless, the Sellers, the Servicer, the Trustee and the Depositor, and
+their respective officers, directors, shareholders, employees, agents and each
+Person, if any, who controls any of them, within the meaning of either Section
+15 of the Securities Act or Section 20 of the Securities Exchange Act from and
+against, any and all claims, losses, liabilities (including penalties), actions,
+suits, judgments, demands, damages, costs or expenses (including reasonable fees
+and expenses of attorneys, consultants and auditors and reasonable costs of
+investigations) of any nature arising out of or by reason of (i) any untrue
+statement or alleged untrue statement of a material fact contained in the
+Insurer Information or any omission or. alleged omission to state in the Insurer
+Information a material fact required to be stated therein or necessary to make
+the statements therein, in the light of the circumstances under which they were
+made, not misleading, (ii) any failure of the Certificate Insurer to make a
+payment required to be made under the Policy or (iii) a breach of any of the
+representations and warranties of the Certificate Insurer contained in Section
+2.04.
+
+         (c) If any action or proceeding (including any governmental
+investigation) shall be brought or asserted against any Person (individually, an
+"Indemnified Party" and, collectively, the "Indemnified Parties") in respect of
+which the indemnity provided, in Section 3.04(a) or (b) may be sought from any
+party under Section 3.04(a), on the one hand, or the Certificate Insurer, on the
+other (each, an "Indemnifying Party") hereunder, each such Indemnified Party
+shall promptly notify the Indemnifying Party in writing, and the Indemnifying
+Party shall assume the defense thereof, including the employment of counsel
+reasonably satisfactory to the Indemnified Party and the payment of all expenses
+thereof. The omission so to notify the Indemnifying Party will not relieve it
+from any liability which it may have to any Indemnified Party except to the
+extent the Indemnifying Party is prejudiced thereby. The Indemnified Party shall
+have the right to employ separate counsel in any such action and to participate
+in the defense thereof at the expense of the Indemnified Party, but the fees and
+expenses of such separate counsel shall be at the expense of the Indemnifying
+Party if (i) the Indemnifying Party has agreed in writing to pay such fees and
+expenses, (ii) the Indemnifying Party shall have failed within a reasonable
+period of time to assume, the defense of such action or proceeding and employ
+counsel reasonably satisfactory to the Indemnified Party in any such action or
+proceeding or (iii) the named parties to any such action or proceeding
+(including any impleaded parties) include both the Indemnified Party and the
+Indemnifying Party, and the Indemnified Party shall have been advised by counsel
+that there may be one or more legal defenses available to it which are different
+from or additional to those available to the Indemnifying Party (in which case,
+if the Indemnified Party notifies the Indemnifying Party in writing that it
+
+
+
+
+                                       27
+<PAGE>
+
+elects to employ separate counsel at the expense of the Indemnifying Party, the
+Indemnifying Party shall not have the right to assume the defense of such action
+or proceeding on behalf of such Indemnified Party, it being understood, however,
+that the Indemnifying Party shall not, in connection with any one such action or
+proceeding or separate but substantially similar or related actions or
+proceedings in the same jurisdiction arising out of the same general allegations
+or circumstances, be liable at any time for the reasonable fees and expenses of
+more than one separate firm of attorneys acting as general counsel and one
+separate firm of attorneys acting as local counsel for the Indemnified Parties,
+which firm or firms shall be designated in writing by the Indemnified Party and
+shall be reasonably satisfactory to the Indemnifying Party). The Indemnifying
+Party shall not be liable for any settlement of any such action or proceeding
+effected without its written consent, which consent shall not be unreasonably
+withheld, conditioned or delayed, but, if settled with its written consent, or
+if there is a final judgment for the plaintiff in any such action or proceeding
+with respect to which ,the Indemnifying Party shall have received notice in
+accordance with this subsection (c), the Indemnifying Party agrees to indemnify
+and hold the Indemnified Parties harmless from and against any loss or liability
+by reason of such settlement or judgment. Notwithstanding anything in this
+paragraph to the contrary, the consent of such Indemnified Party shall not be
+required if such settlement fully discharges, with prejudice against the
+plaintiff, the claim or action against such Indemnified Party.
+
+         (d) To provide for just and equitable contribution if the
+indemnification provided by the Indemnifying Party is determined to be
+unavailable or insufficient to hold harmless any Indemnified Party (other than
+due to application of this Section), each Indemnifying Party shall contribute to
+the losses incurred by the Indemnified Parties on the basis of the relative
+fault of the Indemnifying Party, on the one hand, and the Indemnified Parties,
+on the other hand.
+
+     Section 3.05. Payment Procedure. In the event of any payment by the
+Certificate Insurer, each other party hereto agrees to accept the voucher or
+other evidence of payment as prima facie evidence of the propriety thereof and
+the liability, if any, described in Section 3.03 therefor to the Certificate
+Insurer. All payments to be made to the Certificate Insurer under this Insurance
+Agreement shall be made to the Certificate Insurer in lawful currency of the
+United States of America in immediately available funds at the notice address
+for the Certificate Insurer as specified herein on the date when due or as the
+Certificate Insurer shall otherwise direct by written notice to the other
+parties hereto. In the event that the date of any payment to the Certificate
+Insurer or the expiration of any time period hereunder occurs on a day that is
+not a Business Day, then such payment or expiration of time period shall be made
+or occur on the next succeeding Business Day with the same force and effect as
+if such payment was made or time period expired on the scheduled date of payment
+or expiration date except as provided in Section 6.05. Payments to be made to
+the Certificate Insurer hereunder shall bear interest at the Late Payment Rate
+from and including the date when payable to but excluding the date when paid.
+
+     Section 3.06. Subrogation.
+
+         (a) The parties hereto acknowledge that, to the extent of any payment
+made by the Certificate Insurer pursuant to the Policy, the Certificate Insurer
+
+
+
+
+                                       28
+<PAGE>
+
+shall be subrogated to the rights of each Class M Certificateholder to receive
+payments in respect of the Class M Certificates, all in accordance with the P&S
+Agreement and in accordance with the priorities set forth therein for
+reimbursement of the Certificate Insurer as provided herein and therein. The
+Depositor agrees to take, or cause to be taken, all actions deemed desirable by
+the Certificate Insurer to preserve, enforce, perfect or maintain the perfection
+in the Certificate Insurer's favor of such rights and of all equitable rights of
+subrogation.
+
+         (b) Each of the parties hereto agrees to promptly and duly take,
+execute, acknowledge and deliver such further acts, documents, instruments and
+assurances as the Certificate Insurer may from time to time reasonably request
+to more effectively evidence any rights to assignment or subrogation under this
+Article III, and to protect and perfect all of the Certificate Insurer's other
+rights.
+
+     Section 3.07. Assignment and Other Rights.
+
+         (a) In consideration of the issuance of the Policy by the Certificate
+Insurer, in the case of any payment made by or on behalf of the Certificate
+Insurer under the Policy, in addition to and not by way of limitation of any of
+the rights and remedies of the Certificate Insurer hereunder, under the Policy
+or under the P&S Agreement with respect to such payment, each of the Depositor,
+the Sellers and the Servicer hereby acknowledges and consents to the assignment
+by the Trustee, on behalf of the Class M Certificateholders, to the Certificate
+Insurer in accordance with the terms of the relevant notice and certificate (in
+the case of any payment made by or on behalf of the Certificate Insurer under
+the Policy) the rights of the Class M Certificateholders with respect to the
+Class M Certificates to the extent of any such payment made on the Class M
+Certificates under the Policy.
+
+         (b) The rights and remedies of the Certificate Insurer described in
+clause (a) above are in addition to, and not in limitation of, the rights of
+subrogation and other rights and remedies otherwise available to the Certificate
+Insurer in respect of payments under the Policy made by the Certificate Insurer.
+The Trustee shall take such action and deliver such instruments as may be
+reasonably requested or required by the Certificate Insurer to effectuate the
+purpose or provisions of this Section 3.07.
+
+                                   ARTICLE IV
+                               FURTHER AGREEMENTS
+
+     Section 4.01. Effective Date; Term of the Insurance Agreement. This
+Insurance Agreement shall take effect on the Closing Date and shall remain in
+effect until the later of such time as (a) the Certificate Insurer is no longer
+subject to a claim under the Policy and the Policy shall have been surrendered
+to the Certificate Insurer for cancellation and (b) all amounts payable to the
+Certificate Insurer by any party hereunder or from any other source hereunder or
+under any or the other Operative Documents, and all amounts payable under the
+Class M Certificates, have been indefeasibly paid in full; provided, that the
+provisions of Sections 3.02, 3.03 and 3.04 hereof shall survive any termination
+of this Insurance Agreement.
+
+     Section 4.02. Further Assurances and Corrective Instruments.
+
+
+
+                                       29
+<PAGE>
+
+         (a) Except at such times as a default in payment under the Policy shall
+exist or shall have occurred, none of the parties hereto shall grant any waiver
+of rights under any of the Operative Documents to which it is a party without
+the prior written consent of the Certificate Insurer, which shall not be
+unreasonably withheld, conditioned or delayed and any such waiver without prior
+written consent of the Certificate Insurer shall be null and void and of no
+force or effect.
+
+         (b) To the extent permitted by law, each party hereto agrees that it
+will promptly and from time to time execute, acknowledge and deliver, or cause
+to be executed, acknowledged and delivered, such supplements hereto and such
+further instruments as the Certificate Insurer may reasonably request and as may
+be required in the Certificate Insurer's judgment to effectuate the intention of
+or facilitate the performance of this Insurance Agreement.
+
+     Section 4.03. Obligations Absolute.
+
+         (a) The obligations of the parties hereto shall be absolute and
+unconditional and shall be paid or performed strictly in accordance with this
+Insurance Agreement under all circumstances irrespective of:
+
+             (i) any lack of validity or enforceability of any of the Operative
+Documents or any amendment or other modification of, or waiver with respect to,
+any of the Operative Documents;
+
+             (ii) any exchange or release of any other obligations hereunder or
+under any other Operative Document, or of any guarantee of or security for any
+obligations hereunder or thereunder;
+
+             (iii) the existence of any claim, counterclaim, setoff, defense,
+reduction, abatement or other right that any Person may have at any time against
+the Certificate Insurer or any other Person, including with respect to the
+liability of any other Person for the payment of any such obligation;
+
+             (iv) any document presented in connection with the Policy proving
+to be forged, fraudulent, invalid or insufficient in any respect or any
+statement therein being untrue or inaccurate in any respect;
+
+             (v) any payment by the Certificate Insurer under the Policy against
+presentation of a certificate or other document that does not strictly comply
+with terms of
+the Policy;
+
+             (vi) any failure of the Depositor or ABC Inc. to receive the
+proceeds from the sale of the Certificates; and
+
+             (vii) the inaccuracy or alleged inaccuracy of any Servicer
+Remittance Report or any notice and certificate upon which any drawing under the
+Policy is based;
+
+             (viii) the bankruptcy or insolvency of the Certificate Insurer or
+any other party or any default or alleged default of the Certificate Insurer
+under the Policy;
+
+
+
+                                       30
+<PAGE>
+
+             (ix) any nonapplication or misapplication of the proceeds of any
+drawing upon the Policy; and
+
+             (x) any other circumstances, other than payment in full, that might
+otherwise constitute a defense available to, or discharge of, any party to any
+Operative Document.
+
+         (b) The Sellers, the Servicer and the Depositor and any and all others
+who are now or may become liable for all or part of their respective obligations
+under this Insurance Agreement, agree to be bound by this Insurance Agreement or
+any other Operative Document and, to the extent permitted by applicable law,
+waive and renounce the right to assert as a defense to the performance of their
+respective obligations each of the following: (i) any and all redemption and
+exemption rights and the benefit of all valuation and appraisement privileges
+against the indebtedness and obligations evidenced by any Operative Document or
+by any extension or renewal thereof; (ii) diligence, presentment and demand for
+payment, notices of nonpayment and of dishonor, protest of dishonor and notice
+of protest; (iii) all notices in connection with the delivery and acceptance
+hereof and all other notices in connection with the performance, default or
+enforcement of any payment hereunder, except as required by the Operative
+Documents; (iv) all rights of abatement, diminution, postponement or deduction,
+and to any defense other than payment, and to any right of setoff or recoupment
+arising out of any breach under any of the Operative Documents, by any party
+thereto or any beneficiary thereof, or out of any obligation at any time owing
+to any of them; and (v) any requirement that any Person exhaust any right, power
+or remedy or proceed against any other Person under this Insurance Agreement or
+any other Operative document, or against any other Person or any collateral
+under any other obligation to pay, guarantee or security arrangement.
+
+         (c) The Sellers, the Servicer, the Depositor and any and all others who
+are now or may become liable for all or part of their respective obligations
+under this Insurance Agreement, to the extent permitted by law, agree to be
+bound by this Insurance Agreement and (i) agree that its liabilities hereunder
+shall, except as otherwise expressly provided herein, be absolute and
+unconditional and without regard to any setoff or counterclaim or the liability
+of any other Person for the payment thereof; (ii) agree that any consent, waiver
+or forbearance hereunder with respect to an event shall operate only for such
+event and not for any subsequent event; (iii) consent to any and all extensions
+of time that may be granted by the Certificate Insurer with respect to any
+payment hereunder or other provisions hereof and to the release of any security
+at any time given for any payment hereunder, or any part thereof, with or
+without substitution, and to the release of any Person or entity liable for any
+such payment; and (iv) consent to the addition of any and all other makers,
+endorsers, guarantors and other obligors for any payment hereunder, and to the
+acceptance of any and all other security for any payment hereunder, and agree
+that the addition of any such obligors or security shall not affect the
+liability of the parties hereto for any payment hereunder.
+
+         (d) The obligations of ABC Inc. under Sections 3.03 and 3.04 shall be
+automatically restored and reinstated if and to the extent that for any reason
+any payment by or on behalf of any Seller is rescinded or must be otherwise
+restored by any Person, whether as a result of any proceedings in bankruptcy or
+reorganization or otherwise, and ABC Inc. agrees to indemnify each such Person
+on demand for all reasonable costs and expenses (including fees and
+
+
+
+
+                                       31
+<PAGE>
+
+disbursements of counsel) incurred by such Person in connection with such
+rescission or restoration.
+
+         (e) The obligations of ABC Inc. under Sections 3.03 and 3.04 are
+continuing obligations and shall apply to all related amounts and other
+obligations whenever arising.
+
+         (f) Except as otherwise provided in this Insurance Agreement, nothing
+herein shall be construed as prohibiting any party hereto from pursuing any
+rights or remedies it may have against any Person in a separate legal
+proceeding.
+
+     Section 4.04. Assignments; Reinsurance; Third-Party Rights.
+
+         (a) This Insurance Agreement shall be a continuing obligation of the
+parties hereto and shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and permitted assigns. None of the
+Sellers, the Servicer, the Depositor or the Trustee may assign any of their
+respective rights under this Insurance Agreement or any other Operative
+Document, or delegate any of their respective duties hereunder or thereunder,
+without the prior written consent of the Certificate Insurer. Any assignments
+made in violation of this Insurance Agreement shall be null and void.
+
+         (b) The Certificate Insurer shall have the right to give participations
+in its rights under this Insurance Agreement and to enter into contracts of
+reinsurance with respect to the Policy upon such terms and conditions as the
+Certificate Insurer may in its discretion determine; provided, however, that no
+such participation or reinsurance agreement or arrangement shall relieve the
+Certificate Insurer of any of its obligations hereunder or under the Policy. The
+Certificate Insurer shall be entitled to assign or pledge to any bank or other
+investor providing liquidity or credit with respect to the Transaction or the
+obligations of the Certificate Insurer in connection therewith any rights of the
+Certificate Insurer under the Operative Documents or with respect to any real or
+personal property or other interests pledged to the Certificate Insurer, or in
+which the Certificate Insurer has a security interest, in connection with the
+Transaction.
+
+         (c) Except as provided herein with respect to participants and
+reinsurers, nothing in this Insurance Agreement shall confer any right, remedy
+or claim, express or implied, upon any Person, including, particularly, any
+Certificateholder or Certificate Owner, other than the Certificate Insurer
+against the Sellers, the Servicer or the Depositor, and all the terms,
+covenants, conditions, promises and agreements contained herein shall be for the
+sole and exclusive benefit of the parties hereto and their successors and
+permitted assigns. None of the Trustee or any Certificateholder or Certificate
+Owner shall have any right to payment from any Premiums paid or payable under
+the P&S Agreement pursuant hereto or from any amounts paid pursuant to Sections
+3.02, 3.03 or 3.04.
+
+     Section 4.05. Liability of the Certificate Insurer. Neither the
+Certificate Insurer nor any of its officers, directors or employees shall be
+liable or responsible for: (a) the use that may be made of the Policy by the
+Trustee or for any acts or omissions of the Trustee in connection therewith; or
+(b) the validity, sufficiency, accuracy or genuineness of documents delivered to
+
+
+
+
+                                       32
+<PAGE>
+
+the Certificate Insurer in connection with any claim under the Policy, or of any
+signatures thereon, even if such documents or signatures should in fact prove to
+be in any or all respects invalid, insufficient, fraudulent or forged (unless
+the Certificate Insurer shall have actual knowledge thereof). In furtherance and
+not in limitation of the foregoing, the Certificate Insurer may accept documents
+that appear on their face to be in order, without responsibility for further
+investigation.
+
+     Section 4.06. Annual Servicing Audit and Certification. The annual
+servicing audit required pursuant to Section 5.10 of the P&S Agreement shall be
+performed by an independent third party reasonably acceptable to the Certificate
+Insurer. Any one of the five major nationally recognized firms of independent
+public accountants is deemed to be acceptable.
+
+                                   ARTICLE V
+                              DEFAULTS AND REMEDIES
+
+     Section 5.01. Defaults. The occurrence of any of the following shall
+constitute an Event of Default hereunder:
+
+         (a) Any representation or warranty made by any party hereto (other than
+the Certificate Insurer) under this Insurance Agreement or any such party, a
+counterparty under the Interest Rate Hedge Agreement, or any other Person under
+any other Operative Document, or in any certificate furnished hereunder or
+thereunder by any such party or Person, shall prove to be untrue or incorrect in
+any material respect; provided, however, that if such party effectively cures
+any such defects in any representation or warranty with respect to the Mortgage
+Loans under any Operative Document or certificate or report furnished under any
+Operative Document, within the time period specified in the related document as
+the cure period thereof, such defect shall not in and of itself constitute an
+Event of Default;
+
+         (b) (i) Any party hereto (other than the Certificate Insurer), a
+counterparty under any Interest Rate Hedge Agreement, or any other Person shall
+fail to pay when due any amount payable by it hereunder or under any other
+Operative Document or (ii) a legislative body has enacted any law that declares
+or a court of competent jurisdiction shall find or rule, or any Seller, the
+Servicer or the Depositor shall assert, that this Insurance Agreement or any
+other Operative Document is not valid and binding on any party hereto or
+thereto;
+
+         (c) The occurrence and continuance of an "event of default," "Event of
+Default," or "Servicer Event of Default," or any similar occurrence, in each
+case under any Operative Document, or any termination of or loss of status or
+failure to qualify by any REMIC as such;
+
+         (d) Any failure on the part of any party hereto (other than the
+Certificate Insurer), a counterparty under any Interest Rate Hedge Agreements,
+or any other Person to duly observe or perform in any material respect any other
+of the covenants or agreements on its part contained in this Insurance Agreement
+or in any other Operative Document which continues unremedied, with respect to
+this Insurance Agreement, for a period of 30 days after the date on which
+written notice of such failure requiring the same to be remedied shall have been
+given to it by the Certificate Insurer (with a copy to the Trustee) or, with
+respect to any other Operative Document, beyond any cure period provided therein
+
+
+
+
+                                       33
+<PAGE>
+
+commencing on the date at which written notice of such failure requiring the
+same to be remedied shall have been given to it by the Certificate Insurer (with
+a copy to the Trustee);
+
+         (e) A decree or order of a court or agency or supervisory authority
+having jurisdiction in the premises in an involuntary case under any present or
+future federal or state bankruptcy, insolvency or similar law or the appointment
+of a conservator or receiver or liquidator or other similar official in any
+bankruptcy, insolvency, readjustment of debt, marshaling of assets and
+liabilities or similar proceedings, or for the winding-up or liquidation of its
+affairs, shall have been entered against any Seller, the Servicer or the
+Depositor, a counterparty under any Interest Rate Hedge Agreements and such
+decree or order shall have remained in force undischarged or unstayed for a
+period of 60 consecutive days;
+
+         (f) Any Seller, the Servicer or the Depositor, the counterparty under
+the Interest Rate Hedge Agreements shall consent to the appointment of a
+trustee, conservator or receiver or liquidator or other similar official in any
+bankruptcy, insolvency, readjustment of debt, marshaling of assets and
+liabilities or similar proceedings of or relating to it or of or relating to all
+or substantially all of its property;
+
+         (g) Any Seller, the Servicer or the Depositor, a counterparty under any
+Interest Rate Hedge Agreement shall admit in writing its inability to pay its
+debts generally as they become due, file a petition to take advantage of or
+otherwise voluntarily commence a case or proceeding under any applicable
+bankruptcy, insolvency, reorganization or other similar statute, make an
+assignment for the benefit of its creditors or voluntarily suspend payment of
+its obligations; or
+
+         (h) The Trust Fund or the Depositor shall become subject to
+registration as an investment company under the Investment Company Act, or for
+United States federal, state or local income and tax purposes, (i) the Trust
+Fund shall not qualify as one or more separate REMICs or (ii) the Class A
+Certificates, the Class M Certificates or the Class A-IO Certificates shall not
+be treated as one or more regular interests in a REMIC.
+
+     Section 5.02. Remedies; No Remedy Exclusive.
+
+         (a) Upon the occurrence of an Event of Default, the Certificate Insurer
+may exercise any one or more of the rights and remedies set forth below:
+
+             (i) declare all indebtedness under this Insurance Agreement of
+every type or description then owed by any Seller, the Servicer or the Depositor
+to be immediately due and payable, and the same shall thereupon be immediately
+due and payable;
+
+             (ii) exercise any rights and remedies under this Insurance
+Agreement or any other Operative Document in accordance with the terms hereof or
+thereof or direct the Trustee, the Depositor or the Servicer to exercise its
+rights and remedies in accordance with any Operative Document to which it is a
+party;
+
+
+
+                                       34
+<PAGE>
+
+             (iii) exercise any rights and remedies under the Purchase Agreement
+in accordance with the terms thereof or direct the Depositor to exercise such
+rights and remedies in accordance with the terms of the Purchase Agreement; or
+
+             (iv) take whatever action at law or in equity as may appear
+necessary or desirable in its judgment to collect the amounts, if any, then due
+under this Insurance Agreement or any other Operative Document or to enforce
+performance and observance of any obligation, agreement or covenant on the part
+of any party (other than the Certificate Insurer) under this Insurance Agreement
+or under any other Operative Document.
+
+         (b) Unless otherwise expressly provided, no remedy herein conferred or
+reserved is intended to be exclusive of any other available remedy, but each
+remedy shall be cumulative and shall be in addition to other remedies given
+under this Insurance Agreement or any other Operative Document or existing at
+law or in equity. No delay or omission to exercise any right or power accruing
+under this Insurance Agreement or any other Operative Document upon the
+happening of any event set forth in Section 5.01 shall impair any such right or
+power or shall be construed to be a waiver thereof, but any such right and power
+may be exercised from time to time and as often as may be deemed expedient. In
+order to entitle the Certificate Insurer to exercise any remedy reserved to the
+Certificate Insurer in this Article, it shall not be necessary to give any
+notice, other than such notice as may be required by this Article.
+
+Section 5.03.  Waivers.
+
+         (a) No failure by the Certificate Insurer to exercise, and no delay by
+the Certificate Insurer in exercising, any right hereunder shall operate as a
+waiver thereof. The exercise by the Certificate Insurer of any right hereunder
+shall not preclude the exercise of any other right, and the remedies provided
+herein to the Certificate Insurer are declared in every case to be cumulative
+and not exclusive of any remedies provided by law or equity. Any waiver, consent
+or forbearance hereunder with respect to an event or other occurrence shall
+operate only with respect to such event or occurrence and not with respect to
+any subsequent or other event or occurrence, whether or not similar.
+
+         (b) The Certificate Insurer shall have the right, to be exercised in
+its complete discretion, to waive any Event of Default hereunder, by a writing
+setting forth the terms, conditions and extent of such waiver signed by the
+Certificate Insurer and delivered to the Depositor (with a copy to the Trustee).
+Unless such writing expressly provides to the contrary, any waiver so granted
+shall extend only to the specific event or occurrence which gave rise to the
+Event of Default so waived and not to any other similar event or occurrence
+which occurs subsequent to the date of such waiver.
+
+         (c) If any proceeding has been commenced to enforce any right or remedy
+under this Insurance Agreement and such proceeding has been discontinued or
+abandoned for any reason, or has been determined adversely to the Certificate
+Insurer, then and in every such case the parties hereto shall, subject to any
+determination in such proceeding, be restored to their respective former
+positions hereunder and, thereafter, all rights and remedies of the Certificate
+Insurer shall continue as though no such proceeding had been instituted.
+
+
+
+                                       35
+<PAGE>
+
+                                   ARTICLE VI
+                                  MISCELLANEOUS
+
+     Section 6.01. Amendments, Etc. This Insurance Agreement may be amended,
+modified, supplemented or terminated only by written instrument or written
+instruments signed by the parties hereto. The Depositor agrees to provide a copy
+of any amendment to this Insurance Agreement promptly to the rating agencies
+maintaining a rating on the Certificates. No act or course of dealing shall be
+deemed to constitute an amendment, modification, supplement or termination
+hereof.
+
+     Section 6.02. Notices. All demands, notices and other communications to
+be given hereunder shall be in writing (except as otherwise specifically
+provided herein) and shall be mailed by registered mail, reliable overnight
+courier or personally delivered and telecopied to the recipient as follows:
+
+         (a) To the Certificate Insurer:
+
+              Radian Asset Assurance Inc.
+              335 Madison Avenue
+              New York, New York 10017
+              Attention:    Chief Risk Officer and Chief Legal Officer
+                            Re: ABFS Mortgage Loan Trust, Series 2003-1, Class M
+              Facsimile:    (212) 682-5377
+              Confirmation: (212) 983-5859
+
+         (in each case in which notice or other communication to the Certificate
+         Insurer refers to an Event of Default, a claim on the Policy or with
+         respect to which failure on the part of the Certificate Insurer to
+         respond shall be deemed to constitute consent or acceptance, then a
+         copy of such notice or other communication should also be sent to the
+         attention of the general counsel of the Certificate Insurer and shall
+         be marked to indicate "URGENT MATERIAL ENCLOSED.")
+
+         (b) To any other party hereto, at the address for such party provided
+         in the Operative Documents (other than this Insurance Agreement) to
+         which it is a party.
+
+         A party may specify an additional or different address or addresses by
+         writing mailed or delivered to the other parties as aforesaid. All such
+         notices and other communications shall be effective upon receipt.
+
+     Section 6.03. Severability. In the event that any provision of this
+Insurance Agreement shall be held invalid or unenforceable by any court of
+competent jurisdiction, the parties hereto agree that such holding shall not
+invalidate or render unenforceable any other provision hereof. The parties
+hereto further agree that the holding by any court of competent jurisdiction
+that any remedy pursued by any party hereto is unavailable or unenforceable
+shall not affect in any way the ability of such party to pursue any other remedy
+available to it.
+
+
+
+                                       36
+<PAGE>
+
+     Section 6.04. GOVERNING LAW. THIS INSURANCE AGREEMENT SHALL BE GOVERNED
+BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK (WITHOUT
+GIVING EFFECT TO THE CONFLICT OF LAWS PROVISIONS THEREOF).
+
+     Section 6.05. Payments.
+
+         (a) All payments to the Certificate Insurer hereunder shall be made in
+lawful currency of the United States and in immediately available funds, shall
+be made prior to 12:00 p.m. noon (New York City time) on the date such payment
+is due by wire transfer pursuant to wire transfer instructions and bank account
+information provided by the Certificate Insurer, or to such other office or
+account as the Certificate Insurer may direct. Payments received by the
+Certificate Insurer after 12:00 p.m. noon (New York City time) shall be deemed
+to have been received on the next succeeding Business Day, and such extension of
+time shall be included in computing interest, commissions or fees, if any, in
+connection with such payment.
+
+         (b) Whenever any payment under this Insurance Agreement stated to be
+due on a day which is not a Business Day is to be made on the next succeeding
+Business Day pursuant to Section 3.05, such extension of time shall in such
+cases be included in computing interest, commissions or fees, if any, in
+connection with such payment.
+
+         (c) To the extent permitted by law, the Certificate Insurer shall be
+entitled to interest on all amounts owed to the Certificate Insurer under this
+Agreement in respect of interest from the date such amounts become due until
+paid in full (after as well as before judgment), at a rate of interest equal to
+the Late Payment Rate.
+
+     Section 6.06. Consent to Jurisdiction.
+
+         (a) The parties hereto hereby irrevocably submit to the non-exclusive
+jurisdiction of the United States District Court for the Southern District of
+New York and any court in the State of New York located in the Borough of
+Manhattan, and any appellate court from any thereof, in any action, suit or
+proceeding brought against it and to or in connection with this Insurance
+Agreement, the Policy or any of the other Operative Documents or the Transaction
+or for recognition or enforcement of any judgment, and the parties hereto hereby
+irrevocably and unconditionally agree that all claims in respect of any such
+action or proceeding may be heard or determined in such New York court or, to
+the extent permitted by law, in such federal court. The parties hereto agree
+that a final unappealable judgment in any such action, suit or proceeding shall
+be conclusive and may be enforced in other jurisdictions by suit on the judgment
+or in any other manner provided by law. To the extent permitted by applicable
+law, the parties hereto hereby waive and agree not to assert by way of motion,
+as a defense or otherwise in any such suit, action or proceeding, any claim that
+it is not personally subject to the jurisdiction of such courts, that the suit,
+action or proceeding is brought in an inconvenient forum, that the venue of the
+suit, action or proceeding is improper or that the related documents or the
+subject matter thereof may not be litigated in or by such courts.
+
+
+
+                                       37
+<PAGE>
+
+         (b) To the extent permitted by applicable law, the parties hereto shall
+not seek and hereby waive the right to any review of the judgment of any such
+court by any court of any other nation or jurisdiction which may be called upon
+to grant an enforcement of such judgment.
+
+         (c) Service on the Depositor may be made by mailing or delivering
+copies of the summons and complaint and other process which may be served in any
+suit, action or proceeding to the Depositor addressed as follows: Bear Stearns
+Asset Backed Securities, Inc., 383 Madison Avenue, New York, New York 10179,
+Attention: General Counsel. Such address may be changed by the applicable party
+or parties by written notice to the other parties hereto. The provision of
+notice to change the address set forth in Section 6.02 shall constitute notice
+for purposes of the preceding sentence, unless such notice shall expressly state
+to the contrary.
+
+         (d) Nothing contained in this Insurance Agreement shall limit or affect
+any party's right to serve process in any other manner permitted by law or to
+start legal proceedings relating to this Insurance Agreement, the Policy or any
+of the other Operative Documents against any other party or its properties in
+the courts of any jurisdiction.
+
+     Section 6.07. Consent of the Certificate Insurer. In the event that the
+consent of the Certificate Insurer is required under this Insurance Agreement,
+the Policy or any of the other Operative Documents, the determination whether to
+grant or withhold such consent shall be made by the Certificate Insurer in its
+sole discretion without any implied duty towards any other Person, except as
+otherwise expressly provided therein, and such consent shall be effective only
+when and if given by the Certificate Insurer in writing.
+
+     Section 6.08. Counterparts. This Insurance Agreement may be executed in
+counterparts by the parties hereto, and all such counterparts shall constitute
+one and the same instrument.
+
+     Section 6.09. Headings. The headings of Articles and Sections and the
+Table of Contents contained in this Insurance Agreement are provided for
+convenience only. They form no part of this Insurance Agreement and shall not
+affect its construction or interpretation. Unless otherwise indicated, all
+references to Articles and Sections in this Insurance Agreement refer to the
+corresponding Articles and Sections of this Insurance Agreement.
+
+     Section 6.10. Trial by Jury Waived. Each party hereby waives, to the
+fullest extent permitted by law, any right to a trial by jury in respect of any
+litigation arising directly or indirectly out of, under or in connection with
+this Insurance Agreement, the Policy or any of the other Operative Documents or
+any of the transactions contemplated thereunder. Each party hereto (A) certifies
+that no representative, agent or attorney of any party hereto has represented,
+expressly or otherwise, that it would not, in the event of litigation, seek to
+enforce the foregoing waiver and (B) acknowledges that it has been induced to
+enter into this Insurance Agreement, the Policy (in the case of the Certificate
+Insurer) and the other Operative Documents to which it is a party by, among
+other things, this waiver.
+
+     Section 6.11. Limited Liability. No recourse under this Insurance
+Agreement, the Policy or any other Operative Document shall be had against, and
+no personal liability shall attach to, any officer, employee, director,
+
+
+
+
+                                       38
+<PAGE>
+
+affiliate or shareholder of any party hereto, as such, by the enforcement of any
+assessment or by any legal or equitable proceeding, by virtue of any statute or
+otherwise in respect of any of the Operative Documents, it being expressly
+agreed and understood that this Insurance Agreement and each other Operative
+Document is solely a corporate obligation of each party thereto and hereto, and
+that any and all personal liability, either at common law or in equity, or by
+statute or constitution, of every such officer, employee, director, affiliate or
+shareholder for breaches of any party hereto of any obligations under any
+Operative Document is hereby expressly waived as a condition of and in
+consideration for the execution and delivery of this Insurance Agreement and the
+issuance of the Policy hereunder.
+
+     Section 6.12. Entire Agreement. This Insurance Agreement, the Policy
+and the other Operative Documents set forth the entire agreement between the
+parties with respect to the subject matter hereof and thereof and supersede and
+replace any agreement or understanding that may have existed between the parties
+prior to the date hereof in respect of such subject matter.
+
+     Section 6.13. Joint and Several Liability. Each of the representations,
+warranties, covenants and other agreements made by any of the Sellers in this
+Insurance Agreement are made by such party for it and on its own behalf.
+However, such agreements and all other obligations and other duties of
+HomeAmerican Credit, Inc. d/b/a Upland Mortgage, American Business Mortgage
+Services, Inc. and ABFS 2003-1, Inc. (collectively, the "ABFS Entities"),
+separately or together with ABC Inc., under this Insurance Agreement shall be
+joint and several obligations and duties of the ABFS Entities and ABC Inc.,
+irrespective of any allocation of proceeds, rights or obligations between them
+and of any other matter. Without limiting the generality of the foregoing, each
+representation, warranty, covenant or other agreement designated in this
+Insurance Agreement as a representation, warranty, covenant or other agreement
+of the ABFS Entities, separately or together with ABC Inc., shall be a
+representation, warranty, covenant or other agreement of ABC Inc., jointly and
+severally with the ABFS Entities. ABC Inc. shall not exercise any right of
+subrogation as against the ABFS Entities until one year and one day after the
+Class M Certificates are no longer Outstanding, the Class M Certificateholders
+and the Certificate Insurer have indefeasibly been paid in full all amounts
+owing to them under the Class M Certificates, this Insurance Agreement and all
+other Operative Documents, have been fully satisfied, discharged and otherwise
+terminated and the security interest Granted under the P&S Agreement with
+respect to the collateral in the Trust Fund has been released in accordance
+therewith. If, prior to such time, any amount is paid by the ABFS Entities to
+ABC Inc., or is otherwise received by ABC Inc. on account of any such right of
+subrogation, such amount shall be held by it in trust for and shall be promptly
+be paid by it to the Trustee.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       39
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement,
+all as of the day and year first above mentioned.
+
+               RADIAN ASSET ASSURANCE INC., as Certificate Insurer
+
+
+               By: Myer R. Strauss
+                   ---------------------------------
+               Name: Myer R. Strauss
+               Title: Vice President
+
+
+               HOMEAMERICAN CREDIT, INC., d/b/a UPLAND MORTGAGE,
+                as an Original Mortgage, as an Original Mortgage Loan Seller
+
+
+               By: Jeffrey M. Ruben
+                   ---------------------------------
+               Name: Jeffrey M. Ruben
+               Title: EVP
+
+
+               AMERICAN BUSINESS MORTGAGE SERVICES, INC.,
+                as an Original Mortgage Loan
+
+
+               By: Jeffrey M. Ruben
+                   ---------------------------------
+               Name: Jeffrey M. Ruben
+               Title: EVP
+
+
+               AMERICAN BUSINESS CREDIT, INC.,
+                as an Original Mortgage Loan Seller and as Servicer
+
+
+               By: Beverly Santilli
+                   ---------------------------------
+               Name: Beverly Santilli
+               Title: President
+
+
+               ABFS 2003-1, as Secondary Mortgage Loan Seller
+
+
+               By: Jeffrey M. Ruben
+                   ---------------------------------
+               Name: Jeffrey M. Ruben
+               Title: EVP
+
+
+
+
+                                       40
+<PAGE>
+
+
+
+
+               BEAR STEARNS ASSET BACKED SECURITIES, INC., as Depositor
+
+
+               By: Jonathan Lieberman
+                   ---------------------------------
+               Name: Jonathan Lieberman
+               Title: Senior Managing Director
+
+
+               JPMORGAN CHASE BANK, not in its individual capacity but
+                solely as Trustee, as Back-up Servicer and as Collateral
+                Agent
+
+
+               By: Joseph M. Costantino
+                   ---------------------------------
+               Name: Joseph M. Costantino
+               Title: Trust Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       41
+
+</TEXT>
+</DOCUMENT>

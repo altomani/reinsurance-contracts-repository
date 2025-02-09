@@ -1,0 +1,2957 @@
+<DOCUMENT>
+<TYPE>EX-10.100(B)
+<SEQUENCE>5
+<FILENAME>a2073005zex-10_100b.txt
+<DESCRIPTION>EXHIBIT 10.100(B)
+<TEXT>
+<Page>
+
+                                                               Exhibit 10.100(b)
+
+                                                                  EXECUTION COPY
+
+--------------------------------------------------------------------------------
+
+                               SALE AND SERVICING
+
+                                    AGREEMENT
+
+                                      among
+
+                      FIRST INVESTORS RESIDUAL FUNDING LP,
+                                     Issuer
+
+                    FIRST INVESTORS FINANCIAL SERVICES INC.,
+                           as Servicer and Transferor
+
+                                       and
+
+                          FIRST UNION SECURITIES, INC.,
+                       as Deal Agent and Collateral Agent
+
+                          Dated as of December 6, 2001
+
+--------------------------------------------------------------------------------
+
+<Page>
+
+                                TABLE OF CONTENTS
+<Table>
+<Caption>
+                                                                                PAGE
+<S>                                                                               <C>
+ARTICLE I DEFINITIONS 1
+  SECTION 1.1 DEFINITIONS......................................................    1
+  SECTION 1.2 OTHER DEFINITIONAL PROVISIONS....................................   10
+  SECTION 1.3 COMPUTATION OF TIME PERIODS......................................   10
+  SECTION 1.4 INTERPRETATION...................................................   10
+ARTICLE II CONVEYANCE OF TRANSFERRED ASSETS AND ASSIGNMENT OF RIGHTS   11
+  SECTION 2.1 CONVEYANCE OF TRANSFERRED ASSETS.................................   11
+  SECTION 2.2 PAYMENT FOR COLLATERAL...........................................   11
+  SECTION 2.3 ADDITIONAL TRANSFERS.............................................   11
+ARTICLE III REPRESENTATIONS, WARRANTIES AND COVENANTS   12
+  SECTION 3.1 REPRESENTATIONS AND WARRANTIES OF THE TRANSFEROR ................   12
+  SECTION 3.2 REPRESENTATIONS AND WARRANTIES RELATING TO THE COLLATERAL .......   16
+  SECTION 3.3 PURCHASE OF TRANSFERRED ASSETS UPON BREACH ......................   16
+  SECTION 3.4 FUTURE SECURITIZATIONS ..........................................   17
+  SECTION 3.5 COVENANTS OF THE TRANSFEROR .....................................   17
+  SECTION 3.6 NEGATIVE COVENANTS OF THE TRANSFEROR ............................   18
+  SECTION 3.7 FINANCIAL COVENANTS OF THE TRANSFEROR ...........................   24
+  SECTION 3.8 SEPARATE EXISTENCE OF TRANSFEROR ................................   25
+ARTICLE IV ADMINISTRATION AND SERVICING OF COLLATERAL  25
+  SECTION 4.1 DUTIES OF THE SERVICER ..........................................   25
+  SECTION 4.2 COVENANTS OF SERVICER ...........................................   26
+  SECTION 4.3 ANNUAL STATEMENT AS TO COMPLIANCE, NOTICE OF SERVICER TERMINATION
+  EVENT........................................................................   26
+  SECTION 4.4 ANNUAL ACCOUNTANTS' REPORT ......................................   27
+  SECTION 4.5 SUBSERVICERS ....................................................   27
+ARTICLE V [RESERVED] 27
+ARTICLE VI THE SERVICER   27
+  SECTION 6.1 REPRESENTATIONS OF SERVICER .....................................   27
+  SECTION 6.2 LIABILITY OF SERVICER, INDEMNITIES ..............................   29
+  SECTION 6.3 MERGER OR CONSOLIDATION OF OR ASSUMPTION OF THE OBLIGATIONS OF
+  THE SERVICER 30
+  SECTION 6.4 LIMITATION ON LIABILITY OF SERVICER AND OTHERS ..................   30
+  SECTION 6.5 DELEGATION OF DUTIES ............................................   31
+  SECTION 6.6 SERVICER NOT TO RESIGN ..........................................   31
+ARTICLE VII DEFAULT  31
+  SECTION 7.1 SERVICER EVENT OF DEFAULT .......................................   31
+  SECTION 7.2 APPOINTMENT OF SUCCESSOR ........................................   31
+ARTICLE VIII ADMINISTRATIVE DUTIES OF THE SERVICER   32
+  SECTION 8.1 ADMINISTRATIVE DUTIES ...........................................   32
+  SECTION 8.2 RECORDS .........................................................   33
+  SECTION 8.3 REPORTING .......................................................   33
+</Table>
+
+                                        i
+<Page>
+
+<Table>
+<S>                                                                              <C>
+  SECTION 8.4 ADDITIONAL INFORMATION TO BE FURNISHED TO THE ISSUER ...........   34
+ARTICLE IX MISCELLANEOUS PROVISIONS                                              34
+  SECTION 9.1  AMENDMENT......................................................   34
+  SECTION 9.2  PROTECTION OF RIGHT, TITLE AND INTEREST IN COLLATERAL..........   34
+  SECTION 9.3  NOTICES........................................................   35
+  SECTION 9.4  ASSIGNMENT; THIRD PARTY BENEFICIARIES..........................   35
+  SECTION 9.5  INDEMNITIES BY TRANSFEROR......................................   35
+  SECTION 9.6  SEVERABILITY...................................................   36
+  SECTION 9.7  EXECUTION IN COUNTERPARTS......................................   36
+  SECTION 9.8  HEADINGS.......................................................   36
+  SECTION 9.9  GOVERNING LAW..................................................   36
+  SECTION 9.10 NONPETITION COVENANTS..........................................   36
+  SECTION 9.11 LIMITATION OF LIABILITY........................................   37
+  SECTION 9.12 ENTIRE AGREEMENT...............................................   37
+  SECTION 9.13 CONSENT TO SERVICE.............................................   37
+  SECTION 9.14 RECOURSE AGAINST CERTAIN PARTIES...............................   37
+  SECTION 9.15 SUBMISSION TO JURISDICTION; WAIVER OF TRIAL BY JURY............   38
+  SECTION 9.16 CERTAIN FEES, COSTS AND EXPENSES...............................   38
+  SECTION 9.17 CONFIDENTIALITY................................................   39
+</Table>
+
+EXHIBITS
+
+Exhibit A    Form of Transfer Certificate
+Exhibit B    Servicing and Collection Policy
+
+SCHEDULES
+
+Schedule 3.1(o)    Name, Jurisdiction of Formation, Addresses and Trade Names
+                   or Other Names of the Transferors
+Schedule 3.1(q)    Debt of Transferor
+Schedule 3.1(s)    ERISA Plans Exceeding Fair Market Value
+Schedule 3.1(u)    Subsidiaries; Capitalization
+Schedule 3.1(v)    Other Agreements
+Schedule 3.6(a)    Permitted Debt
+Schedule 3.6(b)    Permitted Liens
+
+                                       ii
+<Page>
+
+     SALE AND SERVICING AGREEMENT (this "AGREEMENT") dated as of December 6,
+2001, among FIRST INVESTORS RESIDUAL FUNDING LP, a Delaware limited partnership
+(the "ISSUER"), FIRST INVESTORS FINANCIAL SERVICES, INC., a Texas corporation,
+(in its capacity as Servicer together with any of its Affiliates acting as
+servicer, the "SERVICER", in its capacity as Transferor, the "TRANSFEROR" or
+"FIFS"), and First Union Securities, Inc., a Delaware corporation (in its
+capacity as deal agent, the "DEAL AGENT" or in its capacity as collateral agent,
+the "COLLATERAL AGENT").
+
+                                    RECITALS
+
+     WHEREAS, the Transferor has acquired certain residual interests under
+various Securitizations pursuant to the Asset Purchase Agreement, dated as of
+the date hereof among the Transferor, as purchaser and the Sellers named therein
+(the "ASSET PURCHASE AGREEMENT");
+
+     WHEREAS, the Issuer desires to acquire the Transferor's residual interests
+in the Securitizations;
+
+     WHEREAS, the Servicer is willing to service all such assets;
+
+     NOW, THEREFORE, in consideration of the premises and the mutual covenants
+herein contained, the parties hereto agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+     SECTION 1.1 DEFINITIONS.
+
+     Whenever used in this Agreement, the following words and phrases shall have
+the following meanings:
+
+ACCOUNTANTS' REPORT: The report of a firm of nationally recognized independent
+accountants described in SECTION 4.4.
+
+ADJUSTED NET INCOME: For any period and any Person, such Person's consolidated
+net income (or loss) determined in accordance with GAAP, but excluding: (a) the
+income of any other Person (other than its Subsidiaries) in which such Person or
+any of its Subsidiaries has an ownership interest, unless received by such
+Person or its Subsidiary in a cash distribution; (b) any after-tax gains or
+losses attributable to an asset disposition other than in the ordinary course of
+business; and (c) to the extent not included in CLAUSE (a) and CLAUSE (b) above,
+any after-tax extraordinary, non-cash or nonrecurring gains or losses.
+
+AFFILIATE: As defined in the Security Agreement.
+
+<Page>
+
+AGREEMENT: As defined in the PREAMBLE.
+
+BANKRUPTCY CODE: The United States Bankruptcy Reform Act of 1978 (11
+U.S.C.Section. 101, ET SEQ.), as amended from time to time.
+
+CAPITAL LEASE OBLIGATIONS: As to any Person, the obligations of such Person to
+pay rent or other amounts under a lease of (or other agreement conveying the
+right to use) real and/or personal property, which obligations are required to
+be classified and accounted for as a capital lease on a balance sheet of such
+Person according to GAAP. For purposes of this Agreement, the amount of such
+Capital Lease Obligations shall be the capitalized amount thereof, determined in
+accordance with GAAP.
+
+CAPITAL STOCK: Corporate stock and any and all shares, partnership interests,
+membership interests, equity interests, rights, securities, or other equivalent
+evidences of ownership, or any options, warrants, voting trust certificates, or
+other instruments evidencing an ownership interest or a right to acquire an
+ownership interest in a Person (however designated) issued by any entity
+(whether a corporation, partnership, limited liability company, limited
+partnership, or other type of entity).
+
+CHARGED-OFF RECEIVABLES: With respect to Receivables of the Transferor, any
+Seller or any Subsidiary which the Transferor, such Seller or any Subsidiary has
+determined, in accordance with its charge-off policies consistently applied with
+past practices, that all or a portion of the outstanding principal balance is
+uncollectable, the aggregate principal balance of all such Receivables as of the
+date immediately prior to the date any such determination of Charged-Off
+Receivables is made.
+
+CODE: The Internal Revenue Code of 1986, as amended.
+
+COLLATERAL AGENT: FUSI.
+
+CONTINGENT OBLIGATIONS: With respect to any Person, any obligation or
+arrangement of such Person to guarantee or intended to guarantee any Debt,
+leases, dividends or other payment obligations ("PRIMARY OBLIGATIONS") of any
+other Person (the "PRIMARY OBLIGOR") in any manner, whether directly or
+indirectly, including, without limitation, (a) the direct or indirect guarantee,
+endorsement (other than for collection or deposit in the ordinary course of
+business), co-making, discounting with recourse or sale with recourse by such
+Person of the obligation of a primary obligor, (b) the obligation to make
+take-or-pay or similar payments, if required, regardless of nonperformance by
+any other party or parties to an agreement or (c) any obligation of such Person,
+whether or not contingent, (i) to purchase any such primary obligation or any
+property constituting direct or indirect security therefor, (ii) to advance or
+supply funds (A) for the purchase or payment of any such primary obligation or
+(B) to maintain working capital or equity capital of the primary obligor or
+otherwise to maintain the net worth or solvency of the primary obligor, (iii) to
+purchase property, assets, securities or services primarily for the purpose of
+assuring the owner of any such primary obligation of the ability of the primary
+obligor to make payment of such primary obligation or (iv) otherwise to assure
+or hold harmless the holder of such primary obligation against loss in respect
+thereof. The amount of any Contingent Obligation shall be deemed to be an amount
+equal to the stated or determinable amount of the primary
+
+                                        2
+<Page>
+
+obligation in respect of which such Contingent Obligation is made (or, if less,
+the maximum amount of such primary obligation for which such Person may be
+liable pursuant to the terms of the instrument evidencing such Contingent
+Obligation) or, if not stated or determinable, the maximum reasonably
+anticipated liability in respect thereof (assuming such Person is required to
+perform thereunder), as determined by such Person in good faith.
+
+DEAL AGENT: FUSI.
+
+DEBT: As to any Person at any time (without duplication): (a) all obligations of
+such Person for borrowed money; (b) all obligations of such Person evidenced by
+bonds, notes, debentures, or other similar instruments; (c) all obligations of
+such Person to pay the deferred purchase price of property or services, except
+trade accounts payable of such Person arising in the ordinary course of business
+that are not past due by more than ninety (90) days or that are being contested
+in good faith by appropriate proceedings diligently pursued and for which
+adequate reserves have been established to the satisfaction of the Deal Agent;
+(d) all Capital Lease Obligations of such Person; (e) all Contingent Obligations
+of such Person; (f) all obligations secured by a Lien existing on property owned
+by such Person, whether or not the obligations secured thereby have been assumed
+by such Person or are non-recourse to the credit of such Person; PROVIDED,
+HOWEVER, that the amount of such Debt of any Person described in this CLAUSE (f)
+shall, for purposes of this Agreement, be deemed to be equal to the lesser of
+(i) the aggregate unpaid amount of such Debt or (ii) the fair market value of
+the property or asset encumbered, as determined by the Deal Agent in its
+reasonable discretion; (g) all reimbursement obligations of such Person (whether
+contingent or otherwise) in respect of letters of credit, bankers' acceptances,
+surety or other bonds, and similar instruments; (h) all liabilities of such
+Person in respect of unfunded vested benefits under any Plan (excluding
+obligations to deliver stock in respect of stock options or stock ownership
+plans); and (i) all vested obligations of such Person for the payment of money
+under any noncompete, consulting, or similar arrangements providing for the
+deferred payment of the purchase price for an acquisition consummated prior to
+the date hereof to the extent that any such obligations are, according to GAAP,
+reflected as a capitalized liability on a balance sheet of such Person.
+
+DELINQUENT RECEIVABLES: The aggregate principal balance of all Receivables of
+the Transferor or any Subsidiary as to which more than ten (10) dollars of any
+scheduled payments remains unpaid for more than thirty (30) days from the date
+at which it is contractually due and payable.
+
+DIVIDEND ASSETS: All present and future rights of the Transferor to receive
+dividends from FIACC, FIRC, FAFC, FIAIC, FIARC and any other Seller or any other
+distributions of any character, including upon any liquidation, winding up or
+similar action.
+
+EBITDA: For any period and any Person, the total of the following calculated
+without duplication for such Person on a consolidated basis for such period: (a)
+Adjusted Net Income; PLUS (b) any provision for (or less any benefit from)
+income or franchise taxes deducted in determining Adjusted Net Income; PLUS (c)
+Interest Expense deducted in determining Adjusted Net Income; PLUS (d)
+amortization and depreciation expense deducted in determining Adjusted Net
+Income; PLUS (e) other noncash charges deducted in determining Adjusted Net
+Income and not already deducted in accordance with CLAUSE (d) above or CLAUSE
+(b) and CLAUSE (c) of the definition of Adjusted Net Income; MINUS (f) noncash
+credits included in determining
+
+                                        3
+<Page>
+
+consolidated Adjusted Net Income and not already excluded in accordance with the
+definition of Adjusted Net Income.
+
+ENVIRONMENTAL LAWS: Any and all federal, state, and local laws, regulations, and
+requirements regulating health, safety, or the environment, as such laws,
+regulations, and requirements may be amended or supplemented from time to time.
+
+ERISA: The Employee Retirement Income Security Act of 1974, as amended from time
+to time, and the regulations issued thereunder.
+
+ERISA AFFILIATE: Any corporation or trade or business which is a member of the
+same controlled group of corporations (within the meaning of Section 414(b) of
+the Code) as the Transferor or any of its Subsidiaries or is under common
+control (within the meaning of Section 414(c) of the Code) with the Transferor
+or any of its Subsidiaries.
+
+EXCEPTED PERSONS: As defined in SECTION 9.17.
+
+FIACC: First Investors Auto Capital Corporation, a Delaware corporation.
+
+FIARC AGREEMENT: That certain Security Agreement, dated as of October 22, 1996,
+as amended, by and among FIARC, Enterprise Funding Corporation, Wells Fargo Bank
+Minnesota, N.A., MBIA Insurance Corporation, Bank of America N.A. and the
+Transferor, as the same may hereafter be amended, restated, modified, renewed or
+extended from time to time.
+
+FIARC PURCHASE AGREEMENT: That certain Purchase Agreement, dated as of October
+22, 1996, as amended, between the Transferor and FIARC, as the same may
+hereafter be amended, restated, modified, renewed or extended from time to time.
+
+FIFS: As defined in the PREAMBLE.
+
+FIFSG: First Investors Financial Services Group, Inc., a Texas corporation.
+
+FIRC AGREEMENT: That certain Second Amended and Restated Credit Agreement, dated
+as of November 15, 2000, as amended, among FIRC, the financial institutions
+party thereto and Bank of America, as agent, as the same may be further amended,
+restated, modified, renewed or extended from time to time.
+
+FIRC COLLATERAL AGENT: Wells Fargo Bank Minnesota, National Association and any
+successor thereto appointed pursuant to Section 19 of the FIRC Security
+Agreement.
+
+FIRC PURCHASE AGREEMENT: The Amended and Restated Purchase Agreement, dated as
+of October 30, 1996, between the Transferor and FIRC, as the same has been and
+may hereafter be amended, restated, modified, renewed or extended from time to
+time.
+
+FIRC SECURITY AGREEMENT: That certain Third Amended and Restated Collateral
+Security Agreement, dated as of November 15, 2000, among FIRC, the FIRC
+Collateral Agent, and the
+
+                                        4
+<Page>
+
+agent and the banks party to the FIRC Agreement, as the same may be amended,
+restated, modified, renewed or extended from time to time.
+
+FIRST UNION: First Union National Bank.
+
+FIVH: First Investors (Vermont) Holdings, Inc., a Vermont corporation.
+
+FUSI: First Union Securities, Inc., a Delaware corporation.
+
+GAAP: Generally accepted accounting principles, applied on a "consistent basis"
+(as such phrase is interpreted in accordance with SECTION 1.4 hereof), as set
+forth in Opinions of the Accounting Principles Board of the American Institute
+of Certified Public Accountants and/or in statements of the Financial Accounting
+Standards Board and/or their respective successors and which are applicable in
+the circumstances as of the date in question.
+
+GOVERNMENTAL AUTHORITY: Any nation or government, any state or other political
+subdivision thereof, any central bank (or other similar monetary or regulatory
+authority) thereof, any body or entity exercising executive, legislative,
+judicial, regulatory or administrative functions of or pertaining to government
+and any court or arbitrator.
+
+INTEREST EXPENSE: For any period and for any Person, the sum of (a) interest
+expense of such Person calculated without duplication on a consolidated basis
+for such period in accordance with GAAP, PLUS (b) expenses paid under Hedging
+Agreements during such period, MINUS (c) payments received under Hedging
+Agreements during such period.
+
+INVENTORY: All inventory now owned or hereafter acquired by the Transferor or
+any Subsidiary of the Transferor wherever located and whether or not in transit,
+which is or may at any time be held for sale or lease, or furnished under any
+contract (exclusive of leases of real Property) for service or held or used as
+raw materials, work in process, or supplies or materials used or consumed in the
+business of the Transferor or any Subsidiary of the Transferor.
+
+INVESTMENTS: As defined in SECTION 3.6(e).
+
+ISSUER: As defined in the preamble.
+
+LIEN: Any lien, mortgage, security interest, pledge, hypothecation, charge,
+equity, encumbrance or right of any kind whatsoever.
+
+MANAGED ASSETS: "Receivables Held for Investment" as determined historically for
+inclusion under such item in the consolidated balance sheet of FIFSG provided
+that such term shall: (i) not include any Receivables of ALAC Receivables
+Corporation, ALAC Automobile Receivables Trust 1998-1 or ALAC LLC; (ii) not be
+adjusted for any changes in GAAP; and (iii) include Receivables of the
+Transferor and its Subsidiaries (other than those noted in clause (i) above)
+that have been included in an off-balance sheet Securitization program created
+by the Transferor or such Subsidiaries after the Closing Date.
+
+MATERIAL ADVERSE EFFECT: With respect to any Person, any material adverse
+effect, or the occurrence of any event or the existence of any condition that
+could reasonably be expected to
+
+                                        5
+<Page>
+
+have a material adverse effect, on (a) the prospects, business or financial
+condition, or performance of such Person or of such Person and its Subsidiaries,
+taken as a whole, (b) the ability of such Person to pay and perform the
+obligations for which such Person is responsible when due, (c) with respect to
+the Transferor and its Subsidiaries and any Seller, the validity or
+enforceability of (i) any of the Transaction Documents, (ii) any Lien created or
+purported to be created by any of the Transaction Documents or the required
+priority of any such Lien, or (iii) the rights and remedies of the Deal Agent or
+the Note Investors under any of the Transaction Documents or (d) a default or
+other event shall occur under any securitization program that results in
+accelerated amortization of the related Securities where such accelerated
+amortization is not, in the sole judgment of the Deal Agent, subject to reversal
+by action readily available to the Transferor.
+
+MONTHLY REPORT: As defined in SECTION 8.3(a).
+
+MOODY'S: Moody's Investors Service, Inc.
+
+MULTIEMPLOYER PLAN: A multiemployer plan defined as such in Section 3(37) of
+ERISA to which contributions have been made by the Transferor, its Subsidiaries
+or any ERISA Affiliate at any time within the six (6) year period preceding the
+date hereof or hereafter and which is covered by Title IV of ERISA.
+
+NET PROCEEDS: (i) In connection with any disposition of assets of the Transferor
+or any Seller (or the assets of any direct or indirect Subsidiary of the
+Transferor or any Seller), the cash proceeds received by such Transferor or
+Seller from such disposition (including, without limitation, payments under
+notes or other debt Securities received in connection with any such disposition,
+but only as and when received) net of (a) the costs of such disposition
+(including reasonable, out-of-pocket professional fees and expenses, investment
+banking fees, financial advisory fees, taxes, notarial fees, survey costs, title
+insurance premiums, required escrow deposits, and purchase price adjustments and
+other customary fees and expenses, in each case attributable to and actually
+paid in connection with such disposition), and (b) amounts applied to repayment
+of Debt secured by a lien, security interest, claim or encumbrance on the asset
+or property disposed and (ii) in connection with issuance of any equity
+Securities, the cash proceeds received from such issuance, net of all costs of
+such issuance (including, without limitation, reasonable, out-of-pocket
+professional fees and expenses, notarial fees, underwriting discounts and
+commissions, and other customary fees and expenses) actually paid.
+
+NOTE: As defined in the Note Purchase Agreement.
+
+NOTE INVESTOR: As defined in the Security Agreement.
+
+NOTE PURCHASE AGREEMENT: The Note Purchase Agreement, dated as of December 6,
+2001, among the Issuer, the Deal Agent, VFCC, First Union and the Liquidity
+Banks named therein.
+
+OPINION OF COUNSEL: A written opinion of counsel which opinion is acceptable in
+form and substance and is rendered by counsel satisfactory to the Deal Agent.
+
+PBGC: The Pension Benefit Guaranty Corporation or any entity succeeding to all
+or any of its functions under ERISA.
+
+                                        6
+<Page>
+
+PERMITTED LIEN: As defined in SECTION 3.6(b).
+
+PERSON: Any individual, corporation, estate, partnership, limited liability
+company, limited liability partnership, limited partnership, joint venture
+association, joint stock company, trust (including any beneficiary thereof)
+unincorporated organization or government or any agency or political subdivision
+thereof.
+
+PLAN: Any employee benefit plan established or maintained by the Transferor or
+any of its Subsidiaries or any ERISA Affiliate and which is subject to TITLE IV
+of ERISA.
+
+PROHIBITED TRANSACTION: Any transaction described in Section 406 or 407 of ERISA
+or Section 4975(c)(1) of the Code for which no statutory or administrative
+exemption applies.
+
+PROJECT BRAVE PURCHASE AGREEMENTS: That certain Amended and Restated Contract
+Purchase Agreement, dated as of August 8, 2000, by and between First Investors
+Servicing Corporation and FIFS Acquisition Funding Company, L.L.C. and that
+certain Amended and Restated NIM Collateral Purchase Agreement, dated as of
+August 8, 2000, by and between First Investors Servicing Corporation, ALAC
+Receivables Corp. and FIFS Acquisition Funding Company, L.L.C., as amended by
+that certain First Amendment to Amended and Restated NIM Collateral Purchase
+Agreement, dated as of September 15, 2000, as such documents may be amended from
+time to time after the Closing Date.
+
+PROPERTY: For any Person, property or assets of all kinds, real, personal or
+mixed, tangible or intangible (including, without limitation, all rights
+relating thereto), whether owned or acquired on or after the Closing Date.
+
+PURCHASE PRICE: With respect to each of the Transferred Assets sold by the
+Transferor hereunder, the fair market value, as determined in good faith by the
+Transferor and the Issuer as of the date such Transferred Asset is sold to the
+Issuer.
+
+RECEIVABLES: At any date of determination thereof, each and every "account" as
+such term is defined in article or chapter 9 of the UCC (or any successor
+statute) and includes, without limitation, all of the present and future rights
+to payment under any retail installment sales contract or installment note and
+related security agreement, arising from the sale of a motor vehicle or the
+refinancing thereof.
+
+RENTAL EXPENSE: For any period and for any Person, the rental or lease expense
+of such Person under operating leases calculated without duplication on a
+consolidated basis for such period as determined in accordance with GAAP.
+
+REPORTABLE EVENT: Any of the events set forth in Section 4043 of ERISA for which
+the 30-day notice requirement has not been waived by the PBGC.
+
+RESIDUAL ASSETS: As defined in the Asset Purchase Agreement.
+
+S&P: Standard & Poor's Ratings Services.
+
+SECURED PARTIES: As defined in the Security Agreement.
+
+                                        7
+<Page>
+
+SECURITIES: Any stock, shares, options, warrants, voting trust certificates, or
+other instruments evidencing an ownership interest or a right to acquire an
+ownership interest in a Person or any bonds, debentures, notes, or other
+evidences of indebtedness for borrowed money, secured or unsecured.
+
+SECURITIZATION: The Receivables warehouse line provided by the FIRC Agreement,
+the commercial paper facility provided by Enterprise Funding Corporation to
+FIARC, and any securitization occurring after the Closing Date of the
+Transferor's or any of its Affiliates' Receivables through the issuance of
+asset-backed Securities (including the Project Brave LLP program and the First
+Investors Auto Owner Trust 2000-A).
+
+SECURITIZATION FACILITY DOCUMENTS: Any agreement, document, and instrument now
+or hereafter executed and/or delivered in connection with the FIAIC Assets,
+FIARC Assets, FIRC Assets, the Project Brave Assets and any other Securitization
+including, without limitation, the FIARC Agreement, the FIARC Purchase
+Agreement, the FIRC Agreement, the FIRC Purchase Agreement, the FIRC Security
+Agreement, the Project Brave Purchase Agreements and any and all amendments,
+modifications, supplements, renewals, extensions, or restatements thereof.
+
+SECURITIZATION FACILITY SERVICER REPORT: As defined in SECTION 8.3(c).
+
+SECURITIZATION SERVICER: Any Person acting as a servicer under the
+Securitization Facility Documents.
+
+SECURITY AGREEMENT: The Security Agreement, dated as of December 6, 2001, among
+the Issuer as the debtor, FUSI, as the deal agent and the collateral agent and
+the Transferor, as the seller.
+
+SERVICER: As defined in the PREAMBLE.
+
+SERVICER'S CERTIFICATE: As defined in SECTION 4.3(a).
+
+SERVICER EVENT OF DEFAULT: An event specified in SECTION 7.1.
+
+SERVICER TERMINATION NOTICE: As defined in SECTION 7.1(b).
+
+SERVICING AND COLLECTION POLICY: The written servicing and collection policies
+of FIFS and its Affiliates in effect on the date hereof and attached hereto as
+EXHIBIT B, as amended from time to time in accordance with SECTION 4.2(c).
+
+SOLVENT: As to any Person at any time, having a state of affairs such that all
+of the following conditions are met: (i) the fair value of the property of such
+Person is greater than the amount of such Person's liabilities (including
+disputed, contingent and unliquidated liabilities) as such value is established
+and liabilities evaluated for purposes of Section 101(32) of the Bankruptcy
+Code; (ii) the present fair salable value of the property of such Person in an
+orderly liquidation of such Person is not less than the amount that will be
+required to pay the probable liability of such Person on its debts as they
+become absolute and matured; (iii) such Person is able to realize upon its
+property and pay its debts and other liabilities (including disputed, contingent
+and unliquidated liabilities) as they mature in the normal course of business;
+(iv) such Person does not intend to, and does not believe that it will, incur
+debts or liabilities beyond such Person's ability
+
+                                        8
+<Page>
+
+to pay as such debts and liabilities mature; and (v) such Person is not engaged
+in a business or a transaction, and is not about to engage in a business or a
+transaction, for which such Person's property would constitute unreasonably
+small capital.
+
+SUBSIDIARY: (a) When used to determine the relationship of a Person to another
+Person, a Person of which an aggregate of more than 50% or more of the Capital
+Stock is owned of record or beneficially by such other Person, or by one or more
+Subsidiaries of such other Person, or by such other Person and one or more
+Subsidiaries of such Person, (i) if the holders of such Capital Stock (A) are
+ordinarily, in the absence of contingencies, entitled to vote for the election
+of a majority of the directors (or other individuals performing similar
+functions) of such Person, even though the right so to vote has been suspended
+by the happening of such a contingency, or (B) are entitled, as such holders, to
+vote for the election of a majority of the directors (or individuals performing
+similar functions) of such Person, whether or not the right so to vote exists by
+reason of the happening of a contingency, or (ii) in the case of Capital Stock
+which is not issued by a corporation, if such ownership interests constitute a
+majority voting interest, and (b) when used with respect to a Plan, ERISA, or a
+provision of the Code pertaining to employee benefit plans, means, with respect
+to a Person, any corporation, trade, or business (whether or not incorporated)
+which is under common control with such Person and is treated as a single
+employer with such Person under Section 414(b) or (c) of the Code and the
+regulations thereunder.
+
+SUCCESSOR SERVICER: As defined in SECTION 7.2(a).
+
+TANGIBLE NET WORTH: With respect to any Person, at any time, the consolidated
+stockholders' equity of such Person and its Subsidiaries, as determined on a
+consolidated basis in accordance with GAAP, MINUS intangible assets of such
+Person and its consolidated Subsidiaries (including, without limitation,
+capitalized fees and unrealized gains or losses reported as other comprehensive
+income/expense relating to hedging activities), PLUS any subordinated debt of
+such Person and its Subsidiaries approved, in writing, by the Deal Agent.
+
+TOTAL LIABILITIES: At the time of determination and without duplication, all
+amounts which, in conformity with GAAP, would be included in total liabilities
+on a consolidated balance sheet of the Transferor and its Subsidiaries.
+
+TRANSFER CERTIFICATE: A transfer certificate executed in connection with any
+sale, transfer and assignment of any additional Residual Asset on any day other
+than the Closing Date in accordance with SECTION 2.3, each in form and substance
+identical to EXHIBIT A hereto.
+
+TRANSFER DATE: As defined in SECTION 2.3.
+
+TRANSFERRED ASSET: As defined in SECTION 2.1, together with all Residual Assets
+from time to time transferred after the Closing Date in accordance with SECTION
+2.3.
+
+VFCC: Variable Funding Capital Corporation, a Delaware corporation.
+
+VOTING STOCK: Capital Stock of a Person having by the terms thereof ordinary
+voting power to elect a majority of the board of directors (or similar governing
+body) of such Person (irrespective
+
+                                        9
+<Page>
+
+of whether or not at the time Capital Stock of any other class or classes of
+such Person shall have or might have voting power by reason of the happening of
+any contingency).
+
+WHOLLY-OWNED SUBSIDIARY: Any Subsidiary that is owned 100% by the Transferor
+and/or a Subsidiary of the Transferor.
+
+     SECTION 1.2 OTHER DEFINITIONAL PROVISIONS.
+
+     (a) Capitalized terms used herein and not otherwise defined herein have the
+meanings assigned to them in the Security Agreement.
+
+     (b) All accounting terms used but not specifically defined herein shall be
+construed in accordance with GAAP.
+
+     SECTION 1.3 COMPUTATION OF TIME PERIODS.
+
+     Unless otherwise stated in this Agreement in the computation of a period of
+time from a specified date to a later specific date, the word "from" means "from
+and including" and the words "to" and "until" each mean "to but excluding".
+
+     SECTION 1.4 INTERPRETATION.
+
+     In each Transaction Document, unless a contrary intention appears:
+
+     (a) the singular number includes the plural number and vice versa;
+
+     (b) reference to any Person includes such Person's successors and assigns
+but, if applicable, only if such successors and assigns are permitted by the
+Transaction Documents;
+
+     (c) reference to any gender includes each other gender;
+
+     (d) reference to any agreement (including any Transaction Document),
+document or instrument means such agreement, document or instrument as amended,
+supplemented or modified and in effect from time to time in accordance with the
+terms thereof and, if applicable, the terms of the other Transaction Documents,
+and reference to any promissory note includes any promissory note that is an
+extension or renewal thereof or a substitute or replacement therefor; and
+
+     (e) reference to any Applicable Law means such Applicable Law as amended,
+modified, codified, replaced or reenacted, in whole or in part, and in effect
+from time to time, including rules and regulations promulgated thereunder and
+reference to any section or other provision of any Applicable Law means that
+provision of such Applicable Law from time to time in effect and constituting
+the substantive amendment, modification, codification, replacement or
+reenactment of such section or other provision.
+
+                                       10
+<Page>
+
+                                   ARTICLE II
+
+            CONVEYANCE OF TRANSFERRED ASSETS AND ASSIGNMENT OF RIGHTS
+
+     SECTION 2.1 CONVEYANCE OF TRANSFERRED ASSETS.
+
+     As of the Closing Date, in consideration for the payment of the Purchase
+Price therefor, the Transferor does hereby sell, transfer, assign, set over,
+contribute and otherwise convey to the Issuer, without recourse (subject to the
+obligations set forth herein), all right, title and interest of the Transferor
+in and to the following, whether now owned or hereafter acquired (collectively,
+with all Residual Assets transferred on any Transfer Date, the "TRANSFERRED
+ASSETS");
+
+     (a) the Residual Assets;
+
+     (b) all rights, but none of the duties or obligations, of the Transferor
+under the Asset Purchase Agreement;
+
+     (c) the Dividend Assets; and
+
+     (d) all present and future claims, demands, causes and chooses in action in
+respect of any or all of the foregoing and all payments on or under and all
+proceeds of every kind and nature whatsoever in respect of any or all of the
+foregoing, including all proceeds of the conversion, voluntary or involuntary,
+into cash or other liquid property, all cash proceeds, accounts, accounts
+receivable, notes, drafts, acceptances, chattel paper, checks, deposit accounts,
+insurance proceeds, condemnation awards, rights to payment of any and every kind
+and other forms of obligations and receivables, instruments and other property
+which at any time constitute all or part of or are included in the proceeds of
+any of the foregoing items in this SECTION 2.1.
+
+     It is the intention of the Transferor that the sale and assignment
+contemplated by this Agreement shall constitute a sale, contribution and
+absolute assignment of the Collateral from the Transferor to the Issuer and that
+no interest, beneficial or otherwise, in the Collateral shall be retained by the
+Transferor or be part of the Transferor's estate in the event of a bankruptcy,
+insolvency or similar proceeding with respect to the Transferor. In the event
+that, notwithstanding the intent of any of the Transferor, the sale,
+contribution and assignment contemplated hereby is held not to be a sale, this
+Agreement shall constitute a grant of a security interest in all of the property
+referred to in this SECTION 2.1 to the Collateral Agent for the benefit of the
+Secured Parties.
+
+     SECTION 2.2 PAYMENT FOR COLLATERAL.
+
+     The Issuer shall purchase and pay for each Transferred Asset, whether
+transferred on the Closing Date or on any subsequent Transfer Date, by causing
+the Purchase Price thereof to be paid to the Transferor in cash or by accepting
+a contribution to its capital or a combination of the above.
+
+                                       11
+<Page>
+
+     SECTION 2.3 ADDITIONAL TRANSFERS.
+
+     From time to time on any Business Day hereafter (each such day a "TRANSFER
+DATE") the Transferor or any other Affiliate of FIFS will sell, transfer and
+assign to the Issuer additional Residual Assets. Each such sale, transfer and
+assignment shall be made pursuant to, and subject to the terms and conditions
+of, a Transfer Certificate.
+
+                                   ARTICLE III
+
+                    REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+     SECTION 3.1 REPRESENTATIONS AND WARRANTIES OF THE TRANSFEROR.
+
+     As of the Closing Date and as of each Transfer Date, the Transferor hereby
+represents and warrants, to the Issuer, Deal Agent and each Secured Party as
+follows:
+
+     (a) ORGANIZATION. It and each of its Subsidiaries is a corporation, duly
+organized and validly existing in good standing under the laws of the state of
+its incorporation with all requisite corporate power and authority to own or
+lease its properties and to conduct its business as such business is presently
+conducted, and had at all relevant time, and now has all necessary power,
+authority and legal right to acquire, own and sell the Collateral.
+
+     (b) DUE QUALIFICATION. It is duly qualified to do business as a foreign
+corporation, and is in good standing, and has obtained all necessary licenses
+and approvals in all states in which the ownership or lease of property or the
+conduct of its business requires the qualification.
+
+     (c) POWER AND AUTHORITY; DUE AUTHORIZATION. It (i) has all necessary power,
+authority and legal right to (A) execute and deliver this Agreement and each
+other Transaction Document to which it is a party, (B) carry out the terms of
+this Agreement and each other Transaction Document to which it is a party and
+(ii) has been duly authorized by all necessary corporate action for the due
+execution, delivery and performance of this Agreement and each other Transaction
+Document to which it is a party and for the transfer, sale and assignment of
+each of the Transferred Assets
+
+     (d) SOLVENCY. The transactions under this Agreement and any other
+Transaction Document to which it is a party do not and will not render it not
+Solvent.
+
+     (e) TRUE SALES; ABSOLUTE ASSIGNMENTS. The transfer of each of the
+Transferred Assets by it to the Issuer is a sale and not a loan secured by a
+pledge of the Transferred Assets or a contribution or absolute assignment of all
+of its right, title and interest in and to such Transferred Assets.
+
+     (f) FINANCIAL STATEMENTS; FINANCIAL CONDITION. All financial statements or
+certificates of it or any of its officers furnished to the Deal Agent fairly
+present the financial condition and results of operations of it at the dates.
+All the financial statements have been prepared in accordance with GAAP,
+consistently applied. None of FIFSG, the Transferor nor any Subsidiary of the
+Transferor has any material contingent liabilities, including liabilities for
+taxes, unusual forward or long-term commitments, or unrealized or anticipated
+losses from any unfavorable commitments except as referred to or reflected in
+such financial statements. There has been no material adverse change with
+respect to the condition (financial or otherwise), results of
+
+                                       12
+<Page>
+
+operations, business, capitalization, assets, liabilities (actual or contingent)
+or prospects of FIFSG, FIVH, the Transferor and its Subsidiaries since April 30,
+2001.
+
+     (g) ENFORCEABILITY. Each of the Transaction Documents to which it is a
+party constitutes a legal, valid and binding obligation of it, enforceable
+against it in accordance with its respective terms, except as limited by
+bankruptcy, reorganization, insolvency, fraudulent conveyance, moratorium and
+other similar laws and equitable principles affecting creditors' rights and
+remedies.
+
+     (h) NO CONFLICTS. The consummation of the transactions contemplated by this
+Agreement and the other Transaction Documents to which it is a party and the
+fulfillment of the terms hereof and thereof will not (i) conflict with, result
+in any breach of any of the terms and provisions of, or constitute (with or
+without notice, lapse of time or both) a default under, the articles of
+incorporation or by-laws of the Transferor, or any material indenture,
+agreement, mortgage, deed of trust or other instrument to which it is a party or
+by which it is bound, (ii) result in the creation or imposition of any Lien upon
+any of its properties pursuant to the terms of the indenture, agreement,
+mortgage, deed of trust or other instrument, other than the Transaction
+Documents, or (iii) violate any Applicable Law.
+
+     (i) LEGAL PROCEEDINGS. There is no proceeding or investigation pending or,
+to the best of its knowledge, threatened against it, before any Governmental
+Authority (i) asserting the invalidity of this Agreement or any other
+Transaction Document to which it is a party, (ii) seeking to prevent the
+consummation of any of the transactions contemplated by this Agreement or any
+other Transaction Document to which it is a party, or (iii) seeking any
+determination or ruling that would materially and adversely affect the
+performance by it of its obligations under, or the validity or enforceability
+of, this Agreement or any other Transaction Document to which it is a party.
+
+     (j) CONSENTS AND APPROVALS. All approvals, authorizations, consents, orders
+or other actions of any Person or of any Governmental Authority (if any)
+required for the due execution, delivery and performance by it of this Agreement
+and any other Transaction Document to which it is a party have been obtained.
+
+     (k) INVESTMENT COMPANY ACT OF 1940. It is not an "investment company"
+registered or required to be registered under the Investment Company Act of
+1940, as amended.
+
+     (l) TITLE TO TRANSFERRED ASSETS. It has good and marketable title (or its
+equivalent under applicable law) to each Residual Asset and the proceeds thereof
+free and clear of any Liens and the claims of any third party. No effective
+financing statement or other instrument similar in effect covering any
+Collateral shall at any time be on file in any recording office except as
+contemplated hereby and by the Transaction Documents.
+
+     (m) PERFECTION. The sale, transfer and assignment by it of the Transferred
+Assets has been duly perfected under all applicable laws. The interest of the
+Issuer is a first priority perfected ownership interest in the Transferred
+Assets. All filings (including, without limitation, the UCC filings) as are
+necessary in any jurisdiction to perfect the interests of the Issuer and of
+
+                                       13
+<Page>
+
+the Collateral Agent for the benefit of the Secured Parties, in the Transferred
+Assets have been (or prior to the Closing Date will be) made.
+
+     (n) TAX STATUS. It has filed or caused to be filed all tax returns that are
+required to be filed by it. It has paid or made adequate provisions for the
+payment of all Taxes and all assessments made against it or any of its property
+(other than any amount of Taxes the validity of which is currently being
+contested in good faith by appropriate proceedings and with respect to which
+reserves in accordance with GAAP have been provided on the books of the
+Transferor), and no tax lien has been filed and, to the best of its knowledge,
+no claim is being asserted, with respect to any such Taxes, fees or other
+charge. The tax returns are complete and accurate in all respects.
+
+     (o) NAME, JURISDICTION OF FORMATION AND ADDRESSES. Except as disclosed on
+SCHEDULE 3.1(o), during the four (4) months prior to the Closing Date, it has
+not been located at any addresses other than its current address. During the
+five (5) years immediately preceding the Closing Date it has operated under its
+own and only those tradenames or other names as set forth on SCHEDULE 3.1(o).
+It's jurisdiction of formation is as set forth on SCHEDULE 3.1(o) and it has not
+changed its jurisdiction of formation within the four (4) months immediately
+preceding the Closing Date. It is a "registered organization" within the meaning
+of Article 9 of the UCC as adopted in each relevant jurisdiction.
+
+     (p) NO DEFAULT. There has been no default, breach, violation or event
+permitting acceleration under the terms of this Agreement or any other
+Transaction Document, and no condition exists or event has occurred and is
+continuing that with notice, the lapse of time or both would constitute a
+default, breach, violation or event permitting acceleration under the terms of
+this Agreement or any other Transaction Document, and there has been no waiver
+of any of the foregoing.
+
+     (q) DEBT. Except as set forth in SCHEDULE 3.1(q), it has no funded Debt.
+
+     (r) MARGIN SECURITIES. It is not engaged principally, or as one of its
+important activities, in the business of extending credit for the purpose of
+purchasing or carrying margin stock (within the meaning of Regulations T, U, or
+X of the Board of Governors of the Federal Reserve System), and no part of the
+Purchase Price of any Transferred Asset will be used to purchase or carry any
+margin stock or to extend credit to others for the purpose of purchasing or
+carrying margin stock.
+
+     (s) ERISA. With respect to each Plan, it is in substantial compliance with
+all applicable provisions of ERISA. Neither a Reportable Event nor a Prohibited
+Transaction has occurred and is continuing with respect to any Plan. No notice
+of intent to terminate a Plan has been filed, nor has any Plan been terminated.
+No circumstances exist which constitute grounds entitling the PBGC to institute
+proceedings to terminate, or appoint a trustee to administer, a Plan, nor has
+the PBGC instituted any such proceedings. Neither it nor any ERISA Affiliate has
+completely or partially withdrawn from a Multiemployer Plan. It and each of its
+ERISA Affiliates have met their minimum funding requirements under ERISA with
+respect to each Plan. Except as set forth in SCHEDULE 3.1(s), the present value
+of all vested benefits under each Plan do not exceed the fair market value of
+all Plan assets allocable to such benefits, as determined on the
+
+                                       14
+<Page>
+
+most recent valuation date of the Plan and in accordance with ERISA. Neither it
+nor any ERISA Affiliate has any outstanding liability to the PBGC under ERISA
+(other than liability for the payment of PBGC premiums in the ordinary course of
+business).
+
+     (t) DISCLOSURE. All factual information furnished by or on behalf of it in
+writing to the Deal Agent for purposes of or in connection with this Agreement,
+the other Transaction Documents, or any transaction contemplated herein or
+therein is, and all other such factual information hereafter furnished by or on
+behalf of it to the Deal Agent, are and will be true and accurate in all
+material respects on the date as of which such information is dated or certified
+and not incomplete by omitting to state any fact necessary to make such
+information not misleading in any material respect at such time in light of the
+circumstances under which such information was provided.
+
+     (u) SUBSIDIARIES; CAPITALIZATION. SCHEDULE 3.1(u) sets forth the
+jurisdiction of incorporation or organization of the Transferor and its
+Subsidiaries, its or another Subsidiary's (as applicable) percentage of
+ownership of the outstanding Voting Stock of each of its Subsidiaries, and the
+authorized, issued, and outstanding Capital Stock of the Transferor and each its
+Subsidiaries. All of the outstanding Capital Stock of the Transferor and its
+Subsidiaries has been validly issued, is fully paid, is nonassessable, and has
+not been issued in violation of any preemptive or similar rights. Except as
+disclosed in SCHEDULE 3.1(u), there are (a) no outstanding subscriptions,
+options, warrants, calls, or rights (including, without limitation, preemptive
+rights) to acquire, and no outstanding securities or instruments convertible
+into, Capital Stock of the Transferor or any of its Subsidiaries, and (b) no
+shareholder agreements, voting trusts, or similar agreements in effect and
+binding on any shareholder of the Transferor or any of its Subsidiaries or the
+Capital Stock of the Transferor or any of its Subsidiaries. All shares of
+Capital Stock of the Transferor and its Subsidiaries were issued in compliance
+with all applicable state and federal securities laws.
+
+     (v) AGREEMENTS. Except as set forth in SCHEDULE 3.1(v), the Transferor is
+not a party to any indenture, loan, or credit agreement, or to any lease or
+other agreement or instrument, or subject to any charter or corporate
+restriction that could have a Material Adverse Effect. The Transferor is not in
+default in any respect in the performance, observance, or fulfillment of any of
+the obligations, covenants, or conditions contained in any agreement or
+instrument to which it is a party where such default could reasonably be
+expected to cause a Material Adverse Effect. No event has occurred and is
+continuing which constitutes a default or an event of default under any
+Securitization, or any other financing arrangement maintained by any of the
+Transferor or any of its Affiliates.
+
+     (w) COMPLIANCE WITH LAWS. It is not in violation of any law, rule,
+regulation, order, or decree of any Governmental Authority or arbitrator except
+for unintentional violations which could not reasonably be expected to have a
+Material Adverse Effect.
+
+     (x) ACCURACY OF REPRESENTATIONS AND WARRANTIES. Each representation or
+warranty by it contained herein or in any other document furnished by it
+pursuant this Agreement or in connection with any other document furnished by it
+is true and correct in all material respects.
+
+                                       15
+<Page>
+
+     (y) REPRESENTATIONS AND WARRANTIES IN ASSET PURCHASE AGREEMENT. The
+representations and warranties made by the Transferor in the Asset Purchase
+Agreement are hereby remade by the Transferor on each date to which they speak
+in the Asset Purchase Agreement as if such representations and warranties were
+set forth herein as made by the Transferor MUTATIS MUTANDIS.
+
+     SECTION 3.2 REPRESENTATIONS AND WARRANTIES RELATING TO THE COLLATERAL.
+
+     As of the Closing Date and as of each Transfer Date, the Transferor hereby
+represents and warrants to the Issuer, the Deal Agent and each Secured Party as
+follows:
+
+     (a) MARKING OF RECORDS. It has caused the portions of its records relating
+to the Collateral to be clearly and unambiguously identified to show that the
+Transferred Assets have each been sold, transferred and assigned by the
+Transferor to the Issuer in accordance with the terms of this Agreement.
+
+     (b) GOOD TITLE. No Transferred Asset has been sold, transferred, assigned
+or pledged by it to any Person other than the Issuer, except as may be permitted
+by the Transaction Documents. Immediately prior to the conveyance of the
+Transferred Assets to the Issuer pursuant to this Agreement, the Transferor was
+the sole owner thereof and had good and indefeasible title thereto, free of any
+Lien and, upon the sale thereof by the Transferor pursuant to this Agreement,
+the Issuer shall have good and indefeasible title to and will be the sole owner
+of the Transferred Assets, free of any Lien.
+
+     (c) ALL FILINGS MADE. All filings (including, without limitation, UCC
+filings) required to be made by any Person and actions required to be taken or
+performed by any Person in any jurisdiction to perfect the first priority
+ownership interest of the Issuer in, to and under, and to give the Collateral
+Agent for the benefit of the Secured Parties a first priority perfected lien on,
+the Transferred Assets and the proceeds thereof have been made, taken or
+performed.
+
+     (d) NO IMPAIRMENT. It has done nothing to convey any right to any Person
+that would result in such Person having a right to payments due under any
+portion or all of the Transferred Assets or otherwise to impair the rights of
+the Issuer, the Collateral Agent or any Secured Party in any portion or all of
+the Transferred Assets or the proceeds thereof.
+
+     (e) NO DEFENSES. No portion of the Transferred Assets is subject to any
+right of recession, setoff, counterclaim or defense and no such right has been
+asserted or threatened with respect to any portion or all of the Transferred
+Assets.
+
+     SECTION 3.3 PURCHASE OF TRANSFERRED ASSETS UPON BREACH.
+
+     Upon discovery by the Deal Agent, the Servicer, the Issuer or the
+Transferor of a breach of any of any of the representations and warranties
+relating to the Transferred Assets or any breach of any of the servicing
+obligations with respect thereto, the party discovering such breach shall give
+prompt written notice to the others. Within thirty (30) days of such notice
+being given, the Servicer or the Transferor, as appropriate, shall repurchase or
+purchase, as the case may be, such affected Transferred Assets from the Issuer
+at a price equal to the Purchase Price paid with respect to such Transferred
+Asset, or if such asset was contributed by the Transferor to the Issuer,
+
+                                       16
+<Page>
+
+at a price equal to the fair market value of such Transferred Asset, determined
+as of the date such Transferred Asset was contributed to the Issuer.
+
+     SECTION 3.4 FUTURE SECURITIZATIONS.
+
+     If the Transferor or any Affiliate of the Transferor enters into or becomes
+a party to any Securitization on or after the Closing Date, the Transferor shall
+or shall cause such Affiliate to become a Seller under the Asset Purchase
+Agreement and sell, transfer and assign all of its rights in, to and under such
+Securitization. The Transferor agrees that simultaneously with the closing of
+such Securitization, it will sell, assign, set over, contribute and otherwise
+convey to the Issuer, any additional Residual Asset, Dividend Asset and any
+other related right that the Transferor acquires pursuant to the terms of the
+Asset Purchase Agreement. Each such transfer shall be evidenced by the execution
+and delivery of an Accession Agreement and a Transfer Certificate.
+
+     SECTION 3.5 COVENANTS OF THE TRANSFEROR.
+
+     (a) MAINTENANCE OF EXISTENCE; CONDUCT OF BUSINESS. Except as permitted by
+SECTION 3.6(c), the Transferor will, and will cause each of its Subsidiaries to,
+preserve and maintain its corporate existence and all of its leases, privileges,
+licenses, permits, franchises, qualifications, and rights that are necessary in
+the ordinary conduct of its business. The Transferor will, and will cause each
+of its Subsidiaries to, conduct its business in an orderly and efficient manner
+in accordance with good business practices.
+
+     (b) TAXES AND CLAIMS. The Transferor will, and will cause each of its
+Subsidiaries to, pay or discharge at or before maturity or before becoming
+delinquent (a) all taxes, levies, assessments, and governmental charges imposed
+on it or its income or profits or any of its property, and (b) all lawful claims
+for labor, material, and supplies, which, if unpaid, might become a Lien upon
+any of its property; PROVIDED, HOWEVER, that neither the Transferor or any of
+its Subsidiaries shall be required to pay or discharge any tax, levy,
+assessment, or governmental charge or charge for labor, material, and supplies
+(i) which is being contested in good faith by appropriate proceedings diligently
+pursued, and for which adequate reserves in accordance with GAAP have been
+established and (ii) if the failure to pay the same would not result in a Lien
+on the property of the Transferor or any of its Subsidiaries.
+
+     (c) INSPECTION RIGHTS. The Transferor will, and will cause each of its
+Subsidiaries to, permit representatives and agents of the Deal Agent and each
+Note Investor, during normal business hours and upon reasonable notice to either
+FIFSG or the Transferor (as appropriate), to examine, copy, and make extracts
+from FIFSG's or the Transferor's books and records, to visit and inspect the
+Transferor's Properties and to discuss FIFSG's or the Transferor's business,
+operations, and financial condition with their respective officers and
+independent certified public accountants. FIFSG and the Transferor will
+authorize their respective accountants in writing (with a copy to the Deal
+Agent) to comply with this SECTION 3.5(c). The Deal Agent or its representatives
+may, at any time and from time to time at the Transferor's expense, conduct
+field exams for such purposes as the Deal Agent may reasonably request.
+
+     (d) KEEPING BOOKS AND RECORDS. The Transferor will, and will cause each of
+its Subsidiaries to, maintain proper books of record and account in which full,
+true, and correct
+
+                                       17
+<Page>
+
+entries in conformity with GAAP shall be made of all dealings and transactions
+in relation to its business and activities.
+
+     (e) COMPLIANCE WITH LAWS. The Transferor will, and will cause each of its
+Subsidiaries to, comply in all material respects with all applicable laws
+(including, without limitation, all Environmental Laws), rules, regulations,
+orders, and decrees of a material nature of any Governmental Authority or
+arbitrator other than any such laws, rules, regulations, orders, and decrees
+contested by appropriate actions or proceedings diligently pursued, if adequate
+reserves in conformity with GAAP and satisfactory to the Deal Agent are
+established with respect thereto and except for unintentional violations which
+could not reasonably be expected to have a Material Adverse Effect with respect
+to any such Person.
+
+     (f) COMPLIANCE WITH AGREEMENTS. The Transferor will, and will cause each
+Seller to, comply with all agreements, contracts, and instruments binding on it
+or affecting its properties or business other than such noncompliance which
+could not reasonably be expected to have a Material Adverse Effect. The
+Transferor will, and will cause each Seller to, comply with any and all
+provisions of the Securitization Facility Documents.
+
+     (g) APPROVED SUB NOTE. The Transferor will transfer or otherwise contribute
+to the Collateral Agent (on behalf of the Secured Parties), all of the
+Transferor's right, title and interest in the Approved Sub Note, as soon as
+possible, but in any event, within six (6) month from the Closing Date.
+
+     SECTION 3.6 NEGATIVE COVENANTS OF THE TRANSFEROR.
+
+     The Transferor covenants and agrees for the benefit of the Issuer and the
+Secured Parties as follows:
+
+     (a) DEBT. The Transferor will not, and will not permit any Seller to,
+incur, create, assume, or permit to exist any Debt, except:
+
+         (i)    Debt described on SCHEDULE 3.6(a), and any extensions, renewals,
+     or refinancings of such existing Debt so long as (i) the principal amount
+     of such Debt after such renewal, extension, or refinancing shall not exceed
+     the principal amount of such Debt which was outstanding immediately prior
+     to such renewal, extension, or refinancing and (ii) such Debt shall not be
+     secured by any assets other than assets securing such Debt, if any, prior
+     to such renewal, extension, or refinancing;
+
+         (ii)   Debt of a Subsidiary of the Transferor, other than any such Debt
+     incurred in the ordinary course of business, owed to the Transferor or
+     another Subsidiary of the Transferor provided that such Debt is on terms
+     satisfactory to the Deal Agent in its sole discretion;
+
+         (iii)  Guaranties and other Debt incurred in the ordinary course of
+     business with respect to Receivables purchase commitments, reinsurance
+     obligations, surety and appeal bonds and performance and return-of-money
+     bonds;
+
+                                       18
+<Page>
+
+         (iv)   Debt of the Transferor or any Subsidiary of the Transferor
+     constituting purchase money Debt (including, without limitation, Capital
+     Lease Obligations) incurred after the Closing Date not to exceed $500,000
+     in the aggregate at any time outstanding secured by purchase money Liens
+     constituting Permitted Liens;
+
+         (v)    Debt constituting obligations to reimburse worker's compensation
+     insurance companies for claims paid by such companies on the Transferor's
+     or any of its Subsidiaries' behalf in accordance with the policies issued
+     to the Transferor or such Subsidiary of the Transferor;
+
+         (vi)   Debt secured by the Permitted Liens;
+
+         (vii)  Debt arising under, created by and consisting of Hedging
+     Agreements, PROVIDED, (i) such Hedging Agreements shall have been entered
+     into for the purpose of hedging actual risk and not for speculative
+     purposes and (ii) that each counterparty to such Hedging Agreement shall be
+     First Union or shall be rated in one of the two highest rating categories
+     of S&P or Moody's;
+
+         (viii) Intercompany obligations among Transferor, FIFSG and their
+     respective Subsidiaries for reasonable net rent allocation, reasonable
+     management fees, dividends declared, equity investments and intercompany
+     debt service, including, but not limited to, that certain unsecured loan by
+     FIVH to the Transferor pursuant to which the Transferor may borrow, repay
+     and reborrow an amount not to exceed $25,000,000, as evidenced by that
+     certain promissory note, dated April 23, 1997, issued by the Transferor and
+     payable to the order of FIVH, as such note may be amended, modified,
+     extended or increased from time to time;
+
+         (ix)   Debt arising under a Securitization; and
+
+         (x)    Debt arising in conjunction with certain interest rate hedging
+     obligations between the Transferor and Bank of America, N.A. arising under
+     that certain ISDA Master Agreement dated October 21, 1996 and further
+     described in SCHEDULE 3.1(v).
+
+     (b) LIMITATION ON LIENS AND RESTRICTIONS ON TRANSFEROR. The Transferor will
+not, and will not permit any Seller or any of its Subsidiaries to, incur,
+create, assume, or permit to exist any Lien upon any of its property, assets, or
+revenues, whether now owned or hereafter acquired, except the following
+("PERMITTED LIENS"):
+
+         (i)    Liens described on SCHEDULE 3.6(b) hereto, and any extensions,
+     renewals, or refinancings of the Debt secured by such Liens as permitted
+     under clause (ii) hereof, PROVIDED that (i) no such Lien is expanded to
+     cover any additional Property (other than after acquired title in or on
+     such Property and proceeds of the existing collateral) after the Closing
+     Date and (ii) no such Lien is spread to secure any additional Debt after
+     the Closing Date other than Debt permitted by clause (ii) hereof;
+
+         (ii)   Liens in favor of the Issuer and assigned to the Deal Agent, for
+     the benefit of the Secured Parties;
+
+                                       19
+<Page>
+
+         (iii)  Encumbrances consisting of easements, zoning restrictions, or
+     other restrictions on the use of real Property that do not (individually or
+     in the aggregate) materially detract from the value of the real Property
+     encumbered thereby or materially impair the ability of the Transferor;
+
+         (iv)   Liens for taxes, assessments, or other governmental charges (but
+     excluding Environmental Liens or Liens under ERISA) that are not delinquent
+     or which are being contested in good faith and for which adequate reserves
+     have been established in accordance with GAAP;
+
+         (v)    Liens of mechanics, materialmen, warehousemen, carriers,
+     landlords, or other similar statutory Liens securing obligations that are
+     not overdue or are being contested in good faith by appropriate proceedings
+     diligently pursued and for which adequate reserves have been established in
+     accordance with GAAP and are incurred in the ordinary course of business;
+
+         (vi)   Liens resulting from deposits to secure payments of worker's
+     compensation, unemployment insurance or other social security programs or
+     to secure the performance of tenders, statutory obligations, leases,
+     insurance contracts, surety and appeal bonds, bids, and other contracts
+     incurred in the ordinary course of business (other than for payment of
+     Debt);
+
+         (vii)  Liens for purchase money obligations and Liens securing Capital
+     Lease Obligations; PROVIDED that: (i) the Debt secured by any such Lien is
+     permitted under SECTION 3.6(a) hereof; and (ii) any such Lien encumbers
+     only the Property so purchased or leased;
+
+         (viii) Any interest or title of a licensor, lessor, or sublessor under
+     any license or lease entered into in the ordinary course of business;
+
+         (ix)   Liens against equipment arising from precautionary UCC financing
+     statement filings regarding operating leases entered into by the Transferor
+     in the ordinary course of business;
+
+         (x)    Nonconsensual Liens in favor of banking institutions arising as
+     a matter of law and encumbering the deposits (including the right of
+     set-off) held by such banking institutions in the ordinary course of
+     business; and
+
+         (xi)   The Lien on that certain trust account described in the
+     Facultative Reinsurance Agreement, dated as of April 15, 1994, as amended,
+     modified or extended from time to time, between FIIC and National Union
+     Fire Insurance Company of Pittsburgh, PA, which Lien secures the
+     obligations of FIIC thereunder;
+
+         (xii)  Liens arising in conjunction with a Securitization; and
+
+         (xiii) The Lien arising in conjunction with certain interest rate
+     hedging obligations between the Transferor and Bank of America, N.A.
+     arising under that certain
+
+                                       20
+<Page>
+
+     ISDA Master Agreement dated October 21, 1996 and further described in
+     Schedule 3.1(v).
+
+     Notwithstanding the foregoing Permitted Liens or any other provision in
+this Agreement or any other Transaction Document to the contrary, none of FIFSG,
+FIVH or the Transferor will enter into, and the Transferor will not permit any
+of the Sellers to enter into, any agreement that (i) prohibits the creation or
+assumption of any Lien upon, or the pledge, hypothecation or encumbrance of, any
+Property of FIFSG, the Transferor or such Seller in favor of any Person,
+including, without limitation the Issuer and the Secured Parties, or (ii)
+requires any obligation of FIFSG, the Transferor or such Seller to be secured in
+favor of another Person if any Debt of the Transferor is so secured.
+
+     (c) MERGERS, ETC. The Transferor will not, and will not permit any Seller
+to, become a party to a merger or consolidation, or purchase or otherwise
+acquire all or a substantial part of the business or Property of any Person or
+all or a substantial part of the business or Property of a division or branch of
+a Person or a majority interest in the Capital Stock of any Person, or wind-up,
+dissolve, or liquidate itself; PROVIDED that as long as no Termination Event
+exists or would result therefrom and provided the Transferor gives the Deal
+Agent prior written notice:
+
+         (i)    A Subsidiary of the Transferor may wind-up, dissolve, or
+     liquidate if its Property is transferred to the Transferor or a
+     Wholly-Owned Subsidiary of the Transferor; and
+
+         (ii)   Any Subsidiary of the Transferor may merge or consolidate with
+     the Transferor (provided the Transferor is the surviving entity) or with
+     any Wholly-Owned Subsidiary of the Transferor (provided the Wholly-Owned
+     Subsidiary is the surviving entity).
+
+     (d) RESTRICTED JUNIOR PAYMENTS. The Transferor will not, and will not
+permit any Seller to, directly or indirectly declare, order, pay, make, or set
+apart any sum for (a) any dividend or other distribution, direct or indirect, on
+account of any shares of any class of Capital Stock of such Person now or
+hereafter outstanding; (b) any redemption, conversion, exchange, retirement,
+sinking fund, or similar payment, purchase, or other acquisition for value,
+direct or indirect, of any shares of any class of Capital Stock of Person now or
+hereafter outstanding; or (c) any payment made to retire, or to obtain the
+surrender of, any outstanding warrants, options, or other rights to acquire
+shares of any class of Capital Stock of such Person now or hereafter outstanding
+except:
+
+         (i)    Subsidiaries of the Transferor may make, declare, and pay
+     dividends and make other distributions with respect to their Capital Stock
+     to the Transferor;
+
+         (ii)   the Transferor may declare and pay dividends on any class of its
+     Capital Stock payable solely in shares of Capital Stock of the Transferor;
+     and
+
+         (iii)  the Transferor may acquire or redeem Capital Stock of the
+     Transferor held by any former officer, director, or employee of the
+     Transferor or beneficiaries of any such Person's estate or trusts created
+     by or for the benefit of any such Person or their beneficiaries.
+
+                                       21
+<Page>
+
+     (e) INVESTMENTS. The Transferor will not, and will not permit any Seller
+to, make or permit to remain outstanding any advance, loan, extension of credit,
+or capital contribution to or investment in any Person, or purchase or own any
+stocks, bonds, notes, debentures, or other Securities of any Person, or be or
+become a joint venturer with or partner of any Person (all the foregoing, herein
+"INVESTMENTS"), except:
+
+         (i)    the Transferor and its Subsidiaries may make equity investments
+     in and may make loans to Subsidiaries of the Transferor (in the case of
+     loans, as permitted by SECTION 3.6(a)) and may acquire new Subsidiaries
+     (subject to the requirements of this subsection (e);
+
+         (ii)   readily marketable direct obligations of the U.S. or any agency
+     thereof with maturities of one year or less from the date of acquisition;
+
+         (iii)  fully insured certificates of deposit with maturities of one
+     year or less from the date of acquisition issued by any commercial bank
+     operating in the U.S. having capital and surplus in excess of One Hundred
+     Million Dollars ($100,000,000);
+
+         (iv)   commercial paper of a domestic issuer and equity or debt
+     Securities of a domestic issuer if at the time of purchase such paper or
+     debt Securities of such issuer is rated in one of the two highest rating
+     categories of S&P or Moody's, or any successor thereto and shares of any
+     mutual fund company substantially all the assets of which consist of cash
+     and the Investments of the type described in CLAUSE (ii), CLAUSE (iii), and
+     this CLAUSE (iv);
+
+         (v)    advances to officers, directors, and employees for business
+     expenses incurred in the ordinary course of business;
+
+         (vi)   if no Termination Event exists, the Transferor and its
+     Subsidiaries may make capital contributions to or investments in, or
+     purchase any Capital Stock of the Transferor authorized under SECTION
+     3.6(f), of the Transferor, a Wholly-Owned Subsidiary of the Transferor, or
+     a newly created Person organized by the Transferor or any Subsidiary of the
+     Transferor;
+
+         (vii)  the Transferor and its Subsidiaries may acquire and own any
+     Investments of any Person received in connection with the bankruptcy or
+     reorganization of suppliers and customers and in connection with the
+     settlement of delinquent obligations of, and disputes with, customers and
+     suppliers arising in the ordinary course of business;
+
+         (viii) extensions of trade credit in the ordinary course of business;
+
+         (ix)   Investments other than those described in CLAUSES (i)-(viii) of
+     this SECTION 3.6(e) if the aggregate amount thereof never exceeds Two
+     Hundred Fifty Thousand Dollars ($250,000) at any time (determined based on
+     the cost or outstanding principal amount thereof, as applicable, without
+     regard to any write up or write down thereof, MINUS all payments received
+     in respect of such Investment, whether constituting principal, interest,
+     dividends, distributions, or otherwise).
+
+                                       22
+<Page>
+
+     (f) LIMITATION ON ISSUANCE OF CAPITAL STOCK. The Transferor will not, and
+will not permit any Subsidiary to, at any time issue, sell, assign, or otherwise
+dispose of, except to the Transferor, a Subsidiary of the Transferor, or a newly
+created Wholly-Owned Subsidiary of the Transferor, or pursuant to a public
+offering of the Capital Stock of the Transferor, (a) any of its Capital Stock,
+(b) any securities exchangeable for or convertible into or carrying any rights
+to acquire any of its Capital Stock, or (c) any option, warrant, or other right
+to acquire any of its Capital Stock.
+
+     (g) TRANSACTIONS WITH AFFILIATES. Except as provided under the Transaction
+Documents, the Transferor will not, and will not permit any Seller to, enter
+into any transaction, including, without limitation, the purchase, sale, or
+exchange of property or the rendering of any service, with any Affiliate of the
+Transferor or such Seller, except in the ordinary course of and pursuant to the
+reasonable requirements of the Transferor's or such Seller's business and upon
+fair and reasonable terms no less favorable to the Transferor or such Seller
+than would be obtained in a comparable arms-length transaction with a Person not
+an Affiliate of the Transferor or such Seller.
+
+     (h) DISPOSITION OF ASSETS. The Transferor will not, and will not permit any
+Seller to, sell, lease, assign, transfer, or otherwise voluntarily dispose of:
+(a) any of its Receivables other than the transfer and assignment of Receivables
+(i) to FIRC pursuant to the FIRC Purchase Agreement, (ii) to FIARC pursuant to
+the FIARC Purchase Agreement, and (iii) to any Wholly-Owned Subsidiary for
+inclusion in a Securitization program pursuant to which such Wholly-Owned
+Subsidiary transfers directly or indirectly all of its subordinated and residual
+interests in such Securitization to the Issuer; (b) any substantial portion of
+the consolidated assets of the Transferor or such Seller; or (c) any other
+Property other than dispositions of Inventory and Equipment in the ordinary
+course of business and sales of charged off deficiency balances in the ordinary
+course of business generating aggregate Net Proceeds not in excess of $500,000
+in any calendar year.
+
+     (i) LINES OF BUSINESS. The Transferor and its Subsidiaries will not engage
+in any line or lines of business activity other than the businesses in which
+they are engaged on the date hereof or a business reasonably related thereto.
+The Transferor will not permit any of its Subsidiaries to engage in any line or
+lines of business activity other than the businesses in which the Transferor and
+its Subsidiaries are engaged on the date hereof or a business reasonably related
+thereto.
+
+     (j) LIMITATIONS ON RESTRICTIONS AFFECTING SUBSIDIARIES. The Transferor
+shall not, and will not permit any Seller to, enter into or assume any material
+agreement (other than the Transaction Documents) prohibiting the creation or
+assumption of any Lien upon its material properties or assets, whether now owned
+or hereafter acquired. Except as provided herein, the Transferor will not, and
+will not permit any of its Subsidiaries to, directly or indirectly create or
+otherwise cause or suffer to exist or become effective any consensual
+encumbrance or restriction of any kind on the ability of the Transferor or any
+of its Subsidiaries to: (a) pay dividends or make any other distribution on any
+of such Seller's Capital Stock owned by the Transferor or any of its Affiliates;
+(b) pay any Debt owed to any Person; (c) make loans or advances to any Person;
+or (d) transfer any of its Property to any Person, except pursuant to
+non-assignment provisions of licenses and leases entered into in the ordinary
+course of business.
+
+                                       23
+<Page>
+
+     (k) NO PREPAYMENT OF DEBT. The Transferor will not, and will not permit any
+of its Subsidiaries or any of the Sellers to, directly or indirectly, make any
+optional prepayment or distribution on account of, or voluntarily purchase,
+acquire, redeem or retire, any Debt (except for Debt relating to any hedging
+instrument) prior to thirty (30) days before its originally stated maturity or,
+in the case of interest, its stated due date; PROVIDED, however, the Transferor
+may permit a cleanup call or similar action pursuant to the terms and conditions
+set forth in Section 5.1(u) of the Security Agreement.
+
+     (l) NO MATERIAL CHANGE IN UNDERWRITING STANDARDS. The Transferor will not,
+and will not permit any of its Subsidiaries or any Seller to, make material
+changes to its written underwriting standards or to its business practices with
+respect to such policies.
+
+     (m) NO EXTENSION OR AMENDMENT OF CERTAIN DOCUMENTS. Except with the prior
+written consent of the Deal Agent (other than with respect to extensions of the
+credit insurance referred to in CLAUSE (a) below), the Transferor will not
+consent to any request to, will not take any action in furtherance of any
+request to, and will not permit or cause any Seller to, extend, amend or
+otherwise modify the terms of (a) the credit insurance or (b) any Securitization
+Facility Document, if such extension, amendment or modification could have an
+adverse effect on the transactions contemplated by this Agreement and the
+Transaction Documents.
+
+     (n) LIMITATION ON TRANSFER OF CAPITAL STOCK. The Transferor will not
+transfer, sell, assign, grant a security interest in, or transfer any other
+interest into or under any Capital Stock owned by it or in any rights
+represented by such Capital Stock.
+
+     SECTION 3.7 FINANCIAL COVENANTS OF THE TRANSFEROR.
+
+     The Transferor covenants and agrees for the benefit of the Issuer and the
+Secured Parties that:
+
+     (a) MINIMUM TANGIBLE NET WORTH. As of the end of each calendar month, the
+Transferor will not permit the Tangible Net Worth of the FIFSG and its
+consolidated Subsidiaries to be less than (a) the greater of $28,400,000 or 90%
+of Tangible Net Worth of FIFSG and its consolidated Subsidiaries as of April 30,
+2001, PLUS (b) the Net Proceeds of any sale after the Closing Date of Capital
+Stock by FIFSG or any Subsidiary of FIFSG, PLUS (c) 90% of FIFSG's cumulative
+positive net income (determined according to GAAP) for each fiscal quarter
+beginning with the fiscal quarter ending January 31, 2001.
+
+     (b) MAXIMUM NET CHARGE-OFF RATIO. As of the end of each calendar month, the
+Transferor shall not permit the average ratio (expressed as a percentage) for
+each of the most recent three month ends of (a) Charged-Off Receivables to (b)
+Managed Assets to exceed 4.00%.
+
+     (c) MAXIMUM DELINQUENCY RATIO. The Transferor shall not permit the average
+ratio (expressed as a percentage) for each of the most recent three month ends
+of (a) Delinquent Receivables to (b) Managed Assets to exceed 4.75%; PROVIDED,
+however that for the first calendar month following the Closing Date, the
+Delinquency Ratio shall be calculated as of the end of such month; and for the
+second calendar month following the Closing Date, the
+
+                                       24
+<Page>
+
+Delinquency Ratio shall be the average of the Delinquency Ratio calculated as of
+the end of such two months.
+
+     (d) MINIMUM CONSOLIDATED FIXED CHARGE COVERAGE RATIO. As of the end of each
+calendar month, the Transferor shall not permit the ratio of (a) EBITDA plus
+Rental Expense of the Transferor and its consolidated Subsidiaries for the
+twelve month period then ending to (b) the sum of (i) Interest Expense, plus
+(ii) Rental Expense, to be less than 1.30 to 1.00.
+
+     (e) [Reserved].
+
+     (f) MAXIMUM TOTAL LIABILITIES PLUS CONTINGENT OBLIGATIONS TO TANGIBLE NET
+WORTH RATIO. As of the end of each calendar month, the Transferor shall not
+permit the ratio of (a) Total Liabilities plus Contingent Obligations to (b)
+Tangible Net Worth, to exceed 9.75 to 1.00.
+
+     SECTION 3.8 SEPARATE EXISTENCE OF TRANSFEROR.
+
+     The Transferor shall at all times be operated in such a manner that the
+separate corporate existence of the Transferor, on the one hand, and Seller, on
+the other hand, will not be disregarded and, without limiting the generality of
+the foregoing:
+
+     (a) The funds and the assets of the Transferor will not be commingled with
+those of any individual, corporation, estate, joint venture, association, joint
+stock company, trust, unincorporated organization, or government or any agency
+or political subdivision thereof;
+
+     (b) The Transferor will not guarantee loans or other debt to third parties
+and the Transferor will not hold itself out as being liable for the debts of any
+Seller or any other party;
+
+     (c) The Transferor will act solely in its own name in the conduct of its
+business, and will conduct its business so as to not mislead others as to the
+identity of the entity with which they are concerned;
+
+     (d) The Transferor will maintain its own records and books of account and
+will not commingle its records and books of account with the records and books
+of account of any other entity; and
+
+     (e) The annual financial statements of the Transferor, the Sellers and the
+Issuer will reflect that all right, title and interest in the Transferred Assets
+have been transferred pursuant to the Transaction Documents and any consolidated
+financial statements of the Transferor and the Issuer will contain appropriate
+footnotes and disclosures regarding the pledge of Transferred Assets.
+
+                                   ARTICLE IV
+
+                   ADMINISTRATION AND SERVICING OF COLLATERAL
+
+     SECTION 4.1 DUTIES OF THE SERVICER.
+
+                                       25
+<Page>
+
+     (a) The Servicer, as agent for the Issuer, shall manage, service and
+administer the Transferred Assets pursuant to and in accordance with the terms
+and conditions set forth herein with reasonable care, using that degree of skill
+and attention that a prudent person would use. The Servicer shall follow the
+Servicing and Collection Policy and shall have full power and authority, acting
+alone, to do any and all things in connection with such managing, servicing,
+administration and collection that it may deem necessary or desirable in
+accordance with the above described servicing standard.
+
+     (b) The Servicer shall cause each Securitization Servicer to manage,
+service and administer and make collections on and with respect to the
+Transferred Assets pursuant to and in accordance with the terms and conditions
+set forth in the Securitization Facility Documents with reasonable care, using
+that degree of skill and attention that a prudent person would use.
+
+     SECTION 4.2 COVENANTS OF SERVICER.
+
+     The Servicer hereby covenants for the benefit of Issuer and the Secured
+Parties as follows:
+
+     (a) SERVICING. It shall perform all of its duties pursuant to and in
+accordance with the terms and conditions set forth herein and in the Transaction
+Documents. It shall cause each Securitization Servicer to perform its duties
+pursuant to and in accordance with the terms and conditions set forth in the
+Securitization Facility Documents.
+
+     (b) NO IMPAIRMENT. The Servicer shall not do anything to impair the rights
+of the Secured Parties in the Collateral.
+
+     (c) SERVICING AND COLLECTION POLICY. The Servicer will (or will cause any
+of its Affiliates acting as servicer) to (i) comply in all material respects
+with the Servicing and Collection Policy and (ii) furnish to the Deal Agent,
+prior to its effective day, prompt notice of any material changes in any
+Servicing and Collection Policy. The Servicer will not agree to or otherwise
+permit to occur any material change in any Servicing and Collection Policy,
+without the prior written consent of the Deal Agent.
+
+     (d) COMPLIANCE WITH LAWS. The Servicer shall comply with the laws of each
+state in which Collateral is located, including, without limitation, all federal
+and state laws regarding the collection and enforcement of consumer debt.
+
+     (e) NOTICE OF DEFAULT. As soon as possible and in any event within two (2)
+Business Days after the chief executive officer, president, chief financial
+officer, any vice president, secretary, assistant secretary, treasurer, or any
+assistant treasurer of the Transferor (i) has knowledge of the occurrence of a
+Servicer Event of Default hereunder or (ii) has knowledge of a default or an
+event of default under any Securitization or any Debt in excess of $500,000 of
+the Servicer or any of its Subsidiaries, a written notice setting forth the
+details of such default and the action that the Servicer has taken and proposes
+to take with respect thereto.
+
+     SECTION 4.3 ANNUAL STATEMENT AS TO COMPLIANCE, NOTICE OF SERVICER
+TERMINATION EVENT.
+
+                                       26
+<Page>
+
+     (a) The Servicer will provide to the Issuer, the Deal Agent and the
+Collateral Agent, within ninety (90) days following the end of each fiscal year
+of the Servicer, commencing with the fiscal year ending on April 30, 2002, an
+annual report signed by a Responsible Officer of the Servicer (a "SERVICER'S
+CERTIFICATE") certifying that (i) a review of the activities of the Servicer,
+and the Servicer's performance pursuant to this Agreement and each of the
+related Securitization Facility Documents, for the period ending on the last day
+of such fiscal year has been made under such Person's supervision and (ii) the
+Servicer has performed or has caused to be performed in all material respects
+all of its obligations under this Agreement and each of the related
+Securitization Facility Documents throughout such year and no Servicer Event of
+Default has occurred and is continuing (or if a Servicer Event of Default has so
+occurred and is continuing, specifying each such event, the nature and status
+thereof and the steps necessary to remedy such event, and, if a Servicer Event
+of Default occurred during such year and no notice thereof has been given to the
+Deal Agent, the Issuer and the Collateral Agent, specifying such Servicer Event
+of Default and the steps taken to remedy such event).
+
+     (b) The Servicer shall deliver to the Deal Agent, the Collateral Agent and
+the Issuer promptly after having obtained knowledge thereof, but in no event
+later than two (2) Business Days thereafter, written notice in an officer's
+certificate of any event which with the giving of notice or lapse of time, or
+both, would become a Servicer Event of Default under SECTION 7.1.
+
+     SECTION 4.4 ANNUAL ACCOUNTANTS' REPORT.
+
+     The Servicer shall cause each Securitization Servicer to furnish to the
+Deal Agent, the Issuer and the Collateral Agent the annual accountants' report
+that each Securitization Servicer provides pursuant to the Securitization
+Facility Documents.
+
+     SECTION 4.5 SUBSERVICERS.
+
+     Subject to SECTION 6.5, the initial Servicer shall be permitted to appoint
+any of its Affiliates as a subservicer under this Agreement; provided that the
+Servicer shall remain ultimately liable for all servicing obligations.
+
+                                    ARTICLE V
+
+                                   [RESERVED]
+
+                                   ARTICLE VI
+
+                                  THE SERVICER
+
+     SECTION 6.1 REPRESENTATIONS OF SERVICER.
+
+     The Servicer represents and warrants to the Issuer, the Deal Agent and the
+Secured Parties as follows:
+
+     (a) ORGANIZATION AND GOOD STANDING. The Servicer has been duly, organized
+and is validly existing and in good standing under the laws of Texas, with all
+requisite corporate power and authority to own or lease its properties and to
+conduct its business as such business is
+
+                                       27
+<Page>
+
+currently conducted, and had at all relevant times, and now has, power and
+authority to enter into and perform its obligations pursuant to this Agreement;
+
+     (b) DUE QUALIFICATION. The Servicer is duly qualified to do business as a
+foreign corporation in good standing and has obtained all necessary
+qualifications, licenses and approvals, in all jurisdictions in which the
+ownership or lease of property or the conduct of its business requires or shall
+require such qualifications, licenses or approvals;
+
+     (c) POWER AND AUTHORITY. The Servicer (i) has all necessary power,
+authority and legal right to (A) execute and deliver this Agreement and the
+other Transaction Documents to which it is a party, (B) carry out the terms of
+this Agreement and the other Transaction Documents to which the Servicer is a
+party and (ii) has been duly authorized by all necessary corporate action
+required for the execution, delivery and performance of this Agreement and the
+other Tra nsaction Documents to which it is a party;
+
+     (d) BINDING OBLIGATION. This Agreement and the Transaction Documents to
+which the Servicer is a party, when duly executed and delivered, shall
+constitute legal, valid and binding obligations of the Servicer enforceable
+against the Servicer in accordance with its respective terms, except as
+enforceability may be limited by bankruptcy, insolvency, reorganization,
+moratorium, or similar laws affecting the equity, regardless of whether such
+enforceability is considered in a proceeding in equity or law;
+
+     (e) NO VIOLATION. The consummation of the transactions contemplated by
+this Agreement and the other Transaction Documents to which the Servicer is a
+party, and the fulfillment of the terms of this Agreement and the Transaction
+Documents to which the Servicer is a party, will not (i) conflict with, result
+in any breach of any of the terms and provisions of, or constitute (with or
+without notice or lapse of time) a default under, the articles of incorporation
+or bylaws of the Servicer, or on any other contractual obligation of the
+Servicer, (ii) result in the creation or imposition of any Lien upon any of the
+Servicer's properties pursuant to the terms of any contractual obligation, other
+than this Agreement, or (iii) violate any Applicable Law;
+
+     (f) NO PROCEEDINGS. There is no litigation, proceedings or investigations
+pending or, to the Servicer's knowledge, threatened against the Servicer, before
+any Governmental Authority (i) asserting the invalidity of this Agreement or any
+of the Transaction Documents, (ii) seeking to prevent the consummation of any of
+the transactions contemplated by this Agreement or any of the Transaction
+Documents, or (iii) seeking any determination or ruling that could reasonably be
+expected to materially and adversely affect the performance by the Servicer of
+its obligations under, or the validity or enforceability of this Agreement or
+any of the Transaction Documents;
+
+     (g) APPROVALS. All approvals, authorizations, consents, order or other
+actions of any Person, or of any Governmental Authority (if any) required for
+the due, the execution, delivery and performance by the Servicer of this
+Agreement and any other Transaction Document to which the Servicer is a party
+shall have been obtained;
+
+     (h) REPORTS ACCURATE. All Servicer certificates and other written and
+electronic information, exhibits, financial statements, documents, books,
+records or reports furnished by the
+
+                                       28
+<Page>
+
+Servicer to the Deal Agent in connection with this Agreement or in connection
+with any other Transaction Document are accurate, true and correct.
+
+     (i) REPRESENTATIONS AND WARRANTIES IN SECURITIZATION FACILITY DOCUMENTS.
+The representations and warranties made by the Securitization Servicer in the
+Securitization Facility Documents are hereby remade by the Servicer on behalf of
+each Securitization Servicer, on each date to which they speak in the
+Securitization Facility Documents as if such representations and warranties were
+set forth herein as made by the Servicer MUTATIS MUTANDIS.
+
+     SECTION 6.2 LIABILITY OF SERVICER, INDEMNITIES.
+
+     (a) The Servicer (in its capacity as such) shall be liable hereunder only
+to the extent of the obligations in this Agreement specifically undertaken by
+the Servicer and the representations made by the Servicer.
+
+     (b) The Servicer shall indemnify, defend and hold harmless the Issuer, the
+Collateral Agent, the Deal Agent, the Transferor, their respective officers,
+directors, agents and employees and the Noteholders from and against any taxes
+that may at any time be asserted against any of such parties with respect to the
+transactions contemplated in this Agreement, including, without limitation, any
+sales, gross receipts, tangible or intangible personal property, privilege or
+license taxes (but not including any taxes asserted with respect to the issuance
+and original sale of the Notes) and costs and expenses in defending against the
+same.
+
+     (c) The Servicer shall indemnify, defend and hold harmless the Issuer, the
+Collateral Agent, the Deal Agent, the Transferor, their respective officers,
+directors, agents and employees and the Noteholders from and against any and all
+costs, expenses, losses, claims, damages, and liabilities to the extent that
+such cost, expense, loss, claim, damage, or liability arose out of, or was
+imposed upon the Issuer, the Collateral Agent, the Deal Agent, the Transferor,
+or the Noteholders by reason of the breach of this Agreement by the Servicer,
+the negligence, willful misfeasance, or bad faith of the Servicer in the
+performance of its duties under this Agreement or by reason of reckless
+disregard of its obligations and duties under this Agreement or any of the
+Transaction Documents.
+
+     (d) The Servicer shall indemnify, defend and hold harmless the Collateral
+Agent, and its respective officers, directors, agents and employees, from and
+against all loss, liability or expense incurred without willful misfeasance,
+negligence, or bad faith on its part arising out of or in connection with the
+acceptance or administration of the Collateral, including the costs and expenses
+of defending itself against any claim or liability in connection with the
+exercise of any of its powers or duties under the Transaction Documents.
+
+     (e) Indemnification under this SECTION 6.2 shall survive the termination of
+this Agreement and shall survive the early resignation or removal of any of the
+parties hereto and shall include, without limitation, reasonable fees and
+expenses of counsel and expenses of litigation. If the Servicer has made any
+indemnity payments pursuant to this SECTION 6.2 and the recipient thereafter
+collects any of such amounts from others, the recipient shall promptly repay
+such amounts collected to the Servicer, without interest. Notwithstanding any
+other provision of this Agreement, FIFS's obligations as Servicer under this
+SECTION 6.2 shall not terminate or be
+
+                                       29
+<Page>
+
+deemed released upon the resignation or termination of FIFS as the Servicer and
+shall survive any termination of this Agreement.
+
+     SECTION 6.3 MERGER OR CONSOLIDATION OF OR ASSUMPTION OF THE OBLIGATIONS OF
+THE SERVICER.
+
+     (a) The Servicer shall not merge or consolidate with any other Person,
+convey, transfer or lease substantially all its assets as an entirety to another
+Person, or permit any other Person to become the successor to the Servicer's
+business unless, after the merger, consolidation, conveyance, transfer, lease or
+succession, the successor or surviving entity shall be capable of fulfilling the
+duties of the Servicer contained in this Agreement. Any corporation (i) into
+which the Servicer may be merged or consolidated, (ii) resulting from any merger
+or consolidation to which the Servicer shall be a party, (iii) which acquires by
+conveyance, transfer, or lease substantially all of the assets of the Servicer,
+or (iv) succeeding to the business of the Servicer, in any of the foregoing
+cases shall execute an agreement of assumption to perform every obligation of
+the Servicer under this Agreement and, whether or not such assumption agreement
+is executed, shall be the successor to the Servicer under this Agreement without
+the execution or filing of any paper or any further act on the part of any of
+the parties to this Agreement, anything in this Agreement to the contrary
+notwithstanding; PROVIDED, HOWEVER, that nothing contained herein shall be
+deemed to release the Servicer from any obligation. The Servicer shall provide
+notice of any merger, consolidation or succession pursuant to this SECTION
+6.3(a) to the Collateral Agent, the Noteholders, and the Deal Agent.
+Notwithstanding the foregoing, the Servicer shall not merge or consolidate with
+any other Person or permit any other Person to become a successor to the
+Servicer's business, unless (A) immediately after giving effect to such
+transaction, no representation, warranty or covenant made pursuant to SECTION
+4.2 or SECTION 6.1 shall have been breached (for purposes hereof, such
+covenants, representations and warranties shall speak as of the date of the
+consummation of such transaction), (B) the Servicer shall have delivered to the
+Collateral Agent and the Deal Agent a certificate signed by a Responsible
+Officer and an Opinion of Counsel each stating that such consolidation, merger
+or succession and such agreement of assumption comply with this SECTION 6.3(a)
+and that all conditions precedent, if any, provided for in this Agreement
+relating to such transaction have been complied with, and (C) the Servicer shall
+have delivered to the Collateral Agent and the Deal Agent an Opinion of Counsel,
+stating that, in the opinion of such counsel, either (1) all financing
+statements and continuation statements and amendments thereto have been
+authorized and filed that are necessary to preserve and protect the interest of
+the Collateral Agent for the benefit of the Secured Parties in the Collateral
+and reciting the details of the filings or (2) no such action shall be necessary
+to preserve and protect such interest.
+
+     SECTION 6.4 LIMITATION ON LIABILITY OF SERVICER AND OTHERS.
+
+     Neither FIFS (in its individual capacity and as Servicer), nor any of the
+directors or officers or employees or agents of FIFS shall be under any
+liability to the Issuer, Deal Agent or the Noteholders, except as provided in
+this Agreement, for any action taken or for refraining from the taking of any
+action pursuant to this Agreement; PROVIDED, HOWEVER, that this provision shall
+not protect FIFS or any such person against any liability that would otherwise
+be imposed by reason of a breach of this Agreement or willful misfeasance, bad
+faith or negligence (excluding errors in judgment) in the performance of duties,
+by reason of reckless disregard of
+
+                                       30
+<Page>
+
+obligations and duties under this Agreement or any violation of law by the
+Servicer or such person, as the case may be.
+
+     SECTION 6.5 DELEGATION OF DUTIES.
+
+     The Servicer may delegate duties under this Agreement to an Affiliate of
+FIFS, with the prior written consent of the Deal Agent. The Servicer may perform
+other specific duties through such subcontractors in accordance with the
+Servicer's customary servicing policies and procedures, with the prior consent
+of the Deal Agent; PROVIDED, HOWEVER, that no such delegation or subcontracting
+of duties by the Servicer shall relieve the Servicer of its primary
+responsibility with respect to such duties.
+
+     SECTION 6.6 SERVICER NOT TO RESIGN.
+
+     Subject to the provisions of SECTION 6.3, the Servicer shall not resign
+from the obligations and duties imposed on it by this Agreement as Servicer,
+except upon a determination by such party that (a) the performance of its duties
+hereunder is or becomes impermissible under Applicable Law and (b) there is no
+reasonable action that the Servicer could take to make the performance of its
+duties hereunder permissible under Applicable Law. Any such determination
+permitting the resignation of the Servicer shall be evidenced by an Opinion of
+Counsel to such effect delivered and acceptable to the Deal Agent. No
+resignation of the Servicer shall become effective until an entity acceptable to
+the Deal Agent shall have assumed the responsibilities and obligations of the
+Servicer.
+
+                                   ARTICLE VII
+
+                                    DEFAULT
+
+     SECTION 7.1 SERVICER EVENT OF DEFAULT.
+
+     (a) The (i) breach by the Servicer of any representation, warranty or
+covenant made by it hereunder or (ii) occurrence of a "Servicer Event of
+Default" or "Servicer Termination Event" or a similar occurrence resulting in,
+or constituting a default by any Securitization Servicer under any
+Securitization, shall, in any such case, constitute a Servicer Event of Default
+hereunder.
+
+     (b) Upon the occurrence of a Servicer Event of Default, the Deal Agent may
+and upon instruction from the Noteholders shall (i) collect and receive all
+further payments made on the Collateral, (ii) control deposits to and
+disbursements from the Collection Account, (iii) require any payments received
+by the Servicer or the Issuer to be paid promptly over to an account specified
+by the Deal Agent or (iv) terminate the rights of the Servicer, by written
+notice to the Servicer (a "SERVICER TERMINATION NOTICE").
+
+     SECTION 7.2 APPOINTMENT OF SUCCESSOR.
+
+     (a) On and after (i) the time the Servicer receives a notice of termination
+pursuant to SECTION 7.1(b) or (ii) upon the resignation of the Servicer pursuant
+to SECTION 6.6, the Servicer shall continue to perform all servicing functions
+under this Agreement until the date specified in
+
+                                       31
+<Page>
+
+the Servicer Termination Notice or if no such date is specified, until a date
+mutually agreed upon by the Servicer and the Deal Agent. At the time described
+in the immediately preceding sentence, the Deal Agent shall as promptly as
+possible appoint a successor servicer (the "SUCCESSOR SERVICER"), and the
+Successor Servicer shall accept its appointment by a written assumption in a
+form acceptable to the Deal Agent. In the event that a Successor Servicer has
+not accepted its appointment at the time when the Servicer ceases to act as
+Servicer, the Deal Agent shall petition a court of competent jurisdiction to
+appoint any established financial institution whose regular business includes
+the servicing of collateral similar to the Collateral serviced by the Servicer
+hereunder.
+
+     (b) Upon its appointment, the Successor Servicer shall be the successor in
+all respects to the Servicer with respect to servicing functions under this
+Agreement and shall be subject to all the responsibilities, duties and
+liabilities relating thereto placed on the Servicer by the terms and provisions
+hereof, and all references in this Agreement to the Servicer shall be deemed to
+refer to the Successor Servicer.
+
+     (c) The Servicer agrees to cooperate with the Issuer in effecting the
+termination of the responsibilities and rights of the Servicer to conduct
+servicing on the Collateral and to transfer such responsibilities and rights to
+the Successor Servicer.
+
+                                  ARTICLE VIII
+
+                      ADMINISTRATIVE DUTIES OF THE SERVICER
+
+     SECTION 8.1 ADMINISTRATIVE DUTIES.
+
+     (a) DUTIES WITH RESPECT TO THE SECURITY AGREEMENT. The Servicer shall
+perform all its duties and the duties of the Issuer under the Security Agreement
+and the other Transaction Documents. In addition, the Servicer shall consult
+with the Collateral Agent as the Servicer deems appropriate regarding the duties
+of the Issuer under the Security Agreement. The Servicer shall monitor the
+performance of the Issuer and shall advise when action is necessary to comply
+with the Issuer's duties under the Security Agreement. The Servicer shall
+prepare for execution by the Issuer or shall cause the preparation by other
+appropriate Persons of all such documents, reports, filings, instruments,
+certificates and opinions as it shall be the duty of the Issuer to prepare, file
+or deliver pursuant to the Security Agreement. In furtherance of the foregoing,
+the Servicer shall take all necessary action that is the duty of the Issuer to
+take pursuant to the Security Agreement.
+
+     (b) DUTIES WITH RESPECT TO THE ISSUER.
+
+         (i)    In addition to the duties of the Servicer set forth in this
+     Agreement or any of the Transaction Documents, the Servicer shall perform
+     such calculations and shall prepare for execution by the Issuer or shall
+     cause the preparation by other appropriate Persons of all such documents,
+     reports, filings, instruments, certificates and opinions as it shall be the
+     duty of the Issuer to prepare, file or deliver pursuant to this Agreement
+     or any of the Transaction Documents or under state and federal tax and
+     securities laws. In accordance with the directions of the Issuer, the
+     Servicer shall administer, perform or
+
+                                       32
+<Page>
+
+     supervise the performance of such other activities in connection with the
+     Collateral (including the Transaction Documents) as are not covered by any
+     of the foregoing provisions and as are expressly requested by the Issuer
+     and are reasonably within the capability of the Servicer.
+
+         (ii)   Without imposing upon the Servicer any obligation in respect of
+     the determination of the applicability of withholding tax on payments to
+     Noteholders, or the amount of any such withholding tax, the Servicer shall
+     notify the Deal Agent in the event that the Servicer determines that a
+     withholding tax has been imposed upon payments by the Issuer to
+     Noteholders.
+
+         (iii)  In carrying out the foregoing duties or any of its other
+     obligations under this Agreement, the Servicer may enter into transactions
+     with or otherwise deal with any of its Affiliates; PROVIDED, HOWEVER, that
+     the terms of any such transactions or dealings shall be in accordance with
+     any directions received from the Issuer and shall be, in the Servicer's
+     opinion, no less favorable to the Issuer in any material respect.
+
+     (c) EXCEPTIONS. Notwithstanding anything to the contrary in this Agreement,
+except as expressly provided herein or in the other Transaction Documents, the
+Servicer, in its capacity as such hereunder shall not be obligated to, and shall
+not, (i) make any payments to the Noteholders under the Transaction Documents,
+(ii) sell any of the Collateral, (iii) take any other action that the Issuer
+directs the Servicer not to take on its behalf or (iv) in connection with its
+duties hereunder assume any indemnification obligation of any other Person.
+
+     (d) Any Successor Servicer shall not be responsible for any obligations or
+duties of the Servicer under this SECTION 8.1.
+
+     SECTION 8.2 RECORDS.
+
+     The Servicer shall maintain appropriate books of account and records
+relating to services performed under this Agreement, which books of account and
+records shall be accessible for inspection by the Issuer at any time during
+normal business hours.
+
+     SECTION 8.3 REPORTING.
+
+     (a) MONTHLY REPORT. On each Reporting Date, the Servicer will provide to
+the Issuer, the Deal Agent and the Collateral Agent a monthly statement, (a
+"MONTHLY REPORT") identifying, (i) the Collateral and the Collections received
+during the related Collection Period, (ii) a calculation of the Borrowing Base
+and the Maximum Net Investment and (iii) such other information as the Issuer,
+the Deal Agent or the Collateral Agent may request.
+
+     (b) SERVICER'S CERTIFICATE. The Servicer shall submit to the Issuer, the
+Deal Agent and the Collateral Agent, the Servicer's Certificate and notice of
+any Servicer Event of Default at such times as required pursuant to SECTION 4.3.
+
+     (c) SERVICER REPORTS UNDER SECURITIZATIONS. The Servicer shall provide the
+Issuer, the Deal Agent and the Collateral Agent copies of each monthly servicer
+report (or other similar report) delivered by the Securitization Servicer under
+the Securitizations ("SECURITIZATION FACILITY
+
+                                       33
+<Page>
+
+SERVICER REPORTS") at the same time that the Securitization Servicer provides
+such Securitization Facility Servicer Reports under the related Securitization.
+
+     (d) FINANCIAL STATEMENTS. The Servicer will submit or cause to be submitted
+to the Deal Agent and the Collateral Agent, within forty five (45) days of the
+end of each of the Servicer's and Issuer's respective fiscal quarters,
+commencing December 16, 2001, unaudited financial statements of the Issuer and
+the Servicer as of the end of each such fiscal quarter. The Servicer will submit
+or cause to be submitted to the Deal Agent and the Collateral Agent, within 90
+days of the end of each of the Servicer's and Issuer's respective fiscal years,
+commencing April 30, 2002 audited financial statements of the Issuer and the
+Servicer as of the end of each such fiscal year. To the extent that the
+financial statements of the Issuer or the Servicer shall be consolidated in the
+financial statements of First Investors Financial Services Group, Inc. in
+accordance with GAAP, the Servicer may provide the financial statements of First
+Investors Financial Services Group, Inc. in satisfaction of its reporting
+requirements in this SECTION 8.3(d).
+
+     SECTION 8.4 ADDITIONAL INFORMATION TO BE FURNISHED TO THE ISSUER.
+
+     The Servicer shall furnish to the Issuer, the Deal Agent and the Collateral
+Agent from time to time such additional information regarding the Collateral as
+the Issuer shall reasonably request.
+
+                                   ARTICLE IX
+
+                            MISCELLANEOUS PROVISIONS
+
+     SECTION 9.1 AMENDMENT.
+
+     (a) This Agreement may be amended from time to time by the parties hereto,
+with the consent of the Collateral Agent (which consent may be withheld in its
+sole discretion).
+
+     (b) Prior to the execution of any amendment or modification to this
+Agreement, the Collateral Agent shall be entitled to an Opinion of Counsel,
+stating that: (i) such amendment is authorized pursuant to this Agreement, and
+complies therewith and is enforceable; and (ii) all conditions precedent to the
+execution, delivery and performance of such amendment shall have been satisfied.
+
+     SECTION 9.2 PROTECTION OF RIGHT, TITLE AND INTEREST IN COLLATERAL.
+
+     (a) The Transferor shall authorize and file such financing statements and
+cause to be authorized and filed such continuation statements, all in such
+manner and in such places as may be required by law fully to preserve, maintain
+and protect the interest of the Issuer and the interests of the Collateral Agent
+for the benefit of the Secured Parties in the Collateral and in the proceeds
+thereof. The Transferor shall deliver (or cause to be delivered) to the
+Collateral Agent and the Deal Agent for the benefit of the Secured Parties
+file-stamped copies of, or filing receipts for, any document filed as provided
+above, as soon as available following such filing.
+
+     (b) Neither the Transferor nor the Servicer shall change its name, identity
+or corporate structure in any manner that would, could or might make any
+financing statement or
+
+                                       34
+<Page>
+
+continuation statement filed in accordance with PARAGRAPH (a) above seriously
+misleading within the meaning of Section. 9-503 of the UCC, or change its
+jurisdiction of formation unless it shall have given the Collateral Agent and
+the Deal Agent for the benefit of the Secured Parties at least thirty (30) days'
+prior written notice thereof and shall have promptly filed appropriate
+amendments to all previously filed financing statements or continuation
+statements. Promptly upon such filing, the Transferor or the Servicer, as the
+case may be, shall deliver an Opinion of Counsel in form and substance
+reasonably satisfactory to the Deal Agent, stating either that (i) all financing
+statements and continuation statements have been authorized and filed that are
+necessary fully to preserve and protect the interest of the Issuer and the
+Collateral Agent for the benefit of the Secured Parties in the Collateral, and
+reciting the details of such filings or referring to prior Opinions of Counsel
+in which such details are given, or (ii) no such action shall be necessary to
+preserve and protect such interest.
+
+     (c) The Transferor and the Servicer shall have an obligation to give the
+Issuer, the Collateral Agent and the Deal Agent at least thirty (30) days' prior
+written notice of any relocation of its principal executive office if, as a
+result of such relocation, the applicable provisions of the UCC would require
+the filing of any amendment of any previously filed financing or continuation
+statement or of any new financing statement and shall promptly file any such
+amendment. The Servicer shall at all times maintain each office from which it
+shall service Contracts, and its principal executive office, within the United
+States of America.
+
+     SECTION 9.3 NOTICES.
+
+     All notices and other communications provided for hereunder shall, unless
+otherwise stated herein, be in writing (including telex communication and
+communication by facsimile copy) and mailed, telexed, transmitted or delivered,
+as to each party hereto, at its address set forth under its name on the
+signature pages hereof or at such other address as shall be designated by such
+party in a written notice to the other parties hereto. All such notices and
+communications shall be effective, upon receipt, or in the case of (a) notice by
+mail, five (5) days after being deposited in the United States mail, first class
+postage prepaid, (b) notice by telex, when telexed against receipt of answer
+back, or (c) notice by facsimile copy, when verbal communication of receipt is
+obtained.
+
+     SECTION 9.4 ASSIGNMENT; THIRD PARTY BENEFICIARIES.
+
+     The rights of the Issuer under this Agreement may be assigned to any Person
+without the consent of the Transferor. This Agreement shall inure to the benefit
+of and be binding on the respective successors and assigns of the parties
+hereto. This Agreement and/or any rights or obligations hereunder may not be
+assigned by the Transferor, the Servicer or the Issuer without the prior written
+consent of the Deal Agent (which consent shall be granted in the Deal Agent's
+sole discretion). The Secured Parties are intended to be third party
+beneficiaries of this Agreement and all of the representations, warranties and
+covenants hereof.
+
+     SECTION 9.5 INDEMNITIES BY TRANSFEROR.
+
+     Without limiting any other rights that the Issuer may have hereunder and
+under applicable law, the Transferor hereby agrees to indemnify (and pay upon
+demand to) the Issuer
+
+                                       35
+<Page>
+
+and its assigns, officers, directors, agents and employees from and against any
+and all damages, losses, claims, taxes, liabilities, costs, expenses and for all
+other amounts payable, including reasonable attorneys' fees actually incurred
+and disbursements awarded against or incurred by any of them arising out of or
+as a result of this Agreement or the acquisition, either directly or indirectly,
+by the Issuer of the Collateral from the Transferor.
+
+     SECTION 9.6 SEVERABILITY.
+
+     Any provision of this Agreement that is prohibited or unenforceable in any
+jurisdiction shall, as to such jurisdiction, be ineffective to the extent of
+such prohibition or unenforceability without invalidating the remaining
+provisions hereof, and any such prohibition or unenforceability in any
+jurisdiction shall not invalidate or render unenforceable such provision in any
+other jurisdiction.
+
+     SECTION 9.7 EXECUTION IN COUNTERPARTS.
+
+     This Agreement may be executed in any number of counterparts and by
+different parties hereto in separate counterparts, each of which when so
+executed shall be deemed to be an original and all of which when taken together
+shall constitute one and the same agreement. Delivery of an executed counterpart
+of a signature page to this Agreement by facsimile shall be as effective as
+delivery of a manually executed counterpart of this Agreement. This Agreement
+contains the final and complete integration of all prior expressions by the
+parties hereto with respect to the subject matter hereof and shall constitute
+the entire agreement among the parties hereto with respect to the subject matter
+hereof, superseding all prior oral or written understandings other than any fee
+letter delivered by any party hereto to the Deal Agent and the Noteholders.
+
+     SECTION 9.8 HEADINGS.
+
+     The headings of the various Articles and Sections herein are for
+convenience of reference only and shall not define or limit any of the terms or
+provisions hereof.
+
+     SECTION 9.9 GOVERNING LAW.
+
+     THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE
+OF NEW YORK, AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER
+SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+     SECTION 9.10 NONPETITION COVENANTS.
+
+     (a) Notwithstanding any prior termination of this Agreement, each of the
+parties hereto (other than the Deal Agent) agrees that it shall not, prior to
+the date which is one year and one day after the payment in full in cash of the
+all amounts owed to the Noteholders, acquiesce, petition or otherwise invoke or
+cause the Issuer to invoke the process of any court or government authority for
+the purpose of commencing or sustaining a case against the Issuer under any
+federal or state bankruptcy, insolvency or similar law or appointing a receiver,
+liquidator, assignee,
+
+                                       36
+<Page>
+
+trustee, custodian, sequestrator or other similar official of the Issuer or any
+substantial part of its property, or ordering the winding up or liquidation of
+the affairs of the Issuer.
+
+     (b) Notwithstanding any prior termination of this Agreement, each of the
+parties hereto (other than the Deal Agent) agrees that it shall not, prior to
+the date that is one year and one day after the termination of this Agreement
+with respect to the Transferor, acquiesee to, petition or otherwise invoke or
+cause the Transferor to invoke the process of any court or government authority
+for the purpose of commencing or sustaining a case against the Transferor under
+any federal or state bankruptcy, insolvency or similar law, appointing a
+receiver, liquidator, assignee, trustee, custodian, sequestrator, or other
+similar official of the Transferor or any substantial part of its property, or
+ordering the winding up or liquidation of the affairs of the Issuer.
+
+     SECTION 9.11 LIMITATION OF LIABILITY.
+
+     The Issuer shall be responsible for and to all of the parties hereto (other
+than the Servicer for actions it takes) and the Deal Agent and each secured
+party is hereby released from any claim or liability in connection with (a)
+safekeeping any Collateral; (b) any loss or damage to any Collateral; or (c) any
+diminution in value of the Collateral.
+
+     SECTION 9.12 ENTIRE AGREEMENT.
+
+     This Agreement and the Transaction Documents contain the entire agreement
+of the parties hereto with respect to the subject matter hereof, and supersede
+all prior and contemporaneous agreements between them, oral or written, of any
+nature whatsoever with respect to the subject matter hereof.
+
+     SECTION 9.13 CONSENT TO SERVICE.
+
+     Each party irrevocably consents to the service of process by registered or
+certified mail, postage prepaid, to it at its address given pursuant to SECTION
+9.3.
+
+     SECTION 9.14 RECOURSE AGAINST CERTAIN PARTIES.
+
+     (a) No recourse under or with respect to any obligation, covenant or
+agreement (including, without limitation, the payment of any fees or any other
+obligations) of any Secured Party as contained in this Agreement or any other
+agreement, instrument or document entered into by it pursuant hereto or in
+connection herewith shall be had against any manager or administrator of such
+Secured Party or any incorporator, affiliate, stockholder, officer, employee or
+director of such Secured Party or of any such manager or administrator, as such,
+by the enforcement of any assessment or by any legal or equitable proceeding, by
+virtue of any statute or otherwise; IT BEING EXPRESSLY AGREED AND UNDERSTOOD
+that the agreements of such Secured Party contained in this Agreement and all of
+the other agreements, instruments and documents entered into by it pursuant
+hereto or in connection herewith are, in each case, solely the corporate
+obligations of such Secured Party, and that no personal liability whatsoever
+shall attach to or be incurred by any manager or administrator of such Secured
+Party or any incorporator, stockholder, affiliate, officer, employee or director
+of such Secured Party or of any such manager or administrator, as such, or any
+other of them, under or by reason of any of the obligations,
+
+                                       37
+<Page>
+
+covenants or agreements of such Secured Party contained in this Agreement or in
+any other such instruments, documents or agreements, or which are implied
+therefrom, and that any and all personal liability of every such manager or
+administrator of such Secured Party and each incorporator, stockholder,
+affiliate, officer, employee or director of such Secured Party or of any such
+administrator, or any of them, for breaches by such Secured Party of any such
+obligations, covenants or agreements, which liability may arise either at common
+law or at equity, by statute or constitution, or otherwise, is hereby expressly
+waived as a condition of and in consideration for the execution of this
+Agreement.
+
+     (b) Notwithstanding anything in this Agreement or any other Transaction
+Document to the contrary, VFCC shall have an obligation to pay any amount
+required to be paid by it hereunder or thereunder in excess of any amount
+available to VFCC after paying or making provision for the payment of its
+Commercial Paper Notes. All payment obligations of VFCC hereunder are contingent
+upon the availability of funds in excess of the amounts necessary to pay
+Commercial Paper Notes; and each of the parties hereto agrees that it shall not
+have a claim against VFCC under Section 101(5) of the Bankruptcy Code if and to
+the extent that any such payment obligation exceeds the amount available to VFCC
+to pay such amounts after paying or making provision for the payment of its
+Commercial Paper Notes.
+
+     (c) The provisions of this SECTION 9.14 shall survive the termination of
+this Agreement.
+
+     SECTION 9.15 SUBMISSION TO JURISDICTION; WAIVER OF TRIAL BY JURY.
+
+     With respect to any claim arising out of this Agreement, to the fullest
+extent permitted by law:
+
+     (a) each party irrevocably submits to the non-exclusive jurisdiction of the
+state courts of, and the federal courts located within, the State of New York,
+New York County, and
+
+     (b) each party irrevocably waives any objection which it may have at any
+time to the laying of venue of any suit, action or proceeding arising out of or
+relating hereto brought in any such court, irrevocably waives any claim that any
+such suit, action or proceeding brought in any such court has been brought in an
+inconvenient forum and further irrevocably waives the right to object, with
+respect to such claim, suit, action or proceeding brought in any such court,
+that such court does not have jurisdiction over such party.
+
+     (c) EACH PARTY HERETO IRREVOCABLY WAIVES ALL RIGHT OF TRIAL BY JURY IN ANY
+ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR IN CONNECTION WITH THIS
+AGREEMENT OR ANY MATTER ARISING HEREUNDER.
+
+     SECTION 9.16 CERTAIN FEES, COSTS AND EXPENSES.
+
+     In addition to costs and expenses described elsewhere in this Agreement,
+Issuer agrees to pay on demand all reasonable costs and expenses of the Deal
+Agent and each Secured Party, including without limitation:
+
+                                       38
+<Page>
+
+     (a) all costs and expenses in connection with the preparation, review,
+negotiation, execution and delivery of any waiver, amendment, restatement,
+replacement or modification of the Transaction Documents, and the other
+documents to be delivered in connection therewith (excluding any Hedging
+Agreement), or any amendments, extensions and increases to any of the foregoing
+(including, without limitation, with respect to the preparation, review,
+negotiation, execution and delivery of any waiver, amendment, restatement,
+replacement or modification of the Transaction Documents, reasonable attorneys'
+fees and reasonable out-of-pocket expenses), PROVIDED, however, that the Deal
+Agent shall be responsible for all of the costs and expenses incurred by it and
+VFCC in connection with the preparation, review, negotiation, execution and
+delivery of the Transaction Documents;
+
+     (b) all losses, costs and expenses in connection with the enforcement,
+protection and preservation of the rights or remedies of the Secured Parties
+under the Transaction Documents and any Hedging Agreement, or any other
+agreement relating thereto, or in connection with legal advice relating to the
+rights or responsibilities of the Secured Parties (including without limitation
+court costs, reasonable attorneys' fees and expenses of accountants and
+appraisers); and
+
+     (c) any and all stamp and other taxes payable or determined to be payable
+in connection with the execution and delivery of the Transaction Documents, and
+all liabilities to which the Deal Agent may become subject as the result of
+delay in paying or omission to pay such taxes.
+
+     In the event Issuer shall fail to pay taxes, insurance, assessments, costs
+or expenses which it is required to pay hereunder, or fails to keep the
+Collateral free from security interests or Liens (except as expressly permitted
+herein), or fails to maintain the Collateral as required hereby, the Deal Agent
+in its discretion, may make expenditures for such purposes and the amount so
+expended (including reasonable attorneys' fees and expenses, filing fees and
+other charges) shall be payable by Issuer on demand and shall constitute part of
+the Indebtedness owing hereunder.
+
+     Issuer shall promptly pay all amounts required to be paid under this
+SECTION 9.16. The Issuer's obligations under this SECTION 9.16 shall survive
+termination of this Agreement.
+
+     SECTION 9.17 CONFIDENTIALITY.
+
+     (a) Each of the Deal Agent, the Secured Parties, the Servicer, the
+Collateral Agent and the Transferor shall maintain and shall cause each of its
+employees and officers to maintain the confidentiality of the Agreement and all
+information with respect to the other parties, including all information
+regarding the business of the Transferor and the Servicer hereto and their
+respective businesses obtained by it or them in connection with the structuring,
+negotiating and execution of the transactions contemplated herein, except that
+each such party and its officers and employees may (i) disclose such information
+to its external accountants, attorneys, investors, potential investors and the
+agents of such Persons ("EXCEPTED PERSONS"), PROVIDED, HOWEVER, that each
+Excepted Person shall, as a condition to any such disclosure, agree for the
+benefit of the Deal Agent, the Secured Parties, the Servicer, the Collateral
+Agent and the Transferor that such information shall be used solely in
+connection with such Excepted Person's evaluation of, or relationship with, the
+Transferors and its respective affiliates, (ii) except as
+
+                                       39
+<Page>
+
+permitted under the following CLAUSES (iii) and (iv), disclose the existence of
+the Agreement, but not the financial terms thereof, (iii) disclose such
+information as is required by Applicable Law and (iv) disclose the Agreement and
+such information in any suit, action, proceeding or investigation (whether in
+law or in equity or pursuant to arbitration) involving any of the Transaction
+Documents or any Hedging Agreement for the purpose of defending itself, reducing
+its liability, or protecting or exercising any of its claims, rights, remedies,
+or interests under or in connection with any of the Transaction Documents or any
+Hedging Agreement. It is understood that the financial terms that may not be
+disclosed except in compliance with this SECTION 9.17 including, without
+limitation, all fees and other pricing terms, and all Termination Events,
+Servicer Events of Default, and priority of payment provisions.
+
+     (b) Anything herein to the contrary notwithstanding, the Transferor and the
+Servicer each hereby consent to the disclosure of any nonpublic information with
+respect to it (i) to the Deal Agent, the Collateral Agent or the Secured Parties
+by each other, (ii) by the Deal Agent or the Issuer to any prospective or actual
+assignee or participant of any of them or (iii) by the Deal Agent or the Issuer
+to any Rating Agency, commercial paper dealer or provider of a surety, guaranty
+or credit or liquidity enhancement to the Issuer and to any officers, directors,
+employees, outside accountants and attorneys of any of the foregoing, provided
+each such Person is informed of the confidential nature of such information. In
+addition, the Secured Parties and the Deal Agent may disclose any such nonpublic
+information as required pursuant to any law, rule, regulation, direction,
+request or order of any judicial, administrative or regulatory authority or
+proceedings (whether or not having the force or effect of law).
+
+     (c) Notwithstanding anything herein to the contrary, the foregoing shall
+not be construed to prohibit (i) disclosure of any and all information that is
+or becomes publicly known, (ii) disclosure of any and all information (A) if
+required to do so by any applicable statute, law, rule or regulation, (B) in any
+preliminary or final offering circular, registration statement or contract or
+other document pertaining to the transactions contemplated herein approved in
+advance by the Transferor or the Servicer, or (iii) any other disclosure
+authorized by the Transferor or the Servicer.
+
+                           [SIGNATURE PAGES TO FOLLOW]
+
+                                       40
+<Page>
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Sale and Servicing
+Agreement to be duly executed and delivered by their respective duly authorized
+officers as of the day and the year first above written.
+
+                         FIRST INVESTORS RESIDUAL FUNDING LIMITED
+                         PARTNERSHIP, as Issuer
+
+                               By: FIALAC Holdings, Inc.,
+                               its sole general partner
+
+                               By:
+                                  ----------------------------------
+                               Name: Bennie H. Duck
+                               Title: Vice President and Chief Financial Officer
+
+                               675 Bering Drive
+                               Suite 710
+                               Houston, Texas 77057
+
+                         FIRST INVESTORS FINANCIAL SERVICES INC.,
+                         as Servicer and as Transferor
+
+                               By:
+                                  ----------------------------------
+                               Name: Bennie H. Duck
+                               Title: Vice President and Chief Financial Officer
+
+                               675 Bering Drive
+                               Suite 710
+                               Houston, Texas 77057
+
+<Page>
+
+                                   FIRST UNION SECURITIES, INC.,
+                                   as Deal Agent and as Collateral Agent
+
+                                          By:
+                                             ----------------------------------
+                                          Name:
+                                          Title:
+
+                                          First Union Securities, Inc.
+                                          One First Union Center, TW-9
+                                          Charlotte, North Carolina 28288
+                                          Attention: Conduit Administration
+                                          Telephone: 704-383-6036
+                                          Facsimile: 704-383-1085
+
+<Page>
+
+                                                                       Exhibit A
+
+                          Form of Transfer Certificate
+
+     TRANSFER CERTIFICATE (the "CERTIFICATE"), dated as of [______], by and
+between [NAME OF NEW TRANSFEROR] (the "TRANSFEROR"), a [JURISDICTION OF
+ORGANIZATION] [TYPE OF ENTITY] and First Investors Residual Funding LP, a
+Delaware limited Partnership (the "ISSUER"). Capitalized terms used and not
+otherwise defined herein shall have the meanings ascribed thereto in the Sale
+and Servicing Agreement (hereinafter defined).
+
+                                    RECITALS
+
+     WHEREAS, the Sale and Servicing Agreement, dated as of December 6, 2001, by
+and between the Issuer, as issuer, First Investors Financial Services Inc., as
+transferor, and First Union Securities, Inc., as deal agent (in such capacity,
+the "DEAL AGENT") and collateral Agent (in such capacity, the "COLLATERAL
+AGENT") (as amended, restated, supplemented or otherwise modified from time to
+time, the "SALE AND SERVICING AGREEMENT"), provides that [NAME OF NEW
+TRANSFEROR], although not originally a Transferor thereunder, may sell, transfer
+and assign to the Issuer additional Residual Assets.
+
+     WHEREAS, [NAME OF NEW TRANSFEROR] was not a Transferor under the Sale and
+Servicing Agreement but now desires to become a Transferor thereunder.
+
+     NOW, THEREFORE, the undersigned hereby states and agrees as follows:
+
+     SECTION 1.1 ADDITION AS TRANSFEROR.
+
+     (a) The undersigned agrees to be bound by all of the provisions of the Sale
+and Servicing Agreement applicable to a Transferor thereunder and agrees that it
+shall, on the date this Certificate is executed by the parties hereto, become a
+Transferor for all purposes of the Sale and Servicing Agreement to the same
+extent as if originally a party thereto.
+
+     (b) The undersigned states that no condition or event exists which
+constitutes a Termination Event or Unmatured Termination Event.
+
+     (c) The undersigned hereby states that each of the representations and
+warranties set forth in Section 3.1 of the Sale and Servicing Agreement are true
+and correct as of the date hereof.
+
+     SECTION 1.2 CONDITIONS PRECEDENT.
+
+     The effectiveness of this Certificate is subject to the satisfaction of the
+conditions precedent attached hereto as SCHEDULE A.
+
+<Page>
+
+     SECTION 1.3 MISCELLANEOUS.
+
+     (a) This agreement may be executed in two or more counterparts and by
+different parties on separate counterparts, each of which shall be an original,
+but all of which together shall constitute one and the same instrument. Delivery
+of an executed counterpart to a signature page of this Certificate by facsimile
+shall be effective as delivery of a manually executed counterpart of this
+Certificate.
+
+     (b) This Certificate may be amended from time to time by a written
+instrument duly executed and delivered by [NAME OF NEW TRANSFEROR] and the
+Issuer; PROVIDED, HOWEVER, that no such amendment shall be effective without the
+prior written consent of the Collateral Agent.
+
+     (c) THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK, AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES
+HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+<Page>
+
+     IN WITNESS WHEREOF, the undersigned has caused this Transfer Certificate to
+be executed and delivered by a duly authorized officer on the date first above
+written.
+
+                                             [NAME OF NEW TRANSFEROR]
+
+                                             By:
+                                                -------------------------------
+                                                Name:
+                                                Title:
+
+ACCEPTED AS OF THE DATE FIRST
+ABOVE WRITTEN:
+
+FIRST INVESTORS RESIDUAL FUNDING
+LIMITED PARTNERSHIP
+
+By:
+   ---------------------------
+   Name:
+   Title:
+
+ACKNOWLEDGED AS OF THE DATE FIRST
+ABOVE WRITTEN:
+
+FIRST UNION SECURITIES, INC.,
+as Collateral Agent
+
+By:
+   ---------------------------
+   Name:
+   Title:
+
+<Page>
+
+                                   Schedule A
+
+                              Conditions Precedent
+
+   This effectiveness of this Certificate is subject to the following conditions
+precedent:
+
+(a) DOCUMENTS TO BE DELIVERED BY TRANSFEROR.
+
+    (i)  EVIDENCE OF UCC FILING. Transferor shall have recorded and filed, at
+its own expense, a UCC-1 financing statement in each jurisdiction in which
+filing is required by applicable law, authorized by Transferor and naming the
+Issuer as purchaser of the Transferred Assets transferred by Transferor , and
+the Collateral Agent, as assignee, describing the Transferred Assets transferred
+by Transferor and the other property conveyed hereunder, meeting the
+requirements of the laws of each jurisdiction and in such manner as is necessary
+to perfect the sale, transfer, assignment and conveyance of such Transferred
+Assets to the Issuer. Transferor shall deliver to the Issuer, Collateral Agent
+and Deal Agent a file-stamped copy, or other evidence satisfactory to the Issuer
+and Deal Agent of such filing.
+
+    (ii) OTHER DOCUMENTS. All other documents in the possession of Transferor
+relating to the Transferred Assets and any other document requested by the Deal
+Agent to be delivered shall have been delivered by Transferor .
+
+(b) OPINIONS. the Issuer and the Deal Agent shall have received opinions, dated
+as of the date hereof, of [NAME OF COUNSEL], as to:
+
+    (i)  "true sale" of the Transferred Assets transferred hereunder from
+Transferor to the Issuer and substantive nonconsolidation issues under the
+Bankruptcy Code (each such opinion referred to herein as a "BANKRUPTCY
+OPINION");
+
+    (ii) corporate, enforceability and security interest, to the effect that:
+
+         (A)    Transferor is an entity duly organized, existing and in good
+     standing under the laws of the State of its incorporation or formation as
+     applicable, with corporate power and authority to own its properties and
+     conduct its business as currently conducted;
+
+         (B)    Transferor has or had at all relevant times full power,
+     authority and legal right to exercise, deliver and perform its obligations
+     under this Certificate and each other document to which it is a party; and
+     has or had at all relevant times full power, authority and legal right to
+     acquire, own and transfer the Transferred Assets pursuant to the terms
+     hereof;
+
+         (C)    This Certificate has been duly authorized, executed and
+     delivered by Transferor and is a valid and binding agreement, enforceable
+     against Transferor in accordance with its terms, except to the extent that
+     enforcement thereof may be limited by (1) bankruptcy, insolvency,
+     reorganization, moratorium or other similar laws now or hereafter in effect
+     relating to creditors rights
+
+<Page>
+
+     generally and (2) general principles of equity (regardless of whether
+     enforcement is considered in a proceeding in equity or at law);
+
+         (D)    The transfer of the Transferred Assets by Transferor to the
+     Issuer pursuant to this Certificate, the compliance by Transferor with all
+     of the provisions of the Sale and Servicing Agreement and the consummation
+     of the transactions therein or herein contemplated will not (1) conflict
+     with or result in a breach of any of the terms or provisions of, or
+     constitute a default under, any indenture, mortgage, deed of trust, loan
+     agreement or other material agreement or instrument known to such counsel
+     to which Transferor is a party or by which Transferor is bound or to which
+     any of the property or assets of Transferor is subject, (2) result in any
+     violation of the provisions of any order known to such counsel of any court
+     or governmental agency or body having jurisdiction over Transferor or any
+     of its properties or (3) result in any violation of the provisions of the
+     articles of incorporation, by-laws, certificate of formation, operating
+     agreement or partnership agreement as applicable, of Transferor or any
+     statute or any Applicable Law;
+
+         (E)    No authorization, approval, consent or order of, or filing with,
+     any court or governmental authority or agency is required by Transferor in
+     connection with the consummation of the transactions contemplated in this
+     Certificate, except such as have been obtained;
+
+         (F)    To the best of such counsel's knowledge and information, there
+     are no actions, proceedings or investigations pending before any court or
+     governmental authority against Transferor (1) asserting the invalidity of
+     this Certificate, (2) seeking to prevent the consummation by Transferor of
+     any of the transactions contemplated in this Certificate or (3) which might
+     materially and adversely affect the performance by Transferor of its
+     obligations under this Certificate; and
+
+         (G)    The provisions of this Certificate are effective to create a
+     valid security interest in the Transferred Assets transferred by Transferor
+     in favor of the Issuer and such security interest is perfected and prior to
+     all other creditors of and purchasers of Transferor
+
+(c) Each party shall have performed and complied with all agreements and
+conditions contained herein which are required to be performed or complied with
+by such party on or before the date hereof.
+
+(d) This Certificate shall have been duly authorized, executed and delivered by
+the respective parties hereto, shall be in full force and effect on the date
+hereof and shall be in a form and substance satisfactory to the Deal Agent.
+
+(e) The Deal Agent shall have received the following, in each case in form and
+substance satisfactory to it:
+
+<Page>
+
+       (i)    a copy of the resolutions of Transferor, certified by the
+     [SECRETARY] of Transferor, duly authorizing the execution, delivery and
+     performance by Transferor of this Certificate and any other documents
+     executed by or on behalf of Transferor in connection with the transactions
+     contemplated hereby; and an incumbency certificate of Transferor as to the
+     person or persons executing or delivering each such document;
+
+       (ii)   certified completed copies of requests for information or copies
+     (or a similar search report certified by a party acceptable to the Deal
+     Agent), dated not more than thirty (30) days prior to the effective date of
+     this Certificate, listing all effective financing statements that name
+     Transferor as debtor and that are filed in the jurisdictions in which the
+     financing statements described in CLAUSE (a)(i) of this SCHEDULE A were
+     filed, together with copies of such financing statements, and similar
+     search reports with respect to federal tax liens in all appropriate
+     jurisdictions (none of which, other than the financing statements in CLAUSE
+     (a)(i), shall cover any of the Transferred Assets);
+
+       (iii)  a copy of an officially certified document dated not more than
+     thirty (30) days prior to the effective date of this Certificate evidencing
+     good standing of Transferor issued by the Secretary of State of
+     Transferor's state of formation and each jurisdiction where Transferor ha
+     material operations;
+
+       (iv)   such other documents and evidence with respect to Transferor as
+     the Deal Agent may request.
+
+     (f) No fact or condition shall exist as of the date hereof under Applicable
+Law which in the Deal Agent's reasonable opinion would make it unlawful for any
+of the parties hereto to perform their respective obligations under this
+Certificate.
+
+     (g) On or prior to the effective date of this Certificate, the Transferor
+shall have filed any financing statements, termination statements or amendments
+thereto, wherever necessary or advisable, in order to perfect the transfers and
+assignments of the Transferred Assets to the Issuer and the grant of the
+security interest therein to the Issuer and shall have delivered file-stamped
+copies of such financing statements or other evidence of the filing thereof to
+the Deal Agent.
+
+     (h) All taxes and fees due in connection with the filing of the financing
+statements referred to in CLAUSE (a)(i) of this SCHEDULE A shall have been paid
+in full or duly provided for.
+
+     (i) Transferor shall certify to the Deal Agent that no Servicer Termination
+Event, Insurer Default or Insurance Agreement Event of Default shall have
+occurred on or prior to the effective date of this Certificate as such terms are
+defined under the documents for the related Securitization.
+
+     (j) As of the effective date of this Certificate, no action or proceeding
+shall have been instituted nor shall any governmental action be threatened
+before any court or governmental agency nor shall any order, judgment or decree
+have been issued or proposed to be issued by any court or governmental agency to
+set aside, restrain, enjoin or prevent the performance of this Certificate or
+any of the other agreements or the transactions contemplated hereby.
+
+<Page>
+
+     (k) The Deal Agent shall, as of the date hereof, have been furnished with
+such other documents and opinions (including executed copies, addressed to it or
+otherwise expressly allowing it to rely thereon of such documents or opinions)
+delivered to any other person in connection with this Certificate and the
+transactions contemplated hereby as it may reasonably require;
+
+     (l) Transferor shall certify to the Deal Agent that there has been no
+material adverse change in the condition (financial or otherwise), business
+operations, results of operations or properties of Transferor since [_________].
+
+<Page>
+
+                                                                       Exhibit B
+
+                    Servicing and Collection Policy
+                                    [to come]
+
+<Page>
+
+                                                                 Schedule 3.1(o)
+                  Name, Jurisdiction of Formation, Address and
+                    Trade Names or Other Names of Transferor
+
+<Table>
+<Caption>
+-----------------------------------------------------------------------------------------------------
+                Name                       Trade         Business Address              Jurisdictions
+                                           Name
+-----------------------------------------------------------------------------------------------------
+<S>                                        <C>       <C>                               <C>
+First Investors Auto                       N/A       675 Bering Drive, Suite 710       Delaware,
+Receivables Corporation                              Houston, Texas 77057              Texas
+-----------------------------------------------------------------------------------------------------
+First Investors Auto Investment Corp.      N/A       675 Bering Drive, Suite 710       Delaware,
+                                                     Houston, Texas 77057              Texas
+-----------------------------------------------------------------------------------------------------
+FIFS Acquisition Funding Company LLC       N/A       675 Bering Drive, Suite 710       Delaware,
+                                                     Houston, Texas 77057              Texas
+-----------------------------------------------------------------------------------------------------
+First Investors Financial Services Inc.    [N/A]     [675 Bering Drive, Suite 710      [Delaware,
+                                                     Houston, Texas 77057]             Texas]
+-----------------------------------------------------------------------------------------------------
+</Table>
+
+<Page>
+
+                                                                 Schedule 3.1(q)
+
+                               Debt of Transferor
+
+1. Obligations of the Transferor under that certain equipment lease agreement
+dated May 14, 1998 between the Transferor and BSI Capital Funding Corporation
+under which Schedules 1 and 2 are accounted for as operating leases by the
+Transferor and Schedules 3,4,5 and 6 are accounted for as Capital Leases by the
+Transferor.
+
+<Page>
+
+                                                                 Schedule 3.1(s)
+
+                     ERISA Plans Exceeding Fair Market Value
+
+                                      None
+
+<Page>
+
+                                                                 Schedule 3.1(u)
+
+                          Subsidiaries; Capitalization
+
+<Table>
+<Caption>
+                               JURISDICTION
+                                     OF         STOCKHOLDERS AND          AUTHORIZED         ISSUED AND OUTSTANDING
+      ENTITY                   INCORPORATION  PERCENTAGE OWNERSHIP          SHARES                 SHARES
+<S>                            <C>           <C>                         <C>                 <C>
+First Investors Financial      Texas         First Investors (Vermont)   1,222,223           1,222,223 shares par
+Services, Inc.                               Holdings, Inc. - 100%                           value 0.001
+
+
+F.I.R.C., Inc.                 Delaware      First Investors Financial   1,000 shares        $1,000 shares, par value
+                                             Services, Inc. - 100%                           $1.00 per share
+
+First Investors Auto           Delaware      First Investors Financial   1,000 shares        1,000 shares, par value
+Receivables Corp.                            Services, Inc. - 100%                           $1.00 per share
+
+First Investors Auto Capital   Delaware      First Investors Financial   1,000 shares        1,000 shares, par value
+Corporation                                  Services, Inc. - 100%                           $1.00 per share
+
+
+Farragut Financial             Delaware      First Investors Financial   1,000 shares        1,000 shares, par
+Corporation                                  Services, Inc. - 100%                           value $1.00 per share
+
+First Investors Auto           Delaware      First Investors Financial   1,000 shares        1,000 shares, par
+Investment Corporation                       Services, Inc. - 100%                           value $1.00 per share
+
+First Investors Insurance      Vermont       First Investors Financial   1 million           100.00 shares, par
+Company                                      Services, Inc. - 100%                           value $1.00
+
+First Investors Servicing      Delaware      First Investors Financial   10,000 shares       100 shares, par value
+Corporation                                  Services, Inc. - 100%       - Common            $1.00
+                                                                         Stock 10,000
+                                                                         shares -
+                                                                         preferred stock
+
+FIALAC Holdings, Inc.          Delaware      First Investors Financial   1,000 shares        1,000 shares, par value
+                                             Services, Inc. - 100%                           $1.00 per share
+
+FIFS Acquisition Funding       Delaware      FIALAC Holdings - 1%        1,000 in initial    1,000 in initial capital
+Corporation LLC                              First Investors Financial   capital
+                                             Services, Inc. - 99%
+
+Project Brave Limited          Delaware      FIFS Acquisition Funding    N/A                 N/A
+Partnership                                  Corporation LLC - 70%
+                                             First Union Securities -
+                                             30%
+
+ALAC Receivables Corp.         Delaware      First Investors Servicing   1,000 shares        1,000 shares par value
+                                             Corporation - 100%                              $1.00
+
+ALAC LLC                       Delaware      First Investors Servicing   $1,000 in           $1,000 in initial capital
+                                             Corporation - 99% ALAC      initial capital
+                                             Receivables Corp. - 1%
+</Table>
+
+<Page>
+
+                                                                 Schedule 3.1(v)
+
+                                Other Agreements
+
+(i)  ISDA Master Agreement dated October 21, 1996 between First Investors
+     Financial Services, Inc. and Bank of America, N.A., as successor to
+     NationsBank of Texas, N.A. under which the following interest rate hedging
+     agreements were issued and outstanding of the Effective Date:
+
+<Table>
+<Caption>
+ ---------------------------------------------------------------------------------------------
+  TRANSACTION                  DERIVATIVE PURCHASED/
+     DATE                      TYPE       SOLD           NOTIONAL AMOUNT          EXPIRATION
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   <S>                         <C>       <C>               <C>                  <C>
+   9/27/00                     Swap      Purchased         $  50,000,000        4/15/04
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   5/31/01                     Swap      Purchased         $  50,000,000        4/15/04
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   4/7/00                      Cap       Sold              $  14,200,000        3/31/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   7/7/00                      Cap       Sold              $  14,900,000        6/30/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   8/11/00                     Cap       Sold              $  11,225,000        7/31/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   9/11/00                     Cap       Sold              $  30,050,000        7/31/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   11/14/00                    Cap       Sold              $   7,900,000        10/31/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   12/8/00                     Cap       Sold              $  16,910,000        3/31/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   1/19/01                     Cap       Sold              $   8,600,000        12/31/05
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   3/9/01                      Cap       Sold              $   8,800,000        2/28/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   4/19/01                     Cap       Sold              $   8,970,000        4/30/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   6/20/01                     Cap       Sold              $   9,010,000        3/31/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   8/20/01                     Cap       Sold              $   9,404,790.58     7/31/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+   10/05/01                    Cap       Sold              $   9,402,480.99     9/30/06
+ ---------------------------------------------------------------------------------------------
+
+ ---------------------------------------------------------------------------------------------
+</Table>
+
+<Page>
+
+                                                                 Schedule 3.6(a)
+                                 Permitted Debt
+
+                                      None
+
+<Page>
+
+                                                                 Schedule 3.6(b)
+
+                                 Permitted Liens
+
+                                      None
+
+</TEXT>
+</DOCUMENT>

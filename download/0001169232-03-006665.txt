@@ -1,0 +1,2146 @@
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>16
+<FILENAME>d57487_ex10-14.txt
+<DESCRIPTION>MASTER AGREEMENT
+<TEXT>
+
+                                                                   Exhibit 10.14
+
+(Multicurrency -- Cross Border)
+
+                                     ISDA(R)
+                  International Swap Dealers Association, Inc.
+
+                                MASTER AGREEMENT
+
+                          Dated as of October 27, 2003
+
+WACHOVIA BANK, NATIONAL ASSOCIATION and           PHOENIX COLOR CORP., PCC
+                                                  EXPRESS, INC.,
+                                                  TECHNIGRAPHIX, INC., PHOENIX
+                                                  (MD) REALTY, LLC and PHOENIX
+                                                  COLOR FULFILLMENT, INC.
+                                                  (jointly and severally)
+
+have entered and/or anticipate entering into one or more transactions (each a
+"Transaction") that are or will be governed by this Master Agreement, which
+includes the schedule (the "Schedule"), and the documents and other confirming
+evidence (each a "Confirmation") exchanged between the parties confirming those
+Transactions.
+
+Accordingly, the parties agree as follows: --
+
+1. Interpretation
+
+(a) Definitions. The terms defined in Section 14 and in the Schedule will have
+the meanings therein specified for the purpose of this Master Agreement.
+
+(b) Inconsistency. In the event of any inconsistency between the provisions of
+the Schedule and the other provisions of this Master Agreement, the Schedule
+will prevail. In the event of any inconsistency between the provisions of any
+Confirmation and this Master Agreement (including the Schedule), such
+Confirmation will prevail for the purpose of the relevant Transaction.
+
+(c) Single Agreement. All Transactions are entered into in reliance on the fact
+that this Master Agreement and all Confirmations form a single agreement between
+the parties (collectively referred to as this "Agreement"), and the parties
+would not otherwise enter into any Transactions.
+
+2. Obligations
+
+(a) General Conditions.
+
+      (i) Each party will make each payment or delivery specified in each
+      Confirmation to be made by it, subject to the other provisions of this
+      Agreement.
+
+      (ii) Payments under this Agreement will be made on the due date for value
+      on that date in the place of the account specified in the relevant
+      Confirmation or otherwise pursuant to this Agreement, in freely
+      transferable funds and in the manner customary for payments in the
+      required currency. Where settlement is by delivery (that is, other than by
+      payment), such delivery will be made for receipt on the due date in the
+      manner customary for the relevant obligation unless otherwise specified in
+      the relevant Confirmation or elsewhere in this Agreement.
+
+      (iii) Each obligation of each party under Section 2(a)(i) is subject to
+      (1) the condition precedent that no Event of Default or Potential Event of
+      Default with respect to the other party has occurred and is continuing,
+      (2) the condition
+
+
+                                       1
+<PAGE>
+
+      precedent that no Early Termination Date in respect of the relevant
+      Transaction has occurred or been effectively designated and (3) each other
+      applicable condition precedent specified in this Agreement.
+
+
+       Copyright (C) 1992 by International Swap Dealers Association, Inc.
+
+
+                                       2
+<PAGE>
+
+(b) Change of Account. Either party may change its account for receiving a
+payment or delivery by giving notice to the other party at least five Local
+Business Days prior to the scheduled date for the payment or delivery to which
+such change applies unless such other party gives timely notice of a reasonable
+objection to such change.
+
+(c) Netting. If on any date amounts would otherwise be payable:--
+
+      (i) in the same currency; and
+
+      (ii) in respect of the same Transaction,
+
+by each party to the other, then, on such date, each party's obligation to make
+payment of any such amount will be automatically satisfied and discharged and,
+if the aggregate amount that would otherwise have been payable by one party
+exceeds the aggregate amount that would otherwise have been payable by the other
+party, replaced by an obligation upon the party by whom the larger aggregate
+amount would have been payable to pay to the other party the excess of the
+larger aggregate amount over the smaller aggregate amount.
+
+The parties may elect in respect of two or more Transactions that a net amount
+will be determined in respect of all amounts payable on the same date in the
+same currency in respect of such Transactions, regardless of whether such
+amounts are payable in respect of the same Transaction. The election may be made
+in the Schedule or a Confirmation by specifying that subparagraph (ii) above
+will not apply to the Transactions identified as being subject to the election,
+together with the starting date (in which case subparagraph (ii) above will not,
+or will cease to, apply to such Transactions from such date). This election may
+be made separately for different groups of Transactions and will apply
+separately to each pairing of Offices through which the parties make and receive
+payments or deliveries.
+
+(d) Deduction or Withholding for Tax.
+
+      (i) Gross-Up. All payments under this Agreement will be made without any
+      deduction or withholding for or on account of any Tax unless such
+      deduction or withholding is required by any applicable law, as modified by
+      the practice of any relevant governmental revenue authority, then in
+      effect. If a party is so required to deduct or withhold, then that party
+      ("X") will:--
+
+            (1) promptly notify the other party ("Y") of such requirement;
+
+            (2) pay to the relevant authorities the full amount required to be
+            deducted or withheld (including the full amount required to be
+            deducted or withheld from any additional amount paid by X to Y under
+            this Section 2(d)) promptly upon the earlier of determining that
+            such deduction or withholding is required or receiving notice that
+            such amount has been assessed against Y;
+
+            (3) promptly forward to Y an official receipt (or a certified copy),
+            or other documentation reasonably acceptable to Y, evidencing such
+            payment to such authorities; and
+
+            (4) if such Tax is an Indemnifiable Tax, pay to Y, in addition to
+            the payment to which Y is otherwise entitled under this Agreement,
+            such additional amount as is necessary to ensure that the net amount
+            actually received by Y (free and clear of Indemnifiable Taxes,
+            whether assessed against X or Y) will equal the full amount Y would
+            have received had no such deduction or withholding been required.
+            However, X will not be required to pay any additional amount to Y to
+            the extent that it would not be required to be paid but for:--
+
+                  (A) the failure by Y to comply with or perform any agreement
+                  contained in Section 4(a)(i), 4(a)(iii) or 4(d); or
+
+                  (B) the failure of a representation made by Y pursuant to
+                  Section 3(f) to be accurate and true unless such failure would
+                  not have occurred but for (I) any action taken by a taxing
+                  authority, or brought in a court of competent jurisdiction, on
+                  or after the date on which a Transaction is entered into
+                  (regardless of whether such action is taken or brought with
+                  respect to a party to this Agreement) or (II) a Change in Tax
+                  Law.
+
+
+                                       3
+<PAGE>
+
+      (ii) Liability. If --
+
+            (1) X is required by any applicable law, as modified by the practice
+            of any relevant governmental revenue authority, to make any
+            deduction or withholding in respect of which X would not be required
+            to pay an additional amount to Y under Section 2(d)(i)(4);
+
+            (2) X does not so deduct or withhold; and
+
+            (3) a liability resulting from such Tax is assessed directly against
+            X,
+
+      then, except to the extent Y has satisfied or then satisfies the liability
+      resulting from such Tax, Y will promptly pay to X the amount of such
+      liability (including any related liability for interest, but including any
+      related liability for penalties only if Y has failed to comply with or
+      perform any agreement contained in Section 4(a)(i), 4(a)(iii) or 4(d)).
+
+(e) Default Interest; Other Amounts. Prior to the occurrence or effective
+designation of an Early Termination Date in respect of the relevant Transaction,
+a party that defaults in the performance of any payment obligation will, to the
+extent permitted by law and subject to Section 6(c), be required to pay interest
+(before as well as after judgment) on the overdue amount to the other party on
+demand in the same currency as such overdue amount, for the period from (and
+including) the original due date for payment to (but excluding) the date of
+actual payment, at the Default Rate. Such interest will be calculated on the
+basis of daily compounding and the actual number of days elapsed. If, prior to
+the occurrence or effective designation of an Early Termination Date in respect
+of the relevant Transaction, a party defaults in the performance of any
+obligation required to be settled by delivery, it will compensate the other
+party on demand if and to the extent provided for in the relevant Confirmation
+or elsewhere in this Agreement.
+
+3. Representations
+
+Each party represents to the other party (which representations will be deemed
+to be repeated by each party on each date on which a Transaction is entered into
+and, in the case of the representations in Section 3(f), at all times until the
+termination of this Agreement) that:--
+
+(a) Basic Representations.
+
+      (i) Status. It is duly organised and validly existing under the laws of
+      the jurisdiction of its organisation or incorporation and, if relevant
+      under such laws, in good standing;
+
+      (ii) Powers. It has the power to execute this Agreement and any other
+      documentation relating to this Agreement to which it is a party, to
+      deliver this Agreement and any other documentation relating to this
+      Agreement that it is required by this Agreement to deliver and to perform
+      its obligations under this Agreement and any obligations it has under any
+      Credit Support Document to which it is a party and has taken all necessary
+      action to authorise such execution, delivery and performance;
+
+      (iii) No Violation or Conflict. Such execution, delivery and performance
+      do not violate or conflict with any law applicable to it, any provision of
+      its constitutional documents, any order or judgment of any court or other
+      agency of government applicable to it or any of its assets or any
+      contractual restriction binding on or affecting it or any of its assets;
+
+      (iv) Consents. All governmental and other consents that are required to
+      have been obtained by it with respect to this Agreement or any Credit
+      Support Document to which it is a party have been obtained and are in full
+      force and effect and all conditions of any such consents have been
+      complied with; and
+
+      (v) Obligations Binding. Its obligations under this Agreement and any
+      Credit Support Document to which it is a party constitute its legal, valid
+      and binding obligations, enforceable in accordance with their respective
+      terms (subject to applicable bankruptcy, reorganisation, insolvency,
+      moratorium or similar laws affecting creditors' rights generally and
+      subject, as to enforceability, to equitable principles of general
+      application (regardless of whether enforcement is sought in a proceeding
+      in equity or at law)).
+
+(b) Absence of Certain Events. No Event of Default or Potential Event of Default
+or, to its knowledge, Termination Event with respect to it has occurred and is
+continuing and no such event or circumstance would occur as a result of its
+entering into or performing its obligations under this Agreement or any Credit
+Support Document to which it is a party.
+
+(c) Absence of Litigation. There is not pending or, to its knowledge, threatened
+against it or any of its Affiliates any action, suit or proceeding at law or in
+equity or before any court, tribunal, governmental body, agency or official or
+any arbitrator that is likely to affect the legality, validity or enforceability
+against it of this Agreement or any Credit Support
+
+
+                                       4
+<PAGE>
+
+Document to which it is a party or its ability to perform its obligations under
+this Agreement or such Credit Support Document.
+
+(d) Accuracy of Specified Information. All applicable information that is
+furnished in writing by or on behalf of it to the other party and is identified
+for the purpose of this Section 3(d) in the Schedule is, as of the date of the
+information, true, accurate and complete in every material respect.
+
+(e) Payer Tax Representation. Each representation specified in the Schedule as
+being made by it for the purpose of this Section 3(e) is accurate and true.
+
+(f) Payee Tax Representations. Each representation specified in the Schedule as
+being made by it for the purpose of this Section 3(f) is accurate and true.
+
+4. Agreements
+
+Each party agrees with the other that, so long as either party has or may have
+any obligation under this Agreement or under any Credit Support Document to
+which it is a party:--
+
+(a) Furnish Specified Information. It will deliver to the other party or, in
+certain cases under subparagraph (iii) below, to such government or taxing
+authority as the other party reasonably directs:--
+
+      (i) any forms, documents or certificates relating to taxation specified in
+      the Schedule or any Confirmation;
+
+      (ii) any other documents specified in the Schedule or any Confirmation;
+      and
+
+      (iii) upon reasonable demand by such other party, any form or document
+      that may be required or reasonably requested in writing in order to allow
+      such other party or its Credit Support Provider to make a payment under
+      this Agreement or any applicable Credit Support Document without any
+      deduction or withholding for or on account of any Tax or with such
+      deduction or withholding at a reduced rate (so long as the completion,
+      execution or submission of such form or document would not materially
+      prejudice the legal or commercial position of the party in receipt of such
+      demand), with any such form or document to be accurate and completed in a
+      manner reasonably satisfactory to such other party and to be executed and
+      to be delivered with any reasonably required certification,
+
+in each case by the date specified in the Schedule or such Confirmation or, if
+none is specified, as soon as reasonably practicable.
+
+(b) Maintain Authorisations. It will use all reasonable efforts to maintain in
+full force and effect all consents of any governmental or other authority that
+are required to be obtained by it with respect to this Agreement or any Credit
+Support Document to which it is a party and will use all reasonable efforts to
+obtain any that may become necessary in the future.
+
+(c) Comply with Laws. It will comply in all material respects with all
+applicable laws and orders to which it may be subject if failure so to comply
+would materially impair its ability to perform its obligations under this
+Agreement or any Credit Support Document to which it is a party.
+
+(d) Tax Agreement. It will give notice of any failure of a representation made
+by it under Section 3(f) to be accurate and true promptly upon learning of such
+failure.
+
+(e) Payment of Stamp Tax. Subject to Section 11, it will pay any Stamp Tax
+levied or imposed upon it or in respect of its execution or performance of this
+Agreement by a jurisdiction in which it is incorporated, organised, managed and
+controlled, or considered to have its seat, or in which a branch or office
+through which it is acting for the purpose of this Agreement is located ("Stamp
+Tax Jurisdiction") and will indemnify the other party against any Stamp Tax
+levied or imposed upon the other party or in respect of the other party's
+execution or performance of this Agreement by any such Stamp Tax Jurisdiction
+which is not also a Stamp Tax Jurisdiction with respect to the other party.
+
+5. Events of Default and Termination Events
+
+(a)   Events of Default. The occurrence at any time with respect to a party or,
+      if applicable, any Credit Support Provider of such party or any Specified
+      Entity of such party of any of the following events constitutes an event
+      of default (an "Event of Default") with respect to such party:--
+
+      (i) Failure to Pay or Deliver. Failure by the party to make, when due, any
+      payment under this Agreement or delivery under Section 2(a)(i) or 2(e)
+      required to be made by it if such failure is not remedied on or before the
+      third Local Business Day after notice of such failure is given to the
+      party;
+
+
+                                       5
+<PAGE>
+
+      (ii) Breach of Agreement. Failure by the party to comply with or perform
+      any agreement or obligation (other than an obligation to make any payment
+      under this Agreement or delivery under Section 2(a)(i) or 2(e) or to give
+      notice of a Termination Event or any agreement or obligation under Section
+      4(a)(i), 4(a)(iii) or 4(d)) to be complied with or performed by the party
+      in accordance with this Agreement if such failure is not remedied on or
+      before the thirtieth day after notice of such failure is given to the
+      party;
+
+      (iii) Credit Support Default.
+
+            (1) Failure by the party or any Credit Support Provider of such
+            party to comply with or perform any agreement or obligation to be
+            complied with or performed by it in accordance with any Credit
+            Support Document if such failure is continuing after any applicable
+            grace period has elapsed;
+
+            (2) the expiration or termination of such Credit Support Document or
+            the failing or ceasing of such Credit Support Document to be in full
+            force and effect for the purpose of this Agreement (in either case
+            other than in accordance with its terms) prior to the satisfaction
+            of all obligations of such party under each Transaction to which
+            such Credit Support Document relates without the written consent of
+            the other party; or
+
+            (3) the party or such Credit Support Provider disaffirms, disclaims,
+            repudiates or rejects, in whole or in part, or challenges the
+            validity of, such Credit Support Document;
+
+      (iv) Misrepresentation. A representation (other than a representation
+      under Section 3(e) or (f)) made or repeated or deemed to have been made or
+      repeated by the party or any Credit Support Provider of such party in this
+      Agreement or any Credit Support Document proves to have been incorrect or
+      misleading in any material respect when made or repeated or deemed to have
+      been made or repeated;
+
+      (v) Default under Specified Transaction. The party, any Credit Support
+      Provider of such party or any applicable Specified Entity of such party
+      (1) defaults under a Specified Transaction and, after giving effect to any
+      applicable notice requirement or grace period, there occurs a liquidation
+      of, an acceleration of obligations under, or an early termination of, that
+      Specified Transaction, (2) defaults, after giving effect to any applicable
+      notice requirement or grace period, in making any payment or delivery due
+      on the last payment, delivery or exchange date of, or any payment on early
+      termination of, a Specified Transaction (or such default continues for at
+      least three Local Business Days if there is no applicable notice
+      requirement or grace period) or (3) disaffirms, disclaims, repudiates or
+      rejects, in whole or in part, a Specified Transaction (or such action is
+      taken by any person or entity appointed or empowered to operate it or act
+      on its behalf);
+
+      (vi) Cross Default. If "Cross Default" is specified in the Schedule as
+      applying to the party, the occurrence or existence of (1) a default, event
+      of default or other similar condition or event (however described) in
+      respect of such party, any Credit Support Provider of such party or any
+      applicable Specified Entity of such party under one or more agreements or
+      instruments relating to Specified Indebtedness of any of them
+      (individually or collectively) in an aggregate amount of not less than the
+      applicable Threshold Amount (as specified in the Schedule) which has
+      resulted in such Specified Indebtedness becoming, or becoming capable at
+      such time of being declared, due and payable under such agreements or
+      instruments, before it would otherwise have been due and payable or (2) a
+      default by such party, such Credit Support Provider or such Specified
+      Entity (individually or collectively) in making one or more payments on
+      the due date thereof in an aggregate amount of not less than the
+      applicable Threshold Amount under such agreements or instruments (after
+      giving effect to any applicable notice requirement or grace period);
+
+      (vii) Bankruptcy. The party, any Credit Support Provider of such party or
+      any applicable Specified Entity of such party: --
+
+            (1) is dissolved (other than pursuant to a consolidation,
+            amalgamation or merger); (2) becomes insolvent or is unable to pay
+            its debts or fails or admits in writing its inability generally to
+            pay its debts as they become due; (3) makes a general assignment,
+            arrangement or composition with or for the benefit of its creditors;
+            (4) institutes or has instituted against it a proceeding seeking a
+            judgment of insolvency or bankruptcy or any other relief under any
+            bankruptcy or insolvency law or other similar law affecting
+            creditors' rights, or a petition is presented for its winding- up or
+            liquidation, and, in the case of any such proceeding or petition
+            instituted or presented against it, such proceeding or petition (A)
+            results in a judgment of insolvency or bankruptcy or the entry of an
+            order for relief or the making of an order for its winding-up or
+            liquidation or (B) is not dismissed, discharged, stayed or
+            restrained in each case within 30 days of the institution or
+            presentation thereof; (5) has a resolution passed for its
+            winding-up, official management or liquidation (other than pursuant
+            to a consolidation, amalgamation or merger); (6) seeks or becomes
+            subject to the appointment of an administrator, provisional
+            liquidator, conservator, receiver,
+
+
+                                       6
+<PAGE>
+
+            trustee, custodian or other similar official for it or for all or
+            substantially all its assets; (7) has a secured party take
+            possession of all or substantially all its assets or has a distress,
+            execution, attachment, sequestration or other legal process levied,
+            enforced or sued on or against all or substantially all its assets
+            and such secured party maintains possession, or any such process is
+            not dismissed, discharged, stayed or restrained, in each case within
+            30 days thereafter; (8) causes or is subject to any event with
+            respect to it which, under the applicable laws of any jurisdiction,
+            has an analogous effect to any of the events specified in clauses
+            (1) to (7) (inclusive); or (9) takes any action in furtherance of,
+            or indicating its consent to, approval of, or acquiescence in, any
+            of the foregoing acts; or
+
+      (viii) Merger Without Assumption. The party or any Credit Support Provider
+      of such party consolidates or amalgamates with, or merges with or into, or
+      transfers all or substantially all its assets to, another entity and, at
+      the time of such consolidation, amalgamation, merger or transfer: --
+
+            (1) the resulting, surviving or transferee entity fails to assume
+            all the obligations of such party or such Credit Support Provider
+            under this Agreement or any Credit Support Document to which it or
+            its predecessor was a party by operation of law or pursuant to an
+            agreement reasonably satisfactory to the other party to this
+            Agreement; or
+
+            (2) the benefits of any Credit Support Document fail to extend
+            (without the consent of the other party) to the performance by such
+            resulting, surviving or transferee entity of its obligations under
+            this Agreement.
+
+(b)   Termination Events. The occurrence at any time with respect to a party or,
+      if applicable, any Credit Support Provider of such party or any Specified
+      Entity of such party of any event specified below constitutes an
+      Illegality if the event is specified in (i) below, a Tax Event if the
+      event is specified in (ii) below or a Tax Event Upon Merger if the event
+      is specified in (iii) below, and, if specified to be applicable, a Credit
+      Event Upon Merger if the event is specified pursuant to (iv) below or an
+      Additional Termination Event if the event is specified pursuant to (v)
+      below:--
+
+      (i) Illegality. Due to the adoption of, or any change in, any applicable
+      law after the date on which a Transaction is entered into, or due to the
+      promulgation of, or any change in, the interpretation by any court,
+      tribunal or regulatory authority with competent jurisdiction of any
+      applicable law after such date, it becomes unlawful (other than as a
+      result of a breach by the party of Section 4(b)) for such party (which
+      will be the Affected Party): --
+
+            (1) to perform any absolute or contingent obligation to make a
+            payment or delivery or to receive a payment or delivery in respect
+            of such Transaction or to comply with any other material provision
+            of this Agreement relating to such Transaction; or
+
+            (2) to perform, or for any Credit Support Provider of such party to
+            perform, any contingent or other obligation which the party (or such
+            Credit Support Provider) has under any Credit Support Document
+            relating to such Transaction;
+
+      (ii) Tax Event. Due to (x) any action taken by a taxing authority, or
+      brought in a court of competent jurisdiction, on or after the date on
+      which a Transaction is entered into (regardless of whether such action is
+      taken or brought with respect to a party to this Agreement) or (y) a
+      Change in Tax Law, the party (which will be the Affected Party) will, or
+      there is a substantial likelihood that it will, on the next succeeding
+      Scheduled Payment Date (1) be required to pay to the other party an
+      additional amount in respect of an Indemnifiable Tax under Section
+      2(d)(i)(4) (except in respect of interest under Section 2(e), 6(d)(ii) or
+      6(e)) or (2) receive a payment from which an amount is required to be
+      deducted or withheld for or on account of a Tax (except in respect of
+      interest under Section 2(e), 6(d)(ii) or 6(e)) and no additional amount is
+      required to be paid in respect of such Tax under Section 2(d)(i)(4) (other
+      than by reason of Section 2(d)(i)(4)(A) or (B));
+
+      (iii) Tax Event Upon Merger. The party (the "Burdened Party") on the next
+      succeeding Scheduled Payment Date will either (1) be required to pay an
+      additional amount in respect of an Indemnifiable Tax under Section
+      2(d)(i)(4) (except in respect of interest under Section 2(e), 6(d)(ii) or
+      6(e)) or (2) receive a payment from which an amount has been deducted or
+      withheld for or on account of any Indemnifiable Tax in respect of which
+      the other party is not required to pay an additional amount (other than by
+      reason of Section 2(d)(i)(4)(A) or (B)), in either case as a result of a
+      party consolidating or amalgamating with, or merging with or into, or
+      transferring all or substantially all its assets to, another entity (which
+      will be the Affected Party) where such action does not constitute an event
+      described in Section 5(a)(viii);
+
+      (iv) Credit Event Upon Merger. If "Credit Event Upon Merger" is specified
+      in the Schedule as applying to the party, such party ("X"), any Credit
+      Support Provider of X or any applicable Specified Entity of X consolidates
+      or
+
+
+                                       7
+<PAGE>
+
+      amalgamates with, or merges with or into, or transfers all or
+      substantially all its assets to, another entity and such action does not
+      constitute an event described in Section 5(a)(viii) but the
+      creditworthiness of the resulting, surviving or transferee entity is
+      materially weaker than that of X, such Credit Support Provider or such
+      Specified Entity, as the case may be, immediately prior to such action
+      (and, in such event, X or its successor or transferee, as appropriate,
+      will be the Affected Party); or
+
+      (v) Additional Termination Event. If any "Additional Termination Event" is
+      specified in the Schedule or any Confirmation as applying, the occurrence
+      of such event (and, in such event, the Affected Party or Affected Parties
+      shall be as specified for such Additional Termination Event in the
+      Schedule or such Confirmation).
+
+(c)   Event of Default and Illegality. If an event or circumstance which would
+      otherwise constitute or give rise to an Event of Default also constitutes
+      an Illegality, it will be treated as an Illegality and will not constitute
+      an Event of Default.
+
+6. Early Termination
+
+(a) Right to Terminate Following Event of Default. If at any time an Event of
+Default with respect to a party (the "Defaulting Party") has occurred and is
+then continuing, the other party (the "Non-defaulting Party") may, by not more
+than 20 days notice to the Defaulting Party specifying the relevant Event of
+Default, designate a day not earlier than the day such notice is effective as an
+Early Termination Date in respect of all outstanding Transactions. If, however,
+"Automatic Early Termination" is specified in the Schedule as applying to a
+party, then an Early Termination Date in respect of all outstanding Transactions
+will occur immediately upon the occurrence with respect to such party of an
+Event of Default specified in Section 5(a)(vii)(1), (3), (5), (6) or, to the
+extent analogous thereto, (8), and as of the time immediately preceding the
+institution of the relevant proceeding or the presentation of the relevant
+petition upon the occurrence with respect to such party of an Event of Default
+specified in Section 5(a)(vii)(4) or, to the extent analogous thereto, (8).
+
+(b) Right to Terminate Following Termination Event.
+
+      (i) Notice. If a Termination Event occurs, an Affected Party will,
+      promptly upon becoming aware of it, notify the other party, specifying the
+      nature of that Termination Event and each Affected Transaction and will
+      also give such other information about that Termination Event as the other
+      party may reasonably require.
+
+      (ii) Transfer to Avoid Termination Event. If either an Illegality under
+      Section 5(b)(i)(1) or a Tax Event occurs and there is only one Affected
+      Party, or if a Tax Event Upon Merger occurs and the Burdened Party is the
+      Affected Party, the Affected Party will, as a condition to its right to
+      designate an Early Termination Date under Section 6(b)(iv), use all
+      reasonable efforts (which will not require such party to incur a loss,
+      excluding immaterial, incidental expenses) to transfer within 20 days
+      after it gives notice under Section 6(b)(i) all its rights and obligations
+      under this Agreement in respect of the Affected Transactions to another of
+      its Offices or Affiliates so that such Termination Event ceases to exist.
+
+      If the Affected Party is not able to make such a transfer it will give
+      notice to the other party to that effect within such 20 day period,
+      whereupon the other party may effect such a transfer within 30 days after
+      the notice is given under Section 6(b)(i).
+
+      Any such transfer by a party under this Section 6(b)(ii) will be subject
+      to and conditional upon the prior written consent of the other party,
+      which consent will not be withheld if such other party's policies in
+      effect at such time would permit it to enter into transactions with the
+      transferee on the terms proposed.
+
+      (iii) Two Affected Parties. If an Illegality under Section 5(b)(i)(1) or a
+      Tax Event occurs and there are two Affected Parties, each party will use
+      all reasonable efforts to reach agreement within 30 days after notice
+      thereof is given under Section 6(b)(i) on action to avoid that Termination
+      Event.
+
+      (iv) Right to Terminate. If: --
+
+            (1) a transfer under Section 6(b)(ii) or an agreement under Section
+            6(b)(iii), as the case may be, has not been effected with respect to
+            all Affected Transactions within 30 days after an Affected Party
+            gives notice under Section 6(b)(i); or
+
+            (2) an Illegality under Section 5(b)(i)(2), a Credit Event Upon
+            Merger or an Additional Termination Event occurs, or a Tax Event
+            Upon Merger occurs and the Burdened Party is not the Affected Party,
+
+      either party in the case of an Illegality, the Burdened Party in the case
+      of a Tax Event Upon Merger, any Affected Party in the case of a Tax Event
+      or an Additional Termination Event if there is more than one Affected
+      Party, or the
+
+
+                                       8
+<PAGE>
+
+      party which is not the Affected Party in the case of a Credit Event Upon
+      Merger or an Additional Termination Event if there is only one Affected
+      Party may, by not more than 20 days notice to the other party and provided
+      that the relevant Termination Event is then continuing, designate a day
+      not earlier than the day such notice is effective as an Early Termination
+      Date in respect of all Affected Transactions.
+
+(c)   Effect of Designation.
+
+      (i) If notice designating an Early Termination Date is given under Section
+      6(a) or (b), the Early Termination Date will occur on the date so
+      designated, whether or not the relevant Event of Default or Termination
+      Event is then continuing.
+
+      (ii) Upon the occurrence or effective designation of an Early Termination
+      Date, no further payments or deliveries under Section 2(a)(i) or 2(e) in
+      respect of the Terminated Transactions will be required to be made, but
+      without prejudice to the other provisions of this Agreement. The amount,
+      if any, payable in respect of an Early Termination Date shall be
+      determined pursuant to Section 6(e).
+
+(d)   Calculations.
+
+      (i) Statement. On or as soon as reasonably practicable following the
+      occurrence of an Early Termination Date, each party will make the
+      calculations on its part, if any, contemplated by Section 6(e) and will
+      provide to the other party a statement (1) showing, in reasonable detail,
+      such calculations (including all relevant quotations and specifying any
+      amount payable under Section 6(e)) and (2) giving details of the relevant
+      account to which any amount payable to it is to be paid. In the absence of
+      written confirmation from the source of a quotation obtained in
+      determining a Market Quotation, the records of the party obtaining such
+      quotation will be conclusive evidence of the existence and accuracy of
+      such quotation.
+
+      (ii) Payment Date. An amount calculated as being due in respect of any
+      Early Termination Date under Section 6(e) will be payable on the day that
+      notice of the amount payable is effective (in the case of an Early
+      Termination Date which is designated or occurs as a result of an Event of
+      Default) and on the day which is two Local Business Days after the day on
+      which notice of the amount payable is effective (in the case of an Early
+      Termination Date which is designated as a result of a Termination Event).
+      Such amount will be paid together with (to the extent permitted under
+      applicable law) interest thereon (before as well as after judgment) in the
+      Termination Currency, from (and including) the relevant Early Termination
+      Date to (but excluding) the date such amount is paid, at the Applicable
+      Rate. Such interest will be calculated on the basis of daily compounding
+      and the actual number of days elapsed.
+
+(e)   Payments on Early Termination. If an Early Termination Date occurs, the
+      following provisions shall apply based on the parties' election in the
+      Schedule of a payment measure, either "Market Quotation" or "Loss", and a
+      payment method, either the "First Method" or the "Second Method". If the
+      parties fail to designate a payment measure or payment method in the
+      Schedule, it will be deemed that "Market Quotation" or the "Second
+      Method", as the case may be, shall apply. The amount, if any, payable in
+      respect of an Early Termination Date and determined pursuant to this
+      Section will be subject to any Set-off.
+
+      (i) Events of Default. If the Early Termination Date results from an Event
+      of Default: --
+
+            (1) First Method and Market Quotation. If the First Method and
+            Market Quotation apply, the Defaulting Party will pay to the
+            Non-defaulting Party the excess, if a positive number, of (A) the
+            sum of the Settlement Amount (determined by the Non-defaulting
+            Party) in respect of the Terminated Transactions and the Termination
+            Currency Equivalent of the Unpaid Amounts owing to the
+            Non-defaulting Party over (B) the Termination Currency Equivalent of
+            the Unpaid Amounts owing to the Defaulting Party.
+
+            (2) First Method and Loss. If the First Method and Loss apply, the
+            Defaulting Party will pay to the Non-defaulting Party, if a positive
+            number, the Non- defaulting Party's Loss in respect of this
+            Agreement.
+
+            (3) Second Method and Market Quotation. If the Second Method and
+            Market Quotation apply, an amount will be payable equal to (A) the
+            sum of the Settlement Amount (determined by the Non-defaulting
+            Party) in respect of the Terminated Transactions and the Termination
+            Currency Equivalent of the Unpaid Amounts owing to the
+            Non-defaulting Party less (B) the Termination Currency Equivalent of
+            the Unpaid Amounts owing to the Defaulting Party. If that amount is
+            a positive number, the Defaulting Party will pay it to the
+            Non-defaulting Party; if it is a negative number, the Non-defaulting
+            Party will pay the absolute value of that amount to the Defaulting
+            Party.
+
+
+                                       9
+<PAGE>
+
+            (4) Second Method and Loss. If the Second Method and Loss apply, an
+            amount will be payable equal to the Non-defaulting Party's Loss in
+            respect of this Agreement. If that amount is a positive number, the
+            Defaulting Party will pay it to the Non-defaulting Party; if it is a
+            negative number, the Non-defaulting Party will pay the absolute
+            value of that amount to the Defaulting Party.
+
+      (ii)  Termination Events. If the Early Termination Date results from a
+      Termination Event: --
+
+            (1) One Affected Party. If there is one Affected Party, the amount
+            payable will be determined in accordance with Section 6(e)(i)(3), if
+            Market Quotation applies, or Section 6(e)(i)(4), if Loss applies,
+            except that, in either case, references to the Defaulting Party and
+            to the Non-defaulting Party will be deemed to be references to the
+            Affected Party and the party which is not the Affected Party,
+            respectively, and, if Loss applies and fewer than all the
+            Transactions are being terminated, Loss shall be calculated in
+            respect of all Terminated Transactions.
+
+            (2) Two Affected Parties. If there are two Affected Parties: --
+
+                  (A) if Market Quotation applies, each party will determine a
+                  Settlement Amount in respect of the Terminated Transactions,
+                  and an amount will be payable equal to (I) the sum of (a)
+                  one-half of the difference between the Settlement Amount of
+                  the party with the higher Settlement Amount ("X") and the
+                  Settlement Amount of the party with the lower Settlement
+                  Amount ("Y") and (b) the Termination Currency Equivalent of
+                  the Unpaid Amounts owing to X less (II) the Termination
+                  Currency Equivalent of the Unpaid Amounts owing to Y; and
+
+                  (B) if Loss applies, each party will determine its Loss in
+                  respect of this Agreement (or, if fewer than all the
+                  Transactions are being terminated, in respect of all
+                  Terminated Transactions) and an amount will be payable equal
+                  to one-half of the difference between the Loss of the party
+                  with the higher Loss ("X") and the Loss of the party with the
+                  lower Loss ("Y").
+
+            If the amount payable is a positive number, Y will pay it to X; if
+            it is a negative number, X will pay the absolute value of that
+            amount to Y.
+
+      (iii) Adjustment for Bankruptcy. In circumstances where an Early
+      Termination Date occurs because "Automatic Early Termination" applies in
+      respect of a party, the amount determined under this Section 6(e) will be
+      subject to such adjustments as are appropriate and permitted by law to
+      reflect any payments or deliveries made by one party to the other under
+      this Agreement (and retained by such other party) during the period from
+      the relevant Early Termination Date to the date for payment determined
+      under Section 6(d)(ii).
+
+      (iv) Pre-Estimate. The parties agree that if Market Quotation applies an
+      amount recoverable under this Section 6(e) is a reasonable pre-estimate of
+      loss and not a penalty. Such amount is payable for the loss of bargain and
+      the loss of protection against future risks and except as otherwise
+      provided in this Agreement neither party will be entitled to recover any
+      additional damages as a consequence of such losses.
+
+7. Transfer
+
+Subject to Section 6(b)(ii), neither this Agreement nor any interest or
+obligation in or under this Agreement may be transferred (whether by way of
+security or otherwise) by either party without the prior written consent of the
+other party, except that: --
+
+(a) a party may make such a transfer of this Agreement pursuant to a
+consolidation or amalgamation with, or merger with or into, or transfer of all
+or substantially all its assets to, another entity (but without prejudice to any
+other right or remedy under this Agreement); and
+
+(b) a party may make such a transfer of all or any part of its interest in any
+amount payable to it from a Defaulting Party under Section 6(e).
+
+Any purported transfer that is not in compliance with this Section will be void.
+
+8. Contractual Currency
+
+(a) Payment in the Contractual Currency. Each payment under this Agreement will
+be made in the relevant currency specified in this Agreement for that payment
+(the "Contractual Currency"). To the extent permitted by applicable law, any
+obligation to make payments under this Agreement in the Contractual Currency
+will not be discharged or satisfied by any tender in any currency other than the
+Contractual Currency, except to the extent such tender results in the actual
+receipt by the party to which payment is owed, acting in a reasonable manner and
+in good faith in converting the currency so tendered
+
+
+                                       10
+<PAGE>
+
+into the Contractual Currency, of the full amount in the Contractual Currency of
+all amounts payable in respect of this Agreement. If for any reason the amount
+in the Contractual Currency so received falls short of the amount in the
+Contractual Currency payable in respect of this Agreement, the party required to
+make the payment will, to the extent permitted by applicable law, immediately
+pay such additional amount in the Contractual Currency as may be necessary to
+compensate for the shortfall. If for any reason the amount in the Contractual
+Currency so received exceeds the amount in the Contractual Currency payable in
+respect of this Agreement, the party receiving the payment will refund promptly
+the amount of such excess.
+
+(b) Judgments. To the extent permitted by applicable law, if any judgment or
+order expressed in a currency other than the Contractual Currency is rendered
+(i) for the payment of any amount owing in respect of this Agreement, (ii) for
+the payment of any amount relating to any early termination in respect of this
+Agreement or (iii) in respect of a judgment or order of another court for the
+payment of any amount described in (i) or (ii) above, the party seeking
+recovery, after recovery in full of the aggregate amount to which such party is
+entitled pursuant to the judgment or order, will be entitled to receive
+immediately from the other party the amount of any shortfall of the Contractual
+Currency received by such party as a consequence of sums paid in such other
+currency and will refund promptly to the other party any excess of the
+Contractual Currency received by such party as a consequence of sums paid in
+such other currency if such shortfall or such excess arises or results from any
+variation between the rate of exchange at which the Contractual Currency is
+converted into the currency of the judgment or order for the purposes of such
+judgment or order and the rate of exchange at which such party is able, acting
+in a reasonable manner and in good faith in converting the currency received
+into the Contractual Currency, to purchase the Contractual Currency with the
+amount of the currency of the judgment or order actually received by such party.
+The term "rate of exchange" includes, without limitation, any premiums and costs
+of exchange payable in connection with the purchase of or conversion into the
+Contractual Currency.
+
+(c) Separate Indemnities. To the extent permitted by applicable law, these
+indemnities constitute separate and independent obligations from the other
+obligations in this Agreement, will be enforceable as separate and independent
+causes of action, will apply notwithstanding any indulgence granted by the party
+to which any payment is owed and will not be affected by judgment being obtained
+or claim or proof being made for any other sums payable in respect of this
+Agreement.
+
+(d) Evidence of Loss. For the purpose of this Section 8, it will be sufficient
+for a party to demonstrate that it would have suffered a loss had an actual
+exchange or purchase been made.
+
+9. Miscellaneous
+
+(a) Entire Agreement. This Agreement constitutes the entire agreement and
+understanding of the parties with respect to its subject matter and supersedes
+all oral communication and prior writings with respect thereto.
+
+(b) Amendments. No amendment, modification or waiver in respect of this
+Agreement will be effective unless in writing (including a writing evidenced by
+a facsimile transmission) and executed by each of the parties or confirmed by an
+exchange of telexes or electronic messages on an electronic messaging system.
+
+(c) Survival of Obligations. Without prejudice to Sections 2(a)(iii) and
+6(c)(ii), the obligations of the parties under this Agreement will survive the
+termination of any Transaction.
+
+(d) Remedies Cumulative. Except as provided in this Agreement, the rights,
+powers, remedies and privileges provided in this Agreement are cumulative and
+not exclusive of any rights, powers, remedies and privileges provided by law.
+
+(e) Counterparts and Confirmations.
+
+      (i) This Agreement (and each amendment, modification and waiver in respect
+      of it) may be executed and delivered in counterparts (including by
+      facsimile transmission), each of which will be deemed an original.
+
+      (ii) The parties intend that they are legally bound by the terms of each
+      Transaction from the moment they agree to those terms (whether orally or
+      otherwise). A Confirmation shall he entered into as soon as practicable
+      and may he executed and delivered in counterparts (including by facsimile
+      transmission) or be created by an exchange of telexes or by an exchange of
+      electronic messages on an electronic messaging system, which in each case
+      will be sufficient for all purposes to evidence a binding supplement to
+      this Agreement. The parties will specify therein or through another
+      effective means that any such counterpart, telex or electronic message
+      constitutes a Confirmation.
+
+(f) No Waiver of Rights. A failure or delay in exercising any right, power or
+privilege in respect of this Agreement will not be presumed to operate as a
+waiver, and a single or partial exercise of any right, power or privilege will
+not be presumed to preclude any subsequent or further exercise, of that right,
+power or privilege or the exercise of any other right, power or privilege.
+
+
+                                       11
+<PAGE>
+
+(g) Headings. The headings used in this Agreement are for convenience of
+reference only and are not to affect the construction of or to be taken into
+consideration in interpreting this Agreement.
+
+10. Offices; Multibranch Parties
+
+(a) If Section 10(a) is specified in the Schedule as applying, each party that
+enters into a Transaction through an Office other than its head or home office
+represents to the other party that, notwithstanding the place of booking office
+or jurisdiction of incorporation or organisation of such party, the obligations
+of such party are the same as if it had entered into the Transaction through its
+head or home office. This representation will be deemed to be repeated by such
+party on each date on which a Transaction is entered into.
+
+(b) Neither party may change the Office through which it makes and receives
+payments or deliveries for the purpose of a Transaction without the prior
+written consent of the other party.
+
+(c) If a party is specified as a Multibranch Party in the Schedule, such
+Multibranch Party may make and receive payments or deliveries under any
+Transaction through any Office listed in the Schedule, and the Office through
+which it makes and receives payments or deliveries with respect to a Transaction
+will be specified in the relevant Confirmation.
+
+11. Expenses
+
+A Defaulting Party will, on demand, indemnify and hold harmless the other party
+for and against all reasonable out-of-pocket expenses, including legal fees and
+Stamp Tax, incurred by such other party by reason of the enforcement and
+protection of its rights under this Agreement or any Credit Support Document to
+which the Defaulting Party is a party or by reason of the early termination of
+any Transaction, including, but not limited to, costs of collection.
+
+12. Notices
+
+(a) Effectiveness. Any notice or other communication in respect of this
+Agreement may be given in any manner set forth below (except that a notice or
+other communication under Section 5 or 6 may not be given by facsimile
+transmission or electronic messaging system) to the address or number or in
+accordance with the electronic messaging system details provided (see the
+Schedule) and will be deemed effective as indicated:--
+
+      (i) if in writing and delivered in person or by courier, on the date it is
+      delivered;
+
+      (ii) if sent by telex, on the date the recipient's answerback is received;
+
+      (iii) if sent by facsimile transmission, on the date that transmission is
+      received by a responsible employee of the recipient in legible form (it
+      being agreed that the burden of proving receipt will be on the sender and
+      will not be met by a transmission report generated by the sender's
+      facsimile machine);
+
+      (iv) if sent by certified or registered mail (airmail, if overseas) or the
+      equivalent (return receipt requested), on the date that mail is delivered
+      or its delivery is attempted; or
+
+      (v) if sent by electronic messaging system, on the date that electronic
+      message is received,
+
+unless the date of that delivery (or attempted delivery) or that receipt, as
+applicable, is not a Local Business Day or that communication is delivered (or
+attempted) or received, as applicable, after the close of business on a Local
+Business Day, in which case that communication shall be deemed given and
+effective on the first following day that is a Local Business Day.
+
+(b) Change of Addresses. Either party may by notice to the other change the
+address, telex or facsimile number or electronic messaging system details at
+which notices or other communications are to be given to it.
+
+13. Governing Law and Jurisdiction
+
+(a) Governing Law. This Agreement will be governed by and construed in
+accordance with the law specified in the Schedule.
+
+(b) Jurisdiction. With respect to any suit, action or proceedings relating to
+this Agreement ("Proceedings"), each party irrevocably:--
+
+      (i) submits to the jurisdiction of the English courts, if this Agreement
+      is expressed to be governed by English law, or to the non- exclusive
+      jurisdiction of the courts of the State of New York and the United States
+      District Court located in the Borough of Manhattan in New York City, if
+      this Agreement is expressed to be governed by the laws of the State of New
+      York; and
+
+
+                                       12
+<PAGE>
+
+      (ii) waives any objection which it may have at any time to the laying of
+      venue of any Proceedings brought in any such court, waives any claim that
+      such Proceedings have been brought in an inconvenient forum and further
+      waives the right to object, with respect to such Proceedings, that such
+      court does not have any jurisdiction over such party.
+
+Nothing in this Agreement precludes either party from bringing Proceedings in
+any other jurisdiction (outside, if this Agreement is expressed to be governed
+by English law, the Contracting States, as defined in Section 1(3) of the Civil
+Jurisdiction and Judgments Act 1982 or any modification, extension or re-
+enactment thereof for the time being in force) nor will the bringing of
+Proceedings in any one or more jurisdictions preclude the bringing of
+Proceedings in any other jurisdiction.
+
+(c) Service of Process. Each party irrevocably appoints the Process Agent (if
+any) specified opposite its name in the Schedule to receive, for it and on its
+behalf, service of process in any Proceedings. If for any reason any party's
+Process Agent is unable to act as such, such party will promptly notify the
+other party and within 30 days appoint a substitute process agent acceptable to
+the other party. The parties irrevocably consent to service of process given in
+the manner provided for notices in Section 12. Nothing in this Agreement will
+affect the right of either party to serve process in any other manner permitted
+by law.
+
+(d) Waiver of Immunities. Each party irrevocably waives, to the fullest extent
+permitted by applicable law, with respect to itself and its revenues and assets
+(irrespective of their use or intended use), all immunity on the grounds of
+sovereignty or other similar grounds from (i) suit, (ii) jurisdiction of any
+court, (iii) relief by way of injunction, order for specific performance or for
+recovery of property, (iv) attachment of its assets (whether before or after
+judgment) and (v) execution or enforcement of any judgment to which it or its
+revenues or assets might otherwise be entitled in any Proceedings in the courts
+of any jurisdiction and irrevocably agrees, to the extent permitted by
+applicable law, that it will not claim any such immunity in any Proceedings.
+
+14. Definitions
+
+As used in this Agreement:--
+
+"Additional Termination Event" has the meaning specified in Section 5(b).
+
+"Affected Party" has the meaning specified in Section 5(b).
+
+"Affected Transactions" means (a) with respect to any Termination Event
+consisting of an Illegality, Tax Event or Tax Event Upon Merger, all
+Transactions affected by the occurrence of such Termination Event and (b) with
+respect to any other Termination Event, all Transactions.
+
+"Affiliate" means, subject to the Schedule, in relation to any person, any
+entity controlled, directly or indirectly, by the person, any entity that
+controls, directly or indirectly, the person or any entity directly or
+indirectly under common control with the person. For this purpose, "control" of
+any entity or person means ownership of a majority of the voting power of the
+entity or person.
+
+"Applicable Rate" means:--
+
+(a) in respect of obligations payable or deliverable (or which would have been
+but for Section 2(a)(iii)) by a Defaulting Party, the Default Rate;
+
+(b) in respect of an obligation to pay an amount under Section 6(e) of either
+party from and after the date (determined in accordance with Section 6(d)(ii))
+on which that amount is payable, the Default Rate;
+
+(c) in respect of all other obligations payable or deliverable (or which would
+have been but for Section 2(a)(iii)) by a Non-defaulting Party, the Non-default
+Rate; and
+
+(d) in all other cases, the Termination Rate.
+
+"Burdened Party" has the meaning specified in Section 5(b).
+
+"Change in Tax Law" means the enactment, promulgation, execution or ratification
+of, or any change in or amendment to, any law (or in the application or official
+interpretation of any law) that occurs on or after the date on which the
+relevant Transaction is entered into.
+
+"consent" includes a consent, approval, action, authorisation, exemption,
+notice, filing, registration or exchange control consent.
+
+
+                                       13
+<PAGE>
+
+"Credit Event Upon Merger" has the meaning specified in Section 5(b).
+
+"Credit Support Document" means any agreement or instrument that is specified as
+such in this Agreement.
+
+"Credit Support Provider" has the meaning specified in the Schedule.
+
+"Default Rate" means a rate per annum equal to the cost (without proof or
+evidence of any actual cost) to the relevant payee (as certified by it) if it
+were to fund or of funding the relevant amount plus 1% per annum.
+
+"Defaulting Party" has the meaning specified in Section 6(a).
+
+"Early Termination Date" means the date determined in accordance with Section
+6(a) or 6(b)(iv).
+
+"Event of Default" has the meaning specified in Section 5(a) and, if applicable,
+in the Schedule.
+
+"Illegality" has the meaning specified in Section 5(b).
+
+"Indemnifiable Tax" means any Tax other than a Tax that would not be imposed in
+respect of a payment under this Agreement but for a present or former connection
+between the jurisdiction of the government or taxation authority imposing such
+Tax and the recipient of such payment or a person related to such recipient
+(including, without limitation, a connection arising from such recipient or
+related person being or having been a citizen or resident of such jurisdiction,
+or being or having been organised, present or engaged in a trade or business in
+such jurisdiction, or having or having had a permanent establishment or fixed
+place of business in such jurisdiction, but excluding a connection arising
+solely from such recipient or related person having executed, delivered,
+performed its obligations or received a payment under, or enforced, this
+Agreement or a Credit Support Document).
+
+"law" includes any treaty, law, rule or regulation (as modified, in the case of
+tax matters, by the practice of any relevant governmental revenue authority) and
+"lawful" and "unlawful" will be construed accordingly.
+
+"Local Business Day" means, subject to the Schedule, a day on which commercial
+banks are open for business (including dealings in foreign exchange and foreign
+currency deposits) (a) in relation to any obligation under Section 2(a)(i), in
+the place(s) specified in the relevant Confirmation or, if not so specified, as
+otherwise agreed by the parties in writing or determined pursuant to provisions
+contained, or incorporated by reference, in this Agreement, (b) in relation to
+any other payment, in the place where the relevant account is located and, if
+different, in the principal financial centre, if any, of the currency of such
+payment, (c) in relation to any notice or other communication, including notice
+contemplated under Section 5(a)(i), in the city specified in the address for
+notice provided by the recipient and, in the case of a notice contemplated by
+Section 2(b), in the place where the relevant new account is to be located and
+(d) in relation to Section 5(a)(v)(2), in the relevant locations for performance
+with respect to such Specified Transaction.
+
+"Loss" means, with respect to this Agreement or one or more Terminated
+Transactions, as the case may be, and a party, the Termination Currency
+Equivalent of an amount that party reasonably determines in good faith to be its
+total losses and costs (or gain, in which case expressed as a negative number)
+in connection with this Agreement or that Terminated Transaction or group of
+Terminated Transactions, as the case may be, including any loss of bargain, cost
+of funding or, at the election of such party but without duplication, loss or
+cost incurred as a result of its terminating, liquidating, obtaining or
+reestablishing any hedge or related trading position (or any gain resulting from
+any of them). Loss includes losses and costs (or gains) in respect of any
+payment or delivery required to have been made (assuming satisfaction of each
+applicable condition precedent) on or before the relevant Early Termination Date
+and not made, except, so as to avoid duplication, if Section 6(e)(i)(1) or (3)
+or 6(e)(ii)(2)(A) applies. Loss does not include a party's legal fees and
+out-of-pocket expenses referred to under Section 11. A party will determine its
+Loss as of the relevant Early Termination Date, or, if that is not reasonably
+practicable, as of the earliest date thereafter as is reasonably practicable. A
+party may (but need not) determine its Loss by reference to quotations of
+relevant rates or prices from one or more leading dealers in the relevant
+markets.
+
+"Market Quotation" means, with respect to one or more Terminated Transactions
+and a party making the determination, an amount determined on the basis of
+quotations from Reference Market-makers. Each quotation will be for an amount,
+if any, that would be paid to such party (expressed as a negative number) or by
+such party (expressed as a positive number) in consideration of an agreement
+between such party (taking into account any existing Credit Support Document
+with respect to the obligations of such party) and the quoting Reference
+Market-maker to enter into a transaction (the "Replacement Transaction") that
+would have the effect of preserving for such party the economic equivalent of
+any payment or delivery (whether the underlying obligation was absolute or
+contingent and assuming the satisfaction of each applicable condition precedent)
+by the parties under Section 2(a)(i) in respect of such Terminated Transaction
+or group of Terminated Transactions that would, but for the occurrence of the
+relevant Early Termination Date, have been required after that date. For this
+purpose, Unpaid Amounts in respect of the Terminated Transaction or group of
+Terminated Transactions are to be
+
+
+                                       14
+<PAGE>
+
+excluded but, without limitation, any payment or delivery that would, but for
+the relevant Early Termination Date, have been required (assuming satisfaction
+of each applicable condition precedent) after that Early Termination Date is to
+be included. The Replacement Transaction would be subject to such documentation
+as such party and the Reference Market-maker may, in good faith, agree. The
+party making the determination (or its agent) will request each Reference
+Market-maker to provide its quotation to the extent reasonably practicable as of
+the same day and time (without regard to different time zones) on or as soon as
+reasonably practicable after the relevant Early Termination Date. The day and
+time as of which those quotations are to be obtained will be selected in good
+faith by the party obliged to make a determination under Section 6(e), and, if
+each party is so obliged, after consultation with the other. If more than three
+quotations are provided, the Market Quotation will be the arithmetic mean of the
+quotations, without regard to the quotations having the highest and lowest
+values. If exactly three such quotations are provided, the Market Quotation will
+be the quotation remaining after disregarding the highest and lowest quotations.
+For this purpose, if more than one quotation has the same highest value or
+lowest value, then one of such quotations shall be disregarded. If fewer than
+three quotations are provided, it will be deemed that the Market Quotation in
+respect of such Terminated Transaction or group of Terminated Transactions
+cannot be determined.
+
+"Non-default Rate" means a rate per annum equal to the cost (without proof or
+evidence of any actual cost) to the Non-defaulting Party (as certified by it) if
+it were to fund the relevant amount.
+
+"Non-defaulting Party" has the meaning specified in Section 6(a).
+
+"Office" means a branch or office of a party, which may be such party's head or
+home office.
+
+"Potential Event of Default" means any event which, with the giving of notice or
+the lapse of time or both, would constitute an Event of Default.
+
+"Reference Market-makers" means four leading dealers in the relevant market
+selected by the party determining a Market Quotation in good faith (a) from
+among dealers of the highest credit standing which satisfy all the criteria that
+such party applies generally at the time in deciding whether to offer or to make
+an extension of credit and (b) to the extent practicable, from among such
+dealers having an office in the same city.
+
+"Relevant Jurisdiction" means, with respect to a party, the jurisdictions (a) in
+which the party is incorporated, organised, managed and controlled or considered
+to have its seat, (b) where an Office through which the party is acting for
+purposes of this Agreement is located, (c) in which the party executes this
+Agreement and (d) in relation to any payment, from or through which such payment
+is made.
+
+"Scheduled Payment Date" means a date on which a payment or delivery is to be
+made under Section 2(a)(i) with respect to a Transaction.
+
+"Set-off" means set-off, offset, combination of accounts, right of retention or
+withholding or similar right or requirement to which the payer of an amount
+under Section 6 is entitled or subject (whether arising under this Agreement,
+another contract, applicable law or otherwise) that is exercised by, or imposed
+on, such payer.
+
+"Settlement Amount" means, with respect to a party and any Early Termination
+Date, the sum of: --
+
+(a) the Termination Currency Equivalent of the Market Quotations (whether
+positive or negative) for each Terminated Transaction or group of Terminated
+Transactions for which a Market Quotation is determined; and
+
+(b) such party's Loss (whether positive or negative and without reference to any
+Unpaid Amounts) for each Terminated Transaction or group of Terminated
+Transactions for which a Market Quotation cannot be determined or would not (in
+the reasonable belief of the party making the determination) produce a
+commercially reasonable result.
+
+"Specified Entity" has the meanings specified in the Schedule.
+
+"Specified Indebtedness" means, subject to the Schedule, any obligation (whether
+present or future, contingent or otherwise, as principal or surety or otherwise)
+in respect of borrowed money.
+
+"Specified Transaction" means, subject to the Schedule, (a) any transaction
+(including an agreement with respect thereto) now existing or hereafter entered
+into between one party to this Agreement (or any Credit Support Provider of such
+party or any applicable Specified Entity of such party) and the other party to
+this Agreement (or any Credit Support Provider of such other party or any
+applicable Specified Entity of such other party) which is a rate swap
+transaction, basis swap, forward rate transaction, commodity swap, commodity
+option, equity or equity index swap, equity or equity index option, bond option,
+interest rate option, foreign exchange transaction, cap transaction, floor
+transaction, collar transaction, currency swap transaction, cross- currency rate
+swap transaction, currency option or any other similar transaction (including
+any option with
+
+
+                                       15
+<PAGE>
+
+respect to any of these transactions), (b) any combination of these transactions
+and (c) any other transaction identified as a Specified Transaction in this
+Agreement or the relevant confirmation.
+
+"Stamp Tax" means any stamp, registration, documentation or similar tax.
+
+"Tax" means any present or future tax, levy, impost, duty, charge, assessment or
+fee of any nature (including interest, penalties and additions thereto) that is
+imposed by any government or other taxing authority in respect of any payment
+under this Agreement other than a stamp, registration, documentation or similar
+tax.
+
+"Tax Event" has the meaning specified in Section 5(b).
+
+"Tax Event Upon Merger" has the meaning specified in Section 5(b).
+
+"Terminated Transactions" means with respect to any Early Termination Date (a)
+if resulting from a Termination Event, all Affected Transactions and (b) if
+resulting from an Event of Default, all Transactions (in either case) in effect
+immediately before the effectiveness of the notice designating that Early
+Termination Date (or, if "Automatic Early Termination" applies, immediately
+before that Early Termination Date).
+
+"Termination Currency" has the meaning specified in the Schedule.
+
+"Termination Currency Equivalent" means, in respect of any amount denominated in
+the Termination Currency, such Termination Currency amount and, in respect of
+any amount denominated in a currency other than the Termination Currency (the
+"Other Currency"), the amount in the Termination Currency determined by the
+party making the relevant determination as being required to purchase such
+amount of such Other Currency as at the relevant Early Termination Date, or, if
+the relevant Market Quotation or Loss (as the case may be), is determined as of
+a later date, that later date, with the Termination Currency at the rate equal
+to the spot exchange rate of the foreign exchange agent (selected as provided
+below) for the purchase of such Other Currency with the Termination Currency at
+or about 11:00 a. m. (in the city in which such foreign exchange agent is
+located) on such date as would be customary for the determination of such a rate
+for the purchase of such Other Currency for value on the relevant Early
+Termination Date or that later date. The foreign exchange agent will, if only
+one party is obliged to make a determination under Section 6(e), be selected in
+good faith by that party and otherwise will be agreed by the parties.
+
+"Termination Event" means an Illegality, a Tax Event or a Tax Event Upon Merger
+or, if specified to be applicable, a Credit Event Upon Merger or an Additional
+Termination Event.
+
+"Termination Rate" means a rate per annum equal to the arithmetic mean of the
+cost (without proof or evidence of any actual cost) to each party (as certified
+by such party) if it were to fund or of funding such amounts.
+
+"Unpaid Amounts" owing to any party means, with respect to an Early Termination
+Date, the aggregate of (a) in respect of all Terminated Transactions, the
+amounts that became payable (or that would have become payable but for Section
+2(a)(iii)) to such party under Section 2(a)(i) on or prior to such Early
+Termination Date and which remain unpaid as at such Early Termination Date and
+(b) in respect of each Terminated Transaction, for each obligation under Section
+2(a)(i) which was (or would have been but for Section 2(a)(iii)) required to be
+settled by delivery to such party on or prior to such Early Termination Date and
+which has not been so settled as at such Early Termination Date, an amount equal
+to the fair market value of that which was (or would have been) required to be
+delivered as of the originally scheduled date for delivery, in each case
+together with (to the extent permitted under applicable law) interest, in the
+currency of such amounts, from (and including) the date such amounts or
+obligations were or would have been required to have been paid or performed to
+(but excluding) such Early Termination Date, at the Applicable Rate. Such
+amounts of interest will be calculated on the basis of daily compounding and the
+actual number of days elapsed. The fair market value of any obligation referred
+to in clause (b) above shall be reasonably determined by the party obliged to
+make the determination under Section 6(e) or, if each party is so obliged, it
+shall be the average of the Termination Currency Equivalents of the fair market
+values reasonably determined by both parties.
+
+
+                                       16
+<PAGE>
+
+IN WITNESS WHEREOF the parties have executed this document on the respective
+dates specified below with effect from the date specified on the first page of
+this document.
+
+WACHOVIA BANK, NATIONAL ASSOCIATION                PHOENIX COLOR CORP.
+         (Name of Party)                               (Name of Party)
+
+
+By: /s/ Matthew Magidson                           By: /s/ Edward Lieberman
+    ----------------------------------------           -------------------------
+    Name:  Matt Magidson                               Edward Lieberman
+    Title: Vice President, Fixed Income Division       Chief Financial Officer
+    Date:  11/12/2003                                  Date:  11/10/2003
+
+
+                                                   PCC EXPRESS, INC.
+
+                                                   By: /s/ Edward Lieberman
+                                                       -------------------------
+                                                       Edward Lieberman
+                                                       Chief Financial Officer
+                                                       Date:  11/10/2003
+
+                                                   TECHNIGRAPHIX, INC.
+
+                                                   By: /s/ Edward Lieberman
+                                                       -------------------------
+                                                       Edward Lieberman
+                                                       Chief Financial Officer
+                                                       Date:  11/10/2003
+
+                                                   PHOENIX (MD) REALTY, LLC
+
+                                                   By: /s/ Edward Lieberman
+                                                       -------------------------
+                                                       Edward Lieberman
+                                                       Chief Financial Officer
+                                                       Date:  11/10/2003
+
+                                                   PHOENIX COLOR
+                                                   FULFILLMENT, INC.
+
+                                                   By: /s/ Edward Lieberman
+                                                       -------------------------
+                                                       Edward Lieberman
+                                                       Chief Financial Officer
+                                                       Date:  11/10/2003
+
+
+                                       17
+<PAGE>
+
+                                    SCHEDULE
+                                     to the
+                                MASTER AGREEMENT
+                      dated as of October 27, 2003 between
+                 WACHOVIA BANK, NATIONAL ASSOCIATION ("Party A")
+  and PHOENIX COLOR CORP., PCC EXPRESS, INC., TECHNIGRAPHIX, INC., PHOENIX (MD)
+                 REALTY, LLC and PHOENIX COLOR FULFILLMENT, INC.
+                       (jointly and severally, "Party B")
+
+Part 1. Termination Provisions
+
+(a)   "Specified Entity" means each party's Affiliates for purposes of Section
+      5(a)(v).
+
+(b)   "Specified Transaction" has its meaning as defined in Section 14.
+
+(c)   "Cross Default" applies to both parties. With respect to Party B, "Cross
+      Default" is amended by inserting at the end of Section 5(a)(vi): "or (3)
+      any Event of Default under any Financial Agreement (as defined in the
+      Schedule)."
+
+      "Specified Indebtedness" means any obligation (whether present, future,
+      contingent or otherwise, as principal or surety or otherwise) in respect
+      of borrowed money or relating to the payment or delivery of funds,
+      securities or other property (including, without limitation, collateral),
+      other than indebtedness in respect of any bank deposits received in the
+      ordinary course of business by any foreign branch of a party the repayment
+      of which is prevented, hindered or delayed by any governmental or
+      regulatory action or law unrelated to the financial condition or solvency
+      of such party or that foreign branch.
+
+      "Threshold Amount" means, with respect to Party A, an amount (including
+      its equivalent in another currency) equal to the higher of $10,000,000 or
+      2% of its stockholders' equity as reflected on its most recent financial
+      statements or call reports, and with respect to Party B, $250,000,
+      provided that for any Specified Indebtedness payable by Party B (or any
+      Credit Support Provider of Party B) to Party A or to any of Party A's
+      Affiliates, Threshold Amount means any amount of such Specified
+      Indebtedness.
+
+(d)   "Credit Event Upon Merger" applies to both parties.
+
+(e)   "Automatic Early Termination" does not apply to either party.
+
+      (i) Notwithstanding the foregoing, if the bankruptcy or insolvency laws of
+      the jurisdiction in which the Defaulting Party is organized or formed do
+      not expressly permit the Non-defaulting Party to exercise its rights under
+      Section 6(a) for an Event of Default under Section 5(a)(vii)(4) or (6)
+      with respect to the Defaulting Party, then Automatic Early Termination
+      shall apply to the Defaulting Party.
+
+      (ii) In addition to the provisions of Section 6(e)(iii), if an Early
+      Termination Date occurs under Section 6(a) as the result of Automatic
+      Early Termination, and if the Non-defaulting Party determines that it
+      either sustained or incurred a loss or damage or benefited from a gain in
+      respect of any Transaction, as a result of any change in one or more
+      rates, prices, yields, quotations, volatilities, spreads or other measures
+      of economic value or risk relevant to that Transaction or to any related
+      hedge of the Non-defaulting Party between that Early Termination Date and
+      the date upon which the Non-defaulting Party first becomes aware of the
+      occurrence of that Early Termination Date, then the Termination Currency
+      Equivalent of the amount of such loss or damage shall be added to the
+      amount due by the Defaulting Party or deducted from the amount due by the
+      Non-defaulting Party, as the case may be (in both cases pursuant to
+      Section 6(e)(i)(3)), or the Termination Currency Equivalent of the amount
+      of such gain shall be deducted from the amount due by the Defaulting Party
+      or added to the amount due by the Non-defaulting Party, as the case may be
+      (in both cases pursuant to Section 6(e)(i)(3)).
+
+
+<PAGE>
+
+(f) Payments on Early Termination. Except as otherwise provided in this
+Schedule, "Market Quotation" and the "Second Method" apply. In the case of any
+Terminated Transaction that is, or is subject to, any unexercised option, the
+words "economic equivalent of any payment or delivery" appearing in the
+definition of "Market Quotation" shall be construed to take into account the
+economic equivalent of the option.
+
+(g) "Termination Currency" means U.S. Dollars.
+
+(h) "Additional Termination Event" does not apply to either party.
+
+(i) Events of Default. An Event of Default shall not occur with respect to a
+party under Section 5(a)(v)(1) or (2) or Section 5(a)(vi) when the failure to
+pay or deliver, or the default, event of default or other similar condition or
+event, as the case may be, arises solely (i) out of a wire transfer problem or
+an operational or administrative error or omission (so long as the required
+funds or property required to make that payment or delivery were otherwise
+available to that party), or (ii) from the general unavailability of the
+relevant currency due to exchange controls or other similar governmental action,
+but in either case only if the payment or delivery is made within three Local
+Business Days after the problem has been corrected, the error or omission has
+been discovered or the currency becomes generally available.
+
+Part 2. Tax Representations
+
+(a)   Payer Tax Representations. For the purpose of Section 3(e) of this
+      Agreement, each party makes the following representation:
+
+      It is not required by any applicable law, as modified by the practice of
+      any relevant governmental revenue authority, of any Relevant Jurisdiction
+      to make any deduction or withholding for or on account of any Tax from any
+      payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of this
+      Agreement) to be made by it to the other party under this Agreement.
+
+      In making this representation, a party may rely on (i) the accuracy of any
+      representations made by the other party pursuant to Section 3(f) of this
+      Agreement, (ii) the satisfaction of the agreement contained in Section
+      4(a)(i) or 4(a)(iii) of this Agreement, and the accuracy and effectiveness
+      of any document provided by the other party pursuant to Section 4(a)(i) or
+      4(a)(iii) of this Agreement, and (iii) the satisfaction of the agreement
+      of the other party contained in Section 4(d) of this Agreement, provided
+      that it shall not be a breach of this representation where reliance is
+      placed on clause (ii) above and the other party does not deliver a form or
+      document under Section 4(a)(iii) by reason of material prejudice to its
+      legal or commercial position.
+
+(b)   Payee Tax Representations. For the purpose of Section 3(f) of this
+      Agreement:
+
+      (i) Party A makes the following representation(s):
+
+            (A) It is a national banking association organized or formed under
+            the laws of the United States and is a United States resident for
+            United States federal income tax purposes.
+
+            (B) Party A makes no other Payee Tax Representations.
+
+      (ii) Party B makes the following representation(s):
+
+
+<PAGE>
+
+            (A) It is organized or formed under the laws of a state within the
+            United States, and it is (or, if Party B is disregarded for United
+            States federal income tax purposes, its beneficial owner is) a
+            United States resident for United States federal income tax
+            purposes.
+
+            (B) Party B makes no other Payee Tax Representations.
+
+Part 3. Documents
+
+(a)   Tax Forms.
+
+      (i) Delivery of Tax Forms. For the purpose of Section 4(a)(i), and without
+      limiting Section 4(a)(iii), each party agrees to duly complete, execute
+      and deliver to the other party the tax forms specified below with respect
+      to it (A) before the first Payment Date under this Agreement, (B) promptly
+      upon reasonable demand by the other party and (C) promptly upon learning
+      that any such form previously provided by the party has become obsolete or
+      incorrect.
+
+      (ii) Tax Forms to be Delivered by Party A:
+
+            None specified.
+
+      (iii) Tax forms to be Delivered by Party B:
+
+                  (A) If Party B is (or, if Party B is disregarded for United
+                  States federal income tax purposes, its beneficial owner is)
+                  treated as a corporation for United States federal income tax
+                  purposes whose name includes "Incorporated", "Inc.",
+                  "Corporation", "Corp.", "P.C.", "Insurance Company" "Indemnity
+                  Company", "Reinsurance Company", or "Assurance Company":
+
+                  None specified, unless any amount payable to Party B under
+                  this Agreement is to be paid to an account outside the United
+                  States, in which case the tax form to be delivered by Party B
+                  shall be a correct, complete and duly executed U.S. Internal
+                  Revenue Service Form W-9 (or successor thereto) that
+                  eliminates U.S. federal backup withholding tax on payments to
+                  Party B under this Agreement.
+
+                  (B) In all other cases:
+
+            A correct, complete and duly executed U.S. Internal Revenue Service
+            Form W-9 (or successor thereto) that eliminates U.S. federal backup
+            withholding tax on payments to Party B under this Agreement.
+
+(b)   Delivery of Documents. When it delivers this Agreement, each party shall
+      also deliver its Closing Documents to the other party in form and
+      substance reasonably satisfactory to the other party. For each
+      Transaction, a party shall deliver, promptly upon request, a duly executed
+      incumbency certificate for the person(s) executing the Confirmation for
+      that Transaction on behalf of that party.
+
+      (i) For Party A, "Closing Documents" means (A) a copy, certified by the
+      secretary or assistant secretary of Party A, of the resolutions of Party
+      A's board of directors authorizing the execution, delivery and performance
+      by Party A of this Agreement and authorizing Party A to enter into
+
+
+<PAGE>
+
+      Transactions hereunder and (B) a duly executed certificate of the
+      secretary or assistant secretary of Party A certifying the name, true
+      signature and authority of each person authorized to execute this
+      Agreement and enter into Transactions for Party A.
+
+      (ii) For each Party B that is a corporation, "Closing Documents" means an
+      opinion of counsel covering Party B's Basic Representations under Section
+      3(a) as they relate to this Agreement, or in lieu thereof, (A) a copy,
+      certified by the secretary or assistant secretary of Party B, of the
+      resolutions of Party B's board of directors authorizing the execution,
+      delivery and performance by Party B of this Agreement and authorizing
+      Party B to enter into Transactions hereunder and (B) a duly executed
+      certificate of the secretary or assistant secretary of Party B certifying
+      the name, true signature and authority of each person authorized to
+      execute this Agreement and enter into Transactions for Party B; and
+
+      (iii) For each Party B that is a limited liability company, "Closing
+      Documents" means an opinion of counsel covering Party B's Basic
+      Representations under Section 3(a) as they relate to this Agreement, or in
+      lieu thereof, (A) a copy of Party B's organizational documents, including
+      its operating agreement and any articles or certificate of registration or
+      incorporation, and any amendments thereto, (B) a certified copy of the
+      resolutions of Party B duly adopted by or on behalf of the members of
+      Party B (and separate resolutions of the board of directors of each of
+      Party B's members that is a corporate entity) authorizing the execution,
+      delivery and performance by Party B of this Agreement and authorizing
+      Party B to enter into Transactions hereunder, and (C) a duly executed
+      incumbency certificate of Party B certifying the name, true signature and
+      authority of each person authorized to execute this Agreement and enter
+      into Transactions for Party B, together with, if this Agreement or any
+      Transaction for Party B is being executed through any of Party B's members
+      or its manager that is a corporate entity, an incumbency certificate of
+      each such member or manager certifying the name, true signature and
+      authority of each such person.
+
+Part 4. Miscellaneous
+
+(a)   Addresses for Notices. For purposes of Section 12(a) of this Agreement,
+      all notices to a party shall, with respect to any particular Transaction,
+      be sent to its address, telex number or facsimile number specified in the
+      relevant Confirmation (or as specified below if not specified in the
+      relevant Confirmation), provided that any notice under Section 5 or 6 of
+      this Agreement, and any notice under this Agreement not related to a
+      particular Transaction, shall be sent to a party at its address specified
+      below.
+
+      To Party A:
+
+      WACHOVIA BANK, NATIONAL ASSOCIATION
+
+      301 South College, DC-8
+      Charlotte, NC 28202-0600
+
+      Attention: Bruce M. Young
+      Senior Vice President, Risk Management
+
+      Fax: (704) 383-0575
+      Phone: (704) 383-8778
+
+
+
+<PAGE>
+
+      To Party B:
+
+      PHOENIX COLOR CORP., PCC EXPRESS, INC.,
+      TECHNIGRAPHIX, INC., PHOENIX (MD)
+      REALTY, LLC and PHOENIX COLOR FULFILLMENT, INC.
+      540 Western Maryland Parkway
+      Hagerstown, MD  21740
+
+      Attention: Edward Lieberman
+
+      Fax: 301-791-9560
+      Phone: 301-733-0018
+
+      With a copy to:
+
+      Piper Rudnick LLP
+      6225 Smith Ave.
+      Baltimore, MD  21209
+
+      Attn: Earl S. Wellschlager, Esq.
+
+      Fax:  410-580-3780
+      Phone:  410-580-4280
+
+(b)   Process Agent. For the purpose of Section 13(c) of this Agreement, neither
+      party appoints a Process Agent hereunder.
+
+(c)   Offices. Section 10(a) applies.
+
+(d)   Multibranch Party.
+
+      (i) Party A is a Multibranch Party and may act through the following
+      Offices: its Charlotte Head Office and its London Branch.
+
+      (ii) Party B is not a Multibranch Party.
+
+(e)   "Calculation Agent" means Party A; whenever Party A acts as Calculation
+      Agent, it shall do so in a good faith and commercially reasonable manner.
+
+(f)   "Credit Support Document" means each document which by its terms secures,
+      guarantees or otherwise supports Party B's obligations hereunder from time
+      to time, whether or not this Agreement, any Transaction, or any type of
+      Transaction entered into hereunder is specifically referenced or described
+      in any such document.
+
+      "Credit Support Default" is amended by adding at the end of Section
+      5(a)(iii)(1):
+
+      ", any default, event of default or other similar condition or event
+      (however described) exists under any Credit Support Document, any action
+      is taken to realize upon any collateral provided to secure such party's
+      obligations hereunder or under any Transaction, or the other party fails
+      at any time to have a valid and perfected first priority security interest
+      in any such collateral;"
+
+
+<PAGE>
+
+(g)   "Credit Support Provider" means each party to a Credit Support Document
+      that provides or is obligated to provide security, a guaranty or other
+      credit support for Party B's obligations hereunder.
+
+(h)   Governing Law. This Agreement will be governed by and construed in
+      accordance with the law (and not the law of conflicts) of the State of New
+      York.
+
+(i)   Waiver of Jury Trial. To the extent permitted by applicable law, each
+      party irrevocably waives any and all right to trial by jury in any legal
+      proceeding in connection with this Agreement, any Credit Support Document
+      to which it is a party, or any Transaction.
+
+(j)   Netting of Payments. If payments are due by each party on the same day
+      under two or more Transactions, then Section 2(c)(ii) will not apply to
+      those payments if a party gives notice to the relevant Office(s) of the
+      other party on or before the second New York Business Day before that
+      payment date stating that those payments will be netted or, if given by
+      the Calculation Agent, stating the net amount due.
+
+(k)   "Affiliate" has its meaning as defined in Section 14.
+
+Part 5. Other Provisions
+
+(a)   ISDA Publications.
+
+      (i) 2000 ISDA Definitions. This Agreement and each Transaction are subject
+      to the 2000 ISDA Definitions (including its Annex) published by the
+      International Swaps and Derivatives Association, Inc. (together, the "2000
+      ISDA Definitions") and will be governed by the provisions of the 2000 ISDA
+      Definitions. The provisions of the 2000 ISDA Definitions are incorporated
+      by reference in, and shall form part of, this Agreement and each
+      Confirmation. Any reference to a "Swap Transaction" in the 2000 ISDA
+      Definitions is deemed to be a reference to a "Transaction" for purposes of
+      this Agreement or any Confirmation, and any reference to a "Transaction"
+      in this Agreement or any Confirmation is deemed to be a reference to a
+      "Swap Transaction" for purposes of the 2000 ISDA Definitions. The
+      provisions of this Agreement (exclusive of the 2000 ISDA Definitions)
+      shall prevail in the event of any conflict between such provisions and the
+      2000 ISDA Definitions.
+
+      (ii) EMU Protocol. The definitions and provisions of Annexes 1 through 5
+      (inclusive) and Section 6 of the EMU Protocol published on May 6, 1998 by
+      the International Swaps and Derivatives Association, Inc. are hereby
+      incorporated by reference in, and shall form part of, this Agreement.
+      References in those definitions and provisions to "ISDA Master Agreement"
+      will be deemed references to this Agreement.
+
+      (iii) ISDA Bridge Provisions. Each of the ISDA/BBAIRS Bridge and the
+      ISDA/FRABBA Bridge published by the International Swaps and Derivatives
+      Association, Inc. is hereby incorporated by reference.
+
+(b)   Scope of Agreement. Any Specified Transaction now existing or hereafter
+      entered into between the parties (whether or not evidenced by a
+      Confirmation) shall constitute a "Transaction" under this Agreement and
+      shall be subject to, governed by, and construed in accordance with the
+      terms of this Agreement, unless the confirming document(s) for that
+      Specified Transaction provide(s)
+
+
+<PAGE>
+
+      otherwise. For any such Specified Transaction not evidenced by a
+      Confirmation, Section 2(a)(i) of this Agreement is amended to read as
+      follows: "(i) Each party will make each payment or delivery to be made by
+      it under each Transaction, as specified in each Confirmation (or otherwise
+      in accordance with the terms of that Transaction if not evidenced by a
+      Confirmation), subject to the other provisions of this Agreement."
+
+(c)   Additional Representations. Section 3 is amended by adding the following
+      Sections 3(g), (h), (i) and (j):
+
+      "(g) Non-Reliance. For any Relevant Agreement: (i) it acts as principal
+      and not as agent, (ii) it acknowledges that the other party acts only at
+      arm's length and is not its agent, broker, advisor or fiduciary in any
+      respect, and any agency, brokerage, advisory or fiduciary services that
+      the other party (or any of its affiliates) may otherwise provide to the
+      party (or to any of its affiliates) excludes the Relevant Agreement, (iii)
+      it is relying solely upon its own evaluation of the Relevant Agreement
+      (including the present and future results, consequences, risks, and
+      benefits thereof, whether financial, accounting, tax, legal, or otherwise)
+      and upon advice from its own professional advisors, (iv) it understands
+      the Relevant Agreement and those risks, has determined they are
+      appropriate for it, and willingly assumes those risks, and (v) it has not
+      relied and will not be relying upon any evaluation or advice (including
+      any recommendation, opinion, or representation) from the other party, its
+      affiliates or the representatives or advisors of the other party or its
+      affiliates (except representations expressly made in the Relevant
+      Agreement or an opinion of counsel required thereunder).
+
+      "Relevant Agreement" means this Agreement, each Transaction, each
+      Confirmation, any Credit Support Document, and any agreement (including
+      any amendment, modification, transfer or early termination) between the
+      parties relating to any of the foregoing.
+
+      (h) Eligibility. It is an "eligible contract participant" within the
+      meaning of the Commodity Exchange Act (as amended by the Commodity Futures
+      Modernization Act of 2000).
+
+      (i) FDIC Requirements. If it is a bank subject to the requirements of 12
+      U.S.C. ss. 1823(e), its execution, delivery and performance of this
+      Agreement (including the Credit Support Annex and each Confirmation) have
+      been approved by its board of directors or its loan committee, such
+      approval is reflected in the minutes of said board of directors or loan
+      committee, and this Agreement (including the Credit Support Annex and each
+      Confirmation) will be maintained as one of its official records
+      continuously from the time of its execution (or in the case of any
+      Confirmation, continuously until such time as the relevant Transaction
+      matures and the obligations therefor are satisfied in full).
+
+      (j) ERISA. It is not (i) an employee benefit plan as defined in Section
+      3(3) of the Employee Retirement Income Security Act of 1974, as amended
+      ("ERISA"), or a plan as defined in Section 4975(e)(1) of the Internal
+      Revenue Code of 1986, as amended (the "Code"), subject to Title I of ERISA
+      or Section 4975 of the Code, or a plan as so defined but which is not
+      subject to Title I of ERISA or Section 4975 of the Code but is subject to
+      another law materially similar to Title I of ERISA or Section 4975 of the
+      Code (each of which, an "ERISA Plan"), (ii) a person or entity acting on
+      behalf of an ERISA Plan, or (iii) a person or entity the assets of which
+      constitute assets of an ERISA Plan."
+
+
+<PAGE>
+
+(d)   Set-off. Any amount ("Early Termination Amount") payable to one party
+      ("Payee") by the other party ("Payer") under Section 6(e), in
+      circumstances where there is a Defaulting Party or one Affected Party in
+      the case where a Termination Event under Section 5(b)(iv) has occurred,
+      will, at the option of the party ("X") other than the Defaulting Party or
+      the Affected Party (and without prior notice to the Defaulting Party or
+      the Affected Party), be reduced by means of set off against any amount(s)
+      ("Other Agreement Amount") payable (whether at such time or in the future
+      or upon the occurrence of a contingency) by the Payee to the Payer or to
+      any Affiliate of the Payer (irrespective of the currency, place of payment
+      or booking office of the obligation) under any other agreement(s) between
+      the Payee and the Payer (or between the Payee and any Affiliate of the
+      Payer) or instrument(s) or undertaking(s) issued or executed by the Payee
+      to, or in the favor of, the Payer or any Affiliate of the Payer (and the
+      Other Agreement Amount will be discharged promptly and in all respects to
+      the extent it is so set-off). X will give notice to the other party of any
+      set-off effected under this paragraph.
+
+      For this purpose, either the Early Termination Amount or the Other
+      Agreement Amount (or the relevant portion of such amounts) may be
+      converted by X into the currency in which the other is denominated at the
+      rate of exchange at which such party would be able, acting in a reasonable
+      manner and in good faith, to purchase the relevant amount of such
+      currency. The term "rate of exchange" includes, without limitation, any
+      premiums and costs of exchange payable in connection with the purchase of
+      or conversion into the relevant currency.
+
+      Nothing in this paragraph shall be effective to create a charge or other
+      security interest. This paragraph shall be without prejudice and in
+      addition to any right of set-off, combination of accounts, lien or other
+      right to which any party is at any time otherwise entitled (whether by
+      operation of law, contract or otherwise).
+
+(e)   Escrow. If payments denominated in different currencies are due hereunder
+      by both parties on the same day and a party has reasonable cause to
+      believe that the other party will not meet its payment obligation, then as
+      reasonable assurance of performance the party may notify the other party
+      that payments on that date are to be made in escrow. In this case, deposit
+      of the payment due earlier on that date shall be made by 2.00 p.m. (local
+      time at the place for the earlier payment) on that date with any escrow
+      agent selected by the party giving the notice from among major commercial
+      banks independent of either party (and its affiliates), accompanied by
+      irrevocable payment instructions (i) to release the deposited payment to
+      the intended recipient upon receipt by the escrow agent of the required
+      deposit of the corresponding payment from the other party on the same date
+      accompanied by irrevocable payment instructions to the same effect or (ii)
+      if the required deposit of the corresponding payment is not made on the
+      same date, to return the payment deposited to the party that paid in
+      escrow. The party that elects to have payments made in escrow shall pay
+      the costs of the escrow arrangements and shall make arrangements to
+      provide that the intended recipient of the amount due to be deposited
+      first shall be entitled to interest on the deposited payment for each day
+      in the period of its deposit at the rate offered by the escrow agent for
+      that day for overnight deposits in the relevant currency in the office
+      where it holds that deposited payment (at 11.00 a.m. local time on that
+      day) if that payment is not released by 5.00 p.m. local time on the date
+      it is deposited for any reason other than the intended recipient's failure
+      to make the escrow deposit it is required to make hereunder in a timely
+      fashion.
+
+(f)   Change of Account or Office.
+
+
+<PAGE>
+
+      (i) Any account designated by a party pursuant to Section 2(b) shall be in
+      the same legal and tax jurisdiction as the original account.
+
+      (ii) As provided in Section 10(b) and 10(c) of this Agreement, if a party
+      is specified as a Multibranch Party in the Schedule, then the Office
+      through which it will make and receive payments or deliveries under a
+      Transaction must be specified in the Confirmation for that Transaction,
+      and that Office cannot be changed without the other party's prior written
+      consent. If any Confirmation for a Transaction is sent or executed by a
+      party without specifying its Office, it will be presumed that such party's
+      Office for that Transaction is its head or home Office.
+
+(g)   Recorded Conversations. Each party and any of its Affiliates may
+      electronically record any of its telephone conversations with the other
+      party or with any of the other party's Affiliates in connection with this
+      Agreement or any Transaction, and any such recordings may be submitted in
+      evidence in any proceeding to establish any matters pertinent to this
+      Agreement or any Transaction.
+
+(h)   Confirmation Procedures. Upon receipt thereof, Party B shall examine the
+      terms of each Confirmation sent by Party A, and unless Party B objects to
+      the terms within three New York business days after receipt of that
+      Confirmation, those terms shall be deemed accepted and correct absent
+      manifest error, in which case that Confirmation will be sufficient to form
+      a binding supplement to this Agreement notwithstanding Section 9(e)(ii) of
+      this Agreement.
+
+(i)   Covenants of Financial Agreements.
+
+      (i) Party B shall provide Party A at all times hereunder with the same
+      covenant protection as Party A requires of Party B under Financial
+      Agreements. Therefore, in addition to the Cross Default provisions of this
+      Agreement, and notwithstanding the satisfaction of any obligation or
+      promise to pay money to Party A under any Financial Agreement, or the
+      termination or cancellation of any Financial Agreement, Party B hereby
+      agrees to perform, comply with and observe for the benefit of Party A
+      hereunder all affirmative and negative covenants contained in each
+      Financial Agreement applicable to Party B (excluding any obligation or
+      promise to pay money under any Financial Agreement) at any time Party B
+      has any obligation (whether absolute or contingent) under this Agreement.
+
+      (ii) For purposes hereof: (A) the affirmative and negative covenants of
+      each Financial Agreement applicable to Party B (together with related
+      definitions and ancillary provisions, but in any event excluding any
+      obligation or promise to pay money under any Financial Agreement) are
+      incorporated (and upon execution of any future Financial Agreement, shall
+      automatically be incorporated) by reference herein (mutatis mutandis); (B)
+      if other lenders or creditors are parties to any Financial Agreement, then
+      references therein to the lenders or creditors shall be deemed references
+      to Party A; and (C) for any such covenant applying only when any loan,
+      other extension of credit, obligation or commitment under the Financial
+      Agreement is outstanding, that covenant shall be deemed to apply hereunder
+      at any time Party B has any obligation (whether absolute or contingent)
+      under this Agreement.
+
+      (iii) Notwithstanding the foregoing, if the incorporation of any provision
+      by reference from any Financial Agreement would result in the violation by
+      Party B of the terms of that Financial Agreement, or be in violation of
+      any law, rule or regulation (as interpreted by any court of competent
+      jurisdiction), then this Agreement shall not incorporate that provision.
+
+
+<PAGE>
+
+      "Financial Agreement" means each existing or future agreement or
+      instrument relating to any loan or extension of credit from Party A to
+      Party B (whether or not anyone else is a party thereto), as the same
+      exists when executed and without regard to any termination or cancellation
+      thereof or Party A ceasing to be a party thereto (whether as a result of
+      repayment thereof or otherwise).
+
+(j)   Joint Party. If more than one entity or natural person is executing this
+      Agreement as Party B, then (i) the obligations of Party B under this
+      Agreement and under each Transaction shall be the joint and several
+      obligations of each such entity or natural person, (ii) any Event of
+      Default or Potential Event of Default occurring with respect to any such
+      entity or natural person shall be an Event of Default or Potential Event
+      of Default, respectively, with respect to Party B, (iii) the death,
+      release or discharge, in whole or in part, of any such entity or natural
+      person, or the occurrence of any bankruptcy, liquidation, dissolution or
+      any other event described in Section 5(a)(vii) with respect to any such
+      entity or natural person, shall not discharge or affect the liabilities of
+      any other such entity or natural person; (iv) unless the context otherwise
+      requires, each reference in this Agreement or in any Confirmation to
+      "party" shall, as applied to Party B, be construed as a joint and several
+      reference to each such entity or natural person; and (v) any person or
+      entity receiving notices given to Party B at the address shown above shall
+      be deemed to receive such notices on behalf of each such entity or person.
+
+Part 6. Additional Terms for FX Transactions and Currency Options
+
+(a)   ISDA FX and Currency Option Definitions. The 1998 FX and Currency Option
+      Definitions published by the International Swaps and Derivatives
+      Association, Inc., the Emerging Markets Traders Association and The
+      Foreign Exchange Committee (the "1998 FX and Currency Option Definitions")
+      are hereby incorporated by reference in, and shall form part of, this
+      Agreement and each Confirmation relating to any "Currency Option
+      Transaction" or "FX Transaction" as defined in the FX and Currency Option
+      Definitions, except as otherwise specifically provided herein or in the
+      relevant Confirmation.
+
+(b)   FX Transactions.
+
+      Netting of FX Transactions. Section 2(c) shall not apply to FX
+      Transactions. Instead, the following provision will apply to FX
+      Transactions:
+
+      If amounts in the same currency would be due by both parties in respect of
+      the same Settlement Date (or other payment or delivery date) under two or
+      more FX Transactions between the same pair of Offices of the parties
+      (assuming satisfaction of each condition precedent), then the obligations
+      of the parties for those amounts will be discharged automatically, and if
+      one party's obligation in that currency would have been greater, replaced
+      by an obligation of that party to pay or deliver the amount of that
+      difference to the other party on that Settlement Date or date.
+
+(c)   Currency Option Transactions.
+
+      (i) Currency Option Transaction Premiums. If any Premium of a Currency
+      Option Transaction is not received on the Premium Payment Date, then the
+      Seller may elect to either (A) accept late payment of that Premium, or (B)
+      give written notice of that nonpayment and, if that payment is not
+      received within three Local Business Days of that notice, either (1) treat
+      the related Currency Option Transaction as void, or (2) treat that
+      non-payment as an Event of Default under Section 5(a)(i) of this
+      Agreement. If the Seller elects to act under clause (A) or (B)(1) of the
+      preceding sentence, then the Buyer shall pay on demand all out-of-pocket
+      costs and actual
+
+
+<PAGE>
+
+      damages incurred by the Seller in connection with that unpaid or late
+      Premium or void Currency Option Transaction, including, without
+      limitation, interest on that Premium in the same currency as that Premium
+      at the Default Rate and any other costs or expenses incurred by the Seller
+      to compensate it for its loss of bargain, cost of funding or loss incurred
+      as a result of terminating, liquidating, obtaining or re-establishing a
+      delta hedge or other related trading position with respect to that
+      Currency Option Transaction.
+
+      (ii) Netting of Currency Option Transactions. Section 2(c) of this
+      Agreement shall not apply to Currency Option Transactions. Instead, the
+      following provisions will apply to Currency Option Transactions:
+
+            (A) If Premiums in the same currency would be due by both parties in
+            respect of the same Premium Payment Date under two or more Currency
+            Option Transactions between the same pair of Offices of the parties
+            (assuming satisfaction of each condition precedent), then the
+            obligations of the parties for those Premiums will be discharged
+            automatically, and if one party's obligation in that currency would
+            have been greater, replaced by an obligation of that party to pay or
+            deliver the amount of that difference to the other party.
+
+            (B) If amounts in the same currency (other than Premiums) would be
+            due by both parties in respect of the same Settlement Date (or other
+            payment or delivery date) under two or more Currency Option
+            Transactions between the same pair of Offices of the parties
+            (assuming satisfaction of each condition precedent), then the
+            obligations of the parties for those amounts will be discharged
+            automatically, and if one party's obligation in that currency would
+            have been greater, replaced by an obligation of that party to pay or
+            deliver the amount of that difference to the other party on that
+            Settlement Date or date.
+
+            (C) For matching Currency Option Transactions, any unexercised Call
+            or Put written by a party will automatically be terminated and
+            discharged, in whole or in part, as applicable, against any
+            unexercised Call or Put, respectively, written by the other party
+            upon the payment in full of both Currency Option Transaction
+            Premiums. Currency Option Transactions are "matching" only if both
+            (i) are granted for the same Put Currency, Call Currency, Expiration
+            Date, Expiration Time, and Strike Price, (ii) have the same exercise
+            style (e.g., American, European or Asian), and (iii) are entered
+            into by the same pair of Offices of the parties. For any partial
+            termination and discharge (where the Currency Option Transactions
+            are for different amounts of the Currency Pair), the remaining
+            portion of the Currency Option Transaction shall continue to be a
+            Currency Option Transaction under this Agreement.
+
+(d)   Payments on Early Termination. For purposes of Section 6(e), if "Market
+      Quotation" is specified in this Schedule as applying, it shall not apply
+      in the case of FX Transactions and Currency Option Transactions, for which
+      "Loss" shall apply instead.
+
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties have executed this Schedule by their duly
+authorized signatories as of the date hereof.
+
+                                WACHOVIA BANK, NATIONAL ASSOCIATION
+
+
+                                By: /s/ Matthew Magidson
+                                    --------------------------------------------
+                                Name:  Matt Magidson
+                                Title:  Vice President, Fixed Income Division
+
+
+                                PHOENIX COLOR CORP.
+
+
+                                By: /s/ Edward Lieberman
+                                    ---------------------------
+                                Name:  Edward Lieberman
+                                Title: Chief Financial Officer
+
+
+                                PCC EXPRESS, INC.
+
+
+                                By: /s/ Edward Lieberman
+                                    ---------------------------
+                                Name:  Edward Lieberman
+                                Title: Chief Financial Officer
+
+
+                                TECHNIGRAPHIX, INC.
+
+
+                                By: /s/ Edward Lieberman
+                                    ---------------------------
+                                Name: Edward Lieberman
+                                Title:  Chief Financial Officer
+
+
+                                PHOENIX (MD) REALTY, LLC
+
+
+                                By: /s/ Edward Lieberman
+                                    ---------------------------
+                                Name: Edward Lieberman
+                                Title: Chief Financial Officer
+
+
+                                PHOENIX COLOR
+                                FULFILLMENT, INC.
+
+
+                                By: /s/ Edward Lieberman
+                                    ---------------------------
+                                Name: Edward Lieberman
+                                Title: Chief Financial Officer
+
+</TEXT>
+</DOCUMENT>

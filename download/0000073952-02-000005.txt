@@ -1,0 +1,1483 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>exh10k.txt
+<DESCRIPTION>OHIO CASUALTY CORP EXH 10.K TO FORM 10-K 12/31/2001
+<TEXT>
+<PAGE>
+								Exhibit 10.k
+
+
+==============================================================================
+
+		       REPLACEMENT CARRIER AGREEMENT
+
+				   Among
+
+		     OHIO CASUALTY OF NEW JERSEY, INC.
+
+				    And
+
+		       PROFORMANCE INSURANCE COMPANY
+		      NATIONAL ATLANTIC HOLDINGS CORP.
+
+
+
+
+		       Dated: December 18, 2001
+
+==============================================================================
+
+<PAGE>
+
+			     TABLE OF CONTENTS
+			     -----------------
+
+     Title                                                               Page
+     -----                                                               ----
+1.   Definitions........................................................   1
+     1.1   Block of Business............................................   1
+     1.2   Business.....................................................   1
+     1.3   Closing......................................................   1
+     1.4   Closing Date.................................................   1
+     1.5   Nonrenewal Date..............................................   1
+     1.6   Nonrenewal Period............................................   1
+     1.7   OCIC.........................................................   2
+     1.8   Prior Business...............................................   2
+     1.9   Renewed Business.............................................   2
+     1.10  Specified Period.............................................   2
+     1.11  UEZ..........................................................   2
+
+2.   Renewal of OCNJ's Business by PIC..................................   2
+
+3.   Consideration......................................................   4
+     3.1   Payments by OCNJ.............................................   4
+     3.2   Certain Potential Additional Payments by OCNJ and
+	   Dividend Restrictions on PIC.................................   4
+     3.3   Termination of Funding Obligations...........................   5
+
+4.   Closing............................................................   5
+
+5.   Closing Deliveries.................................................   5
+     5.1   Closing Deliveries by OCNJ...................................   5
+     5.2   Closing Deliveries by PIC and NAHC...........................   6
+     5.3   Form and Substance of Documents..............................   6
+
+6.   Representations and Warranties by OCNJ.............................   6
+     6.1   Corporate Organization.......................................   6
+     6.2   Authorization; Enforceability................................   6
+     6.3   No Violation.................................................   6
+     6.4   Litigation...................................................   7
+     6.5   Brokers......................................................   7
+     6.6   Disclosure...................................................   7
+
+7.   Representations and Warranties by PIC and NAHC.....................   7
+     7.1   Corporate Organization.......................................   7
+     7.2   Authorization; Enforceability................................   7
+     7.3   No Violation.................................................   8
+     7.4   Litigation...................................................   8
+     7.5   Brokers......................................................   8
+
+				     i
+<PAGE>
+
+     7.6   Financial Statements.........................................   8
+     7.7   Reinsurance Matters..........................................   9
+     7.8   Disclosure...................................................   9
+
+8.   Covenants of OCNJ..................................................   9
+     8.1   Access, Information, Documents, Data and Information
+	   Services.....................................................   9
+     8.2   Consents and Approvals.......................................  10
+     8.3   Confidential Information.....................................  10
+
+9.   Covenants of PIC and NAHC..........................................  10
+     9.1   No Dividends.................................................  10
+     9.2   Withdrawal Plan..............................................  10
+     9.3   Confidential Information.....................................  11
+     9.4   Consents and Approvals.......................................  11
+     9.5   Reinsurance and Related Matters..............................  11
+     9.6   Financial Statements.........................................  12
+     9.7   Annual Data..................................................  12
+     9.8   Investment Policy............................................  12
+     9.9   Use of Proceeds..............................................  12
+     9.10  Access, Information and Documents............................  12
+
+10.  Conditions Precedent to Obligations of OCNJ........................  13
+     10.1  Performance of PIC and NAHC..................................  13
+     10.2  Regulatory Consents and Approvals............................  13
+     10.3  Requirements Imposed by Regulatory Authorities...............  13
+     10.4  Withdrawal...................................................  13
+     10.5  Due Diligence................................................  13
+     10.6  Third Party Consents.........................................  14
+     10.7  Board of Directors...........................................  14
+     10.8  Fairness Opinion.............................................  14
+     10.9  Employee Transition Agreement................................  14
+     10.10 Subscription Agreement.......................................  14
+     10.11 Non-Competition Agreement....................................  14
+
+11.  Conditions Precedent to Obligations of PIC and NAHC................  14
+     11.1  Performance of OCNJ..........................................  14
+     11.2  Regulatory Consents and Approvals............................  14
+     11.3  Requirements Imposed by Regulatory Authorities...............  15
+     11.4  Due Diligence................................................  15
+     11.5  Third Party Consents.........................................  15
+     11.6  Board of Directors...........................................  15
+     11.7  Employee Transition Agreement................................  15
+     11.8  Subscription Agreement.......................................  15
+     11.9  Non-Competition Agreement....................................  15
+
+12.  Termination........................................................  15
+
+				     ii
+<PAGE>
+
+     12.1  Termination Events...........................................  15
+     12.2  Effect of Termination........................................  16
+
+13.  Survival of Representations and Warranties; Indemnification........  16
+     13.1  Survival of Representations and Warranties...................  16
+     13.2  Indemnification Obligations of OCNJ..........................  16
+     13.3  Indemnification Obligations of PIC and NAHC..................  16
+     13.4  Procedure for Indemnification Claims.........................  17
+     13.5  Right of Set-Off.............................................  19
+
+14.  Disclosures........................................................  19
+
+15.  Names..............................................................  19
+
+16.  Miscellaneous......................................................  19
+     16.1  Assurance of Further Action..................................  19
+     16.2  Expenses.....................................................  19
+     16.3  Waiver.......................................................  19
+     16.4  Notices......................................................  20
+     16.5  Entire Agreement.............................................  21
+     16.6  Rights Under this Agreement; Nonassignability................  21
+     16.7  Governing Law................................................  21
+     16.8  Headings: References to Sections, Exhibits and Schedules.....  21
+     16.9  Counterparts.................................................  21
+
+LIST OF EXHIBITS AND SCHEDULES..........................................  23
+
+				    iii
+<PAGE>
+
+			REPLACEMENT CARRIER AGREEMENT
+			-----------------------------
+
+     THIS REPLACEMENT CARRIER AGREEMENT (this "Agreement") is entered into
+this 18th day of December, 2001, among Ohio Casualty of New Jersey,
+Inc., an Ohio domestic property and casualty insurance company ("OCNJ"),
+Proformance Insurance Company, a New Jersey domestic property and casualty
+insurance company ("PIC"), and National Atlantic Holdings Corp., a New
+Jersey corporation ("NAHC");
+
+				 WITNESSETH
+				 ----------
+     WHEREAS, the parties desire to enter into a replacement carrier
+agreement pursuant to which OCNJ will transfer to PIC the obligations of OCNJ
+to offer renewals for all (100%) of the Business (as defined herein) as of
+the Nonrenewal Date (as defined herein) together with consideration and fees
+set forth herein;
+
+     NOW, THEREFORE, the parties hereto agree as follows:
+
+     1.   Definitions.  The following terms shall have the respective meanings
+	  -----------
+set forth below throughout this Agreement:
+
+	  1.1  "Block of Business" shall mean (a) all private passenger
+automobile business as included in the NAIC Annual Statement private passenger
+automobile liability and physical damage lines issued by PIC on or after the
+Closing Date which was produced by OCNJ Agents who are not appointed by PIC
+as of the Closing Date, (b) all Business which is renewed with PIC after the
+Closing Date which was produced by OCNJ Agents who were appointed by PIC prior
+to the Closing Date, and (c) all Business which is renewed with PIC after the
+Closing Date which was produced by Active Cancelled Agents or nonresident OCNJ
+agents who are  appointed by PIC, regardless of when appointed by PIC.
+
+	   1.2  "Business" shall mean OCNJ's private passenger automobile
+business, including assigned risk, UEZ and any associated personal umbrella
+endorsements thereto, written in the State of New Jersey.
+
+	   1.3   "Closing" shall mean the closing of the transactions
+contemplated by this Agreement.
+
+	   1.4   "Closing Date" shall mean the latter of November 1, 2001 or
+the date on which all conditions to the obligations of the parties to close
+the transactions provided for in Sections 10 and 11 have been satisfied.
+
+	   1.5   "Nonrenewal Date" shall mean the effective date set forth in
+the initial notice of nonrenewal of the Business, which shall be on or about
+60 days after the Closing Date.
+
+	   1.6   "Nonrenewal Period" shall mean the one year period
+commencing on the Nonrenewal Date and ending on the first anniversary of the
+Nonrenewal Date.
+
+
+<PAGE>
+	    1.7  "OCIC" shall mean The Ohio Casualty Insurance Company, an
+Ohio domestic property and casualty insurance company, which is the parent
+corporation of OCNJ.
+
+	    1.8  "Prior Business" shall mean the Business issued on or prior
+to the Nonrenewal Date and all endorsements issued by OCNJ on such Business
+prior to and during the Nonrenewal Period.
+
+	    1.9  "Renewed Business" shall mean (a) the Business renewed or
+required to be renewed by PIC under this Agreement, and (b) any assignments
+from the PAIP (as defined in Section 2.1 below) after the Nonrenewal Date.
+
+	    1.10 "Specified Period" shall mean the period beginning on the
+Nonrenewal Date and ending on December 31 of the second calendar year
+following the calendar year in which the Nonrenewal Date occurs.
+
+	    1.11 "UEZ" shall mean urban enterprise zone policies issued as
+required by N.J.S.A. 17:33C-2, as implemented by N.J.A.C. 11:3-46.1 et seq.
+								    ------
+
+     2.   Renewal of OCNJ's Business by PIC.  Upon the terms and conditions
+	  ---------------------------------
+of this Agreement:
+	  2.1  On the Closing Date, OCNJ shall cease issuing new private
+passenger automobile policies, including UEZ policies, and any associated
+personal umbrella endorsements thereon in New Jersey, and OCNJ shall not
+resume issuing new private passenger automobile policies in New Jersey until
+at least five (5) years after the Closing Date.  However, after the Closing
+Date and during the Nonrenewal Period, OCNJ shall continue to issue
+endorsements in the ordinary course on the Business which has not yet been
+nonrenewed.  Additionally, OCNJ shall continue to issue assigned risk policies
+distributed to OCNJ by the Governing Committee of the New Jersey Personal
+Automobile Insurance Plan ("PAIP") pursuant to N.J.A.C. 11:3-2.11 and the
+PAIP Plan of Operation until the Nonrenewal Date, at which time PIC shall
+assume all obligations for all OCNJ assignments from the PAIP on or after the
+Nonrenewal Date.
+
+	  2.2  As of the Nonrenewal Date, OCNJ shall cease renewing the
+Business in the State of New Jersey.
+
+	  2.3  Within thirty (30) days after the date on which the last
+nonrenewal notice has been given by OCNJ and the last policy included within
+the Business has expired, an appropriate officer or other representative of
+OCNJ shall give notice to the New Jersey Department of Banking and Insurance
+(the "DOBI") of such nonrenewal and expiration in order that the DOBI can
+withdraw OCNJ's rating system.
+
+	  2.4  From and after the Nonrenewal Date, PIC shall be the
+replacement carrier of OCNJ for the Business within the meaning of NJAC
+11:2-29.5, and PIC shall have the obligation to offer to renew the Business.
+PIC shall comply with all requirements as stipulated in the order issued by
+the DOBI (the "DOBI Order") approving the transactions contemplated by this
+Agreement.  OCNJ shall comply with all requirements as stipulated in the DOBI
+Order.
+				     2
+<PAGE>
+
+	  2.5  The parties shall jointly send to each policyholder of OCNJ
+written notices of nonrenewal substantially in the form of Exhibit 2.5A
+hereto, along with notices that offer a guaranteed option to renew their
+policies with PIC in the form of Exhibit 2.5B.  All of such notices shall be
+approved by the DOBI and the parties prior to mailing.
+
+	  2.6  OCNJ shall retain all rights and obligations related to the
+Prior Business, including but not limited to all unpaid claims (whether
+reported or unreported) and all unearned premium reserves.  Neither PIC nor
+NAHC shall assume any debts, liabilities or obligations of OCNJ or its
+affiliates with respect to the Prior Business (other than the renewal, UEZ
+and assigned risk obligations referred to herein), and all such debts,
+liabilities and obligations shall be and remain the responsibility of OCNJ or
+its affiliates, as the case may be.
+
+	  2.7  Except only as specifically set forth in Section 2.6 of this
+Agreement, PIC shall be solely responsible for all rights and obligations
+related to the Renewed Business.  OCNJ shall not assume any debts,
+liabilities or obligations of PIC, NAHC or any of its or their respective
+affiliates, and all debts, liabilities and obligations shall be and remain
+the responsibility of PIC, NAHC and its or their respective affiliates, as
+the case may be.  The sole and exclusive monetary obligation of OCNJ arising
+out of this Agreement and the transactions contemplated by this Agreement
+shall be the consideration and fees to be paid by OCNJ to PIC and NAHC under
+Sections 3 and 16.2 hereof.  Without limiting the generality of the foregoing,
+OCNJ shall have no duties or liabilities whatsoever with respect to any
+policyholders of PIC (and/or any claimants of such policyholders) regarding
+the Renewed Business, and nothing contained in this Agreement shall create or
+be deemed to create any third party beneficiary or other or similar rights in
+any such policyholders and/or claimants against OCNJ.
+
+	  2.8  PIC shall renew the Business on a basis by which PIC will not
+interfere with any of the expiration rights of the current agents of OCNJ.
+PIC will offer to appoint all of OCNJ's active resident agents who have
+written the Business (the "OCNJ Agents"), and will give them a reasonable
+time to become equity owners of NAHC.  Further, PIC shall offer limited
+appointments to OCNJ active cancelled agents (the "Active Cancelled Agents")
+for purposes of servicing their existing books at the time of cancellation by
+OCNJ, and PIC shall offer limited appointments to OCNJ non-resident active
+agents with twenty (20) or more New Jersey private passenger automobile
+policies in force on the Closing Date for purposes of servicing their
+existing books as of the Closing Date.  PIC shall send to each OCNJ Agent
+written notice substantially in the form of Exhibit 2.8A hereto, informing
+the agent of this Agreement and encouraging him, her or it to accept the
+appointment of PIC.  PIC shall send to each Active Cancelled Agent written
+notice substantially in the form of Exhibit 2.8B hereto, informing the
+agent of this Agreement and encouraging him, her or it to accept the
+limited appointment of PIC for purposes of servicing his, her or its existing
+book at the time of cancellation by OCNJ.  OCNJ shall send to each OCNJ Agent
+and each Active Cancelled Agent written notice substantially in the form of
+Exhibit 2.8C hereto, informing the agent of this Agreement and terminating
+the appointment of the agent by OCNJ.
+
+     3.   Consideration.  If and only if the Closing occurs:
+	  -------------
+	  3.1   Payments by OCNJ.  Recognizing the New Jersey Department of
+		----------------
+Banking and Insurance requirement that the business be supported with
+adequate surplus, OCNJ shall pay
+
+				     3
+<PAGE>
+
+to PIC $40,600,000, to be paid in twelve (12) equal monthly installments
+payable by wire transfer, with the first payment to be made on the Nonrenewal
+Date and subsequent payments on the tenth (10th) business day of each month
+following the Nonrenewal Date.
+
+	  3.2  Certain Potential Additional Payments by OCNJ and Dividend
+	       ----------------------------------------------------------
+Restrictions on PIC.
+-------------------
+	       (a)  For the Specified Period, there will be no dividends paid
+by PIC in excess of dividends necessary to service and/or pay-off
+indebtedness of NAHC which was in existence as of the date of this Agreement
+and disclosed on Schedule 3.2(a).  Any dividends in excess of this limit
+shall result in a dollar-for-dollar reduction in the $15,600,000 aggregate
+limit described in Section 3.2(b).
+
+	       (b)  For the Specified Period, OCNJ shall pay to PIC additional
+sums of money as are necessary to reduce PIC's premium-to-surplus ratio to
+not less than 2.5 to 1 on the "Block of Business" as defined herein and
+calculated in (c) below, subject to an aggregate limit of $15,600,000.  Said
+additional sums shall be calculated and paid annually within forty-five (45)
+days of the due date of the NAIC Insurance Expense Exhibit (the "NAIC IEE")
+for each calendar year in the Specified Period.
+
+	       (c)  (1)  The Block of Business premium-to-surplus ratio will
+be calculated according to the technique described on the worksheet attached
+as Schedule 3.2(c). (2) For purposes of calculating (1) above, if the total
+of the amounts shown on Schedule 3.2(c), column (D), lines 23, 25, 27 and 29,
+minus column (D), line 31, exceeds 30% of column (D), line 1 of Schedule
+3.2(c), then the amount of column (F), line 41 on Schedule 3.2(c) shall be
+increased by the following amount:  (i) add column (F), lines 23, 25, 27 and
+29, and subtract column (F), line 31, and then (ii) subtract 30% of column (F),
+line 1 from the amount calculated under (i).
+
+	       (d)  The calculation in (c) above shall exclude the effect of
+any reinsurance transactions, any reserve adjustments, any provisions for
+loss and/or loss adjustment expenses, any extraordinary expenses (including,
+without limitation, deferred compensation and employee bonuses) or any other
+actions or transactions that will or could result in a material reduction in
+income during the Specified Period with a related increase in income
+subsequent to the end of the Specified Period.
+
+	       (e)  The references in this Section 3.2 to columns and lines
+are to the NAIC IEE and Annual Statement for the year 2000 and to the
+analogous or corresponding columns of the NAIC IEE and Annual Statement for
+subsequent years.
+
+	  3.3  Termination of Funding Obligations.  Any and all payment and
+	       ----------------------------------
+funding obligations of OCNJ under Sections 3.1 and 3.2 shall terminate
+immediately upon the earliest to occur of:
+
+	  (a)  PIC and/or NAHC voluntarily enter into any rehabilitation,
+receivership, conservation or liquidation proceeding under either federal
+bankruptcy law or any state insurance law;
+
+				     4
+<PAGE>
+
+	  (b)  A court of competent jurisdiction or any insurance regulator,
+with or without the consent of PIC and/or NAHC, places PIC and/or NAHC, or
+subjects substantially all of its or their assets, to rehabilitation,
+receivership, conservation, liquidation, or delinquency proceeding (other
+than administrative supervision), under either federal bankruptcy law or
+any state insurance law;
+
+	  (c)  Any material breach or default by PIC or NAHC of their
+representations, warranties and covenants in this Agreement; or
+
+	  (d)  The satisfaction of all payment and funding obligations of
+OCNJ under Sections 3.1 and 3.2.
+
+     4.   Closing.  The Closing shall take place at the offices of Vorys,
+	  -------
+Sater, Seymour and Pease LLP, Atrium Two, Suite 2100, 221 East Fourth Street,
+Cincinnati, Ohio 45201 (or at such other place as the parties may mutually
+agree), on the Closing Date.  The Closing Date may be changed by mutual
+agreement of the parties.  If the Closing Date is so changed, all references
+to the Closing Date in this Agreement shall refer to the changed date.
+
+     5.   Closing Deliveries.
+	  ------------------
+
+	  5.1  Closing Deliveries by OCNJ.  At the Closing, OCNJ will deliver
+	       --------------------------
+or cause to be delivered to PIC and NAHC:
+
+	       (a)  the DOBI Order, which shall be acceptable in form and
+substance to OCNJ, PIC and NAHC;
+
+	       (b)  a certificate of OCNJ in the form of Exhibit 5.1(b),
+certifying as to the accuracy of OCNJ's representations and warranties as of
+the Closing Date and that OCNJ has performed and complied with all of the
+terms, provisions and conditions to be performed and complied with by it at
+or before the Closing Date;
+
+	       (c)  a certificate of OCNJ in the form of Exhibit 5.1(c),
+certifying as to certain corporate matters, together with all of the
+attachments referred to therein; and
+
+	       (d)  such other certificates and documents as PIC, NAHC and
+their counsel may reasonably request.
+
+	  5.2  Closing Deliveries by PIC and NAHC.  At the Closing, PIC and
+	       ----------------------------------
+NAHC will deliver or cause to be delivered to OCNJ:
+
+	       (a)  a certificate of PIC and NAHC in the form of Exhibit
+5.2(a), certifying as to the accuracy of PIC's and NAHC's representations and
+warranties as of the Closing Date and that PIC and NAHC have performed and
+complied with all of the terms, provisions and conditions to be performed and
+complied with by them at or before the Closing Date;
+
+	       (b)  certificates of PIC and NAHC in the forms of Exhibit
+5.2(b), certifying as to certain corporate matters, together with all of the
+attachments referred to therein; and
+
+				     5
+<PAGE>
+
+	       (c)  such other certificates and documents as OCNJ and their
+counsel may reasonably request.
+
+	  5.3  Form and Substance of Documents.  The documents and instruments
+	       -------------------------------
+referred to in Sections 5.1 and 5.2 shall be in form and substance
+satisfactory to counsel for the party to whom they are delivered.
+
+     6.   Representations and Warranties by OCNJ.  OCNJ represents and
+	  --------------------------------------
+warrants, to PIC and NAHC that the following representations and warranties
+are true as of the date of this Agreement and will be true as of the Closing
+Date:
+	  6.1  Corporate Organization.  OCNJ is a corporation duly organized,
+	       ----------------------
+validly existing and in good standing under the laws of the state of its
+incorporation, and OCNJ has the corporate power and authority to carry on the
+business now being conducted by it.
+
+	  6.2  Authorization; Enforceability.  OCNJ has the requisite
+	       -----------------------------
+corporate power and authority to execute, deliver and perform its obligations
+under this Agreement and under each of the other documents to be executed by
+it in connection with this Agreement, as the case may be.  The execution and
+delivery by OCNJ of this Agreement and of the other documents to be executed
+in connection with this Agreement, and the performance by OCNJ of its
+obligations hereunder and thereunder, have been duly authorized by all
+necessary corporate action on the part of OCNJ.  This Agreement has been duly
+executed and delivered by OCNJ and, subject to the due execution and delivery
+hereof by PIC and NAHC, is a valid and binding obligation of OCNJ, enforceable
+against OCNJ in accordance with its terms.  As of the Closing Date, each
+agreement to be executed and delivered by OCNJ in connection with this
+Agreement will have been duly executed and delivered by OCNJ and, subject to
+the due execution and delivery of such agreements by PIC and NAHC, each
+agreement to be executed and delivered by OCNJ in connection with this
+Agreement is a valid and binding obligation of OCNJ, as the case may be,
+enforceable against OCNJ, as the case may be, in accordance with its terms.
+
+	  6.3  No Violation.  Neither the execution, delivery nor performance
+	       ------------
+of this Agreement by OCNJ, nor the consummation of any of the transactions
+provided for in this Agreement, (a) will violate or conflict with any
+provision of the Articles or Certificate of Incorporation or Code of
+Regulations or Bylaws of OCNJ, or (b) will result in any material breach of
+or default under any provision of any contract or agreement of any kind to
+which OCNJ is a party or by which OCNJ is bound or to which the properties
+or assets of OCNJ are subject.
+
+	  6.4  Litigation.  There are no actions, suits, proceedings or
+	       ----------
+investigations, either at law or in equity, or before any commission or other
+administrative authority in any United States or foreign jurisdiction, of any
+kind now pending or threatened or proposed in any manner, or any circumstances
+which could reasonably form the basis of any such action, suit, proceeding or
+investigation, except for those actions, proceedings, investigations or
+inquiries which would not have a material adverse effect on OCNJ, involving
+OCNJ or any of its properties or assets that (a) questions the validity of
+this Agreement, or (b) seeks to delay, prohibit or restrict in any manner any
+action taken or contemplated to be taken by OCNJ under this Agreement.
+
+				     6
+<PAGE>
+	  6.5  Brokers.  All negotiations relative to this Agreement and the
+	       -------
+transactions contemplated hereby have been carried on by OCNJ directly with
+PIC and NAHC and in such manner as not to give rise to any valid claim against
+OCNJ for a finder's fee, brokerage commission or like payment.
+
+	  6.6  Disclosure.  There is no event, occurrence or failure to
+	       ----------
+disclose on the part of OCNJ that would result in the breach of any
+representation or warranty made by OCNJ herein.
+
+     7.   Representations and Warranties by PIC and NAHC.  PIC and NAHC,
+	  ----------------------------------------------
+jointly and severally, represent and warrant, to OCNJ that the following
+representations and warranties are true as of the date of this Agreement and
+will be true as of the Closing Date:
+
+	  7.1  Corporate Organization.  Each of PIC and NAHC is a corporation
+	       ----------------------
+duly organized, validly existing and in good standing under the laws of the
+state of its incorporation, and each of PIC and NAHC has the corporate power
+and authority to carry on the business now being conducted by it.
+
+	  7.2  Authorization; Enforceability.  Each of PIC and NAHC has the
+	       -----------------------------
+requisite corporate power and authority to execute, deliver and perform its
+obligations under this Agreement and under each of the other documents to be
+executed by it in connection with this Agreement, as the case may be.  The
+execution and delivery by PIC and NAHC of this Agreement and of the other
+documents to be executed by them in connection with this Agreement, and
+the performance by PIC and NAHC of their respective obligations hereunder and
+thereunder, have been duly authorized by all necessary corporate action on the
+part of PIC and NAHC.  This Agreement has been duly executed and delivered by
+each of PIC and NAHC and, subject to the due execution and delivery hereof by
+PIC and NAHC, is a valid and binding obligation of PIC and NAHC, enforceable
+against PIC and NAHC in accordance with its terms.  As of the Closing Date,
+each agreement to be executed and delivered by PIC and NAHC in connection
+with this Agreement will have been duly executed and delivered by PIC and
+NAHC and, subject to the due execution and delivery of such agreements by
+OCNJ, each agreement to be executed and delivered by PIC and NAHC in
+connection with this Agreement is a valid and binding obligation of PIC and
+NAHC, as the case may be, enforceable against PIC and NAHC, as the case may
+be, in accordance with its terms.
+
+	  7.3  No Violation.  Neither the execution, delivery or performance
+	       ------------
+of this Agreement by PIC or NAHC, nor the consummation of any of the
+transactions provided for in this Agreement, (a) will violate or conflict
+with any provision of the Articles or Certificate of Incorporation or Code of
+Regulations or Bylaws of PIC or NAHC, or (b) will result in any material
+breach of or default under any provision of any contract or agreement of any
+kind to which either PIC or NAHC is a party or by which either PIC or NAHC is
+bound or to which the properties or assets of PIC or NAHC are subject.
+
+	  7.4  Litigation.  Except for the defaults on indebtedness disclosed
+	       ----------
+on Schedule 7.4, and except for those actions, proceedings, investigations or
+inquiries which would not have a material adverse effect on PIC or NAHC,
+there are no actions, suits, proceedings or investigations, either at law or
+in equity, or before any commission or other administrative authority in any
+United States or foreign jurisdiction, of any kind now pending or threatened or
+
+				     7
+<PAGE>
+
+proposed in any manner, or any circumstances which could reasonably form
+the basis of any such action, suit, proceeding or investigation, involving
+PIC or NAHC or any of their respective properties or assets that (a)
+questions the validity of this Agreement, or (b) seeks to delay, prohibit
+or restrict in any manner any action taken or contemplated to be taken by PIC
+or NAHC under this Agreement.
+
+	  7.5  Brokers.  Except as set forth on Schedule 16.2 referred to
+	       -------
+below, all negotiations relative to this Agreement and the transactions
+contemplated hereby have been carried on by PIC and NAHC directly with OCNJ
+and in such manner as not to give rise to any valid claim against PIC or NAHC
+for a finder's fee, brokerage commission or like payment.
+
+	  7.6  Financial Statements.
+	       --------------------
+	       (a)  PIC previously has delivered to OCNJ true and complete
+copies of its (i) annual audited statements as filed with the DOBI for the
+calendar years 1998, 1999 and 2000, (ii) quarterly unaudited statements as
+filed with the DOBI as of and for the calendar quarters ended March 31 and
+June 30, 2001, and (iii) NAIC Insurance Expense Exhibits as filed with the
+DOBI for the calendar years 1998, 1999, and 2000 (collectively, the "PIC
+Financial Statements").
+
+	       (b)  NAHC previously has delivered to OCNJ true and complete
+copies of its (i) annual audited financial statements for the years ended
+1998, 1999 and 2000, and (ii) quarterly unaudited financial statements as and
+for the calendar quarters ended March 31 and June 30, 2001 (collectively, the
+"NAHC Financial Statements").
+
+	       (c)  Each of the PIC Financial Statements and NAHC Financial
+Statements are in accordance with the books and records of each of PIC and
+NAHC, respectively, have been prepared in accordance with statutory
+accounting principles ("SAP") or generally accepted accounting principles
+("GAAP"), respectively, applied on a consistent basis throughout the periods
+covered by such statements, and present fairly the financial position of PIC
+and NAHC, and the results of their operations, for the periods covered.
+
+	       (d)  There is no debt, liability, commitment or obligation of
+any kind, character or nature whatsoever, whether known or unknown, choate or
+inchoate, secured or unsecured, accrued, fixed, absolute, contingent or
+otherwise, and whether due or to become due (collectively, "Liabilities")
+other than those which are disclosed in the PIC Financial Statements and/or
+NAHC Financial Statements, other than Liabilities that, either individually
+or in the aggregate, are not material to the financial conditions and/or
+operations of either PIC or NAHC.
+
+	       (e)  Each of the financial statements to be delivered by PIC
+and NAHC to OCNJ under Section 9.6 of this Agreement shall be in accordance
+with the books and records of PIC and NAHC, respectively, shall be prepared
+in accordance with SAP or GAAP, respectively, applied on a consistent basis
+throughout the periods covered by such financial statements, and shall present
+fairly the financial position of PIC and NAHC, and the results of their
+operations, for the periods covered.
+
+				     8
+<PAGE>
+
+	  7.7  Reinsurance and Related Matters.  Neither PIC nor NAHC has
+	       -------------------------------
+entered into any reinsurance transactions, made any reserve adjustments,
+established a provision for loss and/or loss adjustment expenses, incurred or
+obligated itself to incur any extraordinary expenses (including, without
+limitation, deferred compensation or employee bonuses) and/or taken any other
+actions or entered into any other transactions that will or could result in a
+material reduction in income during the Specified Period.
+
+	  7.8  Disclosure.  There is no event, occurrence or failure to
+	       ----------
+disclose on the part of either PIC or NAHC that would result in the breach of
+any representation or warranty made by PIC or NAHC herein.
+
+     8.   Covenants of OCNJ.  OCNJ covenants and agrees with PIC and NAHC as
+	  -----------------
+follows:
+
+	  8.1  Access, Information, Documents, Data and Information Services.
+	       -------------------------------------------------------------
+
+	       (a)  Subject to Section 9.3 and until the first anniversary of
+the Nonrenewal Date, OCNJ will give to PIC and NAHC and to their agents and
+representatives (including, but not limited to, accountants, lawyers and
+appraisers) full and complete access during normal working hours to any and
+all of the books, records and other documents of OCNJ relating to the Business,
+to enable PIC and NAHC to make such examination of the books, records and
+other documents of OCNJ as PIC and NAHC may determine; provided, however, that
+this Section 8.1(a) shall not obligate OCNJ to disclose information subject
+to attorney-client privilege relating to this Agreement and the transactions
+contemplated hereunder.
+
+	       (b)  Subject to Section 9.3 and until the first anniversary of
+the Nonrenewal Date, OCNJ will provide to PIC, at no cost to PIC, such data of
+OCNJ as is required by PIC for underwriting purposes with respect to the
+Business, in the format shown on Exhibit 8.1(b).  In the event that OCNJ
+should agree, from time to time or at any time, at the request of PIC or NAHC,
+to provide other data or other information services to PIC or NAHC, OCNJ
+shall be entitled to reimbursement from PIC and NAHC for all direct and
+indirect costs and expenses (including, without limitation, all employee costs
+and expenses) associated with providing such other data or other information
+services.  PIC and NAHC shall reimburse OCNJ for such costs and expenses
+within fifteen (15) days after the end of the month in which such costs and
+expenses are incurred by OCNJ.  Upon notice to PIC specifying in reasonable
+detail the basis for such set-off, OCNJ may set-off any amount to which it
+may be entitled under this Section 8.1(b) against amounts otherwise payable
+under this Agreement.  The exercise of such right of set-off by OCNJ in good
+faith, whether or not ultimately determined to be justified, will not
+constitute an event of default under this Agreement.  Neither the exercise
+of nor the failure to exercise such right of set-off will constitute an
+election of remedies or limit OCNJ in any manner in the enforcement of any
+other remedies that may be available to it.
+
+	  8.2  Consents and Approvals.  OCNJ shall use its best efforts to
+	       ----------------------
+obtain prior to the Closing all consents, authorizations and approvals under
+all statutes, laws, ordinances, regulations, rules, judgments, decrees and
+orders of any court or governmental agency, board, bureau, body, department
+or authority or of any other person required to be obtained by OCNJ in
+
+				     9
+<PAGE>
+
+connection with the execution, delivery and performance of this Agreement and
+the consummation of the transactions contemplated hereby.
+
+	  8.3  Confidential Information.  OCNJ shall exert reasonable efforts,
+	       ------------------------
+at least as stringent as those employed by it for the preservation and
+maintenance of its own proprietary information and trade secrets, to preserve
+and maintain all proprietary information and trade secrets of PIC and NAHC and
+its affiliates received or confirmed in documentary form by OCNJ from PIC or
+NAHC and its affiliates and shall not disclose to any third person or use any
+such proprietary information or trade secret for personal advantage, except
+that OCNJ shall be free to use and disclose all or any of such proprietary
+information and trade secrets which (i) were already in its possession at the
+time of disclosure to it, (ii) are a matter of public knowledge, (iii) have
+been or are hereafter published other than through OCNJ, or (iv) are lawfully
+obtained by OCNJ from a third person without restrictions of confidentiality.
+
+     9.   Covenants of PIC and NAHC.
+	  -------------------------
+	  9.1  No Dividends.  For the Specified Period, no dividends shall be
+	       ------------
+paid by PIC in excess of dividends necessary to service and/or pay-off
+indebtedness of NAHC existing as of the date first herein above written and
+disclosed on Schedule 3.2(a).
+
+	  9.2  Withdrawal Plan.  Each of PIC and NAHC shall cooperate with
+OCNJ to ensure that OCNJ will be granted a waiver by the Commissioner of
+the DOBI pursuant to N.J.A.C. 11:2-29.3(a) obviating the requirement that
+OCNJ file a formal plan of withdrawal from the business of private passenger
+automobile insurance in accordance with N.J.A.C. 11:2-29.4.  The covenants of
+PIC and NAHC contained in this Section 9.2 shall survive the Closing.
+
+	  9.3  Confidential Information.
+	       ------------------------
+	       (a)  Each of PIC and NAHC shall exert reasonable efforts, at
+least as stringent as those employed by it for the preservation and
+maintenance of its own proprietary information and trade secrets, to preserve
+and maintain all proprietary information and trade secrets of OCNJ and its
+affiliates received or confirmed in documentary form by PIC or NAHC from OCNJ
+and its affiliates and shall not disclose to any third person or use any such
+proprietary information or trade secret for personal advantage, except that
+PIC and NAHC shall be free to use and disclose all or any of such proprietary
+information and trade secrets which (i) were already in its possession at the
+time of disclosure to it, (ii) are a matter of public knowledge, (iii) have
+been or are hereafter published other than through PIC or NAHC, or (iv) are
+lawfully obtained by PIC or NAHC from a third person without restrictions of
+confidentiality.
+
+	       (b)  Each of PIC and NAHC shall take all actions, if any,
+required under the Gramm-Leach-Bliley Act and all New Jersey notice and
+confidentiality statutes and regulations, including, without limitation,
+N.J.S.A. 17:23A-4(a)(2) and N.J.S.A. 17:23A-13, with respect to the transfer
+by OCNJ to PIC and/or NAHC of policyholder information related to the
+Business.  Each of PIC and NAHC agrees to provide notices required by N.J.S.A.
+17:23A-4, if any, and not to disclose any policyholder information obtained
+from OCNJ unless the disclosure would otherwise be permitted by (i) N.J.S.A.
+17:23A-13 if made by an "insurance institution,"
+
+				    10
+<PAGE>
+
+"agent" or "insurance support organization," as those terms are defined in
+N.J.S.A. 17:23A-2, (ii) the limits on reuse imposed by Section 502(c) of the
+Gramm-Leach-Bliley Act, and (iii) the privacy statement of OCIC and its
+insurance affiliates, a copy of which is attached hereto as Exhibit 9.3(b).
+
+	       (c)  The covenants of PIC and NAHC contained in this Section
+9.3 shall survive the Closing.
+
+	  9.4  Consents and Approvals.  Each of PIC and NAHC shall use their
+	       ----------------------
+best efforts to obtain prior to the Closing all consents, authorizations and
+approvals under all statutes, laws, ordinances, regulations, rules,
+judgments, decrees and orders of any court or governmental agency, board,
+bureau, body, department or authority or of any other person required to be
+obtained by PIC and NAHC in connection with the execution, delivery and
+performance of this Agreement and the consummation of the transactions
+contemplated hereby.
+
+	  9.5  Reinsurance and Related Matters.  Neither PIC nor NAHC will
+	       -------------------------------
+enter into any reinsurance transactions, make any reserve adjustments,
+establish a provision for loss and/or loss adjustment expenses, incur or
+obligate itself to incur any extraordinary expenses (including, without
+limitation, deferred compensation or employee bonuses) and/or take any other
+actions or enter into any other transactions that will or could result in a
+material reduction in income during the Specified Period.
+
+	  9.6  Financial Statements.
+	       --------------------
+	       (a)  For the quarter ending September 30, 2001, and for each
+quarter thereafter through and including the quarter in which the Closing
+occurs, each of NAHC and PIC shall provide to OCNJ, within forty-five (45)
+days after the end of each quarter, unaudited financial statements of NAHC
+and PIC, consisting of a balance sheet (and the notes thereto) as of the end
+of such quarter and a statement of income and retained earnings and changes
+in financial position (and the notes thereto) for that quarter and for the
+portion of the year then ended.
+
+	       (b)  For the calendar month in which the Closing occurs and
+for each of the next twelve calendar months thereafter, each of NAHC and PIC
+shall provide to OCNJ, within thirty (30) days after the end of each calendar
+month, unaudited financial statements of NAHC and PIC, consisting of a
+balance sheet (and the notes thereto) as of the end of such month and a
+statement of income and retained earnings and changes in financial position
+(and the notes thereto) for that month and for the portion of the year then
+ended.
+
+	  9.7  Annual Data.  For the period ending on December 31 of any year
+that includes a portion of the Specified Period, PIC shall provide to OCNJ,
+by no later than the due date of the NAIC IEE, all data needed for purposes
+of the calculation of net written premiums shown on Part II column 1 (Premium
+Written) of PIC's NAIC IEE, as provided for by Section 3.2(c) hereof,
+including, without limitation, the list of premium volume by agent for
+purposes of such calculation.
+
+	  9.8  Investment Policy.  Commencing as of the Closing Date and
+	       -----------------
+continuing until the expiration of the Specified Period, PIC shall invest
+its assets only in accordance with the investment guidelines set forth in
+attached Exhibit 9.8.
+
+				     11
+<PAGE>
+
+	  9.9  Use of Proceeds.  Commencing as of the Closing Date and
+	       ---------------
+continuing until the expiration of the Specified Period, PIC shall use all
+(100%) of the funds transferred to it by OCNJ pursuant to Section 3 of this
+Agreement solely and exclusively for the purpose of supporting the Renewed
+Business and to service and/or pay-off indebtedness of NAHC disclosed on
+Schedule 3.2(a), as permitted under Sections 3.2(a) and 9.1.  Without limiting
+the generality of the foregoing, PIC shall not otherwise, directly or
+indirectly, (a) use any of such funds to support the operations of NAHC
+and/or any of its subsidiaries or affiliates, including but not limited to,
+Capital Mutual Insurance Co., and/or (b) sell, transfer or otherwise assign
+or cause to be sold, transferred or otherwise assigned any of such funds in
+any way whatsoever (including, but not limited to, by dividend, distribution
+or other similar means or methods) to NAHC and/or any of its subsidiaries or
+affiliates.
+
+	  9.10 Access, Information and Documents.  At any time, and from time
+	       ---------------------------------
+to time, PIC and NAHC will give to OCNJ and its agents and representatives
+(including, but not limited to, accountants, lawyers and appraisers) full
+and complete access during normal working hours to any and all of the books,
+records and other documents of PIC, NAHC and their respective affiliates, for
+any and all purposes related to this Agreement and the transactions
+contemplated hereunder, including, without limitation, for the purpose of
+calculating and confirming the amounts of the payments required to be made
+by OCNJ by Section 3.2.  The covenants of PIC and NAHC contained in this
+Section 9.10 shall survive the Closing.
+
+     10.  Conditions Precedent to Obligations of OCNJ.  The obligations of
+	  -------------------------------------------
+OCNJ to close the transactions contemplated by this Agreement are subject to
+the fulfillment prior to or at the Closing of the following conditions:
+
+	  10.1  Performance of PIC and NAHC.  There shall not be any material
+		---------------------------
+error, misstatement or omission in the representations and warranties made by
+PIC or NAHC in this Agreement; all representations and warranties by PIC and
+NAHC contained in this Agreement or in any written statement delivered by PIC
+and NAHC to OCNJ or any of its affiliates pursuant to this Agreement shall be
+true in all material respects at and as of the Closing as though such
+representations and warranties were made at and as of said time; and each of
+PIC and NAHC shall have materially performed and complied with all the terms,
+provisions and conditions of this Agreement to be performed and complied with
+by PIC and NAHC at or before the Closing.
+
+	  10.2  Regulatory Consents and Approvals.  OCNJ and OCIC shall have
+		---------------------------------
+obtained all consents, authorizations and approvals under all statutes, laws,
+ordinances, regulations, rules, judgments, decrees and orders of any court or
+governmental agency, board, bureau, body, department or authority or of any
+other person required to be obtained by OCNJ and OCIC, including, but not
+limited to, the Ohio Department of Insurance and the DOBI, as the case may be,
+in connection with the execution, delivery and performance of this Agreement
+and the consummation of the transactions contemplated hereby, which approvals
+will permit OCNJ to cease issuing new private passenger automobile policies
+as of the Closing Date and commence issuance of notices of non-renewal as of
+the Nonrenewal Date on terms acceptable to OCNJ.
+
+	  10.3  Requirements Imposed by Regulatory Authorities.  Any terms
+		----------------------------------------------
+and conditions that may be imposed on the transactions contemplated by this
+Agreement by the Ohio Department of Insurance or the DOBI shall be acceptable
+to OCNJ, in its sole discretion.
+
+				    12
+<PAGE>
+
+	  10.4  Withdrawal.  The Commissioner of the DOBI shall have granted
+a waiver to OCNJ pursuant to N.J.A.C. 11:2-29.3(a) obviating the requirement
+that OCNJ file a formal plan of withdrawal from the business of private
+passenger automobile insurance in New Jersey in accordance with N.J.A.C.
+11:2-29.4.
+
+	  10.5  Due Diligence.  OCNJ shall be satisfied with the results of
+		-------------
+its due diligence investigation of the financial condition, businesses,
+prospects and operations of PIC and NAHC.
+
+	  10.6  Third Party Consents.  OCNJ and its affiliates shall have
+		--------------------
+secured approval or consent from all necessary third parties, including,
+without limitation, all lenders.
+
+	  10.7  Board of Directors.  The Boards of Directors of OCNJ and OCIC
+		------------------
+shall have approved of the terms and conditions of this Agreement and the
+transactions contemplated by this Agreement.
+
+	  10.8  Fairness Opinion.  OCNJ shall have secured an opinion (or
+		----------------
+other assurance acceptable to OCNJ) from its investment bankers regarding the
+fairness of the transactions contemplated by this Agreement.
+
+	  10.9  Employee Transition Agreement.  OCIC, PIC and NAHC shall have
+		-----------------------------
+executed and delivered the Employee Transition Agreement in the form of
+Exhibit 10.9 (the "Employee Transition Agreement").
+
+	  10.10  Subscription Agreement.  OCIC and NAHC shall have executed
+		 ----------------------
+and delivered the Subscription Agreement in the form of Exhibit 10.10 (the
+"Subscription Agreement").
+
+	  10.11   Non-Competition Agreement.  OCNJ, OCIC, PIC and NAHC shall
+		  -------------------------
+have executed and delivered the Non-Competition Agreement in the form of
+Exhibit 10.11 (the "Non-Competition Agreement").
+
+     11.  Conditions Precedent to Obligations of PIC and NAHC.  The obligations
+	  ---------------------------------------------------
+of PIC and NAHC to close the transactions contemplated by this Agreement are
+subject to the fulfillment prior to or at the Closing of the following
+conditions:
+	  11.1  Performance of OCNJ.  There shall not be any material error,
+		-------------------
+misstatement or omission in the representations and warranties made by OCNJ
+in this Agreement; all representations and warranties by OCNJ contained in
+this Agreement or in any written statement delivered by OCNJ to PIC or NAHC
+pursuant to this Agreement shall be true in all material respects at and as
+of the Closing as though such representations and warranties were made at
+and as of said time; and OCNJ shall have materially performed and complied
+with all the terms, provisions and conditions of this Agreement to be
+performed and complied with by OCNJ at or before the Closing.
+
+	  11.2  Regulatory Consents and Approvals.  PIC and NAHC shall
+		---------------------------------
+have obtained all consents, authorizations and approvals under all statutes,
+laws, ordinances, regulations, rules, judgments, decrees and orders of any
+court or governmental agency, board, bureau, body,
+
+				    13
+<PAGE>
+
+department or authority or of any other person required to be obtained by
+PIC and NAHC, including, but not limited to, the Ohio Department of Insurance
+and the DOBI, as the case may be, in connection with the execution, delivery
+and performance of this Agreement and the consummation of the transactions
+contemplated hereby, which approvals shall be on terms acceptable to PIC and
+NAHC.
+
+	  11.3  Requirements Imposed by Regulatory Authorities.  Any terms and
+		----------------------------------------------
+conditions that may be imposed on the transactions contemplated by this
+Agreement by the Ohio Department of Insurance or the DOBI shall be acceptable
+to PIC and NAHC, in their sole discretion.
+
+	  11.4  Due Diligence.  PIC and NAHC shall be satisfied with the
+		-------------
+results of their due diligence investigation of the Business and financial
+condition of OCNJ.
+
+	  11.5  Third Party Consents.  PIC and NAHC and each of their
+		--------------------
+respective affiliates shall have secured approval or consent from all
+necessary third parties.
+
+	  11.6  Board of Directors.  The Board of Directors of PIC and NAHC
+		------------------
+shall have approved of the terms and conditions of this Agreement and the
+transactions contemplated by this Agreement.
+
+	  11.7  Employee Transition Agreement.  OCIC, PIC and NAHC shall have
+		-----------------------------
+executed and delivered the Employee Transition Agreement.
+
+	  11.8  Subscription Agreement.  OCIC and NAHC shall have executed and
+		----------------------
+delivered, and closed the transactions contemplated by, the Subscription
+Agreement.
+
+	  11.9  Non-Competition Agreement.  OCIC, OCNJ, PIC and NAHC shall
+		-------------------------
+have executed and delivered the Non-Competition Agreement.
+
+     12.  Termination.
+	  -----------
+
+	  12.1  Termination Events.  This Agreement may, by notice given prior
+		------------------
+to or at the Closing, be terminated:
+
+		(a)  by either OCNJ, on the one hand, or PIC and NAHC, on the
+other hand, if a material inaccuracy in or breach of, or any material failure
+to perform or comply with, any representation, warranty, covenant, obligation
+or other provision of this Agreement has been committed by the other party or
+parties and such breach or failure has not been waived;
+
+		(b)  by mutual consent of the parties; or
+
+		(c)  by any party if the Closing has not occurred (other than
+through the failure of any party seeking to terminate this Agreement to comply
+fully with its obligations under this Agreement) on or before December 31,
+2001, or such later date as the parties may agree upon.
+
+				    14
+<PAGE>
+
+	  12.2  Effect of Termination.  Each party's right of termination
+		---------------------
+under Section 12.1 is in addition to any other rights it may have under this
+Agreement or otherwise, and the exercise of a right of termination will not
+be an election of remedies.  If this Agreement is terminated pursuant to
+Section 12.1, all further obligations of the parties under this Agreement
+shall terminate, except that the obligations in Sections 9.3 and 13.5 shall
+survive; provided, however, that if this Agreement is terminated by a party
+because of such breach or failure by the other party or because one or more
+of the conditions to the terminating party's obligations under this Agreement
+is not satisfied as a result of the other party's failure to comply with its
+obligations under this Agreement, the terminating party's right to pursue all
+legal remedies will survive such termination unimpaired.
+
+     13.  Survival of Representations and Warranties; Indemnification.
+	  -----------------------------------------------------------
+
+	  13.1  Survival of Representations and Warranties.  All
+		------------------------------------------
+representations and warranties contained in Section 6 and Section 7 shall
+survive the Closing for a period of three years from and after the Nonrenewal
+Date.
+
+	  13.2  Indemnification Obligations of OCNJ.  Subject to the terms and
+		-----------------------------------
+conditions of this Section 13, OCNJ agrees to indemnify and hold PIC and NAHC
+harmless against any and all losses, costs and expenses (including, without
+limitation, legal and other expenses) resulting from or relating to:
+
+		(a)  any material misrepresentation or breach of any warranty
+of OCNJ contained in this Agreement or in any schedule of OCNJ or any
+certificate delivered by OCNJ at the Closing;
+
+		(b)  any material breach of any covenant of OCNJ contained in
+this Agreement, including but not limited to the covenants set forth in
+Section 2.6 hereof;
+
+		(c)  the Prior Business (excluding any UEZ quotas and
+assignments from the PAIP after the Nonrenewal Date); and
+
+		(d)  and any and all actions, suits, demands, assessments or
+judgments with respect to any claim arising out of or relating to the subject
+matter of the indemnification.
+
+	  13.3  Indemnification Obligations of PIC and NAHC.  Subject to the
+		-------------------------------------------
+terms and conditions of this Section 13, PIC and NAHC, jointly and severally,
+agree to indemnify and hold OCNJ harmless against any and all losses, costs
+and expenses (including, without limitation, legal and other expenses)
+resulting from or relating to:
+
+		(a)  any material misrepresentation or breach of any warranty
+of PIC or NAHC contained in this Agreement or in any schedule of PIC or NAHC
+or any certificate delivered by PIC or NAHC at the Closing;
+
+		(b)  any material breach of any covenant of PIC or NAHC
+contained in this Agreement, including but not limited to the covenants set
+forth in Section 2.7 hereof;
+
+				    15
+<PAGE>
+
+		(c)  the Renewed Business (including any UEZ quotas and
+assignments from the PAIP after the Nonrenewal Date); and
+
+		(d)  and any and all actions, suits, demands, assessments or
+judgments with respect to any claim arising out of or relating to the subject
+matter of the indemnification.
+
+     13.4  Procedure for Indemnification Claims.  The respective
+	   ------------------------------------
+indemnification obligations of the parties pursuant to Sections 13.2 and 13.3
+shall be conditioned upon compliance by the other parties with the following
+procedures for indemnification claims based upon or arising out of any claim,
+action or proceeding by any person not a party to this Agreement:
+
+	   (a)  If at any time a claim shall be made or threatened, or an
+action or proceeding shall be commenced or threatened, against a party hereto
+(the "Aggrieved Party") which could result in liability of the other party
+(the "Indemnifying Party") under its indemnification obligations hereunder,
+the Aggrieved Party shall give to the Indemnifying Party prompt notice of
+such claim, action or proceeding.  Such notice shall state the basis for the
+claim, action or proceeding and the amount thereof (to the extent such amount
+is determinable at the time when such notice is given) and shall permit the
+Indemnifying Party to assume the defense of any such claim, action or
+proceeding (including any action or proceeding resulting from any such claim).
+Failure by the Indemnifying Party to notify the Aggrieved Party of its
+election to defend any such claim, action or proceeding within a reasonable
+time, but in no event more than fifteen days after notice thereof shall have
+been given to the indemnifying Party, shall be deemed a waiver by the
+Indemnifying Party of its right to defend such claim, action or proceeding;
+provided, however, that the Indemnifying Party shall not be deemed to have
+waived its right to contest and defend against any claim of the Aggrieved
+Party for indemnification hereunder based upon or arising out of such claim,
+action or proceeding.
+
+	   (b)  If the Indemnifying Party assumes the defense of any such
+claim, action or proceeding, the obligation of the Indemnifying Party as to
+such claim, action or proceeding shall be limited to taking all steps
+necessary in the defense or settlement thereof and, provided the Indemnifying
+Party is held to be liable for indemnification hereunder, to holding the
+Aggrieved Party harmless from and against any and all losses, damages and
+liabilities caused by or arising out of any settlement approved by the
+Indemnifying Party or any judgment or award rendered in connection with such
+claim, action or proceeding.  The Aggrieved Party may participate, at its
+expense, in the defense of such claim, action or proceeding provided that the
+Indemnifying Party shall direct and control the defense of such claim, action
+or proceeding.  The Aggrieved Party agrees to cooperate and make available to
+the Indemnified Party all books and records and such officers, employees and
+agents as are reasonably necessary and useful in connection with the defense.
+The Indemnifying Party shall not, in the defense of such claim, action or
+proceeding, consent to the entry of any judgment or award, or enter into any
+settlement, except in either event with the prior consent of the Aggrieved
+Party, which does not include as an unconditional term thereof the giving by
+the claimant or the plaintiff to the Aggrieved Party of a release from all
+liability in respect of such claim, action or proceeding.
+
+	   (c)     If the Indemnifying Party does not assume the defense of
+any such claim, action or proceeding, the Aggrieved Party may defend against
+such claim, action or
+
+				    16
+<PAGE>
+
+proceeding in such manner as it may deem appropriate.  The Indemnifying Party
+agrees to cooperate and make available to the Aggrieved Party all books and
+records and such officers, employees and agents as are reasonably necessary
+and useful in connection with the defense.  If the Indemnifying Party, within
+ten days after notice shall have been given to it by the Aggrieved Party of
+the latter's intention to effect a settlement of any such claim, action or
+proceeding, which notice shall describe with particularity the terms of any
+such proposed settlement, shall not deposit with an escrow mutually
+satisfactory to the Aggrieved Party and the Indemnifying Party a sum
+equivalent to the total amount demanded in such claim, action or proceeding
+or deliver to the Aggrieved Party a surety bond or an irrevocable letter of
+credit for such sum in form and substance reasonably satisfactory to the
+Aggrieved Party, then the Aggrieved Party may settle such claim, action or
+proceeding on the terms detailed in its notice to the Indemnifying Party, and
+the Indemnifying Party shall be deemed to have agreed to the terms of such
+settlement and shall not thereafter in any proceeding by the Aggrieved Party
+for indemnification question the propriety of such settlement.  If the
+Indemnifying Party makes an escrow deposit or delivers a surety bond or
+letter of credit as aforesaid and thereafter the Aggrieved Party settles such
+claim, action or proceeding, then in any proceeding by the Aggrieved Party
+for indemnification in the event the Indemnifying Party is held liable for
+indemnification hereunder, the Aggrieved Party shall have the burden of
+proving the amount of such liability of the Indemnifying Party, and the
+amount of the payments made in settlement of any claim, action or proceeding
+shall not be determinative as between the Aggrieved Party and the
+Indemnifying Party of the amount of such indemnification liability, except
+that the amount of the settlement payments shall constitute the maximum
+amount of the indemnification liability of the Indemnifying Party.  Such
+escrow deposit, surety bond or letter of credit shall by their respective
+terms be payable to the Aggrieved Party in an amount determined in accordance
+with the last sentence of this paragraph (c) and in the event the Indemnifying
+Party is held liable for indemnification hereunder.  If the Indemnifying
+Party neither makes an escrow deposit or delivers a surety bond or letter of
+credit as aforesaid, so that no settlement of such claim, action or
+proceeding is effected, in any proceeding by the Aggrieved Party for
+indemnification in the event the Indemnifying Party is held liable for
+indemnification hereunder, such liability shall be for the amount of any
+judgment or award rendered with respect to such claim or in such action or
+proceeding and of all expenses, legal and otherwise, incurred by the Aggrieved
+Party in the defense against such claim, action or proceeding.
+
+	   (d)  In the event an Aggrieved Party or Indemnifying Party shall
+cooperate in the defense or make available books, records, officers, employees
+or agents, as required by the terms of paragraphs (b) and (c), respectively,
+of this Section 13.4 the party to which such cooperation is provided shall
+pay the out-of-pocket costs and expenses (including legal fees and
+disbursements) of the party providing such cooperation and of its officers,
+employees and agents reasonably incurred in connection with providing such
+cooperation, but shall not be responsible to reimburse the party providing
+such cooperation for such party's time or the salaries or costs of fringe
+benefits or other similar expenses paid by the party providing such
+cooperation to its officers and employees in connection therewith.
+
+     13.5  Right of Set-Off.  Upon notice to the Indemnifying Party
+	   ----------------
+specifying in reasonable detail the basis for such set-off, an Aggrieved
+Party may set-off any amount to which it may be entitled under this Section
+13 against amounts otherwise payable to the Indemnifying Party under this
+Agreement.  Neither the exercise of nor the failure to exercise such right of
+set-
+
+				    17
+<PAGE>
+off will constitute an election of remedies or limit the Aggrieved Party
+in any manner in the enforcement of any other remedies that may be available
+to it.
+
+     14.   Disclosures.  Because the shares of OCNJ's ultimate parent
+	   -----------
+corporation, Ohio Casualty Corporation ("OCC"), are publicly traded, OCC may
+be required to make public disclosure of this Agreement and the transactions
+contemplated by this Agreement.  Each of PIC and NAHC shall cooperate fully
+with OCC and OCNJ, making such public disclosures as OCC and OCNJ conclude
+from time to time are necessary and appropriate under the circumstances.
+
+     15.  Names.  No party to this Agreement shall use the name or any
+	  -----
+trademark, trade name, logo or service mark of any other party or any of their
+respective affiliates in any manner, without the prior written consent of the
+applicable party.
+
+     16.  Miscellaneous.
+	  -------------
+	  16.1  Assurance of Further Action.  From time to time after the
+		---------------------------
+Closing, each party (at its own expense), shall execute and deliver, or cause
+to be executed and delivered, to the other parties such further documents and
+take such other action as the other parties may reasonably request in order
+to more effectively consummate the transactions contemplated hereby.
+
+	  16.2  Expenses.  If and only if the transaction closes, and subject
+		--------
+to OCNJ's review of the consulting arrangement, as identified on Schedule 16.2,
+OCNJ shall reimburse PIC for all reasonable success fees, which will not exceed
+$822,000, incurred by it and paid to unaffiliated third parties in connection
+with the transactions contemplated by this Agreement, with OCNJ, in its sole
+discretion, determining whether and in what amounts any such fees may or may
+not be reasonable.  This reimbursement shall be paid in twelve (12) equal
+monthly installments on the first business day of each month by wire transfer,
+concurrently with the payments to be made under Section 3.1 hereof.  Except
+as set forth in the preceding sentence or elsewhere in this Agreement, each
+party shall bear its own legal, accounting, administrative and other costs
+and expenses incurred by it in connection with the preparation and
+negotiation of this Agreement and the terms and provisions of this Agreement.
+
+	  16.3  Waiver. The parties hereto may by written agreement (i)
+		------
+extend the time for or waive or modify the performance of any of the
+obligations or other acts of the parties hereto, or (ii) waive any
+inaccuracies in the representations and warranties contained in this Agreement
+or in any document delivered pursuant to this Agreement.
+
+	  16.4  Notices.  All notices, requests or other communications
+		-------
+hereunder shall be in writing and shall be deemed to have been duly given if
+delivered or mailed first class certified mail, postage prepaid, addressed as
+follows:
+
+				    18
+<PAGE>
+		If to OCNJ, to:
+
+		Ohio Casualty of New Jersey, Inc.
+		9450 Seward Road
+		Fairfield, Ohio  45014
+		Attention:  Debra K. Crane, Esq.
+		Senior Vice President and General Counsel
+
+		With a copy to:
+
+		James A. Yano, Esq.
+		Vorys, Sater, Seymour and Pease LLP
+		52 East Gay Street
+		Columbus, Ohio  43215
+
+		If to PIC, to:
+
+		Proformance Insurance Company
+		303 West Main Street
+		Freehold, New Jersey  07728
+		Attention:  James V. Gorman, Chairman and CEO
+
+		With a copy to:
+
+		John M. Pellecchia, Esq.
+		Riker, Danzig, Sherer, Hyland & Perretti LLP
+		50 West State Street, Suite 1010
+		Trenton, New Jersey  08608-1220
+
+		If to NAHC, to:
+
+		National Atlantic Holdings Corp.
+		303 West Main Street
+		Freehold, New Jersey  07728
+		Attention:  James V. Gorman, Chairman and CEO
+
+		With a copy to:
+
+		John M. Pellecchia, Esq.
+		Riker, Danzig, Sherer, Hyland & Perretti LLP
+		50 West State Street, Suite 1010
+		Trenton, New Jersey  08608-1220
+
+or to such other address as may have been furnished in writing to the party
+giving the notice by the party to whom notice is to be given.
+
+				     19
+<PAGE>
+
+	  16.5  Entire Agreement.  Except only for the Confidentiality
+		----------------
+Agreement and its Addendum among the parties dated June 15, 2001 (which shall
+survive the execution of this Agreement and the Closing contemplated hereby),
+this Agreement supersedes all prior agreements among the parties with respect
+to its subject matter (including, but not limited to, the non-binding letter
+of intent among the parties dated September 10, 2001).  This Agreement
+embodies the entire agreement among the parties and there have been and are
+no agreements, representations or warranties, oral or written among the
+parties other than those set forth or provided for in this Agreement.  This
+Agreement may not be modified or changed, in whole or in part, except by a
+supplemental agreement signed by each of the parties.
+
+	  16.6  Rights Under this Agreement; Nonassignability.  This Agreement
+		---------------------------------------------
+shall bind and inure to the benefit of the parties hereto and their
+respective successors and assigns, but shall not be assignable by any party
+without the prior written consent of the other parties, which may be withheld
+in their sole discretion.  Nothing contained in this Agreement is intended to
+confer upon any person, other than the parties to this Agreement and their
+respective successors and assigns, any rights, remedies, obligations or
+liabilities under or by reason of this Agreement.
+
+	  16.7  Governing Law.  This Agreement shall be governed by and
+		-------------
+construed in accordance with the laws of the State of Ohio, without regard to
+conflict of law principles.  The parties agree that any dispute regarding this
+Agreement shall be submitted to the state or federal courts located in
+Hamilton County, Ohio, and each of PIC and NAHC hereby consent to the exercise
+of jurisdiction by any such court over it.
+
+	  16.8  Headings: References to Sections, Exhibits and Schedules.  The
+		--------------------------------------------------------
+headings of the Sections, Paragraphs and Subparagraphs of this Agreement are
+solely for convenience and reference and shall not limit or otherwise affect
+the meaning of any of the terms or provisions of this Agreement.  The
+references herein to Sections, Exhibits and Schedules, unless otherwise
+indicated, are references to Sections of and Exhibits and Schedules to this
+Agreement.  All Exhibits and Schedules referred to in this Agreement are
+incorporated herein by reference and made a party hereof.
+
+	  16.9  Counterparts.  This Agreement may be executed in any number of
+		------------
+counterparts, each of which shall be an original, but which together
+constitute one and the same instrument.
+
+		 [Remainder of page intentionally left blank]
+
+
+				    20
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+by their duly authorized officers, effective as of the day and year set forth
+above.
+
+
+					  OHIO CASUALTY OF NEW JERSEY, INC.
+
+
+					  By: /s/ Elizabeth M. Riczko
+					      -----------------------------
+					  Printed Name: Elizabeth M. Riczko
+							-------------------
+					  Title: Executive Vice President
+						 and Chief Operating Officer,
+						 Personal Lines
+						 --------------------------
+
+
+					  PROFORMANCE INSURANCE COMPANY
+
+
+
+					  By: /s/ James V. Gorman
+					      -----------------------------
+					  Printed Name: James V. Gorman
+							-------------------
+					  Title: Chief Executive Officer
+						 --------------------------
+
+
+					  NATIONAL ATLANTIC HOLDINGS CORP.
+
+
+
+					  By: /s/ James V. Gorman
+					      -----------------------------
+					  Printed Name: James V. Gorman
+							-------------------
+					  Title: Chief Executive Officer
+						 --------------------------
+
+
+
+
+
+
+
+
+				    21
+<PAGE>
+
+		      LIST OF EXHIBITS AND SCHEDULES
+				    TO
+		      REPLACEMENT CARRIER AGREEMENT
+
+Exhibits        Description
+--------        -----------
+
+2.5A (OCNJ)     Notice of Nonrenewal
+
+2.5B (PIC)      Guaranteed Option to Renew
+
+2.8A (PIC)      PIC's Notice to OCNJ Agents
+
+2.8B (PIC)      PIC's Notice to Active Cancelled Agents
+
+2.8C (OCNJ)     OCNJ's Notice to OCNJ Agents and Active Cancelled Agents
+
+5.1(b) (OCNJ)   Certificate of OCNJ of Representations and Warranties
+
+5.1(c) (OCNJ)   Certificate of OCNJ Certifying Certain Corporate Matters
+
+5.2(a) (PIC)    Certificate of PIC and NAHC of Representations and Warranties
+
+5.2(b) (PIC)    Certificate of PIC and NAHC Certifying Certain Corporate
+		Matters
+
+8.1(b) (OCNJ)   Format of Data
+
+9.3(b) (OCNJ)   Privacy Statement of OCIC and its Insurance Affiliates
+
+9.8 (PIC)       Investment Guidelines
+
+10.9 (OCIC)*    Employee Transition Agreement
+
+10.10 (PIC)*    Subscription Agreement
+
+10.11 (OCIC)*   Non-Competition Agreement
+
+
+Schedules       Description
+---------       -----------
+
+3.2(a) (PIC)    NAHC Indebtedness
+
+3.2(c) (OCIC)   Worksheet
+
+7.4 (PIC)       Defaults on Indebtedness
+
+16.2 (PIC)      Consulting Arrangements
+
+
+*Corporation will furnish agreements to Securitires and Exchange Commission
+ upon further request.
+
+                                     22
+
+</TEXT>
+</DOCUMENT>

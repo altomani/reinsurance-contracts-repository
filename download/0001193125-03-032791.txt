@@ -1,0 +1,3201 @@
+<DOCUMENT>
+<TYPE>EX-10.39
+<SEQUENCE>12
+<FILENAME>dex1039.txt
+<DESCRIPTION>ASSET PURCHASE AGREE MAR.15,2003 AVMED INC. AND AMERIGROUP
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.39
+
+================================================================================
+
+                            ASSET PURCHASE AGREEMENT
+
+                                      among
+
+                            AMERIGROUP FLORIDA, INC.,
+
+                                   AVMED, INC.
+
+                                       and
+
+                            SANTAFE HEALTHCARE, INC.
+
+                                 March 15, 2003
+
+================================================================================
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                             Page
+                                                                             ----
+<S>                                                                          <C>
+ARTICLE 1 PURCHASE AND SALE OF ASSETS.........................................  2
+   1.1 Assets to be Sold to Buyer.............................................  2
+   1.2 Excluded Assets........................................................  3
+ARTICLE 2 ASSUMPTION OF LIABILITIES...........................................  4
+   2.1 Assumed Liabilities....................................................  4
+   2.2 Excluded Liabilities...................................................  4
+ARTICLE 3 PURCHASE PRICE, MANNER OF PAYMENT AND CLOSING.......................  6
+   3.1 Purchase Price.........................................................  6
+   3.2 Purchase Price Adjustment..............................................  6
+   3.3 Manner of Payment......................................................  8
+   3.4 Closing and Effective Date.............................................  9
+   3.5 Allocation of Purchase Price...........................................  9
+ARTICLE 4 REPRESENTATIONS AND WARRANTIES OF SELLER AND SELLER'S PARENT........  9
+   4.1 Organization, Good Standing, Qualification and Subsidiaries............  9
+   4.2 Authorization, etc....................................................  10
+   4.3 No Legal Bar..........................................................  10
+   4.4 Financial Matters.....................................................  11
+   4.5 Absence of Undisclosed Liabilities....................................  12
+   4.6 Absence of Certain Changes or Events..................................  12
+   4.7 Providers and Provider Contracts......................................  13
+   4.8 Status of Seller's Florida Medicaid Contract..........................  15
+   4.9 Medicaid Members and Services.........................................  15
+   4.10 Title to Assets; Liens, etc..........................................  16
+   4.11 Tax Matters..........................................................  16
+   4.12 No Litigation........................................................  16
+   4.13 Compliance with Laws.................................................  16
+   4.14 Rights in Name.......................................................  17
+   4.15 Insurance............................................................  17
+   4.16 Affiliate Relationships..............................................  17
+   4.17 No Bankruptcy........................................................  17
+   4.18 Broker's and Other Fees..............................................  17
+   4.19 Scope of Representations and Warranties; Misstatements and
+           Omissions.........................................................  17
+ARTICLE 5 REPRESENTATIONS AND WARRANTIES OF BUYER............................  18
+   5.1 Organization, Good Standing, Qualification and Subsidiaries...........  18
+   5.2 Authorization, etc....................................................  18
+   5.3 No Legal Bar..........................................................  18
+   5.4 No Bankruptcy.........................................................  19
+   5.5 Broker's and Other Fees...............................................  19
+   5.6 Compliance with Laws..................................................  19
+   5.7 Availability of Funds.................................................  19
+</TABLE>
+
+                                       i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                            <C>
+   5.8 Scope of Representations and Warranties; Misstatements and Omissions..  19
+ARTICLE 6 CLOSING CONDITIONS.................................................  20
+   6.1 Conditions of Each Party's Obligations Under this Agreement...........  20
+   6.2 Conditions to Closing of Buyer........................................  21
+   6.3 Conditions to Closing of Seller.......................................  23
+   6.4 Waiver of Conditions..................................................  24
+ARTICLE 7 COVENANTS OF THE PARTIES...........................................  24
+   7.1 Covenants Related to Closing..........................................  24
+   7.2 Additional Covenants of Seller........................................  27
+   7.3 Other General Covenants...............................................  30
+ARTICLE 8 EXPENSES, INDEMNITY AND SURVIVAL...................................  35
+   8.1 Expenses..............................................................  35
+   8.2 Indemnification by Seller and Seller's Parent.........................  36
+   8.3 Indemnification by Buyer..............................................  37
+   8.4 No Offsets............................................................  38
+   8.5 Indemnification Procedure--Third Party Claims.........................  38
+   8.6 Indemnification Procedure--Other Claims...............................  39
+   8.7 Survival..............................................................  39
+   8.8 Exclusive Remedy; Mitigation; No Double Recovery......................  40
+ARTICLE 9 TERMINATION........................................................  40
+   9.1 Termination of Agreement..............................................  40
+   9.2 Effect of Termination.................................................  41
+ARTICLE 10 DEFINITIONS.......................................................  41
+   10.1 Certain Defined Terms................................................  41
+   10.2 Accounting Terms.....................................................  46
+   10.3 Other Definition Provisions..........................................  46
+ARTICLE 11 GENERAL PROVISIONS................................................  46
+   11.1 Amendments and Waivers; Construction.................................  46
+   11.2 Successors and Assigns...............................................  46
+   11.3 Counterparts.........................................................  46
+   11.4 No Waivers by Implication............................................  46
+   11.5 Notices..............................................................  47
+   11.6 Reproductions........................................................  48
+   11.7 Entire Agreement.....................................................  48
+   11.8 Exhibits, Schedules and Attachments..................................  48
+   11.9 Rights Cumulative....................................................  48
+   11.10 Governing Law, Waiver of Jury Trial, etc............................  49
+   11.11 Severability........................................................  49
+   11.12 Captions............................................................  49
+   11.13 Third Party Rights..................................................  49
+   11.14 Time of Essence.....................................................  49
+   11.15 Written Agreement Required/No Oral Modification.....................  49
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+                             EXHIBITS AND SCHEDULES
+
+Exhibit A   Form of Escrow Agreement
+Exhibit B   Form of Bill of Sale and Assignment
+Exhibit C   Form of Noncompetition Agreement
+Exhibit D   Form of Seller's Opinion
+Exhibit E   Form of Assignment and Assumption Agreement
+Exhibit F   Form of Buyer's Opinion
+
+<TABLE>
+<S>                  <C>
+Schedule 1.1(d)      Provider Database Elements
+Schedule 3.5         Allocation of Purchase Price
+Schedule 4.4(a)      Financial Statements
+Schedule 4.5         Exceptions re: No Liabilities
+Schedule 4.6         Exceptions re: Absence of Certain Changes or Events
+Schedule 4.7(a)      Seller Medicaid Providers
+Schedule 4.7(a)(i)   Seller Medicaid Providers With No Written Contracts
+Schedule 4.7(b)      Exceptions re: Enforceability of Designated Provider Contracts
+Schedule 4.7(c)      Contingent Provider Contracts
+Schedule 4.7(e)      Designated Provider Contracts with Profit Sharing Components, etc.
+Schedule 4.7(f)      Designated Provider Contracts with Substantial Financial Risk
+Schedule 4.7(g)      Complaints by Seller Medicaid Providers
+Schedule 4.7(h)      Exceptions re: Credentialing
+Schedule 4.9(b)      Complaints From Members
+Schedule 4.12        Litigation
+Schedule 4.13        Compliance with Laws; Government Examinations
+Schedule 4.15        Insurance
+Schedule 4.16        Affiliate Provider Contracts
+Schedule 7.1         List of Designated Provider Contracts
+Schedule 10.1        List of Seller Vice Presidents
+</TABLE>
+
+                                      iii
+
+<PAGE>
+
+                            ASSET PURCHASE AGREEMENT
+
+     THIS ASSET PURCHASE AGREEMENT is entered into as of the 15th day of March,
+2003 among AVMED, INC., a Florida not-for-profit corporation ("Seller"), SANTAFE
+HEALTHCARE, INC., a Florida not-for-profit corporation ("Seller's Parent"), and
+AMERIGROUP FLORIDA, INC., a Florida corporation ("Buyer"). (Seller, Seller's
+Parent and Buyer are sometimes hereinafter referred to collectively as the
+"Parties" and each individually as a "Party".) (Capitalized terms not defined
+when used shall have the meanings given such terms in ARTICLE 10.)
+
+                                    RECITALS:
+
+     A. Seller's Parent is the sole corporate member of Seller and is a party to
+this Agreement as and to the extent its interests appear below.
+
+     B. Seller is licensed and approved by the Florida Department of Financial
+Services ("DFS") and the Florida Agency for Health Care Administration ("AHCA")
+to operate a health maintenance organization ("HMO") in the State of Florida and
+operates a Medicaid plan under the name "St. Augustine Medicaid, a division of
+AvMed" ("Seller's Medicaid Plan").
+
+     C. Buyer is also licensed and approved by DFS and AHCA and operates an HMO
+and Medicaid plan in the State of Florida under the name "AMERIGROUP Florida"
+("Buyer's Medicaid Plan").
+
+     D. Pursuant to the State of Florida Medicaid program (the "Florida Medicaid
+Program"), AHCA has entered into Standard Contract No. FA 313 with Seller
+("Seller's Florida Medicaid Contract") to arrange for the provision of certain
+health care services to certain eligible recipients who are enrolled in Seller's
+Medicaid Plan under Seller's Florida Medicaid Contract (collectively, the
+"Members"), and Seller has established management systems and a network of
+healthcare providers and subcontractors (each, a "Seller Medicaid Provider") in
+those Florida counties in which it has contracted with AHCA to provide the
+requisite services to the Members (the business owned and operated by Seller as
+described above is hereinafter referred to as the "Medicaid Business").
+
+     E. Pursuant to the Florida Medicaid Program, AHCA also has a contract with
+Buyer ("Buyer's Florida Medicaid Contract") to arrange for the provision of
+certain health care services to certain eligible Medicaid recipients who are
+enrolled in Buyer's Medicaid Plan under Buyer's Florida Medicaid Contract.
+
+     F. On and subject to the terms and conditions set forth in this Agreement,
+Seller desires to sell to Buyer, and Buyer desires to purchase from Seller,
+certain intangible assets related to the Medicaid Business, and the Parties
+desire to work cooperatively to obtain the requisite approvals to effect, at
+Closing, the sale, transfer, conveyance, assignment and delivery by Seller to
+Buyer of such intangible assets so that at Closing Seller's Florida Medicaid
+Contract would be terminated and all of the Members (other than those who
+voluntarily opt-out pursuant to AHCA rules and procedures or lose eligibility)
+would be enrolled in Buyer's Medicaid Plan with Buyer continuing to provide the
+requisite health care services to such Members under Buyer's Florida Medicaid
+Contract.
+
+                                       1
+
+<PAGE>
+
+     NOW, THEREFORE, in consideration of the premises and of the mutual
+covenants, agreements, representations and warranties herein contained and other
+good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the Parties agree as follows:
+
+                                    AGREEMENT
+
+                                    ARTICLE 1
+
+                           PURCHASE AND SALE OF ASSETS
+
+     1.1 Assets to be Sold to Buyer. On the terms and subject to the conditions
+of this Agreement, and on the basis of the representations and warranties herein
+contained, Seller shall sell, transfer, convey, assign and deliver to Buyer, on
+the Closing Date, all of its right, title and interest in and to the following
+intangible assets used in the Medicaid Business (the "Special Intangible
+Medicaid Assets"), free and clear of all Liens:
+
+          (a) Rights to Provide Services under Seller's Florida Medicaid
+Contract, Etc. Any and all rights of Seller under Seller's Florida Medicaid
+Contract to provide services to Members from and after the Effective Date, and
+the corresponding right to all capitation payments paid or payable by AHCA with
+respect to such Members (and other persons), for periods of service from and
+after the Effective Date;
+
+          (b) Rights Under Assumed Provider Contracts. All of Seller's rights
+from and after the Effective Date under the Designated Provider Contracts
+(determined pursuant to Section 7.1 below) assigned or transferred to Buyer as
+of Closing in accordance with Section 7.1 below (the "Assumed Provider
+Contracts"), provided, to the extent any such Designated Provider Contract
+relates to multiple product lines (e.g., commercial and Medicaid) (a "Dual
+Product Provider Contract"), such Designated Provider Contract will only be
+assigned to Buyer if such contract or a consent to assignment permits assignment
+in part and then the rights assigned to Buyer with respect to such Designated
+Provider Contract shall be limited to the rights with respect to the services
+provided and to be provided to Members and other persons receiving health care
+services under Buyer's Medicaid Plan;
+
+          (c) Member Information. All information relating to Members which is
+in Seller's possession at Closing and which is necessary or customarily used by
+Seller in connection with the operation, ownership and management of Seller's
+Medicaid Plan and complying with all requirements of Seller's Florida Medicaid
+Contract and applicable laws and regulations, including lists (in all media used
+by Seller, electronic or otherwise) of all Members containing names, addresses,
+identification numbers and provider data, together with all medical and claim
+histories and preauthorized records, and all Member eligibility data distributed
+by AHCA through ACS or otherwise (which information shall be distributed
+directly to Buyer from and after Closing);
+
+          (d) Certain Designated Medicaid Provider Information. An electronic
+and hard copy list of all Designated Medicaid Providers who or which are a party
+to an Assumed Provider Agreement; electronic extracts of all of Seller's AMISYS
+and credentialing data as of Closing
+
+                                       2
+
+<PAGE>
+
+containing, among other things, for each such Designated Medicaid Provider, the
+elements listed on Schedule 1.1(d); copies (in all media used by Seller) of the
+Assumed Provider Contracts; the credentialing files for all Designated Medicaid
+Providers who or which are contracted through an Assumed Provider Contract; and
+all books, records and reports in Seller's possession at Closing with respect to
+such providers to the extent such books, records and reports relate to the
+services provided by such providers to the Medicaid Business or to the
+credentialing of such providers;
+
+          (e) Additional Information. Copies of any policies, procedures,
+manuals and other information in Seller's possession at Closing used solely in
+connection with Seller's Florida Medicaid Business and otherwise pertaining to
+the Members and/or Seller's Medicaid Plan;
+
+          (f) Brand Name. All of Seller's rights and interest in and to the name
+"St. Augustine Medicaid", any and all trademarks and service marks related to
+such name, if any, and all goodwill and rights associated therewith, including
+all rights to protection of interests therein in all jurisdictions (for
+avoidance of doubt, to the extent such name has been used in combination with
+Seller's other names or logos, nothing herein shall be deemed or construed to
+transfer to Buyer any rights or interest in such other names or logos);
+
+          (g) Claims and Rights. Claims and rights of every kind relating to the
+Special Intangible Medicaid Assets and/or the ownership of the Medicaid Business
+after the Effective Date, including prepayments, refunds, causes of action,
+choses in action, rights of recovery, rights of set-off, and rights of
+recoupment, except to the extent such claims and rights relate to an Excluded
+Asset or an Excluded Liability; and
+
+          (h) Goodwill. All goodwill of the Medicaid Business related to the
+foregoing assets.
+
+     1.2 Excluded Assets. Notwithstanding anything in Section 1.1 of this
+Agreement to the contrary, Seller shall only be obligated to sell, and Buyer
+shall only be entitled to purchase, the Special Intangible Medicaid Assets, and
+Seller shall not have any obligation to sell to Buyer, nor shall Buyer have any
+purchase rights with respect to, Seller's other assets (the "Excluded Assets").
+The Excluded Assets shall include:
+
+          (a) All of Seller's cash, cash equivalents, investment assets, bank
+accounts, statutory deposits and accounts receivable held or existing as of
+Closing (excluding any capitation payments received by Seller which relate to
+periods from and after the Effective Date, which Seller shall promptly turn over
+to Buyer);
+
+          (b) All provider contracts of Seller that are not listed on Schedule
+7.1 as a Designated Provider Contract and all Contingent Provider Contracts that
+are not assigned or transferred to Buyer as of Closing (the "Excluded Provider
+Contracts");
+
+          (c) All of Seller's owned real property, if any, and all of Seller's
+tangible personal property;
+
+          (d) All of Seller's leases and subleases of real and personal
+property;
+
+                                       3
+
+<PAGE>
+
+          (e) All Tax refund claims of Seller of any type or description;
+
+          (f) All of Seller's Benefit Plans and employment agreements;
+
+          (g) Seller's corporate minute books and records;
+
+          (h) Seller's information systems and proprietary processes;
+
+          (i) All rights to payments or recoveries due Seller from third parties
+relating to services provided prior to the Effective Date and services in
+connection with Excluded Claims, including, without limitation, rights to
+reinsurance recoveries, rebates, refunds and subrogation; provided, in no event
+shall Seller be entitled to capitation payments from AHCA relating to periods
+from and after the Effective Date (for avoidance of doubt, Seller's right to
+payments or recoveries from third parties relating to the Excluded Claims shall
+not entitle Seller to any capitation paid on or after the Effective Date with
+respect to such Members);
+
+          (j) Any and all other assets of Seller which are not related to the
+Special Intangible Medicaid Assets and/or the Medicaid Business.
+
+                                   ARTICLE 2
+
+                            ASSUMPTION OF LIABILITIES
+
+     2.1 Assumed Liabilities. Buyer agrees that at Closing it will assume, and
+agrees to fully and faithfully pay, perform and discharge, as the case may be,
+when due, only the following obligations of Seller (the "Assumed Liabilities"):
+
+          (a) The coverage and provision of health care services to Members who
+are transferred to Buyer, but only to the extent such services are required
+under Buyer's Florida Medicaid Contract and accrue and relate to dates of
+service from and after the Effective Date (and are not otherwise Excluded
+Claims); and
+
+          (b) Subject to Section 2.2 below, the obligations and liabilities
+under the Assumed Provider Contracts, but only to the extent of contractual
+obligations and liabilities which are to be initially performed or which accrue
+from and after the Effective Date and relate solely to services provided from
+and after the Effective Date (excluding Excluded Claims); provided, in the case
+of Dual Product Provider Contracts, such assumed obligations and liabilities
+shall apply only to the Medicaid Business.
+
+The Parties specifically acknowledge and agree that neither the assignment by
+Seller of its rights under Seller's Florida Medicaid Contract pursuant to
+Section 1.1(a) above nor the terms of this Section 2.1 shall be deemed or
+construed to be an assumption by Buyer of all of Seller's duties and obligations
+under Seller's Florida Medicaid Contract.
+
+     2.2 Excluded Liabilities. Notwithstanding any provision of this Agreement
+or any other document or instrument to the contrary, Buyer shall have the
+obligation to assume only the Assumed Liabilities, Buyer shall not assume any
+other liability or obligation of Seller, regardless of whether
+
+                                       4
+
+<PAGE>
+
+such obligation arises before or after the Effective Date, all of which shall be
+retained by Seller (the "Excluded Liabilities"), and the Excluded Liabilities
+shall be deemed to include, without limitation:
+
+          (a) All medical claim liabilities of Seller or the Medicaid Business
+related to periods and dates of service prior to the Effective Date, including,
+without limitation, IBNR;
+
+          (b) Any and all claims included in any of the following categories
+(the "Excluded Claims"): (i) all medical claim liabilities (whether accruing
+before or after the Effective Date) which relate to a preauthorization and/or an
+admission which after the date of this Agreement and prior to the Effective Date
+was erroneously denied or improperly pended, (ii) for non-maternity cases, all
+medical claim liabilities (whether accruing before or after the Effective Date)
+which relate to a Member who is admitted to a hospital or other inpatient
+facility through the Effective Date (a "Span Admission"); provided, with respect
+to the liabilities arising under this subsection (ii), Seller shall not have any
+liability related to a Span Admission for services rendered after the earlier of
+(x) the tenth (10th) day after the Effective Date; and (y) the date such Member
+is discharged (a Member shall not be deemed discharged if re-admitted within
+forty-eight (48) hours of the time of discharge), and (iii) for maternity cases,
+all medical claim liabilities (whether accruing before or after the Effective
+Date) which relate to a Span Admission for both the mother and newborn until
+both the mother and newborn are discharged (a Member shall not be deemed
+discharged if re-admitted within forty-eight (48) hours of the time of
+discharge), provided, with respect to medical claim liabilities of any newborn
+transferred to a neonatal intensive care unit, Seller shall not have any
+liability for services rendered after the tenth (10th) day after the Effective
+Date (although under this Section 2.2(b) Seller is obligated to pay for Excluded
+Claims, Buyer shall perform medical management functions related to Span
+Admissions in the manner set forth Section 7.3(f) below);
+
+          (c) Any and all debts, liabilities and administrative and other
+obligations arising out of or under Seller's Florida Medicaid Contract
+(including, without limitation, all obligations which relate to the termination
+or close-out of Seller's obligations under Seller's Florida Medicaid Contract);
+
+          (d) Any and all debts, liabilities and administrative and other
+obligations arising out of or under the Assumed Provider Contracts (i) which
+accrued or were to be performed prior to the Effective Date, (ii) which relate
+to the dates of service (or periods of required service) prior to the Effective
+Date or to Excluded Claims (including claims run-out obligations and withhold or
+bonus pool settlements), or (iii) which arise out of a breach of any of such
+contracts related to events or circumstances occurring prior to the Effective
+Date (provided, the foregoing shall not be deemed to limit Seller's right to
+have liability apportioned to Buyer, if Seller is entitled to relief pursuant to
+Section 8.3(a)(iii));
+
+          (e) Seller's Benefit Plans (including all obligations pursuant to the
+continuation coverage rules of ERISA Sections 601-608 and Code Section 4980B)
+(the "Excluded Benefit Plans") and obligations to Seller's employees;
+
+          (f) Any and all Taxes arising from or related to the ownership of the
+Special Intangible Medicaid Assets or the conduct of the Medicaid Business prior
+to the Effective Date,
+
+                                       5
+
+<PAGE>
+
+including any personal property and sales taxes relating to the periods prior to
+the Effective Date or any other Taxes payable by Seller; and
+
+          (g) Any and all debts, liabilities and obligations of Seller which are
+not related to the Special Intangible Medical Assets.
+
+                                   ARTICLE 3
+
+                        PURCHASE PRICE, MANNER OF PAYMENT
+                                   AND CLOSING
+
+     3.1 Purchase Price. In consideration of the sale, assignment, transfer,
+conveyance and delivery of the Special Intangible Medicaid Assets to Buyer at
+Closing, and in consideration for the representations, warranties, covenants and
+agreements of Seller contained herein and in the Ancillary Agreements and
+Instruments, Buyer shall pay Seller, at the time and in the manner set forth
+below, an amount equal to the product determined by multiplying (a) $322.58 by
+(b) the Closing Transferred Membership (defined below) (the "Preliminary
+Purchase Price"), subject to the adjustment pursuant to Section 3.2 below (as
+adjusted, the "Purchase Price").
+
+     3.2 Purchase Price Adjustment.
+
+          (a) Subject to Section 3.2(b) below:
+
+               (i) If the Closing Transferred Membership is less than the
+Reconciled Transferred Membership, then for purposes of calculating the Purchase
+Price, the Preliminary Purchase Price shall be increased by an amount equal to
+the product determined by multiplying (A) $322.58 by (B) the difference of the
+Reconciled Transferred Membership minus the Closing Transferred Membership; and
+
+               (ii) If the Closing Transferred Membership is greater than the
+Reconciled Transferred Membership, then for purposes of calculating the Purchase
+Price, the Preliminary Purchase Price shall be decreased by an amount equal to
+the product determined by multiplying (A) $322.58 by (B) the difference of the
+Closing Transferred Membership minus the Reconciled Transferred Membership.
+
+          (b) The foregoing notwithstanding, the Purchase Price shall be an
+amount equal to the Preliminary Purchase Price if the increase or decrease, as
+applicable, in the Reconciled Transferred Membership from the Closing
+Transferred Membership is equal to or less than five percent (5%) of the Closing
+Transferred Membership (solely for purposes of an example, if the Closing
+Transferred Membership was 31,000, the Reconciled Transferred Membership would
+have to be greater than 32,550 for an upward adjustment to the Preliminary
+Purchase Price and less than 29,450 for a downward adjustment to the Preliminary
+Purchase Price).
+
+          (c) The "Closing Transferred Membership" shall be the number of
+Members initially transferred to Buyer on the Effective Date, determined based
+on the Members initially appearing on the ACS enrollment tape used by AHCA for
+purposes of paying capitation to Buyer for such Members for the month of the
+Effective Date (the "Effective Month"). (To the extent the ACS
+
+                                       6
+
+<PAGE>
+
+enrollment tape does not identify such Members through use of an identifier,
+Seller shall deliver to Buyer copies of Seller's enrollment tape and
+reinstatement files for the month prior to the Effective Date so that a
+comparison can be performed for purposes of identifying the Members.)
+
+          (d) The "Reconciled Transferred Membership" shall be the sum of: (i)
+those individual Members who meet both of the following conditions: (A) he or
+she was validly included in the Closing Transferred Membership and (B) he or she
+continues to be enrolled with Buyer as of the second month after Closing in
+which capitation is paid (counting the Effective Month as the first capitated
+month) (the "Reconciliation Month"), determined based on comparing the ACS
+enrollment tape for the Effective Month with the ACS enrollment tape used by
+AHCA for purposes of paying capitation to Buyer for the Reconciliation Month;
+(ii) those individual Members who are enrolled with Buyer as of the
+Reconciliation Month (determined in the manner described above), but who were
+not included in the Closing Transferred Membership because such Member was
+disenrolled from Seller's Medicaid Plan during the ninety (90) day period
+preceding the Effective Date for eligibility reasons and then reinstated after
+the Effective Date but prior to the generation of the enrollment tape for the
+Reconciliation Month; provided, the foregoing assumes AHCA will be able to
+supply Buyer with a statement of such Members who were disenrolled for
+eligibility reasons (the "Statement of Reinstated Members"); and (ii) those
+persons who are Seller's Enrolled RTEs. "Seller's Enrolled RTEs" means persons
+who were not included in the Closing Transferred Membership, but who were on
+Seller's "request to enroll" filings as of Closing and, consequently, became
+enrolled with Buyer after Closing and continued to be enrolled with Buyer as of
+the Reconciliation Month, as determined by Buyer reviewing the Benova marketing
+files delivered to Buyer from Seller and the ACS enrollment tape used by AHCA
+for purposes of paying capitation to Buyer for the Reconciliation Month (the
+"RTE Files"). (For avoidance of doubt, no person shall be double counted by
+being placed in more than one of the categories in subsections (i) through (iii)
+above.)
+
+          (e) Within ten (10) business days of receipt of the enrollment tape
+for the Reconciliation Month, the Statement of Reinstated Members (if available
+from AHCA) and the RTE Files, Buyer shall deliver to Seller a statement with the
+calculation of the Reconciled Transferred Membership and the final Purchase
+Price (the "Buyer's Adjustment Statement") together with copies of the
+enrollment tapes for the Effective Month and the Reconciliation Month, the
+Statement of Reinstated Members (if available from AHCA) and the RTE Files. The
+Buyer's Adjustment Statement and the Purchase Price reflected thereon shall be
+deemed definitively determined and final and binding on the Parties unless
+Seller objects in writing within ten (10) business days of its receipt of the
+Buyer's Adjustment Statement and provides a written statement of its
+calculations of the Reconciled Transferred Membership and the Purchase Price
+(the "Seller's Adjustment Statement"). Failing timely objection in accordance
+with the preceding sentence, the Buyer's Adjustment Statement shall be deemed
+the Definitive Statement (defined below). If Seller submits a timely objection,
+Seller and Buyer shall work in good faith to resolve the dispute, and any mutual
+agreement of Buyer and Seller with respect to the Reconciled Transferred
+Membership and the Purchase Price shall be deemed the Definitive Statement. If
+Seller and Buyer cannot agree on a final and binding calculation of the
+Reconciled Transferred Membership and Purchase Price within ten (10) days of
+Seller's delivery to Buyer of a timely objection with Seller's Adjustment
+Statement, Seller and Buyer shall submit the enrollment tape for the Effective
+Month, the enrollment tape for the Reconciliation Month, the Statement of the
+Reinstated Members, the RTE Files and Buyer's Adjustment Statement
+
+                                       7
+
+<PAGE>
+
+and Seller's Adjustment Statement to PricewaterhouseCoopers or other mutually
+acceptable nationally-qualified accounting firm (the "Independent Accounting
+Firm") for preparation of the Definitive Statement. The Independent Accounting
+Firm's preparation of the Definitive Statement shall consist solely and
+exclusively of (i) reviewing the enrollment tape for the Effective Month, the
+enrollment tape for the Reconciliation Month, the Statement of the Reinstated
+Members and the RTE Files, (ii) calculating the Reconciled Transferred
+Membership in accordance with the terms of Section 3.2(d) above based solely on
+its review of such tapes, statements and files, and (iii) calculating the
+Purchase Price in accordance with the terms of Sections 3.1 and 3.2 above based
+solely on its calculation of the Reconciled Transferred Membership. Within
+thirty (30) days after the Parties' submission of the dispute, the Independent
+Accounting Firm shall complete the preparation of the Definitive Statement and
+deliver it to Seller and Buyer, which shall upon such delivery be final and
+binding on the Parties. The costs and fees of the Independent Accounting Firm
+incurred in connection with the preparation of the Definitive Statement shall be
+paid by the Party (Buyer or Seller, as the case may be) whose calculation of the
+Purchase Price (as set forth in its applicable Adjustment Statement) is furthest
+in dollars from the Purchase Price set forth in the Definitive Statement. The
+"Definitive Statement" shall be the statement of the definitively determined and
+final and binding calculation of the Reconciled Transferred Membership and the
+Purchase Price, whether determined by (A) Seller's failure to timely object to
+Buyer's Adjustment Statement, (B) the parties' mutual agreement if Seller
+submits a timely objection to Buyer's Adjustment Statement, or (C) the
+Independent Accounting Firm.
+
+     3.3 Manner of Payment.
+
+          (a) At Closing, a cash amount equal to twenty-five percent (25%) of
+the Preliminary Purchase Price (the "Escrow Deposit") shall be delivered by
+Buyer to SouthTrust Bank or its successor (Norfolk, Virginia), as escrow agent,
+to hold in an escrow account (the "Escrow Account") pursuant to the terms of an
+escrow agreement in substantially the form attached hereto as Exhibit A (the
+"Escrow Agreement") and the difference of the Preliminary Purchase Price minus
+the Escrow Deposit shall be delivered by Buyer to Seller in immediately
+available funds.
+
+          (b) (i) After the Reconciled Transferred Membership and Purchase Price
+are calculated, the amounts distributable to Seller and/or Buyer from the Escrow
+Account and/or payable by one to the other will be determined by comparing the
+Preliminary Purchase Price to the amount of the Purchase Price.
+
+               (ii) If the Purchase Price is equal to or exceeds the Preliminary
+Purchase Price (such difference, the "Shortfall Amount"), then within five (5)
+business days of the delivery to Seller of the Adjustment Statement (A) Buyer
+shall deliver to the Escrow Agent a cash amount equal to the Shortfall Amount,
+if any; and (B) subject to the terms of the Escrow Agreement, Seller and Buyer
+shall by joint written instructions direct the Escrow Agent to distribute to
+Seller the funds held in the Escrow Account.
+
+               (iii) If the Purchase Price is less than the Preliminary Purchase
+Price (such difference, the "Excess Amount"), then within five (5) business days
+of the delivery to Seller of the Adjustment Statement, Seller and Buyer shall by
+joint written instructions direct the Escrow Agent to distribute (A) to Buyer,
+an amount equal to the Excess Amount; and (B) subject to the terms of the
+
+                                       8
+
+<PAGE>
+
+Escrow Agreement, to Seller the balance of the funds held in the Escrow Account
+after the distribution to Buyer of the Excess Amount.
+
+               (iv) The interest earned on the Escrow Deposit, if any, shall be
+divided on a pro rata basis between Seller and Buyer, based on the proportionate
+share of the Escrow Account distributable to each. If the escrow agent charges a
+fee related to the maintenance of the Escrow Account, Buyer shall pay such fee.
+
+     3.4 Closing and Effective Date. The closing for the sale by Seller to Buyer
+of the Special Intangible Medicaid Assets, the assumption by Buyer of the
+Assumed Liabilities and the consummation of the transactions contemplated by
+this Agreement (the "Closing") shall take place at the offices of Willcox &
+Savage, P.C., 1800 Bank of America Center, One Commercial Place, Norfolk,
+Virginia, at 10:00 a.m. local time on the last business day of the month in
+which all conditions set forth in Section 6.1 have been satisfied and all
+conditions set forth in Sections 6.2 and 6.3 have been satisfied or waived
+(other than conditions with respect to actions which the respective Parties will
+take at Closing itself) or such other date as the Parties may mutually determine
+(as determined, the "Closing Date"), and shall be effective for purposes of
+allocating risk as of 12:01 a.m. on the first day of the month immediately
+following the Closing Date (the "Effective Date"). The parties intend to effect
+such Closing by delivering documents prior to or contemporaneously with Closing
+in lieu of in person.
+
+     3.5 Allocation of Purchase Price. The Purchase Price shall be allocated
+among the Special Intangible Medicaid Assets in accordance with the allocation
+protocols (and amounts determined therefrom) set forth in Schedule 3.5 to be
+attached hereto by Buyer prior to or at Closing.
+
+                                   ARTICLE 4
+
+          REPRESENTATIONS AND WARRANTIES OF SELLER AND SELLER'S PARENT
+
+     In order to induce Buyer to enter into this Agreement, (a) Seller
+represents and warrants to Buyer that the Seller's Representations and
+Warranties in this ARTICLE 4 are correct and complete as of the date of this
+Agreement and will be correct and complete on the Closing Date (as though made
+then and as though the Closing Date were substituted throughout this ARTICLE 4,
+except where a specific date is indicated), and (b) Seller's Parent represents
+and warrants to Buyer that the Seller's Parent's Representations and Warranties
+in this ARTICLE 4 are correct and complete as of the date of this Agreement and
+will be correct and complete on the Closing Date (as though made then and as
+though the Closing Date were substituted throughout this ARTICLE 4, except where
+a specific date is indicated).
+
+     "Seller's Representations and Warranties" means all representations and
+warranties in this ARTICLE 4 other than the Seller's Parent's Representations
+and Warranties. "Seller's Parent's Representations and Warranties" means the
+representations and warranties under Sections 4.1, 4.2, 4.3, 4.4, 4.17, 4.18 and
+4.19 that relate to Seller's Parent, as specifically identified.
+
+     4.1 Organization, Good Standing, Qualification and Subsidiaries. Each of
+Seller and Seller's Parent is a Florida corporation duly organized, validly
+existing and in good standing under
+
+                                       9
+
+<PAGE>
+
+the laws of Florida. Each of Seller and Seller's Parent has full corporate power
+and authority to conduct its business and to own its property, as now conducted
+and owned, and has full corporate power and authority necessary to permit it to
+execute and deliver this Agreement and all Ancillary Agreements and Instruments
+required to be executed and delivered by it under this Agreement, and to carry
+out the terms of this Agreement and of all Ancillary Agreements and Instruments.
+Seller has no subsidiaries.
+
+     4.2 Authorization, etc. The execution and delivery by Seller of this
+Agreement and all Ancillary Agreements and Instruments required to be executed
+by Seller hereunder have been duly and validly authorized by all necessary
+action in respect thereof on the part of Seller (including, without limitation,
+all necessary approvals of Seller's directors and members). The execution and
+delivery by Seller's Parent of this Agreement and all Ancillary Agreements and
+Instruments required to be executed by Seller's Parent hereunder have been duly
+and validly authorized by all necessary action in respect thereof on the part of
+Seller's Parent (including, without limitation, all necessary approvals of
+Seller's Parent's directors). This Agreement represents, and when executed and
+delivered at Closing the Ancillary Agreements and Instruments will represent,
+the legal, valid and binding obligation of Seller, enforceable against it in
+accordance with its terms, subject to (a) applicable bankruptcy, reorganization,
+insolvency, moratorium and other laws affecting creditors' rights generally from
+time to time in effect and (b) limitations on the enforcement of equitable
+remedies. This Agreement represents, and when executed and delivered at Closing
+the Ancillary Agreements and Instruments will represent, the legal, valid and
+binding obligation of Seller's Parent, enforceable against it in accordance with
+its terms, subject to (a) applicable bankruptcy, reorganization, insolvency,
+moratorium and other laws affecting creditors' rights generally from time to
+time in effect and (b) limitations on the enforcement of equitable remedies.
+
+     4.3 No Legal Bar. Subject to the receipt of the Closing Governmental
+Authorizations described in Section 6.1 below, the execution and delivery by
+Seller and Seller's Parent of this Agreement does not, and the consummation of
+the transactions contemplated hereby will not, (i) conflict with or violate the
+Articles of Incorporation or Bylaws of Seller or Seller's Parent, (ii) result in
+a breach of, result in or constitute a default (or an event which, with notice
+or lapse of time or both, would constitute a default) under, or result in the
+cancellation or unilateral modification or amendment of, or accelerate the
+performance required by, or result in the creation of any Lien upon any of the
+Special Intangible Medicaid Assets under any of the terms, conditions or
+provisions of any note, bond, mortgage, indenture, deed of trust, license,
+agreement, lease or other instrument, obligation or arrangement to which Seller
+or Seller's Parent is a party or to which Seller or Seller's Parent or any of
+the Special Intangible Medicaid Assets may be subject (nor does a breach or
+default which would have any such effect, or which would otherwise impair the
+consummation of the transactions contemplated hereby, presently exist), or (iii)
+conflict with or violate any order, writ, judgment, injunction, decree, award,
+ruling, statute, rule or regulation applicable to Seller or Seller's Parent or
+any of the Special Intangible Medicaid Assets or the Medicaid Business; nor is
+Seller or Seller's Parent subject to, or a party to, any charter, bylaws,
+mortgage, lien, agreement, contract, order, judgment or decree which would
+prevent the consummation of the transactions contemplated by this Agreement or
+compliance by Seller or Seller's Parent with the terms, conditions and
+provisions hereof. Except for Seller's Florida Medicaid Contract, Seller is not
+a party to any contract which limits its rights to engage in, or to compete with
+any person in, the Medicaid Business, or
+
+                                       10
+
+<PAGE>
+
+which contains exclusivity provisions restricting the geographical area in
+which, or the method by which, the Medicaid Business may be conducted.
+
+     4.4 Financial Matters.
+
+          (a) Attached hereto as Schedule 4.4(a) are the following financial
+statements (collectively, the "Financial Statements"): (i) complete and correct
+copies of Seller's Parent's unaudited combined consolidating balance sheet as of
+December 31, 2002 and Seller's Parent's related combined consolidating unaudited
+income statement for the twelve (12) month period ended December 31, 2002, all
+prepared in accordance with GAAP (ii) complete and correct copies of Seller's
+audited balance sheets as of December 31, 2001 and December 31, 2000 and
+Seller's unaudited balance sheet as of December 31, 2002, and Seller's related
+audited income statements for the twelve (12) month periods ended December 31,
+2001 and December 31, 2000 and Seller's unaudited income statement for the
+twelve (12) month period ended December 31, 2002, all prepared in accordance
+with GAAP and SAP and (iii) Seller's unaudited income statements solely with
+respect to the Medicaid Business for the twelve (12) month periods ended
+December 31, 2002, December 31, 2001 and December 31, 2000, all prepared in
+accordance with GAAP. The Financial Statements have been prepared in accordance
+with GAAP and/or SAP as indicated above, consistently applied throughout the
+periods indicated (provided SAP standards may not have been consistently applied
+from period to period where SAP's standards have been amended and the medical
+expense categories and line items in Seller's unaudited income statements solely
+with respect to the Medicaid Business for the twelve (12) month periods ended
+December 31, 2001 and December 31, 2000 have not been retroactively adjusted to
+reflect the year-end changes in estimates from the monthly estimates as was done
+for the twelve (12) month period ended December 31, 2002), present fairly the
+financial condition of Seller's Parent and Seller, as applicable, as of such
+dates and the results of operations of Seller's Parent, Seller and the Medicaid
+Business, as applicable, for such periods, are complete and correct in all
+material respects, and are in accordance with the books and records of Seller
+(which books and records are complete and correct in all material respects);
+provided, however, that the unaudited balance sheets and income statements are
+subject to normal year-end adjustments (which, to the knowledge of Seller's
+Parent and the Knowledge of Seller, as applicable, will not be material
+individually or in the aggregate) and lack footnote disclosures. Seller's IBNR
+liability reflected in its December 31, 2002 Financial Statements is
+management's best estimate of Seller's IBNR liability and has been prepared in
+accordance with GAAP. Seller's IBNR liability by line of business reflected in
+its December 31, 2002 Financial Statements, comprising commercial, Medicare and
+Medicaid, is at or above the point estimate reflected in its actuary's draft
+work sheets, which support the actuary's certification expected to be issued on
+or before April 1, 2003. Seller's IBNR liability by line of business reflected
+in its December 31, 2001 Financial Statements, comprising commercial, Medicare
+and Medicaid, is at or above the point estimate reflected in its actuary's
+certification dated February 15, 2002.
+
+          (b) The Audited Year-End Statements and Interim Monthly Reports
+delivered pursuant to Section 7.2(f) will be prepared in accordance with GAAP or
+SAP as indicated in Section 7.2(f) consistently applied throughout the periods
+indicated (provided SAP standards may not have been consistently applied from
+period to period where SAP's standards have been amended), will, as applicable,
+present fairly the financial condition of Seller's Parent and Seller as of
+December 31, 2002 and the end of each month reported in 2003 through the Closing
+Date and the results of
+
+                                       11
+
+<PAGE>
+
+operations of Seller and the Medicaid Business for the periods reported, will be
+complete and correct in all material respects, and will be in accordance with
+the books and records of Seller (which books and records will be complete and
+correct in all material respects); provided, however, that the unaudited balance
+sheets and income statements will be subject to normal year-end adjustments
+(which, to the knowledge of Seller's Parent and the Knowledge of Seller, as
+applicable, will not be material individually or in the aggregate) and will lack
+footnote disclosures. The IBNR liability reflected in the Interim Monthly
+Reports of Seller has been determined using methods consistent with those
+employed in interim periods during 2002.
+
+     4.5 Absence of Undisclosed Liabilities. Except (a) for obligations incurred
+since December 31, 2002 in the ordinary course of business (none of which arises
+out of, results from or relates to any breach of contract, tort or violation of
+law), or (b) as set forth on Schedule 4.5, Seller does not have any obligations
+or liabilities of any nature whatsoever relating to the Special Intangible
+Medicaid Assets or the Medicaid Business (whether absolute, accrued, contingent,
+or otherwise).
+
+     4.6 Absence of Certain Changes or Events. Except as set forth on Schedule
+4.6 hereto, since December 31, 2002, Seller has conducted the Medicaid Business
+only in the ordinary course and has not:
+
+          (a) suffered (involuntarily or voluntarily) (or received notice of any
+initiative, event or occurrence which, with or without the passage of time,
+could reasonably result in) any adverse changes in condition (financial or
+otherwise), results of operations, earnings, assets, prospects, business
+(including, without limitation, any change in its premium or other revenues,
+claims or other costs (including IBNR)), or relations with governmental
+authorities, Members, Seller Medicaid Providers, or its employees, which
+individually or in the aggregate have had (or could reasonably be expected to
+have) a materially adverse effect on the Special Intangible Medicaid Assets or
+the Medicaid Business or the condition (financial or otherwise), results of
+operations, earnings, assets, prospects or business of the Medicaid Business,
+excluding effects of changes that are generally applicable to (i) the United
+States economy or local economy in which the Medicaid Business is operated (as
+opposed to changes relating to the Medicaid Program) or (ii) the United States
+securities markets;
+
+          (b) sold, leased, licensed, transferred or assigned any of the Special
+Intangible Assets;
+
+          (c) created, permitted or allowed any Lien with respect to the Special
+Intangible Medicaid Assets;
+
+          (d) failed to pay any medical claims when due in accordance with its
+internal policies and procedures and applicable regulatory and contractual
+requirements (excepting an insubstantial number and amount of claims which may
+be delinquent with certain providers, provided such delinquencies have not
+caused a breach by Seller of any applicable provider contract nor would the loss
+of any provider to whom such amounts are due be material to the Medicaid
+Business);
+
+                                       12
+
+<PAGE>
+
+          (e) made or granted any increase in the compensation payable or to
+become payable by Seller (or for which Seller may have any liability) under any
+Designated Provider Contract to any Seller Medicaid Provider with respect to the
+Medicaid Business (other than increases required under the present terms of
+contracts);
+
+          (f) executed, amended, or terminated any contract with AHCA or any
+Designated Provider Contract or any other contract with a third party related to
+the Medicaid Business which involves annual consideration (paid or received) of
+more than Twenty-Five Thousand Dollars ($25,000) to which it is or was a party
+or by which any of the Special Intangible Medicaid Assets are bound or affected;
+amended, terminated or waived any of its material rights thereunder; or received
+notice of termination, amendment, or waiver of any such material contract or any
+material rights thereunder (excepting any Designated Provider Contract which may
+be terminated after the date of this Agreement in the manner described in
+Section 7.2(a)(iii) below);
+
+          (g) instituted, settled, or agreed to settle, any litigation, action,
+or proceeding before any court or governmental body having a material effect on
+the Special Intangible Assets or the Medicaid Business;
+
+          (h) incurred any material indebtedness, obligation or other liability
+(contingent or otherwise) relating to the Medicaid Business, except in the
+ordinary course of its business, consistent with past practice, and, to the
+Knowledge of Seller, there does not exist a set of circumstances that could
+reasonably be expected to result in any such material indebtedness, obligation
+or liability; or
+
+          (i) entered into any agreement or made any commitment to take any of
+the types of action described in subsections 4.6(a) through 4.6(h) above.
+
+     4.7 Providers and Provider Contracts.
+
+          (a) Schedule 4.7(a) is a complete and correct list of each physician,
+group, IPA, PHO, hospital/facility, ancillary service provider and other health
+care service provider that participates in the Medicaid Business as a Seller
+Medicaid Provider, and such list includes a complete and correct description of
+the following with respect to each contract with each Seller Medicaid Provider:
+the contracting parties (including the provider name), the type of provider,
+contract form number or type and the form of compensation used. Except as set
+forth on Schedule 4.7(a)(i), each such Seller Medicaid Provider has a written
+contract with Seller. To Seller's Knowledge, none of such providers has been
+placed on the convicted vendor list. To Seller's Knowledge, no Member is
+receiving continued care from a terminated provider, except in cases where a
+Member has sought care from a terminated provider on an out-of-network basis or
+a terminated provider is continuing to provide care under statutory and/or
+contractual continuity of care requirements.
+
+          (b) A complete and correct copy of each Designated Provider Contract
+has previously been delivered to Buyer. Except as set forth on Schedule 4.7(b),
+each Designated Provider Contract is legal, valid, binding, enforceable by
+Seller and in full force and effect and will continue to be legal, valid,
+binding and enforceable by Buyer in accordance with its terms immediately
+following consummation of the Transaction assuming any required consent to
+
+                                       13
+
+<PAGE>
+
+assignment is obtained from the affected provider. Neither Seller nor, to the
+Knowledge of Seller, any other party is in breach or default beyond any
+applicable grace period, and no event has occurred which with notice or lapse of
+time would constitute breach or default, or permit termination, modification or
+suspension under any Designated Provider Contract. Each Designated Provider
+Contract complies in all material respects with the terms of Seller's Florida
+Medicaid Contract and all applicable AHCA rules and regulations, each Medicaid
+Provider is paid in accordance with the terms of its, his or her contract, and
+all medical claims are paid when due in accordance with Seller's internal
+policies and procedures and applicable regulatory and contractual requirements
+(excepting an insubstantial number and amount of claims which may be delinquent
+with certain providers, provided such delinquencies have not caused a breach by
+Seller of any applicable provider contract nor would the loss of any provider to
+whom such amounts are due be material to the Medicaid Business).
+
+          (c) Schedule 4.7(c) is a complete and correct list of all of the
+Designated Provider Contracts that are Contingent Provider Contracts.
+
+          (d) The information provided to Buyer pursuant to Section 1.1(d) for
+each Designated Medicaid Provider that is a party to an Assumed Provider
+Contract is correct and complete in all material respects.
+
+          (e) Except as described on Schedule 4.7(e), none of the Designated
+Provider Contracts:
+
+               (i) has a term of more than one year,
+
+               (ii) obligates Seller to purchase reinsurance for the provider or
+provide stop loss protection or otherwise adjusts compensation payable to such
+provider based on claims experience,
+
+               (iii) requires Seller to pay, or to use or offer to use the
+services of, the provider on a most-favored provider basis,
+
+               (iv) obligates Seller to pay access or administrative fees,
+
+               (v) has a profit sharing component,
+
+               (vi) limits the rights of Seller to engage in, or to compete with
+any Person in, the Medicaid Business,
+
+               (vii) contains an exclusivity provision restricting Seller's
+ability to do business in certain geographical areas,
+
+               (viii) obligates or binds Seller to use, or offer to use, the
+services of a Medicaid Provider in preference to any other provider,
+
+               (ix) delegates to the provider medical management duties, or
+
+                                       14
+
+<PAGE>
+
+               (x) includes any provision for rate escalation based upon the
+consumer price index, inflation rates or other economic indicators.
+
+          (f) Except as described on Schedule 4.7(f), none of the "physicians"
+or "physician groups", as such terms are defined at 42 C.F.R. (S) 417.479 et.
+seq. (the "PIP Regulation"), contracted under the Designated Provider Contracts
+are placed at "substantial financial risk", as defined by the PIP Regulation in
+connection with the services provided to Members. To the extent applicable,
+Seller is in compliance in all material respects with the reporting and enrollee
+survey requirements of the PIP Regulation.
+
+          (g) Schedule 4.7(g) describes as of the date hereof, and will be
+updated as of a date no more than five (5) days prior to the Closing Date to
+describe, each written complaint received by Seller from a Seller Medicaid
+Provider since January 1, 2002 and generally describes the nature and
+disposition of such complaint.
+
+          (h) Except as set forth on Schedule 4.7(h), Seller has credentialed
+each Seller Medicaid Provider in accordance with AHCA, AAAHC and NCQA
+requirements.
+
+     4.8 Status of Seller's Florida Medicaid Contract. Seller's Florida Medicaid
+Contract is legal, valid, binding, enforceable and in full force and effect and
+will be terminated contemporaneously with the consummation of the Transaction
+without any liability whatsoever to Buyer, and the transfer to Buyer of Seller's
+rights under Seller's Florida Medicaid Contract pursuant to the Bill of Sale and
+Assignment will be legal, valid, binding and enforceable by Buyer following the
+consummation of the Transaction. Neither Seller nor, to the Knowledge of Seller,
+any other party is in breach or default under Seller's Florida Medicaid Contract
+beyond any applicable grace period, and no event has occurred which with notice
+or lapse of time or both would constitute a breach or default, or permit
+termination, modification, suspension or imposition of sanctions, under Seller's
+Florida Medicaid Contract.
+
+     4.9 Medicaid Members and Services.
+
+          (a) The information to be delivered to Buyer pursuant to Section
+1.1(c) for each Member will contain all material information that Seller is
+required to maintain under the terms of Seller's Florida Medicaid Contract (and
+applicable laws, rules and regulations), and all of the information delivered to
+Buyer will be, upon delivery, correct and complete in all material respects.
+
+          (b) Schedule 4.9(b) describes as of the date hereof, and will be
+updated as of a date no more than five (5) days prior to the Closing Date to
+describe, each written complaint received by Seller (including its predecessor
+in interest, as applicable) from a Member since January 1, 2002 and generally
+describes the nature and disposition of such complaint.
+
+          (c) With respect to all requests for services duly made by or for a
+Member prior to Closing, Seller has complied in all respects with its internal
+medical management policies and procedures (including utilization review and
+pre-authorization procedures) and the use of such policies and procedures
+complies in all material respects with Seller's Florida Medicaid Contract and
+
+                                       15
+
+<PAGE>
+
+all applicable laws, rules and regulations. Seller has adjudicated all requests
+for preauthorizations, referrals, and admissions in the ordinary course of
+business.
+
+     4.10 Title to Assets; Liens, etc. Seller has good and marketable title to
+the Special Intangible Medicaid Assets, free and clear of all Liens. Subject to
+obtaining the Closing Governmental Authorizations and the consents under
+Contingent Provider Contracts identified on Schedule 4.7(c), Seller has the
+authority and right to sell, assign, transfer and deliver to Buyer title to such
+Special Intangible Medicaid Assets, free and clear of all Liens, and at and as
+of the Closing Date the Special Intangible Medicaid Assets shall be sold,
+assigned, transferred and delivered to Buyer free and clear of all Liens.
+
+     4.11 Tax Matters. Seller has made and is current with respect to all
+reports, returns and other filings (herein sometimes collectively referred to as
+"Tax Returns") required to be furnished from time-to-time to all Federal, state,
+local or other governmental authorities of any nature (including, without
+limitation, as applicable, all real and/or personal property, franchise and
+withholding taxes and other Tax Returns); all such Tax Returns so furnished were
+true, correct and complete in all material respects; based on the affairs,
+revenues, enrollment or other applicable measure of Seller's operations or
+assets during the period in question, each such Tax Return correctly stated and
+reported the amount due; and all amounts reflected as due and payable on the Tax
+Returns have been or will be paid by Seller on or before their due date
+regardless of whether due and payable prior to or following the Closing Date.
+There are no liens for Taxes (other than for current Taxes not yet due and
+payable) on the Special Intangible Medicaid Assets.
+
+     4.12 No Litigation. Except as set forth on Schedule 4.12, there are no
+demands, actions, suits, investigations or proceedings pending or, to the
+Knowledge of Seller, threatened in any court or by or before any governmental
+agency affecting the Special Intangible Medicaid Assets or the Medicaid Business
+as now or heretofore conducted by Seller or which questions the validity or
+propriety of this Agreement or the consummation of the Transaction. Seller is
+not subject to any judicial injunction or mandate or any administrative order or
+administrative restriction directed to or against it as a result of its
+ownership of the Special Intangible Medicaid Assets or its conduct of the
+Medicaid Business as now or heretofore conducted by it, and, to the best of
+Seller's Knowledge, no governmental agency has challenged or questioned in
+writing, or commenced or given notice of intention to commence any investigation
+relating to, the legal right of Seller to conduct the Medicaid Business or any
+part thereof as now or heretofore conducted by it.
+
+     4.13 Compliance with Laws. Seller has all Governmental Authorizations
+necessary to permit it to own or have rights in the Special Intangible Medicaid
+Assets and operate the Medicaid Business, has complied and is in compliance in
+all material respects with the terms of Seller's Florida Medicaid Contract and
+with all laws, rules, regulations, ordinances, reporting and licensing
+requirements and orders applicable to the Medicaid Business (including, without
+limitation, all laws, rules and regulations referenced in Section 70.2 of
+Seller's Florida Medicaid Contract), and, to Seller's Knowledge, no condition
+exists that, with or without notice or the passage of time or both, shall cause
+Seller not to remain in such compliance. Without limiting the foregoing, and
+except as set forth on Schedule 4.13, Seller has not received notification from
+any agency or department of federal, state or local government asserting that,
+with respect to the conduct of the Medicaid Business, it is not in compliance in
+any material respect with any of the statutes, regulations or
+
+                                       16
+
+<PAGE>
+
+ordinances which such governmental authority enforces, nor has Seller received a
+notice from any such federal, state or local governmental agency threatening to
+revoke, suspend or modify any Governmental Authorization applicable to the
+Medicaid Business. Since January 1, 2002, Seller has filed all reports,
+registrations and statements, together with any amendments required to be made
+thereto, that under Seller's Florida Medicaid Contract and applicable laws,
+rules and regulations Seller is required to file with AHCA and other
+governmental authorities having jurisdiction over the Medicaid Business.
+Schedule 4.13 lists all examinations of Seller conducted by such a governmental
+authority since January 1, 2002 and identifies by date any correspondence
+between such governmental authority and Seller regarding sanctions, conclusions
+made and/or corrective action required or suggested based on such examination.
+
+     4.14 Rights in Name. Seller owns or possesses all intellectual property
+rights in the name "St. Augustine Medicaid Plan." Seller's use of such name has
+not interfered with, infringed upon, misappropriated or otherwise come into
+conflict with any intellectual property rights of any third parties. To the
+Knowledge of Seller, no third party has interfered with, infringed upon,
+misappropriated or otherwise come into conflict with Seller's rights in such
+name.
+
+     4.15 Insurance. Schedule 4.15 sets forth a true and complete list of all
+insurance policies carried by Seller with respect to the Medicaid Business,
+together with, in respect of each such policy, the name of the insurer, the
+policy number, the annual policy premium payable therefor, the limits of
+coverage, the deductible amount (if any), the expiration date thereof and each
+pending claim thereunder. Complete and correct copies of the certificate of
+insurance for each policy have previously been delivered or made available to
+Buyer by Seller. All such policies are in full force and effect. All premiums
+due thereon have been paid in a timely manner. (Nothing herein shall be
+construed as a transfer of any such policies to Buyer at Closing; Buyer will
+maintain its own insurance.)
+
+     4.16 Affiliate Relationships. Except as set forth on Schedule 4.16, Seller
+is not and has not within the past twenty-four (24) months been a party to any
+provider agreement with Seller's Parent or any other Affiliate of Seller.
+
+     4.17 No Bankruptcy. Neither Seller nor Seller's Parent is insolvent or the
+subject of Bankruptcy or any similar proceeding.
+
+     4.18 Broker's and Other Fees. Except for Cain Brothers & Company, LLC,
+whose fees shall be paid in full by Seller or its Affiliates, neither Seller nor
+Seller's Parent or any of their respective shareholders, directors or officers
+has employed any broker or finder or incurred any liability for any broker's or
+finder's fees or commissions in connection with any of the transactions
+contemplated by this Agreement.
+
+     4.19 Scope of Representations and Warranties; Misstatements and Omissions.
+
+          (a) Except for the representations and warranties made in this
+Agreement and in the certificates, statements, exhibits, schedules or other
+documents furnished to Buyer pursuant hereto, neither Seller nor Seller's Parent
+makes any other representations or warranties to Buyer,
+
+                                       17
+
+<PAGE>
+
+whether express, implied or statutory, in connection with the transactions
+contemplated by this Agreement.
+
+          (b) No representation or warranty made by Seller in this Agreement or
+in any certificate, statement, exhibit or schedule, or other document furnished
+to Buyer pursuant hereto, or in connection with the transactions contemplated by
+this Agreement, contains any untrue statement of material fact or omits to state
+a material fact necessary to make the statements contained herein or therein not
+misleading.
+
+                                   ARTICLE 5
+
+                     REPRESENTATIONS AND WARRANTIES OF BUYER
+
+     In order to induce Seller to enter into this Agreement, Buyer hereby
+represents and warrants to Seller that the statements contained in this ARTICLE
+5 are correct and complete as of the date of this Agreement and will be correct
+and complete on the Closing Date (as though made then and as though the Closing
+Date were substituted throughout this ARTICLE 5, except where a specific date is
+indicated).
+
+     5.1 Organization, Good Standing, Qualification and Subsidiaries. Buyer is a
+corporation duly organized, validly existing and in good standing under the laws
+of the State of Florida. Buyer has full corporate power and authority to conduct
+its business and own its property as now conducted and owned, and has full
+corporate power and authority necessary to permit it to execute and deliver this
+Agreement and all Ancillary Agreements and Instruments required to be executed
+and delivered by it under this Agreement, and to carry out the terms of this
+Agreement and of all such Ancillary Agreements and Instruments.
+
+     5.2 Authorization, etc. The execution and delivery by Buyer of this
+Agreement and all Ancillary Agreements and Instruments required to be executed
+by Buyer hereunder have been duly and validly authorized by all necessary action
+in respect thereof on the part of Buyer. This Agreement represents, and when
+executed and delivered at Closing the Ancillary Agreements and Instruments will
+represent, the legal, valid and binding obligation of Buyer, enforceable against
+it in accordance with its terms, subject to (a) applicable bankruptcy,
+reorganization, insolvency, moratorium and other laws affecting creditors'
+rights generally from time to time in effect and (b) limitations on the
+enforcement of equitable remedies.
+
+     5.3 No Legal Bar. Subject to the receipt of the Closing Governmental
+Authorizations described in Section 6.1 below, the execution and delivery by
+Buyer of this Agreement does not, and the consummation of the transactions
+contemplated hereby will not, (i) conflict with or violate the Articles of
+Incorporation or Bylaws of Buyer, or (ii) result in a breach of, result in or
+constitute a default (or an event which, with notice or lapse of time or both,
+would constitute a default) under, or result in the cancellation or unilateral
+modification or amendment of, or accelerate the performance required by, any of
+the terms, conditions or provisions of any note, bond, mortgage, indenture, deed
+of trust, license, agreement, lease or other instrument, obligation or
+arrangement to which Buyer is a party or to which Buyer or any of its assets or
+properties may be subject (nor does a breach or default which would have any
+such effect, or which would otherwise impair the consummation of the
+
+                                       18
+
+<PAGE>
+
+transactions contemplated hereby, presently exist), or (iii) conflict with or
+violate any order, writ, judgment, injunction, decree, award, ruling, statute,
+rule or regulation applicable to Buyer or any of its material assets; nor is
+Buyer subject to, or a party to, any charter, bylaws, mortgage, lien, agreement,
+contract, order, judgment or decree which would prevent the consummation of the
+transactions contemplated by this Agreement or compliance by Buyer with the
+terms, conditions and provisions hereof.
+
+     5.4 No Bankruptcy. Buyer is not insolvent or the subject of Bankruptcy or
+any similar proceeding.
+
+     5.5 Broker's and Other Fees. Neither Buyer nor its shareholders, directors
+or officers has employed any broker or finder or incurred any liability for any
+broker's or finder's fees or commissions in connection with any of the
+transactions contemplated by this Agreement.
+
+     5.6 Compliance with Laws. As of the date of this Agreement, (a) Buyer has
+all Governmental Authorizations necessary to permit it to operate Buyer's
+Medicaid Plan, (b) Buyer has not received or entered into any citations,
+complaints, consent orders, compliance schedules or other similar enforcement
+orders that would adversely affect Buyer's ability to consummate the
+transactions contemplated hereby, (c) no proceeding is pending or, to the
+knowledge of Buyer, threatened to modify, suspend or revoke, withdraw, terminate
+or otherwise limit any Governmental Authorization of Buyer which is necessary
+for the operation of Buyer's Medicaid Plan, and (d) no violations of Buyer's
+Governmental Authorizations related to Buyer's Medicaid Plan have occurred that
+remain uncured, unwaived or otherwise unresolved, except for violations which
+would not have a material adverse effect on Buyer's Governmental Authorizations
+or Buyer's ability to consummate the transactions contemplated by this
+Agreement.
+
+     5.7 Availability of Funds. Buyer has the ability to obtain sufficient cash
+to pay the Purchase Price and consummate the transactions contemplated hereby.
+
+     5.8 Scope of Representations and Warranties; Misstatements and Omissions.
+
+          (a) Except for the representations and warranties made in this
+Agreement and in the certificates, statements, exhibits, schedules or other
+documents furnished to Seller pursuant hereto, Buyer does not make any other
+representations or warranties to Seller or Seller's Parent, whether express,
+implied or statutory, in connection with the transactions contemplated by this
+Agreement.
+
+          (b) No representation or warranty made by Buyer in this Agreement or
+in any certificate, statement, exhibit, schedule, or other document furnished to
+Seller pursuant hereto, or in connection with the transactions contemplated by
+this Agreement, contains any untrue statement of material fact or omits to state
+a material fact necessary to make the statements contained herein or therein not
+misleading.
+
+                                       19
+
+<PAGE>
+
+                                   ARTICLE 6
+
+                               CLOSING CONDITIONS
+
+     6.1 Conditions of Each Party's Obligations Under this Agreement. The
+respective obligations of each Party to consummate the transactions to be
+performed by it in connection with the Closing are subject to the satisfaction,
+or, where permissible under applicable law, waiver by each Party at or prior to
+the Closing Date, of the following conditions:
+
+          (a) Governmental Approvals.
+
+               (i) All governmental licenses, franchises, permits, privileges,
+immunities, approvals and other governmental authorizations (including, without
+limitation, approvals of CMS, DFS and AHCA) which are required to be obtained by
+Buyer and Seller (the "Closing Governmental Authorizations") in connection with
+the transactions contemplated by this Agreement and which are necessary for the
+ownership by Buyer of the Special Intangible Medicaid Assets and the transfer of
+the Members to Buyer's Medicaid Plan shall have been obtained without any term
+or condition (including, without limitation, a limited effective period for
+Buyer's Florida Medicaid Contract under which Buyer has the right to provide
+services to the Transferred Members) which would materially impair the value of
+the Medicaid Business or the Special Intangible Medicaid Assets or impair
+Buyer's ability to succeed to the Medicaid Business, or which would subject
+Buyer to a material burden or obligation that is inconsistent with the terms of
+this Agreement or the manner in which the Medicaid Business has been operated
+prior to Closing (it being acknowledged that any requirement that a Member
+Notice be disseminated prior to Closing shall not be deemed a requirement that
+would materially impair the value of the Medicaid Business so long as such
+notice does not offer Members a right to disenroll or opt-out of Buyer's
+Medicaid Plan after the Effective Date or otherwise address such a
+post-Effective Date right). All conditions required to be satisfied prior to the
+Closing Date by the terms of such Closing Governmental Authorizations shall have
+been satisfied, such as the delivery of member notices and the passage of time
+related to any opt-out rights of Members, and any statutory waiting periods in
+respect thereof shall have expired (collectively, the "Pre-Closing Conditions
+Related to the Closing Governmental Authorizations").
+
+               (ii) In addition to any Closing Governmental Authorizations
+required by law, rule, regulation or order, the Closing Governmental
+Authorizations shall include a written approval from AHCA which authorizes,
+approves and effects the following (unless Buyer waives any such requirement and
+such requirement is not required by applicable law, rule, regulation or order):
+(A) the increase in Buyer's maximum enrollment levels to suitable levels to
+allow for the enrollment and associated capitation of the Members transferred to
+Buyer on the Effective Date; (B) the enrollment of all Members in Buyer's
+Medicaid Plan on the Effective Date (other than Members who prior to such time
+lose eligibility or are validly disenrolled) and AHCA's assurance that neither
+they nor CMS will require or send any notice to Members advising them of any
+right to disenroll or opt-out of Buyer's Medicaid Plan on or after the Effective
+Date; (C) the determination and administration of all rights and obligations of
+Buyer with respect to the Transferred Members under Buyer's Florida Medicaid
+Contract (by way of example and without limiting the foregoing, Buyer shall be
+entitled to receive all post-Closing capitation payments with respect to the
+Transferred Members and all obligations imposed on Buyer with respect to the
+Transferred Members, including
+
+                                       20
+
+<PAGE>
+
+the scope of covered services, shall not exceed the obligations included within
+the Assumed Liabilities), and (D) the termination of Seller's Florida Medicaid
+Contract immediately prior to the Effective Date (other than any obligations,
+such as close-out obligations, which are specifically intended to survive
+termination, which shall be performed by AHCA or Seller, as applicable) such
+that all rights of Seller to receive post-Closing capitation payments with
+respect to the Transferred Members shall terminate.
+
+               (iii) In addition to any Closing Governmental Authorizations
+required by law, rule, regulation or order, the Closing Governmental
+Authorizations shall include the following (unless Seller waives any such
+requirement): AHCA's acknowledgment that if the scope of covered services under
+Buyer's Florida Medicaid Contract is less comprehensive than the scope of
+covered services under Seller's Florida Medicaid Contract, Seller shall not have
+any responsibility to provide Transferred Members with any services not covered
+under Buyer's Florida Medicaid Contract.
+
+     6.2 Conditions to Closing of Buyer. The obligation of Buyer to consummate
+the transactions to be performed by it in connection with the Closing is subject
+to the following additional conditions precedent:
+
+          (a) Representations and Warranties. The representations and warranties
+of Seller and Seller's Parent contained in ARTICLE 4 (i) shall be true and
+correct in all respects (in the case of any representation or warranty
+containing any materiality qualification) or in all material respects (in the
+case of any representation or warranty without any materiality qualification) at
+and as of the date hereof, and (ii) shall be repeated and shall, without giving
+effect to any supplement to the disclosure schedules (except to the extent the
+applicable representation or warranty expressly indicates that an update as of
+another date is required), be true and correct in all respects (in the case of
+any representation or warranty containing any materiality qualification) or in
+all material respects (in the case of any representation or warranty without any
+materiality qualification) on and as of the Closing Date with the same effect as
+though made on and as of the Closing Date;
+
+          (b) Performance. Each of Seller and Seller's Parent shall have duly
+performed and complied in all material respects with all covenants, agreements
+and conditions required to be performed or complied with by them prior to or on
+the Closing Date;
+
+          (c) No Objecting Litigation. No action, suit or proceeding shall be
+pending or threatened before any court, governmental agency or other regulatory
+or administrative agency or commission, which seeks to restrain, prevent or
+change the transactions contemplated hereby, questions the validity of such
+transactions, or which would negatively impact the Florida Medicaid Program, the
+terms upon which Buyer participates in such Program or Buyer's rights with
+respect to the Transferred Members (including, without limitation, any action,
+suit or proceeding wherein an unfavorable judgment or order would cause the
+transactions contemplated hereby to be rescinded);
+
+          (d) Closing Certificate. Each of Seller and Seller's Parent shall have
+delivered to Buyer a certificate to the effect that each of the conditions
+specified above in Section 6.2(a) through 6.2(c) that are applicable to it has
+been satisfied in all respects;
+
+                                       21
+
+<PAGE>
+
+          (e) Good Standing Certificates. Delivery to Buyer of certificates,
+executed by the proper state official, as to the good standing of each of Seller
+and Seller's Parent in the jurisdiction of their incorporation as of a date not
+more than ten (10) days prior to Closing;
+
+          (f) Secretary's Certificates. Delivery to Buyer of a certificate from
+the secretary or assistant secretary of each of Seller and Seller's Parent (i)
+attaching copies of its Articles of Incorporation, Bylaws and Board of Director
+and member resolutions authorizing the execution, delivery and performance of
+this Agreement and all other documents and the taking of all action required
+thereunder or in connection therewith on behalf of each of Seller and Seller's
+Parent, and (ii) certifying the incumbency of officers of each of Seller and
+Seller's Parent and their genuine signatures, with a cross certification of such
+secretary's or assistant secretary's incumbency and genuine signature;
+
+          (g) Third Party Approvals and Consents. Delivery to Buyer of all such
+written approvals, consents and waivers (including the passage of time for
+objection) of third parties which are required to be obtained in connection with
+the transactions contemplated by this Agreement and which are necessary for the
+ownership by Buyer of any of the Special Intangible Medicaid Assets, free and
+clear of all Liens, other than delivery of the consents related to the
+assignment for the Contingent Provider Contracts, which shall not be a condition
+to Closing after the dissemination of the Member Notice pursuant to Section
+7.1(b);
+
+          (h) Instruments of Transfer. Execution and delivery to Buyer by Seller
+on the Closing Date of a Bill of Sale and Assignment in the form attached hereto
+as Exhibit B and such other endorsements, assignments, and other good and
+sufficient instruments of conveyance and transfer as are provided for herein,
+and any other instruments in form and substance reasonably satisfactory to Buyer
+and its counsel as shall be effective to vest in Buyer all of the right, title
+and interest of Seller in, to and under the Special Intangible Medicaid Assets,
+free and clear of all Liens;
+
+          (i) Escrow Agreement. Execution and delivery to Buyer by Seller and
+the Escrow Agent of the Escrow Agreement;
+
+          (j) Non-Competition Agreement. Execution and delivery to Buyer by
+Seller and Seller's Parent of a Non-Competition Agreement in substantially the
+form attached hereto as Exhibit C;
+
+          (k) No Adverse Regulatory Change. There shall not have occurred or
+been initiated any regulatory change that is reasonably likely to have an
+adverse effect on the Special Intangible Medicaid Assets, the Medicaid Business
+or Buyer's Florida Medicaid Contract following the Closing Date;
+
+          (l) Opinion. Buyer shall have received from McDermott, Will & Emery,
+counsel to Seller and Seller's Parent, an opinion in substantially the form and
+substance as set forth in Exhibit D attached hereto, dated as of the Closing
+Date;
+
+          (m) No Change in Business. Except as expressly permitted under Section
+7.2(b)(v) below, Seller shall not have authorized or made any material change in
+the terms and
+
+                                       22
+
+<PAGE>
+
+conditions upon which it does business with respect to the Medicaid Business,
+including, without limitation, any modifications to its provider compensation
+(excluding increases required under the present terms of contracts or decreases
+effected in consultation with Buyer) or accounting methodologies (e.g., manner
+of setting IBNR reserves), unless required for regulatory or statutory
+compliance;
+
+          (n) Minimum Membership. The Closing Transferred Membership shall not
+be less than twenty-five thousand (25,000) Members; and
+
+          (o) Parent Financial Certification. Delivery to Buyer of a certificate
+from the Chief Financial Officer of Seller's Parent certifying that since
+December 31, 2002, Seller's Parent has not suffered a material adverse effect in
+its business, assets or financial condition, excluding: (i) the effects of
+changes that are generally applicable to (x) the United States economy or local
+economy in which the Medicaid Business is operated (as opposed to changes
+relating to the Medicaid Program) or (y) the United States securities markets
+and (ii) the impact of writing off its goodwill associated with the acquisition
+of St. Augustine Medicaid Plan.
+
+     6.3 Conditions to Closing of Seller. The obligation of Seller to consummate
+the transactions to be performed by it in connection with the Closing is subject
+to the following additional conditions precedent:
+
+          (a) Representations and Warranties True and Correct. The
+representations and warranties of Buyer contained in ARTICLE 5 (i) shall be true
+and correct in all respects (in the case of any representation or warranty
+containing any materiality qualification) or in all material respects (in the
+case of any representation or warranty without any materiality qualification) at
+and as of the date hereof, and (ii) shall be repeated and shall, without giving
+effect to any supplement to the disclosure schedules, be true and correct in all
+respects (in the case of any representation or warranty containing any
+materiality qualification) or in all material respects (in the case of any
+representation or warranty without any materiality qualification) on and as of
+the Closing Date with the same effect as though made on and as of the Closing
+Date;
+
+          (b) Performance. Buyer shall have duly performed and complied in all
+material respects with all covenants, agreements and conditions required to be
+performed or complied with by it prior to or on the Closing Date;
+
+          (c) Closing Certificate. Buyer shall have delivered to Seller a
+certificate to the effect that each of the conditions specified above in Section
+6.3(a) through (b) has been satisfied in all respects;
+
+          (d) Good Standing Certificates. Delivery to Seller from Buyer of a
+certificate, executed by the proper state official, as to the good standing of
+Buyer in the jurisdiction of its incorporation as of a date not more than ten
+(10) days prior to Closing;
+
+          (e) Secretary's Certificates. Delivery to Seller of a certificate from
+the secretary or assistant secretary of Buyer (i) attaching copies of its
+Articles of Incorporation, Bylaws and resolutions authorizing the execution,
+delivery and performance of this Agreement and all other
+
+                                       23
+
+<PAGE>
+
+documents and the taking of all action required thereunder or in connection
+therewith on behalf of Buyer, and (ii) certifying the incumbency of officers of
+Buyer and their genuine signatures, with a cross certification of such
+secretary's or assistant secretary's incumbency and genuine signature;
+
+          (f) Instruments of Assumption. Execution and delivery to Seller by
+Buyer on the Closing Date of an Assignment and Assumption Agreement, in the form
+attached hereto as Exhibit E;
+
+          (g) Escrow Agreement. Execution and delivery to Seller by Buyer and
+the Escrow Agent of the Escrow Agreement; and
+
+          (h) Opinion. The Selling Parties shall have received from Willcox &
+Savage, P.C., counsel to Buyer, an opinion in substantially the form and
+substance attached hereto as Exhibit F.
+
+     6.4 Waiver of Conditions. At the Closing, any Party may waive, in writing,
+fulfillment of any of the conditions precedent set forth in this ARTICLE 6 to
+such Party's obligations hereunder, but the waiver of any such condition shall
+not, unless it expressly so provides, constitute a waiver of any other rights or
+remedies that such Party may have hereunder, including without limitation, those
+provided under ARTICLE 8 hereof.
+
+                                    ARTICLE 7
+
+                            COVENANTS OF THE PARTIES
+
+     7.1 Covenants Related to Closing.
+
+          (a) Regulatory and Other Approvals and Consents; Cooperation.
+
+               (i) Promptly after the execution of this Agreement each Party
+shall use commercially reasonable efforts to: (A) file or submit, and diligently
+prosecute, any and all applications to or notices with public authorities,
+federal, state or local, and requests for such Closing Governmental
+Authorizations which may be necessary or appropriate for a particular Party or
+are reasonably deemed necessary or appropriate by a particular Party's counsel
+for the consummation of the Transaction (in connection therewith, Seller shall
+use commercially reasonable efforts to prevent AHCA from terminating Seller's
+right to receive default enrollments/auto-assignments prior to Closing); (B)
+keep the other Parties current and fully informed of the status of such
+applications; and (C) take such steps that are within its power to cause to be
+satisfied the conditions precedent to its obligations or the other Parties'
+obligations to close that are dependent upon its actions. Seller consents to
+Buyer contacting such regulatory and accrediting body officials and such
+Designated Medicaid Providers as Buyer deems necessary in connection with the
+foregoing and to discuss Seller's standing, performance, and condition and
+issues related to the consummation of the Transaction.
+
+               (ii) Seller acknowledges that (A) the Closing Governmental
+Authorizations will be based, among other things, on the adequacy of Buyer's
+provider network, (B) attached hereto as Schedule 7.1 is a list prepared by
+Buyer which indicates the Seller Medicaid
+
+                                       24
+
+<PAGE>
+
+Providers whose contracts are to be assigned to Buyer at Closing (Buyer shall be
+entitled to (i) delete providers and their contracts from such Schedule at any
+time prior to Closing, and (ii) add providers and their contracts to such
+Schedule at any time prior to ten (10) days prior to Closing) (the contracts
+determined from such Schedule as so revised, the "Designated Provider
+Contracts"), and (C) Buyer intends to rely upon the ability of Seller to
+effectively assign the Designated Provider Contracts. Seller acknowledges and
+agrees to promptly supply to Buyer, when requested, all information and
+materials (including, without limitation, specific answers or responses)
+required in connection with Buyer's Closing Governmental Authorizations which
+relate to the provider network, its adequacy, accessibility or otherwise, the
+Designated Provider Contracts and the continuity of services (such information
+and materials to be in such form as may reasonably be requested for purposes of
+filings with the applicable regulatory authorities). With respect to any
+Designated Provider Contract which cannot be assigned without the provider's
+consent (including any contracts involving multiple product lines where consent
+to partial assignment will be required) (the "Contingent Provider Contracts"),
+(A) this Agreement shall not constitute an agreement to assign or transfer any
+right, benefit or obligation arising thereunder if an assignment or transfer
+without the consent of the provider would constitute a breach or violation
+thereof or adversely affect the rights of Seller or Buyer thereunder (however,
+the foregoing shall not excuse or waive any breach of any representation or
+warranty contained herein), and (B) prior to Closing, Seller shall use its best
+efforts to cause the provider contract to be assigned with consent (as
+contemplated by Section 7.1(b)), and if such consent cannot be obtained, Seller
+shall use its best efforts to (1) assist Buyer to obtain its own direct contract
+on terms acceptable to Buyer or (2) effect an arrangement, with Buyer's consent,
+whereby Buyer will be able to enjoy the benefits of the Contingent Provider
+Contract (solely with respect to the Medicaid product) from and after the
+Effective Date.
+
+          (b) Notices to Providers and Members.
+
+               (i) Unless otherwise required by AHCA, not more than five (5)
+days after the execution of this Agreement, Seller shall send a notice (in a
+form mutually acceptable to Seller and Buyer and in accordance with AHCA
+requirements) (the "Provider Notice") to all providers subject to a Designated
+Provider Contract, which (A) advises such providers that their contract may be
+assigned to Buyer at Closing, (B) specifies the obligations and liabilities
+under such contract that would be retained by Seller and assumed by Buyer and
+the anticipated Closing date, and (C) with respect to each Contingent Provider
+Contract, requests the provider's consent to the (partial, where applicable)
+assignment of such contract. If Buyer amends Schedule 7.1 to add a Designated
+Provider Contract, then within two (2) days of receipt of the amended schedule,
+Seller shall send a similar notice to each provider whose contract was so added.
+
+               (ii) Until the thirtieth (30th) day after the Effective Date,
+Seller shall monitor responses from all providers who have a Contingent Provider
+Contract and use commercially reasonable follow-up contacts to secure the
+requested consents to assignment.
+
+               (iii) As soon as Seller and Buyer mutually agree is practicable
+(based on Seller having received consents to assignment of a substantial number
+of the Contingent Provider Contracts), but in no event later than April 28,
+2003, Seller and Buyer shall meet with AHCA and provide them with a list of the
+Members who are assigned to a primary care physician whose Contingent Provider
+Contract is not as of such time assignable to Buyer (the "Affected Member").
+
+                                       25
+
+<PAGE>
+
+               (iv) Promptly after advising AHCA of the Affected Members, Seller
+shall request permission from AHCA to send any notice to the Members required by
+the Pre-Closing Conditions Related to the Closing Governmental Authorizations
+(the "Member Notice") and upon receipt of AHCA's permission, Seller shall,
+subject to Section 7.1(b)(v) below, take such action as may be necessary to
+disseminate and mail the Member Notice to all Members that AHCA requires receive
+notification (in a form mutually acceptable to Seller and Buyer and in
+accordance with AHCA requirements) (Seller shall promptly provide AHCA and Buyer
+with such certifications concerning the discharge of such obligation as may
+reasonably be requested).
+
+               (v) Immediately prior to the dissemination of the first Member
+Notice, (A) the Closing Governmental Authorizations shall have been obtained
+(subject only to the Pre-Closing Conditions Related to the Closing Governmental
+Authorizations), (B) Seller and Seller's Parent shall certify in writing to
+Buyer that as of such date they are not in breach of their respective
+representations, warranties or covenants hereunder and (C) Buyer shall certify
+in writing to Seller that as of such date Buyer is not in breach of its
+representations, warranties or covenants hereunder.
+
+               (vi) After the dissemination of the Member Notice and until the
+thirtieth (30th) day after the Effective Date, Seller shall continue to use best
+efforts to obtain the consent to assignment of any Contingent Provider Contract
+which Buyer continues to request; however, the receipt of such consents shall
+not be a condition to Closing.
+
+          (c) Preparation for Transfer and Transition. To ensure an effective
+transition and transfer of the Members into Buyer's Medicaid Plan, at all times
+prior to the Closing Date Seller shall:
+
+               (i) Cooperate and work with Buyer in transition planning;
+
+               (ii) Orient, educate and otherwise train Buyer and Buyer's
+employees (and permit Buyer's employees to work with Seller's employees in an
+observer capacity) regarding (and make information available to Buyer and
+Buyer's employees concerning) (A) Seller's current operating and medical
+management policies and procedures (to ensure continuity of administration)
+associated with the Medicaid Business (including, without limitation, medical
+management policies and procedures used by Seller's outsourced vendors and
+information concerning Seller's sales practices, policies, data and personnel),
+(B) the health plan benefits and services offered by Seller to the Members,
+including, without limitation, member services, member outreach and education,
+and preventative medicine programs, and (C) the Seller Medicaid Providers and
+provider contracts, provided, such activities shall be conducted at Seller's
+principal place of business and shall be conducted in a manner that will not
+unreasonably interfere with Seller's business operations;
+
+               (iii) (A) grant Buyer access to and use of a reasonable amount of
+its office space for purposes of transition planning, (B) assist Buyer to
+interface with the phone and information networks used by Seller in connection
+with the Medicaid Business, and (C) make available to Buyer, in all media
+reasonably available, such information as may prepare Buyer to pay claims
+arising under the Assumed Provider Contracts from and after the Effective Date,
+including provider numbers and compensation terms, provided, such activities
+shall be conducted in a manner that will not unreasonably interfere with
+Seller's business operations;
+
+                                       26
+
+<PAGE>
+
+               (iv) Use commercially reasonable efforts to assist Buyer in its
+preparation for the implementation of the Medicaid Business medical management
+policies and procedures (e.g., case management and discharge planning) of Buyer
+and such other Medicaid Business operational policies and procedures that Buyer
+may reasonably request (Seller shall be solely responsible for its operations
+prior to Closing, and shall keep Buyer duly informed in respect of all such
+operations);
+
+               (v) Within three (3) business days following a request by Buyer,
+identify for Buyer any then pending or unresolved provider or member complaints
+or grievances and grant Buyer with access to such complaint and grievance logs
+as may be reasonably requested;
+
+               (vi) Participate, in an observer capacity, with Seller's line
+staff in certain day to day matters, provided, such activities shall be
+coordinated between Seller and Buyer and shall be conducted in a manner that
+will not unreasonably interfere with Seller's business operations; and
+
+               (vii) Within five (5) days after the execution of this Agreement,
+provide Buyer with an electronic extract of all of Seller's AMISYS data as of
+the date of this Agreement for the Designated Medicaid Providers, including the
+data elements listed on Schedule 1.1(d).
+
+     7.2 Additional Covenants of Seller. Seller further covenants and agrees
+with Buyer as follows:
+
+          (a) Affirmative Business Covenants. Except with the prior written
+consent of Buyer in its reasonable discretion, prior to the Closing Date, Seller
+shall conduct the Medicaid Business only in the ordinary course as heretofore
+conducted and shall do the following:
+
+               (i) Preserve the Special Intangible Medicaid Assets and the other
+assets required for the Medicaid Business and maintain the operations of the
+Medicaid Business;
+
+               (ii) Preserve the goodwill of its relationships with Members,
+Seller Medicaid Providers, AHCA and other regulatory bodies, suppliers,
+employees and others having business relations with it related to the Medicaid
+Business;
+
+               (iii) Maintain the Designated Provider Contracts (other than any
+contracts which are validly terminated by a provider without cause or which
+Seller elects to terminate in order to best serve the interests of the Medicaid
+Business) (absent urgent circumstances related to patient safety, Seller agrees
+to use reasonable efforts to confer with Buyer in advance of effecting any such
+termination) and ensure that each such contract contains all terms and
+provisions required by Seller's Florida Medicaid Contract, AHCA or any other
+applicable governmental authority and/or under any applicable statute, rule or
+regulation (including, without limitation, HIPAA);
+
+               (iv) Comply in all material respects with all regulations and
+laws applicable to it in the conduct of the Medicaid Business;
+
+               (v) Maintain, in accordance with past practice, its network of
+Seller Medicaid Providers, and cause the credentialing and re-credentialing of
+such providers in accordance with AHCA, AAAHC and NCQA requirements;
+
+                                       27
+
+<PAGE>
+
+               (vi) Cause its medical management policies and procedures
+(including utilization review and pre-authorization procedures) to be applied
+and conducted consistent with past practice and in accordance with Seller's
+Florida Medicaid Contract and all applicable laws, rules and regulations; and
+
+               (vii) Use best efforts to cause, subject to AHCA's policies and
+procedures then in effect, all involuntary disenrollment submissions to be made
+for each month prior to the Effective Month and for the Effective Month,
+notwithstanding whether as of Closing the submission for the Effective Month is
+then due.
+
+          (b) Negative Business Covenants. On and after the date hereof and
+prior to Closing, Seller shall not take any of the following actions, or agree
+to take any such actions, except with the prior written consent of Buyer in its
+sole discretion:
+
+               (i) Merge or consolidate with any other corporation or other
+entity or permit any other entity to merge into it (unless the surviving entity
+has an equal or better net worth than Seller and is bound by the terms of this
+Agreement and prepared to perform its obligations hereunder) (no such merger or
+consolidation shall release Seller's Parent from its obligations hereunder);
+
+               (ii) Authorize or make any material change in the operation of
+the Medicaid Business; lease, license, sell or dispose of any part of the
+Special Intangible Medicaid Assets; or otherwise enter into any contract,
+transaction or commitment related to the Medicaid Business, other than in the
+ordinary course of business, consistent with past practice;
+
+               (iii) Take or omit to take any action, or permit the occurrence
+of any change or event, which would render any of its representations and
+warranties contained herein untrue in any material respect at and as of the
+Closing Date with the same effect as though such representations and warranties
+had been made at and as of the Closing Date;
+
+               (iv) Authorize or make any material change in the customary terms
+and conditions upon which it does business with respect to the Medicaid
+Business, including, without limitation, modifications to its provider
+compensation or accounting methodologies (e.g., manner of setting IBNR
+reserves);
+
+               (v) Terminate or amend in any material respect any Designated
+Provider Contract or enter into any material provider contract with a Seller
+Medicaid Provider (other than any contracts which are validly terminated by a
+provider without cause or which Seller elects to terminate in order to best
+serve the interests of the Medicaid Business) (absent urgent circumstances
+related to patient safety, Seller agrees to use reasonable efforts to confer
+with Buyer in advance of effecting any such termination);
+
+               (vi) Fail to pay any material medical claim liability when due
+(other than medical claims which are pended in the ordinary course of business
+consistent with past practice); and
+
+                                       28
+
+<PAGE>
+
+               (vii) Unless otherwise expressly permitted under the terms of
+this Agreement, take or omit to take any action which would adversely affect the
+ability of any Party to obtain the Closing Governmental Authorizations or
+consents of private parties required for this Transaction or which would
+adversely affect its ability to perform its covenants and agreements contained
+herein.
+
+          (c) Notification. Seller shall promptly advise Buyer in writing of any
+material adverse change, known or threatened, in (i) the financial condition,
+business or affairs of the Medicaid Business, or (ii) the accuracy of the
+representations and warranties of Seller made herein.
+
+          (d) Other Offers. On and after the date hereof and prior to Closing,
+neither Seller nor Seller's Parent shall (nor permit any of their respective
+officers, directors, employees, or agents to), directly or indirectly, solicit,
+encourage, facilitate, entertain, or accept, including by way of furnishing
+information, any inquiries or proposals for the sale of the Medicaid Business or
+any of the Special Intangible Medicaid Assets (or any inquiries or proposals
+concerning the sale of the equity in Seller, by merger, consolidation, share
+exchange, stock sale or other transaction, to the extent the consummation of the
+Transaction would be proscribed or impaired in any material manner) or the
+termination of Seller's Florida Medicaid Contract. Each Party acknowledges and
+agrees that any remedy at law for breach of the foregoing covenant shall be
+inadequate and, in addition to any other relief which may be available, the
+non-breaching Party shall be entitled to temporary and permanent injunctive
+relief without the necessity of proving actual damages, posting bond or
+providing surety, and without regard to the adequacy of any remedy at law.
+Seller represents and warrants that as of the date hereof there is no stand-by
+agreement or back-up contract with respect to the sale of the Medicaid Business
+and it has terminated all discussions with third parties with respect to such
+proposed sale.
+
+          (e) Change in Accounting Policies. Prior to Closing, Seller will not
+make any material change in its present accounting policies or its present
+fiscal year, as they relate to the Medicaid Business, except as may be required
+by GAAP or SAP (and provided Buyer is promptly notified in writing of the nature
+of and reason for the change and Seller provides Buyer with such information as
+may reasonably be requested concerning the pro forma effect of such change on
+the Financial Statements attached hereto).
+
+          (f) Additional Financial Information. Within three (3) days of receipt
+from their auditor, each of Seller and Seller's Parent shall deliver to Buyer a
+copy of such party's audited balance sheet as of December 31, 2002 and the
+related audited income statement for the twelve (12) month period ended December
+31, 2002, all prepared in accordance with GAAP (the "Audited Year-End
+Statements"). Seller shall use commercially reasonable efforts to furnish to
+Buyer, within thirty (30) days (or, solely in the case of the delivery required
+under clause (v) below, thirty-five (35) days) of the end of each month prior to
+Closing, copies of the following for each such month: (i) Seller's unaudited
+consolidated balance sheet and income statements prepared in accordance with
+SAP, (ii) Seller's unaudited income statement for the Medicaid Business prepared
+in accordance with GAAP and detail of key Medicaid line of business balance
+sheet accounts (including, without limitation, claims payable and accounts
+receivable), (iii) Seller's Medicaid Data Warehouse Lag Reports (detailed by
+physician, inpatient and all other), (iv) Seller's statement of accrued IBNR for
+the Medicaid Business, (v) Seller's Parent's combined consolidating balance
+sheet prepared in
+
+                                       29
+
+<PAGE>
+
+accordance with GAAP, and (vi) such other financial reports as Buyer may
+reasonably request (based on a bona fide stated purpose and use), provided
+Seller will not be required to incur an unreasonable expense or cost in
+connection with such additional requested reports (the foregoing audited and
+unaudited statements and reports are collectively, the "Interim Monthly
+Reports").
+
+     7.3 Other General Covenants.
+
+          (a) Confidentiality. Except as otherwise required in the performance
+by the Parties of their respective obligations hereunder and otherwise required
+by law, any non-public information Seller, on the one hand, and Buyer, on the
+other hand, shall receive from the other during the course of the investigation
+contemplated pursuant hereto shall remain and be kept as confidential
+information by them and all copies thereof will be returned promptly at the
+request of the Party furnishing such information in the event of the termination
+of this Agreement. Each of the Parties may disclose such information to their
+respective Affiliates, counsel, accountants, representatives, professional
+advisors and consultants, as each Party deems necessary to perform its
+obligations hereunder. Notwithstanding anything to the contrary set forth
+herein, Seller hereby acknowledges and consents to the use of its name, a
+description of the Special Intangible Medicaid Assets, the Medicaid Business and
+this Transaction, in any securities filings which may be distributed from time
+to time.
+
+          (b) Public Announcements. Buyer may issue a press release at any time,
+subject to Seller's prior approval, which shall not be unreasonably withheld or
+delayed; provided, no such approval shall be required if Buyer and its
+Affiliates believe in good faith that a public disclosure is required by
+applicable law or regulation, court process or by any listing or trading
+agreement concerning its publicly-traded securities. Neither Seller nor Seller's
+Parent (or any of their Affiliates) shall at any time whether prior to or after
+Closing issue any press release or any other public statement or other
+communication with respect to the subject matter of this Agreement or the
+transactions contemplated hereby or Seller's reasons for selling the Medicaid
+Business without the prior written consent of Buyer, which shall not be
+unreasonably withheld or delayed.
+
+          (c) Access to Information Prior to the Closing Date; Supplements to
+Schedules.
+
+               (i) Between the date of execution of this Agreement and the
+Closing Date, Seller shall provide the authorized representatives of Buyer with
+access at all reasonable times to the offices, books and records of Seller
+(including, without limitation, the policies, procedures and manuals used by
+Seller in connection with the Medicaid Business), to permit Buyer to make such
+inspections and/or copies of such books and records as it may reasonably require
+and will cause its officers to furnish Buyer with such financial and operating
+data and other information with respect to the Medicaid Business and the Special
+Intangible Medicaid Assets as Buyer may from time to time reasonably request.
+Buyer's right of access and inspection shall be exercised in such a manner as to
+not interfere unreasonably with Seller's operations. Within five (5) days of the
+execution of this Agreement (and prior to commencing such visits, inspections
+and contacts), the parties shall identify their respective transition teams and
+shall establish protocols so that the transition teams may coordinate their
+efforts and the manner in which visits, inspections and contacts are to be
+conducted. Each transition team will have a lead person with in-depth knowledge
+of operations who will be available on a daily basis.
+
+                                       30
+
+<PAGE>
+
+               (ii) Between the date of execution of this Agreement and the
+Closing Date, Seller shall provide Buyer with supplemental information on any
+matters previously disclosed on the schedules hereto or otherwise reported to
+Buyer (including, without limitation, providing Buyer with information
+concerning any Designated Medicaid Provider that has terminated, or indicated an
+intent to terminate, a Designated Provider Contract), and Seller hereby
+represents and warrants that such supplements shall be true, correct and
+complete in all material respects as of the date or dates thereof. Such
+supplements shall not in any way be deemed or construed to modify any
+representations or warranties previously made, all of which shall continue in
+full force and effect, nor shall the provision of such supplements be deemed or
+construed to cure or otherwise excuse any breach of a representation or warranty
+by Seller under ARTICLE 4.
+
+               (iii) Prior to Closing, Seller shall provide to Buyer on a weekly
+basis all such information as Buyer may reasonably request regarding (A)
+services which are pending because they are subject to an open authorization
+(including, without limitation, open authorizations related to any outsourced
+vendor, such as behavioral health, vision, dental, that performs medical
+management) and (B) pre-authorization requests which have been denied in the
+sixty (60) days prior to the date Buyer requests such information.
+
+          (d) Access to Information After the Closing Date.
+
+               (i) From and after the Closing Date, Seller shall (A) for so long
+as Seller is required by law or the terms of Seller's Florida Medicaid Contract
+after the termination of such contract (but in no event less than two (2)
+years), maintain and, upon Buyer's prior written request, provide the authorized
+representatives of Buyer with access at such place, date and time as Seller may
+reasonably designate (such date to be within five (5) business days of the
+request) to, the books, records, information and contracts included within the
+Special Intangible Medicaid Assets, as well as books and records of Seller with
+respect to the operation of the Medicaid Business prior to the Effective Date
+and the fulfillment of Seller's obligations under Seller's Medicaid Contract and
+(B) for so long as Seller is continuing to pay and run-out the medical claim
+liabilities included in the Excluded Liabilities and otherwise discharge its
+obligations under Seller's Florida Medicaid Contract, continue to compile,
+generate and update such management, cost and utilization reports (including
+claims lag and experience reports) for pre-Effective Date services as it would
+prepare in the normal course of business, or as Buyer may reasonably request
+(based on a bona fide stated purpose and use) (provided Seller will not be
+required to incur an unreasonable expense or cost in connection with such
+additional requested reports), and promptly forward such reports to Buyer. If
+after Closing Buyer is required to file any reports related to the Members, the
+Designated Medicaid Providers party to an Assumed Provider Contract or the
+services provided to the Members and the periods covered by such reports include
+any period prior to the Effective Date, Seller shall, upon Buyer's request,
+supply the required information and provide Buyer with such certifications
+regarding the information as may be required in connection with Buyer's filings.
+
+               (ii) Buyer shall maintain the confidentiality of the confidential
+member information that it receives from Seller in the same manner as it
+maintains the confidentiality of all other member information that it has or
+generates, all in accordance with applicable law. Such information shall be
+maintained for so long as Buyer is required to maintain it under the terms of
+Buyer's Florida Medicaid Contract and applicable law. After Closing, upon
+Seller's prior written
+
+                                       31
+
+<PAGE>
+
+request, Buyer shall provide the authorized representatives of Seller with
+access at such place, date and time as Buyer may reasonably designate (such date
+to be within five (5) business days of the request) to the member records
+transferred to Buyer at Closing, provided, Seller has a bona fide need for such
+access (such as defending litigation with a former member) and Buyer receives
+appropriate consents and authorizations. During such inspections, Seller shall
+be entitled, at Seller's sole risk and expense, to obtain copies of such patient
+records, but only for purposes of pending litigation involving a former Member
+to whom such records refer, as certified in writing by Seller's counsel prior to
+obtaining such copies. Following their use, Seller shall promptly return all
+copies so obtained. Any such access to the records or Buyer's personnel shall be
+upon the condition that such access not materially interfere with the business
+operations of Buyer.
+
+          (e) Further Assurances. Each Party shall, at any time and from time to
+time after the Closing Date, upon request of any other Party, do, execute,
+acknowledge and deliver, or cause to be done, executed, acknowledged and
+delivered, all such further acts, instruments, assignments, transfers, powers of
+attorney and assurances as may be reasonably required in order to carry out the
+intent of this Agreement.
+
+          (f) Payment of Excluded Liabilities; Discharge of Pre-Effective Date
+Medical Claim Liabilities. Seller shall pay, perform and discharge in due course
+all of its obligations with respect to Seller's Florida Medicaid Contract for
+periods prior to the Effective Date (and the termination and close-out of such
+contract) and any of the Excluded Liabilities. Without limiting the foregoing,
+Seller shall specifically administer, pay and run out all of its medical claim
+liabilities related to dates of service prior to the Effective Date and all
+Excluded Claims and perform all reporting obligations under Seller's Florida
+Medicaid Contract (or imposed as part of the Closing Governmental
+Authorizations) in connection with the performance by Seller of its obligations
+with respect to the Medicaid Business for periods prior to the Effective Date.
+In connection with the discharge of such claims, to the extent any of the claims
+payment information for such claims is received by Buyer after the Effective
+Date, Buyer shall use commercially reasonable efforts to forward such
+information to Seller within five (5) business days. Seller shall on or before
+the Closing Date provide Buyer with such information as may be reasonably
+required by Buyer to identify the Excluded Claims and to refer them to Seller.
+Buyer shall use commercially reasonable efforts to apply its medical management
+protocols and procedures related to Members covered under a Span Admission in
+the same manner in which Buyer applies its medical management protocols and
+procedures to its members generally.
+
+          (g) Employee Interviews. During the period prior to Closing, Seller
+shall, upon Buyer's written request, provide Buyer with a list of personnel who
+provide services to the Medicaid Business and make available (including
+providing reasonable access to Buyer) for interviews and post-Closing employment
+by Buyer all employees who perform most of their services for the Medicaid
+Business (including the marketing staff) and such other employees, if any, as
+Seller and Buyer may mutually agree. Buyer shall not be obligated to interview
+or hire any of such employees, and in the event Buyer hires any of such
+employees, the terms of such employment shall be determined by Buyer in its sole
+discretion and without any assumption of Seller's obligations or liabilities to
+such employees. Prior to Closing, Buyer shall identify which of the available
+employees Buyer intends to hire at Closing, and Seller shall accept the
+resignation of such employees, contingent upon Closing, so that they may become
+"new hires, at-will" of Buyer as of the Effective
+
+                                       32
+
+<PAGE>
+
+Date or such later date as Buyer and the employee shall agree. Except as
+expressly permitted in this Section 7.3(g), between the date hereof and the
+Closing Date Buyer shall not solicit for employment any employees of Seller who
+perform most of their services for the Medicaid Business without the consent of
+Seller.
+
+          (h) Credentialing. At Closing, Seller shall deliver to Buyer a
+schedule which lists on a month-by-month basis all Designated Medicaid Providers
+under Assumed Provider Contracts who are scheduled for recredentialing following
+the Effective Date. Seller shall also provide to Buyer at Closing a copy, in
+Microsoft Access, of its entire credentialing database with respect to
+Designated Medicaid Providers under Assumed Provider Contracts. To the extent
+Buyer deems it reasonably necessary, Seller and Buyer shall negotiate in good
+faith the terms of a commercially standard delegation agreement pursuant to
+which Buyer would be deemed to have delegated to Seller and Seller would be
+deemed to have accepted (at no charge) the credentialing duties related to such
+Designated Medicaid Providers under Assumed Provider Contracts until the earlier
+of each such provider's recredentialing date or Buyer's revocation of the
+delegation; provided, the discharge of such duties shall be based solely on the
+information compiled by Seller prior to Closing; and, provided, further, such
+agreement shall have customary limitations on Seller's liability (such as
+limitations on liability to the extent of errors related to fraud or material
+misrepresentations by third parties). After execution of this Agreement and
+until the thirtieth (30th) day after the Effective Date, Buyer shall be provided
+with such access as may be necessary to audit at least fifty (50) of Seller's
+redacted/blinded credentialing files in respect of Designated Provider Contracts
+(as Buyer may randomly select) and to generally audit Seller's credentialing
+policies and procedures.
+
+          (i) Termination of Bonus Pools/Funds. Seller shall ensure in
+connection with the assignment of the Assumed Provider Contracts that all
+periodic bonus payments from a shared risk or referral services pool/fund in
+respect of the Medicaid Business, if any, are closed on an interim basis such
+that Seller shall be responsible to reconcile and settle such pools through
+Closing and shall pay any required bonuses, and Buyer shall be responsible to
+reconcile and settle pools related to periods of service from and after the
+Effective Date in respect of the Medicaid Business.
+
+          (j) Regulatory Updates. Seller shall promptly advise Buyer of any
+regulatory changes which are reasonably likely to have a material impact on the
+Special Intangible Medicaid Assets or Medicaid Business following the Closing
+Date.
+
+          (k) Rate Adjustment/Assessments. Seller acknowledges that there may be
+certain reductions in payments made by AHCA to Buyer after the Effective Date
+(by way of offset or recoupment) as a result of a determination by AHCA that
+Seller was overpaid for services rendered by Seller prior to the Effective Date
+or that Seller was not otherwise entitled to receive payment at the capitation
+rates used (an "Overpayment"). Seller hereby agrees that in the event AHCA seeks
+to collect an Overpayment from Buyer by way of offset, recoupment, assessment or
+otherwise, Seller shall promptly reimburse Buyer for all such Overpayments.
+Buyer shall notify Seller of any efforts initiated by AHCA to collect an
+Overpayment so that Seller may take such legal action as Seller deems
+appropriate related to such effort. If Seller is able to enjoin AHCA's action or
+otherwise obtain a stay of AHCA's collection efforts which excuses Buyer from
+any present obligation, Buyer agrees to not voluntarily pay AHCA any amounts on
+account of the Overpayment through the duration of such injunction or stay.
+
+                                       33
+
+<PAGE>
+
+          (l) Covenant Not to Use Name. In order that Buyer may have and enjoy
+the full benefit of the Special Intangible Medicaid Assets and the Medicaid
+Business, Seller agrees that it will not use or permit any Person under its
+joint or individual control to use the name "St. Augustine Medicaid" or any logo
+associated therewith, or any confusingly similar copyright, trademark, trade
+name, service mark, service name, slogan or assumed name or logo in any manner
+whatsoever in connection with any business, including, without limitation, the
+use of any such copyright, trademark, trade name, service mark, service name,
+slogan or assumed name or logo in promotional materials, except to the extent
+necessary to discharge Seller's obligations hereunder, including, without
+limitation, the payment of all Excluded Liabilities.
+
+          (m) Post-Closing Cooperation. In addition to the obligations otherwise
+provided herein, each of the parties hereto agrees that after Closing the
+parties shall cooperate with each other in providing information reasonably
+required by the other party in connection with the preparation of required
+reports, audits, responses to member inquiries and similar matters where access
+to records is needed; provided, the out-of-pocket costs of providing information
+shall be borne by the party requesting such information.
+
+          (n) Special Notices.
+
+               (i) After the date of this Agreement and prior to Closing, Seller
+and Seller's Parent shall give prompt written notice to Buyer of (A) the
+occurrence, or failure to occur, of any event that has caused any representation
+or warranty of Seller or Seller's Parent, as applicable, contained in this
+Agreement to be untrue in any material respect, and (B) any failure of Seller or
+Seller's Parent, as applicable, to comply with or satisfy, in any material
+respect, any covenant, condition or agreement to be complied with or satisfied
+by it under this Agreement. Such notification shall not in any way be deemed or
+construed to modify any representations, warranties or covenants previously made
+by Seller or Seller's Parent, all of which shall continue in full force and
+effect, nor shall such notification be deemed or construed to cure or excuse the
+breach so disclosed, limit Buyer's recourse with respect thereto or affect the
+applicability of the condition that would not be satisfied as a result of such
+breach.
+
+               (ii) After the date of this Agreement and prior to Closing, Buyer
+shall give prompt written notice to Seller and Seller's Parent of (A) the
+occurrence, or failure to occur, of any event that has caused any representation
+or warranty of Buyer contained in this Agreement to be untrue in any material
+respect, and (B) any failure of Buyer to comply with or satisfy, in any material
+respect, any covenant, condition or agreement to be complied with or satisfied
+by it under this Agreement. Such notification shall not in any way be deemed or
+construed to modify any representations, warranties or covenants previously made
+by Buyer, all of which shall continue in full force and effect, nor shall such
+notification be deemed or construed to cure or excuse the breach so disclosed,
+limit the recourse of Seller or Seller's Parent with respect thereto or affect
+the applicability of the condition that would not be satisfied as a result of
+such breach.
+
+          (o) Confidentiality.
+
+               (i) After Closing, Seller and Seller's Parent agree to comply
+with all confidentiality covenants set forth in the Noncompetition Agreement.
+
+                                       34
+
+<PAGE>
+
+               (ii) After Closing, Buyer agrees that it will keep confidential
+and not disclose to any third party any confidential information disclosed by
+Seller or Seller's Parent pursuant to that certain Confidentiality Agreement
+dated November 6, 2002 which is related to Seller or Seller's Parent, unless and
+to the extent (i) such confidential information is part of Special Intangible
+Medicaid Assets or (ii) disclosure is (x) required by law, (y) required to
+enforce Buyer's rights under this Agreement or (z) such information is or
+becomes generally known to and available for use by the public other than as a
+result of the fault of Buyer or the fault of any other person known to Buyer to
+be bound by a duty of confidentiality to Seller or Seller's Parent.
+
+               (iii) With respect to information that is included in the Special
+Intangible Medicaid Assets and relates to Seller's operation of the Medicaid
+Business (the "Acquired Information Concerning Operations"), Buyer agrees to use
+commercially reasonable efforts to protect the confidentiality of such
+information with the same degree of care used to protect its own confidential
+and proprietary information. In the event Buyer receives a request or demand for
+Acquired Information Concerning Operations pursuant to interrogatories, requests
+for information, subpoena, civil investigative demand or similar process
+involving an action against Seller, Buyer shall use commercially reasonable
+efforts to (i) give notice thereof to Seller so that Seller may, at its sole
+cost and expense, seek an appropriate protective order, and (ii) consult with
+Seller on the advisability of taking legally available steps to resist or narrow
+such request. If, in the absence of a protective order obtained by Seller, Buyer
+is, in the opinion of its counsel, required to disclose such Acquired
+Information Concerning Operations or should disclose such information to avoid
+prejudicing Buyer's legal position, Buyer may disclose such information. The
+foregoing notwithstanding, nothing herein shall be deemed or construed as
+limiting Buyer's ownership interest in the Acquired Information Concerning
+Operations (which shall be absolute and exclusive of any rights of Seller) or as
+limiting Buyer's right to use or transfer the Acquired Information Concerning
+Operations for such business purposes as Buyer may determine in its sole
+discretion, including, without limitation, in connection with any asset sale by
+Buyer.
+
+                                    ARTICLE 8
+
+                        EXPENSES, INDEMNITY AND SURVIVAL
+
+     8.1 Expenses.
+
+          (a) Except as expressly set forth in Sections 8.1(b) and 8.1(c) below
+or as otherwise provided in this Agreement, Seller, on the one hand, and Buyer,
+on the other hand, shall be responsible for their own costs and expenses
+incurred in connection with the transactions contemplated hereby, including the
+fees and expenses of counsel, accountants, brokers, finders and consultants.
+(For the avoidance of doubt, Seller or its Affiliates shall be solely
+responsible for and shall pay any and all fees and expenses of Cain Brothers &
+Company, LLC.)
+
+          (b) All applicable state sales taxes and transfer taxes, if any, in
+respect of the transactions contemplated hereby shall be borne by Seller.
+
+                                       35
+
+<PAGE>
+
+          (c) All out-of-pocket costs and expenses related to effecting all
+provider and member communications required in connection with this Transaction
+shall be equally shared by Seller and Buyer.
+
+     8.2 Indemnification by Seller and Seller's Parent. (a) Subject to Section
+8.2(b), Seller and Seller's Parent, jointly and severally, shall indemnify,
+defend and hold harmless Buyer and its Affiliates from and against, and will
+reimburse Buyer and its Affiliates the amount of, any damage, expense,
+liability, claim or loss (including, without limitation, reasonable attorneys'
+fees and other reasonable costs and expenses incident to, and amounts paid or
+required to be paid in settlement of, any claim, suit, action or proceeding,
+including, without limitation, claims, suits, actions or proceedings to enforce
+this indemnity obligation), whether or not involving a Third Party Claim
+(collectively "Losses"), suffered, sustained, incurred, paid or required to be
+paid by Buyer which arises out of, results from or is related to:
+
+               (i) the breach by Seller or Seller's Parent of any
+representation, warranty, covenant or agreement contained in this Agreement
+(without giving effect to any supplement or bring down to the disclosure
+schedules prior to or at Closing) (for avoidance of doubt, Seller and Seller's
+Parent shall be jointly and severally liable for breaches of representations,
+warranties and covenants under this ARTICLE 8 notwithstanding any other term or
+provision of this Agreement in which such representations, warranties or
+covenants are made severally by the parties);
+
+               (ii) any of the Excluded Assets or the Excluded Liabilities,
+including, without limitation (A) any liabilities of Seller and/or Seller's
+Parent not related to the Medicaid Business, (B) any liabilities of Seller
+and/or Seller's Parent related to the Medicaid Business for periods prior to the
+Effective Date (including, without limitation, medical claim liabilities with
+dates of service prior to the Effective Date for all Members or the Excluded
+Provider Contracts), (C) all Taxes imposed on the Medicaid Business, the Special
+Intangible Medicaid Assets or the Assumed Liabilities as a result of operations
+relating to the Medicaid Business conducted prior to the Effective Date, and (D)
+any obligations and liabilities related to employees of Seller (including
+obligations and liabilities related to any such employees who are employed by
+Buyer following Closing for periods prior to the Effective Date) and the
+Excluded Benefit Plans;
+
+               (iii) any of the Excluded Claims;
+
+               (iv) any claim (known or unknown, contingent or otherwise,
+whether arising in contract, contribution, indemnity, tort or otherwise), suit,
+action or proceeding that relates to Seller, Seller's Parent, the Assumed
+Provider Contracts or the Medicaid Business in which the principal event giving
+rise thereto occurred prior to the Effective Date or which arises out of or
+results from any action or inaction prior to the Effective Date by Seller,
+Seller's Parent or any director, officer, employee or agent of Seller or
+Seller's Parent; or
+
+               (v) the matters described in item numbers 2 and 7 on Schedule
+4.13.
+
+Buyer acknowledges that for any claim for indemnification where Seller and
+Seller's Parent are jointly and severally liable, all notices shall be sent to
+Seller prior to or concurrently with notices to Seller's Parent as required
+pursuant to Section 11.5.
+
+                                       36
+
+<PAGE>
+
+          (b) The obligations of Seller and Seller's Parent set forth in this
+ARTICLE 8 shall be subject to the following limitations and restrictions:
+
+               (i) (A) neither Seller nor Seller's Parent shall be obligated to
+indemnify Buyer until such time as the total Losses Buyer has suffered,
+sustained, incurred, paid or is required to pay by reason of all breaches are in
+excess of a $50,000 aggregate threshold (at which point Seller and Seller's
+Parent shall jointly and severally indemnify Buyer from and against all Losses
+relating back to the first dollar) and (B) there will be an aggregate ceiling on
+the obligation of Seller and Seller's Parent to indemnify Buyer equal to
+$10,000,000; provided, however, that these limitations shall not apply with
+respect to any Losses arising from or in connection with (x) any intentional
+misrepresentation or fraud, (y) any breach of representation or warranty
+contained in Sections 4.1, 4.2, 4.10 or 4.11, or (z) any breach of any covenant
+or agreement, all of which shall be indemnified on a dollar-for-dollar basis.
+
+               (ii) Seller and Seller's Parent shall have no liability with
+respect to any claim or other assertion of a right to recover Losses for any
+breach of the representations, warranties and covenants of Seller and Seller's
+Parent contained in this Agreement unless Buyer delivers to Seller notice of
+such matter within two (2) years after the Closing Date, except for (x) any
+breach of an agreement or covenant by either Seller and Seller's Parent for
+which indemnification shall be required if Buyer delivers notice to Seller at
+any time prior to expiration of the applicable period under the statute of
+limitations therefor, (y) any breach of a representation or warranty contained
+in Sections 4.1, 4.2 or 4.10, for which there shall be no time limitations in
+which Buyer must deliver notice to Seller to be entitled to indemnification
+hereunder, and (z) any breach of a representation and warranty contained in
+Section 4.11 for which indemnification shall be required if Buyer delivers
+notice of such matter to Seller prior to expiration of the statute of
+limitations applicable to assessments of taxes by governmental authorities with
+respect to each period prior to the Closing Date.
+
+     8.3 Indemnification by Buyer.
+
+          (a) Subject to Section 8.3 below, Buyer shall indemnify, defend and
+hold harmless Seller and its Affiliates from and against, and will reimburse
+Seller and its Affiliates the amount of, any Losses suffered, sustained,
+incurred, paid or required to be paid by Seller which arises out of, results
+from or is related to:
+
+               (i) the breach by Buyer of any representation, warranty, covenant
+or agreement contained in this Agreement (without giving effect to any
+supplement or bring down to the disclosure schedules prior to or at Closing);
+
+               (ii) any of the Assumed Liabilities; or
+
+               (iii) any claim made by a third party that relates to Buyer, the
+Assumed Provider Contracts or Buyer's operation of the Medicaid Business after
+the Effective Date in which the principal event giving rise thereto occurred on
+or subsequent to the Effective Date or which arises out of or results from any
+action or inaction on or after the Effective Date by Buyer or any officer,
+director, employee or agent of Buyer, except to the extent such Losses arise out
+of, result from or are
+
+                                       37
+
+<PAGE>
+
+related to the Excluded Liabilities or constitute Losses for which Seller and
+Seller's Parent are required to indemnify Buyer under Section 8.2 above.
+
+          (b) Buyer's obligations set forth in ARTICLE 8 shall be subject to the
+following limitations and restrictions:
+
+               (i) (A) Buyer shall not be obligated to indemnify Seller and its
+Affiliates until such time as the total Losses Seller or its Affiliates have
+suffered, sustained, incurred, paid or are required to pay by reason of all
+breaches are in excess of a $50,000 aggregate threshold (at which time Buyer
+shall indemnify Seller and its Affiliates from and against all Losses relating
+back to the first dollar); and (B) there will be an aggregate ceiling on the
+obligation of Buyer to indemnify Seller and its Affiliates equal to $10,000,000;
+provided, however, that these limitations shall not apply with respect to any
+Losses arising from or in connection with any intentional misrepresentation or
+fraud.
+
+               (ii) Buyer shall have no liability with respect to any claim or
+other assertion of a right to recover Losses for any breach of the
+representations, warranties and covenants of Buyer contained in this Agreement,
+unless Seller delivers to Buyer notice of such matter within two (2) years after
+the Closing Date, except for (x) any breach of a representation or warranty
+contained in Sections 5.1 or 5.2 for which there shall be no time limitations in
+which Seller must deliver notice to Buyer to be entitled to indemnification
+hereunder, and (y) any breach of an agreement or covenant for which
+indemnification shall be required if Seller delivers notice to Buyer at any time
+prior to expiration of the applicable period under the statute of limitations
+therefor.
+
+     8.4 No Offsets. Neither Seller nor Buyer shall have the right to offset
+amounts payable to the other Party under this Agreement because of outstanding
+claims, liabilities or obligations asserted by Seller or Buyer, as applicable,
+against such other Party under any other provision of this Agreement.
+
+     8.5 Indemnification Procedure--Third Party Claims.
+
+          (a) Promptly after receipt by an indemnified party of notice of a
+claim from a third party (a "Third Party Claim") which may give rise to a claim
+for indemnification hereunder, such indemnified party shall, if a claim is to be
+made against an indemnifying party, give notice to the indemnifying party of
+such Third Party Claim. Notwithstanding the foregoing, the failure to notify the
+indemnifying party will not relieve the indemnifying party of any liability that
+it may have to any indemnified party, except to the extent that the indemnifying
+party demonstrates that the defense of such action is materially prejudiced by
+the indemnified party's failure to give such notice, and then only to the extent
+of such prejudice.
+
+          (b) Any indemnifying party will have the right to defend the
+indemnified party against the Third Party Claim with counsel of its choice
+reasonably satisfactory to the indemnified party so long as (i) the indemnifying
+party notifies the indemnified party in writing within ten (10) days after the
+indemnified party has given notice of the Third Party Claim that the
+indemnifying party will indemnify the indemnified party from and against the
+entirety of any Loss the indemnified party may suffer resulting from, arising
+out of, relating to, in the nature of, or caused by the Third Party Claim, (ii)
+the indemnifying party provides the indemnified party with evidence reasonably
+
+                                       38
+
+<PAGE>
+
+acceptable to the indemnified party that the indemnifying party will have the
+financial resources to defend against the Third Party Claim and fulfill its
+indemnification obligations hereunder, (iii) the Third Party Claim involves only
+money damages and does not seek an injunction or other equitable relief, (iv)
+settlement of, or an adverse judgment with respect to, the Third Party Claim is
+not, in the good faith judgment of the indemnified party, likely to establish a
+precedential custom or practice materially adverse to the continuing business
+interests of the indemnified party, and (v) the indemnifying party conducts the
+defense of the Third Party Claim actively and diligently.
+
+          (c) So long as the indemnifying party is conducting the defense of the
+Third Party Claim in accordance with Section 8.5(b) above, (i) the indemnified
+party may retain separate co-counsel at its sole cost and expense and
+participate in the defense of the Third Party Claim, (ii) the indemnified party
+will not consent to the entry of any judgment or enter into any settlement with
+respect to the Third Party Claim without the prior written consent of the
+indemnifying party (not to be withheld or delayed unreasonably), and (iii) the
+indemnifying party will not consent to the entry of any judgment or enter into
+any settlement with respect to the Third Party Claim without the prior written
+consent of the indemnified party (not to be withheld or delayed unreasonably)
+unless the judgment or proposed settlement involves only the payment of money
+damages by the indemnifying party and does not impose an injunction or other
+equitable relief on the indemnified party.
+
+          (d) In the event any of the conditions in Section 8.5(b) above is or
+becomes unsatisfied in any material respect, however, (i) the indemnified party
+may defend against, and consent to the entry of any judgment or enter into any
+settlement with respect to, the Third Party Claim in any manner it reasonably
+may deem appropriate (and the indemnified party need not consult with, or obtain
+any consent from, any indemnifying party in connection therewith), (ii) the
+indemnifying parties will reimburse the indemnified party promptly and
+periodically for the costs of defending against the Third Party Claim (including
+reasonable attorneys' fees and expenses), and (iii) the indemnifying parties
+will remain responsible for any Loss the indemnified party may suffer resulting
+from, arising out of, relating to, in the nature of, or caused by the Third
+Party Claim to the fullest extent provided in this ARTICLE 8.
+
+          (e) With respect to any Third Party Claim subject to indemnification:
+(i) both the indemnified person and the indemnifying person, as the case may be,
+shall keep the other fully informed of the status of such Third Party Claims and
+any related proceedings where such other person is not represented by its own
+counsel, and (ii) the parties agree to render to each other such assistance as
+they may reasonably require of each other (provided the indemnified party shall
+be entitled to reimbursement of its reasonable costs and expenses) and to
+cooperate in good faith with each other in order to ensure the proper and
+adequate defense of any Third Party Claim.
+
+     8.6 Indemnification Procedure-Other Claims. A claim for indemnification for
+any matter not involving a Third Party Claim may be asserted by notice to the
+party from whom indemnification is sought.
+
+     8.7 Survival. All representations, warranties, covenants and obligations in
+this Agreement and any other certificate or document delivered pursuant to this
+Agreement shall survive the Closing and the consummation of the Transaction for
+the periods set forth in this ARTICLE 8. The right to indemnification,
+reimbursement, or other remedy based on the breach of such
+
+                                       39
+
+<PAGE>
+
+representations, warranties, covenants and obligations shall not be affected by
+any due diligence or other investigation conducted by the Party seeking relief.
+The waiver of any condition based on the accuracy of any representations or
+warranty, or on the performance of or compliance with any covenant or
+obligation, will not affect the right to indemnification, reimbursement, or
+other remedy based on the breach of such representations, warranties, covenants
+and obligations.
+
+     8.8 Exclusive Remedy; Mitigation; No Double Recovery.
+
+          (a) Except in the case of intentional misrepresentation or fraud, and
+except for claims of injunctive or other equitable relief for which monetary
+damages covered by an indemnity set forth herein are not adequate, the sole and
+exclusive remedy for any breach or inaccuracy, or alleged breach or inaccuracy,
+of any representation or warranty made by Seller, Seller's Parent or Buyer shall
+be the remedies provided by this ARTICLE 8.
+
+          (b) Each indemnified party shall use reasonable efforts (as it shall
+determine in good faith) to mitigate to the extent practical the amount of any
+Losses for which it is entitled to seek indemnification hereunder.
+
+          (c) Notwithstanding anything herein to the contrary, no party shall be
+entitled to indemnification or reimbursement under any provision of this
+Agreement for any amount to the extent such party has been indemnified or
+reimbursed for such amount under any other provision of this Agreement.
+
+          (d) All payments under this ARTICLE 8 shall be treated as adjustments
+to the Purchase Price.
+
+                                    ARTICLE 9
+
+                                   TERMINATION
+
+     9.1 Termination of Agreement. This Agreement may be terminated prior to
+Closing as follows:
+
+          (a) By Buyer, by giving written notice to Seller prior to Closing, (i)
+in the event Seller has breached any representation, warranty or covenant
+contained in this Agreement in any material respect, Buyer has notified Seller
+of the breach, and the breach has continued without cure for a period of thirty
+(30) days after the notice of breach, or (ii) if any condition in Section 6.1 or
+6.2 has not been satisfied as of September 30, 2003 (or if satisfaction of such
+condition by such date is or becomes impossible) (other than through failure of
+Buyer to fully comply with its obligations under this Agreement) and Buyer has
+not waived such condition on or before such date;
+
+          (b) By Seller, by giving written notice to Buyer prior to Closing, (i)
+in the event Buyer has breached any representation, warranty or covenant
+contained in this Agreement in any material respect, Seller has notified Buyer
+of the breach, and the breach has continued without cure for a period of thirty
+(30) days after the notice of breach, or (ii) if any condition in Section 6.1 or
+6.3 has not been satisfied as of September 30, 2003 (or if satisfaction of such
+condition by such date is or
+
+                                       40
+
+<PAGE>
+
+becomes impossible) (other than through failure of Seller to fully comply with
+its obligations under this Agreement) and Seller has not waived such condition
+on or before such date; or
+
+          (c) By mutual written consent of Seller and Buyer.
+
+     9.2 Effect of Termination. Each Party's right of termination under Section
+9.1 is in addition to any other rights it may have under this Agreement or
+otherwise, and the exercise of such right of termination will not constitute an
+election of remedies. If this Agreement is terminated pursuant to Section 9.1,
+all rights and obligations of the Parties under this Agreement will terminate
+without any liability of any Party to any other Party (except for any liability
+of any Party then in breach), except that the obligations of the Parties in this
+Section 9.2 and Section 7.3(a) and ARTICLE 11 will survive.
+
+                                   ARTICLE 10
+
+                                   DEFINITIONS
+
+     10.1 Certain Defined Terms. Unless the context otherwise specifies or
+requires, the following terms have the meanings specified below:
+
+          "Acquired Information Concerning Operations" shall have the meaning
+given in Section 7.3(o).
+
+          "Affected Members" shall have the meaning given in Section
+7.1(b)(iii).
+
+          "Affiliate" means (i) any Person directly or indirectly controlling,
+controlled by or under common control with another Person; (ii) any Person
+owning or controlling ten percent (10%) or more of the outstanding voting
+securities of such other Person; (iii) any officer, director or partner of such
+Person; and (iv) if such Person is an officer, director or partner, any such
+company for which such Person acts in such capacity.
+
+          "Agreement" means this Asset Purchase Agreement, as originally
+executed, as amended, supplemented or otherwise modified from time to time.
+
+          "AHCA" shall have the meaning given in the Recitals.
+
+          "Ancillary Agreements and Instruments" means those agreements and
+instruments required to be executed in accordance with this Agreement by Seller
+or Buyer as the context so requires.
+
+          "Assumed Liabilities" shall have the meaning given in Section 2.1.
+
+          "Assumed Provider Contracts" shall have the meaning given in Section
+1.1(b).
+
+          "Audited Year End Statements" shall have the meaning given in Section
+7.2(f).
+
+          "Bankruptcy" means with respect to any Party: (i) the filing of an
+application by such Party for, or its consent to, the appointment of a trustee,
+receiver or custodian of its assets; (ii) the
+
+                                       41
+
+<PAGE>
+
+entry of an order for relief with respect to such Party in proceedings under the
+United States Bankruptcy Code, as amended or superseded from time to time; (iii)
+the making by such Party of a general assignment for the benefit of creditors;
+(iv) the entry of an order, judgment or decree by any court of competent
+jurisdiction appointing a trustee, receiver or custodian of the assets of such
+Party; (v) the failure by such Party generally to pay its debts as the debts
+become due within the meaning of Section 303(h)(1) of the United States
+Bankruptcy Code or the admission in writing of its inability to pay its debts as
+they become due.
+
+          "Benefit Plan" means any (a) nonqualified deferred compensation or
+retirement plan or arrangement, (b) qualified defined contribution retirement
+plan or arrangement which is an Employee Pension Benefit Plan, (c) qualified
+defined benefit retirement plan or arrangement which is an Employee Pension
+Benefit Plan, or (d) Employee Welfare Benefit Plan or material fringe benefit or
+other retirement, bonus or incentive plan or program.
+
+          "Business Day" means a day on which commercial banking institutions in
+Norfolk, Virginia are open for the transaction of substantially all of their
+banking business.
+
+          "Buyer" means AMERIGROUP Florida, Inc.
+
+          "Buyer's Adjustment Statement" shall have the meaning given in Section
+3.2(e).
+
+          "Buyer's Florida Medicaid Contract" shall have the meaning given in
+the Recitals.
+
+          "Buyer's Medicaid Plan" shall have the meaning given in the Recitals.
+
+          "Closing" shall have the meaning given in Section 3.4.
+
+          "Closing Date" means the date of Closing, as determined pursuant to
+Section 3.4.
+
+          "Closing Governmental Authorizations" shall have the meaning given in
+Section 6.1(a).
+
+          "Closing Transferred Membership" shall have the meaning given in
+Section 3.2(c).
+
+          "CMS" means Centers for Medicare & Medicaid Services.
+
+          "Code" means the Internal Revenue Code of 1986, as amended, and the
+regulations thereunder, or any subsequent legislative enactment thereof, as in
+effect from time to time.
+
+          "Contingent Provider Contracts" shall have the meaning given in
+Section 7.1(a)(ii).
+
+          "Definitive Statement" shall have the meaning given in Section 3.2(e).
+
+          "Designated Medicaid Provider" means the providers with whom Seller
+has contracted through a Designated Provider Contract.
+
+          "Designated Provider Contracts" shall have the meaning given in
+Section 7.1(a)(i).
+
+                                       42
+
+<PAGE>
+
+          "DFS" means the Florida Department of Financial Services.
+
+          "Dual Product Provider Contract" shall have the meaning given in
+Section 1.1(b).
+
+          "Effective Date" shall have the meaning given in Section 3.4.
+
+          "Effective Month" shall have the meaning given in Section 3.2(c).
+
+          "Employee Pension Benefit Plan" has the meaning set forth in ERISA (S)
+3(2).
+
+          "Employee Welfare Benefit Plan" has the meaning set forth in ERISA (S)
+3(1).
+
+          "ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended, and the regulations thereunder, as in effect from time to time.
+
+          "Escrow Account" shall have the meaning given in Section 3.3(a).
+
+          "Escrow Agreement" shall have the meaning given in Section 3.3(a).
+
+          "Escrow Deposit" shall have the meaning given in Section 3.3(a).
+
+          "Excess Amount" shall have the meaning given in Section 3.3(b)(iii).
+
+          "Excluded Assets" shall have the meaning given in Section 1.2.
+
+          "Excluded Claims" shall have the meaning given in Section 2.2(b).
+
+          "Excluded Benefit Plans" shall have the meaning given in Section
+2.2(e).
+
+          "Excluded Liabilities" shall have the meaning given in Section 2.2.
+
+          "Excluded Provider Contracts" shall have the meaning given in Section
+1.2(b).
+
+          "Financial Statements" shall have the meaning given in Section 4.4(a).
+
+          "Florida Medicaid Program" shall have the meaning given in the
+Recitals.
+
+          "GAAP" means United States generally accepted accounting principles as
+in effect from time to time, consistently applied.
+
+          "Governmental Authorizations" means the governmental licenses,
+franchises, permits, privileges, immunities, approvals and other governmental
+authorizations that a Party needs to own its assets and operate its business as
+it is now being operated.
+
+          "HMO" shall have the meaning given in the Recitals.
+
+          "IBNR" means incurred but not reported claims and incurred but not
+paid claims.
+
+                                       43
+
+<PAGE>
+
+          "Independent Accounting Firm" shall have the meaning given in Section
+3.2(e)."Interim Monthly Reports" shall have the meaning given in Section 7.2(f).
+
+          "Knowledge", when used with respect to a representation or warranty by
+Seller, shall mean the actual knowledge of the officers of Seller (and any
+officers of Seller's Parent rendering services to Seller) who hold the position
+of vice president or any senior position thereto, provided such persons shall be
+deemed to have knowledge of a fact or matter if a prudent individual could be
+expected to discover or otherwise become aware of such fact or matter in the
+course of discharging their duties or conducting a reasonable investigation for
+purposes of making a representation or warranty. For avoidance of doubt, the
+vice presidents of Seller include the persons listed on Schedule 10.1.
+
+          "Lien" means any interest in property securing an obligation owed to,
+or a claim by, a Person other than the owner of the property, whether such
+interest is based on the common law, statute or contract, and including but not
+limited to the lien or security interest arising from a mortgage, charge,
+pledge, assignment, hypothecation, security agreement, conditional sale or trust
+receipt or a lease, consignment or bailment for security purposes or other
+encumbrance of any nature whatsoever on or with respect to any cash, property,
+right to receive income or other assets of any nature whatsoever.
+
+          "Loss" or "Losses" shall have the meaning given in Section 8.2.
+
+          "Medicaid Business" shall have the meaning given in the Recitals.
+
+          "Member Notice" shall have the meaning given in Section 7.1(b)(iv).
+
+          "Members" shall have the meaning given in the Recitals.
+
+          "NCQA" means National Committee for Quality Assurance.
+
+          "Overpayment" shall have the meaning given in Section 7.3(k)
+
+          "Party" or "Parties" has the meaning given in the Preamble.
+
+          "Person" means any individual, corporation, partnership, joint
+venture, trust, unincorporated organization, association, a government or any
+agency, authority or political subdivision thereof.
+
+          "PIP Regulation" shall have the meaning given in Section 4.7(f).
+
+          "Pre-Closing Conditions Related to the Closing Governmental
+Authorizations" shall have the meaning given in Section 6.1.
+
+          "Preliminary Purchase Price" shall have the meaning given in Section
+3.1.
+
+          "Provider Notice" shall have the meaning given in Section 7.1(b)(i).
+
+          "Purchase Price" shall have the meaning given in Section 3.1.
+
+                                       44
+
+<PAGE>
+
+          "Reconciliation Month" shall have the meaning given in Section 3.2(d)
+
+          "Reconciled Transferred Membership" shall have the meaning given in
+Section 3.2(d).
+
+          "RTE Files" shall have the meaning given in Section 3.2(d).
+
+          "SAP" means statutory accounting principles as prescribed by NAIC
+Accounting Practices and Procedures Manual and consistently applied.
+
+          "Seller" means AvMed, Inc., a Florida not-for-profit corporation.
+
+          "Seller's Adjustment Statement" shall have the meaning given in
+Section 3.2(e).
+
+          "Seller's Enrolled RTEs" shall have the meaning given in Section
+3.2(d).
+
+          "Seller's Florida Medicaid Contract" shall have the meaning given in
+the Recitals.
+
+          "Seller's Medicaid Plan" shall have the meaning given in the Recitals.
+
+          "Seller Medicaid Provider" shall have the meaning given in the
+Recitals.
+
+          "Seller's Parent" means SantaFe HealthCare, Inc., a Florida
+not-for-profit corporation.
+
+          "Seller's Parent's Representations and Warranties" shall mean all
+representations and warranties under Sections 4.1, 4.2, 4.3, 4.4, 4.17, 4.18 and
+4.19 that relate to Seller's Parent, as specifically identified.
+
+          "Seller's Representations and Warranties" shall mean all
+representations and warranties in ARTICLE 4.
+
+          "Shortfall Amount" shall have the meaning given in Section 3.3(b)(ii).
+
+          "Span Admission" shall have the meaning given in Section 2.2(b).
+
+          "Special Intangible Medicaid Assets" shall have the meaning given in
+Section 1.1.
+
+          "Statement of Restated Members" shall have the meaning given in
+Section 3.2(d).
+
+          "Taxes" means all federal, state, local and foreign income,
+employment, franchise, capital stock, premium taxes, excise, gross receipts,
+sales, use, personal property (including, without limitation, Florida
+intangible), escheat, real estate and stamp taxes, payments in lieu of taxes,
+levies, duties, assessments and fees of any nature, together with all related
+penalties, fines or additions to tax or interest thereon.
+
+          "Tax Returns" shall have the meaning given in Section 4.11.
+
+          "Third Party Claim" shall have the meaning given in Section 8.5(a).
+
+                                       45
+
+<PAGE>
+
+          "Transaction" means the transactions described under ARTICLE 1,
+ARTICLE 2, and ARTICLE 3 hereof.
+
+          "Transferred Members" shall be those Members who are enrolled in
+Buyer's Medicaid Plan as a result of consummation of the Transaction.
+
+     10.2 Accounting Terms. All terms of an accounting nature not specifically
+defined herein shall have the respective meanings given to them under GAAP.
+
+     10.3 Other Definition Provisions. The masculine form of words includes the
+feminine and the neuter and vice versa, and, unless the context otherwise
+requires, the singular form of words includes the plural and vice versa and "or"
+is used in the sense of "and/or." The words "herein," "hereof," "hereunder" and
+other words of similar import when used in this Agreement refer to this
+Agreement as a whole, and not to any particular section or subsection.
+
+                                   ARTICLE 11
+
+                               GENERAL PROVISIONS
+
+     The following shall be applicable throughout the term of this Agreement:
+
+     11.1 Amendments and Waivers; Construction. No amendment, modification,
+termination or waiver of any provision of this Agreement shall be effective
+unless the same shall be set forth in a writing signed by each Party, and then
+only to the extent specifically set forth therein. This Agreement shall not be
+construed more strictly against one Party than the other by virtue of the fact
+that it may have been prepared by counsel for one of the Parties, it being
+recognized that each Party has contributed substantially and materially to the
+preparation of this Agreement.
+
+     11.2 Successors and Assigns. This Agreement shall be binding upon and inure
+to the benefit of each of Seller and Buyer and their respective successors and
+assigns. No Party may assign or transfer any of its rights under this Agreement
+or any interest herein without the prior written consent of the other party
+hereto and any such assignment without such consent shall be null and void;
+provided, however, Buyer shall be entitled to assign this Agreement to a party
+acquiring all or substantially all of its assets.
+
+     11.3 Counterparts. This Agreement and any amendment hereof may be executed
+in any number of counterparts and by each party on a separate counterpart, each
+of which, when so executed and delivered, shall be deemed to be an original and
+all of which taken together shall constitute one and the same instrument. In
+producing this Agreement, it shall not be necessary to produce or account for
+more than one such counterpart signed by the Party against whom enforcement is
+sought.
+
+     11.4 No Waivers by Implication. No course of dealing on the part of any
+Party or its respective officers, directors, employees, consultants or agents,
+nor any failure or delay by any Party with respect to exercising any of its
+respective rights, powers or privileges under this Agreement or law shall
+operate as a waiver thereof. No waiver by any Party of any condition or the
+breach of any term, covenant, representation or warranty contained in this
+Agreement, whether by conduct or
+
+                                       46
+
+<PAGE>
+
+otherwise, in any one or more instances shall be deemed a further or continuing
+waiver of any condition or covenant, representation or warranty of this
+Agreement.
+
+     11.5 Notices. Unless otherwise specified herein, all notices, requests and
+other communications to any Party hereunder (i) shall be in writing (ii) shall
+be given to such Party at its address set forth below or such other address as
+such Party may hereafter specify for that purpose by notice to the other Parties
+and (iii) shall be delivered by hand or certified mail, postage prepaid, return
+receipt requested, or nationally-recognized overnight courier service.
+
+          If to Seller:
+
+               AvMed, Inc.
+               4300 N.W. 89th Boulevard
+               Gainesville, Florida 32606
+               Attention: Mr. Robert C. Hudson, Chief Executive
+
+          If to Seller's Parent:
+
+               SantaFe HealthCare, Inc.
+               4300 N.W. 89th Boulevard
+               Gainesville, Florida 32606
+               Attention: Mr. Robert C. Hudson, President and
+                                Chief Executive Officer
+
+          With Copies (in each case) to:
+
+               Stephen J. DeMontmollin, Esquire
+               Senior Vice President & General Counsel
+               4300 N.W. 89th Boulevard
+               Gainesville, Florida 32606
+
+               Gary Scott Davis, P.A.
+               McDermott, Will & Emery
+               201 South Biscayne Boulevard
+               Miami, Florida 33131
+
+          If to Buyer (or Buyer ):
+
+               AMERIGROUP Corporation
+               4425 Corporation Lane, Suite 300
+               Virginia Beach, Virginia 23462
+               Attention: Stanley F. Baldwin, Esquire, Senior Vice President
+                             and General Counsel
+
+                                       47
+
+<PAGE>
+
+          With a Copy to:
+
+               Thomas C. Inglima, Esquire
+               Willcox & Savage, P.C.
+               1800 Bank of America Center
+               Norfolk, Virginia 23510
+
+Each such notice, request or other communication shall be effective (a) if
+delivered by hand, on the date of such delivery, (b) if given by certified mail,
+upon receipt, or (c) if given by overnight courier, when delivered at the
+address specified in this Section.
+
+     11.6 Reproductions. This Agreement and all other documents, instruments and
+agreements in the possession of any Party which relate hereto or thereto may be
+reproduced by such Party, and any such reproduction shall be admissible in
+evidence, with the same effect as the original itself, in any judicial or other
+administrative proceeding, whether the original is in existence or not. No Party
+will object to the admission in evidence of any such reproduction, unless the
+objecting Party reasonably believes that the reproduction does not accurately
+reflect the contents of the original and objects on that basis.
+
+     11.7 Entire Agreement. This Agreement, together with the exhibits and
+schedules to this Agreement, embodies the entire agreement and understanding
+between the Parties with respect to the subject matter hereof, and supersedes
+all prior agreements and understandings between such Parties relating to the
+subject matter hereof and thereof, including, without limitation, that certain
+Letter of Intent between AMERIGROUP Corporation and Seller dated December 27,
+2002. If there is a conflict between the terms, conditions, representations,
+warranties and covenants contained in this Agreement and any other document,
+then the provisions in this Agreement shall control.
+
+     11.8 Exhibits, Schedules and Attachments. The exhibits, schedules and
+attachments attached to this Agreement are incorporated herein and shall be
+considered a part of this Agreement for the purposes stated herein, except that
+in the event of any conflict between any of the provisions of such exhibits,
+schedules and attachments and the provisions of this Agreement, the provisions
+in this Agreement shall control. Each Party is responsible for the accuracy of
+its respective schedules regardless of any assistance provided by the other
+Party in connection with the preparation of the schedules. After the date of
+this Agreement, Seller (a) may update Schedule 4.7(a) to reflect providers that
+have been added or terminated after the date of this Agreement, and (b) may
+update Schedules 4.7(b), 4.7(c), 4.7(e), 4.7(f), 4.7(g), and 4.7(h) to reflect
+changes caused by additions or deletions made by Buyer to Schedule 7.1. Such
+updates shall be delivered as soon as practicable, but in no event later than
+five (5) days prior to Closing. Any disclosure made in one schedule may be
+incorporated by reference into one or more other schedules so long as such other
+schedules expressly identify the disclosure to be incorporated and the purpose
+for which it is being incorporated is clear.
+
+     11.9 Rights Cumulative. Except as set forth herein, all rights, powers and
+remedies herein given to each Party are cumulative and not alternative, and are
+in addition to all statutes or rules of law; any forbearance or delay by such
+Party in exercising the same shall not be deemed to be a waiver thereof, and the
+exercise of any right or partial exercise thereof shall not preclude the further
+
+                                       48
+
+<PAGE>
+
+exercise thereof, and the same shall continue in full force and effect until
+specifically waived by an instrument in writing executed by such Party.
+
+     11.10 Governing Law, Waiver of Jury Trial, etc.. This Agreement, and the
+rights and obligations of the Parties hereunder, shall be governed by and
+construed in accordance with the laws of the State of Florida applicable to
+contracts made and to be performed entirely within Florida. EACH OF THE PARTIES
+HEREBY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR
+COUNTERCLAIM (WHETHER BASED IN CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR
+RELATING TO THIS AGREEMENT OR THE ACTIONS OF THE PARTIES IN THE NEGOTIATION,
+ADMINISTRATION, PERFORMANCE OR ENFORCEMENT HEREOF.
+
+     11.11 Severability. If any provision of this Agreement or the application
+thereof to any Person or circumstance is held invalid, such invalidity shall not
+affect any other provision which can be given effect without the invalid
+provision or application, and to this end the provisions hereof shall be
+severable.
+
+     11.12 Captions. The captions of and sections in this Agreement are for
+convenience of reference only, shall not define or limit the provisions hereof
+and shall not have any legal or other significance whatsoever.
+
+     11.13 Third Party Rights. It is the intention of the parties that nothing
+in this Agreement shall be deemed to create any right with respect to any Person
+or entity not a party to this Agreement or the successor or assign thereof.
+
+     11.14 Time of Essence. TIME IS OF THE ESSENCE in the performance of this
+Agreement.
+
+     11.15 Written Agreement Required/No Oral Modification. Notwithstanding any
+negotiations or discussions between Seller and/or Buyer, or any statements made
+in connection therewith, there shall be no legally binding agreement with regard
+to the transactions contemplated by and the subject matter of this Agreement,
+unless and until Seller and Buyer have each duly executed and delivered to each
+other a final agreement among them.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK -
+                             SIGNATURE PAGE FOLLOWS]
+
+                                       49
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties hereto have executed this Agreement the day
+and year first above written.
+
+                                        AMERIGROUP FLORIDA, INC., a Florida
+                                        corporation
+
+
+                                        By:
+                                            ------------------------------------
+                                            Name:
+                                                 -------------------------------
+                                            Title:
+                                                  ------------------------------
+
+
+                                        AVMED, INC., a Florida not-for-profit
+                                        corporation
+
+
+                                        By:
+                                            ------------------------------------
+                                            Name:
+                                                 -------------------------------
+                                            Title:
+                                                  ------------------------------
+
+
+                                        SANTAFE HEALTHCARE, INC., a Florida
+                                        not-for-profit corporation
+
+
+                                        By:
+                                            ------------------------------------
+                                            Name:
+                                                 -------------------------------
+                                            Title:
+                                                  ------------------------------
+
+                                       50
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                            FORM OF ESCROW AGREEMENT
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                       FORM OF BILL OF SALE AND ASSIGNMENT
+
+<PAGE>
+
+                                    EXHIBIT C
+
+                        FORM OF NONCOMPETITION AGREEMENT
+
+<PAGE>
+
+                                    EXHIBIT D
+
+                            FORM OF SELLER'S OPINION
+
+<PAGE>
+
+                                    EXHIBIT E
+
+                   FORM OF ASSIGNMENT AND ASSUMPTION AGREEMENT
+
+<PAGE>
+
+                                    EXHIBIT F
+
+                             FORM OF BUYER'S OPINION
+
+<PAGE>
+
+                                 SCHEDULE 1.1(d)
+
+                           Provider Database Elements
+
+1.   Name (with first name broken out from last name, and with name suffixes
+     (Jr., Sr.)) - if the provider is a facility or ancillary, full name only is
+     necessary
+
+2.   Degree
+
+3.   Specialties (and whether practicing as a PCP or specialist in each)
+
+4.   Foreign language capabilities (or confirmation that there are none)
+
+5.   All hospital affiliations
+
+6.   Gender
+
+7.   Ethnicity
+
+8.   Social Security Number
+
+9.   Date of Birth
+
+10.  Tax Numbers; for each tax number:
+
+     .    Office addresses including street, city, state, zip, county, phone
+          number, fax number (or confirmation that there is no fax), PCP office
+          hours
+
+     .    Billing address (if different from office address)
+
+     .    Group name, if any, and whether payment is to the group or to the
+          individual (Group TIN and Billing address info if payment is to the
+          group)
+
+     .    Age restrictions
+
+     .    Reimbursement schedule for this tax number (i.e., capitation of FFS
+          data)
+
+     .    PCP age restrictions
+
+     .    Whether or not each provider's practice is closed to new members
+
+     .    Panel Status (open vs. closed)
+
+11.  License Number
+
+12.  Medicaid number
+
+<PAGE>
+
+13.  AvMed's provider or affiliation number
+
+14.  DEA Number
+
+15.  Credentialing Status codes
+
+16.  Provider professional education data (medical schools, residency, etc.)
+
+</TEXT>
+</DOCUMENT>

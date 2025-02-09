@@ -1,0 +1,3084 @@
+<DOCUMENT>
+<TYPE>EX-10.70
+<SEQUENCE>19
+<FILENAME>dex1070.txt
+<DESCRIPTION>LETTER OF CREDIT REIMBURSEMENT AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.70
+
+                    LETTER OF CREDIT REIMBURSEMENT AGREEMENT
+
+                            Dated as of June 7, 2002
+
+                                     among
+
+                               AMERICREDlT CORP.
+
+                                      and
+
+
+                       AMERICREDIT FINANCIAL SERVICES INC.
+
+                                as the Borrowers
+
+                                      and
+
+                       DEUTSCHE BANK AG, NEW YORK BRANCH
+
+                                 as the Issuer
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                             Page
+<S>                                                                               <C>
+ARTICLE I ...................................... DEFINITIONS AND ACCOUNTING TERMS  1
+     SECTION 1.01 ......................................... Certain Defined Terms  1
+     SECTION 1.02 ................................... Computation of Time Periods  1
+     SECTION 1.03 .............................................. Accounting Terms  2
+     SECTION 1.04 ................................................... Other Terms  2
+ARTICLE II ........................................ ISSUANCE OF LETTERS OF CREDIT  2
+     SECTION 2.01 ......................................... The Letters of Credit  2
+     SECTION 2.02 ................................................. Disbursements  3
+     SECTION 2.03 ................................................. Reimbursement  6
+     SECTION 2.04 ...................................................... Interest  8
+     SECTION 2.05 .......................................................... Fees  8
+     SECTION 2.06 ............................ Increased Costs; Increased Capital  8
+     SECTION 2.07 ......................................................... Taxes  9
+     SECTION 2.08 ..................................... Payments and Computations 10
+     SECTION 2.09 .............................................. Issuer's Records 11
+     SECTION 2.10 ........................................ No Liability of Issuer 11
+ARTICLE III ................................................ CONDITIONS PRECEDENT 11
+     SECTION 3.01 ... Conditions Precedent to the Effectiveness of this Agreement 11
+ARTICLE IV ....................................... REPRESENTATIONS AND WARRANTIES 14
+     SECTION 4.01 ............... Representations and Warranties of the Borrowers 14
+     SECTION 4.02 .................. Representations and Warranties of the Issuer 17
+ARTICLE V ............................................ COVENANTS OF THE BORROWERS 17
+     SECTION 5.01 ....................... Affirmative Covenants of the Borrowers  17
+     SECTION 5.02 .. Negative Covenants with respect to Activities of AFS Funding 24
+     SECTION 5.03 ......... Covenants with respect to Activities of the Borrowers 25
+ARTICLE VI  ........................ EVENTS OF DEFAULT CASH COLLATERAL PROVISIONS 26
+     SECTION 6.01 ............................................. Events of Default 26
+     SECTION 6.02 .................................... Cash Collateral Provisions 28
+     SECTION 6.03 .................................. Mandatory Pre-Reimbursements 29
+ARTICLE VII ....................................................... MISCELLANEOUS 29
+     SECTION 7.01 ............................................... Amendments, Etc 29
+</TABLE>
+
+                                       -i-
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   (continued)
+<TABLE>
+<CAPTION>
+                                                                             Page
+<S>                                                                               <C>
+     SECTION 7.02................................................... Notices, Etc 30
+     SECTION 7.03............................................ No Waiver; Remedies 31
+     SECTION 7.04............................ Costs, Expenses and Indemnification 31
+     SECTION 7.05.................................... Binding Effect; Termination 32
+     SECTION 7.06......................................... Successors and Assigns 32
+     SECTION 7.07................................................. No Proceedings 33
+     SECTION 7.08............................ Submission to Jurisdiction; Waivers 33
+     SECTION 7.09.......................................... WAIVERS OF JURY TRIAL 34
+     SECTION 7.10.................................................. GOVERNING LAW 34
+     SECTION 7.11...................................... Execution in Counterparts 34
+     SECTION 7.12....................................................... Headings 34
+     SECTION 7.13................................................... Severability 34
+     SECTION 7.14.................................................... Integration 34
+     SECTION 7.15............................................... Right of Set-Off 34
+     SECTION 7.16........................................ Limitation of Liability 35
+     SECTION 7.17............................ No Recourse Against Certain Persons 35
+     SECTION 7.18............................... Treatment of Certain Information 36
+     SECTION 7.19............................................... Certain Payments 36
+     SECTION 7.20.................................... Joint and Several Liability 36
+</TABLE>
+
+                                      -ii-
+
+<PAGE>
+
+
+                                LIST OF EXHIBITS
+
+ Exhibit A   Form of Irrevocable Letter of Credit
+ Exhibit B   List of Series Transaction Documents for the FSA Series
+ Exhibit C   Collateral and Reinsurance
+
+                               LIST OF APPENDICES
+
+ Appendix A  Certain Definitions
+
+<PAGE>
+
+         LETTER OF CREDIT REIMBURSEMENT AGREEMENT, dated as of June 7, 2002, by
+and among AMERICREDIT CORP., a Texas corporation ("ACC"), AMERICREDIT FINANCIAL
+SERVICES INC., a Delaware corporation ("ACFS"; together with ACC, each a
+"Borrower" and collectively, the "Borrowers"), and DEUTSCHE BANK AG, a German
+banking corporation acting through its New York Branch, as issuer (together with
+its successors in such capacity, the "Issuer").
+
+                                    RECITALS
+
+         1. AFS Funding Corp. ("AFS Funding") has sold pools of receivables to
+the Underlying Trusts (as defined herein), which have issued two series of
+asset-backed notes or certificates designated Series 2001-B and Series 2001-D
+(each a "Designated Series") which will be repaid by the proceeds of, or
+represent an interest in, as the case may be, such pools of receivables.
+
+         2. FSA (as defined herein) has issued insurance policies with respect
+to payments due under each Designated Series and has also issued, and may from
+time to time issue, insurance policies with respect to other series in effect on
+the date hereof and as may hereafter be in effect that are supported by the
+Spread Account Agreement (as defined herein) (all such series, including the
+Designated Series, "FSA Series").
+
+         3. The Borrowers have requested that the Issuer issue letters of credit
+for the joint and several account of the Borrowers in an initial aggregate
+stated amount of $130,029,229 to provide credit support to FSA under its
+insurance policies for such FSA Series.
+
+         4. Upon the terms and conditions contained in this Agreement and the
+other Transaction Documents, the Issuer is willing to provide such letters of
+credit for the account of the Borrowers.
+
+                                   AGREEMENTS
+
+         In consideration of the premises and of the agreements herein
+contained, and for other good and valuable consideration, the receipt and
+adequacy of which are hereby acknowledged, the Borrowers and the Issuer hereby
+agree as follows:
+
+                                    ARTICLE I
+                        DEFINITIONS AND ACCOUNTING TERMS
+
+         SECTION 1.01 Certain Defined Terms. Certain capitalized terms used in
+this Agreement and not otherwise defined herein shall have the respective
+meanings set forth in Appendix A hereto.
+
+         SECTION 1.02 Computation of Time Periods. In this Agreement in the
+computation of periods of time from a specified date to a later specified date,
+the word "from" means "from and including" and the words "to" and "until" each
+means "to but excluding." Periods of days referred to in this Agreement shall be
+counted in calendar days unless Business Days are expressly prescribed and
+references in this Agreement to months and years shall be to calendar months and
+calendar years unless otherwise specified.
+
+<PAGE>
+
+         SECTION 1.03 Accounting Terms. All accounting terms not specifically
+defined otherwise herein shall have the meaning customarily given in accordance
+with GAAP, and all financial computations hereunder shall be computed, unless
+specifically provided otherwise herein, in accordance with GAAP.
+
+         SECTION 1.04 Other Terms. Any references herein to Exhibits, Schedules,
+Appendices, Sections or Articles are references to Exhibits, Schedules,
+Appendices, Sections or Articles of this Agreement, unless otherwise specified.
+The words "including" and "include" are deemed to be followed by the words
+"without limitation."
+
+                                   ARTICLE II
+                          ISSUANCE OF LETTERS OF CREDIT
+
+         SECTION 2.01 The Letters of Credit.
+
+         (a) On and subject to the terms and conditions hereinafter set forth,
+the Issuer shall issue the following letters of credit (collectively, the
+"Letters of Credit") on the date hereof (i) Letter of Credit No. S-14699 with a
+Maximum Stated Amount initially equal to $52,581,286 for a term expiring on
+January 5, 2004 (the "2OO1-B Scheduled Expiry Date") and (ii) Letter of
+Credit No. S-14700 with a Maximum Stated Amount initially equal to $77,447,943
+for a term expiring on April 5, 2004 (the "2001-D Scheduled Expiry Date";
+together with the 2001-B Scheduled Expiry Date, each a "Scheduled Expire
+Date"). Each Letter of Credit shall be substantially in the form of Exhibit A.
+
+         (b) The Available Stated Amount and Maximum Stated Amount for
+any Letter of Credit shall be changed as follows:
+
+             (i)   The Available Stated Amount for a Letter of Credit shall be
+         reduced dollar-for-dollar by the amount of any drawing thereunder
+         (including any drawing honored on a Distribution Date) on the date such
+         drawing is honored by the Issuer.
+
+             (ii)  The Maximum Stated Amount for a Letter of Credit shall be
+         reduced dollar-for-dollar on each Distribution Date with respect to the
+         related Notes of a Designated Series, so long as no Insurance Agreement
+         Event of Default exists with respect to any FSA Series, to the extent,
+         if any, that the Available Enhancement Amount on the preceding
+         Distribution Date exceeds the Maximum Enhancement Amount, after giving
+         effect to all deposits to and withdrawals from the Spread Account for
+         such related Notes and payments of principal of such related Notes in
+         respect of such Distribution Date; provided that reduction of the
+         Maximum Stated Amount shall resume if and when no Insurance Agreement
+         Event of Default shall be continuing (due to waiver or otherwise). The
+         Borrowers shall deliver to the Issuer (with a copy to FSA) a
+         certificate in the form of Annex C to the applicable Letter of Credit
+         on each Distribution Date in connection with each such reduction.
+
+             (iii) The Available Stated Amount for a Letter of Credit shall be
+         reinstated dollar-for-dollar to the extent of reimbursement of drawings
+         under such Letter of Credit, but not in excess of the Maximum Stated
+         Amount. Any reduction of the Available Stated Amount shall be final and
+         shall not be subject to reinstatement except as provided in the
+
+                                       2
+
+<PAGE>
+
+         previous sentence and except in the case of manifest error, and the
+         amount of reinstatement shall be the amount of such reimbursement, net
+         of any interest. For purposes of such reinstatement, reimbursement of
+         drawings under a Letter of Credit shall include only amounts delivered
+         to the Issuer by FSA pursuant to Section 2.03(b) or (c) and the amount
+         of interest deducted shall include only interest actually paid to FSA
+         as provided in the related Insurance and Indemnity Agreement in respect
+         of such Policy Payments. FSA shall deliver to the Issuer a certificate
+         in the form of Annex D to the applicable Letter of Credit in connection
+         with each such reinstatement, and any such reinstatement shall become
+         effective immediately upon receipt by the Issuer of such certificate;
+         provided that the Issuer may reverse any such reinstatement in the case
+         of manifest error so long as the Issuer sends written notice of such
+         reversal to FSA within 10 Business Days of the Issuer's receipt of such
+         certificate.
+
+             If an Insurance Agreement Event of Default or Trigger Event shall
+         have occurred and be continuing, FSA may, by delivering a certificate
+         in the form of Annex E to the applicable Letter of Credit, direct the
+         Issuer to reduce the Maximum Stated Amount under each Letter of Credit
+         and cancel any outstanding Spread Account Replacement Reinsurance (but
+         only on a pro rata basis as between all outstanding Letters of Credit
+         and all outstanding Spread Account Replacement Reinsurance) to the
+         extent FSA determines in good faith that FSA's remaining exposure under
+         the Policies is investment grade based upon rating agency levels of
+         coverage for expected losses without the benefit of the reduced amount
+         of the Letters of Credit and Spread Account Replacement Reinsurance.
+
+             SECTION 2.02 Disbursements
+
+             (a) The Borrowers agree with respect to each Letter of Credit that
+if FSA will make a Policy Payment under the related Policy on any Insured
+Distribution Date then, at anytime on or after the Business Day prior to the
+Distribution Date preceding such Insured Distribution Date, FSA shall have the
+right to draw under the applicable Letter of Credit (determined in accordance
+with Section 2.02(c)) in an amount not exceeding the lesser of the amount of
+such Policy Payment and the Available Stated Amount of such Letter of Credit,
+either for the purpose of making such Policy Payment or as reimbursement for
+making such Policy Payment.
+
+             (b) FSA agrees that it shall first apply amounts (including with
+respect to Subsequent Reinsurance, amounts deemed available in accordance with
+the definition thereof), if any, from the following sources to make such Policy
+Payment:
+
+                 (i)  to the extent available pursuant to the Spread Account
+         Agreement, the Spread Accounts for the related Notes and the
+         asset-backed notes and certificates issued in connection with all other
+         FSA Series; or
+
+                 (ii) Subsequent Reinsurance.
+
+             (c) With respect to any Letter of Credit, all reinsurance of the
+Policies shall be Excess of FSA's Loss Protection provided by such Letter
+of Credit and shall be for the benefit solely of FSA, except that the Loss
+Protection provided by such Letter of Credit shall be Excess of any reinsurance
+that constitutes Subsequent Reinsurance (including, with respect to Subsequent
+
+                                       3
+
+<PAGE>
+
+Reinsurance, amounts deemed available in accordance with the definition
+thereof). Except as provided in the preceding sentence or as expressly otherwise
+provided with respect to any FSA Series (with the written agreement of the
+parties to the applicable Series Transaction Documents), any Letter of Credit
+shall be Excess of all other Loss Protection for any FSA Series, including
+subordinate trenches of securities not insured by FSA. FSA covenants and agrees
+that, before entering into any agreement for Spread Account Replacement
+Reinsurance with respect to any Policy, FSA will provide written notice to the
+Issuer as to whether such Spread Account Replacement Reinsurance is or is not
+Qualified Subsequent Reinsurance. FSA and each Borrower agree that (i) the
+Issuer shall be deemed to have provided Loss Protection with respect to an FSA
+Series as of the effective date of such Series and (ii) any Loss Protection
+provided subsequent to such effective date shall constitute Subsequent
+Reinsurance.
+
+         (d) Upon presentation by FSA to the Issuer of a certificate in the form
+of Annex A to the applicable Letter of Credit, and subject to the terms and
+conditions set forth herein and in the applicable Letter of Credit, the Issuer
+shall make a disbursement (such disbursement, a "LOC Disbursement") at the time,
+in the manner and to the account specified in the applicable Letter of Credit.
+
+         (e) Upon presentation by FSA to the Issuer of a certificate in the
+form of Annex B to the applicable Letter of Credit following the occurrence of
+any of the events described in clause (f) below, and subject to the terms and
+conditions set forth herein and in the applicable Letter of Credit, the Issuer
+shall make a disbursement (such disbursement, a "LOC Termination Disbursement")
+at the time, in the manner and to the account specified in the applicable Letter
+of Credit.
+
+         (f) If on any day (i) the short-term debt or deposit rating of the
+Issuer shall be withdrawn by S&P or Moody's or downgraded below A-l by S&P or
+below P-l by Moody's or (ii) the long-term debt rating of the Issuer shall be
+downgraded below A- by S&P or below A3 by Moody's or (iii) the Issuer has
+notified FSA and the Borrowers (and has not retracted such notification) that
+its compliance with any of its obligations hereunder would be unlawful or (iv)
+such day is the second Business Day prior to the Scheduled Expiry Date for any
+Letter of Credit, and
+
+             (A) there shall not have been appointed a successor institution to
+    act as Issuer which (x)(1) has a short-term debt or deposit rating of at
+    least A-1 by S&P and P-1 by Moody's, (2) has a long-term debt or deposit
+    rating of at least A- by S&P and A3 by Moody's and (3) has been consented to
+    by FSA (such consent not to be unreasonably withheld or delayed) or (y) is
+    otherwise approved in writing by FSA or, in the alternative,
+
+             (B) the Letter of Credit with respect to the Designated Series
+    shall not have otherwise been replaced or substituted with (1) the funding
+    of the Spread Account with cash, (2) other cash collateral accounts,
+    overcollateralization or subordinated securities or (3) a surety bond or
+    other similar arrangement, in each case in an amount equal to the aggregate
+    Available Stated Amount for all Letters of Credit (or the applicable Letter
+    of Credit in the case of the event specified in clause (f)(iv) above);
+    provided, however, that any form of substitute credit enhancement referred
+    to in the foregoing clauses (2) and (3) shall be approved by FSA and the
+    Rating Agencies;
+
+                                       4
+
+<PAGE>
+
+then
+
+                   (x) in the case of the occurrence of the event specified in
+          clause (f)(iv) above, (1) FSA may request an LOC Termination
+          Disbursement for the applicable Letter of Credit in an amount equal to
+          the Available Stated Amount of the applicable Letter of Credit and
+          cause the amount of such LOC Termination Disbursement to be deposited
+          in a separate segregated collateral account for the applicable Letter
+          of Credit maintained with a Person acting as "Collateral Agent" under
+          the Spread Account Agreement, or such other Person otherwise approved
+          in writing by the Issuer and FSA, and invested in Cash Equivalents
+          (with all interest and/or gains with respect to such Cash Equivalents
+          being for the account of the Issuer and payable to the Issuer on each
+          Distribution Date) and shall use such funds on or prior to the
+          applicable Standard Termination Date in the same manner as drawings
+          under the applicable Letter of Credit hereunder in accordance with
+          Sections 2.02(a) and (b) and (2) the Issuer and/or the Borrowers will
+          cause to be executed and delivered to FSA such documentation as FSA
+          may reasonably request to grant FSA a security interest in such
+          account; provided that, concurrently with the making of an SPE Loan
+          (as defined in clause (y) below), all of such funds shall be delivered
+          to the Issuer; or
+
+                   (y) in the case of the occurrence of an event specified in
+          clause (f)(i), (f)(ii) or (f)(iii) above, regardless of whether an
+          event specified in clause (f)(iv) has occurred and the deposit
+          referred to in clause (x) above has been made, within 30 days after
+          the occurrence of such event, at FSA's written request, the Issuer
+          shall make a loan (each, an "SPE Loan") in an amount equal to the
+          aggregate Available Stated Amount of all Letters of Credit to a
+          bankruptcy-remote special purpose Person (an "SPE") in which one or
+          both of the Borrowers shall hold the equity interest, and the
+          Borrowers and the Issuer shall effect such documentation as shall be
+          appropriate to effect such SPE Loan which is reasonably acceptable to
+          the Issuer and FSA (which documentation shall provide, among other
+          things, that the proceeds of such SPE Loan be deposited in a special
+          segregated collateral account for each Letter of Credit and used on or
+          prior to the applicable Standard Termination Date in the same manner
+          as drawings under the Letters of Credit in accordance with Sections
+          2.02(a) and (b) and reimbursed in the manner provided in Section 2.03
+          (in the case of an SPE Loan, as though such SPE Loan were a Letter of
+          Credit made on the date of issuance of having the Standard Termination
+          Date of and having an "Available Stated Amount" and a "Maximum Stated
+          Amount" equal to the Available Stated Amount and the Maximum Stated
+          Amount, respectively, of the corresponding Letter of Credit)). In the
+          event that the Issuer or the Borrowers shall breach their respective
+          obligations under this clause (y) such that the SPE Loan is not made,
+          FSA (without prejudice to other remedies it may have) may at its
+          option draw upon the Letters of Credit in the manner set forth in
+          clause (x) above, in which case such drawing will be applied as set
+          forth in such clause (x).
+
+Upon the making of an LOC Termination Disbursement or an SPE Loan, the Available
+Stated Amount and the Maximum Stated Amount of the applicable Letter of Credit
+shall automatically be
+
+                                       5
+
+<PAGE>
+
+reduced to zero and such Letter of Credit shall terminate and be returned to the
+Issuer, but all reimbursement, fee and other provisions regarding the operation
+of each Letter of Credit thereafter shall apply to the corresponding cash
+collateral.
+
+         (g) A Letter of Credit may be not drawn upon (whether pursuant to
+Section 2.02(d) or (e)) after the earliest to occur of (i) the date on which
+FSA's liability under the related Policy has expired, (ii) the date on which the
+Available Stated Amount and Maximum Stated Amount with respect to such Letter of
+Credit are reduced to zero (other than pursuant to Section 2.02(f) above) and
+reinstatement thereof is no longer available under Section 2.Ol(b)(iii) (the
+earlier of the dates specified in clause (i) and clause (ii) being referred to
+as the "Standard Termination Date" for such Letter of Credit) and (iii) the
+Scheduled Expiry Date for such Letter of Credit (such earliest date, the "Expiry
+Date" for such Letter of Credit).
+
+         SECTION 2.03 Reimbursement.
+
+         (a) Except as set forth in Section 2.03(b) below, the amount of all
+drawings under a Letter of Credit shall be payable by the Borrowers in full on
+the Business Day immediately following the date such drawing is honored.
+
+         (b) (i)   FSA shall repay any amount drawn on a Letter of Credit (other
+than any LOC Termination Disbursement), if such amount is not applied to make
+the Policy Payment with respect to which it was drawn or to reimburse FSA with
+respect thereto, within five Business Days after the date such Policy Payment
+was due, together with reinvestment earnings, if any, thereon.
+
+             (ii)  On each Distribution Date with respect to the related Notes
+    of a Designated Series, so long as no Insurance Agreement Event of Default
+    exists with respect to any FSA Series, FSA shall cause to be released from
+    the collateral account referred to in Section 2.02(f) for such Letter of
+    Credit and delivered to the Issuer (or the SPE, if such cash collateral is
+    from the proceeds of an SPE Loan) an amount equal to the excess, if any, of
+    the Available Enhancement Amount on the preceding Distribution Date over the
+    Maximum Enhancement Amount, after giving effect to all deposits to and
+    withdrawals from the Spread Account for the related Notes and payments of
+    principal of the related Notes in respect of such Distribution Date;
+    provided that the release of cash collateral pursuant to this clause (ii)
+    shall resume if and when no Insurance Agreement Event of Default shall be
+    continuing (due to waiver or otherwise).
+
+             (iii) On the Standard Termination Date for a Letter of Credit, FSA
+    shall cause to be released from the collateral account referred to in
+    Section 2.02(Q for such Letter of Credit and delivered to the Issuer (or the
+    SPE, if such cash collateral is from the proceeds of an SPE Loan) any
+    remaining balance therein so long as no Insurance Agreement Event of Default
+    or Trigger Event exists with respect to any of the Notes in any FSA Series.
+
+             (iv)  If an Insurance Agreement Event of Default or Trigger Event
+    exists with respect to any of the Notes in any FSA Series and the Standard
+    Termination Date has not yet occurred, FSA shall cause to be released from
+    the collateral account referred to in Section 2.02(f) for such Letter of
+    Credit and delivered to the Issuer (or the SPE, if such cash
+
+                                       6
+
+<PAGE>
+
+     collateral is from the proceeds of an SPE Loan) any remaining balance
+     therein on the later of (A) the applicable Standard Termination Date and
+     (B) the earlier of (1) the date on which no Insurance Agreement Event
+     of Default or Trigger Event shall be continuing (due to waiver, cure or
+     otherwise) with respect to any of the Notes or (2) the expiration of all
+     of the Policies outstanding at the date of the first to occur of such
+     Insurance Agreement Event of Default or Trigger Event; provided that (a)
+     the aggregate amount of the cash collateral balances and the Available
+     Stated Amount for all Letters of Credit under this Agreement thereafter
+     shall not exceed such aggregate amount at the date of such Insurance
+     Agreement Event of Default or Trigger Event except for increases thereafter
+     due to reinstatements of the Available Stated Amounts under Section
+     2.0l(b)(iii) and (b) at each subsequent Standard Termination Date with
+     respect to any Letter of Credit (or SPE Loan, as applicable), the amount of
+     the cash collateral balances and Maximum Stated Amount for each Letter of
+     Credit (or SPE Loan as applicable) shall be reduced in order, starting with
+     the Letter of Credit (or SPE Loan, as applicable) having the earliest
+     Effective Date and reducing the cash collateral balance or Maximum Stated
+     Amount as applicable for such Letter of Credit (or SPE Loan, as applicable)
+     to zero before reducing the cash collateral balance or Maximum Stated
+     Amount as applicable of the Letter of Credit (or SPE Loan as applicable)
+     having the next earliest Effective Date, until the aggregate amount of the
+     cash collateral balances and Maximum Stated Amount of all Letters of Credit
+     (and SPE Loans) under this Agreement is equal to the sum of (I) the
+     aggregate par amount of Notes of any Designated Series outstanding at such
+     date and (II) the aggregate of the Spread Account Shortfalls and
+     warehousing shortfalls (if any) with respect to the Notes of other FSA
+     Series that were outstanding at the date of such Insurance Agreement Event
+     of Default or Trigger Event, if such sum is less than such aggregate amount
+     of the cash collateral balances and the Maximum Stated Amount of all
+     Letters of Credit (and SPE Loans) at such date.
+
+         (c) FSA in respect of its Policy Payments, all of FSA's quota share
+reinsurers of the Policies, all of FSA's reinsurers participating in any loss
+layer with respect to the Policies and all of FSA's reinsurers providing Spread
+Account Replacement Reinsurance in effect on the effective date of the
+applicable Designated Series shall first be reimbursed in full from recoveries
+for all Policy Payments, in the case of FSA, and all reinsurance policy
+payments, in the case of such reinsurers, before any reimbursement of drawings
+under any Letter of Credit pursuant to this Section 2.03(c) to the extent that
+such Policy Payments or reinsurance policy payments relate to coverage that is
+Excess of the Loss Protection provided by such Letter of Credit. Thereafter, FSA
+shall deliver to the Issuer all amounts that it receives in respect of policy
+payment reimbursements pursuant to the Series Transaction Documents relating to
+an FSA Series in order to reimburse drawings under the Letters of Credit and
+other amounts owing to the Issuer hereunder, including all recoveries received
+by FSA for Policy Payments for which drawings were made under a Letter of
+Credit. If the Repayment Amount in respect of such Letter of Credit has been
+paid in full, any such recoveries shall be applied to the remaining Letters of
+Credit. For purposes of the foregoing, reimbursement by FSA of drawings under
+any Letter of Credit shall include interest only to the extent provided in the
+related Insurance and Indemnity Agreement in respect of such Policy Payments for
+which the withdrawals were made and only to the extent recoveries are sufficient
+therefor. FSA shall retain full discretion in exercising remedies in respect of
+the Policies, including the right to terminate an FSA Series Servicer and to
+designate a replacement FSA Series Servicer and the right to amend or waive any
+provision of any
+
+                                       7
+
+<PAGE>
+
+Series Transaction Document relating to any FSA Series, to the extent FSA has
+such rights under such Series Transaction Document; provided that FSA shall act
+in good faith in doing so.
+
+         (d) The Borrowers shall pay or cause to be paid the principal portion
+of the Repayment Amount with respect to each Letter of Credit as follows: (i) on
+each Distribution Date, the Borrowers will cause to be paid to the Issuer an
+amount equal to the Nonallocated Amount Available on such Distribution Date and
+(ii) on the Scheduled Expiry Date for any Letter of Credit, the Borrowers shall
+pay all remaining amounts with respect to unreimbursed drawings under such
+Letter of credit (up to a pro rata portion of the Recourse Limit with respect to
+such Letter of Credit). In addition, the Borrowers shall pay to the Issuer when
+due all interest, costs and expenses incurred by the Issuer or any Indemnified
+Party hereunder.
+
+         SECTION 2.04 Interest. Any drawing under a Letter of Credit shall
+accrue interest from the date of such drawing to the date of payment thereof in
+full (after as well as before judgment) at the rates specified in the Fee
+Letter. Such interest shall be payable by the Borrowers on the dates specified
+in the Fee Letter.
+
+         SECTION 2.05 Fees. The Borrowers shall pay to the Issuer the fees in
+the amounts, at the times and in the manner described in the Fee Letter.
+
+         SECTION 2.06 Increased Costs; Increased Capital.
+
+         (a) In the event that the Issuer shall have reasonably determined that
+any Regulatory Change shall:
+
+             (i)  subject the Issuer to any Taxes of any kind whatsoever, other
+     than Excluded Taxes, with respect to this Agreement or the letters of
+     Credit, or change the basis of taxation of payments in respect thereof; or
+
+             (ii) impose, modify or hold applicable any reserve, special
+     deposit, compulsory loan, assessment, increased cost or similar requirement
+     against assets held by, deposits or other liabilities in or for the account
+     of, advances, loans or other extensions of credit by, or any other
+     acquisition of funds by, the Issuer or any office of the Issuer in respect
+     of the Letters of Credit,
+
+and the result of any of the foregoing is to increase the cost to the Issuer, by
+an amount which the Issuer deems to be material, of maintaining the Letters of
+Credit or to reduce any amount receivable in respect thereof, then, in any such
+case, after submission by the Issuer to the Borrowers of written request
+therefore, the Borrowers shall pay to the Issuer any additional amounts
+necessary to compensate the Issuer for such increased cost or reduced amount
+receivable.
+
+         (b) In the event that the Issuer shall have determined that any
+Regulatory Change regarding capital adequacy has the effect of reducing the rate
+of return on the Issuer's capital or on the capital of any Person directly or
+indirectly owning or controlling the Issuer as a consequence of its obligations
+hereunder or its maintenance of the Letters of Credit to a level below that
+which the Issuer or such Person could have achieved but for such Regulatory
+Change (taking into consideration the Issuer's or such Person's policies with
+respect to capital adequacy) by an amount deemed by the
+
+                                        8
+
+<PAGE>
+
+Issuer or such Person to be material, then from time to time, after submission
+by the Issuer to the Borrowers of written request therefor, the Borrowers shall
+pay to the Issuer such additional amount or amounts as will compensate the
+Issuer or such Person, as the case may be, for such reduction.
+
+         (c) The Issuer agrees that it shall use its reasonable efforts to
+reduce or eliminate any claim for compensation pursuant to this Section 2.06.
+
+         (d) The Issuer will furnish to the Borrowers (together with its request
+for compensation) a certificate prepared in good faith setting forth the basis
+and the amount of each request by the Issuer for any such increased amounts
+referred to in this Section 2.06. Any such certificate shall be conclusive
+absent manifest error. Failure on the part of the Issuer to demand compensation
+for any amount pursuant to this Section 2.06 with respect to any period shall
+not constitute a waiver of the Issuer's right to demand compensation with
+respect to such period. All such amounts shall be due and payable by the
+Borrowers to the Issuer within five Business Days following receipt by the
+Borrowers of such certificate (or, if earlier, on the Facility Maturity Date or
+when earlier required to be paid as provided herein).
+
+         SECTION 2.07 Taxes.
+
+         (a) All payments made to the Issuer under this Agreement and the other
+Transaction Documents shall, to the extent allowed by law, be made free and
+clear of, and without deduction or withholding for or on account of, any present
+or future income, stamp or other taxes, levies, imposts, duties, charges, fees,
+deductions or withholdings, now or hereafter imposed, levied, collected,
+withheld or assessed by any Governmental Authority (collectively, "Taxes"),
+excluding income taxes, franchise taxes imposed in lieu of income taxes or any
+other taxes based on or measured by the overall net income of the Issuer by the
+jurisdiction in which the Issuer is incorporated or has its principal place of
+business (such excluded taxes being herein called "Excluded Taxes"). If any
+Taxes, other than Excluded Taxes, are required to be withheld from any amounts
+payable to the Issuer hereunder or under any other Transaction Document, then
+after submission by the Issuer to the Borrowers of a written request therefor,
+the amounts so payable to the Issuer shall be increased, and the Borrowers shall
+be liable to pay to the Issuer the amount of such increase, to the extent
+necessary to yield to the Issuer (after payment of all such Taxes) interest or
+any such other amounts payable hereunder or thereunder at the rates or in the
+amounts specified herein or therein; provided, however that the amounts so
+payable to the Issuer shall not be increased pursuant, to this Section 2.07(a)
+to the extent such requirement to withhold results from the failure of such
+Person to comply with Section 2.07(c). Whenever any Taxes are payable on or with
+respect to amounts payable to the Issuer, as promptly as possible thereafter the
+Borrowers shall send to the Issuer a certified copy of an original official
+receipt showing payment thereof. If the Borrowers fai1 to pay any Taxes when due
+to the appropriate taxing authority or fails to remit to the Issuer (as
+applicable), the required receipts or other required documentary evidence, the
+Borrowers shall pay to the Issuer any incremental taxes, interest or penalties
+that may become payable by the Issuer as a result of any such failure.
+
+         (b) The Issuer will furnish to the Borrowers a certificate prepared in
+good faith setting forth the basis and amount of each request by the Issuer for
+such Taxes. Any such certificate of the Issuer shall be conclusive absent
+manifest error. Failure on the part of the Issuer to demand additional amounts
+pursuant to Section 2.07(a) with respect to any period shall not constitute a
+
+                                       9
+
+<PAGE>
+
+waiver of the right of the Issuer to demand compensation with respect to such
+period. All such amounts shall be due and payable by the Borrowers to the Issuer
+on the date five Business Days following receipt by the Borrowers of such
+certificate (or, if earlier, on the Facility Maturity Date or when earlier
+required to be paid as provided herein).
+
+         (c) The Issuer shall, to the extent that it may then do so under
+applicable laws and regulations, deliver to the Borrowers (i) within 15 days
+after the date hereof, two (or such other number as may from time to time be
+prescribed by applicable laws or regulations) duly completed copies of IRS Form
+W-8ECI or Form W-8BEN (or any successor forms or other certificates or
+statements which may be required from time to time by the relevant United States
+taxing authorities or applicable laws or regulations), as appropriate, to permit
+the Borrowers to make payments hereunder for the account of the Issuer, without
+deduction or withholding of United States federal income or similar taxes and
+(ii) upon the obsolescence of or after the occurrence of any event requiring a
+change in, any form or certificate previously delivered pursuant to this Section
+2.07(c), copies (in such numbers as may be from time to time be prescribed by
+applicable laws or regulations) of such additional, amended or successor forms,
+certificates or statements as may be required under applicable laws or
+regulations to permit the Borrowers to make payments hereunder for the account
+of the Issuer, without deduction or withholding of United States federal income
+or similar taxes.
+
+         (d) In addition, the Borrowers agree to pay any present or future stamp
+or documentary taxes or any other excise or property taxes, charges or similar
+levies that arise from any payment made hereunder or from the execution,
+delivery or registration of, or otherwise with respect to, this Agreement or any
+other Transaction Document.
+
+         SECTION 2.08 Payments and Computations.
+
+         (a) The Borrowers shall make each payment hereunder, not later than
+1:30 p.m. (New York City time) on the day when due by wire transfer in Dollars
+and in immediately available funds, without set-off for counterclaim, to the
+Issuer at its account number 602-001-19 (ABA number 021-00l-022; Reference:
+AmeriCredit LOC) maintained at Deutsche Bank Trust Company Americas, or such
+other account as the Issuer shall designate in writing to the Borrowers.
+
+         (b) Whenever any payment hereunder shall be stated to be due on a day
+other than a Business Day, such payment shall be made on the next succeeding
+Business Day, and such extension of time shall in such case be included in the
+computation of payment of interest or any fee payable hereunder, as the case may
+be.
+
+         (c) All computations of interest and fees shall be made by the Issuer
+on the basis of a year of 360 days, in each case for the actual number of days
+(including the first day but excluding the last day) occurring in the period for
+which such fee is payable.
+
+         SECTION 2.09 Issuer's Records, The Issuer's records regarding the
+amount of each drawing under a Letter of Credit, each payment by the Borrowers
+of principal and interest on the drawings under a Letter of Credit and other
+information relating to the Letters of Credit shall be presumptively correct
+absent manifest error.
+
+                                       10
+
+<PAGE>
+
+         SECTION 2.10 No Liability of Issuer. Each Borrower acknowledges that
+the Issuer is not responsible for any risks of acts or omissions of FSA and any
+other beneficiary or transferee of any Letter of Credit with respect to its use
+of any Letter of Credit. In furtherance of, and in addition to, the foregoing,
+neither the Issuer nor any of its employees, officers or directors shall be
+liable or responsible for: (a) the use which may be made of any Letter of Credit
+or any acts or omissions of FSA and any transferee in connection therewith; (b)
+the form, validity, sufficiency, accuracy, genuineness or legal effect of any
+Letter of Credit or any document submitted by any party in connection with the
+application for and issuance of any Letter of Credit, even if it should in fact
+prove to be in any or all respects invalid, insufficient, inaccurate, fraudulent
+or forged; (c) the form, validity, sufficiency, accuracy, genuineness or legal
+effect of any instrument transferring or assigning or purporting to transfer or
+assign any Letter of Credit or the rights or benefits thereunder or the proceeds
+thereof in whole or in part, which may prove to be invalid or ineffective for
+any reason; (d) failure of the beneficiary to comply fully with conditions
+required in order to demand payment under any Letter of Credit (other than the
+condition that it present a certificate in the form of Annex A to such Letter of
+Credit complying with the terms and conditions of such Letter of Credit); (e)
+errors, omissions, interruptions or delays in transmissions or delivery of any
+messages, by mail, cable, telegraph, telex or otherwise; (f) any loss or delay
+in the transmission or otherwise of any document or draft required in order to
+make a LOC Disbursement; (g) payment by the Issuer against presentation of
+documents which do not comply with the terms of any Letter of Credit, including
+failure of any documents to bear any reference or adequate reference to such
+Letter of Credit; or (h) any other circumstances whatsoever in making or failing
+to make payment under any Letter of Credit; provided, however, that the Issuer
+shall be liable to the Borrowers, to the extent of any direct, as opposed to
+consequential, damages suffered by the Borrowers which are determined in a final
+and non-appealable decision of a court of competent jurisdiction to have been
+caused by the Issuer's willful misconduct in determining whether documents
+presented under a Letter of Credit comply with the terms of such Letter of
+Credit or the Issuer's willful failure to make lawful payment under a Letter of
+Credit after the presentation to the Issuer by FSA of a certificate strictly
+complying with the terms and conditions of such Letter of Credit. In furtherance
+and not in limitation of the foregoing, the Issuer may accept documents that
+appear on their face to be in order, without responsibility for further
+investigation and shall not be liable or responsible for any other circumstances
+so long as it shall have acted in good faith.
+
+                                   ARTICLE III
+                              CONDITIONS PRECEDENT
+
+         SECTION 3.01 Conditions Precedent to the Effectiveness of this
+Agreement. The following constitute conditions precedent to effectiveness of
+this Agreement and the obligation of the Issuer to issue any Letter of Credit
+under this Agreement (provided that nonsatisfaction of any of the following
+conditions shall be deemed waived, to the extent not expressly waived by the
+Issuer, upon delivery to FSA of the Letters of Credit):
+
+         (a) Representations and Warranties. On the Effective Date and after
+giving effect to the issuance of the Letters of Credit on such date, (i) all
+representations and warranties of the Borrowers contained herein or in any
+Transaction Document or otherwise made by any Borrower in writing pursuant to
+any of the provisions hereof or thereof and (ii) all representations and
+warranties of AFS Funding and the Spread Account Depositor contained in any
+Series Transaction Document
+
+                                       11
+
+<PAGE>
+
+relating to any FSA Series shall be true and correct in all material respects
+(except to the extent such representations and warranties specifically relate to
+an earlier date, then such representations and warranties are true and correct
+in all material respects as of such earlier date).
+
+         (b) No Defaults. On the Effective Date and after giving effect to the
+issuance of the Letters of Credit on such date, no Event of Default shall have
+occurred.
+
+         (c) Other Transaction Documents. Each other Transaction Document not
+otherwise referred to in this Section 3.01 shall have been duly executed and
+delivered by the parties thereto.
+
+         (d) Expenses. The Borrowers shall have paid all reasonable and
+appropriately invoiced costs and expenses of the Issuer payable by the Borrowers
+in connection with the transactions contemplated hereby.
+
+         (e) Termination of Credit Agreement. The Issuer shall have received
+evidence that each of (i) the Credit Agreement dated as of October 14, 1999
+among AFS Funding, the Borrowers, AmeriCredit Management Company, various
+financial institutions, Bankers Trust Company, as Lender Collateral Agent, and
+Credit Suisse First Boston, New York Branch, as Administrative Agent, as
+amended, and (ii) the Replacement Cash Collateral Agreement dated as of October
+14, 1999 among AFS Funding, FSA, Credit Suisse First Boston, New York Branch, as
+Administrative Agent, and Bank One, N.A., as Collateral Agent, as amended, shall
+have been terminated, and all amounts outstanding thereunder shall have been
+paid in full.
+
+         (f) Other Documents. The Issuer shall have received the following, each
+dated as of the Effective Date or as otherwise permitted below:
+
+             (i)   A certificate of the Secretary of State of the applicable
+     jurisdiction of incorporation of each Borrower as to the legal existence
+     and good standing of such Borrower, together with a copy of such Borrower's
+     certificate of incorporation, certified as a true and correct copy by such
+     Secretary of State, each dated on or within 20 Business Days prior to the
+     Effective Date;
+
+             (ii)  A certificate of an Authorized Officer of each Borrower,
+     certifying that (i) the copies of the unaudited (or audited, in the case of
+     ACC) balance sheet of such Borrower for the fiscal year ended June 30,
+     2001, and the related statements of income, shareholders' equity and cash
+     flows for such fiscal year attached to such certificate are complete, true
+     and correct and have been prepared in accordance with GAAP consistently
+     applied and present fairly the financial position of such Borrower as of
+     such date and the results of its operations for such period, and (ii) there
+     have been no changes since the end of the fiscal year ended June 30, 2001
+     in the assets, liabilities, financial condition, operations, business or
+     prospects of such Borrower, other than changes in the ordinary course
+     of business the effect of which have not, in the aggregate, been materially
+     adverse to such Borrower;
+
+             (iii) A certificate of an Authorized Officer of each Borrower,
+     certifying(A) the names and true signatures of the Authorized Officers of
+     such Borrower, (B) that the copy
+
+                                       12
+
+<PAGE>
+
+     of the Bylaws of such Borrower attached thereto is a complete and correct
+     copy and that such Bylaws have not been amended, modified or supplemented
+     and are in full force and effect, and (C) that the copy of the resolutions
+     of the Board of Directors of such Borrower approving the transactions
+     contemplated by the Transaction Documents is a complete and correct copy
+     and that such resolutions are in full force and effect and are the only
+     resolutions relating to the matters contemplated by the Transaction
+     Documents;
+
+             (iv)    Certificates of the Secretary of State of Texas and, except
+     in the case of ACC, of the Secretary of State of its jurisdiction of
+     incorporation as to the qualification of each Borrower to do business, and
+     the good standing thereof, in such jurisdiction and Texas, each dated on or
+     within 20 Business Days prior to the Effective Date;
+
+             (v)     A certificate of an Authorized Officer of ACFS to the
+     effect that the conditions set forth in Sections 3.0l(a) and 3.0l(b)
+     have been satisfied;
+
+             (vi)    Opinions (including bringdown opinions as to bankruptcy
+     matters) of Dewey Ballantine, LLP and Chris Choate, Esq., counsel for the
+     Borrowers, dated the Effective Date and addressed to, and reasonably
+     satisfactory in form and substance to, the Issuer;
+
+             (vii)   an Officer's Certificate of ACFS stating that ACFS or
+     another Person approved in writing by the Issuer is the servicer for each
+     FSA Series;
+
+             (viii) an Officer's  Certificate of ACFS  certifying  copies of the
+     Series  Transaction  Documents for each Designated Series and stating that,
+     as of the Effective Date, each of the Series Transaction Documents relating
+     to any FSA  Series  is in full  force  and  effect,  no  party  to any such
+     document  is in  default  of its  obligations  thereunder,  and  all of the
+     representations  and  warranties  of the  Borrowers set forth in the Series
+     Transaction  Documents  relating  to any FSA  Series  are true and  correct
+     (except to the extent  such  representations  and  warranties  specifically
+     relate to an earlier date,  then such  representations  and  warranties are
+     true and correct as of such earlier date);
+
+             (ix)    an Officer's Certificate of each Borrower stating that
+     there shall have been no changes in the assets, liabilities, financial
+     condition, operations, business or prospects of any Borrower which may have
+     a Material Adverse Effect, including the performance of the receivables
+     owned or serviced by any such party; and
+
+             (x)     such other documents, instruments, opinions, certificates
+     as the Issuer may reasonably deem necessary or desirable.
+
+                                   ARTICLE IV
+                         REPRESENTATIONS AND WARRANTIES
+
+         SECTION 4.01 Representations and Warranties of the Borrowers. Each
+Borrower represents and warrants as follows on the date of this Agreement and
+the Effective Date, in each case, with reference to the facts and circumstances
+then existing:
+
+                                       13
+
+<PAGE>
+
+         (a) Organization and Good Standing. Such Borrower has been duly
+organized and is validly existing as a corporation under the laws of the
+jurisdiction of its incorporation, with power and authority to own its
+properties and to conduct its business as such properties are currently owned
+and such business is currently conducted.
+
+         (b) Due Qualification. Such Borrower is duly qualified to do business
+as a foreign corporation in good standing, and has obtained all necessary
+licenses and approvals, in all jurisdictions in which the ownership or lease of
+its properties or the conduct of its business requires such qualification.
+
+         (c) Power and Authority. Such Borrower has the power and authority to
+execute and deliver this Agreement and the other Transaction Documents to which
+it is a party and to carry out its terms and their terms, respectively; and the
+execution, delivery and performance of this Agreement and the other Transaction
+Documents to which it is a party have been duly authorized by such Borrower by
+all necessary corporate action.
+
+         (d) Binding Obligations. This Agreement and the Transaction Documents
+to which such Borrower is a party have been duly executed and delivered, and
+this Agreement and the other Transaction Documents to which such Borrower is a
+party constitute legal, valid and binding obligations of such Borrower
+enforceable in accordance with their respective terms, except as enforceability
+may be limited by bankruptcy, insolvency, reorganization or other similar laws
+affecting the enforcement of creditors' rights generally and by equitable
+limitations on the availability of specific remedies, regardless of whether such
+enforceability is considered in a proceeding inequity or at law.
+
+         (e) No Violation. The consummation of the transactions contemplated by
+this Agreement and the other Transaction Documents to which such Borrower is a
+party, and the fulfillment of the terms of this Agreement and the other
+Transaction Documents to which such Borrower is a party, shall not conflict
+with, result in any breach of any of the terms and provisions of, or constitute
+(with or without notice or lapse of time) a default under any indenture,
+agreement, mortgage, deed of trust or other instrument to which such Borrower is
+a party or by which such Borrower is bound or any of such Borrower's properties
+are subject, or result in the creation or imposition of any Lien upon any of
+such Borrower's properties pursuant to the terms of any such indenture,
+agreement, mortgage, deed of trust or other instrument, other than this
+Agreement, or violate any law, order, rule or regulation applicable to such
+Borrower of any Governmental Authority having jurisdiction over such Borrower or
+any of such Borrower's properties, or in any way adversely affect such
+Borrower's ability to perform such Borrower's obligations under this Agreement
+or the other Transaction Documents to which such Borrower is a party.
+
+         (f) No Proceedings. There are no proceedings or investigations pending
+or, to such Borrower's knowledge, threatened against such Borrower, before any
+court or other Governmental Authority having jurisdiction over such Borrower or
+its properties (A) asserting the invalidity of this Agreement or any of the
+other Transaction Documents, (B) seeking to prevent the consummation of any of
+the transactions contemplated by this Agreement or any of the other Transaction
+Documents, (C) seeking any determination or ruling that might materially and
+adversely affect the performance by such Borrower of its obligations under, or
+the validity or enforceability of,
+
+                                       14
+
+<PAGE>
+
+this Agreement or any of the other Transaction Documents, (D) involving any
+Borrower, the Spread Account Depositor or the Spread Accounts for FSA Series or
+(E) that could have a Material Adverse Effect.
+
+         (g) No Consents. Such Borrower is not required to obtain the consent of
+any other Person which has not been obtained, or any consent, license, approval
+or authorization of, or registration or declaration with, any Governmental
+Authority in connection with the execution, delivery, performance, validity or
+enforceability of this Agreement or the other Transaction Documents to which it
+is a party.
+
+         (h) Chief Executive Office. The chief executive office of ACC and ACFS
+is located at 801 Cherry Street, Suite 3900, Fort Worth, Texas 76102.
+
+         (i) Solvency. Such Borrower is solvent and will not become insolvent
+after giving effect to the transactions contemplated by this Agreement and the
+Transaction Documents. Such Borrower, after giving effect to the transactions
+contemplated by this Agreement and the other Transaction Documents, will have
+adequate funds to conduct its business in the foreseeable future.
+
+         (j) Compliance With Laws. Such Borrower has complied and will comply in
+all material respects with all applicable laws, rules, regulations, judgments,
+agreements, decrees and orders with respect to its business and properties.
+
+         (k) Taxes. Such Borrower has filed on a timely basis all tax returns
+(including foreign, federal, state, local and otherwise) required to be filed,
+is not liable for taxes payable by any other Person and has paid or made
+adequate provisions for the payment of all taxes, assessments and other
+governmental charges due from such Borrower. No tax lien or similar adverse
+claim has been filed, and no claim is being asserted, with respect to any such
+tax, assessment or other governmental charge. Any taxes, fees and other
+governmental charges payable by such Borrower in connection with the execution
+and delivery of this Agreement and the other Transaction Documents and the
+transactions contemplated hereby or thereby have been paid or shall have been
+paid if and when due at or prior to the Effective Date.
+
+         (l) Information True and Correct. All information heretofore or
+hereafter furnished by or on behalf of such Borrower to the Issuer in connection
+with this Agreement or any Transaction Document or any transaction contemplated
+hereby or thereby is and will be true and complete in all material respects and
+does not and will not omit to state a material fact necessary to make the
+statements contained therein not misleading.
+
+         (m) ERISA Compliance. Such Borrower is in compliance with ERISA and has
+not incurred and does not expect to incur any liabilities (except for premium
+payments arising in the ordinary course of business) to the Pension Benefit
+Guaranty Corporation (or any successor thereto) under ERISA.
+
+         (n) Financial or Other Condition. There has been no event which may
+have a Material Adverse Effect, including any event which may, currently or with
+the passage of time,
+
+                                       15
+
+<PAGE>
+
+materially reduce the amount on deposit in the Spread Accounts or adversely
+impact the interest of such Borrower or the Spread Account Depositor in such
+Spread Accounts.
+
+         (o)   Investment Company Status. Such Borrower is not an "investment
+company" within the meaning of the Investment Company Act, or is exempt from all
+provisions of such Act.
+
+         (p)   No Trade Names. Such Borrower does not have any trade names,
+fictitious names, assumed names or "doing business as" names.
+
+         (q)   Representation and Warranties True and Correct. Each of the
+representations and warranties of such Borrower contained in the Transaction
+Documents is true and correct in all material respects.
+
+         (r)   Series Transaction Documents Relating to FSA Series. Each of the
+Series Transaction Documents relating to an FSA Series is in full force and
+effect, no party to any such document is in default of its obligations
+thereunder, and all of the representations and warranties of AFS Funding and the
+Spread Account Depositor set forth in such Series Transaction Documents are true
+and correct (except to the extent such representations and warranties
+specifically relate to an earlier date, then such representations and warranties
+shall be true and correct as of such earlier date). Exhibit B sets forth a
+complete and correct list of the Series Transaction Documents for each FSA
+Series as of the date hereof. Exhibit C sets forth for each FSA Series (i) the
+original collateral balance for such Series, (ii) the provider and the amount of
+all reinsurance issued with respect to such Series, (iii) the outstanding
+balance of all replacement cash collateral accounts established in connection
+with such Series and (iv) the priority of draws (with the requirement that the
+newest transaction (Series 2002-A) be drawn before Series 2001-D, and Series
+2001-D be drawn before Series 2001-C, etc.). Each Underlying Trustee has a
+perfected security interest in the property of the related Underlying Trust,
+subject to no other security interests or Liens. Each of the Series Transaction
+Documents relating to an FSA Series is in full force and effect, no party to
+any such document is in default of its obligations thereunder, and all of the
+representations and warranties of any Borrower set forth in such Series
+Transaction Documents are true and correct.
+
+         (s)   Financial Statements. (i) The copies of (a) the unaudited balance
+sheets of ACFS for its fiscal year ended June 30, 2001, and the related
+statements of income, shareholders' equity and cash flows for such fiscal year,
+and (b) the audited consolidated balance sheet of ACC for its fiscal year ended
+on June 30, 2001, and the related consolidated statements of income,
+shareholders' equity and cash flows for such fiscal year provided to the Issuer,
+are complete, true and correct and have been prepared in accordance with GAAP
+consistently applied and present fairly the financial position of such Persons
+as of such date and the results of their operations for such periods, and (ii)
+the copies of the Accountant's Report and Procedures Letter for the fiscal year
+ended on June 30, 200l are true and correct.
+
+         SECTION 4.02 Representations and Warranties of the Issuer. The Issuer
+represents and warrants as follows on the date of this Agreement and the
+Effective Date, in each case, with reference to the facts and circumstances
+then existing:
+
+                                       16
+
+<PAGE>
+
+         (a) Organization and Good Standing. It is duly incorporated or
+organized, validly existing and in good standing under the laws of its
+jurisdiction of incorporation or organization.
+
+         (b) Power and Authority; No Contravention. The execution, delivery and
+performance by it of this Agreement are within its corporate powers, have been
+duly authorized by all necessary corporate action, and do not contravene (A) its
+charter, by-laws, or other organizational documents, (B) any law, rule or
+regulation applicable to it (including any such law, rule or regulation
+regarding per customer lending limits), or (C) except to the extent that any
+such contravention would not materially and adversely affect the obligations of
+the Issuer under this Agreement or any other Transaction Document, any other
+agreement to which the Issuer is a party.
+
+         (c) No Consents. No consent, license, permit, approval or authorization
+of, or registration filing or declaration with any governmental authority, is
+required in connection with the execution, delivery, performance, validity or
+enforceability of this Agreement by or against it.
+
+         (d) Binding Obligations. This Agreement and the Letters of credit have
+been duly executed and delivered by it, and this Agreement constitutes its
+legal, valid and binding obligation enforceable against it in accordance with
+its terms, except as enforceability may be limited by applicable bankruptcy,
+insolvency, reorganization, moratorium or similar laws affecting the enforcement
+of creditors' rights generally or by general principles of equity (without, in
+the case of a bankruptcy, insolvency or reorganization of any Borrower,
+affecting any right of FSA as a beneficiary under the Letters of Credit).
+
+                                    ARTICLE V
+                           COVENANTS OF THE BORROWERS
+
+         SECTION 5.01 Affirmative Covenants of the Borrowers. Until this
+Agreement and each Letter of Credit shall have been terminated in accordance
+with its respective terms and the Repayment Amount with respect to each Letter
+of Credit shall have been repaid, the Borrowers hereby agree that:
+
+         (a) Reporting Requirements. ACFS will furnish to the Issuer:
+
+             (i)  as soon as available and in any event within 45 days after the
+     end of each of the first three quarters of each fiscal year of ACC,
+     consolidated balance sheets of ACC, for the fiscal quarter most recently
+     ended, and the related statements of income, shareholders' equity and cash
+     flows for such fiscal quarter and for the period beginning with the end of
+     the fiscal year most recently ended and ending at the end of such quarter,
+     prepared in accordance with GAAP consistently applied and certified by an
+     Authorized Officer of ACC; plus a certificate from an Authorized Officer of
+     ACFS certifying the percentage of total delinquencies and repossessed
+     assets in ACFS's serviced portfolio as of the end of such quarter, together
+     with back-up financial information with respect thereto as reasonably
+     requested by the Issuer;
+
+             (ii) as soon as available and in any event within 90 days after the
+     end of each fiscal year of ACC, copies of the balance sheets of ACC, as
+     applicable, for the fiscal year
+
+                                       17
+
+<PAGE>
+
+     most recently ended, and the related statements of income, shareholders'
+     equity and cash flows for such fiscal year, prepared in accordance with
+     GAAP consistently applied and certified by an Authorized Officer of ACC;
+
+             (iii) as soon as available and in any event within 95 days after
+     the end of each fiscal year of ACC, copies of the consolidated balance
+     sheet of ACC for the fiscal year most recently ended, and the related
+     consolidated statements of income, shareholders' equity and cash flows for
+     such fiscal year, prepared in accordance with GAAP consistently applied
+     together with a letter (the "Accountants' Report") from a firm of
+     independent certified public accountants selected by ACC and acceptable to
+     the Issuer (the "Independent Accountants"), which letter shall be addressed
+     to the Issuer, to the effect that such firm has audited the books and
+     records of ACC, in which ACFS is included as a consolidated Subsidiary, and
+     issued its report thereon in connection with the audit report on the
+     consolidated financial statements of ACC for such fiscal year most recently
+     completed, and that (a) such audit was made in accordance with GAAP, and
+     accordingly included such test of the accounting records and such other
+     auditing procedures as such firm considered necessary in the circumstances;
+     (b) based on such audit, such consolidated financial statements for such
+     fiscal year present fairly, in all material respects, the consolidated
+     financial position of ACC and its Subsidiaries as the end of such fiscal
+     year and the result of its operations and its cash flows for such fiscal
+     year in accordance with GAAP; (c) during such audit, such firm did not note
+     any events, facts, circumstances, or procedures which would lead it to
+     conclude that the unaudited balance sheets of ACC (together with the
+     related statements of income, shareholders' equity, cash flows) may not
+     accurately reflect the financial position of ACC as of such dates and
+     periods; and (d) the firm is independent of ACC and each of its
+     Subsidiaries within the meaning of the Code of Professional Ethics of the
+     American Institute of Certified Public Accountants. In addition, as soon as
+     available and in any event within 120 days after the end of each fiscal
+     year of ACC, the Issuer shall be provided with a report on the application
+     of agreed upon procedures to three randomly selected servicer certificates
+     of ACFS as servicer delivered during the fiscal year most recently
+     completed in connection with the outstanding FSA Series for which it acts
+     as servicer, including the delinquency, default and loss statistics
+     required to be specified therein and noting whether any exceptions or
+     errors in such servicer certificates were found.
+
+             (iv)  together with the financial statements and reports described
+     in clause (i), (ii) or (iii) above, a certificate of an Authorized Officer
+     of ACC confirming the absence of any Default or Event of Default as of such
+     date and as of the date of such certificate;
+
+             (v)   promptly upon the same becoming available to ACC, a copy of
+     each material report, notice, certificate, statement, letter or other
+     communication relating to any FSA Series, including each annual
+     accountants' report relating to the servicer's certificates for any FSA
+     Series required to be delivered under the terms of the related Series
+     Transaction Documents (together with a letter permitting the Issuer to rely
+     on such report), each monthly servicer report and any communication
+     required to be delivered to the holders of any of the FSA Series or any
+     Rating Agency (or any other similar entity) rating any of the FSA Series;
+
+                                       18
+
+<PAGE>
+
+             (vi)   as soon as available and in any event within 10 days after
+     the end of each month, a collateral summary report with respect to all FSA
+     Series then outstanding in form and substance acceptable to the Issuer;
+
+             (vii)  as soon as available and in any event within 10 days after
+     the end of each month, a report on the compliance of AFS Funding with the
+     trigger events and events of default set forth in the agreements pursuant
+     to which the FSA Series Insurer has insured the FSA Series, and promptly
+     (and in no event later than 3 days) following the occurrence of any default
+     under any such agreement, notice of such default; and
+
+             (viii) any other financial information relating to AFS Funding, the
+     Spread Account Depositor, any of the servicers with respect to an FSA
+     Series (each a "FSA Series Servicer"), any of the FSA Series or any Spread
+     Accounts relating to any FSA Series as shall be reasonably requested by the
+     Issuer.
+
+         (b) Other Certificates and Information. ACFS will furnish to the
+     Issuer:
+
+             (i)    Immediately after any Borrower knows of the occurrence of
+     any Default or Event of Default, a certificate of an Authorized Officer of
+     ACFS specifying the nature of such event or condition and the action which
+     the Borrowers or AFS Funding have taken and/or propose to take with respect
+     thereto;
+
+             (ii)   Prompt written notice of the occurrence of any default or
+     event of default under any of the Series Transaction Documents relating to
+     any of the FSA Series, including any amortization events, facility
+     termination events, servicer termination events, which notice shall be
+     given not later than the Business Day following the occurrence thereof and
+     which notice shall (A) specify the nature thereof and (B) be accompanied by
+     copies of all notices delivered to any party to any of the Series
+     Transaction Documents relating to any FSA Series or holder of any FSA
+     Series with respect thereto to the extent not delivered pursuant to any
+     other provision of this Agreement;
+
+             (iii)  Prompt written notice if (A) any Debt by AFS Funding or the
+     Spread Account Depositor in excess of $100,000 is declared or shall become
+     due and payable prior to its stated maturity, or is called and not paid
+     when due, (B) a payment or other default shall have occurred under or with
+     respect to any other Debt in excess of $100,000 or the holder of any such
+     Debt has the right to declare any such Debt due and payable prior to its
+     stated maturity as a result of such default, (C) any drawing has been made
+     under any insurance policy issued by any insurer of any FSA Series which
+     insurance policy relates to such FSA Series; or (D) any drawing has been
+     made under any Spread Account relating to any FSA Series with respect to
+     which the cumulative outstanding drawings from such Spread Account exceed
+     $250,000;
+
+             (iv)   Prompt written notice if (A) any citation, summons,
+     subpoena, order to show cause or other order naming any Borrower, AFS
+     Funding, the Spread Account Depositor or any FSA Series Servicer a party to
+     any proceeding before any Governmental Authority which related in any way
+     to any Transaction Document, or any FSA Series, could
+
+                                       19
+
+<PAGE>
+
+     reasonably be expected to have a Material Adverse Effect or calls into
+     question the validity or enforceability of any of the Transaction Documents
+     or any Series Transaction Documents relating to any FSA Series, and include
+     with such notice a copy of such citation, summons, subpoena, order to show
+     cause or other order, (B) any lapse or other termination of any material
+     license, permit, franchise or other authorization issued to any Borrower,
+     AFS Funding, the Spread Account Depositor or any FSA Series Servicer by any
+     Governmental Authority, the lapse or termination of which could reasonably
+     be expected to result in a Material Adverse Effect, (C) any refusal by any
+     Governmental Authority or any other Person to renew or extend any such
+     material license, permit, franchise or other authorization with respect to
+     which such refusal could reasonably be expected to result in a Material
+     Adverse Effect and (D) any dispute between any Borrower, AFS Funding, the
+     Spread Account Depositor or any FSA Series Servicer and any Person, which
+     dispute could reasonably be expected to have a Material Adverse Effect;
+
+               (v)  Prompt written notice of any change or publicly announced
+     consideration of any change by any Rating Agency in the rating of the
+     unsecured debt of any Borrower that would give rise to an Event of Early
+     Amortization, or the rating of any of the FSA Series; and
+
+               (vi) Promptly furnish such other information and financial data
+     as the Issuer may reasonably request.
+
+          (c)  Preservation of Corporate Existence and Separate Existence of AFS
+Funding and the Spread Account Depositor. ACFS shall cause AFS Funding and the
+Spread Account Depositor to do or cause to be done, all things necessary on its
+part to preserve and keep in fill force and effect its existence and good
+standing as a corporation or business trust, as applicable, under the laws of
+the jurisdiction of its incorporation or establishment, as applicable, ACFS will
+I cause AFS Funding and the Spread Account Depositor to comply fully with the
+Series Transaction Documents relating to any FSA Series to which each of them is
+a party so as to maintain each of AFS Funding's and the Spread Account
+Depositor's identity as a separate legal entity from its Affiliates and to make
+it manifest to third parties that each of AFS Funding and the Spread Account
+Depositor is an entity with assets and liabilities distinct from its Affiliates.
+
+          (d)  Compliance with Laws. The Borrowers shall cause AFS Funding and
+the Spread Account Depositor to comply with all applicable laws, rules and
+regulations and orders of any Governmental Authority (including all applicable
+laws, rules and regulations and orders of any Governmental Authority regarding
+the use of the proceeds of the Designated Series, including the provisions of
+Regulations T, U and X of the Board of Governors of the Federal Reserve System,
+as amended), the noncompliance with which could have a Material Adverse Effect.
+
+          (e)  Payment of Taxes. The Borrowers shall cause AFS Funding and the
+Spread Account Depositor to pay and discharge promptly or cause to be paid and
+discharged promptly, all Taxes imposed upon each of them or upon their
+respective income or profits or upon any of their respective assets; provided
+that the payment of any such Tax shall not be required so long as the amount,
+applicability or validity thereof shall be contested in good faith by
+appropriate proceedings, AFS Funding or the Spread Account Depositor, as the
+case may be, shall have set aside adequate cash
+
+                                       20
+
+<PAGE>
+
+reserves in respect thereof, and the Borrowers shall have given the Issuer
+prompt notice of such contest.
+
+         (f) Payment of Debt and Performance of Obligations. The Borrowers shall
+cause AFS Funding and the Spread Account Depositor to pay and discharge when due
+all lawful Debt, obligations and claims for labor, materials and supplies or
+otherwise which, if unpaid, could reasonably be expected to (i) have a Material
+Adverse Effect or (ii) become a Lien upon any property of AFS Funding or the
+Spread Account Depositor, as the case may be, other than a Permitted Lien,
+unless and to the extent only that the validity of such Debt, obligation or
+claim shall be contested in good faith and by appropriate proceedings diligently
+conducted by AFS Funding or the Spread Account Depositor, as the case may be,
+and that any such contested Debt, obligations or claims shall not constitute or
+create a Lien upon property of AFS Funding or the Spread Account Depositor, as
+the case may be, and provided that the Borrowers shall give the Issuer prompt
+notice of any such contest and AFS Funding or the Spread Account Depositor, as
+the case may be, shall have retained adequate cash reserves in respect thereof.
+
+         (g) Books and Records; Visitation. The Borrowers shall cause AFS
+Funding and the Spread Account Depositor to keep proper books of record and
+account in which complete, true and correct entries in conformity with GAAP and
+all requirements of law shall be made of all material dealings and transactions
+in relation to its business and activities; upon reasonable notice, permit
+representatives of the Issuer to visit the offices of AFS Funding or the Spread
+Account Depositor, as the case may be, or such other place where such books of
+record and accounts are kept and to discuss the operations and financial
+condition of AFS Funding or the Spread Account Depositor, as the case may be,
+with the Authorized Officers thereof.
+
+         (h) Series Transaction Documents. ACFS shall cause AFS Funding to
+deliver copies of all Series Transaction Documents relating to an FSA Series to
+the Issuer promptly after the closing of such Series together with an Officer's
+Certificate of ACFS that such copies are true, correct and complete.
+
+         (i) Compliance with Documents. Each Borrower shall comply, in all
+respects, with the terms of the Transaction Documents to which each of them is a
+party, and the Borrowers shall cause AFS Funding and the Spread Account
+Depositor to comply, in all respects, with the terms of the Series Transaction
+Documents relating to any FSA Series to which each of them is a party.
+
+         (j) Conformity of Issued FSA Series to Relevant Series Transaction
+Documents. ACFS shall cause AFS Funding and the Spread Account Depositor to
+cause each FSA Series issued to be in compliance in all material respects with
+the terms of the Series Transaction Documents relating to such FSA Series,
+including the existence of the credit enhancement and/or overcollateralization
+contemplated by such documents.
+
+         (k) Accountant's Letters; Legal Opinions. The Borrowers shall, and
+shall cause AFS Funding to, provide to the Issuer copies of all accountant's
+letters and accountant's annual statements of compliance with respect to each
+FSA Series and copies of all opinions of counsel rendered in connection with any
+FSA Series and a reliance letter with each such document pursuant to which the
+Issuer may rely on all such documents.
+
+                                       21
+
+<PAGE>
+
+         (l) Maintenance of Existence. Each Borrower will, and will cause AFS
+Funding and the Spread Account Depositor to, do or cause to be done all things
+necessary on its part to preserve and keep in full force and effect its
+existence and good standing as a corporation or other entity under the laws of
+its jurisdiction of formation.
+
+         (m) Appointment of Servicer. If FSA is not the Controlling Party with
+respect to any FSA Series, to the extent AFS Funding has control over the
+appointment of a successor servicer with respect to such FSA Series under the
+related Series Transaction Documents, ACFS will cause AFS Funding to obtain the
+prior written consent of the Issuer prior to the appointment of any successor
+servicer.
+
+         (n) Use of Facility. The Borrowers shall use the Letters of Credit to
+provide credit support for the Policies.
+
+         (o) Rating. If requested by the Issuer at any time, the Borrowers shall
+pay the costs and expenses of having the letter of credit facility provided
+hereunder rated by any one Rating Agency chosen by the Issuer.
+
+         (p) Spread Account Depositor Liens. ACFS will cause AFS Funding to
+cause the Spread Account Depositor not to create, assume, or suffer to exist any
+Lien on any personal property of the Spread Account Depositor whether now owned
+or hereafter acquired by the Spread Account Depositor; provided, however, that
+such restriction shall not apply to: (i) any Lien for taxes, assessments or
+other governmental charges or levies not yet subject to penalties for
+non-payment or the validity, applicability or amount of which is being contested
+in good faith by appropriate legal proceedings and with respect to which
+adequate reserves in accordance with GAAP have been established by the Spread
+Account Depositor; (ii) any Lien which is imposed by law (such as those of
+mechanics, carriers and warehousemen), if payment of the obligation secured
+thereby is not yet due or the validity, the applicability or amount of which is
+being contested in good faith by appropriate legal proceedings and with respect
+to which adequate reserves in accordance with GAAP have been established by the
+Spread Account Depositor; (iii) judgment Liens in existence less than five days
+after the entry thereof or with respect to which execution has been stayed, so
+long as the aggregate amount of all such judgment Liens at any time does not
+exceed $100,000, or judgment Liens the payment of which is covered in full
+(subject to a customary deductible) by insurance; and (iv) Liens in favor of the
+collateral agent specified in the Spread Account Agreement for the benefit of
+the FSA Series Insurer and the related secured parties,
+
+         (q) Spread Account Depositor Payments from Spread Accounts. ACFS will
+cause AFS Funding to cause the Spread Account Depositor not to make any payments
+from any Spread Account other than those payments due under the terms of the
+related Series Transaction Documents for the FSA Series. Without limiting the
+foregoing, ACFS agrees to cause AFS Funding to cause the Spread Account
+Depositor not to make any voluntary, optional, or accelerated payments with
+respect to any Series with funds from the relevant Spread Account.
+Notwithstanding the foregoing, neither AFS Funding nor the Spread Account
+Depositor shall be prevented from replacing funds on deposit in any Spread
+Account with spread account replacement reinsurance so long as such reinsurance
+constitutes Subsequent Reinsurance. In addition, the foregoing is not intended
+to limit the rights of
+
+                                       22
+
+<PAGE>
+
+FSA or the Underlying Trustees pursuant to the Series Transaction Documents
+relating to an FSA Series.
+
+         (r) Spread Account Depositor Merger, Consolidation, Etc. ACFS will
+cause AFS Funding to cause the Spread Account Depositor not to merge or
+consolidate with or into, or sell, convey, transfer, exchange, lease or
+otherwise dispose of (whether in one transaction or in a series of transactions)
+a11 or substantially all of its assets (whether now owned or hereafter acquired)
+to, acquire all or substantially all of the assets of, any Person or division of
+any Person; or sell, convey, transfer, exchange, lease or otherwise dispose of
+any of its assets.
+
+         (s) Spread Account Depositor Protection of Collateral. ACFS will cause
+AFS Funding to cause the Spread Account Depositor not to sell, transfer,
+exchange or otherwise dispose of, or pledge, mortgage, hypothecate or otherwise
+encumber (or permit such to occur or suffer such to exist), any part of its
+personal property, or permit any Lien (other than the Lien of the collateral
+agent specified in the Spread Account Agreement for the benefit of the
+insurer of the FSA Series and the related secured parties) to be created on or
+extend to or other-wise upon or burden such property or any part thereof any
+interest therein or the proceeds thereof other than a sale, transfer, exchange,
+disposal, pledge, mortgage, hypothecation or encumbrance for the benefit of FSA
+and/or the Underlying Trustees permitted under or pursuant to the terms of any
+of the Series Transaction Documents relating to an FSA Series.
+
+         (t) Spread Account Depositor Business. ACFS will cause AFS Funding to
+cause the Spread Account Depositor not to engage in any business or activity
+other than the business described in the Trust Agreement of the Spread Account
+Depositor as in effect on the date hereof.
+
+         (u) Spread Account Depositor Indebtedness. ACFS will cause AFS Funding
+to cause the Spread Account Depositor not to incur, create, assume, suffer to
+exist otherwise become liable with respect to any Debt other than Debt in favor
+of FSA and/or the Underlying Trustees created or permitted under or pursuant to
+the terms of any of the Series Transaction Documents relating to an FSA Series.
+
+         (v) Notice of Seller or Servicer Repurchase. ACFS will provide
+immediate written notice to the Issuer of any mandatory purchase by the seller
+or servicer or reconveyance to the seller or servicer of the pool of receivables
+held by the trust which issued any FSA Series. In addition, ACFS, in its
+capacity as servicer for an FSA Series, shall, upon becoming aware of any event
+which would require the seller or servicer of the pool of receivables to
+purchase such receivables, give immediate notice of such event to the other
+parties to the Series Transaction Documents for the related FSA Series and the
+Issuer and take all other actions necessary for the seller or servicer to
+repurchase such receivables.
+
+         (w) Servicer Failure to Perform. ACFS will reimburse the trust issuing
+any FSA Series for any decrease in excess cash flow or reduction in the amount
+deposited in the relevant Spread Account which results from the failure of ACFS
+to perform its obligations as the servicer under the Series Transaction
+Documents relating to such FSA Series.
+
+                                       23
+
+<PAGE>
+
+         SECTION 5.02 Negative Covenants with respect to Activities of AFS
+Funding. Until this Agreement shall have terminated in accordance with its terms
+and the Repayment Amount with respect to each Letter of Credit has been repaid,
+no Borrower will directly or indirectly:
+
+         (a) Payments from Spread Accounts. Permit AFS Funding to make any
+payments from any Spread Account (including funds replaced with Spread Account
+Replacement Reinsurance) other than those payments due under the terms of the
+related Series Transaction Documents for the applicable FSA Series. Without
+limiting the foregoing, the Borrowers shall not permit AFS Funding to make any
+voluntary, optional, or accelerated payments with respect to any Series with
+funds from the relevant Spread Account. Notwithstanding the foregoing, neither
+of AFS Funding nor the Spread Account Depositor shall be prevented from
+replacing funds on deposit in any Spread Account with Spread Account Replacement
+Reinsurance. Any Spread Account Replacement Reinsurance obtained in connection
+with a release of funds on deposit in any Spread Account must constitute
+"Qualified Subsequent Reinsurance" under the terms hereof.
+
+         (b) Stock Merger, Consolidation, Etc. Permit AFS Funding to merge or
+consolidate with or into, or sell, convey, transfer, exchange, lease or
+otherwise dispose of (whether in one transaction or in a series of transactions)
+all or substantially all of its assets (whether now owned or hereafter acquired)
+to, acquire all or substantially all of the assets of, any Person or division of
+any Person; or sell, convey, transfer, exchange, lease or otherwise dispose of
+any of its assets; provided however, the foregoing shall not limit the ability
+of AFS Funding to sell, convey or transfer, from time to time, pools of
+receivables to other Persons in connection with the issuance of any Series.
+
+         (c) Modifications of Series Transaction Documents. Permit AFS Funding
+to amend or otherwise modify, without the consent of the Issuer (which consent
+shall not unreasonably be withheld) any of the Series Transaction Documents
+relating to any FSA Series to which it is a party which amendment or
+modification would materially and adversely affect the Issuer including any
+amendment or modification which increases the amount of payments (including any
+servicing fees) with respect to or accelerates the scheduled maturity date of
+any FSA Series or reduces the amount of cash that would otherwise be available
+to reduce the Maximum Stated Amount for any Letter of Credit pursuant to Section
+2.0 1 (including any reduction to the amount of the Nonallocated Amount
+Available); provided that the foregoing shall not prohibit AFS Funding from
+amending any of the Series Transaction Documenents relating to an FSA Series to
+delete or otherwise reduce or make less likely to occur the events that
+constitute trigger events and events of default under the agreements pursuant to
+which the FSA Series Insurer has insured the FSA Series.
+
+         (d) Appointment of Trustee. If FSA is not the Controlling Party with
+respect to an FSA Series, to the extent AFS Funding has control over the
+appointment of the trustee of such FSA Series (initial and any successor
+trustee), if such trustee is to be a Person other than Bank One, N.A., permit
+AFS Funding to appoint, or cause to be appointed, such trustee until AFS Funding
+has received the prior written consent of the Issuer.
+
+         (e) Additional Series. Issue any FSA Series after the date hereof
+unless the following conditions shall have been satisfied on or before the date
+of such issuance:
+
+                                       24
+
+<PAGE>
+
+               (i)  The Issuer shall have received an Officer's Certificate
+     of ACFS stating that (A) the sum of the amount on deposit in the Spread
+     Account with respect to such Series and the Qualified Subsequent
+     Reinsurance with respect to such Series is equal to at least 5% of the
+     initial aggregate principal amount of the securities constituting such
+     Series, (B) the aggregate amount of cash on deposit in the Spread Account
+     with respect to such Series is equal to at least 2% of the initial
+     aggregate principal amount of the securities constituting such Series and
+     (C) the "Accelerated Payment Termination Date" for such Series shall be
+     structured so as to allow the amount on deposit in the spread account to be
+     "shareable" pursuant to the Spread Account Agreement within 400 days of the
+     closing date of such Series; and
+
+               (ii) The Issuer shall have received evidence satisfactory to it
+     that the Series shall have been insured by FSA and such FSA's credit risk
+     on a stand-alone basis shall have been rated at least Baa3/BBB- by Moody's
+     and S&P, respectively.
+
+          SECTION 5.03 Covenants with respect to Activities of the Borrowers.
+Until this Agreement shall have terminated in accordance with its terms and the
+Repayment Amount with respect to each Letter of Credit has been repaid:
+
+          (a)  Continuing Performance as Servicer. So long as ACFS is qualified
+to act as Servicer and it is the Servicer under any FSA Series, ACFS shall not
+resign as Servicer with respect to such FSA Series without the prior written
+consent of the Issuer. If FSA is not the Controlling Party, to the extent ACFS
+is no longer the Servicer for any FSA Series and ACFS has control over the
+appointment of a successor servicer with respect to such FSA Series under the
+related Series Transaction Documents, ACFS shall consult with the Issuer prior
+to the appointment of any successor servicer.
+
+          (b)  Modifications of Series Transaction Documents. Amend or otherwise
+modify, without the consent of the Issuer (which consent shall not unreasonably
+be withheld) any of the Series Transaction Documents relating to any FSA Series
+to which it is a party which amendment or modification would materially and
+adversely affect the Issuer including any amendment or modification which
+increases the amount of payments (including any servicing fees) with respect to
+or accelerates the scheduled maturity date of any FSA Series or reduces the
+amount of cash flows that will be applied to reduce the Maximum Stated Amount
+for any Letter of Credit pursuant to Section 2.01 (including any reduction to
+the amount of the Nonallocated Amount Available); provided that the foregoing
+shall not prohibit any Borrower from amending any of the Series Transaction
+Documents relating to an FSA Series to delete or otherwise reduce or make less
+likely to occur the events constituting trigger events and events of default
+under the agreements pursuant to which the FSA Series Insurer has insured the
+FSA Series.
+
+          (c) Appointment of Trustee. If FSA is not the Controlling Person with
+respect to an FSA Series, to the extent ACFS Funding has control over the
+appointment of the trustee of such FSA Series (initial and any successor
+trustee), if such trustee is to be a Person other than Bank One, N.A., appoint,
+or cause to be appointed, such trustee until ACFS has received the prior written
+consent of the Issuer.
+
+                                       25
+
+<PAGE>
+
+          (d)  Optional Repurchase. ACFS shall not exercise any right (as a
+servicer under any FSA Series) of optional repurchase or reconveyance of the
+pool of receivables held by the trust which issued the FSA Series without the
+consent of the Issuer (which consent shall not unreasonably be withheld) if, as
+a result of such repurchase or reconveyance, there will be any amounts owing to
+the Issuer with respect to such FSA Series under this Agreement or any other
+Transaction Document.
+
+          (e)  Notice of Seller or Servicer Repurchase.  ACFS shall provide
+immediate written notice to the Issuer of any mandatory purchase by the seller
+or servicer or reconveyance to the seller or servicer of the pool of receivables
+held by the trust which issued any FSA Series. In addition, ACFS, in its
+capacity as servicer for an FSA Series, shall, upon becoming aware of any event
+which would require the seller or servicer of the pool of receivables to
+purchase such receivables, give immediate notice of such event to the other
+parties to the Series Transaction Documents relating to such FSA Series and the
+Issuer and take all other actions necessary for the seller or servicer to
+repurchase such receivables.
+
+          (f)  Nomination of Lock-box Bank. Subject to FSA's rights as
+Controlling Party under the Series Transaction Documents relating to an FSA
+Series to direct the Servicer, ACFS, as servicer for an FSA Series, shall not
+terminate any lock-box relating thereto, and, in the event of resignation of a
+lock-box bank relating to any FSA Series, ACFS, in its capacity as servicer for
+such FSA Series, shall not nominate a new lock-box bank, in either case without
+the prior written consent of the Issuer, which consent shall not unreasonably be
+withheld.
+
+                                   ARTICLE VI
+                  EVENTS OF DEFAULT; CASH COLLATERAL PROVISIONS
+
+          SECTION 6.01 Events of Default. Each of the following events shall
+constitute an "Event of Default" hereunder:
+
+          (a)  any Borrower shall fail to pay (i) any principal portion of the
+Repayment Amount for any Letter of Credit when due or (ii) any interest, fees or
+other amount payable hereunder within one Business Day after the same becomes
+due and payable; or
+
+          (b)  any representation or warranty by any Borrower herein or in any
+other Transaction Document to which such Borrower is party shall prove to have
+been incorrect in any material respect when made or deemed made; or
+
+          (c)  any Borrower shall tail in any material respect to perform or
+observe any term, covenant or agreement contained in Section 5.02 if the failure
+to perform or observe such term covenant or agreement shall remain unremedied
+for 10 Business Days (determined in the case of a Lien described in clause (a)
+of such Section, after giving effect to the five Business Day cure period
+provided in such Section); or
+
+          (d)  any Borrower shall fail in any material respect to perform or
+observe any term, covenant or agreement contained in this Agreement or any of
+the other Transaction Documents (other than as described in Section 6.01(a),
+6.01(b) or 6.01(c) above) to be performed or observed by it if
+
+                                       26
+
+<PAGE>
+
+the failure to perform or observe such other term covenant or agreement shall
+remain unremedied for 30 days after written notice thereof shall have been given
+to such Borrower by the Issuer; or
+
+          (e)  AFS Funding or any Borrower shall fail to pay any principal of or
+premium or interest on any Debt (other than, with respect to any Borrower, its
+obligations under this Agreement) having a principal sum of $100,000 or more,
+with respect to AFS Funding or $10,000,000 or more, with respect to any
+Borrower, when the same becomes due and payable (whether by scheduled maturity,
+required prepayment, acceleration, demand or otherwise) and such failure shall
+continue after the applicable grace period, if any, specified in the agreement
+or instrument relating to such Debt; or any other default under any agreement or
+instrument relating to any such Debt of any Borrower or any other event, shall
+occur and shall continue after the applicable grace period, if any, specified in
+such agreement or instrument if the effect of such default or event is to
+accelerate, or to permit the acceleration of, the maturity of such Debt; or any
+such Debt shall be declared to be due and payable or required to be prepaid
+(other than by a regularly scheduled required prepayment), redeemed, purchased
+or defeased, or an offer to prepay, redeem, purchase or defease such Debt shall
+be required to be made, in each case, prior to the stated maturity thereof, or
+
+          (f)  any facility termination event, early amortization event,
+servicer termination event, any drawdown under the insurance policy provided by
+the FSA Series Insurer with respect to any FSA Series or event of default or
+other similar event by any other name shall occur under any of the FSA Series
+(whether or not declared, waived or consented to by the relevant trustee, the
+FSA Series Insurer, the relevant trust or the holders of such FSA Series) and
+any grace period or cure period set forth in the Series Transaction Documents
+for such FSA Series shall have expired;
+
+          (g)  any event of default or other default shall occur under any
+insurance and reimbursement agreement with the FSA Series Insurer and any grace
+period or cure period set forth in the relevant insurance and reimbursement
+agreement shall have expired;
+
+          (h)  any Insolvency Event shall occur with respect to AFS Funding, the
+Spread Account Depositor, any FSA Series Servicer or any of the Borrowers;
+
+          (i)  there shall remain undischarged for more than ten days any final
+judgment or execution action against AFS Funding, the Spread Account Depositor
+or any Borrower that, together with other outstanding final judgments and
+execution actions against AFS Funding the Spread Account Depositor or such
+Borrower, as the case may be, exceeds $100,000 in the aggregate with respect to
+AFS Funding or the Spread Account Depositor or $10,000,000 in the aggregate with
+respect to any Borrower; or
+
+          (j)  the Pension Benefit Guaranty Corporation or the Internal Revenue
+Service shall have filed notice of one or more Liens against AFS Funding, the
+Spread Account Depositor or any Borrower or any of their respective properties
+or assets and such Liens shall remain undischarged for more than 30 Business
+Days after the date of such notice; or
+
+          (k)  The Borrowers and their Affiliates shall not own or shall cease
+for any reason to own 100% of the issued and outstanding capital stock of AFS
+Funding or AFS Funding shall not
+
+                                       27
+
+<PAGE>
+
+own or shall cease for any reason to own l00% of the beneficial interests in the
+Spread Account Depositor; or
+
+          (l) any material representation or warranty made by any Borrower or
+the servicer in any of the Series Transaction Documents relating to any FSA
+Series or any information delivered to any Borrower with respect to any FSA
+Series shall prove to have been incorrect in any material respect when made or
+when delivered, which continues to be incorrect for a period of 10 Business Days
+after written notice thereof shall have been given to the Borrowers by the
+Issuer; or
+
+          (m) any Transaction Document shall, for any reason (except in
+accordance with its terms), cease to be in full force and effect, or cease to be
+the legally valid, binding and enforceable obligations of the parties thereto,
+or any party to any Transaction Document shall, directly or indirectly, contest
+in any manner such effectiveness, validity, binding nature or enforceability; or
+
+          (n) the long term senior unsecured debt of ACC is rated by any of
+Fitch or Moody's at or below B or B2 respectively.
+
+          SECTION 6.02 Cash Collateral Provisions.
+
+          (a) Upon the occurrence of any Event of Default or at any time
+thereafter during the continuance thereof, (i) if such event is an Event of
+Default specified in Section 6.01(h), the Borrowers shall immediately deliver
+cash collateral to the Issuer in an amount equal to the Recourse Limit plus all
+accrued and unpaid interest thereon and all other amounts owing hereunder, and
+the Issuer may exercise any and all remedies and other rights provided herein or
+in the Transaction Documents and (ii) if such event is any other Event
+of Default, the Issuer may, by notice of default to the Borrowers, direct the
+Borrowers to deliver cash collateral to the Issuer in an amount equal to the
+Recourse Limit plus all accrued and unpaid interest thereon and the Issuer may
+exercise any and all remedies and other rights provided herein or in the
+Transaction Documents. Except as otherwise provided in this Section,
+presentment, demand, protest and all other notices of any kind are hereby
+expressly waived. Each Borrower hereby further expressly waives and covenants
+not to assert any appraisement, valuation, stay, extension, redemption or
+similar laws, now or at any time hereafter in force which might delay, prevent
+or otherwise impede the performance or enforcement of any Transaction Document.
+
+          (b) The Borrowers shall deliver cash collateral to the Issuer on any
+Designated Series Amortization Date for a Designated Series, and on each of the
+four succeeding Distribution Dates, in each case in an amount equal to 20% of
+the Maximum Stated Amount of the applicable Letter of Credit on such Designated
+Series Amortization Date.
+
+          (c) On each Distribution Date upon or following the occurrence of an
+Event of Early Amortization, the Borrowers shall deliver cash collateral to the
+Issuer in an amount equal to the Nonallocated Amount Available on such
+Distribution Date plus $5,000,000.
+
+          (d) The Borrowers' obligation to deliver cash collateral hereunder
+shall be limited to the Recourse Limit and the amount of the Nonallocated Amount
+Available from and after the time such obligation arises (as if the obligation
+to provide cash collateral were a Repayment Amount in
+
+                                       28
+
+<PAGE>
+
+accordance with Section 2.03(d)); provided that the delivery of cash collateral
+shall not affect the obligations of the Borrowers described in Section 2.03(d).
+
+         (e) Any cash collateral delivered to the Issuer shall be held by the
+Issuer and invested in Cash Equivalents (without liability for interest or
+losses thereon) and applied to the Repayment Amount. After the expiration or
+termination of all Letters of Credit, such cash collateral shall be applied by
+the Issuer to any remaining obligations hereunder and any excess shall be
+delivered to ACFS or as a court of competent jurisdiction may direct.
+
+         SECTION 6.03 Mandatory Pre-Reimbursements.
+
+         (a) If an LOC Termination Disbursement or an SPE Loan has been made,
+the Borrowers shall pay the Issuer, in respect of the potential Repayment
+Amounts (i) on any Designated Series Amortization Date for a Designated Series,
+and on each of the four succeeding Distribution Dates, an amount equal to 20% of
+the amount of cash collateral on deposit in the collateral account referred to
+in Section 2.02(f) for the applicable Letter of Credit on such Designated Series
+Amortization Date, and (ii) on each Distribution Date upon or following the
+occurrence of an Event of Early Amortization, an amount equal to the
+Nonallocated Amount Available on such Distribution Date plus $5,000,000.
+
+         (b) If at any time after the latest Standard Termination Date for all
+Letters of Credit the Issuer has received payment in full of the aggregate
+Repayment Amount, all amounts in respect of the principal balance of the cash
+collateral accounts maintained pursuant to Section 2.02(f) which are thereafter
+released to the Issuer shall be distributed to ACFS in repayment of any payments
+made by the Borrowers under clause (a), without any interest or other income in
+respect of such distribution.
+
+         (c) The Borrowers' obligation to make payments pursuant to clause (a)
+shall be limited to the Recourse Limit and the amount of the Nonallocated Amount
+Available from and after the time such obligation arises.
+
+                                   ARTICLE VII
+                                  MISCELLANEOUS
+
+         SECTION 7.01 Amendments, Etc. The Issuer and the Borrowers may, from
+time to time, enter into written amendments, supplements or modifications of
+this Agreement, and the Issuer may execute and deliver to any such parties a
+written instrument waiving or a consent to a departure from, on such terms and
+conditions as the Issuer may specify in such instrument, any of the requirements
+of this Agreement or any Default or Event of Default and its consequences;
+provided, however, that (a) the consent of FSA shall be required for (i) any
+amendment to Section 2.01, 2.02, 2.03(a) 2.03(b), 2.03(d), 7.01 or 7.06 (or any
+defined term contained therein as used therein) and (ii) any other amendment
+that would materially and adversely affect FSA (which FSA consent in the case of
+this clause (a)(ii) shall not be unreasonably withheld) and (b) in any event,
+the consent of FSA shall not be required in connection with (i) any extension of
+the Scheduled Expiry Date for any Letter of Credit or any Designated Series
+Maturity Date (as defined in the applicable Series Transaction Documents), (ii)
+any change in the rate, or the time of payment, of interest on drawings under
+the
+
+                                       29
+
+<PAGE>
+
+Letters of Credit, (iii) any change in the rate of, or the date of payment for,
+any fee payable to the issuer hereunder or (iv) any change in the date or the
+amount of (x) any cash collateral required to be delivered by the Borrowers
+pursuant to Section 6.02 or (y) any mandatory payment required to be made by the
+Borrowers pursuant to Section 6.03.
+
+         In the case of any waiver, the parties to the applicable Transaction
+Document and the Issuer shall be restored to their former position and rights
+hereunder and under the other Transaction Documents to the extent provided for
+in such waiver, and any Default or Event of Default waived shall not extend to
+any subsequent or other Default or Event of Default, or impair any right
+consequent thereon. The Transaction Documents may not be amended orally or by
+any course of conduct.
+
+         SECTION 7.02 Notices, Etc. The Borrowers hereby appoint ACC to act as
+agent for the Borrowers with respect to the receiving and giving of any notices
+or any other written instruction hereunder and, notwithstanding anything to the
+contrary contained in this Agreement, any notice required to be delivered by the
+Issuer to the Borrowers may be delivered by the Issuer to ACC only as agent for
+the Borrowers. The Issuer is hereby entitled to rely on any communication given
+or transmitted by ACC as if such communication were given or transmitted by each
+Borrower. All notices, requests and demands to or upon the respective parties
+hereto to be effective shall be in writing (including by facsimile, telegraph or
+telex), and, unless otherwise expressly provided herein, shall be deemed to have
+been duly given or made when delivered by hand, or, in the case of mail or
+facsimile notice, when received, or, in the case of telegraphic notice,
+when delivered to the telegraph company, or, in the case of telex notice, when
+sent, answer back received, addressed as follows or to such other address as may
+be hereafter notified by the respective parties hereto:
+
+      ACC as agent for    c/o AmeriCredit Corp.
+      the Borrowers       801 Cherry Street, Suite 3900
+                          Fort Worth, Texas 76102
+                          Attention: Treasurer
+                          Telephone: 817-302-7022
+                          Facsimile: 817-302-7942
+
+      FSA:                Financial Security Assurance Inc.
+                          35O Park Avenue
+                          New York, NY 10022
+                          Attention: Managing Director - Transaction Oversight
+                          Telephone: (212) 826-0100
+                          Facsimile: (212) 339-3518
+
+      The Issuer:         Deutsche Bank AG, New York Branch
+                          31 West 52/nd/ Street
+                          New York, NY 10019
+                          Attention: Eric Shea
+                          Telephone: 212-469-8436
+                          Facsimile: 212-469-5160
+
+                                       30
+
+<PAGE>
+
+                          with a copy to:
+
+                          Deutsche Bank AG, New York Branch
+                          Global Loan operations
+                          Standby Letter of Credit Unit
+                          60 Wall street
+                          MS NYC 60-2708
+                          New York, NY 10005
+                          Attention: Marco Orlando
+                          Telephone: 212-602-1132
+                          Facsimile: 212-797-0403,
+
+         SECTION 7.03 No Waiver: Remedies. No failure on the part of the Issuer
+to exercise, and no delay in exercising any right hereunder shall operate as a
+waiver thereof nor shall any single or partial exercise of any such right
+preclude any other or further exercise thereof or the exercise of any other
+right. The remedies herein provided are cumulative and not exclusive of any
+remedies provided by law.
+
+         SECTION 7.04 Costs, Expenses and Indemnification. The Borrowers agree
+to pay all costs and expenses of the Issuer in connection with the preparation,
+execution, delivery, modification and amendment of this Agreement, the other
+Transaction Documents and the other documents to be delivered hereunder and
+thereunder, including the reasonable fees and out-of-pocket expenses of counsel
+for the Issuer with respect thereto and with respect to advising such agents as
+to their respective rights and responsibilities under this Agreement and such
+other Transaction Documents. The Borrowers further agree to pay all costs and
+expenses, if any (including reasonable counsel fees and expenses), of the Issuer
+in connection with the enforcement of this Agreement, the other Transaction
+Documents and the other documents to be delivered hereunder and thereunder,
+including reasonable counsel fees and expenses in connection with the
+enforcement of rights under this Section 7.04 and all costs and expenses
+(including reasonable counsel fees and expenses) in connection with the
+negotiation of any restructuring or "work-out" (whether or not consummated) of
+the obligations of the Borrowers hereunder or under any Transaction Document.
+The Borrowers further agree to indemnify the Issuer and each of its respective
+affiliates, control persons, officers, directors, employees and agents (each an
+"Indemnified Party"), from and against any and all claims, damages, losses,
+liabilities and expenses (including reasonable fees and disbursements of
+counsel) for which any of them may become liable or which may be incurred by or
+asserted against any of them in connection with the investigation of,
+preparation for or defense of any pending or threatened claim or any action or
+proceeding arising out of, related to or in connection with the transactions
+described herein whether or not any Indemnified Party or any Borrower is a party
+thereto, including any transaction in which any proceeds of any Borrowing are or
+are proposed to be applied; provided, however, that the Borrowers shall not be
+liable for any portion of such claims, damages, losses, liabilities or expenses
+resulting from an Indemnified Party's gross negligence or willful misconduct.
+The provisions of this Section 7.04 shall survive the termination of this
+Agreement.
+
+         SECTION 7.05 Binding Effect: Termination. This Agreement shall become
+effective upon the Effective Date and shall thereafter be binding upon and inure
+to the benefit of each of the parties hereto and each of their respective
+successors and assigns, except that no Borrower may
+
+                                       31
+
+<PAGE>
+
+assign its rights hereunder or any interest herein without the prior written
+consent of the Issuer. This Agreement shall terminate on the date after the
+Expiry Date of each Letter of Credit on which the Repayment Amount with respect
+to each Letter of Credit shall have been paid in full.
+
+         SECTION 7.06 Successors and Assigns. This Agreement shall be binding
+upon the parties hereto and their respective successors and assigns; provided,
+however, that
+
+         (a) no Borrower may transfer or assign any of its obligations, rights,
+or interests hereunder without the prior written consent of the Issuer; and
+
+         (b) the Issuer may at any time grant participations in the minimum
+amounts of $5,000,000 to any other Person (each a "Participant"), in all or part
+of its obligations under any Letter of Credit and its rights under this
+Agreement (it being understood and agreed that no other party hereto shall have
+any obligation to give notices to any such Participant, that such participation
+will not in any way reduce the Issuer's commitment to make LOC Disbursements
+hereunder, and that such participation shall not increase the obligations
+(including with respect to costs and expenses (provided that the Borrowers may
+be liable for any increase in costs and expenses resulting from any
+participation consented to by the Borrowers)) of any other party hereunder);
+provided that the Issuer shall be entitled to receive any increased costs or
+indemnities payable hereunder incurred by the Issuer or such Participant to the
+extent not in excess of such amounts calculated as if there were no
+participation.
+
+The Issuer hereby acknowledges and agrees that any such disposition will not
+alter or affect the Issuer's direct obligations to the Borrowers or FSA, and
+that neither Borrower or FSA shall have any obligation to have any communication
+or relationship with any Participant in order to enforce such obligations of
+the Issuer hereunder and under the applicable Letter of Credit. All agreements,
+representations and warranties made herein shall survive the execution and
+delivery of this Agreement.
+
+     Any direct or indirect transfer or purported transfer of all or any portion
+of the rights and obligations under this Agreement or any Letter of credit shall
+be null and void in its entirety unless it strictly complies with this Section
+7.06(b).
+
+         (c) The Issuer may pledge any portion of its reimbursement rights with
+respect to the Letters of Credit thereof or interest therein to any Federal
+Reserve Bank as collateral in accordance with applicable law without the consent
+of any Borrower.
+
+         (d) In connection with any participation or proposed participation by
+the Issuer pursuant to this Section 7.06, the Issuer shall be entitled to
+distribute to any proposed Participant any information furnished to the Issuer
+pursuant to Section 5.01 or otherwise pursuant to this Agreement or in
+connection herewith, subject to the provisions of Section 7.18.
+
+         SECTION 7.07 No Proceedings. (a) The Issuer hereby agrees (which
+agreement shall, pursuant to the terms of this Agreement, be binding upon its
+successors and assigns) that it shall not, for any reason:
+
+                                       32
+
+<PAGE>
+
+               (i)   institute proceedings for AFS Funding to be adjudicated a
+     bankrupt or insolvent;
+
+               (ii)  consent to, join in or cooperate with the institution
+     of bankruptcy or insolvency proceedings against AFS Funding;
+
+               (iii) file a petition with respect to AFS Funding seeking or
+     consenting to reorganization or relief under any applicable Federal or
+     state law relating to bankruptcy;
+
+               (iv)  consent to the appointment of a receiver, liquidator,
+     assignee, trustee, sequestrator (or other similar official) of AFS Funding
+     or a substantial part of the property; or
+
+               (v)   cause or permit AFS Funding to make any assignment for the
+     benefit of its creditors, or admit in writing its inability to pay its
+     debts generally as they become due, or declare or effect a moratorium on
+     its debt or take any action in furtherance of any such action.
+
+          (b)  The provisions of this Section 7.07 shall survive the termination
+of this Agreement.
+
+          SECTION 7.08 Submission to Jurisdiction; Waivers. EACH OF THE PARTIES
+HERETO HEREBY IRREVOCABLY AND UNCONDITIONALLY:
+
+          (a)  SUBMITS FOR ITSELF AND ITS PROPERTY IN ANY LEGAL ACTION OR
+PROCEEDING RELATING TO THIS AGREEMENT TO WHICH IT IS A PARTY, OR FOR RECOGNITION
+AND ENFORCEMENT OF ANY JUDGMENT IN RESPECT THEREOF, TO THE NON-EXCLUSIVE GENERAL
+JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK AND THE UNITED STATES OF
+AMERICA FOR THE SOUTHERN DISTRICT OF NEW YORK, AND APPELLATE COURTS FROM ANY
+THEREOF;
+
+          (b)  CONSENTS THAT ANY SUCH ACTION OR PROCEEDING MAY BE BROUGHT IN
+SUCH COURTS AND WAIVES ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE
+VENUE OF ANY SUCH ACTION OR PROCEEDING IN ANY SUCH COURT OR THAT SUCH ACTION OR
+PROCEEDING WAS BROUGHT IN AN INCONVENIENT COURT AND AGREES NOT TO PLEAD OR CLAIM
+THE SAME;
+
+          (c)  AGREES THAT SERVICE OF PROCESS IN ANY SUCH ACTION OR PROCEEDING
+MAY BE EFFECTED BY MAILING A COPY THEREOF BY REGISTERED OR CERTIFIED MAIL (OR
+ANY SUBSTANTIALLY SIMILAR FORM OF MAIL), POSTAGE PREPAID, TO SUCH PARTY AT ITS
+ADDRESS SET FORTH IN SECTION 7.02 OR AT SUCH OTHER ADDRESS OF WHICH THE ISSUER
+SHALL HAVE BEEN NOTIFIED PURSUANT THERETO; AND
+
+          (d)  AGREES THAT NOTHING HEREIN SHALL AFFECT THE RIGHT TO EFFECT
+SERVICE OF PROCESS IN ANY OTHER MANNER PERMITTED BY LAW OR SHALL LIMIT THE RIGHT
+TO SUE IN ANY OTHER JURISDICTION.
+
+                                       33
+
+<PAGE>
+
+          SECTION 7.09 WAIVERS OF JURY TRIAL. EACH OF THE PARTIES HERETO HEREBY
+IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, ANY RIGHT IT MAY HAVE TO TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING
+RELATING DIRECTLY OR INDIRECTLY TO THIS AGREEMENT OR ANY OTHER DOCUMENT OR
+INSTRUMENT RELATED HERETO AND FOR ANY COUNTERCLAIM THEREIN.
+
+          SECTION 7.10 GOVERNING LAW. THIS AGREEMENT SHALL BE CONSTRUED IN
+ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK, WITHOUT
+GIVING EFFECT TO ITS CONFLICTS OF LAW PROVISIONS.
+
+          SECTION 7.11 Execution in Counterparts. This Agreement may be executed
+in any number of counterparts and by different parties hereto in separate
+counterparts, each of which when so executed shall be deemed to be an original
+and all of which taken together shall constitute one and the same agreement.
+
+          SECTION 7.12 Headings. The headings contained in this Agreement are
+for convenience of reference only and shall not affect the construction or
+interpretation of any provision of this Agreement.
+
+          SECTION 7.13 Severability. Any provisions of this Agreement which are
+prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction,
+be ineffective to the extent of such prohibition or unenforceability without
+invalidating the remaining provisions hereof, and any such prohibition or
+unenforceability in any jurisdiction shall not invalidate or render
+unenforceable such provisions in any other jurisdiction.
+
+          SECTION 7.14 Integration. All exhibits, schedules and appendices to
+this Agreement shall be deemed to be part of this Agreement. This Agreement,
+together with provisions of the Transaction Documents referred to herein,
+embodies the entire agreement and understanding among the parties hereto with
+respect to the subject matter hereof and supersedes all prior agreements and
+understandings among such parties with respect to the subject matter hereof.
+
+          SECTION 7.15 Right of Set-Off. In addition to any rights and remedies
+of the Issuer provided by law, upon the occurrence of an Event of Default and
+the acceleration of the obligations owing hereunder, or at any time upon the
+occurrence and during the continuance of an Event of Default under Section
+6.01(a), and only under such circumstances, the Issuer shall have the right,
+without prior notice to the Borrowers, any such notice being expressly waived by
+the Borrowers to the extent not prohibited by applicable law, to set-off and
+apply any and all deposits (general or special, time or demand, provisional or
+final) of the Borrowers at any time held by the Issuer, and other indebtedness
+of the Issuer at any time owing to the Borrowers, against any and all
+indebtedness of the Borrowers to the Issuer (whether matured or unmatured) at,
+or at any time after, the happening of any of the above-mentioned events. To the
+extent not prohibited by applicable law, the aforesaid right of set-off may be
+exercised by the Issuer against the Borrowers or against any trustee in
+bankruptcy, custodian, debtor in possession, assignee for the benefit of
+creditors, receiver, or execution, judgment or attachment creditor of the
+Borrowers, or against anyone else claiming through or against the Borrowers or
+such trustee in bankruptcy, custodian, debtor in possession, assignee for
+
+                                       34
+
+<PAGE>
+
+the benefit of creditors, receiver or execution, judgment or attachment
+creditor, notwithstanding the fact that such right of set-off shall not have
+been exercised by the Issuer prior to the making, filing or issuance, or service
+upon the Issuer of, or of notice, of any such petition, assignment for the
+benefit of creditors, appointment or application for the appointment of a
+receiver, or issuance of execution, subpoena, order or warrant. The Issuer
+agrees promptly to notify the Borrowers after any such set-off and application
+made by the Issuer, provided that the failure to give such notice shall not
+affect the validity of such set-off and application.
+
+          SECTION 7.16 Limitation of liability. No claim may be made by the
+Borrowers, or any other Person against the Issuer, or any directors, officers,
+employees or agents of the Issuer for any special, indirect, consequential or
+punitive damages in respect of any claim for breach of contract or any other
+theory of liability arising out of or related to the transactions contemplated
+hereby or by any Transaction Document, or any act, omission or event occurring
+in connection therewith, and each Borrower hereby waives, releases and agrees
+(on behalf of itself and any Person claiming by or through it) not to sue upon
+any claim for any such damages, whether or not accrued and whether or not known
+or suspected to exist in its favor.
+
+          SECTION 7.17 No Recourse Against Certain Persons. No recourse under or
+with respect to any obligation, covenant or agreement (including any obligation
+or agreement to pay fees or any other amount) of any Borrower, or the Issuer
+contained in this Agreement or any other agreement, instrument or document
+entered into by it pursuant hereto or in connection herewith shall be had
+(unless expressly assumed by such party) against any incorporator, affiliate,
+stockholder, partner, officer, employee or director of any Borrower or the
+Issuer, as such, by the enforcement of any assessment, by any legal or equitable
+proceeding, by virtue of any statute or otherwise; it being expressly agreed and
+understood that the agreements of each party contained in this Agreement and all
+of the other agreements, instruments and documents entered into by it pursuant
+hereto or in connection herewith are, in each case, solely the partnership or
+corporate obligations of such party, and that no personal liability whatsoever
+shall attach to or be incurred by any incorporator, stockholder, partner,
+affiliate, officer, employee or director of such party, as such, or any of them
+under or by reason of any of the obligations, covenants or agreements of any
+Borrower or the Issuer contained in this Agreement or in any other such
+instrument, document or agreement, or which are implied therefrom, and that any
+and all personal liability of every such incorporator, stockholder, partner,
+affiliate, officer, employee or director of any Borrower or the Issuer for
+breaches by any Borrower or the Issuer of any such obligations, covenants or
+agreements, which liability may arise either at common law or at equity, by
+statute or constitution, or otherwise, is hereby expressly waived as a condition
+of and in consideration for the execution of this Agreement. The provisions of
+this Section 7.17 shall survive the termination of this Agreement.
+
+          SECTION 7.18 Treatment of Certain Information. The Issuer agrees (on
+behalf of itself and each of its affiliates, directors, officers, employees and
+representatives) to use reasonable precautions to keep confidential, in
+accordance with its customary procedures for handling confidential information
+of the same nature, all non-public information supplied by any Borrower pursuant
+to this Agreement which (a) is identified by such supplying party as being
+confidential at the time the same is delivered to the Issuer, or (b) constitutes
+any financial statement, financial projections or forecasts, budget, compliance
+certificate, audit report, management letter or accountants' certification
+delivered hereunder; provided, however, that nothing herein shall limit the
+disclosure of
+
+                                       35
+
+<PAGE>
+
+any such information to the extent required by statute, rule, regulation or
+judicial process, (ii) on a confidential basis, to counsel for the Issuer, (iii)
+to bank examiners, internal and external auditors or accountants, and any
+analogous counterpart thereof acting in any such capacity, (iv) to the Issuer,
+(v) in connection with any litigation to which the Issuer is a party, (vi) to
+any assignee or participant (or prospective assignee or participant) so long as
+such assignee or participant (or prospective assignee or participant) agrees to
+keep such information confidential on substantially the same basis as set forth
+in this Section, or (vii) to affiliates of the Issuer. This confidentiality
+agreement shall not apply to (i) any information which was in the possession of
+the Issuer prior to the date of this agreement (other than any information
+previously given to the Issuer by any Borrower, (ii) any information which was,
+is or hereafter becomes part of the public domain without any violation of this
+agreement on the part of the Issuer or any of its respective affiliates,
+directors, officers, employees or representatives, (iii) any information
+received by the of the Issuer from a source not known by it to be under any
+obligation of confidentiality to any Borrower or (iv) any information which is
+independently created or developed by the Issuer from information or material
+not otherwise, covered by this confidentiality agreement.
+
+          SECTION 7.19 Certain Payments. Notwithstanding provisions to the
+contrary contained in this Agreement, the obligations of the Borrowers to stake
+payments of interest or other amounts which constitute interest shall not be
+required to the extent that receipt of such payment by the Issuer would be
+contrary to the provisions of law applicable to the Issuer limiting the maximum
+rate of interest that may be charged or collection by the Issuer. Without
+limiting the generality of he foregoing all calculations of the rate of interest
+contracted for, charged or received by the Issuer under this Agreement which are
+made for the purposes of determining whether such rate of interest exceeds the
+maximum rate of interest permitted by applicable law for the Issuer shall be
+made, to the extent permitted by applicable law, by amortizing, prorating,
+allocating and spreading in equal parts during the period of the fi111 stated
+term of this Agreement, all interest at any time contracted for, charged or
+received by the Issuer in connection with the indebtedness evidenced by this
+Agreement, and then to the extent that any such excess remains, all such excess
+shall be automatically credited against and in reduction of the principal
+balance owed to the Issuer, and any portion of said excess which exceeds the
+principal balance owed to the Issuer shall be paid by the Issuer to the
+Borrowers (subject to the provisions of Section 7.07 and 7.17, it being the
+intent of parties hereto that under no circumstances shall the Borrowers be
+required to pay any interest in excess of the highest rate permissible under
+applicable law.
+
+          SECTION 7.20 Joint and Several Liability. The obligations of the
+Borrowers under this Agreement are joint and several.
+
+                                       36
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their respective officers thereunto duly authorized, as of the date
+above written.
+
+                                        AMERICREDIT CORP.
+
+
+                                        By: /s/ [ILLEGIBLE]
+                                           -------------------------------------
+                                        Title:__________________________________
+
+
+                                        AMERICREDIT FINANCIAL SERVICES, INC.
+
+
+                                        By: /s/ [ILLEGIBLE]
+                                           -------------------------------------
+                                        Title:__________________________________
+
+
+                                        DEUTSCHE BANK AG, NEW YORK BRANCH,
+                                        as Issuer
+
+
+                                        By: ____________________________________
+                                        Title:__________________________________
+
+
+                                        By: ____________________________________
+                                        Title:__________________________________
+
+                                        For purposes of Sections 2.02, 2.03,
+                                        7.01 and 7.06(b) and Exhibit C only:
+
+
+                                        FINANCIAL SECURITY ASSURANCE, INC.
+
+
+                                        By: ____________________________________
+                                        Title:__________________________________
+
+
+[Signature Page to Letter of Credit and Reimbursement Agreement]
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their respective officers thereunto duly authorized, as of the date
+above written.
+
+                                      AMERICREDIT CORP.
+
+
+                                      By: _________________________________
+                                      Title: ______________________________
+
+
+                                      AMERICREDIT FINANCIAL SERVICES, INC.
+
+
+                                      By: _________________________________
+                                      Title: ______________________________
+
+
+                                      DEUTSCHE BANK AG, NEW YORK BRANCH,
+                                      as Issuer
+
+
+                                      By: /s/ FRANK BYRNE
+                                          ---------------------------------
+                                      Title: MANAGING DIRECTOR
+                                             ------------------------------
+
+
+                                      By: [ILLEGIBLE]
+                                         ----------------------------------
+                                      Title: VP
+                                            -------------------------------
+
+
+                                      For purposes of Sections 2.02, 2.03, 7.01
+                                      and 7.06(b) and Exhibit C only:
+
+
+                                      FINANCIAL SECURITY ASSURANCE, INC.
+
+
+                                      By: _________________________________
+                                      Title: ______________________________
+
+
+
+[Signature Page to Letter of Credit and Reimbursement Agreement]
+
+<PAGE>
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their respective officers thereunto duly authorized, as of the date
+first above written.
+
+
+                                    AMERICREDIT CORP.
+
+
+                                    By: _________________________________
+                                    Title: ______________________________
+
+
+                                    AMERICREDIT FINANCIAL SERVICES, INC.
+
+
+                                    By: _________________________________
+                                    Title: ______________________________
+
+
+                                    DEUTSCHE BANK AG, NEW YORK BRANCH,
+                                    as Issuer
+
+
+                                    By: _________________________________
+                                    Title: ______________________________
+
+
+                                    By: _________________________________
+                                    Title: ______________________________
+
+
+                                    For purposes of Sections 2.02, 2.03, 701 and
+                                    7.06(b) and Exhibit C only:
+
+
+                                    FINANCIAL SECURITY ASSURANCE, INC.
+
+
+                                    By: [ILLEGIBLE]
+                                        ---------------------------------
+                                    Title: ______________________________
+
+
+
+[Signature Page to Letter of Credit and Reimbursement Agreement]
+
+<PAGE>
+
+
+                                                                       EXHIBIT A
+
+
+                      FORM OF IRREVOCABLE LETTER OF CREDIT
+
+<PAGE>
+
+
+                                                                       EXHIBIT B
+
+
+                      LIST OF SERIES TRANSACTION DOCUMENTS
+
+                                 [SEE ATTACHED]
+
+<PAGE>
+
+                                                                       EXHIBIT C
+
+
+                           COLLATERAL AND REINSURANCE
+
+                       AS OF MAY 6, 2002 DISTRIBUTION DATE
+
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------------
+Series     Original Collateral Balance     Letter of Credit/1/    Letter of Credit or FSA
+                                           Reinsurance Amounts          Reinsurance
+---------------------------------------------------------------------------------------------
+<S>        <C>                             <C>                    <C>
+1998-C                 $   575,000,000           $           0
+1998-D                     625,000,000                       0
+1999-A                     700,000,000                       0
+1999-B                   1,000,000,000                       0
+1999-C                   1,000,000,000                       0
+1999-D                     900,000,000                       0
+2000-A                   1,300,000,000                       0
+2000-B                   1,200,000,000                       0
+2000-C                   1,100,000,000                       0
+2000-D                     600,000,000                       0
+2001-A                   1,400,000,000               7,434,265       FSA Reinsurance
+2001-B                   1,850,000,000              62,850,965       Letter of Credit
+2001-C                   1,600,000,000              79,999,946       FSA Reinsurance
+2001-D                   1,800,000,000              90,000,000       Letter of Credit
+2002-A                   1,600,000,000              79,999,983       FSA Reinsurance
+---------------------------------------------------------------------------------------------
+Total/2/               $17,250,000,000           $ 320,285,159
+---------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+_____________________
+1    This column also indicates the priority of draws with the requirement that
+     the newest transaction (2002-B) be drawn before 2002-A, and 2002-A be drawn
+     before 200l-D, etc.
+
+2    Additionally, the Series 2002-B transaction will close in June 2002, and
+     this transaction has the following characteristics:
+
+     Original Collateral Balance: $1,200,000,000
+     FSA Reinsurance Amount: $60,000,000 (when the transaction has been fully
+     funded)
+
+                                       2
+
+<PAGE>
+
+
+                                                                      APPENDIX A
+
+
+                               CERTAIN DEFINITIONS
+
+         Capitalized terms used in this Agreement shall have the following
+meanings:
+
+         "ACC": The meaning specified in the Preamble.
+
+         "ACC Portfolio Charge-Off Ratio": As of the end of any fiscal quarter
+of ACC, the ratio, expressed as a percentage, of (a) the product of 4 and the
+net amount of charge-offs in its serviced portfolio during such fiscal quarter
+to (b) the daily average principal amount of receivables in its serviced
+portfolio during such fiscal quarter.
+
+         "Accountants' Report": The meaning specified in Section 5,0l(a)(iii).
+
+         "ACFS": The meaning specified in the Preamble.
+
+         "Affiliate": With respect to any Person, any Person directly or
+indirectly controlling controlled by, or under common control with, such former
+Person. As used in this definition of "Affiliate," the term "control" means the
+possession, directly or indirectly, of the power to direct or cause the
+direction of the management and policies of a Person, whether through ownership
+of voting securities, by contract or otherwise.
+
+         "AFS Funding": The meaning specified in the recitals.
+
+         "Agreement": This Letter of Credit Reimbursement Agreement, as it may
+be amended, modified, restated or supplemented from time to time.
+
+         "Authorized Officer": With respect to any non-natural Person, any
+Officer of such Person who is authorized to act for such Person with respect to
+the relevant matter in question.
+
+         "Available Enhancement Amount": With respect to any Letter of Credit,
+the sum of (a) the amount in the Spread Account for the related Notes, (b) the
+OC Amount, if any, and (c) the Maximum Stated Amount of such Letter of Credit
+or, if such Letter of Credit has been cash collateralized, the amount of cash
+collateral on deposit in respect thereof pursuant to Section 2.02(f).
+
+         "Available Stated Amount": With respect to any Letter of Credit at any
+date of determination, Maximum Stated Amount thereof at such date, minus the
+amount of all unreimbursed drawings under such Letter of Credit.
+
+         "Bankruptcy Code": Title 11 of the United States Code (11 U.S.C.
+Section 101, et seq.), as amended from time to time, or any successor statute.
+
+         "Borrowers": The meaning specified in the Preamble.
+
+         "Business Day": Any day other than (i) a Saturday or Sunday and (ii)
+any other day on which banks are authorized or required to close in New York
+City, Texas or Ohio.
+
+<PAGE>
+
+         "Cash Equivalents": Book-entry securities, negotiable instruments or
+securities represented by instruments in bearer or registered from which
+evidence:
+
+         (a)  direct obligations of, and obligations fully Guaranteed as to
+timely payment by, the United States of America;
+
+         (b)  demand deposits, time deposits or certificates of deposit of any
+depository institution or trust company incorporated under the laws of the
+United States of America or any state thereof or the District of Columbia (or
+any domestic branch of a foreign bank) and subject to supervision and
+examination by federal or state banking or depository institution authorities
+(including depository receipts issued by any such institution or trust company
+as custodian with respect to any obligations referred to in clause (a) above or
+portion of such obligations for the benefit of the holders of such depository
+receipts); provided, however, that at the time of the investment or contractual
+commitment to invest therein (which shall be deemed to be made again each time
+funds are reinvested following each Distribution Date), the commercial paper or
+other short-term senior unsecured debt obligations (other than such obligations
+the rating of which is based on the credit of a Person other than such
+depository institution or trust company) of such depository institution or trust
+company shall have a credit rating from Standard & Poor's of A-1 and from
+Moody's of P-1;
+
+         (c)  commercial paper and demand notes investing solely in commercial
+paper having, at the time of the investment or contractual commitment to invest
+therein, a rating from Standard & Poor's A-1 and from Moody's of P-1;
+
+         (d)  investments in money market funds having a rating from Standard &
+Poor's of AAA-m or AAAm-G and from Moody's of Aaa and having been approved by
+the Issuer.
+
+         (e)  bankers' acceptances issued by any depository institution or trust
+company referred to in clause (b) above; and
+
+         (f)  repurchase obligations with respect to any security that is a
+direct obligation of, or fully Guaranteed by, the United States of America or
+any agency or instrumentality thereof of obligations of which are backed by the
+full faith and credit of the United States of America, in either case entered
+into with a depository institution or trust company (acting as principal)
+referred to in clause (b) above;
+
+provided that (i) for purposes of Section 2.02(f), "Cash Equivalents" shall also
+include any other investment which has been approved by the Issuer and the FSA
+Series Insurer and (ii) for purposes of Section 6.02(e), "Cash Equivalents"
+shall also include time deposits maintained with Deutsche Bank AG and any other
+investment agreed to by the Borrowers and the Issuer.
+
+         "Code":  The Internal Revenue Code of 1984, as amended.
+
+         "Controlling Party": The meaning specified in the applicable Series
+Transaction Documents.
+
+         "Debt":  At any date with respect to any Person, without duplication:
+(i) all obligations of such Person for borrowed money; (ii) all obligations of
+such Person evidenced by bonds, debentures, notes or other similar instruments;
+(iii) all obligations of such Person to pay the deferred purchase
+
+                                       2
+
+<PAGE>
+
+price of property or services, except trade accounts payable arising in the
+ordinary course of business; (iv) all obligations of such Person as lessee under
+capital leases; (v) all non-contingent obligations of such Person to reimburse
+or prepay any bank or other Person in respect of amounts paid under a letter of
+credit, banker's acceptance or similar instrument; (vi) all Debt of others
+secured by a Lien on any asset of such Person, whether or not such Debt is
+assumed by such Person; and (vii) all Debt of others Guaranteed by such Person.
+
+      "Debtor Relief Laws": The Bankruptcy Code and all other applicable
+liquidation, conservatorship, bankruptcy, moratorium, rearrangement,
+receivership, insolvency, reorganization, suspension of payments, readjustment
+of debt, marshaling of assets or similar debtor relief laws of the United
+States, any state or any foreign country from time to time in effect, affecting
+the rights of creditors generally.
+
+      "Default": Any Event of Default or any occurrence that is, or with notice
+or the lapse of time or both would become, an Event of Default.
+
+      "Designated Series": The meaning specified in the recitals.
+
+      "Designated Series Amortization Date": With respect to any drawing under a
+Letter of Credit, the Distribution Date of the 26/th/ consecutive calendar month
+following the month of the closing of the applicable Series.
+
+      "Distribution Date": The sixth day of each calendar month, or, if such day
+is not a Business Day, the immediately following Business Day; provided, that
+such day shall in no event be earlier than the third Business Day of such
+calendar month.
+
+      "Dollar" or "$": A dollar or other equivalent unit in such coin or
+currency of the United States as at the time shall be legal tender for all
+debts, public and private.
+
+      "Effective Date": The date on which the conditions specified in Section
+3.01 shall have been satisfied.
+
+      "ERISA": The U.S. Employee Retirement Income Security Act of 1974, as
+amended from time to time, and the regulations promulgated and rulings issued
+thereunder.
+
+      "ERISA Affiliate": Any Person who for purposes of Title IV of ERISA is a
+member of a Borrower's controlled group, or under common control with such
+Borrower, within the meaning of Section 414 of the Code, and the regulations
+promulgated and rulings issued thereunder.
+
+      "Event of Default": The meaning specified in Section 6.01.
+
+      "Event of Early Amortization": Any of the following:
+
+         (a) the long term senior unsecured debt of ACC is rated by any of S&P,
+Fitch or Moody's at or below B-, B- or B3 respectively; or
+
+                                        3
+
+<PAGE>
+
+         (b) any trigger event, facility termination event, early amortization
+even servicer termination event or event of default or other similar event by
+any other name shall occur under any Series insured by the FSA Series Insurer or
+other insurer (whether or not declared, waived or consented to by the relevant
+trustee, the FSA Series Insurer, the relevant trust or the holders of such
+Series) and any grace period or cure period set forth in the Series Transaction
+Documents for such FSA Series shall have expired, provided that a trigger event
+shall not constitute an Event of Early Amortization if(i) FSA waives such
+trigger event, (ii) the aggregate outstanding principal amount of all such
+Series is less than or equal to 15Oh of the aggregate outstanding principal
+amount of all the Series insured by the FSA Series Insurer (including any
+outstanding Prefunded Amounts (as defined in the applicable Series Transaction
+Documents for such Series)), (iii) the amount on deposit in the Spread Account
+for such Series is not less than the amount required to be on deposit therein
+pursuant to the terms of the related Series Transaction Documents for such
+Series and (iv) the amount of overcollateralization for such Series is not less
+than the amount of overcollateralization required pursuant to the terms of the
+related Series Transaction Documents for such Series; or
+
+         (c) total delinquencies of 60 days or more and repossessed assets in
+ACFS's serviced portfolio exceeds 4.5% of such portfolio determined at the end
+of any fiscal month of ACFS; or
+
+         (d) the ACC Portfolio Charge-Off Ratio as of the end of any of its
+fiscal quarters exceeds 7.5%.
+
+
+         "Excess": With respect to any Loss Protection and any other Loss
+Protection, that such Loss Protection shall not be drawn upon, paid, deducted
+from or otherwise applied to obligations, losses or potential losses, until such
+other Loss Protection has been fully drawn, fully paid, deducted in full or
+otherwise fully applied to obligations, losses or potential losses and, with
+respect to any specified source of Indemnification, that such Loss Protection
+shall be filly indemnified or otherwise made whole under the terms of such Loss
+Protection from such source of Indemnification before any reimbursement,
+indemnification, repayment or recovery from such source of Indemnftications paid
+or applied to such other Loss Protection,
+
+         "Excluded Taxes": The meaning specified in Section 2.07(a).
+
+         "Expiry Date": The meaning specified in Section 2.02(f).
+
+         "Facility Maturity Date": The earliest of (a) the latest Scheduled
+Expiry Date for a Letter of Credit, (b) the date on which the Issuer requires
+the delivery of cash collateral with respect to the Letters of Credit pursuant
+to Section 6.02, and (c) the occurrence of an Insolvency Event with respect to
+AFS Funding or any Borrower.
+
+         "Federal Funds Rate": For any day, a fluctuating interest rate per
+annum equal to the weighted average of the rates on overnight Federal finds
+transactions with members of the Federal Reserve System arranged by Federal
+funds transactions with members of the Federal Reserve System arranged by
+Federal funds brokers, as published for such day (or, if such day is not a
+Business Day, for the next preceding Business Day) by the Federal Reserve Bank
+of New York or, if such rate is not so published for any day which is a Business
+Day, the average of the quotations for such day for
+
+                                        4
+
+<PAGE>
+
+such transactions received by the Issuer from three Federal funds brokers of
+recognized standing selected by it.
+
+         "Fee Letter": The Fee Letter, dated as of June 7, 2002, among the
+Borrowers and the Issuer, as such document may be amended, modified, restated or
+supplemented from time to time.
+
+         "Fitch": Fitch IBCA, Inc., and its successors.
+
+         "FSA": Financial Security Assurance Inc., a New York stock insurance
+company.
+
+         "FSA Series": The meaning specified in the recitals.
+
+         "FSA Series Amount Available": With respect to any Distribution Date
+and any FSA Series, the FSA Series Spread Account Principal Release for such FSA
+Series for such Distribution Date.
+
+         "FSA Series Insurer": With respect to any FSA Series, FSA in its
+capacity as the insurance company insuring the repayment of such FSA Series.
+
+         "FSA Series Spread Account": When used in the singular, any of, and
+when used in the plural, all of, the spread accounts established with respect to
+an FSA Series.
+
+         "FSA Series Spread Account Principal Release": With respect to any
+Distribution Date and any FSA Series, any amounts paid or payable to AFS Funding
+from amounts on deposit in the related FSA Series Spread Account since the prior
+Distribution Date.
+
+         "FSA Series Servicer": The meaning specified in Section 5.01.
+
+         "GAAP": At any particular time with respect to the Borrowers, U.S.
+generally accepted accounting principles as in effect at such time, consistently
+applied.
+
+         "Governmental Authority": Any nation or government, any state or other
+political subdivision thereof and any entity exercising executive, legislative,
+judicial, regulatory or administrative functions of or pertaining to government.
+
+         "Guarantee": By any Person, any obligation, contingent or otherwise, of
+such Person directly or indirectly guaranteeing any Debt or other obligation of
+any other Person and, without limiting the generality of the foregoing, any
+obligation, direct or indirect, contingent or otherwise, of such person (i) to
+purchase or pay (or advance or supply funds, for the purchase or payment of)
+such Debt or other obligation (whether arising by virtue of partnership
+arrangements, by agreement to keep-well, to purchase assets, goods, securities
+or services, to take-or-pay, or to maintain financial statement conditions or
+otherwise) or (ii) entered into for the purpose of assuring in any other manner
+the obligee of such Debt or other obligation of the payment thereof or to
+protect such obligee against loss in respect thereof (in whole or in part);
+provided, that the term "Guarantee" shall not include endorsements for
+collection or deposit in the ordinary course of business. The term "Guarantee"
+used as a verb has a corresponding meaning.
+
+                                       5
+
+<PAGE>
+
+         "Indemnification": With respect to any Loss Protection, indemnification
+reimbursement, repayment, recovery or any other right of the provider of such
+Loss Protection to be made whole and held harmless in respect of its obligations
+under such Loss Protection.
+
+         Indemnified Party": The meaning specified in Section 7.04.
+
+         "Independent Accountants": The meaning specified in Section 5.01 (a)
+(iii).
+
+         "Insolvency Event": With respect to a Person, such Person shall fail
+generally to, or admit in writing its inability to, pay its debts as they become
+due; or a proceeding shall have been instituted in a court having jurisdiction
+in the premises seeking a decree or order for relief in respect of such Person
+in an involuntary case under any Debtor Relief Law, or for the appointment of a
+receiver, liquidator, assignee, trustee, custodian, sequestrator, conservator or
+other similar official of such Person or for any substantial part of its
+property, or for the winding-up or liquidation of its affairs and, if instituted
+against such Person, any such proceeding shall continue undismissed or unstayed
+and in effect for a period of 60 consecutive days or any of the actions sought
+in such proceeding shall occur; or the commencement by such Person of a
+voluntary case under any Debtor Relief Law, or such Person's consent to the
+entry of any order for relief in an involuntary case under any Debtor Relief
+Law, or consent to the appointment of or taking possession by a receiver,
+liquidator, assignee, trustee, custodian, sequestrator, conservator or other
+similar official of such Person or for any substantial part of its property, or
+any general assignment for the benefit of creditors; or such Person shall have
+taken any corporate, partnership or similar action in furtherance of any of the
+foregoing actions.
+
+         "Insurance Agreement Event of Default": The meaning specified in the
+applicable Series Transaction Documents.
+
+         "Insured Distribution Date": The meaning specified in the applicable
+Series Transaction Documents.
+
+         "Investment Company Act": The United States Investment Company Act of
+1940, as amended.
+
+         "IRS": The U.S. Internal Revenue Service and any successor agency.
+
+         "Issuer": The meaning specified in the Preamble.
+
+         "Letters of Credit": The meaning specified in Section 2.0l(a).
+
+         "LIEN": With respect to any asset, any mortgage, pledge, hypothecation,
+assignment, deposit arrangement, encumbrance, lien (statutory or other),
+preference, priority, security agreement or preferential arrangement of any kind
+or nature whatsoever (including any conditional sale or other title retention
+agreement relating to such asset).
+
+         "LOC Disbursement": The meaning specified in Section 2.02(c).
+
+         "LOC Termination Disbursement": The meaning specified in Section
+2.02(d).
+
+                                       6
+
+<PAGE>
+
+         "Loss Protection": Any reinsurance, any source of reimbursement or
+indemnity, any guaranty, surety bond, letter of credit, cash collateral account,
+spread account or other pledged account, any subordinate security or other
+subordinate interest, any other credit enhancement and any other agreement or
+accommodation that has the effect, directly or indirectly, of protecting FSA
+from incurring a loss with respect to FSA's obligations under any Policy.
+
+         "Material Adverse Effect": (i) A material adverse effect on the
+financial condition, operations or business of any Borrower, (ii) a material
+adverse effect on the ability or right of (x) any Borrower to perform  its
+obligations under this Agreement or any other Transaction Document or (y) AFS
+Funding to perform its obligations under any Series Transaction Document
+relating to anFSA Series, or (iii) any impairment of the ability or right of the
+Issuer to enforce this Agreement or any other Transaction Document.
+
+         "Maximum Enhancement Amount": With respect to any Letter of Credit, the
+lesser of (a) the sum of the Requisite Amount (as defined in the applicable
+Series Transaction Documents) and the OC Amount, if any, with respect to the
+related Notes, or (b) 12% (25%, if a Trigger Event shall have occurred and be
+continuing) of the sum of the Aggregate Principal Balance and the Pre-Funded
+Amount, if any (as each such term is defined in the applicable Series
+Transaction Documents), with respect to the related Notes.
+
+         "Maximum Stated Amount": With respect to any Letter of Credit at any
+time, the maximum aggregate amount then reflected in such Letter of Credit as
+the amount that may be drawn thereunder.
+
+         "Moody's": Moody's Investors Service, Inc., and any successor thereto.
+
+         "Nonallocated Amount Available": With respect to any Distribution Date,
+all amounts paid or payable to AFS Funding since the prior Distribution Date
+with respect to all FSA Series, including amounts released from the related
+Spread Accounts during such period, and all fees or other remuneration payable
+to AFS Funding pursuant to the Series Transaction Documents for any FSA Series
+and all property or monies deliverable to AFS Funding upon termination of any
+FSA Series.
+
+         "Notes": The asset-backed notes and asset-backed certificates issued in
+connection with a Series.
+
+         "NYUCC": The Uniform Commercial Code as in effect from time to time in
+the State of New York.
+
+         "OC Amount": With respect to any Letter of Credit, the OC Level (as
+defined in the applicable Series Transaction Documents), if any, for the related
+Notes of the related Designated Series times the sum of the Aggregate Principal
+Balance and the Pre-Funded Amount, if any (as each such term is defined in the
+applicable Series Transaction Documents), for the related Notes.
+
+         "Officer": With respect to any Borrower, the Chairman of the Board
+of Directors, any Vice Chairman, any Director, the President, any Vice
+President, the Secretary, an Assistant Secretary, the Treasurer or an Assistant
+Treasurer of such Borrower.
+
+                                        7
+
+<PAGE>
+
+         "Officer's Certificate": With respect to any Person, a certificate
+signed by an Authorized Officer of such Person.
+
+         "Opinion of Counsel": A written opinion of counsel who, except as
+otherwise expressly provided in this Agreement, may be counsel to the Borrowers,
+and who shall be acceptable to the Issuer.
+
+         "Participant": The meaning specified in Section 7,06(b).
+
+         "Permitted Lien": A Lien which is permitted by Section 5.02a).
+
+         "Person": Any individual, corporation, partnership, joint venture,
+association, limited liability company, joint stock company, trust (including
+any beneficiary thereof) or any other entity, unincorporated organization or
+government or any agency or political subdivision thereof.
+
+         "Plan": Any employee benefit plan as defined in Section 3(3) of ERISA
+in respect of which any Borrower or any ERISA Affiliate is, or within the
+immediately preceding six years was, an "employer" as defined in Section 3(5)
+of ERISA, and in respect of which the Borrower or an ERISA Affiliate could have
+liability under Title IV of ERISA.
+
+         "Policy": Any Financial Guaranty Insurance Policy issued in connection
+with an FSA Series.
+
+         "Policy Payments": Without duplication, the sum of (i) amounts payable
+by FSA under any of the Policies and (ii) court costs, interest upon judgments,
+and allocated investigation, adjustment and legal expenses, including expenses
+related to the workout of a potential loss or the protection and perfection of
+any subrogation or salvage rights or security interest under a Policy; provided
+that "Policy Payments" shall not include (a) salaries paid to employees of FSA,
+(b) awards or judgments aginst FSA occasioned by failure of FSA to settle a
+claim or make payment under a Policy, when such failure arises from bad faith,
+negligence or misconduct on the part of FSA or any agent or employee of FSA or
+(c) liability of FSA, arising by contract, operation of law or otherwise, from
+its participation or membership, whether voluntary or involuntary, in any
+insolvency fund, including any guaranty fund, association, pool, plan or other
+facility that provides for the assessment of, payment by or assumption by FSA of
+a part or the whole of any claim, debt, charge, fee or other obligation of any
+insurer, or its successor or assigns, that has been declared insolvent by any
+authority having jurisdiction, or which is otherwise unable to meet any claim,
+debt, charge, fee or other obligation in whole or in part; and provided,
+further, that "Policy Payments" shall include reasonably incurred expenses paid
+by FSA to Transaction Services Corporation, an affiliate of FSA, so long as such
+exposes are allocated to the related Policy on a cost basis.
+
+         "Qualified Subsequent Reinsurance": (i) Any Spread Account Replacement
+Reinsurance, as defined in clause (i) of the definition thereof, having a limit
+of liability, scope of coverage and other terms substantially the same in all
+material respects as the corresponding terms of the Letters of Credit and (ii)
+any Spread Account Replacement Reinsurance, as defined in clause (ii) of the
+definition thereof, which amortizes and terminates on the same basis as cash
+would have been released from the related Spread Account had the cash not been
+replaced in such Spread Account.
+
+         "Rating Agency": Each of Fitch, Moody's and S&P.
+
+                                       8
+
+<PAGE>
+
+         "Recourse Limit": The remainder of (a) $l00,000,000 (or the aggregate
+Maximum Stated Amount for all Letters of Credit, if such aggregate Maximum
+Stated Amount is less than $l00,000,000) minus (b) any amounts (other than
+amounts calculated by reference to the Nonallocated Amount Available) previously
+paid by the Borrowers to the Issuer hereunder with respect to the Recourse
+Limit.
+
+         "Regulatory Change": With respect to the Issuer, any change occurring
+after the date of this Agreement; or in the case of a Participant, any change
+occurring after the date on which its participation became effective, or in the
+case of an Indemnified Party, any change occurring after the date it became such
+an Indemnified Party, in any (or the adoption after such date of any new):
+
+         (i) United States Federal or state law or foreign law applicable to the
+Issuer, or such Indemnified Party; or
+
+         (ii) regulation interpretation, directive, guideline or request
+(whether or not having the force of law) applicable to the Issuer or Indemnified
+Party of any court or other judicial authority or any Governmental Authority
+charged with the interpretation or administration of any law referred to in
+clause (i) or of any fiscal, monetary or other authority or central bank having
+jurisdiction over the Issuer or Indemnified Party.
+
+         "Repayment Amount": With respect to any Letter of credit, the sum
+(without duplication) of the principal amount of drawings under such Letter of
+Credit (or cash collateral therefor, as applicable) and interest on such
+drawings and other amounts owing to the Issuer hereunder.
+
+         "S&P": Standard & Poor's Ratings Group, and any successor thereto.
+
+         "Scheduled Expiry Date": The meaning specified in Section 2.01(a).
+
+         "Series": An FSA Series and/or a Designated Series, as the context may
+require
+
+         "Series Transaction Documents": With respect to any Series, the pooling
+and servicing agreement (or equivalent document by any other name), sale and
+servicing agreement, indenture, insurance and indemnity agreement, and
+supplement to the Spread Account Agreement.
+
+         "SPE": The meaning specified in Section 2.02(f).
+
+         "SPE Loan": The meaning specified in Section 2.02(f).
+
+         "Spread Account": When used in the singular, any of and when used in
+the plural, a11 of the spread accounts established with respect to an FSA
+Series.
+
+         "Spread Account Agreement": That certain Spread Account Agreement,
+dated as of May 11, 1998, among AFS Funding, FSA, Lasalle National Bank, Harris
+Trust and Savings Bank and Bank One, N.A., as amended, restated, modified or
+supplemented from time to time.
+
+         "Spread Account Depositor": AFS Funding Trust, a Delaware business
+trust.
+
+                                        9
+
+<PAGE>
+
+         "Spread Account Replacement Reinsurance": (a) Any policy of reinsurance
+issued by a third party insurance company for the benefit of FSA (i) which
+permits the amount of the initial deposit to a Spread Account to be less than
+that which would have otherwise been required by FSA in connection with the
+issuance of the related FSA Series in the absence of such policy or (ii) which
+is in the form of recourse reduction reinsurance (i.e., substitution of
+reinsurance for cash currently on deposit in one or more spread accounts for any
+FSA Series of Notes) that has terms (other than pricing terms) substantially the
+same as the recourse reduction reinsurance in force on the date of this
+Agreement or (b) any letter of credit, cash-collateralized loan or similar
+instrument obtained for the purpose described in clause (i) above and approved
+in writing for such purpose by FSA.
+
+         "Spread Account Shortfall": The meaning specified in the Spread Account
+Agreement.
+
+         "Standard Termination Date": The meaning specified in Section 202 (g).
+
+         "Subsequent Reinsurance": With respect to any Letter of Credit, any
+Spread Account Replacement Reinsurance if such Spread Account Replacement
+Reinsurance has an effective date after the closing date of the applicable FSA
+Series without giving effect to any termination, cancellation or reduction
+(except pursuant to Section 2.02(b)(iv) by FSA of such Spread Account
+Replacement Reinsurance or to any default by any insurer in respect of its
+obligations with respect to any such Spread Account Replacement Reinsurance.
+
+         "Subsidiary": As to a Person, another Person, a majority of the
+outstanding voting stock of which is owned, directly or indirectly, by such
+Person or by one or more other Subsidiaries of such Person. For the purposes of
+this definition, "voting stock" of a Person means shares, interests,
+participations or other equivalents (however designated) of such Person's equity
+having voting power for the election of directors, managers or other voting
+members of the governing body of such Person.
+
+         "Swap Transaction": (i) Any rate, basis, commodity, currency, debt or
+equity swap; (ii) any cap, collar or floor agreement; (iii) any rate, basis,
+commodity, currency, debt or equity futures or forward agreement; (iv) any rate,
+basis, commodity, currency, debt or equity option representing an obligation to
+buy or sell a security, commodity, currency, debt or equity; and (v) any other
+similar agreement.
+
+         "Taxes": The meaning specified in Section 2.07(a).
+
+         "Transaction Documents": This Agreement and all notes, security
+agreements, instruments, documents and other agreements (including UCC financing
+statements) heretofore, now or hereafter executed and/or delivered by or on
+behalf of the Borrowers in connection with this Agreement, in each case, as the
+same may be amended, supplemented or otherwise modified.
+
+         "Trigger Event": With respect to an FSA Series, the meaning specified
+in the applicable Series Transaction Documents.
+
+         "Trust Agreement": The Amended and Restated Trust Agreement, dated as
+of October 19, 1999, between AFS Funding and Bankers Trust (Delaware), as owner
+trustee, as the same may be amended, supplemented or otherwise modified from
+time to time.
+
+                                       10
+
+<PAGE>
+
+      "2000-D Scheduled Expiry Date": The meaning specified in Section 2,01(a).
+
+      "2001-B Scheduled Expiry Date": The meaning specified in Section 2.01(a).
+
+      "2001-D Scheduled Expiry Date": The meaning specified in Section 2.01(a).
+
+      "Underlying Transactions": With respect to any FSA Series, all
+transactions anticipated by the Series Transaction Documents for such FSA
+Series.
+
+      "Underlying Trust": In the singular any of the trusts established in
+connection with the Underlying Transactions and in the plural, all of such
+trusts.
+
+      "Underlying Trustees": The trustees, trust collateral agents or collateral
+agents, in the Underlying Transactions and any other trustee designated with
+respect to the Underlying Transactions.
+
+      "Uniform Commercial Code": The Uniform Commercial Code as in effect in
+each relevant jurisdiction.
+
+      "United States" and "U.S.": The United States of America
+
+      "U.S. Government Securities": Securities that are direct obligations of,
+and obligations the timely payment of principal and interest on which is fully
+Guaranteed by, the United States of America or any agency or instrumentality of
+the United States of America the obligations of which are backed by the full
+faith and credit of the United States of America and in the form of conventional
+bills, bonds and notes. In no event shall U.S. Government Securities include:
+(i) any security providing for the payment of interest only; (ii) any Swap
+Transaction; or (iii) any obligation on which all or any portion of the payments
+thereunder are based, directly or indirectly, on any Swap Transaction.
+
+                                       11
+
+</TEXT>
+</DOCUMENT>

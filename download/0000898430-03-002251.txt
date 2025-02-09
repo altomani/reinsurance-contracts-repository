@@ -1,0 +1,1620 @@
+<DOCUMENT>
+<TYPE>EX-10.70
+<SEQUENCE>12
+<FILENAME>dex1070.txt
+<DESCRIPTION>QUOTA SHARE RETROCESSION CONTRACT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.70
+
+                        QUOTA SHARE RETROCESSION CONTRACT
+
+                                    issued to
+
+                             SCPIE INDEMNITY COMPANY
+                 (an insurance company registered in California
+               whose address is 1888 Century Park East, Suite 800,
+                      Los Angeles, California, 90067-1712)
+
+                      AMERICAN HEALTHCARE INDEMNITY COMPANY
+          (an insurance company registered in Delaware whose address is
+                       1888 Century Park East, Suite 800,
+                      Los Angeles, California, 90067-1712)
+
+                                       and
+
+                 AMERICAN HEALTHCARE SPECIALTY INSURANCE COMPANY
+          (an insurance company registered in Arkansas whose address is
+                       1888 Century Park East, Suite 800,
+                      Los Angeles, California, 90067-1712)
+
+                          (collectively, the "Company")
+
+                                       by
+
+                           GOSHAWK REINSURANCE LIMITED
+                    31 Church Street, Hamilton, Bermuda HM12
+                                (the "Reinsurer")
+
+                                    ARTICLE 1
+
+DEFINITIONS AND INTERPRETATION
+
+A.   In this agreement the following words and expression shall have the
+     following meanings unless the context requires otherwise:
+
+     "Business Day" means a day (excluding Saturdays and Sundays) on which
+     commercial banks generally are open in Los Angeles, California for the
+     transaction of normal banking business;
+
+     "Claim" means a claim made by or on behalf of the Insured against the
+     Company pursuant to a Contract;
+
+     "Contracts" means the contracts of reinsurance details of which are set out
+     at schedule 1 excluding those contracts cancelled by the operation of
+     paragraph D of Article 10 (Warranties, Exclusions of Contracts and
+     Undertakings) and "Contract" means any or all of them as the context
+     requires excluding, for the avoidance of doubt, any rewrites or additions
+     beyond the current expiration dates of the Contracts;
+
+     "Contract Attachment Date" means, with respect to each Contract, the date
+     identified in the column entitled "Contract Attachment Date" on schedule 1;
+
+     "Effective Date" means June 30, 2002;
+
+                                      -1-
+
+<PAGE>
+
+     "Estimated Percentage" means with respect to a Contract the percentage
+     identified on schedule 1 under the column "Estimated Goshawk Percentage
+     Share of Losses";
+
+     "Execution Date" means the date of this agreement;
+
+     "Guarantee" means the guarantee in the agreed terms to be given on the
+     Execution Date by SCPIE Holdings Inc. in favour of the Reinsurer;
+
+     "Insured" means the party (or parties) insured by the Company pursuant to a
+     Contract;
+
+     "Loss" means the total amount required to be paid by the Company pursuant
+     to a Contract as a result of an individual Claim;
+
+     "Loss Date" means in respect of a Loss the date on which that Loss was
+     suffered by the Insured;
+
+     "Opinion of Counsel" means an opinion of counsel addressed to the Reinsurer
+     in the agreed terms, in relation to each entity comprising the Company and
+     in relation to SCPIE Holdings Inc. opining on the good standing of each
+     such entity as at the Execution Date;
+
+     "Representative" means the person appointed pursuant to Article 18 (Company
+     Representative);
+
+     "Security Fund Agreement" means the agreement in the agreed terms referred
+     to in Article 7.D to be entered into on the Execution Date by the Parties
+     and a qualified custodian as defined by section 1104.9 of the California
+     Insurance Code;
+
+     "Transitional Services Agreement" means the agreement in the agreed terms
+     relating to certain transitional services to be provided to the Reinsurer,
+     to be entered into on the Execution Date by the Reinsurer and SCPIE
+     Holdings Inc;
+
+     "Trust Account" means the account with HSBC (being a qualified United
+     States financial institution as defined by section 922.7 of the Californian
+     Insurance Code) set up pursuant to the Trust Agreement;
+
+     "Trust Agreement" means the agreement (governed by and subject to the
+     insurance laws of the State of California) in the agreed terms to be
+     entered into by the Parties and HSBC on the Execution Date; and
+
+     "Warranties" means the warranties set out in schedule 3.
+
+B.   In this agreement unless specified, reference to:
+
+(a)  "Company" means SCPIE Indemnity Company, American Healthcare Indemnity
+     Company and American Healthcare Specialty Insurance Company all of them and
+     each of them as the context admits;
+
+(b)  a document in the "agreed terms" is a reference to that document in the
+     form approved and for the purposes of identification signed by or on behalf
+     of each of the Reinsurer and the Company;
+
+(c)  "Party" means a Party to this agreement and includes its permitted
+     assignees and/or the successors in title to substantially the whole of its
+     undertaking;
+
+                                      -2-
+
+<PAGE>
+
+(d)  Articles, paragraphs or schedules are to Articles, paragraphs of Articles
+     and schedules to this agreement. The schedules form part of the operative
+     provisions of this agreement and references to this agreement shall, unless
+     the context otherwise requires, include references to the recitals and the
+     schedules;
+
+(e)  the time of day is reference to time in Los Angeles, California;
+
+(f)  "month" means a calendar month;
+
+(g)  words denoting the singular shall, except where the context otherwise
+     requires, include the plural and vice versa;
+
+(h)  the headings in this agreement are for information only and shall be
+     ignored in construing the same; and
+
+(i)  "including" means including without limitation.
+
+                                    ARTICLE 2
+
+BUSINESS COVERED
+
+A.   Subject to the limitations and terms and conditions set out herein, the
+     Company agrees to cede and the Reinsurer agrees to accept a 100% quota
+     share of the Contracts on the basis that the Reinsurer shall indemnify the
+     Company, pursuant to the terms and conditions of this agreement (including
+     the adjustment provisions of Articles 10.B and 10.C), in respect of Losses
+     except that:
+
+     1.  the Reinsurer shall not be liable for a Loss in relation to which the
+         Loss Date, as reported to the Company by the Insured or otherwise
+         determined pursuant to this Article 2, occurred on or before the
+         relevant Contract Attachment Date except to the extent provided at
+         paragraph A.2 of this Article;
+
+     2.  if no Loss Date has been reported to the Company by the Insured or
+         otherwise determined pursuant to this Article 2, the Reinsurer shall be
+         liable for its proportionate share of that Loss, such proportion being
+         the Estimated Percentage in relation to the relevant Contract subject
+         to adjustment pursuant to paragraph E of this Article.
+
+B.   If:
+
+     1.  no Loss Date has been reported to the Company by the Insured(s) in
+         respect of:
+
+         (a) a Loss exceeding US$250,000; and/or
+
+         (b) Losses arising under one or more Contracts attributable to the same
+             event which in aggregate exceed US$250,000; and/or
+
+     2.  either the Company or the Reinsurer becomes aware (whether through the
+         media or otherwise) of accident(s), casualty(ies), disaster(s) or loss
+         occurrence(s) (major industry or otherwise) that have the potential to
+         affect a Contract or Contracts and give rise to Losses hereunder in
+         excess of US$250,000;
+
+                                      -3-
+
+<PAGE>
+
+     then the Company and the Reinsurer (who shall notify each other in respect
+     of their awareness of potential for Losses described under paragraph B.2 of
+     this Article) shall use their respective commercially reasonable best
+     efforts to ascertain if the relevant Loss Date(s) for such Loss(es)
+     occurred on or before the relevant Contract Attachment Date or after the
+     relevant Contract Attachment Date.
+
+C.   If a Party considers at any time that a Loss Date (reported by an Insured
+     or determined under paragraph B or otherwise) is incorrect then:
+
+     1.  it may notify the other Party in writing and shall set out at the same
+         time its reasons in full for such disagreement specifying the date (so
+         far as it is aware) which it considers is the Loss Date;
+
+     2.  after the giving of notice under paragraph C.1, the Parties shall use
+         all reasonable endeavours to establish and agree the correct Loss Date;
+
+     3.  if the Parties do not reach agreement under paragraph C.2 within 15
+         days of the giving of notice under paragraph C.1, either Party may
+         elect for the correct Loss Date to be determined by KPMG or if KPMG is
+         unwilling to act, such independent firm of internationally recognised
+         chartered accountants as KPMG nominates, that is willing to act. Any
+         such firm (including KPMG) shall act as an expert in making any such
+         determination which shall be final and binding on the Parties (in the
+         absence of manifest error). The cost of the firm shall be borne by the
+         Parties equally.
+
+D.   If the Loss Date is subsequently determined to be different to a Loss Date
+     applied pursuant to paragraph A.1 in respect of a Loss or if the Parties
+     believed that a Loss Date could not be determined and the Loss Date is
+     subsequently reported by an Insured or otherwise determined, the Parties
+     shall calculate the amount payable (if any) under paragraph A.1 using the
+     revised Loss Date (in place, if relevant, of the original Loss Date)
+     setting out such determination in the next report provided pursuant to
+     paragraph A of Article 7 and account to each other in accordance with
+     Article 7 on the basis of the revised Loss Date.
+
+E.   When, in respect of a Contract under which Loss(es) arose for which no Loss
+     Date has been determined (without prejudice to paragraphs C and D of this
+     Article), the ultimate Subject Reinsurance Premium (as defined in Article
+     6) in respect of that Contract ("USRP") and the ultimate total premium
+     ("UTP") received by the Company for that Contract can be finally determined
+     the Estimated Percentage in respect of that Contract shall be substituted
+     by the result of USRP divided by UTP ("Actual Percentage") and the Parties'
+     proportionate share of the Loss(es) recalculated and the result set out in
+     the report provided pursuant to paragraph A of Article 7 and the Parties
+     shall account to each other in accordance with Article 7 on the basis of
+     the recalculated proportionate share of the Loss(es) provided that:
+
+     1.  the first such recalculation shall be stated in the report for the
+         month ended December 31, 2003 and if, in respect of a Contract, the
+         USRP and/or UTP cannot be finally determined by December 31, 2003 the
+         Parties shall calculate as at that date the best estimate for the USRP
+         and UTP and apply the above calculation using such best estimate USRP
+         and UTP as at December 31, 2003 as the USRP and UTP (subject to
+         recalculation at December 31, 2007 pursuant to paragraph E.2) for that
+         Contract; and
+
+     2.  the second and final such recalculation shall be stated in the report
+         for the month ended December 31, 2007 and if, in respect of a Contract,
+         the USRP and UTP cannot be finally determined by December 31, 2007 the
+         Parties shall calculate as at that date the best
+
+                                      -4-
+
+<PAGE>
+
+         estimate for the USRP and UTP and apply the above calculation using
+         such best estimate USRP and UTP as at December 31, 2007 as the final
+         USRP and UTP for that Contract.
+
+     For the purposes of this Article, the USRP for a Contract shall be
+     calculated as (a) written premium from the relevant Contract Attachment
+     Date plus (b) the best estimate, as at the relevant date (being December
+     31, 2003 under paragraph E.1 and December 31, 2007 under paragraph E.2), of
+     any premium for that Contract that has yet to be recognised as written. The
+     UTP for a Contract shall be calculated as (a) its USRP plus (b) the written
+     premium on that Contract prior to and on the relevant Contract Attachment
+     Date.
+
+F.   It is agreed that any adjustment pursuant to the paragraph D and E of this
+     Article shall not bear interest except to the extent such adjustment has
+     not been paid by the relevant Party pursuant to Article 7 on the due date
+     and then interest shall be payable in accordance with Article 7.
+
+                                    ARTICLE 3
+
+TERM
+
+Subject to the terms and conditions of this agreement (including Article 10
+(Warranties, Exclusion of Contracts and Undertakings)) the liability of the
+Reinsurer hereunder shall commence with effect on the Execution Date and cease
+in respect of each Contract, upon the cessation of the liability of the Company
+in respect of that Contract.
+
+                                    ARTICLE 4
+
+EXCLUSIONS
+
+The Reinsurer shall not be liable in respect of any Claim to the extent such
+Claim relates to:
+
+     1.  for the avoidance of doubt (without prejudice to the specific
+         identification of Contracts the subject of this agreement), business
+         classified by the Company as the Highlands Cut-Through, Kover Limited,
+         K2 and K2+ programs and more specifically described as follows (a) the
+         Cut-Through Endorsements issued pursuant to that Cut-Through/Guarantee
+         Endorsement Agreement dated January 1, 2000, between Highlands
+         Insurance Group, Inc. and American Healthcare Indemnity Company; (b)
+         the Rights and Obligations of SCPIE Indemnity Company under Notes
+         issued by Kover Limited pursuant to the terms of a Note Purchase
+         Agreement between Hannover Ruckversicherungs Aktiengesellschaft and
+         Citibank dated February 11, 1994 (and as amended by supplemental
+         agreements dated December 31, 1997 and March 31, 2000); and (c) the
+         Rights and Obligations of SCPIE Indemnity Company under letters of
+         credit issued pursuant to a Master Swap Agreement dated as of November
+         22, 1996 between SCPIE Indemnity Company and Citibank, N.A. and an
+         Amendment No. 1 to such Master Swap Agreement dated as of July 1, 1998
+         (K-2), and an Amendment date July 2001 (K-2+); and
+
+     2.  the World Trade Center and associated events of September 11, 2001.
+
+                                      -5-
+
+<PAGE>
+
+                                    ARTICLE 5
+
+NOTIFICATION, CO-OPERATION, EXPENSES AND RECOVERIES
+
+A.   Notwithstanding anything contained in this agreement to the contrary, it is
+     a condition precedent to any liability of the Reinsurer under this
+     agreement that:
+
+     1.  the Company shall inform the Reinsurer in writing of any fact, matter,
+         event or circumstance which comes to its notice whereby it appears to
+         the Company that payment is or may be required to be made in relation
+         to a Contract, such information to be given promptly and in any event
+         with five (5) Business Days of it coming to the attention of the
+         Company;
+
+     2.  the Company shall co-operate with the Reinsurer (and its appointed
+         representatives) in the investigation and assessment of any Loss and/or
+         circumstances giving rise to a Claim and keep the Reinsurer fully
+         informed of all material developments in relation thereto; and
+
+     3.  the Company shall do and procure the following to the extent requested
+         by the Reinsurer:
+
+     (a) consult with the Reinsurer in respect of all developments, actions, and
+         decisions of the Company in respect of any Claim, suit or proceeding
+         involving this reinsurance; and/or
+
+     (b) afford the Reinsurer the opportunity to be associated with the Company,
+         at the sole expense of the Reinsurer, in the defence or control of any
+         Claim, suit or proceeding involving this reinsurance, and the Company
+         and the Reinsurer shall co-operate in every respect in the defence of
+         such Claim, suit or proceeding; and/or
+
+     (c) consult with the Reinsurer as concerns the defence or control of any
+         Claim, suit or proceeding involving this reinsurance so that the
+         Company shall promptly and diligently take all such action as the
+         Reinsurer may reasonably request including the institution of
+         proceedings and the instructing of professional advisers approved by
+         the Reinsurer to act on behalf of the Company to avoid, dispute,
+         resist, compromise, defend or appeal against any Claim, suit or
+         proceeding involving this reinsurance.
+
+B.   The Reinsurer will pay any extraordinary external claims expenses incurred
+     by the Company in connection with the investigation and settlement of
+     Claims (except to the extent such Claims are excluded pursuant to this
+     agreement) and to pursuing and obtaining recoveries referred to at
+     paragraph C of this Article, provided and to the extent the Reinsurer has
+     consented in writing prior to such expenses being incurred.
+
+C.   It is hereby agreed that:
+
+     1.  the Reinsurer will receive and benefit from all recoveries relating to
+         the Contracts, whether or not through subrogation, in respect of all
+         Losses attaching thereto which the Reinsurer is required to pay
+         pursuant to this agreement;
+
+     2.  the Company shall:
+
+         (a) inform the Reinsurer in writing of any fact, matter, event or
+             circumstance which comes to its notice whereby it appears to the
+             Company that recovery may be made in relation to which the
+             Reinsurer is or may be entitled to benefit under paragraph C1 of
+             this Article;
+
+                                      -6-
+
+<PAGE>
+
+         (b) thereafter keep the Reinsurer fully informed of all material
+             developments in relation thereto to use all reasonable endeavours
+             to obtain such recovery;
+
+         (c) not settle or compromise such recovery without the prior written
+             consent of the Reinsurer; and
+
+         (d) promptly and diligently take all such action as the Reinsurer may
+             reasonably request in relation thereto including the institution of
+             proceedings and instruction of professional advisers (subject to
+             paragraph B of this Article).
+
+D.   This agreement shall protect the Company against liability for any Extra
+     Contractual Obligations. "Extra Contractual Obligations" are defined as
+     those liabilities of the Company to an Insured with respect to a Contract
+     with that Insured arising as a result of an order by a court or a binding
+     arbitrator that are not covered under any other provision of this agreement
+     and which arise from the handling of any Claim (to the extent such Claim is
+     not excluded under this agreement), such liabilities being as a result of,
+     but not limited to, the following: failure by the Company to settle within
+     the policy limit, or by reason of alleged or actual negligence, fraud
+     (subject expressly to the proviso below) or bad faith in rejecting an offer
+     of settlement or in the preparation of the defence or in the trial of any
+     action against the Insured or in the preparation or prosecution of an
+     appeal consequent upon such action. The date on which an Extra Contractual
+     Obligation is incurred by the Company shall be deemed, in all
+     circumstances, to be the date of the original accident, casualty, disaster
+     or loss occurrence and shall be regarded as a Loss for the purposes of this
+     agreement. However, this clause shall not apply where the loss has been
+     incurred due to the fraud of a member of the board of directors or a
+     corporate officer of the Company acting individually or collectively on in
+     collusion with any individual or corporation or any other organisation or
+     party involved in the presentation, defence or settlement of any Claim
+     covered hereunder.
+
+                                    ARTICLE 6
+
+PREMIUM AND OVERRIDE COMMISSION
+
+A.   In consideration for the assumption of its liabilities hereunder, the
+     Company shall pay to the Reinsurer (the first such payment and subsequent
+     payments being determined in accordance with Article 7 (Remittances)) an
+     aggregate premium calculated as follows:
+
+     1.  all of the unearned premium as of the relevant Contract Attachment Date
+         for each Contract collected by the Company pursuant to the Contracts
+         and all of the written premium collected by the Company pursuant to the
+         Contracts following the relevant Contract Attachment Date for each
+         Contract less return premiums ("Subject Reinsurance Premium"); plus
+
+     2.  an amount equal to 14.343% of the Subject Reinsurance Premium
+         ("Additional Premium");
+
+     in aggregate the "Reinsurer's Premium Income" but subject to deduction and
+     retention under paragraph B of this Article.
+
+B.   The payment under paragraph A.1 shall be subject to retention by the
+     Company out of such Reinsurer's Premium Income of:
+
+                                      -7-
+
+<PAGE>
+
+     1.  the Company's third party acquisition costs relating to the Contracts
+         comprising its broker commissions and Lloyd's costs; and
+
+     2.  an override commission equal to 1.5% of the Reinsurer's Premium Income
+         less amounts deducted under paragraph B.1 of this Article until the
+         earlier to occur of (a) 30 June 2003 and (b) both James Phair and
+         Timothy Rivers ceasing to be employed by SCPIE Management Company; on
+         which date the foregoing percentage of 1.5% shall reduce to 0.75%.
+
+C.   In addition as further consideration for the assumption of the Reinsurer's
+     liabilities hereunder, any recoveries made by the Company with respect to
+     the industry loss warranty policy relating to the Company's 2002
+     underwriting year with respect to a Contract on or after the relevant
+     Contract Attachment Date shall inure to the benefit of the Reinsurer on a
+     one hundred per cent basis (100%) and, at the Reinsurer's option, the
+     Reinsurer may require and the Company shall use its commercially reasonable
+     best efforts to procure, the novation (for consideration payable by the
+     Reinsurer of not more than US$1) to the Reinsurer of the rights,
+     obligations and benefits of the Company under such industry loss warranty
+     policy provided that the Reinsurer shall ensure that to the extent any
+     recoveries pursuant to such novated industry loss warranty policy relate to
+     contracts or claims for which the Reinsurer is not liable pursuant to this
+     agreement, such recoveries shall inure to the benefit of the Company.
+
+                                    ARTICLE 7
+
+REMITTANCES
+
+A.   By no later than 23 December 2002 and thereafter within 15 days following
+     the end of each month, the Company shall provide to the Reinsurer a report
+     summarising in respect of that ended month (and, for the first report, in
+     respect of the longer period from the Effective Date to November 30, 2002):
+
+     1.  the Subject Reinsurance Premium collected ("Collected Subject
+         Reinsurance Premium") which shall include any Subject Reinsurance
+         Premium that is due to be paid to the Company but withheld as a result
+         of security arrangements, to the extent such withheld premium is not
+         treated as an asset of the Company which reduces the Reinsurer's
+         Obligations (defined below at paragraph E) and therefore the value of
+         the Trust Account required to be funded by the Reinsurer pursuant to
+         paragraph E of this Article);
+
+     2.  the Subject Reinsurance Premium due but not collected other than by
+         reason of being withheld as a result of security arrangements (which
+         shall be subject to paragraph F of this Article);
+
+     3.  the amounts provided for in Article 6.B;
+
+     4.  Losses paid (to the extent the Reinsurer is liable for such Losses
+         hereunder);
+
+     5.  subrogation, salvage, or other recoveries to the extent due to the
+         Reinsurer hereunder; and
+
+     6.  adjustments due pursuant to paragraphs D and E of Article 2; and
+
+     7.  the balances due to either Party pursuant to this agreement, payable in
+         accordance with paragraph B of this Article ("Net Balance").
+
+                                      -8-
+
+<PAGE>
+
+     Provided that, in respect of the first report (provided by no later than 23
+     December 2002), the Collected Subject Reinsurance Premium shall comprise
+     the collected Subject Reinsurance Premium as reflected on the Company's
+     books as at September 30, 2002 plus the Company's best estimate of the
+     collected Subject Reinsurance Premium for the period from and including
+     October 1, 2002 to and including November 30, 2002. The reports following
+     that first report shall state (as such information becomes available on the
+     basis of the Company's usual and proper accounting and reporting practices)
+     the actual Collected Subject Reinsurance Premium for that period and take
+     into account the necessary adjustment (if any) in the balances due to
+     either Party with, for the avoidance of doubt, the intention that the
+     Company shall use its best efforts to ensure that its books and records and
+     thus the reports provided pursuant to this Paragraph A reflect the correct
+     position as soon as practicable.
+
+B.   Payment of the Net Balance shall be made in a currency determined in
+     accordance with Article 14 (Currency) in accordance with the following
+     provisions:
+
+     1.  payment in respect of the period following the Effective Date to
+         November 30, 2002 shall be made by the Company on or before December
+         31, 2002;
+
+     2.  thereafter, payment shall be made monthly within 5 Business Days after
+         the presentation to the Reinsurer of the report pursuant to paragraph A
+         of this Article 7 (but, in any event, to the extent the Net Balance is
+         payable to the Reinsurer or to the Trust Account, payment by the
+         Company shall be due no later than 15 days plus 5 Business Days after
+         the end of each month);
+
+     3.  if the Net Balance is owed to the Reinsurer, payment shall be made by
+         the Company by deposit into the Trust Account on and subject to the
+         terms of the Trust Agreement;
+
+     4.  if the Net Balance is owed to the Company, payment shall be made by the
+         Company withdrawing such Net Balance due to it from the Trust Account
+         (such withdrawal being made within the time limit at paragraph B.2 of
+         this Article).
+
+C.   The Company shall pay the Additional Premium due on the Collected Subject
+     Reinsurance Premium specified under paragraph A.1 of this Article to the
+     Reinsurer directly on a monthly basis within 5 Business Days after the
+     presentation to the Reinsurer of the report pursuant to paragraph A of this
+     Article (but in any event no later than 15 days plus 5 Business Days after
+     the end of each month).
+
+D.   The Company shall at all times maintain, at its option, either a letter of
+     credit (rated AA or better) or cash collateral pursuant to the Security
+     Fund Agreement to secure the payment of the Additional Premium payable
+     during the term of this agreement to the extent such amount remains unpaid.
+
+E.   Within 15 days following the end of each calendar quarter, the Company
+     shall furnish the Reinsurer with a report of the Reinsurer's Obligations
+     (defined below). To the extent that the assets in the Trust Account (as
+     shown by the report) are more than one hundred and two per cent. (102%) of
+     the Reinsurer's Obligations, the Company shall pay to the Reinsurer from
+     assets in the Trust Account within 5 Business Days following the
+     presentation of the report to the Reinsurer an amount that results in the
+     total remaining assets in the Trust Account being equal to one hundred and
+     two per cent. (102%) of the Reinsurer's Obligations. To the extent that the
+     assets in the Trust Account (as shown by the report) are less than one
+     hundred and two per cent. (102%) of the Reinsurer's Obligations, the
+     Reinsurer shall deposit assets into the Trust Account within 5 Business
+     Days following the presentation of the report in an amount that results in
+     the total assets
+
+                                      -9-
+
+<PAGE>
+
+     in the Trust Account being equal to one hundred and two per cent. (102%) of
+     the Reinsurer's Obligations.
+
+     For the purposes of this paragraph E and paragraph H.3 only, and no other
+     purpose, the "Reinsurer's Obligations" shall be deemed to be its
+     "Obligations" in accordance with such term as defined in section 8(d)(7)(D)
+     of the California Insurance Department bulletin 97 - 5 as it applies to
+     this agreement being:
+
+     1.  reserves for known outstanding Losses for which the Reinsurer is liable
+         hereunder that have been reported to the Reinsurer including amounts
+         relating thereto for which it is liable pursuant to Article 5;
+
+     2.  Losses and amounts under Article 5 for which the Reinsurer is liable
+         hereunder, paid by the Company but not recovered from the Reinsurer;
+
+     3.  reserves for Losses incurred but not reported and loss adjustment
+         expense relating thereto to the extent to which the Reinsurer would be
+         liable hereunder; and
+
+     4.  reserves for unearned Subject Reinsurance Premiums.
+
+     provided, however, such amount shall be reduced by the amount of any
+     admitted, non-investable assets that are carried on the books of the
+     Company with respect to the Subject Reinsurance Premium, which reduction,
+     for the avoidance of doubt, shall include uncollected Subject Reinsurance
+     Premium, and provided that the undertaking of the Company at Article 10.F
+     shall apply.
+
+F.   If an Insured under a Contract defaults in paying the Subject Reinsurance
+     Premium to the Company, the Company shall not be liable to pay that Subject
+     Reinsurance Premium to the Reinsurer unless and to the extent it receives
+     such Subject Reinsurance Premium provided that the Company shall, and
+     hereby undertakes to, use its commercially reasonable best efforts to
+     obtain payment of such Subject Reinsurance Premium and consult with the
+     Reinsurer in the same manner as specified at Article 5.A (which for the
+     avoidance of doubt shall apply on the same basis as applies to a "Claim"
+     under that Article 5.A).
+
+G.   The Reinsurer and the Company agree that the Trust Agreement shall include
+     the following provisions:
+
+     1.  all of the assets deposited in the Trust Account shall be valued
+         according to their current fair market value and shall consist solely
+         of cash in United States dollars, certificates of deposit issued by a
+         United States bank and payable in United States dollars, and
+         investments permitted by section 922.5(a)(2) of the California
+         Insurance Code or any combination of the above;
+
+     2.  investments in or issued by an entity controlling, controlled by or
+         under common control with either the Company or the Reinsurer shall not
+         exceed five per cent (5%) of total investments deposited in the Trust
+         Account;
+
+     3.  while such assets are held in the Trust Account, the Reinsurer shall be
+         credited with the investment income earned with respect to such assets.
+
+     The Reinsurer and the Company further agree that the Company shall not
+     terminate any asset management agreement from time to time applicable to
+     the Trust Agreement or to the whole
+
+                                      -10-
+
+<PAGE>
+
+         or any part of the Trust Account save after the Company shall have
+         given the Reinsurer prior notice of the Company's intention to
+         terminate the same and a reasonable opportunity to consult with and
+         make representations to the Company.
+
+H.       The Reinsurer and the Company hereby agree that the assets in the Trust
+         Account may be drawn upon at any time, notwithstanding any other
+         provision of this agreement, and be used by the Company or any
+         successor by operation of law of the Company (including, without
+         limitation, any liquidator, rehabilitator, receiver or conservator of
+         the Company) for the following purposes, unless otherwise provided by
+         the Trust Agreement:
+
+         1.     to pay or reimburse the Company for payment due from the
+                Reinsurer pursuant to this agreement which has not been
+                otherwise paid or for unearned Subject Reinsurance Premiums
+                received into the Trust Account that are due to be repaid by the
+                Company as return premium which have not otherwise been repaid
+                by the Reinsurer; and
+
+         2.     to refund to the Reinsurer any sum pursuant to paragraphs E and
+                I of this Article; and
+
+         3.     where the Company has received notification of termination of
+                the Trust Account and where any of the Reinsurer's Obligations
+                under this agreement remain unliquidated and undischarged ten
+                (10) days prior to the termination date, to withdraw amounts
+                equal to such Reinsurer's Obligations, to the extent that such
+                Reinsurer's Obligations have not yet been funded by the
+                Reinsurer, and deposit those amounts in a separate account, in
+                the name of the Company in any qualified United States financial
+                institution as defined by California Insurance Code 922.7
+                specified by the Reinsurer (or, in the absence of specification
+                by the Reinsurer, an institution of similar financial and
+                reputational standing as HSBC chosen by the Company) apart from
+                its general assets, in trust on identical terms (save as varied
+                by agreement between the Parties) to the Trust Agreement and the
+                Trust Account for such uses and purposes specified in paragraphs
+                H.1 and H.2 of this Article as may remain executory after
+                withdrawal and for any period after the termination date;
+
+         provided that the Company hereby agrees and undertakes that if the
+         amount withdrawn by the Company is in excess of the actual amount
+         permitted to be drawn by the Company pursuant to paragraph G.1 of the
+         Article, without limiting any other rights and remedies of the
+         Reinsurer, the Company shall immediately inform the Reinsurer in
+         writing of such excess withdrawal and immediately return to the Trust
+         Account the excess amount so withdrawn together with interest accrued
+         at a rate of four per cent. (4%) above dollar LIBOR accruing daily from
+         and including the date of the withdrawal to and excluding the actual
+         date of repayment.
+
+         All of the foregoing shall be applied without diminution in value
+         because of the insolvency on the part of the Company or the Reinsurer.
+
+I.       Notwithstanding the foregoing on or after January 1, 2005 with respect
+         to any liabilities for which the Company is able to obtain reinsurance
+         credit in connection with its statutory financial statements in
+         California and each other jurisdiction in which the Company is admitted
+         to transact business without the security provided by the
+         above-referenced Trust Account, the assets held in the Trust Account in
+         reference to such liabilities and any related investment income thereon
+         shall be immediately released to the Reinsurer subject to applicable
+         law and thereafter for the avoidance of doubt payment pursuant to
+         paragraph B.3 in respect of Subject Reinsurance Premium related to such
+         liabilities shall be made directly by the Company to the Reinsurer and
+         payment pursuant to paragraph B.4 in respect of Losses related to such
+         liabilities shall be made directly by the Reinsurer to the Company.
+
+                                      -11-
+
+<PAGE>
+
+J.       If a Party fails to pay to the other Party any amount under this
+         Article on the due date, without prejudice to any other rights and
+         remedies of such Party, it is hereby agreed such overdue amount shall
+         bear interest at a rate of four per cent. (4%) above dollar LIBOR
+         accruing daily from and including the due date for payment to and
+         excluding the actual date of payment.
+
+K.       Each party (at its own cost) shall provide the other with such other
+         information as may be reasonably required by such part for completion
+         of its annual statements and any other financial or regulatory filings.
+
+                                    ARTICLE 8
+
+COMPANY'S COMMISSION
+
+A. In this Article:
+
+         1.     "Net Ultimate Combined Ratio" means (i) the aggregate ultimate
+                incurred Loss plus aggregate amounts retained by the Company
+                under paragraph B of Article 6 divided by (ii) the Aggregate
+                Subject Reinsurance Premium.
+
+         2.     "Aggregate Subject Reinsurance Premium" means the ultimate
+                aggregate Subject Reinsurance Premium received by the Company
+                less, for the avoidance of doubt, return premiums.
+
+B.       If the Net Ultimate Combined Ratio is equal to or less than 1.00 the
+         Reinsurer shall pay to the Company an amount equal to:
+
+         0.5 x Aggregate Subject Reinsurance Premium x (1.00 - Net Ultimate
+         Combined Ratio)
+
+         the result being the "Commission".
+
+C.       Until the Commission can be finally determined, the Company shall be
+         entitled to receive payment on account in respect of its Commission
+         (subject to adjustment) as follows:
+
+         1.     Within one month following June 30, 2007, the Company shall
+                provide to the Reinsurer a report calculating the estimated
+                Commission and for this purpose the Net Ultimate Combined Ratio
+                shall be calculated on the basis of the aggregate paid or
+                payable Losses, case reserves and IBNR reserves (calculated on a
+                basis consistent with the then current accounting and actuarial
+                policies of the Company) to and including June 30, 2007.
+
+         2.     The Reinsurer shall pay to the Company within 30 days of receipt
+                by the Reinsurer of the report an on account amount (if any)
+                equal to the estimated Commission calculated under paragraph 1
+                above.
+
+         3.     Within 30 days of each anniversary of 30 June, 2007 thereafter
+                the Company shall provide to the Reinsurer a report prepared in
+                accordance with the provisions at paragraph 1 above up to and
+                including the date of the relevant anniversary date adjusting as
+                necessary the estimated Commission.
+
+         4.     Within 30 days of the date of receipt by the Reinsurer of the
+                report the Reinsurer shall pay to the Company or, as applicable,
+                the Company shall repay to the Reinsurer such amount as is
+                required to ensure that the Company has received on account
+                estimated Commission calculated pursuant to the most recent
+                report.
+
+                                      -12-
+
+<PAGE>
+
+         5.     When the Net Ultimate Combined Ratio and Aggregate Subject
+                Reinsurance Premium can be finally determined, the Company shall
+                as soon as practicable thereafter prepare a final report setting
+                out the amount of the Commission and the Reinsurer shall pay to
+                the Company or, as applicable, the Company shall repay to the
+                Reinsurer such amount as is required to ensure that the Company
+                has received pursuant to this Article 8 an amount equal to the
+                Commission as finally determined.
+
+         6.     The Reinsurer may notify the Company, no later than 20 days
+                following receipt of a report pursuant to paragraph C of this
+                Article, if it disagrees with that report and shall at the same
+                time set out in writing its reasons in full for such
+                disagreement and specify the adjustments which, in its opinion,
+                should be made to the Commission figure specified in the report
+                in order to comply with the requirements of this agreement.
+                Thereafter the Company and the Reinsurer shall use all
+                reasonable endeavours to meet and discuss the objections of the
+                Reinsurer and to reach agreement upon the adjustments (if any)
+                required to be made to the Commission figure specified in the
+                report. If the Company and the Reinsurer do not reach agreement
+                within a further 20 days of the notice from the Reinsurer, the
+                Reinsurer may elect for the report to be audited (and the
+                Commission figure adjusted to reflect the audited figures in the
+                report) by KPMG or, if KPMG is unwilling to act, such
+                independent firm of internationally recognised chartered
+                accountants as KPMG nominates, that is willing to act. Any such
+                firm (including KPMG) shall act as an expert in making any such
+                determination which shall be final and binding on the parties
+                (in the absence of manifest error). The costs of the firm shall
+                be borne by the Reinsurer as a result of the audit except that
+                the Company shall bear those costs if the Commission amount is
+                adjusted by 15% or more from the amount originally specified by
+                the Company in the report.
+
+         7.     For the avoidance of doubt, to the extent the Company shall be
+                required pursuant to paragraphs C.4 and/or C.5 of this Article
+                to repay to the Reinsurer amounts received on account of its
+                Commission, such repayment shall not exceed the aggregate amount
+                of Commission received by the Company pursuant to this Article.
+
+                                    ARTICLE 9
+
+REPORTS
+
+The Company shall provide to the Reinsurer within 15 days of the end of each
+month, a report in the format, and containing such information specified, as set
+out at schedule 2. The parties agree and acknowledge that the content of the
+report may be amended from time to time by mutual consent, which consent shall
+not be unreasonably withheld.
+
+                                   ARTICLE 10
+
+WARRANTIES, EXCLUSION OF CONTRACTS AND UNDERTAKINGS
+
+A.       The Company hereby represents and warrants to the Reinsurer in the
+         terms of the Warranties. The Company's representations and warranty in
+         respect of each of the Warranties at paragraphs 1 and 3 to 7 of
+         schedule 3 shall be deemed to be repeated continually throughout the
+         term of this agreement. The Company undertakes to the Reinsurer that it
+         will disclose forthwith in writing to the Reinsurer any matter which
+         becomes known to it which is inconsistent with any of the Warranties.
+         Without restricting the rights of the Reinsurer or the ability of the
+         Reinsurer to claim damages on any basis available to it, if the Company
+         is in breach of any of the Warranties or any
+
+                                      -13-
+
+<PAGE>
+
+         other term of this agreement the Company shall pay to the Reinsurer on
+         demand as damages the amount necessary on a full indemnity basis to put
+         the Reinsurer into the position which would have existed if the said
+         Warranties or other term of this agreement had not been breached,
+         together with all costs and expenses incurred by the Reinsurer as a
+         result of such breach.
+
+B.       If the aggregate of the premium amounts under the column at schedule 1
+         headed "Estimate of Premium Before Loading" being US$ 192,068,178, is
+         incorrect such that the actual aggregate premium received or receivable
+         by the Reinsurer hereunder in respect of the Contracts pursuant to
+         Article 6A.1 ("Actual Premium Before Loading") is 10% or more greater
+         than US$ 192,068,178 then the Reinsurer may at any time elect by notice
+         to the Company to cede back to the Company (or not accept) amounts
+         equal to the Excess Percentage (as defined below) of the premium in
+         respect of a Relevant Contract (as defined below) together with a
+         proportion of the Losses for which the Reinsurer is liable hereunder in
+         respect of that Relevant Contract equal to the Excess Percentage, such
+         notice(s) to be given at the Reinsurer's discretion in respect of any
+         or all of the Relevant Contracts.
+
+         For the purpose of this Article 10.B the following shall apply:
+
+         "the Excess Percentage" shall be the amount by which the Actual Premium
+         Before Loading exceeds the "Estimate of Premium Before Loading" stated
+         for each Contract at schedule 1, expressed as a percentage of that
+         "Estimate of Premium Before Loading", minus:
+
+         (a)   15%, in respect of Contracts for which the Estimate of Premium
+               Before Loading is less than US$ 5,000,000;
+
+         (b)   10%, in respect of Contracts for which the Estimate of Premium
+               Before Loading is US$ 5,000,000 or more but less than US$
+               10,000,000;
+
+         (c)   5%, in respect of Contracts for which the Estimate of Premium
+               Before Loading is US$ 10,000,000 or more;
+
+         and each Contract for which the Excess Percentage is greater than zero
+         shall be a "Relevant Contract".
+
+C.       If the premium weighted actual expense ratio for all the Contracts
+         (including the override commission pursuant to Article 6B.2) is 30% or
+         more then the Reinsurer may at any time elect by notice to the Company
+         to cap the expense ratio for which it is liable hereunder in respect of
+         a Contract in the amount of the Capped Expense Ratio (defined below)
+         such notice(s) to be given at the Reinsurer's discretion in respect of
+         any or all of the Contracts.
+
+         For the purpose of this Article 10.C the following shall apply:
+
+         the "Capped Expense Ratio" for each Contract shall be:
+
+         (a)    1.15 multiplied by the relevant estimated expense ratio under
+                the column at schedule 1 headed "Estimated Expense Ratio
+                excluding 1.5%" ("Estimated Expense Ratio"), in respect of
+                Contracts for which the Estimate of Premium Before Loading is
+                less than US5,000,000;
+
+         (b)    1.1 multiplied by the relevant Estimated Expense Ratio in
+                respect of Contracts for which the Estimate for Premium Before
+                Loading is US$5,000,000 or more but less than US$10,000,000;
+
+                                      -14-
+
+<PAGE>
+
+         (c)    1.05 multiplied by the relevant Estimated Expense Ratio in
+                respect of Contracts for which the Estimate of Premium Before
+                Loading is US$10,000,000 or more.
+
+D.       Without prejudice to any other remedies available to the Reinsurer, if
+         the Company (or its conservator, liquidator or statutory successor)
+         fails to pay any amount due to the Reinsurer pursuant to Article 7
+         (whether due directly or to the Trust Account) and fails to remedy such
+         failure within twenty (20) Business Days of the Reinsurer giving notice
+         to the Company (or its conservator, liquidator or statutory successor
+         if relevant) of its intention to exercise its rights under this
+         Article:
+
+         1.     on expiry of such notice each Contract in relation to which the
+                Company has failed to pay an amount due pursuant to Article 7
+                and not rectified such failure within the notice period shall be
+                deemed cancelled as a Contract reinsured by the Reinsurer
+                pursuant to this agreement with effect from the date of the
+                failure by the Company so to pay in respect of that Contract;
+                and
+
+         2.     the Company shall promptly account to the Reinsurer in respect
+                of any Losses paid by the Reinsurer in respect of the period on
+                and following such date of failure (and the Reinsurer shall
+                account to the Company in respect of any amount of Reinsurer's
+                Premium Income received by the Reinsurer (directly or to the
+                Trust Account) to the extent earned or unearned for the period
+                on and following the date of failure).
+
+E.       The Company and the Reinsurer hereby undertake for the duration of this
+         agreement:
+
+         1.     at all times to comply with all laws, rules and regulations
+                applicable to each of them; and
+
+         2.     to notify the other immediately in writing of any material
+                adverse change in any of their respective businesses, assets or
+                condition (financial or otherwise).
+
+F.       The Company hereunder undertakes to the Reinsurer that for the purposes
+         of preparing the statements on Reinsurer's Obligations pursuant to
+         Article 7.D such statements shall be prepared on the same bases and
+         adopting the same reserving practices and using the same reserving
+         principles as such bases, practices and principles have been used by
+         the Company, and reflected in the financial statements of the Company,
+         for the preceding 3 financial years provided that, such bases,
+         practices and principles may be modified to the extent necessary to
+         conform to statutory accounting principles acceptable to the
+         Commissioner of Insurance in the State of California at the time of
+         preparation.
+
+                                   ARTICLE 11
+
+OFFSET
+
+The Reinsurer and the Company may offset any balance or amount due from the
+other Party under this agreement. This provision shall not be affected by the
+insolvency of any Party (including each entity constituting the Company) to this
+agreement.
+
+                                   ARTICLE 12
+
+ORIGINAL CONDITIONS
+
+All reinsurance under this agreement shall be subject to the same rates, terms,
+conditions, waivers and interpretations, and to the same modifications and
+alterations as the respective Contracts excluding
+
+                                      -15-
+
+<PAGE>
+
+modifications and alterations to any Contract after the Execution Date made
+without the prior consent of the Reinsurer.
+
+                                   ARTICLE 13
+
+NO THIRD PARTY RIGHTS
+
+Nothing herein shall in any manner create any obligations or establish any
+rights against the Reinsurer in favour of any third party or any persons not
+parties to this agreement.
+
+                                   ARTICLE 14
+
+CURRENCY
+
+A.       Where the word "Dollars" and/or the sign "$" appear in this agreement,
+         they shall mean United States Dollars.
+
+B.       All accounts under this agreement shall be kept in United States
+         Dollars. For purposes of this agreement and the Contracts, all receipts
+         of Subject Reinsurance Premium and all payments of Losses by the
+         Company in currencies other than United States Dollars shall be
+         converted to United States Dollars at the prevailing rate of exchange
+         on the date of such receipt or payment, as appropriate.
+
+                                   ARTICLE 15
+
+FEDERAL EXCISE TAX
+
+A.       This Article applies if the Reinsurer is not exempt from the Federal
+         Excise Tax.
+
+B.       The Reinsurer has agreed to allow for the purpose of paying the Federal
+         Excise Tax the percentage specified by United States law of the premium
+         payable hereon to the extent such premium is subject to Federal Excise
+         Tax.
+
+C.       In the event of any return of premium becoming due hereunder, the
+         Reinsurer shall deduct the percentage specified by United States law
+         from the amount of the return and the Company or its agent should take
+         steps to recover the Tax from the United States Government.
+
+                                   ARTICLE 16
+
+ACCESS TO RECORDS
+
+A.       The Company shall place at the disposal of the Reinsurer at all
+         reasonable times, and the Reinsurer shall have the right to inspect,
+         through its authorised representatives, (including arranging for an
+         audit) all books, records and papers of the Company in connection with
+         this reinsurance hereunder or the subject matter thereof.
+
+B.       The Reinsurer shall be afforded the opportunity at any time during the
+         term of this agreement, at its own expense to appoint an agent of its
+         own choice to assess the Company's claims procedures who shall report
+         to the Reinsurer the results of such.
+
+                                      -16-
+
+<PAGE>
+
+                                   ARTICLE 17
+
+CONFIDENTIALITY
+
+A.       This agreement and the pre-agreement documentation may contain
+         confidential or proprietary information of either party to this
+         agreement. All Parties shall maintain the confidentiality of this
+         information and shall not disclose these to any third party without the
+         other Party's approval.
+
+B.       Notwithstanding the above, any party may disclose such information
+         without further approval from the other Party in answer to
+         interrogations, subpoenas or other legal/arbitration process as well as
+         to the Company's reinsurance intermediary hereon, the Reinsurer's
+         retrocessionaires or in response to requests by governmental and
+         regulatory agencies. In addition the Parties may disclose such
+         information to their accountants and outside legal counsel as may be
+         necessary, as well to the extent required by law or the regulations of
+         the London Stock Exchange plc or the Listing Rules of the UK Listing
+         Authority or by the rules and requirements of the U.S. Securities and
+         Exchange Commission or any other regulatory body.
+
+                                   ARTICLE 18
+
+COMPANY REPRESENTATIVE
+
+A.       For the purpose of this agreement the Company has appointed the
+         President of SCPIE Indemnity Company as its representative
+         ("Representative") and the Reinsurer shall be entitled to deal with the
+         Representative and assume its decisions and actions are binding on each
+         of the entities constituting the Company and shall not be required to
+         make further enquiries. Receipt by SCPIE Indemnity Company of any
+         monies payable by the Reinsurer to the Company shall be a good
+         discharge of the obligation of the Reinsurer to pay such monies and the
+         Reinsurer shall not be required to see the application of monies to the
+         relevant entities comprising the Company.
+
+B.       If the Company (or in the event of its insolvency, its conservator,
+         liquidator or statutory successor) wishes to replace the
+         Representative, the Company shall notify the Reinsurer in accordance
+         with Article 19 (Notice) stating the person who, subject to the consent
+         of the Reinsurer, is to act as Representative for the purposes of this
+         agreement and such person shall be deemed to be the Representative with
+         effect from the date the consent of the Reinsurer is notified to the
+         Company (by notice to that replacement Representative).
+
+                                   ARTICLE 19
+
+NOTICE
+
+A.       Any notice, demand or other communication given or made under or in
+         connection with the matters contemplated by this agreement shall be in
+         writing and shall be delivered personally or sent by facsimile or
+         prepaid airmail post or courier:
+
+         In the case of the Company to the Representative at:
+         SCPIE Indemnity Company
+         1888 Century Park East, Suite 800
+         Los Angeles, California 90067
+         Fax: (310) 551-5924
+         Attention: President
+
+                                      -17-
+
+<PAGE>
+
+         In the case of the Reinsurer to:
+         GoshawK Reinsurance Limited at its office given above
+         Fax: 00 1 441 295 4750
+         Attention: Chief Executive Officer
+
+         With a copy to:
+
+         GoshawK Insurance Holdings plc
+         38 St Mary Axe
+         London EC3A 8EX
+         Fax: (00 44) (0)207 929 7299
+         Attention: Andrew Gammell
+
+         and shall be deemed to have been duly given or made as follows:
+
+         (a)    if personally delivered, upon delivery at the address of the
+                relevant Party;
+
+         (b)    if sent by airmail, five Business Days after the date of
+                posting;
+
+         (c)    if sent by facsimile, on receipt of confirmation that the fax
+                has been received by the number to which it was sent;
+
+         provided that if, in accordance with the above provision, any such
+         notice, demand or other communication would otherwise be deemed to be
+         given or made after 5.00 p.m. such notice, demand or other
+         communication shall be deemed to be given or made at 9.00 a.m. on the
+         next Business Day (such times being times in Los Angeles, California).
+
+B.       The deemed service provisions set out above do not apply to:
+
+         (a)    a notice served by airmail, if there is a national or local
+                suspension, curtailment or disruption of postal services which
+                affects the collection or delivery of the notice or is such that
+                the notice cannot reasonably be expected to be delivered within
+                48 hours or 96 hours (as appropriate) after posting; and
+
+         (b)    a notice served by facsimile, if, before the time at which the
+                notice would otherwise be deemed to have been served, the
+                receiving Party informs the sending Party that the notice has
+                been received in a form which is unclear in any material
+                respect.
+
+         In proving service it will be sufficient to prove:
+
+         (a)    in the case of personal service, that it was handed to the Party
+                or delivered to or left in an appropriate place for receipt of
+                letters at its address;
+
+         (b)    in the case of a letter sent by airmail, that the letter was
+                properly addressed, stamped and posted; and
+
+         (c)    in the case of facsimile, that it was properly addressed and
+                despatched to the number of the Party.
+
+C.       A Party may notify the other Party to this agreement of a change to its
+         name, relevant addressee, address or facsimile number provided that
+         such notification shall only be effective on:
+
+                                      -18-
+
+<PAGE>
+
+         (a)    the date specified in the notification as the date on which the
+                change is to take place; or
+
+         (b)    if no date is specified or the date specified is less than 5
+                Business Days after the date on which notice is given, the date
+                falling 5 Business Days after notice of any such change has been
+                given.
+
+                                   ARTICLE 20
+
+WAIVER AND AMENDMENT
+
+A.       A waiver of any term, provision or condition of, or consent granted
+         under this agreement shall be effective only if given in writing and
+         signed by the waiving or consenting Party and then only in the instance
+         and for the purpose for which it is given.
+
+B.       No failure or delay on the part of any Party in exercising any right,
+         power or privilege under this agreement shall operate as a waiver
+         thereof, nor shall any single or partial exercise of any such right,
+         power or privilege preclude any other or further exercise thereof or
+         the exercise of any other right, power or privilege.
+
+C.       This agreement may be varied only by a document signed by all Parties
+         and expressly incorporating the terms of this agreement as varied into
+         that document.
+
+D.       The rights and remedies herein provided are cumulative with and not
+         exclusive of any rights or remedies provided by law.
+
+                                   ARTICLE 21
+
+NO PARTNERSHIP
+
+Nothing in this agreement and no action taken by the Parties pursuant to this
+agreement shall constitute, or be deemed to constitute, the Parties a
+partnership or similar co-operative entity.
+
+                                   ARTICLE 22
+
+NO ASSIGNMENT
+
+No Party shall, without the prior written consent of the other, assign, transfer
+or declare a trust (save as provided in the Trust Deed and Security Fund
+Agreement) of the benefit of all or any of its obligations under this agreement,
+or any benefit arising under or out of this agreement, or delegate any of its
+obligations under this agreement or subcontract their provision to any third
+party save as provided herein (in respect of which it shall remain responsible
+for the proper performance of any such obligations).
+
+                                   ARTICLE 23
+
+INSOLVENCY
+
+In the event of insolvency and the appointment of a conservator, liquidator, or
+statutory successor of the Company, the portion of any risk or obligation
+assumed by the Reinsurer hereunder shall be payable to the conservator,
+liquidator, or statutory successor on the basis of claims allowed against the
+insolvent Company by any court of competent jurisdiction or by any conservator,
+liquidator, or statutory successor of the Company having authority to allow such
+claims, without diminution because of that insolvency, or
+
+                                      -19-
+
+<PAGE>
+
+because the conservator, liquidator, or statutory successor has failed to pay
+all or a portion of any Claims. Payment by the Reinsurer as set forth in this
+Article shall be made directly to the Company or to its conservator, liquidator
+or statutory successor except where the contract of insurance or reinsurance
+specifically provides another payee in the event of insolvency of the Company.
+
+The conservator, liquidator, or statutory successor of the Company shall give
+written notice of the pendency of a claim against the Company indicating the
+relevant Contract, within a reasonable time after such claim is filed and the
+Reinsurer may interpose, at its own expense, in the proceeding where such claim
+is to be adjudicated, any defence or defences which it may deem available to the
+Company or its conservator, liquidator, or statutory successor. The expense thus
+incurred by the Reinsurer shall be payable subject to court approval out of the
+estate of the insolvent Company as part of the expense of conservation or
+liquidation to the extent of a proportionate share of the benefit which may
+accrue to the Company in conservation or liquidation, solely as a result of the
+defence undertaken by the Reinsurer.
+
+This Article shall apply to each entity constituting the Company on a separate
+basis.
+
+                                   ARTICLE 24
+
+ARBITRATION
+
+A.       As a condition precedent to any right of action hereunder, any dispute
+         arising out of the interpretation, performance or breach of this
+         agreement, including the formation or validity thereof, shall be
+         submitted for decision to a panel of three arbitrators. Notice
+         requesting arbitration shall be in writing and sent certified or
+         registered mail, return receipt requested.
+
+B.       One arbitrator shall be chosen by each party and the two arbitrators
+         shall, before instituting the hearing, choose an impartial third
+         arbitrator who shall preside at the hearing. If either party fails to
+         appoint its arbitrator within 30 days after being requested to do so by
+         the other party, the latter, after 10 days' notice by certified or
+         registered mail of its intention to do so, may appoint the second
+         arbitrator.
+
+C.       Except as expressly stated in this Article, the arbitration proceedings
+         shall be governed by the rules of the International Chamber of Commerce
+         in England.
+
+D.       All arbitrators shall be disinterested active or former executive
+         officers of insurance or reinsurance companies or Underwriters at
+         Lloyd's, London.
+
+E.       Within 30 days after notice of appointment of all arbitrators, the
+         panel shall meet and determine timely periods for briefs, discovery
+         procedures and schedules for hearings.
+
+F.       The panel shall be relieved of all judicial formality and shall not be
+         bound by the strict rules of procedure and evidence Unless the panel
+         agrees otherwise, arbitration shall take place in London, England, but
+         the venue may be changed when deemed by the panel to be in the best
+         interest of the arbitration proceeding. Insofar as the arbitration
+         panel looks to substantive law, it shall consider the law of the State
+         of New York (except for the provisions thereof related to punitive or
+         exemplary damages or awards and conflicts of laws). The decision of any
+         two arbitrators when rendered in writing shall be final and binding.
+         The panel is empowered to grant interim relief as it may deem
+         appropriate.
+
+G.       The panel shall make its decision considering the custom and practice
+         of the applicable insurance and reinsurance business within 60 days
+         following the termination of the hearings. Judgment upon the award may
+         be entered in a court having jurisdiction thereof.
+
+                                      -20-
+
+<PAGE>
+
+H.       Each party shall bear the expense of its own arbitrator and shall
+         jointly and equally bear with the other party the cost of the third
+         arbitrator. The remaining costs of the arbitration shall be allocated
+         by the panel. The panel may, at its discretion, award such further
+         costs and expenses as it considers appropriate, including but not
+         limited to attorneys fees, to the extent permitted by law.
+
+                                   ARTICLE 25
+
+SERVICE OF SUIT
+
+         Without prejudice to any other permitted mode of service the Parties
+         agree that service of process shall be duly served upon if delivered
+         personally or sent by registered post, in the case of:
+
+         1.     the Reinsurer to 31 Church Street, Hamilton, Bermuda, HM12
+                (marked for the attention of the Chief Executive Officer); and
+
+         2.     the Company to SCPIE Indemnity Company, 1888 Century Park East,
+                Suite 800, Los Angeles, California 90067 (marked for the
+                attention of the President);
+
+         or such other person and address in relation to a Party as that Party
+         shall notify the other in writing from time to time.
+
+                                   ARTICLE 26
+
+MODE OF EXECUTION
+
+A.       This agreement may be executed by:
+
+         1.     an original written ink signature of paper documents;
+
+         2.     an exchange of facsimile copies showing the original written ink
+                signature of paper documents;
+
+         3.     electronic signature technology employing computer software and
+                a digital signature or digitizer pen pad to capture a person's
+                handwritten signature in such a manner that the signature is
+                unique to the person signing, is under the sole control of the
+                person signing, is capable of verification to authenticate the
+                signature and is linked to the document signed in such a manner
+                that if the data is changed, such signature is invalidated.
+
+B.       The use of any one or a combination of these methods of execution shall
+         constitute a legally binding and valid signing of this agreement. This
+         agreement may be executed in one or more counterparts, each of which,
+         when duly executed, shall be deemed an original.
+
+                                   ARTICLE 27
+
+SURVIVAL
+
+Articles 17 (Confidentiality), 24 (Arbitration), 25 (Service of Suit), 26 (Mode
+of Execution) and 27 (Survival) shall survive the commutation or termination of
+this agreement.
+
+                                   ARTICLE 28
+
+                                      -21-
+
+<PAGE>
+
+CONDITIONS PRECEDENT
+
+Notwithstanding anything in this agreement to the contrary, it is a condition
+precedent to any liability of the Reinsurer under this agreement that on the
+Execution Date, the Company shall deliver or cause to be delivered to the
+Reinsurer the Opinion of Counsel and the Guarantee, and each of the Company and
+the Reinsurer shall deliver or cause to be delivered to the other party the
+Security Fund Agreement, the Transitional Services Agreement and the Trust
+Agreement in each case duly executed by all parties thereto.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Contract to be executed
+by their duly authorised representatives this 18th day of December, in the
+year of 2002.
+
+
+/s/ Donald J. Zuk, President
+---------------------------------
+For and on behalf of
+SCPIE INDEMNITY COMPANY
+
+
+/s/ Donald J. Zuk, President
+---------------------------------
+For and on behalf of
+AMERICAN HEALTHCARE INDEMNITY COMPANY
+
+
+/s/ Donald J. Zuk, President
+---------------------------------
+For and on behalf of
+AMERICAN HEALTHCARE SPECIALTY INSURANCE COMPANY
+
+
+/s/ Jonathan Beck   /s/ J. Kemp
+---------------------------------
+For and on behalf of
+GOSHAWK REINSURANCE LIMITED
+
+                                      -22-
+
+<PAGE>
+
+                                   SCHEDULE 1
+
+                                    CONTRACTS
+
+
+                                      -23-
+
+<PAGE>
+
+                                   SCHEDULE 2
+
+                             FORM OF MONTHLY REPORTS
+
+
+                                      -24-
+
+<PAGE>
+
+                                   SCHEDULE 3
+
+                                   WARRANTIES
+
+For the purpose of this schedule Company means each of the entities comprising
+the Company provided that each such entity only warrants in respect of the
+Warranties at paragraphs 2 to 7 as they apply to it and the Contracts issued by
+it and not in respect of the other entities comprising the Company.
+
+Any Warranty expressed to be given "to the best of the Company's knowledge and
+belief" shall not be qualified in the manner stated unless the Company
+establishes it has made all reasonable enquiries of its directors, employees and
+professional advisers (including its accountants and actuaries) and relevant
+third parties to establish the truth and accuracy of that Warranty.
+
+The Company shall be under no liability in respect of a claim under any of the
+Warranties at paragraphs 4, 5 and 6 of this schedule 3 unless and until the
+liability of the Company in respect of that claim when aggregated with the
+liability of the Company in respect of all other such claims under paragraphs 4,
+5 and 6 of this schedule 3 shall exceed US$100,000 (and then the Reinsurer shall
+be entitled to recover all and not just the excess).
+
+1.       COMPANY'S CAPACITY
+
+1.1      Authorisations
+
+         The Company has obtained all corporate authorisations and all other
+         applicable governmental, statutory, regulatory or other consents,
+         licences, waivers or exemptions required to empower it to enter into
+         and to perform its obligations under this agreement, the Security Fund
+         Agreement and the Trust Agreement.
+
+1.2      Proper Execution
+
+         The Company's obligations under this agreement, the Security Fund
+         Agreement and the Trust Agreement are enforceable in accordance with
+         their terms.
+
+2.       CONTRACTS
+
+2.1      Validity of Contracts
+
+         (a)    The Company has no knowledge of the invalidity of, or a ground
+                for termination, avoidance or repudiation of, any Contract. No
+                party to a Contract has given notice of its intention to
+                terminate. The Company has not sought to repudiate or disclaim
+                any Contract and to the best of the Company's knowledge and
+                belief the other party to any Contract has not sought to
+                repudiate or disclaim that Contract.
+
+         (b)    The Company is not in material breach of a Contract and no
+                matter exists which might give rise to such breach by the
+                Company and to the best of the Company's knowledge and belief
+                the other party to any Contract is not in material breach of the
+                Contract and no matter exists which might give rise to such
+                breach by the other party.
+
+2.2      In respect of the particulars of each of the Contracts set out at
+         schedule 1:
+
+         (a)    the statements of estimated premium before loading and expense
+                ratio at schedule 1 have been prepared on a prudent basis and to
+                the best of the information, knowledge and belief
+
+                                      -25-
+
+<PAGE>
+
+                of the Company there exists no fact or matter which would, or is
+                likely to, render such basis not to be prudent; and
+
+         (b)    the Contract number and "names of risk" and set out at schedule
+                1 are true, complete and accurate.
+
+3.       INSOLVENCY
+
+3.1      No order has been made, petition presented or resolution passed, or any
+         other action taken, for the winding up of or for the appointment of a
+         liquidator, conservator or statutory successor to the Company or in
+         relation to any part of its business and/or assets and to the best of
+         the Company's knowledge and belief no such order, petition, resolution
+         or other action is pending or contemplated. No transfer of assets is
+         being made by the Company and no obligation is being incurred by it in
+         connection with the transactions contemplated by this agreement, the
+         Security Fund Agreement, the Secondment Agreements or the Trust
+         Agreement with the intent to hinder, delay, or defraud either the
+         present or future creditors or policyholders of the Company.
+
+3.2      SCPIE Indemnity Company has assets exceeding its liabilities (as such
+         terms are defined by Generally Accepted Accounting Principles and
+         statutory accounting principles applied on a consistent basis) in an
+         amount equal to or exceeding the minimum paid-in capital and surplus as
+         required pursuant to California Insurance Code sections 700.01 and
+         700.02 and, therefore, is not insolvent.
+
+3.3      American Healthcare Indemnity Company has assets exceeding its
+         liabilities (as such terms are defined by Generally Accepted Accounting
+         Principles and statutory accounting principles applied on a consistent
+         basis) in an amount equal to or exceeding the minimum paid-in capital
+         and surplus as required pursuant to Delaware Code Annotated title 18,
+         section 511 and, therefore, is not insolvent.
+
+3.4      American Healthcare Speciality Insurance Company has assets exceeding
+         its liabilities (as such terms are defined by Generally Accepted
+         Accounting Principles and statutory accounting principles applied on a
+         consistent basis) in an amount equal to or exceeding minimum paid-in
+         capital and surplus as required pursuant to Arkansas Code Annotated
+         section 23-63-205 and, therefore, is not insolvent.
+
+4.       LEGAL COMPLIANCE
+
+         The Company is in compliance with all laws, rules and regulations
+         applicable to the Company and all elements related to their respective
+         businesses, operations and financial condition, including, but not
+         limited to, its assets, holdings, employees and policyholders, as the
+         case may be.
+
+5.       FINANCIAL CONDITION
+
+         The financial statements of the Company accurately and honestly present
+         the Company's financial condition. Since the date of the most recent
+         financial statements of the Company, there has been no adverse change
+         in the Company's business, assets or condition (financial or
+         otherwise).
+
+6.       LITIGATION
+
+                                      -26-
+
+<PAGE>
+
+         There are no actions, suits or proceedings pending, threatened or
+         contemplated against or affecting the Company or its assets, except for
+         claims in the ordinary course of insurance business.
+
+7.       TAXES
+
+         The Company has paid or caused to be paid to the proper authorities
+         when due all federal, state and local taxes applicable to it. The
+         Company has filed with the proper authorities when due all federal,
+         state and local tax returns applicable to it.
+
+8.       INFORMATION
+
+8.1      General
+
+         To the best of the Company's knowledge and belief all written
+         information given by, or on behalf of, the Company to the Reinsurer,
+         its advisers or agents (including, within limitation, Milliman USA,
+         Inc.) before or during the negotiations leading to this agreement is
+         true, complete, accurate and not misleading.
+
+8.2      Material Information
+
+         All information about the Contracts known to the Company which might be
+         material to a reinsurer of the Contracts has been disclosed to the
+         Reinsurer in writing.
+
+9.       OTHER AGREEMENTS
+
+         The Company is not bound by any letter of intent, exclusivity
+         agreement, heads of agreement or equivalent agreement relating to the
+         Contracts or the Company.
+
+                                      -27-
+
+</TEXT>
+</DOCUMENT>

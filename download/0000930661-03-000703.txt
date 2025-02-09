@@ -1,0 +1,1959 @@
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>13
+<FILENAME>dex1011.txt
+<DESCRIPTION>WARRANT AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.11
+
+                                                                  EXECUTION COPY
+
+
+
+                                WARRANT AGREEMENT
+
+
+
+                                   Dated as of
+
+                               September 26, 2002
+
+                                     between
+
+                                AmeriCredit Corp.
+
+                                       and
+
+                          FSA Portfolio Management Inc.
+
+                  ---------------------------------------------
+
+                                  Warrants for
+                                 Common Stock of
+                                AmeriCredit Corp.
+
+                  ---------------------------------------------
+
+<PAGE>
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                            Page
+<S>                                                                         <C>
+ARTICLE 1      Definitions ..............................................     1
+
+     Section 1.01. Definitions ..........................................     1
+
+     Section 1.02. Other Definitions ....................................     4
+
+     Section 1.03. Rules of Construction ................................     4
+
+ARTICLE 2      Warrant Certificates .....................................     5
+
+     Section 2.01. Form and Dating ......................................     5
+
+     Section 2.02. Execution ............................................     5
+
+     Section 2.03. Warrant Certificate Register .........................     5
+
+     Section 2.04. Transfer and Exchange ................................     5
+
+     Section 2.05. Replacement Certificates .............................     7
+
+     Section 2.06. Cancellation .........................................     7
+
+ARTICLE 3      Exercise Terms ...........................................     7
+
+     Section 3.01. Exercise Price .......................................     7
+
+     Section 3.02. Exercise Periods .....................................     7
+
+     Section 3.03. Expiration ...........................................     8
+
+     Section 3.04. Manner of Exercise ...................................     8
+
+     Section 3.05. Issuance of Warrant Shares ...........................     8
+
+     Section 3.06. Fractional Warrant Shares ............................     9
+
+     Section 3.07. Reservation of Warrant Shares ........................     9
+
+     Section 3.08. Compliance with Law ..................................     9
+
+ARTICLE 4      [Reserved] ...............................................    10
+
+ARTICLE 5      Antidilution Provisions ..................................    10
+
+     Section 5.01. Changes in Common Stock ..............................    10
+
+     Section 5.02. Cash Dividends and Other Distributions ...............    10
+
+     Section 5.03. Certain Issuances ....................................    11
+
+     Section 5.04. Combination; Liquidation .............................    12
+
+     Section 5.05. Redemptions; Tender Offers; Exchange Offers ..........    13
+
+     Section 5.06. Other Events .........................................    14
+
+     Section 5.07. Superseding Adjustment ...............................    14
+
+     Section 5.08. Minimum Adjustment ...................................    14
+</TABLE>
+
+                                       i
+
+<PAGE>
+
+                               TABLE OF CONTENTS
+                                  (continued)
+
+<TABLE>
+<CAPTION>
+                                                                            Page
+<S>                                                                         <C>
+     Section 5.09. Notice of Adjustment .................................    15
+
+     Section 5.10. Notice of Certain Transactions .......................    15
+
+     Section 5.11. Adjustment to Warrant Certificate ....................    15
+
+ARTICLE 6      Transferability ..........................................    16
+
+     Section 6.01. Registration Rights ..................................    16
+
+     Section 6.02. Legends ..............................................    16
+
+ARTICLE 7      Miscellaneous ............................................    16
+
+     Section 7.01. Rule 144A ............................................    16
+
+     Section 7.02. Persons Benefiting ...................................    17
+
+     Section 7.03. Rights of Holders ....................................    17
+
+     Section 7.04. Amendment ............................................    17
+
+     Section 7.05. Notices ..............................................    17
+
+     Section 7.06. Governing Law ........................................    19
+
+     Section 7.07. Successors ...........................................    19
+
+     Section 7.08. Multiple Originals ...................................    19
+
+     Section 7.09. Table of Contents ....................................    19
+
+     Section 7.10. Severability; Remedies Cumulative; Delay Not Waiver ..    19
+
+     Section 7.11. Specific Performance .................................    19
+
+     Section 7.12. Jurisdiction .........................................    20
+</TABLE>
+
+                                       ii
+
+<PAGE>
+
+                               TABLE OF CONTENTS
+                                  (continued)
+
+<TABLE>
+<CAPTION>
+                                                                            Page
+<S>                     <C>                                                 <C>
+         EXHIBIT A      Form of Warrant Certificate
+         EXHIBIT B      Certificate to be Delivered upon Exchange or
+                        Registration of Transfer of Warrants
+         EXHIBIT C      Form of Election to Purchase Warrant Shares
+         EXHIBIT D      Registration Rights
+</TABLE>
+
+                                      iii
+
+<PAGE>
+
+       WARRANT AGREEMENT (this "Agreement") dated as of September 26, 2002,
+between AmeriCredit Corp., a Texas corporation (the "Company"), and FSA
+Portfolio Management Inc. ("FSAPMI"), a Delaware corporation, as a holder of the
+Warrants.
+
+       Pursuant to the Letter Agreement, dated September 14, 2002, by and
+between the Company and Financial Security Assurance Inc. ("FSA"), an affiliate
+of FSAPMI, the Company has agreed to issue 1,287,691 warrants (the "Warrants")
+described herein. Each Warrant will entitle its Holder, as defined herein, to
+purchase at any time prior to the Expiration Date (as herein defined), at the
+option of the Holder, one share of Common Stock (as herein defined), subject to
+adjustment as provided herein, at the Exercise Price (as herein defined), and on
+the terms and conditions and pursuant to the provisions hereinafter set forth.
+
+       Each party agrees as follows for the benefit of the other party and for
+the equal and ratable benefit of the Holders of Warrants:
+
+                                   ARTICLE 1
+
+                                   Definitions
+
+       SECTION 1.01. Definitions. As used herein, the following terms have the
+respective meanings set forth below:
+
+       "Affected Holders" means, with respect to any action taken or to be
+taken, including any valuation or other determination, Holders of Warrants
+remaining outstanding whose entitlement to Warrant Shares or other property
+pursuant to the terms of such Warrants and the terms of this Agreement will be
+changed by such action, whether such change is in the number of Warrant Shares
+issuable upon exercise of such Warrants, the Exercise Price, the value of
+Warrant Shares or other property to which the Holders are or may become
+entitled, or any other right to which the Holders are or may become entitled.
+
+       "Board" means the Board of Directors of the Company or any committee
+thereof duly authorized to act on behalf of such Board of Directors.
+
+       "Business Day" means a day other than a Saturday, Sunday or other day on
+which commercial banks in New York City are authorized or required by law or
+other government action to close.
+
+       "Capital Stock" of any Person means any and all shares, interests, rights
+to purchase, warrants, options, participations, or other equivalents of or
+interests in (however designated, whether voting or non-voting) equity of such
+Person, including any common stock and preferred stock, whether outstanding on
+the Grant Date or issued after the Grant Date but excluding any debt securities
+convertible into such equity.
+
+<PAGE>
+
+       "Cashless Exercise Ratio" means a fraction, the numerator of which is the
+excess of the Current Market Value per share of Common Stock on the date of
+exercise over the Exercise Price per share as of the date of exercise and the
+denominator of which is the Current Market Value per share of the Common Stock
+on the date of exercise.
+
+       "Combination" means an event in which the Company consolidates with,
+merges with or into, or sells all or substantially all the assets of the Company
+or the Company and its subsidiaries, taken as a whole, to another Person.
+
+       "Common Stock" means the common stock of the Company, par value $0.01 per
+share.
+
+       "Current Market Value" per share of Common Stock or any other security at
+any date means (i) if the security is listed on the NYSE or NASDAQ, the average
+of the daily closing bid prices quoted by the NYSE or NASDAQ, as the case may
+be, for each Business Day during the period commencing 15 Business Days before
+such date and ending on the date one day prior to such date, or if the security
+has been listed on the NYSE or NASDAQ, as the case may be, for less than 15
+consecutive Business Days before such date, then the average of the daily
+closing bid prices for all of the Business Days before such date for which daily
+closing bid prices are available or (ii) if the security is not listed on either
+the NYSE or NASDAQ, the value of the security as determined by an investment
+bank of nationally recognized standing reasonably acceptable to a Majority of
+the Affected Holders and the Company. The Company shall pay the reasonable fees
+and expenses of any investment bank involved in the determination of Current
+Market Value. Notwithstanding the foregoing, if a security is listed on the NYSE
+or NASDAQ and a closing bid price is not determinable for at least ten Business
+Days, the "Current Market Value" of the security shall be determined as if the
+security were not listed on the NYSE or NASDAQ.
+
+       "Designated Holders" means such Persons providing reinsurance to FSA with
+respect to any securitizations sponsored by AmeriCredit Financial Services, Inc,
+a wholly owned subsidiary of the Company, as may be designated by FSA in writing
+from time to time.
+
+       "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+
+       "Expiration Date" means September 14, 2007.
+
+       "Grant Date" means, with respect to Warrants delivered on the date of
+this Agreement, the Original Grant Date and, with respect to Warrants delivered
+after the date of this Agreement, the date on which a Person is entitled to
+delivery of such Warrants as the Holder thereof.
+
+       "Holder" means, as the context requires, the duly registered holder of a
+Warrant under the terms of this Agreement or the duly registered holder of a
+Warrant Share upon exercise of a Warrant under the terms of this Agreement.
+
+                                       2
+
+<PAGE>
+
+       "Majority" means, with respect to all of the Holders or any group of
+Affected Holders, Holders of a majority of the Warrants (measured by the number
+of Warrant Shares issuable upon exercise of such Warrants) remaining outstanding
+held by all Holders or by such group of Affected Holders, as applicable.
+
+       "NASD" shall mean the National Association of Securities Dealers, Inc.,
+or any successor corporation thereto.
+
+       "NASDAQ" means the NASDAQ Stock Market.
+
+       "NYSE" means the New York Stock Exchange.
+
+       "Officer" means the Chairman of the Board of Directors, the Chief
+Executive Officer, the Chief Operating Officer, any Executive Vice President,
+the Chief Financial Officer, the Treasurer or the Secretary of the Company.
+
+       "Opinion of Counsel" means a written opinion from independent legal
+counsel who is reasonably acceptable to a Majority of the Affected Holders. Such
+independent legal counsel may be counsel that is retained by or advises the
+Company or any Holder with respect to matters other than the Warrants.
+
+       "Original Grant Date" means the date hereof.
+
+       "Permitted Issuance" means any issuance or other sale by the Company of
+any of its shares of Common Stock upon (i) the conversion or exchange of any of
+the Company's preferred stock, warrants, options or other convertible or
+exchangeable securities, provided, such preferred stock, warrants, options or
+other convertible or exchangeable securities are outstanding as of the Original
+Grant Date, (ii) the exercise of any stock options granted to officers,
+directors or employees of the Company pursuant to a stock option plan, benefit
+plan or incentive plan of the Company, whether in effect as of the Original
+Grant Date or approved by the Board after the Original Grant Date or (iii) the
+grant of any restricted stock to officers, directors or employees of the Company
+pursuant to a stock option plan, benefit plan or incentive plan of the Company,
+whether in effect as of the Original Grant Date or approved by the Board after
+the Original Grant Date.
+
+       "Person" means any individual, corporation, partnership, limited
+liability company, joint venture, association, joint-stock company, trust,
+unincorporated organization, government or any agency or political subdivision
+thereof or any other entity.
+
+       "SEC" means the Securities and Exchange Commission.
+
+       "Securities Act" means the Securities Act of 1933, as amended.
+
+       "Transfer Restricted Securities" means the Warrant Securities. Each such
+security shall cease to be a Transfer Restricted Security when (i) it has been
+disposed of
+
+                                       3
+
+<PAGE>
+
+pursuant to a registration statement of the Company filed with the SEC and
+declared effective by the SEC that covers the disposition of such Transfer
+Restricted Security, (ii) it can be distributed pursuant to Rule 144 (or any
+similar provisions under the Securities Act then in effect) or (iii) it has been
+otherwise transferred and may be resold without registration under the
+Securities Act.
+
+       "Warrant Securities" means the Warrants and the Warrant Shares.
+
+       "Warrant Shares" means the shares of Common Stock of the Company for
+which the Warrants are exercisable or which have been issued upon exercise of
+Warrants.
+
+       Section 1.02.  Other Definitions.
+
+                                                               Defined in
+           Term                                                 Section
+           ----                                                 -------
+
+         "Cashless Exercise" ................................  3.04
+          -----------------
+         "Common Stock" .....................................  Recital
+          ------------
+         "Company" ..........................................  Recital
+          -------
+         "Exercise Price" ...................................  3.01
+          --------------
+         "Expiration Date" ..................................  3.02
+          ---------------
+         "Fair Value" .......................................  5.02
+          ----------
+         "QIB" ..............................................  2.04(a)(ii)(A)(4)
+          ---
+         "Stock Transfer Agent" .............................  3.05
+          --------------------
+         "Successor Company" ................................  5.04(a)
+          -----------------
+         "Warrant Certificate" ..............................  2.01(a)
+          -------------------
+         "Warrant Certificate Register" .....................  2.03
+          ----------------------------
+         "Warrants" .........................................  Recital
+          --------
+
+       Section 1.03.  Rules of Construction. Unless the text otherwise requires:
+
+            (i)     a term has the meaning assigned to it;
+
+            (ii)    an accounting term not otherwise defined has the meaning
+       assigned to it in accordance with generally accepted accounting
+       principles as in effect from time to time;
+
+            (iii)   "or" is not exclusive;
+
+            (iv)    "including" means including, without limitation; and
+
+            (v)     words in the singular include the plural and words in the
+       plural include the singular.
+
+                                       4
+
+<PAGE>
+
+                                   ARTICLE 2
+
+                              Warrant Certificates
+
+       Section 2.01.   Form and Dating. The Warrants shall be issued or reissued
+in definitive form in the name of "FSA Portfolio Management Inc." and the
+Designated Holders in the denominations specified by FSAPMI and shall be
+substantially in the form of Exhibit A (each, a "Warrant Certificate"), which is
+hereby incorporated in and expressly made a part of this Agreement. The Warrants
+may have notations, legends or endorsements required by law, stock exchange
+rule, agreements to which the Company is subject, if any, or usage (provided
+that any such notation, legend or endorsement is in a form acceptable to the
+Company) and shall bear the legend required by Section 6.02. Each Warrant shall
+be dated the date of its countersignature. The Warrants shall be shall be
+delivered to FSAPMI and the Designated Holders.
+
+       Section 2.02.   Execution. Two Officers shall sign the Warrant for the
+Company by manual or facsimile signature. If an Officer whose signature is on a
+Warrant no longer holds that office at the time the Warrant is delivered or
+exercised, the Warrant shall be valid nevertheless.
+
+       Section 2.03.   Warrant Certificate Register. The Company shall keep a
+register ("Warrant Certificate Register") of the Warrant Certificates and of
+their transfer and exchange. The Warrant Certificate Register shall show the
+names and addresses of the respective Holders and the date and number of
+Warrants evidenced on the face of each of the Warrant Certificates. Absent
+actual knowledge to the contrary or manifest error, the Company may deem and
+treat the Person in whose name a Warrant Certificate is registered as the
+absolute owner of such Warrant Certificate for all purposes whatsoever.
+
+       Section 2.04.   Transfer and Exchange. (a) Transfer and Exchange. When
+Warrants are presented to the Company with a request to register the transfer of
+such Warrants or to exchange such Warrants for an equal number of Warrants of
+other authorized denominations, the Company shall register the transfer or make
+the exchange as requested; provided, however, that the Warrants surrendered for
+transfer or exchange:
+
+              (i)  shall be duly endorsed or accompanied by a written instrument
+       of transfer in form reasonably satisfactory to the Company, duly executed
+       by the Holder thereof or his or its attorney duly authorized in writing;
+       and
+
+              (ii)  in the case of Warrants that are Transfer Restricted
+       Securities, shall be accompanied by the following additional information
+       and documents:
+
+                                       5
+
+<PAGE>
+
+              (A)   a certificate from such Holder in substantially the form of
+       Exhibit B hereto certifying that:
+
+                    (1)   such securities are being delivered for registration
+              in the name of such Holder without transfer;
+
+                    (2)   such securities are being transferred to the Company;
+
+                    (3)   such securities are being transferred pursuant to an
+              effective registration statement under the Securities Act; or
+
+                    (4)   such securities are being transferred (w) to a
+              "qualified institutional buyer" ("QIB") as defined in Rule 144A
+              under the Securities Act pursuant to such Rule 144A, (x) in an
+              offshore transaction in accordance with Rule 904 of Regulation S
+              under the Securities Act, (y) in a transaction meeting the
+              requirements of Rule 144 under the Securities Act or (z) pursuant
+              to another available exemption from the registration requirements
+              of the Securities Act and specifying such exemption; and
+
+              (B)   in the case of any transfer described under clause (A)(4)
+       (x), (y), or (z), evidence reasonably satisfactory to the Company as to
+       compliance with the restrictions set forth in the legend in Section 6.02
+       (which may, in the Company's sole discretion, include an opinion of
+       counsel reasonably satisfactory to the Company of such transferring
+       Holder).
+
+(b)    Obligations with Respect to Transfers and Exchanges of Warrants.
+
+       (i)    To permit registrations of transfers and exchanges, the Company
+shall execute Warrants as required pursuant to the provisions of this Section
+2.04.
+
+       (ii)   All Warrants issued upon any registration of transfer or exchange
+of Warrants shall be the valid obligations of the Company, entitled to the same
+benefits under this Agreement as the Warrants surrendered upon such registration
+of transfer or exchange.
+
+       (iii)  Prior to due presentment for registration of transfer of any
+Warrant, the Company may, absent actual knowledge to the contrary or manifest
+error, deem and treat the Person in whose name any Warrant is registered as the
+absolute owner of such Warrant.
+
+                                       6
+
+<PAGE>
+
+              (iv) No service charge shall be made to a Holder for any
+       registration of transfer or exchange upon surrender of any Warrant
+       Certificate at the office of the Company maintained for that purpose.
+       However, the Company may require payment of a sum sufficient to cover any
+       tax or other governmental charge that may be imposed in connection with
+       any registration of transfer or exchange of Warrant Certificates.
+
+              (v)  Upon any sale or transfer of Warrants pursuant to an
+       effective registration statement under the Securities Act, pursuant to
+       Rule 144 under the Securities Act, or with evidence reasonably
+       satisfactory to the Company that no legend is required (which may, in the
+       Company's sole discretion, include an opinion of counsel reasonably
+       satisfactory to the Company of such exchanging Holder), the Company shall
+       permit the Holder thereof to exchange such Warrants for Warrants that do
+       not bear the legend set forth in Section 6.02 and rescind any restriction
+       on the transfer of such Warrants.
+
+       SECTION 2.05.   Replacement Certificates. If a mutilated Warrant
+Certificate is surrendered to the Company or if the Holder of a Warrant
+Certificate claims that the Warrant Certificate has been lost, destroyed, or
+wrongfully taken, the Company shall issue a replacement Warrant Certificate if
+the reasonable requirements of the Company (including, without limitation, the
+imposition of reasonable indemnity terms and the provision of an affidavit of
+lost instrument) and of Section 8-405 of the Uniform Commercial Code (or any
+successor thereto) as in effect in the State of New York are met. The Company
+may charge the Holder the Company's out-of-pocket expenses in replacing a
+Warrant Certificate.
+
+       SECTION 2.06.   Cancellation. In the event the Company shall purchase or
+otherwise acquire Warrants, the same shall thereupon be delivered to the Company
+and canceled.
+
+                                   ARTICLE 3
+
+                                 Exercise Terms
+
+       SECTION 3.01.   Exercise Price. Each Warrant shall initially entitle the
+Holder thereof, subject to adjustment pursuant to the terms of this Agreement,
+to purchase one share of Common Stock for a per share purchase price equal to
+nine U.S. dollars ($9.00) per share (the "Exercise Price").
+
+       SECTION 3.02.   Exercise Periods. (a) Subject to the terms and conditions
+set forth herein, each Warrant shall be exercisable at any time or from time to
+time on or after the Grant Date.
+
+       (b) No Warrant shall be exercisable after the Expiration Date.
+
+                                        7
+
+<PAGE>
+
+       SECTION 3.03.   Expiration. A Warrant shall terminate and become void as
+of the earlier of (i) the close of business on the Expiration Date or (ii) the
+time and date such Warrant is exercised.
+
+       SECTION 3.04.   Manner of Exercise. Warrants may be exercised upon (i)
+surrender to the Company of the Warrant Certificates, together with the form of
+election to purchase Common Stock (substantially in the form of Exhibit C) on
+the reverse thereof duly filled in and signed by the Holder thereof and (ii)
+payment to the Company of the Exercise Price for the number of Warrant Shares in
+respect of which such Warrant is then exercised. Such payment shall be made (i)
+in cash or by certified or official bank check payable to the order of the
+Company or by wire transfer of funds to an account designated by the Company for
+such purpose or (ii) by the surrender (which surrender shall be evidenced by
+cancellation of the number of Warrants represented by any Warrant Certificate
+presented in connection with a Cashless Exercise) of a Warrant or Warrants
+(represented by one or more relevant Warrant Certificates), and without the
+payment of the Exercise Price in cash, in exchange for the issuance of such
+number of shares of Common Stock equal to the product of (1) the number of
+shares of Common Stock for which such Warrant is then being nominally exercised
+if payment of the Exercise Price as of the date of exercise was being made in
+cash and (2) the Cashless Exercise Ratio. An exercise of a Warrant in accordance
+with clause (ii) of the immediately preceding sentence is herein called a
+"Cashless Exercise". All provisions of this Agreement shall be applicable with
+respect to an exercise of Warrant Certificates pursuant to a Cashless Exercise
+for less than the full number of Warrants represented thereby. Subject to
+Section 3.02, the rights represented by the Warrants shall be exercisable at the
+election of the Holders thereof either in full at any time or from time to time
+in part and in the event that a Warrant Certificate is surrendered for exercise
+in respect of less than all the Warrant Shares purchasable on such exercise at
+any time prior to the Expiration Date a new Warrant Certificate exercisable for
+the remaining Warrant Shares shall be issued and delivered by the Company.
+
+       SECTION 3.05.   Issuance of Warrant Shares. Subject to Section 2.05, upon
+the surrender of Warrant Certificates and payment of the per share Exercise
+Price, as set forth in Section 3.04, the Company shall issue and cause any
+transfer agent appointed for the Common Stock (the "Stock Transfer Agent") to
+countersign, if necessary, and deliver to or upon the written order of the
+Holder and in such name or names as the Holder may designate, a certificate or
+certificates for the number of full Warrant Shares so purchased upon the
+exercise of such Warrants or other securities or property to which it is
+entitled, registered or otherwise to the Person or Persons entitled to receive
+the same, together with cash as provided in Section 3.06 in respect of any
+fractional Warrant Shares otherwise issuable upon such exercise. Such
+certificate or certificates shall be deemed to have been issued and any Person
+so designated to be named therein shall be deemed to have become a holder of
+record of such Warrant Shares as of the date of the surrender of such Warrant
+Certificates and payment of the per share Exercise Price.
+
+                                        8
+
+<PAGE>
+
+       SECTION 3.06.   Fractional Warrant Shares. The Company shall not be
+required to issue fractional Warrant Shares on the exercise of Warrants. If more
+than one Warrant shall be exercised in full at the same time by the same Holder,
+the number of full Warrant Shares that shall be issuable upon such exercise
+shall be computed on the basis of the aggregate number of Warrant Shares
+purchasable pursuant thereto. If any fraction of a Warrant Share would, except
+for the provisions of this Section 3.06, be issuable on the exercise of any
+Warrant (or specified portion thereof), the Company shall pay an amount in cash
+equal to the Current Market Value for one Warrant Share on the date the Warrant
+is exercised, multiplied by such fraction, computed to the nearest whole cent.
+
+       SECTION 3.07.   Reservation of Warrant Shares. The Company shall at all
+times keep reserved out of its authorized shares of Common Stock a number of
+shares of Common Stock sufficient to provide for the exercise of all outstanding
+Warrants. The Company shall cause the registrar for the Common Stock at all
+times until the Expiration Date, or the time at which all Warrants have been
+exercised or canceled, to reserve such number of authorized shares as shall be
+required for such purpose. The Company shall keep a copy of this Agreement on
+file with the Stock Transfer Agent. The Company shall itself provide or
+otherwise make available any cash that may be payable as provided in Section
+3.06. The Company shall furnish to such Stock Transfer Agent a copy of all
+notices of adjustments and certificates related thereto transmitted to each
+Holder.
+
+       Before taking any action which would cause an adjustment pursuant to
+Article 5 to reduce the Exercise Price below the then par value (if any) of the
+Common Stock, the Company shall take any and all reasonable corporate action
+(other than the approval of its shareholders, if necessary, which the Company
+shall use its best efforts to obtain) which may, as evidenced by an Opinion of
+Counsel, be necessary in order that the Company may validly and legally issue
+fully paid and nonassessable shares of Common Stock at the Exercise Price as so
+adjusted.
+
+       The Company covenants that all shares of Common Stock that may be issued
+upon exercise of Warrants will, upon issue, be fully paid, nonassessable, free
+of preemptive rights, free from all accrued taxes, and free from all liens,
+charges, and security interests.
+
+       SECTION 3.08.   Compliance with Law. (a) Notwithstanding anything in this
+Agreement to the contrary, in no event shall a Holder be entitled to exercise a
+Warrant unless (i) a registration statement filed under the Securities Act in
+respect of the issuance of the Warrant Shares is then effective or (ii) an
+exemption from the registration requirements is available under the Securities
+Act for the issuance of the Warrant Shares (and the delivery of any other
+securities for which the Warrants may at the time be exercisable) at the time of
+such exercise.
+
+       (b) If any shares of Common Stock required to be reserved for purposes of
+exercise of Warrants require, under any other Federal or state law or
+
+                                        9
+
+<PAGE>
+
+applicable governing rule or regulation of any national securities exchange,
+registration with or approval of any governmental authority, or listing on any
+such national securities exchange before such shares may be issued upon
+exercise, the Company will at its own expense use its best efforts to cause such
+shares to be duly registered or approved by such governmental authority or
+listed on the relevant national securities exchange, as the case may be.
+
+                                   ARTICLE 4
+
+                                   [Reserved]
+
+                                   ARTICLE 5
+
+                             Antidilution Provisions
+
+       SECTION 5.01.   Changes in Common Stock. In the event that at any time or
+from time to time the Company shall (i) pay a dividend or make a distribution on
+its Common Stock in shares of its Common Stock or other shares of Capital Stock,
+(ii) subdivide its outstanding shares of Common Stock into a larger number of
+shares of Common Stock, (iii) combine its outstanding shares of Common Stock
+into a smaller number of shares of Common Stock or (iv) increase or decrease the
+number of shares of Common Stock outstanding by reclassification of its Common
+Stock, then the number of shares of Common Stock purchasable upon exercise of
+each Warrant immediately after the happening of such event shall be adjusted so
+that, after giving affect to such adjustment, the Holder of each Warrant shall
+be entitled to receive the number of shares of Common Stock upon exercise that
+such holder would have owned or have been entitled to receive had such Warrants
+been exercised immediately prior to the happening of the events described above
+(or, in the case of a dividend or distribution of Common Stock, immediately
+prior to the record date therefor), and the Exercise Price for each Warrant
+shall be adjusted in inverse proportion. An adjustment made pursuant to this
+Section 5.01 shall become effective immediately after the effective date of such
+event, retroactive to the record date therefor in the case of a dividend or
+distribution in shares of Common Stock or other shares of Capital Stock, and
+shall become effective immediately after the effective date of such event in the
+case of a subdivision, combination, or reclassification.
+
+       SECTION 5.02.   Cash Dividends and Other Distributions. In case at any
+time or from time to time the Company shall distribute to holders of Common
+Stock (i) any dividend or other distribution of cash, evidences of its
+indebtedness, shares of its Capital Stock, or any other properties or securities
+(other than any dividend or distribution described in Section 5.01) or (ii) any
+options, warrants, or other rights to subscribe for or purchase any of the
+foregoing (other than any rights, options, warrants, or securities described in
+Section 5.03), then the number of shares of Common Stock purchasable upon the
+exercise of each Warrant shall be increased to a number determined by
+multiplying the number of shares of Common Stock purchasable upon the exercise
+of such Warrant immediately prior to the record date for any such dividend or
+distribution
+
+                                       10
+
+<PAGE>
+
+by a fraction, the numerator of which shall be the Current Market Value per
+share of Common Stock on the record date for such distribution, and the
+denominator of which shall be such Current Market Value per share of Common
+Stock less the sum of (x) any cash distributed per share of Common Stock and (y)
+the fair value (the "Fair Value") (as determined in good faith by the Board of
+Directors, whose determination shall be evidenced by a board resolution, a copy
+of which will be sent to any Holder upon such Holder's request) of the portion,
+if any, of the distribution applicable to one share of Common Stock consisting
+of evidences of indebtedness, shares of stock, securities, other property,
+warrants, options, or subscription of purchase rights; and the Exercise Price
+shall be adjusted to a number determined by dividing the Exercise Price
+immediately prior to such record date by the above fraction. Such adjustments
+shall be made whenever any distribution is made and shall become effective as of
+the date of distribution, retroactive to the record date for any such
+distribution; provided, however, that the Company is not required to make an
+adjustment pursuant to this Section 5.02 if at the time of such distribution the
+Company makes the same distribution to Holders of Warrants as it makes to
+holders of Common Stock pro rata based on the number of shares of Common Stock
+for which such Warrants are exercisable (whether or not currently exercisable).
+No adjustment shall be made pursuant to this Section 5.02 that would have the
+effect of decreasing the number of shares of Common Stock purchasable upon
+exercise of each Warrant or increasing the Exercise Price.
+
+       SECTION 5.03.   Certain Issuances. If at any time or from time to time
+the Company shall issue (other than in a Permitted Issuance) (i) Common Stock at
+a price per share that is lower at the date such issuance becomes a binding
+commitment of the Company than the then current Exercise Price or (ii) rights,
+options, or warrants for, or securities convertible or exchangeable into, Common
+Stock entitling the holders thereof to subscribe for or purchase shares of
+Common Stock at a price per share that is lower at the date such issuance
+becomes a binding commitment of the Company than the then current Exercise
+Price, then the number of shares of Common Stock thereafter purchasable upon the
+exercise of each Warrant shall be determined by multiplying the number of shares
+of Common Stock theretofore purchasable upon exercise of each Warrant by a
+fraction, the numerator of which shall be the number of shares of Common Stock
+outstanding on the date of issuance of such Common Stock, rights, options,
+warrants, or convertible or exchangeable securities (assuming the exercise or
+conversion of all then outstanding rights, options, warrants or convertible or
+exchangeable securities) plus the number of additional shares of Common Stock
+offered for subscription or purchase or into which such securities are
+convertible or exchangeable, and the denominator of which shall be the number of
+shares of Common Stock outstanding on the date of issuance of such Common Stock,
+rights, options, warrants, or convertible or exchangeable securities (assuming
+the exercise or conversion of all then outstanding rights, options, warrants or
+convertible or exchangeable securities) plus the total number of shares of
+Common Stock that could be purchased with the aggregate consideration received
+through issuance of such Common Stock, rights, options, warrants, or convertible
+or exchangeable securities at the then current Exercise Price. In the event of
+any such adjustment, the Exercise Price shall be adjusted to a number determined
+by
+
+                                       11
+
+<PAGE>
+
+dividing the Exercise Price immediately before such date of issuance by the
+aforementioned fraction. Such adjustment shall be made whenever such shares of
+Common Stock, rights, options, warrants, or convertible or exchangeable
+securities are issued and shall become effective retroactively immediately after
+the date on which such Persons became entitled to receive such shares of Common
+Stock, rights, options, warrants or convertible or exchangeable securities. This
+Section 5.03 shall apply regardless of whether the Common Stock, rights,
+options, warrants or convertible or exchangeable securities are issued together
+with other obligations or securities, and regardless of whether any rights,
+options, or warrants are detachable or not detachable from other obligations or
+securities, provided, however, there shall be no adjustment under this Section
+5.03 upon an issuance of rights, warrants, options or convertible securities as
+compensation in lieu of cash in connection with any financing transaction
+including commercial bank facilities, bridge financing commitments or
+arrangements or other issuances of primary debt obligations or securities. If
+any Common Stock, rights, options, warrants or convertible or exchangeable
+securities are issued together with other obligations or securities, then an
+allocation shall be made of the aggregate consideration received as between such
+Common Stock, rights, options, warrants or convertible or exchangeable
+securities, on the one hand, and such other obligations or securities, on the
+other hand (as determined in good faith by the Board of Directors, whose
+determination shall be evidenced by a board resolution, a copy of which will be
+sent to Holders upon request), to determine a price per share for such Common
+Stock, rights, options, warrants or convertible or exchangeable securities for
+the purposes of this Section 5.03. This Section 5.03 shall apply with equal
+force and effect to any amendment, revision, adjustment, or other modification
+of the terms of any outstanding rights, options, or warrants for, or securities
+convertible or exchangeable into, Common Stock if and to the extent that such
+amendment, revision, adjustment, or other modification has the effect of
+allowing the holders thereof to subscribe for or purchase shares of Common Stock
+at a price per share that is lower at the date such modification becomes a
+binding obligation of the Company than the then current Exercise Price, to the
+extent and only to the extent that such rights, options, warrants or convertible
+or exchangeable securities were not issued in a Permitted Issuance. No
+adjustment shall be made pursuant to this Section 5.03 that would have the
+effect of decreasing the number of shares of Common Stock purchasable upon
+exercise of each Warrant or of increasing the Exercise Price.
+
+       SECTION 5.04.   Combination; Liquidation. (a) Except as provided in
+Section 5.04(b), in the event of a Combination, each Holder shall have the right
+to receive upon exercise of the Warrants such number of shares of capital stock
+or other securities or property that such Holder would have been entitled to
+receive upon or as a result of such Combination had such Warrant been exercised
+immediately prior to such event. Unless Section 5.04(b) is applicable to a
+Combination, the Company shall provide that the surviving or acquiring Person
+(the "Successor Company") in such Combination will expressly assume the
+Company's obligations under this Agreement. The provisions of this Section
+5.04(a) shall similarly apply to successive Combinations involving any Successor
+Company.
+
+                                       12
+
+<PAGE>
+
+          (a) Upon (i) a Combination where consideration to holders of Common
+Stock or other securities issuable upon exercise of the Warrants in exchange for
+their shares or such other securities is payable solely in cash, or (ii) the
+dissolution, liquidation, or winding-up of the Company, each Holder shall be
+entitled to receive distributions on an equal basis with the holders of Common
+Stock or other securities issuable upon exercise of the Warrants, as if the
+Warrants had been exercised immediately prior to such event, less the Exercise
+Price. In case of any Combination described in this Section 5.04(b), the
+Successor Company and, in the event of any dissolution, liquidation, or
+winding-up of the Company, the Company, shall deposit promptly with a bank or
+trust company that has an office in New York City, chosen by the Successor
+Company or the Company, as applicable, and acceptable to a Majority of the
+Affected Holders, funds, if any, necessary to pay to the Holders the amounts to
+which they are entitled as described above. After such funds and the surrendered
+Warrant Certificates are received, such bank or trust company, on the Successor
+Company's or the Company's behalf, shall make payment to such Holders by
+delivering a check in such amount as is appropriate (or, in the case of
+consideration other than cash, such other consideration as is appropriate) to
+such Person or Persons as it may be directed in writing by Holders surrendering
+such Warrant Certificates.
+
+          SECTION 5.05. Redemptions; Tender Offers; Exchange Offers. In the
+event that the Company or any subsidiary of the Company shall, directly or
+indirectly, redeem, purchase or otherwise acquire shares of Common Stock
+pursuant to a plan of redemption, tender offer, exchange offer or otherwise for
+a price per share of Common Stock that is greater than the then Current Market
+Value per share of Common Stock in effect at the end of the trading day
+immediately following the day on which such tender offer or exchange offer
+expires, then the Company, or such subsidiary of the Company, shall offer to
+purchase Warrants for comparable consideration per share of Common Stock based
+on the number of shares of Common Stock that the Holders of such Warrants would
+receive upon exercise of such Warrants, less the Exercise Price; provided,
+however, if a tender offer is made for only a portion of the outstanding shares
+of Common Stock, then such offer shall be made for Warrants in the same pro rata
+proportion, and provided, further, that the Exercise Price of any Warrants not
+redeemed, purchased or otherwise acquired shall be adjusted to a number
+determined by multiplying the Exercise Price immediately before such redemption,
+acquisition or exchange by a fraction of which the denominator shall be the then
+Current Market Value per share of Common Stock immediately prior to such event
+and the numerator shall be the result of dividing (a) an amount equal to (i) the
+product of the number of shares of Common Stock outstanding and the Current
+Market Value per share of Common Stock, in each case immediately prior to such
+event minus (ii) the aggregate consideration paid by the Company in such event
+(plus, in the case of such options, rights or convertible or exchangeable
+securities, the aggregate additional consideration to be paid by the Company
+upon exercise, conversion or exchange), by (b) the number of shares of Common
+Stock outstanding immediately after such redemption, acquisition or exchange.
+
+                                       13
+
+<PAGE>
+
+          SECTION 5.06. Other Events. If any event occurs as to which the
+foregoing provisions of this Article 5 are not strictly applicable or, if
+strictly applicable, would not, in the good faith judgment of the Board of
+Directors, fairly and adequately protect the purchase rights of the Warrants in
+accordance with the essential intent and principles of such provisions, then the
+Board of Directors shall make such adjustments in the application of such
+provisions, in accordance with such essential intent and principles, as shall be
+reasonably necessary, in the good faith opinion of such Board of Directors, to
+protect such purchase rights as aforesaid, but in no event shall any such
+adjustment have the effect of decreasing the number of shares of Common Stock
+purchasable upon exercise of each Warrant or of increasing the Exercise Price.
+
+          SECTION 5.07. Superseding Adjustment. Upon the expiration of any
+rights, options, warrants, or conversion or exchange privileges that resulted in
+any adjustment pursuant to this Article 5, if any thereof shall not have been
+exercised, the number of Warrant Shares purchasable upon the exercise of each
+Warrant shall be readjusted as if (i) the only shares of Common Stock issuable
+upon exercise of such rights, options, warrants, or conversion or exchange
+privileges were the shares of Common Stock, if any, actually issued upon the
+exercise of such rights, options, warrants, or conversion or exchange privileges
+and (ii) shares of Common Stock actually issued, if any, were issuable for the
+consideration actually received by the Company upon such exercise plus the
+aggregate consideration, if any, actually received by the Company for the
+issuance, sale, or grant of all such rights, options, warrants, or conversion or
+exchange privileges whether or not exercised and the Exercise Price shall be
+readjusted inversely; provided, however, that no such readjustment shall (except
+by reason of an intervening adjustment under Section 5.01) have the effect of
+either decreasing the number of Warrant Shares purchasable upon the exercise of
+each Warrant or increasing the Exercise Price by an amount in excess of the
+amount of the adjustment to such number of Warrant Shares or to the Exercise
+Price initially made in respect of the issuance, sale, or grant of such rights,
+options, warrants, or conversion or exchange privileges.
+
+          SECTION 5.08. Minimum Adjustment. The adjustments required by the
+preceding Sections of this Article 5 shall be made whenever and as often as any
+specified event requiring an adjustment shall occur, except that no adjustment
+of the number of shares of Common Stock purchasable upon exercise of Warrants or
+of the Exercise Price that would otherwise be required shall be made (except in
+the case of a subdivision or combination of shares of Common Stock, as provided
+for in Section 5.01) unless and until such adjustment, either by itself or with
+other adjustments not previously made, increases by at least 1% the number of
+shares of Common Stock purchasable upon exercise of Warrants or decreases by at
+least 1% the Exercise Price in effect immediately before the making of such
+adjustment. Any adjustment representing a change of less than such minimum
+adjustment shall be carried forward and made as soon as such adjustment,
+aggregated with other adjustments required by this Article 5 and not previously
+made, would result in an aggregate adjustment representing a change equal to or
+greater than such minimum adjustment. For the purpose of any adjustment, any
+specified event shall
+
+                                       14
+
+<PAGE>
+
+be deemed to have occurred at the close of business on the date of its
+occurrence. In computing adjustments under this Article 5, fractional interests
+in Common Stock shall be taken into account to the nearest one-hundredth of a
+share.
+
+         SECTION 5.09. Notice of Adjustment. Whenever the Exercise Price or the
+number of shares of Common Stock and other property, if any, purchasable upon
+exercise of Warrants is adjusted, as herein provided, the Company shall prepare
+a certificate executed by an Officer, setting forth, in reasonable detail, the
+event requiring the adjustment and the method by which such adjustment was
+calculated, and specifying the Exercise Price and the number of shares of Common
+Stock purchasable upon exercise of Warrants after giving effect to such
+adjustment. The Company shall promptly mail a copy of such certificate to each
+Holder in accordance with Section 7.05.
+
+         SECTION 5.10. Notice of Certain Transactions. In the event that the
+Company shall propose (a) to pay any dividend payable in securities of any class
+to the holders of its Common Stock or to make any other distribution to the
+holders of its Common Stock, (b) to issue to any Person its Common Stock or
+offer the holders of its Common Stock rights to subscribe for or to purchase any
+shares of Common Stock or other Capital Stock, securities convertible into
+shares of Common Stock or other Capital Stock or any other securities, rights,
+or options,(c) to effect any capital reorganization, consolidation, or merger,
+or (d) to effect the voluntary or involuntary dissolution, liquidation, or
+winding-up of the Company, or in the event of a tender offer or exchange offer
+described in Section 5.05, the Company shall within 5 days send the Holders a
+notice of such proposed action or offer, such notice to be mailed to the Holders
+at their addresses as they appear in the Warrant Certificate Register, which
+shall specify the record date for the purposes of such dividend, distribution,or
+rights or the date such issuance or event is to take place and the date of
+participation therein by the holders of Common Stock, if any such date is to be
+fixed, and shall briefly indicate the effect of such action on the Common Stock
+and on the number and kind of any other shares of Capital Stock and on other
+property, if any, and the number of shares of Common Stock and other property,
+if any, purchasable upon exercise of each Warrant and the Exercise Price, in
+each case after giving effect to any adjustment that will be required as a
+result of such action. Such notice shall be given by the Company as promptly as
+possible and, in the case of any action covered by clause (a) or (b) above, at
+least 10 days prior to the record date for determining holders of the Common
+Stock for purposes of such action and, in the case of any other such action, at
+least 20 days prior to the date of the taking of such proposed action or the
+date of participation therein by the holders of Common Stock, whichever shall be
+the earlier.
+
+         SECTION 5.11. Adjustment to Warrant Certificate. The form of Warrant
+Certificate need not be changed because of any adjustment made pursuant to this
+Article 5, and Warrant Certificates issued after such adjustment may state the
+same Exercise Price and the same number of shares of Common Stock as are stated
+in any Warrant Certificates issued prior to the adjustment. The Company,
+however, may at any time in its sole discretion make any change in the form of
+Warrant Certificate that it may deem appropriate to give effect to such
+adjustments and that does not affect the substance
+
+                                       15
+
+<PAGE>
+
+of the Warrant Certificate, and any Warrant Certificate thereafter issued,
+whether in exchange or substitution for an outstanding Warrant Certificate or
+otherwise, may be in the form as so changed.
+
+                                   ARTICLE 6
+
+                                 Transferability
+
+     SECTION 6.01. Registration Rights. The Holders of Warrant Shares that are
+Transfer Restricted Securities shall be entitled to the registration rights set
+forth in Exhibit D.
+
+     SECTION 6.02. Legends. Except for Warrant Certificates delivered pursuant
+to Section 2.04(b)(v) of this Agreement, each Warrant Certificate evidencing the
+Warrants (and all Warrant Certificates issued in exchange therefor or
+substitution thereof) shall bear a legend in substantially the following form:
+
+     "THE WARRANTS AND THE WARRANT SHARES (THE "SECURITIES") HAVE NOT BEEN
+REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"),
+OR ANY STATE SECURITIES LAWS. NEITHER THIS SECURITY NOR ANY INTEREST OR
+PARTICIPATION HEREIN MAY BE REOFFERED, SOLD, ASSIGNED, TRANSFERRED, PLEDGED,
+ENCUMBERED, OR OTHERWISE DISPOSED OF IN THE ABSENCE OF SUCH REGISTRATION OR
+UNLESS SUCH TRANSACTION IS EXEMPT FROM, OR NOT SUBJECT TO, REGISTRATION AND
+SUBJECT TO COMPLIANCE WITH OTHER APPLICABLE LAWS. THE HOLDER HEREOF, BY ITS
+ACCEPTANCE HEREOF, AGREES TO OFFER, SELL, OR OTHERWISE TRANSFER SUCH SECURITY,
+UNLESS PREVIOUSLY REGISTERED UNDER THE SECURITIES ACT, ONLY (A) TO THE COMPANY;
+(B) PURSUANT TO AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT PROVIDED
+BY RULE 144 THEREUNDER (IF AVAILABLE); (C) PURSUANT TO AN OFFSHORE TRANSACTION
+COMPLYING WITH RULE 904 OF REGULATION S UNDER THE SECURITIES ACT; OR (D)
+PURSUANT TO ANOTHER AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF
+THE SECURITIES ACT."
+
+     Each certificate representing a Warrant Share purchased pursuant to a
+Warrant Certificate bearing the foregoing legend shall bear a similar legend
+(with appropriate modifications).
+
+                                   ARTICLE 7
+
+                                  Miscellaneous
+
+     SECTION 7.01. Rule 144A. The Company hereby agrees with each Holder, for so
+long as any Warrant Securities remain outstanding and during any period
+
+                                       16
+
+<PAGE>
+
+in which the Company is not subject to Section 13 or 15(d) of the Exchange Act,
+to make available, upon request of any Holder, to any Holder or beneficial owner
+of Warrant Securities in connection with any sale thereof and any prospective
+purchaser of such Warrant Securities from such Holder or beneficial owner, the
+information required by Rule 144A(d)(4) under the Securities Act in order to
+permit resales of such Warrant Securities pursuant to Rule 144A.
+
+     SECTION 7.02. Persons Benefiting. Nothing in this Agreement is intended or
+shall be construed to confer upon any Person other than the Company and the
+Holders any right, remedy, or claim under or by reason of this Agreement or any
+part hereof.
+
+     SECTION 7.03. Rights of Holders. Except as otherwise specifically required
+herein, holders of unexercised Warrants are not entitled (i) to receive
+dividends or other distributions, (ii) to receive notice of or vote at any
+meeting of the stockholders, (iii) to consent to any action of the stockholders,
+(iv) to receive notice of any other proceedings of the Company, or (v) to
+exercise any other rights as stockholders of the Company.
+
+     SECTION 7.04. Amendment. This Agreement may be amended by the parties
+hereto without the consent of any Holder (other than FSAPMI, if it is then a
+Holder) for the purpose of curing any ambiguity, or of curing, correcting or
+supplementing any defective provision contained herein or making any other
+provisions with respect to matters or questions arising under this Agreement as
+the Company may deem necessary or desirable; provided, however, that such action
+shall not affect adversely the rights of the Holders. Any amendment or
+supplement to this Agreement that has an adverse effect on the interests of any
+Holder shall require the written consent of a Majority of the Affected Holders.
+The consent of each Affected Holder shall be required for any amendment pursuant
+to which the number of Warrant Shares purchasable upon exercise of Warrants
+would be decreased or the Exercise Price would be increased (in either case,
+other than pursuant to adjustments provided herein). In determining whether the
+Holders of the required number of Warrants have concurred in any direction,
+waiver, or consent, Warrants owned by the Company or by any Person directly or
+indirectly controlling or controlled by or under direct or indirect common
+control with the Company shall be disregarded and deemed not to be outstanding.
+Also, subject to the foregoing, only Warrants outstanding at the time shall be
+considered in any such determination.
+
+     SECTION 7.05. Notices. Any notice or communication shall be in writing and
+delivered in Person or mailed by first-class mail addressed as follows:
+
+                                       17
+
+<PAGE>
+
+                  if to the Company:
+
+                               AmeriCredit Corp.
+                               801 Cherry Street, Suite 3900
+                               Fort Worth, TX 76102
+                               Attention: Daniel E. Berce
+                               Telecopy: (817) 302-7915
+
+                  with a copy to:
+
+                               AmeriCredit Corp.
+                               801 Cherry Street, Suite3900
+                               Fort Worth, TX 76102
+                               Attention: Chris A. Choate, Esq.
+                               Telecopy: (817) 302-7915
+
+                  if to FSAPMI:
+
+                               FSA Portfolio Management Inc.
+                               c/o Financial Security Assurance Inc.
+                               350 Park Avenue
+                               New York, NY 10022
+                               Attention: Senior Vice President--
+                                 Transaction Oversight
+                                 Re: AmeriCredit Corp.
+
+                  with a copy to:
+
+                               FSA Portfolio Management Inc.
+                               c/o Financial Security Assurance Inc.
+                               350 Park Avenue
+                               New York, NY 10022
+                               Attention: Bruce E. Stern, Esq.
+                                 Re: AmeriCredit Corp.
+
+                  The Company or FSAPMI by notice to the other may designate
+additional or different addresses for subsequent notices or communications.
+
+                  Any notice or communication mailed to a Holder other than
+FSAPMI shall be mailed to the Holder at the Holder's address as it appears on
+the Warrant Certificate Register and shall be sufficiently given if so mailed
+within the time prescribed.
+
+                                       18
+
+<PAGE>
+
+     Failure to mail a notice or communication to a Holder or any defect in it
+shall not affect its sufficiency with respect to other Holders. If a notice or
+communication is mailed in the manner provided above, it is duly given, whether
+or not the addressee receives it.
+
+     SECTION 7.06. Governing Law. THE LAWS OF THE STATE OF NEW YORK SHALL GOVERN
+THIS AGREEMENT AND THE WARRANT CERTIFICATES.
+
+     SECTION 7.07. Successors. All agreements of the Company in this Agreement
+and the Warrant Certificates shall bind the Company's successors.
+
+     SECTION 7.08. Multiple Originals. The parties may sign any number of copies
+of this Agreement. Each signed copy shall be an original, but all of them
+together represent the same agreement. One signed copy is enough to prove this
+Agreement.
+
+     SECTION 7.09. Table of Contents. The table of contents and headings of the
+Articles and Sections of this Agreement have been inserted for convenience of
+reference only, are not intended to be considered a part hereof and shall not
+modify or restrict any of the terms or provisions hereof.
+
+     SECTION 7.10. Severability; Remedies Cumulative; Delay Not Waiver. The
+provisions of this Agreement are severable, and if any clause or provision shall
+be held invalid, illegal, or unenforceable in whole or in part in any
+jurisdiction, then such invalidity or unenforceability shall affect in that
+jurisdiction only such clause or provision, or part thereof, and shall not in
+any manner affect such clause or provision in any other jurisdiction or any
+other clause or provision of this Agreement in any jurisdiction. Unless
+otherwise expressly provided, no remedy herein conferred upon or reserved to any
+Holder is intended to be exclusive of any other available remedy, but each
+remedy shall be cumulative and shall be in addition to other remedies existing
+at law or in equity. No delay or failure on the part of any Holder to exercise
+any right or power hereunder shall impair any such right or power or shall be
+construed to be a waiver thereof, but any such right and power may be exercised
+from time to time and as often as may be deemed expedient by such Holder.
+
+     SECTION 7.11. Specific Performance. The parties hereby declare that it is
+impossible to measure in money the damages that will accrue to a party hereto by
+reason of a failure to perform any of the obligations under this Agreement.
+Therefore, all parties hereto shall have the right to specific performance of
+the obligations of the other parties under this Agreement, and if any party
+hereto shall institute an action or proceeding to enforce the provisions hereof,
+any Person (including the Company) against whom such action or proceeding is
+brought hereby waives the claim or defense therein that such party has an
+adequate remedy at law, and such Person shall not urge in any such action or
+proceeding the claim or defense that such remedy at law exists.
+
+                                       19
+
+<PAGE>
+
+     SECTION 7.12.    Jurisdiction. (a) The Company hereby irrevocably and
+unconditionally submits, for itself and its property, to the nonexclusive
+jurisdiction of any New York State court or Federal court of the United States
+of America sitting in New York City, and any appellate court from any thereof,
+in any action or proceeding arising out of or relating to this Agreement, or for
+recognition or enforcement of any judgment, and each of the parties hereto
+hereby irrevocably and unconditionally agrees that all claims in respect of any
+such action or proceeding may be heard and determined in such New York State or,
+to the extent permitted by law, in such Federal court. Each of the parties
+hereto agrees that a final judgment in any such action or proceeding shall be
+conclusive and may be enforced in other jurisdictions by suit on the judgment or
+in any other manner provided by law. Nothing in this Agreement shall affect any
+right that FSAPMI or any other Holder may otherwise have to bring any action or
+proceeding relating to this Agreement against the Company or its properties in
+the courts of any jurisdiction.
+
+     (b) The Company hereby irrevocably and unconditionally waives, to the
+fullest extent it may legally and effectively do so, any objection that it may
+now or hereafter have to the laying of venue of any suit, action, or proceeding
+arising out of or relating to this Agreement in any New York State or Federal
+court sitting in New York City. Each of the parties hereto hereby irrevocably
+waives, to the fullest extent permitted by law, the defense of an inconvenient
+forum to the maintenance of such action or proceeding in any such court.
+
+                 [Remainder of this page is intentionally blank]
+
+                                       20
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties have caused this Agreement to be duly
+executed as of the date first written above.
+
+                              AMERICREDIT CORP.
+
+                              by
+
+                              _________________________________________________
+                              Name:
+                              Title:
+
+                              FSA PORTFOLIO MANAGEMENT INC.
+
+                              by
+                              _________________________________________________
+                              Name:
+                              Title:
+
+                              (Warrant Agreement dated as of September 26, 2002)
+
+                                       21
+
+<PAGE>
+
+                                                                       EXHIBIT A
+
+                          [FORM OF WARRANT CERTIFICATE]
+
+THE WARRANTS AND THE WARRANT SHARES (THE "SECURITIES") HAVE NOT BEEN REGISTERED
+UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), OR ANY
+STATE SECURITIES LAWS. NEITHER THIS SECURITY NOR ANY INTEREST OR PARTICIPATION
+HEREIN MAY BE REOFFERED, SOLD, ASSIGNED, TRANSFERRED, PLEDGED, ENCUMBERED, OR
+OTHERWISE DISPOSED OF IN THE ABSENCE OF SUCH REGISTRATION OR UNLESS SUCH
+TRANSACTION IS EXEMPT FROM, OR NOT SUBJECT TO, REGISTRATION AND SUBJECT TO
+COMPLIANCE WITH OTHER APPLICABLE LAWS. THE HOLDER HEREOF, BY ITS ACCEPTANCE
+HEREOF, AGREES NOT TO OFFER, SELL OR OTHERWISE TRANSFER SUCH SECURITY, UNLESS
+PREVIOUSLY REGISTERED UNDER THE SECURITIES ACT, ONLY (A) TO THE COMPANY; (B)
+PURSUANT TO AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT PROVIDED BY
+RULE 144 THEREUNDER (IF AVAILABLE); (C) PURSUANT TO AN OFFSHORE TRANSACTION
+COMPLYING WITH RULE 904 OF REGULATION S UNDER THE SECURITIES ACT; OR (D)
+PURSUANT TO ANOTHER AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF
+THE SECURITIES ACT.
+
+<PAGE>
+
+No.______  Certificate for ___________ Warrants
+
+
+                      WARRANTS TO PURCHASE COMMON STOCK OF
+                                AMERICREDIT CORP.
+
+
+     THIS CERTIFIES THAT, __________, or its registered assigns, is the
+registered holder of the number of Warrants set forth above (the "Warrants").
+Each Warrant entitles the holder thereof (the "Holder"), at its option and
+subject to the provisions contained herein and in the Warrant Agreement referred
+to below, to purchase, at any time prior to the Expiration Date (as defined
+herein), at the option of such Holder, from AmeriCredit Corp., a Texas
+corporation (the "Company"), one share of common stock, par value $0.01 per
+share, of the Company (the "Common Stock") at the per share exercise price equal
+to nine U.S. dollars ($9.00) per share (the "Exercise Price"), or by Cashless
+Exercise referred to below. This Warrant Certificate shall terminate and become
+void as of the close of business on September 14, 2007 (the "Expiration Date")
+or upon the exercise hereof as to all the shares of Common Stock subject hereto.
+The number of shares purchasable upon exercise of the Warrants and the Exercise
+Price per share shall be subject to adjustment from time to time as set forth in
+the Warrant Agreement.
+
+     This Warrant Certificate is issued under and in accordance with a Warrant
+Agreement dated as of September 26, 2002 (the "Warrant Agreement"), between the
+Company and FSA Portfolio Management Inc., a Delaware corporation ("FSAPMI"),
+and is subject to the terms and provisions contained in the Warrant Agreement,
+to all of which terms and provisions the Holder of this Warrant Certificate
+consents by acceptance hereof. The Warrant Agreement is hereby incorporated
+herein by reference and made a part hereof. Reference is hereby made to the
+Warrant Agreement for a full statement of the respective rights, limitations of
+rights, duties, and obligations of the Company and the Holders. Capitalized
+terms used but not defined herein shall have the meanings ascribed thereto in
+the Warrant Agreement. A copy of the Warrant Agreement may be obtained for
+inspection by the Holder hereof upon written request to the Company at
+AmeriCredit Corp., 801 Cherry Street, Suite 3900, Fort Worth, Texas 76102,
+Attention: Chris A. Choate, Esq., Re: FSAPMI Warrant Agreement dated as of
+September 26, 2002.
+
+     Subject to the terms of the Warrant Agreement, the Warrants may be
+exercised in whole or in part (i) by presentation of this Warrant Certificate
+with the Purchase Form attached hereto duly executed and with the simultaneous
+payment of the Exercise Price (subject to adjustment) in cash to the Company at
+the office of the Company mentioned above or (ii) by Cashless Exercise. Payment
+of the Exercise Price in cash shall be made by certified or official bank check
+payable to the order of the Company or by wire transfer of funds to an account
+designated by the Company for such purpose. Payment by Cashless Exercise shall
+be made by the surrender of a Warrant or Warrants represented by one or more
+Warrant Certificates and without payment of the Exercise Price in cash, for such
+number of shares of Common Stock equal to the product
+
+                                      A-2
+
+<PAGE>
+
+of (1) the number of shares of Common Stock for which such Warrant is
+exercisable with payment in cash of the Exercise Price as of the date of
+exercise and (2) a fraction, the numerator of which is the excess of the Current
+Market Value per share of Common Stock on the date of exercise over the Exercise
+Price per share as of the date of exercise and the denominator of which is the
+Current Market Value per share of the Common Stock on the date of exercise.
+
+     As provided in the Warrant Agreement and subject to the terms and
+conditions therein set forth, the Warrants shall be exercisable at any time on
+and after the Grant Date; provided, however, that no Warrant shall be
+exercisable after the Expiration Date.
+
+     In the event the Company enters into a Combination, the Holder hereof will
+be entitled to receive the shares of capital stock or other securities or other
+property of such surviving entity as the Holder would have received had the
+Holder exercised its Warrants immediately prior to such Combination; provided,
+however, that in the event that, in connection with such Combination,
+consideration to holders of Common Stock in exchange for their shares is payable
+solely in cash or in the event of the dissolution, liquidation, or winding-up of
+the Company, the Holder hereof will be entitled to receive cash distributions as
+the Holder would have received had the Holder exercised its Warrants immediately
+prior to such Combination, less the Exercise Price.
+
+     The Company may require payment of a sum sufficient to pay all taxes,
+assessments, or other governmental charges in connection with the transfer or
+exchange of the Warrant Certificates pursuant to Section 2.04 of the Warrant
+Agreement but not for any exchange or original issuance (not involving a
+transfer) with respect to temporary Warrant Certificates, the exercise of the
+Warrants, or the Warrant Shares.
+
+     Upon any partial exercise of the Warrants, there shall be issued to the
+Holder hereof a new Warrant Certificate in respect of the shares of Common Stock
+as to which the Warrants shall not have been exercised. This Warrant Certificate
+may be exchanged at the office of the Company referred to above by presenting
+this Warrant Certificate properly endorsed with a request to exchange this
+Warrant Certificate for other Warrant Certificates evidencing an equal number of
+Warrants. No fractional Warrant Shares will be issued upon the exercise of the
+Warrants, but the Company shall pay an amount in cash equal to the Current
+Market Value for one Warrant Share on the trading day immediately preceding the
+date the Warrant is exercised, multiplied by the fraction of a Warrant Share
+that would be issuable on the exercise of any Warrant.
+
+     All shares of Common Stock issuable by the Company upon the exercise of the
+Warrants shall, upon such issue, be duly and validly issued and fully paid and
+non-assessable.
+
+     The Holder in whose name this Warrant Certificate is registered may, absent
+known or manifest error, be deemed and treated by the Company as the absolute
+
+                                      A-3
+
+<PAGE>
+
+owner of this Warrant Certificate for all purposes whatsoever and the Company
+shall not be affected by notice to the contrary.
+
+     The Warrants do not entitle any holder hereof to any of the rights of a
+shareholder of the Company.
+
+                                             AMERICREDIT CORP.
+
+
+                                             by
+                                             ___________________________________
+                                             Name:
+                                             Title:
+DATED:______________________________
+
+                                      A-4
+
+<PAGE>
+
+                                                                       EXHIBIT B
+                                                                              TO
+                                                               WARRANT AGREEMENT
+
+
+                  CERTIFICATE TO BE DELIVERED UPON EXCHANGE OR
+                      REGISTRATION OF TRANSFER OF WARRANTS
+
+Re:  Warrants to Purchase Common Stock (the "Warrants") of AmeriCredit Corp.
+     (the "Company")
+
+          This Certificate relates to Warrants held in definitive form by
+_______________ (the "Transferor").
+
+          The Transferor has requested the Company by written order to
+exchange or register the transfer of a Warrant or Warrants. In connection with
+such request and in respect of each such Warrant, the Transferor does hereby
+certify that the Transferor is familiar with the Warrant Agreement relating to
+the above captioned Warrants and that the transfer of this Warrant does not
+require registration under the Securities Act of 1933, as amended (the
+"Securities Act") because:*
+
+     [_]  Such Warrant is being acquired for the Transferor's own account
+without transfer.
+
+     [_]  Such Warrant is being transferred to the Company.
+
+     [_]  Such Warrant is being transferred pursuant to an effective
+registration statement pursuant to the Securities Act.
+
+     [_]  Such Warrant is being transferred pursuant to an offshore transaction
+in accordance with Rule 904 of Regulation S under the Securities Act.
+
+     [_]  Such Warrant is being transferred in a transaction meeting the
+requirements of Rule 144 under the Securities Act.
+
+     [_]  Such Warrant is being transferred pursuant to another available
+exemption from the registration requirements of Rule 144 under the Securities
+Act.
+
+          If such transfer is being made pursuant to an offshore
+transaction in accordance with Rule 904 of Regulation S under the Securities
+Act, the Transferor further certifies that:
+
+          (i) the offer of the Warrants was not made to a Person in the United
+States;
+
+* Please check applicable box.
+
+<PAGE>
+
+          (ii) at the time the buy order was originated, the transferee was
+     outside the United States or the Transferor and any Person acting on its
+     behalf reasonably believed that the transferee was outside the United
+     States;
+
+          (iii) no directed selling efforts have been made by the Transferor in
+     the United States in contravention of the requirements of Rule 903(b) or
+     Rule 904(b) of Regulation S under the Securities Act of 1933, (the
+     "Securities Act"), as applicable; and
+
+          (iv) the transaction is not part of a plan or scheme by the Transferor
+     to evade the registration requirements of the Securities Act.
+
+     Terms used in this paragraph have the meanings set forth in Regulation S.
+
+     The Company is entitled to rely upon this Certificate.
+
+                                                     [INSERT NAME OF TRANSFEROR]
+
+
+                                                     by ________________
+
+Date: _________________
+
+                                      B-2
+
+<PAGE>
+
+                                                                       EXHIBIT C
+                                                            TO WARRANT AGREEMENT
+
+                   FORM OF ELECTION TO PURCHASE WARRANT SHARES
+                 (to be executed only upon exercise of Warrants)
+
+                                AMERICREDIT CORP.
+
+
+     The undersigned hereby (i) irrevocably elects to exercise _____ Warrants at
+an exercise price per Warrant (subject to adjustment) of $___ to acquire an
+equal number of shares of Common Stock, par value $0.01 per share, of
+AmeriCredit Corp., on the terms and conditions specified in the within Warrant
+Certificate and the Warrant Agreement therein referred to, (ii) surrenders this
+Warrant Certificate and all right, title and interest therein to AmeriCredit
+Corp., and (iii) directs that the shares of Common Stock deliverable upon the
+exercise of such Warrants be registered or placed in the name and at the address
+specified below and delivered thereto.
+
+Date:_______________
+
+                                                        *
+                      -----------------------------------
+                              (Signature of Owner)
+
+                      _______________________
+                              (Street Address)
+
+                      _______________________
+                            (City) (State) (Zip Code)
+
+                            Signature Guaranteed by:
+                      _______________________
+
+* The signature must correspond with the name as written upon the face of the
+within Warrant Certificate in every particular, without alteration or
+enlargement or any change whatever, and must be guaranteed by a national bank or
+trust company or by a member firm of any national securities exchange.
+
+<PAGE>
+
+Securities and/or check to be issued to:
+
+Please insert social security
+or identifying number:____________________________________
+
+
+Name:
+
+Street Address:
+
+City, State and Zip Code:
+
+Any unexercised Warrants evidenced by the within Warrant Certificate to be
+issued to:
+
+Please insert social security or identifying number:
+
+Name:
+Street Address:
+
+                            City, State and Zip Code:
+
+                                      C-2
+
+<PAGE>
+
+                                                                       EXHIBIT D
+                                                                              TO
+                                                               WARRANT AGREEMENT
+
+                               REGISTRATION RIGHTS
+
+       Section 1.   Shelf Registration. The Company shall register all Warrant
+Shares on Form S-1, S-2 or S-3 (or any similar registration that may be
+available at such time) in connection with, to the extent permitted by the SEC,
+the sale or distribution of Warrant Shares, in accordance with the methods of
+distribution elected by such Holders and set forth in such registration
+statement (hereafter, a "Shelf Registration Statement"). The Company shall, at
+its cost, as promptly as practicable (but in no event later than February 28,
+2003) file with the SEC and thereafter shall use its best efforts to cause to be
+declared effective a registration statement under the Securities Act on or prior
+to April 29, 2003. Notwithstanding the foregoing, the Company shall not be
+obligated to effect any such registration pursuant to this Section 1 if the
+Company shall furnish to the holders a certificate signed by the Chief Executive
+Officer or Chief Financial Officer of the Company stating that in the good faith
+judgment of the Board, it would be materially detrimental to the Company and its
+shareholders for such registration to be effected at such time, in which event
+the Company shall have the right to defer the filing of the registration
+statement for a period of not more than 90 days after receipt of the request of
+the Holder or Holders under this Section 1; provided, however, that in the event
+the Company elects to exercise such right with respect to any registration, it
+shall not exercise such right again prior to the date that is nine months after
+the date on which the registration statement relating to such deferred
+registration is filed. The Company shall use its best efforts to keep the Shelf
+Registration Statement continuously effective in order to permit the prospectus
+forming part thereof to be usable by Holders for a period that will terminate
+when all Warrant Shares outstanding are freely saleable (i.e., without
+registration or prospectus delivery), provided, however, that if, subsequent to
+such time, any of the Warrant Shares outstanding cease, for any reason, to be
+freely saleable, the Company shall be subject to the obligations set forth in
+this Exhibit D as if such event had not happened. The Company shall be deemed
+not to have used its best efforts to keep the Shelf Registration Statement
+effective during the requisite period if it voluntarily takes any action that
+would result in Holders of Warrant Shares covered thereby not being able to
+offer and sell such Warrant Shares during that period, unless such action is
+required by applicable law, except as provided in Section 2 below.
+Notwithstanding any other provisions hereof, the Company will ensure that (i)
+any Shelf Registration Statement and any amendment thereto and any prospectus
+forming part thereof and any supplement thereof complies in all material
+respects with the Securities Act and the rules and regulations thereunder, (ii)
+any Shelf Registration Statement and any amendment thereto does not, when it
+becomes effective, contain an untrue statement of a material fact or omit to
+state a material fact required to be stated therein or necessary to make the
+statements therein not misleading and (iii) any prospectus forming part of any
+Shelf Registration Statement, and any supplement to such prospectus, does not
+include an untrue statement of a material fact or omit to state a material fact
+necessary in order to
+
+<PAGE>
+
+make the statements therein, in the light of the circumstances under which they
+were made, not misleading.
+
+       Section 2.   Effective Registration Statement. A registration pursuant to
+Section 1 above will not be deemed to have been effected unless the registration
+statement relating thereto has become effective under the Securities Act. The
+Company may, at any time, in the case of any registration statement filed in
+accordance with Section 1, delay the filing of such registration statement or,
+only in the case of any registration statement filed in accordance with Section
+1, suspend the effectiveness of such registration statement or (without
+suspending such effectiveness) instruct the Holders not to sell Warrant Shares
+included in any such registration statement, but only if the Company shall have
+determined in good faith that the Company would be required (i) to disclose any
+actions taken or proposed to be taken by the Company in good faith and for valid
+business reasons, including without limitation, the acquisition or divestiture
+of assets, or (ii) to comply with initial or continuing disclosure obligations
+that (x) would have a material adverse effect on the Company or upon such
+actions or (y) the Board determines would not be in the best interests Company's
+shareholders (a "Suspension Period"), by providing the Holders with written
+notice of such Suspension Period; provided, however, the Suspension Periods and
+any Supplemental Period (defined below) (i) shall not be declared hereunder
+unless the Company similarly suspends the effectiveness of other registration
+statements covering, or (without suspending such effectiveness) similarly
+instructs the holders not to sell the shares included in other registration
+statements covering, all other Capital Stock that is of the same class of stock
+as the Warrant Shares and (ii) shall not exceed one hundred eighty (180) days in
+the aggregate for any twelve (12) month period, or ninety (90) days for any one
+such period. The Company shall use its best efforts to provide such notice as
+soon as practicable and in any event prior to the commencement of such a
+Suspension Period. In addition, in the case of any registration statement, the
+Company shall not be required to keep such registration statement effective or
+may (without suspending such effectiveness) instruct the Holders not to sell
+Warrant Shares during any period in which the Company is instructed, directed,
+ordered, or otherwise requested by any governmental agency or self-regulatory
+organization to stop or suspend such trading or sales ("Supplemental Period").
+In the event of a Suspension Period or Supplemental Period, the period during
+which such registration statement is to remain effective pursuant to Section 1
+shall be tolled until the end of any such Suspension Period or Supplemental
+Period.
+
+       Section 3.   Expenses. All registration and offering expenses (other than
+underwriting commissions and discounts payable in respect of Warrant Shares sold
+by Holders) shall be paid by the Company in the case of any and all
+registrations governed by Section 1 hereof. Without limiting the foregoing, the
+Company shall pay all expenses incident to the Company's performance of its
+obligations hereunder, including registration and filing fees, fees and expenses
+of compliance with securities or blue sky laws, printing expenses, internal
+expenses (including all salary and expenses of its officers and employees
+performing legal or accounting duties), fees and disbursements of one counsel
+for the Holders designated pursuant to Section 5, and fees and disbursements
+
+                                      D-2
+
+<PAGE>
+
+of the Company's independent public accountants. Notwithstanding the foregoing,
+the parties hereto hereby agree that in an underwritten offering including any
+Warrant Shares, the underwriting discounts and commissions shall be for the
+account of the Holders of any Warrant Shares sold.
+
+       Section 4.   Registration Procedures. In connection with any Shelf
+Registration Statement contemplated by Section 1 hereof, the following
+provisions shall apply:
+
+       (a)   The Company shall (i) furnish to one counsel selected by a Majority
+of the Affected Holders, prior to the filing thereof with the SEC, a copy of the
+Shelf Registration Statement and each amendment thereof and each supplement, if
+any, to the prospectus included therein for such counsel's review and comment;
+(ii) include within the prospectus contained in the Shelf Registration Statement
+a section entitled "Plan of Distribution," reasonably acceptable to such counsel
+selected by a Majority of the Affected Holders; and (iii) include the names of
+all Holders as selling securityholders.
+
+       (b)   The Company shall give written notice to the Holders (which notice
+pursuant to clauses (ii)-(v) hereof shall be accompanied by an instruction to
+suspend the use of the prospectus until the requisite changes have been made):
+
+             (i)    when the Shelf Registration Statement or any amendment
+       thereto has been filed with the SEC and when the Shelf Registration
+       Statement or any post-effective amendment thereto has become effective;
+
+             (ii)   of any request by the SEC for amendments or supplements to
+       the Shelf Registration Statement or the prospectus included therein or
+       for additional information;
+
+             (iii)  of the issuance by the SEC of any stop order suspending the
+       effectiveness of the Shelf Registration Statement or the initiation of
+       any proceedings for that purpose;
+
+             (iv)   of the receipt by the Company or its legal counsel of any
+       notification with respect to the suspension of the qualification of the
+       Warrant Shares for sale in any jurisdiction or the initiation or
+       threatening of any proceeding for such purpose; and
+
+             (v)    of the happening of any event that requires the Company to
+       make changes in the Shelf Registration Statement or the prospectus in
+       order that the Shelf Registration Statement or the prospectus do not
+       contain an untrue statement of a material fact nor omit to state a
+       material fact required to be stated therein or necessary to make the
+       statements therein (in the case of the prospectus, in light of the
+       circumstances under which they were made) not misleading.
+
+                                      D-3
+
+<PAGE>
+
+       (c)   The Company shall make every reasonable effort to obtain the
+withdrawal at the earliest possible time, of any order suspending the
+effectiveness of the Shelf Registration Statement.
+
+       (d)   The Company shall furnish to each Holder, without charge, at least
+one copy of the Shelf Registration Statement and any post-effective amendment
+thereto, including financial statements and schedules, and, if the Holder so
+requests in writing, all exhibits thereto.
+
+       (e)   The Company shall, during the period that the Shelf Registration is
+effective, deliver to each Holder, without charge, as many copies of the
+prospectus (including each preliminary prospectus) included in the Shelf
+Registration Statement and any amendment or supplement thereto as such Holder
+may reasonably request. The Company consents, subject to the provisions of this
+Agreement, to the use of the prospectus or any amendment or supplement thereto
+by each of the selling Holders of the Warrant Shares in connection with the
+offering and sale of the Warrant Shares covered by the prospectus, or any
+amendment or supplement thereto, included in the Shelf Registration Statement.
+
+       (f)   Prior to the public offering of the Warrant Shares pursuant to a
+Shelf Registration Statement, the Company shall register or qualify or cooperate
+with the Holders and their respective counsel in connection with the
+registration or qualification of the Warrant Shares for offer and sale under the
+securities or "blue sky" laws of such states of the United States as any Holder
+reasonably requests in writing and do any and all other acts or things
+reasonably necessary or advisable to enable the offer and sale in such
+jurisdictions of the Warrant Shares covered by such Shelf Registration
+Statement; provided, however, that the Company shall not be required to (i)
+qualify generally to do business in any jurisdiction where it is not then so
+qualified or (ii) take any action which would subject it to general service of
+process or to taxation in any jurisdiction where it is not then so subject.
+
+       (g)   The Company shall cooperate with the Holders to facilitate the
+timely preparation and delivery of certificates representing the Warrant Shares
+to be sold pursuant to any Shelf Registration Statement free of any restrictive
+legends and in such denominations and registered in such names as the Holders
+may request a reasonable period of time prior to sales of the Warrant Shares
+pursuant to such Shelf Registration Statement.
+
+       (h)   Upon the conclusion of any Suspension Period, the Company shall
+promptly prepare and file a post-effective amendment to the Shelf Registration
+Statement or a supplement to the related prospectus and any other required
+document so that, as thereafter delivered to Holders or purchasers of Warrant
+Shares, the prospectus will not contain an untrue statement of a material fact
+or omit to state any material fact required to be stated therein or necessary to
+make the statements therein, in light of the circumstances under which they were
+made, not misleading. If the Company notifies the Holders of the commencement of
+a Suspension Period as described in Section 2 above,
+
+                                      D-4
+
+<PAGE>
+
+then each Holder shall suspend use of the prospectus until such Holder's receipt
+of the copies of the supplemented or amended prospectus contemplated by this
+subsection, and, if so directed by the Company, such Holder will deliver to the
+Company (at the Company's expense) all copies, other than permanent file copies,
+then in such Holder's possession of the prospectus covering such Warrant Shares
+current at the time of receipt of such notice.
+
+       (i)   The Company will comply with all rules and regulations of the SEC
+to the extent and so long as they are applicable to the Shelf Registration
+Statement and will make generally available to its security holders as soon as
+reasonably practicable (or otherwise provide in accordance with Section 11(a) of
+the Securities Act) an earnings statement satisfying the provisions of Section
+11(a) of the Securities Act, covering a 12-month period beginning with the first
+month of the Company's first fiscal quarter commencing after the effective date
+of the shelf Registration Statement.
+
+       (j)   The Company may require each Holder to furnish to the Company such
+information regarding the Holder and the distribution of the Warrant Shares as
+the Company may from time to time reasonably require for inclusion in the Shelf
+Registration Statement, and the Company may exclude from such registration the
+Warrant Shares of any Holder that unreasonably fails to furnish such information
+within a reasonable time after receiving such request.
+
+       (k)   The Company shall enter into such customary agreements (including,
+if requested, an underwriting agreement in customary form) and take all such
+other action, if any, as any Holder of the Securities shall reasonably request
+in order to facilitate the disposition of the Warrant Shares pursuant to any
+Shelf Registration Statement.
+
+       (l)   The Company shall (i) make reasonably available for inspection by
+the Holders, any underwriter participating in any disposition pursuant to the
+Shelf Registration Statement and any attorney, accountant or other agent
+retained by any of the Holders or any such underwriter all relevant financial
+and other records, pertinent corporate documents and properties of the Company
+and (ii) cause the Company's officers, directors, employees, accountants and
+auditors to supply all relevant information reasonably requested by the Holders
+or any such underwriter, attorney, accountant or agent in connection with the
+Shelf Registration Statement, in each case, as shall be reasonably necessary to
+enable such persons, to conduct a reasonable investigation within the meaning of
+Section 11 of the Securities Act; provided that such Holder, underwriter,
+attorney, accountant or other agent executes a confidentiality Agreement with
+the Company.
+
+       (m)   In connection with an underwritten offering, the Company, if
+requested by any Holder, (i) shall cause its counsel to deliver an opinion, in
+customary form for the purposes of the registration, addressed to such Holders
+and the managing underwriters and dated the effective date of such Shelf
+Registration Statement; (ii) shall cause its officers to execute and deliver all
+customary documents and certificates and
+
+                                      D-5
+
+<PAGE>
+
+updates thereof requested by any underwriters of the Warrant Shares and (iii)
+shall obtain from its independent public accountants a "comfort letter" in
+customary form and covering matters of the type customarily covered in "comfort
+letters" in connection with primary underwritten offerings.
+
+       (n)   The Company shall use its best efforts to take all other steps
+necessary to effect the registration of the Warrant Shares covered by a Shelf
+Registration Statement contemplated hereby.
+
+       Section 5.  Indemnification. (a) The Company agrees to indemnify and hold
+harmless each Holder and each person, if any, who controls such Holder within
+the meaning of the Securities Act or the Exchange Act (each Holder and such
+controlling persons are referred to collectively as the "Indemnified Parties")
+from and against any losses, claims, damages or liabilities, joint or several,
+or any actions in respect thereof (including, but not limited to, any losses,
+claims, damages, liabilities or actions relating to purchases and sales of the
+Warrant Shares) to which each Indemnified Party becomes subject under the
+Securities Act, the Exchange Act or otherwise, insofar as such losses, claims,
+damages, liabilities or actions arise out of or are based upon any untrue
+statement or alleged untrue statement of a material fact contained in a Shelf
+Registration Statement or prospectus or in any amendment or supplement thereto
+or in any preliminary prospectus relating to a Shelf Registration Statement, or
+arise out of, or are based upon, the omission or alleged omission to state
+therein a material fact required to be stated therein or necessary to make the
+statements therein not misleading, and shall reimburse, as incurred, the
+Indemnified Parties for any legal or other expenses reasonably incurred by them
+in connection with investigating or defending any such loss, claim, damage,
+liability or action in respect thereof; provided, however, that (i) the Company
+shall not be liable in any such case to the extent that such loss, claim, damage
+or liability arises out of or is based upon any untrue statement or alleged
+untrue statement or omission or alleged omission made in a Registration
+Statement or prospectus or in any amendment or supplement thereto or in any
+preliminary prospectus relating to a Shelf Registration Statement in conformity
+with written information pertaining to such Holder and furnished to the Company
+by or on behalf of such Holder specifically for inclusion therein and (ii) with
+respect to any untrue statement or omission or alleged untrue statement or
+omission made in any preliminary prospectus relating to a Shelf Registration
+Statement, the indemnity agreement contained in this subsection (a) shall not
+inure to the benefit of any Holder from whom the person asserting any such
+losses, claims, damages or liabilities purchased the Warrant Shares concerned,
+to the extent that a prospectus relating to such Securities was required to be
+delivered by such Holder under the Securities Act in connection with such
+purchase and any such loss, claim, damage or liability of such Holder results
+from the fact that there was not sent or given to such person, at or prior to
+the written confirmation of the sale of such Warrant Shares to such person, a
+copy of the final prospectus if the Company had previously furnished copies
+thereof to such Holder; provided further, however, that this indemnity agreement
+will be in addition to any liability which the Company may otherwise have to
+such Indemnified Party. The Company shall also indemnify underwriters, if any,
+and each person who
+
+                                      D-6
+
+<PAGE>
+
+controls such underwriters within the meaning of the Securities Act or the
+Exchange Act to the same extent as provided above with respect to the
+indemnification of the Holders.
+
+       (b)   Each Holder, severally and not jointly, will indemnify and hold
+harmless the Company and each person, if any, who controls the Company within
+the meaning of the Securities Act or the Exchange Act from and against any
+losses, claims, damages or liabilities or any actions in respect thereof, to
+which the Company or any such controlling person may become subject under the
+Securities Act, the Exchange Act or otherwise, insofar as such losses, claims,
+damages, liabilities or actions arise out of or are based upon any untrue
+statement or alleged untrue statement of a material fact contained in a Shelf
+Registration Statement or prospectus or in any amendment or supplement thereto
+or in any preliminary prospectus relating to a Shelf Registration Statement, or
+arise out of or are based upon the omission or alleged omission to state therein
+a material fact necessary to make the statements therein not misleading, but in
+each case only to the extent that the untrue statement or omission or alleged
+untrue statement or omission was made in conformity with written information
+pertaining to such Holder and furnished to the Company by or on behalf of such
+Holder specifically for inclusion therein; and, subject to the limitation set
+forth immediately preceding this clause, shall reimburse, as incurred, the
+Company and each person, if any, who controls the Company within the meaning of
+the Securities Act or the Exchange Act for any legal or other expenses
+reasonably incurred by the Company or any such controlling person in connection
+with investigating or defending any loss, claim, damage, liability or action in
+respect thereof. This indemnity agreement will be in addition to any liability,
+which such Holder may otherwise have to the Company or any of its controlling
+persons. Each Holder shall also provide customary indemnities to underwriters
+and each person who controls any of such underwriters within the meaning of the
+Securities Act or the Exchange Act to the same extent as provided above with
+respect to the indemnification of the Company.
+
+       (c)   Promptly after receipt by an indemnified party under this Section 5
+of notice of the commencement of any action or proceeding (including a
+governmental investigation), such indemnified party will, if a claim in respect
+thereof is to be made against the indemnifying party under this Section 5,
+notify the indemnifying party of the commencement thereof; but the omission so
+to notify the indemnifying party will not, in any event, relieve the
+indemnifying party from any obligations to any indemnified party other than the
+indemnification obligation provided in subsection (a) or (b) above. In case any
+such action is brought against any indemnified party, and it notifies the
+indemnifying party of the commencement thereof, the indemnifying party will be
+entitled to participate therein and, to the extent that it may wish, jointly
+with any other indemnifying party similarly notified, to assume the defense
+thereof, with counsel reasonably satisfactory to such indemnified party, and
+after notice from the indemnifying party to such indemnified party of its
+election so to assume the defense thereof the indemnifying party will not be
+liable to such indemnified party under this Section 5 for any legal or other
+expenses. An indemnifying party that elects not to assume the defense in any
+such action brought against an indemnified party shall not be under an
+obligation to pay the fees and expenses
+
+                                      D-7
+
+<PAGE>
+
+of more than one counsel for all parties. No indemnifying party shall, without
+the prior written consent of the indemnified party, effect any settlement of any
+pending or threatened action in respect of which any indemnified party is or
+could have been a party and indemnity could have been sought hereunder by such
+indemnified party unless such settlement includes an unconditional release of
+such indemnified party from all liability on any claims that are the subject
+matter of such action, and does not include a statement as to or an admission of
+fault.
+
+       (d)  If the indemnification provided for in this Section 5 is unavailable
+or insufficient to hold harmless an indemnified party under subsections (a) or
+(b) above, then each indemnifying party shall contribute to the amount paid or
+payable by such indemnified party as a result of the losses, claims, damages or
+liabilities (or actions in respect thereof) referred to in subsection (a) or (b)
+above (i) in such proportion as is appropriate to reflect the relative benefits
+received by the indemnifying party or parties on the one hand and the
+indemnified party on the other from the sale of the Warrant Shares, pursuant to
+the Shelf Registration Statement, or (ii) if the allocation provided by the
+foregoing clause (i) is not permitted by applicable law, in such proportion as
+is appropriate to reflect not only the relative benefits referred to in clause
+(i) above but also the relative fault of the indemnifying party or parties on
+the one hand and the indemnified party on the other in connection with the
+statements or omissions that resulted in such losses, claims, damages or
+liabilities (or actions in respect thereof) as well as any other relevant
+equitable considerations. The relative fault of the parties shall be determined
+by reference to, among other things, whether the untrue or alleged untrue
+statement of a material fact or the omission or alleged omission to state a
+material fact relates to information supplied by the indemnifying party on the
+one hand and the indemnified party on the other, and the parties' relative
+intent, knowledge, access to information and opportunity to correct or prevent
+such statement or omission. The amount paid by an indemnified party as a result
+of the losses, claims, damages or liabilities referred to in the first sentence
+of this subsection (d) shall be deemed to include any legal or other expenses
+reasonably incurred by such indemnified party in connection with investigating
+or defending any action or claim which is the subject of this subsection (d).
+Notwithstanding any other provision of this subsection (d), the Holders of the
+Securities shall not be required to contribute any amount in excess of the
+amount by which the net proceeds received by such Holders from the sale of the
+Warrant Shares pursuant to a Shelf Registration Statement exceeds the amount of
+damages which such Holders have otherwise been required to pay by reason of such
+untrue or alleged untrue statement or omission or alleged omission. No person
+guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of
+the Securities Act) shall be entitled to contribution from any person who was
+not guilty of such fraudulent misrepresentation. For purposes of this subsection
+(d), each person, if any, who controls such indemnified party within the meaning
+of the Securities Act or the Exchange Act shall have the same rights to
+contribution as such indemnified party and each person, if any, who controls the
+Company within the meaning of the Securities Act or the Exchange Act shall have
+the same rights to contribution as the Company.
+
+                                      D-8
+
+<PAGE>
+
+       (e)   The agreements contained in this Section 5 shall survive the sale
+of the Warrant Shares pursuant to a Shelf Registration Statement and shall
+remain in full force and effect, regardless of any termination or cancellation
+of this Agreement or any investigation made by or on behalf of any indemnified
+party.
+
+                                      D-9
+
+</TEXT>
+</DOCUMENT>

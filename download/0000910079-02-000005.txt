@@ -1,0 +1,3272 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>ex1040.txt
+<DESCRIPTION>UNION BANK LOAN AGREEMENT; PROMISSORY NOTE
+<TEXT>
+
+
+
+
+
+
+
+             AMENDED AND RESTATED LOAN AGREEMENT
+
+
+               Dated as of November 19, 2001
+
+
+                            Between
+
+
+              BEDFORD PROPERTY INVESTORS, INC.
+
+
+                          as Borrower
+
+
+                              and
+
+
+                UNION BANK OF CALIFORNIA, N.A.
+
+                           as Lender
+
+
+
+                     TABLE OF CONTENTS
+
+ARTICLE I:  DEFINITIONS	1
+ARTICLE II:  LOAN	7
+Section 2.1	Loan.	7
+Section 2.2	Use of Loan Proceeds.	8
+Section 2.3	Debt Service on the Loan;
+Disqualification
+of the Property.	8
+Section 2.4	No Revolving Loan.	9
+Section 2.5	Fees.	9
+(a)	Loan Fee.	9
+(b)	Payment of Fees.	9
+Section 2.6	Payments.	9
+(a)	Manner and Time of Payment.	9
+(b)	Prepayments.	10
+Section 2.7	Release of Property.	10
+Section 2.8	Substitution of Property.	11
+Section 2.9	Option to Extend.	13
+Section 2.10	Limitation on Borrower's Liability.	14
+ARTICLE III:  CONDITIONS TO LOAN	16
+Section 3.1	Conditions to Disbursement of Loan.	16
+(a)	Loan Documents.	16
+(b)	Property Documents.	17
+(c)	Corporate Documents.	17
+(d)	Performance.	17
+(e)	Material Adverse Changes.	18
+(f)	Litigation, Other Proceedings.	18
+(g)	Perfection of Liens.	18
+(h)	No Event of Default.	18
+(i)	Fees.	18
+(j)	Consents and Approvals.	18
+(k)	Insurance.	19
+(l)	Due Diligence.	19
+(m)	Representations and Warranties.	19
+(n)	Opinion(s) of Counsel.	19
+(o)	Tenant Letter(s) of Credit; Security Deposits
+			19
+ARTICLE IV:  REPRESENTATIONS AND WARRANTIES	20
+Section 4.1	Representations and Warranties.	20
+(a)	Organization; Power.	20
+(b)	Authority.	20
+(c)	No Conflict.	21
+(d)	Consents and Authorizations.	21
+(e)	Financial Statements.	21
+(f)	Projections and Forecasts.	21
+(g)	Litigation; Adverse Effects.	22
+(h)	Payment of Taxes.	22
+(i)	Material Adverse Agreements.	22
+(j)	Performance.	22
+(k)	Disclosure.	23
+(l)	Requirements of Law.	23
+(m)	Major Agreements; Leases.	23
+(n)	Title to Assets; No Liens.	24
+(o)	Location of Borrower.	24
+(p)	Status as a REIT.	24
+(q)	NYSE Listing.	24
+ARTICLE V:  REPORTING COVENANTS	24
+Section 5.1	Financial Statements and Other Financial
+              and Operating Information.	25
+(a)	Quarterly Property Statements.	25
+(b)	Quarterly Financial Statements.	25
+(c)	Annual Financial Statements.	25
+(d)	Cash Flow Projections.	25
+(e)	Knowledge of Event of Default.	26
+(f)	Litigation, etc.	26
+(g)	Election to Terminate Status as a REIT.	26
+(h)	SEC Filings.	27
+(i)	Other Information.	27
+Section 5.2	Notice of Change.	27
+ARTICLE VI:  OTHER COVENANTS	27
+Section 6.1	Existence, etc.	28
+Section 6.2	Taxes.	28
+Section 6.3	Insurance.	28
+Section 6.4	Compliance with Law.	29
+Section 6.5	Inspection of Properties; Books and
+              Records.	29
+Section 6.6	Conduct of Business.	30
+Section 6.7	Tenant Estoppel Certificates;
+Subordination, Nondisturbance and Attornment
+              Agreements.       30
+Section 6.8	Leases; Major Agreements.	30
+Section 6.9	Chief Executive Office.	30
+Section 6.10	Consolidations and Mergers.	30
+Section 6.11	State of Organization.	30
+Section 6.12	Security Deposits And Draws Under
+    Tenant Letter Of Credit.	31
+Section 6.13	Delivery of Additional Security;
+    Special Letters of Credit.	33
+ARTICLE VII:  EVENTS OF DEFAULT AND REMEDIES	34
+Section 7.1	Events of Default.	34
+(a)	Payment.	34
+(b)	Other Covenants.	34
+(c)	Representations and Warranties.	35
+(d)	Involuntary Bankruptcy; Appointment of
+        Receiver.	35
+(e)	Voluntary Bankruptcy; Appointment of
+        Receiver.	35
+(f)	Solvency; Material Adverse Change.	35
+(g)	Management Changes.	36
+(h)	Change in Control.	36
+Section 7.2	Rights and Remedies.	36
+(a)	Acceleration.	36
+(b)	Waiver of Demand.	37
+(c)	Environmental Assessment.	27
+ARTICLE VIII:  MISCELLANEOUS	37
+Section 8.1	Expenses.	37
+(a)	Generally.	37
+(b)	After Event of Default.	38
+Section 8.2	Indemnity.	38
+Section 8.3	Notices and Delivery.	39
+Section 8.4	Survival of Warranties, Indemnities
+    and Agreements.	39
+Section 8.5	No Waiver; Remedies Cumulative.	39
+Section 8.6	Marshalling; Recourse to Security; Payments Set Aside.	40
+Section 8.7	Severability.	40
+Section 8.8	Headings.	40
+Section 8.9	Governing Law.	40
+Section 8.10	Successors and Assigns.	40
+Section 8.11	Sale of Loan, Participations.	41
+Section 8.12	Counterparts; Inconsistencies.	41
+Section 8.13	Construction.	41
+Section 8.14	Entire Agreement.	42
+
+List of Exhibits
+
+Exhibit A	Properties
+Exhibit B	List of Tenants
+Exhibit C	Insurance Requirements
+Exhibit D	Reserve Requirements per Property Type
+
+
+
+
+           AMENDED AND RESTATED LOAN AGREEMENT
+
+
+  This Amended and Restated Loan Agreement ("Agreement")
+is made and entered into as of November 19, 2001, between
+BEDFORD PROPERTY INVESTORS, INC., a Maryland corporation
+("Borrower"), and UNION BANK OF CALIFORNIA, N.A.
+("Lender").
+
+                    R E C I T A L S:
+
+A. Borrower and Lender are parties to a non-revolving
+Loan Agreement dated as of December 24, 1996, as amended
+by a First Amendment to Loan Agreement dated July 31,
+1997 (as amended, "Prior Loan Agreement") in the maximum
+principal amount of $25,000,000 whereby Lender provided
+certain secured credit accommodations to Borrower.  The
+current principal balance outstanding under the Prior
+Loan Agreement is $14,065,067.49, as of November 1, 2001.
+
+B. Borrower has requested that Lender advance to
+Borrower
+an additional $7,753,931.51, thereby increasing the
+outstanding principal balance of the Loan to Twenty-One
+Million Eight Hundred Nineteen Thousand and 00/100ths
+Dollars $21,819,000, and that Lender extend the term of
+the Loan and make certain other modifications and
+amendments to the Prior Loan Agreement.
+
+C. Lender is willing to provide such additional funds
+to Borrower and make such requested modifications on the
+terms and conditions set forth in this Agreement.
+(Unless otherwise indicated, all Section references
+herein refer to provisions of this Agreement.)
+
+D. Effective as of the Closing Date, this Agreement
+shall fully amend and restate the Prior Loan Agreement,
+and Borrower and Lender shall concurrently amend the
+Deeds of Trust, Note, and other Loan Documents.
+
+  NOW, THEREFORE, in consideration of the premises and
+mutual covenants herein contained, the parties hereto
+hereby agree as follows:
+
+               ARTICLE I:  DEFINITIONS
+  As used in this Agreement, the following words and
+phrases shall have the following meanings (such meanings
+to be equally applicable to both the singular and plural
+forms of the terms defined):
+
+"Affiliate", as applied to any Person, means any
+other Person directly or indirectly controlling,
+controlled by or under common control with, that Person.
+For the purposes of this definition, "control"
+(including, with correlative meanings, the terms
+"controlling", "controlled by" and "under common
+control with"), as applied to any Person, means the
+possession, directly or indirectly, of
+the power to direct or cause the direction of the
+management and policies of that Person, whether through
+the ownership of voting securities, by contract or
+otherwise.
+
+"Appraisal" means a written appraisal prepared by
+an MAI appraiser acceptable to Lender in its sole
+discretion and subject to Lender's customary independent
+appraisal requirements and prepared in compliance with
+all applicable regulatory requirements, including,
+without limitation, FIRREA.
+
+"Applicable Rate" means the rate(s) from time to
+time applicable to the Loan as determined in accordance
+with the provision of the Note.
+
+"Appraised Value" means, as to any Property, the
+fair market value of such Property as reflected in the
+then most-recent Appraisal of such Property, as the same
+may have been adjusted by Lender based upon its
+internal review of such Appraisal.
+
+"Business Day" means any day excluding Saturday,
+Sunday and any day which is a legal holiday under the
+laws of the State of California, or which is a day on
+which banking institutions located in the State of
+California are required or authorized by law or other
+governmental action to close.
+
+"Closing Date" means the date on which all of the
+conditions precedent to Lender's obligations set forth in
+Section 3.1 shall have been satisfied, as determined by
+Lender in its sole discretion, but in no event later than
+November 19, 2001.
+
+"Collateral" means, collectively, the Property, the
+Personal Property and any other real or personal property
+in or upon which a Lien is granted by Borrower, or as to
+which an assignment for security purposes is made by
+Borrower from time to time, pursuant to this Agreement,
+the Deeds of Trust or any other Loan Document.
+
+"Contractual Obligation" as applied to any Person,
+means any indenture, mortgage, deed of trust, lease,
+contract, undertaking, document or instrument to which
+that Person is a party or by which it or any of its
+properties is bound, or to which it or any of its
+properties is subject (including, without limitation, any
+restrictive covenant affecting such Person or any of its
+properties).
+
+"Court Order" means any judgment, writ, injunction,
+decree, rule or regulation of any court or Governmental
+Authority binding upon or applicable to the Person in
+question.
+
+"Debt Service" means, for the relevant one-year
+period, total principal and interest due and payable on
+the Loan based upon a per annum rate of interest equal to
+the greatest of (i) Lender's then-applicable LIBOR Rate
+for an interest period of thirty (30) days, as determined
+by Lender in its sole discretion, (ii) eight percent
+(8.00%), or (iii) a rate equal to two percent (2.00%) in
+excess of the then prevailing yield (as published in The
+Wall Street Journal) for on-the-run (i.e., the most
+recently auctioned) ten (10) year United States Treasury
+Notes, as determined by Lender.  In determining Debt
+Service, the outstanding principal amount of the Loan
+shall be fully amortized over a twenty-five year (25)
+term  in equal monthly payments of principal and
+interest.
+
+"Debt Service Coverage Ratio" means the ratio of
+the Net Operating Income for the relevant one-year period
+to Debt Service for the relevant period.
+
+"Deeds of Trust" mean, collectively, the Deeds of
+Trust, Assignments of Rents, Security Agreements and
+Fixture Filings executed and delivered by Borrower in
+favor of Lender pursuant to this Agreement and
+encumbering all right, title and interest of Borrower in
+the Property.
+
+"Event of Default" means any of the events of
+default specified in Section 7.1 of this Agreement.
+
+"FIRREA" means the Financial Institutions Recovery,
+Reform and Enforcement Act of 1989, as amended from time
+to time.
+
+"GAAP" means generally accepted accounting
+principles set forth in the opinions and pronouncements
+of the Accounting Principles Board and the American
+Institute of Certified Public Accountants and statements
+and pronouncements of the Financial Accounting Standards
+
+Board, or in such other statements by such other entity
+as may be in general use by significant segments of the
+accounting profession, which are applicable to the
+circumstances as of the date of determination.
+
+"Governmental Authority" means any federal, state
+or local governmental or quasi-governmental agency,
+authority, board, bureau, commission, department,
+instrumentality or public body, court, administrative
+tribunal or public
+utility.
+
+"Hazardous Substance" shall have the meaning given
+to it in the Environmental Compliance Agreement of even
+date herewith executed by Borrower in favor of Lender.
+
+"Indebtedness", as applied to any Person, means (a)
+all indebtedness, obligations or other liabilities of
+such Person with respect to borrowed money created,
+incurred, assumed or guaranteed by such Person, (b) all
+indebtedness, obligations or other liabilities of such
+Person or others secured by a Lien on any asset of such
+Person, whether or not such indebtedness, obligations or
+liabilities are assumed by, or are a personal liability
+of, such Person (including, without limitation, the
+principal amount of any assessment or similar
+indebtedness encumbering any property), and (c) all other
+indebtedness, obligations or other liabilities of such
+Person.
+
+"Interest Rate Adjustment Premium" shall have the
+meaning set forth in the Note.
+
+"Lease" means a lease, occupancy agreement or other
+agreement creating possessory rights in all or any
+portion of a Property, including any improvements
+included in a Property.
+
+"Liabilities and Costs" means losses, costs,
+claims, damages, liabilities and causes of action
+(including, without limitation, the fees and costs of
+attorneys, expert witnesses and consultants, and the cost
+of investigation and feasibility studies), direct or
+indirect, known or unknown, absolute or contingent, post,
+present or future.
+
+"Lien" means any lien, mortgage, deed of trust,
+pledge, security interest, charge or encumbrance of any
+kind (including any conditional sale or other title
+retention agreement, any lease in the nature thereof, and
+any agreement to give any security interest).
+"Loan" means the secured credit accommodation in
+the principal amount of Twenty-One Million Eight Hundred
+Nineteen Thousand and 00/100ths Dollars ($21,819,000.00)
+which Lender has agreed to provide to Borrower pursuant
+to this Agreement.
+
+"Loan Documents" means this Agreement, the Note,
+the Deeds of Trust, the Environmental Compliance
+Agreement, and the Alternative Dispute Resolution
+Agreement, and all other agreements, instruments and
+documents (together with all amendments thereto and
+modifications and replacements thereof) now or hereafter
+executed by Borrower, which evidence, guarantee or secure
+the Obligations.
+
+"Major Agreement" means (a) any Lease covering more
+than 20,000 net rentable square feet, (b) any reciprocal
+easement agreement, cross-parking or access agreement,
+covenants, conditions or restrictions or other material
+agreement binding upon a Property, (c) any management
+agreement with respect to a Property that (i) provides
+for the payment of management fees in excess of five
+percent (5%) of gross rents (including expense
+reimbursements accounted for as rent), or (ii) is not
+terminable by Borrower (or any successor or assign of
+Borrower) on not more than thirty days' prior written
+notice, and (d) unless terminable by Borrower (or any
+successor or assign of Borrower) on not more than thirty
+days' prior written notice:  (i) any leasing agreement
+with respect to a Property, and (ii) any other agreement,
+contract or document or instrument material to the use,
+operation, management or maintenance of a Property.
+
+
+"Material Adverse Effect" means, with respect to a
+Person or Property, a material adverse effect upon the
+business, the assets, the condition (financial or
+otherwise), the income or the prospects of such Person or
+Property, as determined by Lender.
+
+"Maturity Date" shall mean the date set forth in
+Section 2.1.
+
+"Net Operating Income" means the actual net cash
+flow derived by Borrower from the relevant Property,
+before payment of principal and interest under the Loan,
+as determined by Lender in its reasonable discretion, and
+shall be further defined as follows:  (i) the sum of (A)
+stabilized and recurring cash rentals received by
+Borrower from tenants occupying space in such Property
+("Base Rents") ; (B) cash reimbursements of operating
+expenses, including real estate taxes and assessments and
+
+premiums on casualty and liability insurance, received by
+Borrower from such tenants ("Expense Reimbursements");
+and (C) other normal and recurring operating income
+received by Borrower from such Property and approved by
+Lender ("Approved Income"), less (ii) the sum of (a) all
+ownership and operating expenses of such Property,
+whether or not recoverable from tenants, including,
+without limitation, real estate taxes and assessments;
+premiums on casualty, liability and other insurance
+carried by Borrower; utility, maintenance, repair,
+janitorial, security, landscaping and general building
+costs and expenses; (b) an amount for reasonable
+administrative costs and management fees not less than
+four percent (4%) of the amount of Base Rents and Expense
+Reimbursements; and (c) an amount for reasonable capital
+reserves not less than the applicable amount per net
+rentable square foot per month for the particular
+property type, as shown on Exhibit D attached hereto.
+
+"Note" means the Amended and Restated Promissory
+Note Secured by Deeds of Trust of even date herewith, in
+the aggregate principal amount of the Loan, executed by
+Borrower in favor of Lender, as hereafter amended,
+supplemented, replaced or modified.
+
+"Obligations" means, from time to time, all
+Indebtedness of Borrower owing to Lender (or any Person
+entitled to indemnification pursuant to Section 8.2)
+pursuant to this Agreement or any other Loan Document, or
+any of their respective transferees, successors or
+assigns, of every type and description.  The term
+includes, without limitation, all principal, interest,
+charges, expenses, fees, attorneys' fees and
+disbursements, expert witness fees and disbursements,
+other consultant fees and disbursements, and any other
+sum now or hereafter chargeable to Borrower under or in
+connection with this Agreement or any other Loan
+Document.
+
+"Person" means and includes any natural person,
+corporation, limited partnership, general partnership,
+limited liability company, joint stock company, joint
+venture, association, company, trust, bank, trust
+company, land trust, business trust or other
+organization, whether or not a legal entity, and any
+Governmental Authority.
+
+"Personal Property" means the tangible and
+intangible personal property of any Borrower in which
+Lender shall be granted a Lien pursuant to the Deeds of
+Trust or any other Loan Document.
+
+"Potential Event of Default" means a condition or
+event which would constitute an Event of Default
+specified in Section 7.1 of this Agreement following the
+giving of any notice and/or the passage of any time
+period applicable to such condition or event.
+
+"Property" means, individually and collectively,
+the parcels of real property owned by Borrower listed on
+Exhibit A attached hereto (subject to additions and
+deletions in accordance with Sections 2.7 and 2.8), and
+more particularly described in the Deeds of Trust under
+which Lender shall be granted Liens pursuant to this
+Agreement.
+
+"Tenant Letter of Credit" means any letter of
+credit provided to Borrower, as landlord, by a tenant
+under a Lease as security for, or payment of, any tenant
+obligations under such Lease.
+
+"Tenant Security Account" means a blocked interest
+bearing account with Lender into which tenant security
+deposits and draws under Tenant Letters of Credit shall
+be deposited, as required and in accordance with Section
+6.12. As of the Effective Date, the Tenant Security
+6.13. Account is Bancontrol Account No. 070-196431,
+6.14. maintained at Lender.
+
+ARTICLE II:  LOAN
+Section 2.1  Loan.
+Subject to the terms of this Agreement, on the
+Closing Date, Lender agrees to lend to Borrower and
+Borrower agrees to borrow from Lender the principal sum
+of Twenty-One Million Eight Hundred Nineteen Thousand and
+00/100ths Dollars ($21,819,000.00); said sum to be
+evidenced by the Note of even date herewith.  The
+Maturity Date under the Note is November 19, 2004
+("Maturity Date"), as such date may be extended to the
+Extended Maturity Date pursuant to Section 2.9 below.
+The Note shall be secured by the Collateral.
+Notwithstanding any of the terms and provisions of this
+Agreement or the Deeds of Trust, the Deeds of Trust shall
+not secure the obligations of Borrower under the
+Environmental Compliance Agreement.
+
+Section 2.2  Use of Loan Proceeds.
+Amounts disbursed to Borrower pursuant to the Prior
+Loan Agreement were used to leverage Borrower's prior
+acquisition of the Property.  The additional advance
+under the Loan disbursed to Borrower pursuant to this
+Agreement shall be used by Borrower for general working
+capital purposes.
+
+Section 2.3  Debt Service on the Loan;
+Disqualification of the Property.
+(a) Interest shall accrue on the Loan at the
+Applicable Rate, as provided in the Note, and principal
+and interest shall be paid by Borrower in the amounts and
+at the times provided for in the Note, all the terms and
+provisions of which are fully incorporated into this
+Agreement.  The monthly amortization required under the
+Note will be recalculated in the event that Borrower
+exercises the Option to Extend set forth in Section 2.9
+below.
+
+(b)  Upon the occurrence of:
+a material uninsured casualty
+affecting any Property; or
+(A) a taking by any public authority
+through condemnation, eminent domain or otherwise,
+or (B) a casualty in respect of which Borrower
+maintains insurance, in either such case, if the
+improvements located on the affected Property cannot
+be repaired or restored within nine (9) months after
+the date of such taking or casualty to substantially
+the same condition as that existing prior to such
+taking or casualty at a cost that does not exceed
+the sum of (1) the net condemnation award or
+insurance proceeds payable to Borrower with respect
+thereto, plus (2) such additional amount for which
+Borrower provides Lender with adequate security as
+to the availability of funds for application to such
+restoration and/or repair; or
+
+the discovery of any material
+Hazardous Substances on any Property,
+Lender may, in its sole discretion, determine to
+disqualify such Property as Collateral for the Loan by
+written notice to Borrower.  Not later than ninety (90)
+days following delivery by Lender to Borrower of such
+written notice of disqualification, Borrower shall either
+comply with all conditions applicable to a voluntary
+release of such disqualified Property (including payment
+of the applicable Release Price) as set forth in Section
+2.7, or (ii) cause a New Property to be substituted for
+such disqualified Property in compliance with the
+requirements of Section 2.8.
+
+Section 2.4  No Revolving Loan.
+The Loan is not a revolving loan, and amounts repaid
+from time to time may not be reborrowed.
+
+Section 2.5  Fees.
+(a)  Loan Fee.
+On the Closing Date, Borrower shall pay to Lender a
+loan fee in an amount of One Hundred Sixty-Three Thousand
+Six Hundred Forty-Two Dollars ($163,642), less any amount
+previously paid by Borrower to Lender under the July 30,
+2001 letter from Lender to Borrower.  Borrower hereby
+authorizes Lender to disburse on the Closing Date a
+portion of the proceeds of the Loan in such amount
+directly to Lender in payment of such loan fee and such
+other expenses as to which Lender has then requested
+reimbursement pursuant to Section 8.1(a) below.
+
+(b)  Payment of Fees.
+The fees described in this Section 2.5 and in any
+other provision of this Agreement represents compensation
+for services rendered and to be rendered separate and
+apart from the lending of money or the provision of
+credit and do not constitute compensation for the use,
+detention or forbearance of money, and the obligation of
+Borrower to pay the fees described herein shall be in
+addition to, and not in lieu of, the obligation of
+Borrower to pay interest, other fees and expenses
+otherwise described in this Agreement or any other Loan
+Documents.  Such fees shall be payable when due in
+immediately available funds and shall be non-refundable
+when paid.
+
+Section 2.6  Payments.
+(a)  Manner and Time of Payment.
+All payments of principal, interest and fees
+hereunder payable to Lender shall be made without
+condition or reservation of right and free of set-off or
+counterclaim, in immediately available funds, delivered
+to Lender not later than 2:00 p.m. (San Francisco,
+California time) on the date due; and funds received by
+Lender after that time and date shall be deemed to have
+been paid on the next succeeding Business Day.
+(b)  Prepayments.
+Borrower is precluded from prepaying all or any
+portion of the Loan prior to November 19, 2002.  Borrower
+may, at any time on or after November 19, 2002 and from
+time to time thereafter, prepay all or any portion of the
+outstanding principal balance of the Loan, together with
+any Interest Rate Adjustment Premium assessed pursuant to
+the Note.  If, notwithstanding the prohibition set forth
+in the preceding sentence, any portion of the outstanding
+principal balance of the Loan is prepaid prior to
+November 19, 2002 as a consequence of damage or
+condemnation of the Collateral or acceleration under the
+Note and application of proceeds of foreclosure upon any
+Collateral, Borrower shall pay to Lender, in addition to
+any Interest Rate Adjustment Premium, a prepayment
+premium equal to one percent (1.00%) of the principal
+amount of the Loan so prepaid.
+
+Section 2.7  Release of Property.
+Provided that no Event of Default or Potential Event
+of Default then exists, and provided that at least four
+(4) Properties shall remain subject to the lien of the
+Deed of Trust, at Borrower's written request at any time
+on or after November 19, 2002 and from time to time
+thereafter, Lender shall cause a Property to be released
+from the Lien of the Deed of Trust encumbering such
+Property, upon satisfaction of the following conditions
+precedent:
+
+(a) Borrower shall provide Lender with written
+notice of Borrower's request for a release of a Property
+not less than thirty (30) days prior to the date on which
+Borrower desires such release to become effective;
+(b) Borrower shall represent and warrant to
+Lender that (i) no Event of Default or Potential Event of
+Default exists as of the date of such release, and (ii)
+there has been no declared event of default under
+Borrower's line of credit agented by Bank of America,
+N.A.(or any successor facility) as of the date of such
+release;
+
+(c) For the Property to be released, Lender
+shall have been paid an amount equal to the release price
+allocable to such Property as shown on Exhibit A hereto
+(the "Release Price"); provided, however, that Borrower
+shall have the right to prepay additional outstanding
+principal under the Loan, together with any applicable
+Interest Rate Adjustment Premium, in order to comply with
+subparagraph (d) and/or subparagaph (e) below;
+(d) The Debt Service Coverage Ratio applicable
+to the Property remaining subject to the Lien of the
+Deeds of Trust shall be equal to or greater than 1.3:1 as
+of the date of such release; in calculating such Debt
+Service Coverage Ratio, (i) Net Operating Income shall be
+calculated with reference to the Property remaining
+subject to the Lien of the Deeds of Trust following the
+requested release, (ii) the outstanding principal under
+the Loan shall reflect the prepayment of principal
+required under subparagraph (c) above, and (iii) Net
+Operating Income shall be determined by Lender on the
+basis of the one-year ended as of the most recent
+calendar quarter for which the Lender shall have received
+operating statements for such Property;
+
+(e) In connection with (i) the first requested
+release of any Property for which the Appraised Value,
+when aggregated with the Appraised Value for all Property
+previously released, would exceed twenty-five percent
+(25%) of the total Appraised Value of the Property as of
+the Closing Date, and (ii) each requested release of
+Property thereafter:  (1) Lender shall have the right, in
+its sole discretion, to conduct Appraisals of any or all
+of the Property that will remain part of the Collateral
+following the requested release, and (2) the outstanding
+principal balance of the Loan, immediately after giving
+effect to such requested release (taking into account all
+prepayments to be effected in connection therewith, and
+whether or not Lender has conducted new Appraisals of any
+Property), shall not exceed sixty percent (60%) of the
+aggregate Appraised Value of all such remaining Property;
+and
+(f) Lender shall have been paid all Interest
+Rate Adjustment Premiums, escrow, closing and recording
+costs, the costs of preparing and delivering a
+reconveyance of the Deed of Trust encumbering released
+Property, and the costs of any title insurance
+endorsements required by Lender.
+
+Following any reappraisals conducted in connection with
+this Section 2.7 or Section 2.8, allocated loan amounts
+for each Property shall be adjusted, in proportion to the
+relative Appraised Values of each Property, and the
+Release Prices adjusted accordingly.
+
+
+Section 2.8  Substitution of Property.
+Provided that no Event of Default or Potential Event
+of Default then exists, Borrower shall have the right to
+substitute (a "Substitution") one of the Properties
+listed on Exhibit A (the "Old Property") with other real
+property owned by Borrower (the "New Property"), upon
+satisfaction of the following conditions precedent:
+(a) Approval by Lender of the New Property in
+its sole discretion, including all matters pertaining
+thereto as referred to in Section 3.1(b); without
+limiting the foregoing, Borrower shall provide Lender
+with any and all leases, financial statements, tenant
+credit reports, rent rolls, preliminary title reports,
+licenses, permits and any other documents, instruments or
+reports requested by Lender relating to the New Property;
+
+(b) Borrower shall make no more than (i) three
+(3) Substitutions during the term of the Loan nor (ii)
+one (1) Substitution during any one calendar year;
+provided, however, that a Substitution pursuant to
+Section 2.3(b) shall not constitute a "Substitution" for
+purposes of this Section 2.8(b);
+
+(c) Borrower shall provide Lender with written
+notice of Borrower's request for a Substitution not less
+than ninety (90) days prior to the date on which Borrower
+desires such Substitution to become effective;
+
+(d) The Net Operating Income attributable to
+the New Property shall be equal to or greater than the
+Net Operating Income of the Old Property, in each case
+for the one-year period ended as of the most recent
+calendar quarter for which Lender has received operating
+statements for each such Property;
+
+(e) The then Appraised Value of the New
+Property shall be equal to or greater than the most
+recent Appraised Value of the Old Property;
+
+(f) Lender shall have been paid a fee of
+twenty one-hundredths of one percent (0.20%) multiplied
+by the allocated loan amount applicable to the Old
+Property as shown on Exhibit A hereto, together with all
+appraisal, escrow, closing and recording costs, the costs
+of preparing and delivering a reconveyance of the Deed of
+Trust encumbering the Old Property, the costs of any
+title insurance endorsements required by Lender, the
+costs of preparing and recording a Deed of Trust to
+encumber the New Property, title insurance with respect
+to the New Property acceptable to Lender, and all other
+costs and expenses incurred by Lender in the connection
+with the Substitution; and
+
+(g) Borrower shall represent and warrant to
+Lender that (i) no Event of Default or Potential Event of
+Default exists as of the date of such Substitution, and
+(ii) there has been no declared event of default under
+Borrower's line of credit agented by Bank of America,
+N.A.(or any successor facility) as of the date of the
+such Substitution.
+
+The Release Price applicable to the Old Property as shown
+on Exhibit A hereto shall be the applicable Release Price
+for the New Property, subject to the final sentence of
+Section 2.7.  Each Deed of Trust and other document or
+instrument executed and delivered by Borrower in
+connection with the addition of the New Property as
+Collateral shall constitute a Loan Document.
+
+Section 2.9  Option to Extend.
+Borrower shall have the option to extend the term of
+the Loan ("Extension Option") from the Maturity Date to
+the date that is two years following the Maturity Date
+("Extended Maturity Date"), upon satisfaction of each of
+the following conditions precedent:
+
+(a) Notice.  Borrower shall provide Lender
+with written notice of Borrower's request to exercise the
+Extension Option not more than one hundred twenty (120)
+days, but not less than sixty (60) days, prior to the
+Maturity Date;
+
+(b) Default.  Both as of the date of
+Borrower's delivery of written notice of Borrower's
+request to exercise the Extension Option, and as of the
+Maturity Date, no Event of Default or Potential Default
+shall have occurred and be continuing, and Borrower shall
+so certify to Lender in writing;
+
+(c) Documents.  Borrower shall execute, or
+cause the execution of, all documents required by Lender
+to exercise the Extension Option, and shall deliver to
+Lender, at Borrower's sole cost and expense, such
+endorsements to Lender's title insurance policy as Lender
+shall reasonably require;
+(d) Material Adverse Change.  There shall have
+occurred no change in Borrower or any Property, as
+determined by Lender, which has a Material Adverse
+Effect.
+(e) Extension Fee.  Borrower shall pay to
+Lender an extension fee in the amount of one quarter of
+one percent (0.25%) of the principal amount of the Loan
+outstanding on the original Maturity Date;
+
+(f) Loan-to-Value Ratio.  Lender shall have
+the right, in its sole discretion, to conduct Appraisals
+of any or all of the Property that will remain part of
+the Collateral as of the Maturity Date, confirming to
+Lender's satisfaction that the outstanding principal
+balance of the Loan as of the original Maturity Date
+(taking into account all prepayments to be effected in
+connection therewith, and whether or not Lender has
+conducted new Appraisals of any Property), does not
+exceed sixty percent (60%) of the aggregate Appraised
+Value of all such remaining Property
+
+(g) Debt Service Coverage Ratio.  As of the
+Maturity Date, the Debt Service Coverage Ratio applicable
+to the Property remaining subject to the Lien of the
+Deeds of Trust shall be equal to or greater than 1.3:1,
+calculated in accordance with Section 2.7(d) above.
+
+   If the foregoing conditions have been timely
+satisfied, the term of the Loan shall be extended from
+the Maturity Date to the Extended Maturity Date.
+Borrower shall have the right to prepay additional
+outstanding principal under the Loan, together with any
+applicable Interest Rate Adjustment Premium, in order to
+comply with subparagraph (f) and/or subparagaph (g)
+above.
+Section 2.10  Limitation on Borrower's Liability.
+Lender's recovery against Borrower under the Loan
+Documents shall be limited solely to the Collateral
+(including all rents, issues, profits and income
+therefrom and proceeds thereof) and the Special Letters
+of Credit given to Lender as security for Borrower's
+performance under the Loan Documents, and such recovery
+
+shall not be a lien, or the basis of a claim of lien or
+levy of execution, against the general assets of
+Borrower.  Notwithstanding the foregoing, Borrower and
+the general assets of Borrower shall be fully and
+personally liable to Lender to the same extent that
+Borrower would be liable absent the foregoing limitation
+of this paragraph for:
+
+(a) fraud, willful misrepresentation, gross
+negligence or waste, to the full extent of Lender's loss
+attributable thereto;
+
+(b) failure to pay taxes, assessments or other
+charges attributable to Borrower which can create liens
+on any portion of the Collateral senior in priority to
+the lien of the Deed of Trust encumbering the affected
+Collateral, including mechanic's liens, stop notices or
+contractor's liens (to the full extent of any such taxes,
+assessments or other charges);
+
+(c) any loss which would have been covered by
+any policy of insurance that Borrower is required to
+maintain, but failed to maintain, under this Agreement or
+any of the other Loan Documents;
+
+(d) tenant security deposits held by Borrower
+upon foreclosure of the subject Property;
+
+(e) any inaccuracy in or breach of any
+representation or warranty pertaining to any Hazardous
+Substance or any failure in the due, prompt and complete
+observance and performance of any covenant or any other
+obligation imposed upon Borrower under or pursuant to the
+Environmental Compliance Agreement;
+
+(f) retention of any rents or other income,
+insurance proceeds, condemnation or eminent domain awards
+or other similar funds or payments attributable to any
+Collateral which, under the terms of any Loan Document,
+should have been paid to Lender;
+
+(g) the full amount of the Loan and all other
+obligations evidenced or secured by the Loan Documents,
+in the event of any transfer of all or any part of the
+Property without Lender's prior written approval; or
+
+(h) all costs and expenses (including, without
+limitation, attorneys' fees) incurred by Lender in
+enforcing its rights and remedies under the Loan
+Documents subsequent to any of the following:  (i) an
+Event of Default under Section 7.1(e) below; (ii) an
+Event of Default under Section 7.1(d) if the filing is
+made against Borrower by any third party which was
+solicited or induced to do so by Borrower; or (iii) after
+the occurrence of any Event of Default under either
+Section 7.1(d) or Section 7.1(e):  (A) any objection by
+Borrower to (1) any request by Lender for the dismissal
+of any proceeding referred to in Section 7.1(d) or
+Section 7.1(e); (2) any attempt by Lender to obtain
+relief from the automatic stay; or (3) any attempt by
+Lender to secure the continuation of any receiver
+appointed pre-petition or to obtain control, directly or
+through a receiver, of the rents, issues and profits of
+any Property; (B) any request by Borrower for authority
+to use cash collateral over Lender's objection; (C) any
+action brought by Borrower or on its behalf against
+Lender; (D) any request by Borrower to sell Collateral
+over Lender's objection; or (E) Borrower's taking of any
+position adverse to Lender with respect to any plan of
+reorganization proposed in any such proceedings.
+
+   The limitations of this Section 2.10 shall not be
+deemed to limit:  (i) any right Lender might otherwise
+have to obtain injunctive relief against Borrower; (ii)
+any suit or action in connection with the preservation,
+enforcement or foreclosure of the liens, mortgages,
+assignments and security interests now or at any time
+hereafter securing the payment and performance of the
+Obligations; or (iii) the collection of amounts which may
+become owing or payable under or on account of insurance,
+condemnation awards or damages for other public actions
+or surety bonds maintained or provided by Borrower.  In
+addition, nothing herein shall be deemed to constitute a
+waiver of any obligation evidenced by the Loan Documents,
+nor limit, amend, alter or diminish any right which
+Lender may have under the provisions of Sections 506(a),
+506(b), 1111(b) or any other provision of the Bankruptcy
+Reform Act of 1978, or any successor statute thereto, or
+any similar provision under applicable state law, to file
+a claim for the full amount of the Obligations or to
+require that all Collateral shall continue to secure the
+Loan owing to Lender in accordance with the Loan
+Documents.
+
+3.	Hidden text - leave for automatic numbering
+
+ARTICLE III:  CONDITIONS TO LOAN
+Section 3.1  Conditions to Disbursement of Loan.
+The obligation of Lender to make the Loan shall be
+subject to satisfaction of each of the following
+conditions precedent on or before the Closing Date:
+(a)  Loan Documents.
+Borrower shall have executed, acknowledged (if
+appropriate) and delivered to Lender each of the
+following, in form and substance acceptable to Lender:
+(i)  this Agreement;
+(ii)  the Note;
+(iii) Modifications of the Deeds of Trust
+(which shall be executed and acknowledged by
+Borrower as to each Property listed on Exhibit A
+hereto);
+(iv) UCC-1 Financing Statements with
+respect to the Liens on the Personal Property
+granted under the Deeds of Trust;
+(v) each other Loan Document, including,
+without limitation, the Environmental Compliance
+Agreement; and
+(vi) all other documents, instruments or
+other items to be executed and/or delivered by or on
+behalf of Borrower pursuant to this Agreement or as
+Lender shall otherwise require.
+(b)  Property Documents.
+Lender shall have received the following documents
+with respect to each Property, in form and substance
+acceptable to Lender:
+(i)  an Appraisal;
+(ii) all necessary endorsements to
+Lender's ALTA Loan Policy of Title Insurance in the
+amount of the Loan (with title insurance coverage
+afforded thereby not allocated for each Property,
+but subject to an appropriate tie-in endorsement),
+issued by First American Title Insurance Company,
+ insuring Lender that the Deed of Trust encumbering
+each Property constitutes a valid first priority
+Lien upon such Property, subject only to such title
+exceptions as Lender shall approve in its sole
+discretion, with such additional endorsements,
+reinsurance and reinsurers and otherwise in such
+form and substance as shall be acceptable to Lender;
+(iii) Lessee Estoppel Certificates, in
+form and substance approved by Lender, executed by
+each tenant listed on Exhibit B hereto and marked
+with a single asterisk, each of which shall be in
+form and substance approved by Lender;
+(iv) an environmental assessment for such
+Property, prepared by an environmental consultant
+acceptable to Lender, and satisfactory evidence that
+such Property is in compliance with all laws and
+regulations is pertaining to Hazardous Substances;
+and
+
+(v) such other documents with respect to
+such Property as are required pursuant to this
+Agreement or as Lender shall otherwise require.
+(c)  Corporate Documents.
+Lender shall have received such corporate documents
+with respect to Borrower as Lender shall require,
+including evidence of authorization and incumbency
+of all Persons executing the Loan Documents on
+behalf of Borrower.
+(d)  Performance.
+Borrower shall have performed in all material
+respects all agreements and covenants to be performed by
+them under this Agreement or the other Loan Documents on
+or before the Closing Date.
+(e)  Material Adverse Changes.
+No change in Borrower or any Property, as determined
+by Lender, shall have occurred which has a Material
+Adverse Effect.
+(f)  Litigation, Other Proceedings.
+There shall not have been instituted or threatened
+any litigation or proceeding in any court or by or before
+any Governmental Authority affecting or threatening to
+affect Borrower or any Property which has a Material
+Adverse Effect, as determined by Lender.
+
+(g)  Perfection of Liens.
+All Deeds of Trust and financing statements shall
+have been recorded or filed, as applicable, and Lender
+shall have a valid, perfected first priority Lien on all
+of the Property, the Personal Property and any other
+Collateral.
+
+(h)	No Event of Default.
+On the Closing Date, no Event of Default or
+Potential Event of Default shall exist.
+(i)	Fees.
+On the Closing Date, Lender shall have received the
+loan fee described in Section 2.5(a) and any other fees
+or other amounts then due to Lender under this Agreement
+and the other Loan Documents, and all expenses of Lender
+incurred prior to the Closing Date (including without
+limitation all attorneys' and appraisers' fees,
+environmental review costs and market study costs) shall
+have been paid by Borrower.
+
+(j)	Consents and Approvals.
+Any licenses, permits, consents and approvals of
+Governmental Authorities, and all corporate action
+necessary to enable Borrower to enter into the financing
+transactions contemplated by this Agreement shall have
+been obtained and/or taken by Borrower (including,
+without limitation, any required consents of
+shareholders).
+
+(k)	Insurance.
+Lender shall have received evidence that Borrower
+has, with respect to the Collateral, property, casualty
+and liability insurance which complies with the
+requirements set forth in Exhibit C attached hereto and
+is otherwise satisfactory to Lender and issued by
+
+insurance companies acceptable to Lender, and loss
+payable endorsements in form and substance satisfactory
+to Lender naming Lender as loss payee with respect to
+property and casualty insurance shall have been executed
+and delivered to Lender, together with such certificates
+of insurance and binders as are requested by Lender
+naming Lender as additional insured with respect to
+liability insurance.
+
+(l)	Due Diligence.
+Lender shall have obtained and completed its review
+of Appraisals of the Property and determination of
+Appraised Values therefor and its review of the other
+Collateral, and Lender shall have completed such other
+due diligence investigations as it deems necessary, and
+such review and investigations shall provide Lender with
+results and information which, in Lender's determination,
+are satisfactory to permit Lender to enter into this
+Agreement and fund the Loan.
+
+(m)	Representations and Warranties.
+All representations and warranties of Borrower
+contained in this Agreement or the other Loan Documents
+shall be true and correct in all material respects.
+(n)	Opinion(s) of Counsel.
+Lender shall have received an opinion or opinions of
+counsel for Borrower dated as of the Closing Date as to
+such matters as Lender shall require, in form and
+substance satisfactory to Lender and its counsel.
+
+(o) Tenant Letter(s) of Credit; Security
+Deposits.
+Borrower shall have delivered to Lender (i) any
+tenant security deposits which are in excess of $50,000,
+and (ii) all Tenant Letters of Credit with face amounts
+in excess of $50,000, in each case together with an (A)
+an executed transfer document and (B) an executed
+assignment of proceeds document, each consented to and
+with documentation in a form approved by the issuer of
+such letter of credit and otherwise satisfactory to
+Lender, sufficient to assign to Lender the beneficiary's
+rights under such letter of credit; provided, however,
+that such transfer document shall not be presented to the
+issuer thereof except following a foreclosure or deed-in-
+lieu of foreclosure under the applicable Deed of Trust or
+a failure by Borrower to comply with the requirements of
+Section 6.12 below.
+
+4.	Hidden text - leave for automatic numbering
+ARTICLE IV:  REPRESENTATIONS AND WARRANTIES
+Section 4.1	Representations and Warranties.
+In order to induce Lender to make the Loan, Borrower
+hereby represents and warrants to Lender as follows as of
+the Closing Date:
+(a)	Organization; Power.
+(i) Borrower is a corporation, duly incorporated,
+validly existing and in good standing under the laws of
+the jurisdiction of its organization, (ii) is duly
+qualified to do business in and is in good standing under
+the laws of each jurisdiction other than California in
+which it owns or leases real property or in which the
+nature of its business requires it to be so qualified,
+except for those jurisdictions where failure to so
+qualify and be in good standing would not have a Material
+Adverse Effect on Borrower, and (iii) has all requisite
+corporate power and authority to own, operate and
+encumber its property and assets and to conduct its
+business as presently conducted and as proposed to be
+conducted in connection with and following the
+consummation of the Loan contemplated by the Loan
+Documents.  Borrower has heretofore provided to Lender
+true, correct and complete copies of the formation and
+other organizational documents, and all amendments
+thereto, of Borrower; all such formation and other
+organizational documents remain in full force and effect
+and have not been amended or modified since the date on
+which copies thereof were delivered to Lender.
+
+(b)	Authority.
+Borrower has the requisite legal, corporate power
+and authority to execute, deliver and perform each of the
+Loan Documents.  The execution, delivery and performance
+thereof, and the consummation of the transactions
+contemplated thereby, have been duly authorized by all
+requisite corporate action of Borrower, and no other
+corporate proceedings or authorizations on the part of
+Borrower are necessary to consummate such transactions.
+Each of the Loan Documents has been duly executed and
+delivered by Borrower and constitutes its legal, valid
+and binding obligation, enforceable against it in
+accordance with its terms, subject to bankruptcy,
+insolvency and other laws affecting creditors' rights
+generally.
+
+(c)	No Conflict.
+The execution, delivery and performance by Borrower
+of the Loan Documents, and the transactions contemplated
+thereby, do not and will not (i) conflict with or violate
+Borrower's articles of incorporation, by-laws, or other
+organizational documents, or (ii) conflict with, result
+in a breach of or constitute (with or without notice or
+lapse of time or both) a default under any (A)
+Contractual Obligation, (B) statute, ordinance, rule or
+regulation of any Governmental Authority applicable to
+Borrower, the Property or its other properties or assets
+
+or (C) Court Order, or (iii) result in or require the
+creation or imposition of any Lien whatsoever upon any of
+the properties or assets of Borrower (other than Liens in
+favor of Lender arising pursuant to the Loan Documents).
+
+(d)	Consents and Authorizations.
+Borrower has obtained all consents and
+authorizations required pursuant to its Contractual
+Obligations with any other Person, and shall have
+obtained all consents and authorizations of, and effected
+all notices to and filings with, any Governmental
+Authority, as may be necessary to allow Borrower to
+lawfully execute, deliver and perform its obligations
+under the Loan Documents.
+
+(e)	Financial Statements.
+Borrower has heretofore furnished to Lender its
+financial statements.  Such financial statements and
+related schedules and reports have been prepared in
+accordance with GAAP, are true, correct and complete and
+present fairly and accurately the financial condition of
+Borrower as of the dates and the for periods indicated.
+There has been no change that would have a Material
+Adverse Effect on Borrower, or the ability of Borrower to
+perform its obligations under the Loan Documents, since
+the date of such financial statements.  There are no
+known material unrealized or anticipated losses of
+Borrower.
+(f)	Projections and Forecasts.
+Each of the projections delivered to Lender has been
+prepared by Borrower in light of the past business and
+performance of Borrower and represents the reasonable
+good faith estimates of Borrower's financial personnel.
+
+(g)	Litigation; Adverse Effects.
+(j) There is no action, suit, proceeding,
+governmental investigation or arbitration, at law or
+in equity, or before or by any Governmental
+Authority, pending or, to the best of Borrower's
+knowledge, threatened against Borrower or any
+Property which could (A) result in a Material
+Adverse Effect on Borrower or any Property, or (B)
+materially and adversely affect the ability of
+Borrower to perform its obligations contemplated in
+the Loan Documents.
+(ii) Borrower is not (A) in violation of
+any applicable law, which violation would have a
+Material Adverse Effect on Borrower or any Property,
+or (B) subject to or in default with respect to any
+Court Order which would have a Material Adverse
+Effect on Borrower or any Property.  There are no
+proceedings pending or, to the best of Borrower's
+knowledge, threatened against Borrower or any
+Property, which, if adversely decided, would have a
+Material Adverse Effect on Borrower or any Property.
+
+(h)	Payment of Taxes.
+All tax returns and reports to be filed by Borrower
+have been timely filed, and all taxes, assessments, fees
+and other governmental charges shown on such returns or
+otherwise payable by Borrower have been paid when due and
+payable, except such taxes, if any, as are being
+contested in good faith by appropriate proceedings, and
+subject to such extensions of the filing and/or due date
+thereof as Borrower shall have obtained.  Borrower has no
+knowledge of any proposed tax assessment against Borrower
+that will have a Material Adverse Effect on Borrower,
+which is not being actively contested in good faith by
+Borrower.
+
+(i)	Material Adverse Agreements.
+Borrower is not a party to or subject to any
+Contractual Obligation or to any restriction contained in
+its organizational documents which has a Material Adverse
+Effect on Borrower.
+
+(j)	Performance.
+(h) Borrower is not in default in the
+performance, observance or fulfillment of any
+Contractual Obligation of Borrower in favor of Bank
+of America, N.A.
+(ii) Borrower is not in default in the
+performance, observance or fulfillment of any
+Contractual Obligation of Borrower in favor of any
+other Person, and no condition exists which, with
+the giving of notice or the passage of time or both,
+would constitute such a default, in each case,
+except where the consequences, direct or indirect,
+of such default or defaults, if any, will not have a
+Material Adverse Effect on Borrower.
+
+(k)	Disclosure.
+The representations and warranties of Borrower
+contained in this Agreement and the other Loan Documents
+and all certificates, financial statements and other
+documents delivered to Lender in connection therewith, do
+not contain any untrue statement of a material fact or
+omit to state a material fact necessary in order to make
+the statements contained herein or therein, in light of
+the circumstances under which they were made, not
+misleading.  All organizational documents, financial
+statements, Leases, agreements and other documents and
+instruments delivered by Borrower to Lender pursuant to
+this Agreement and the other Loan Documents are true,
+correct and complete copies of the originals.  Borrower
+
+has not intentionally withheld any material fact from
+Lender in regard to any matter addressed in or material
+to the Loan Documents.
+(l)	Requirements of Law.
+Borrower is in compliance with all statutes,
+ordinances, rules and regulations of Governmental
+Authorities applicable to Borrower or to the Property
+(including, without limitation, the Americans with
+Disabilities Act of 1990, 42 U.S.C.  12101, et seq.), in
+each case, where the failure to so comply will have a
+Material Adverse Effect on Borrower.
+
+(m)	Major Agreements; Leases.
+With respect to each Property, Lender has received
+true, complete and correct copies of each Major
+Agreement.  All such Major Agreements are in full force
+and effect and have not been modified or terminated, and
+no default or event of default (or event or occurrence
+which with the passage of time or the giving of notice,
+or both, will constitute a default or event of default)
+exists or will exist under such Major Agreements as a
+result of the consummation of the transactions
+contemplated by the Loan Documents.  Lender has also
+received true, correct and complete copies of all Leases
+currently in effect and of the form lease, as applicable,
+used for each Property.  Except as reflected on the most
+current rent rolls delivered to Lender, all Leases are in
+full force and effect and no default or event or default
+(or event or occurrence which with the passage of time or
+the giving of notice, or both, will constitute a default
+or event of default) exists or will exist thereunder as a
+result of the consummation of the transactions
+contemplated by the Loan Documents.  Other than the
+Leases provided to Lender, there are no leases, occupancy
+agreements or other possessory rights relating to the
+maintenance, occupancy, use or operation of any of the
+Properties which are not terminable by Borrower upon
+thirty (30) days or less notice, with penalty or premium.
+
+(n)	Title to Assets; No Liens.
+Borrower has good, indefeasible and merchantable
+title to the Collateral and to all other properties
+and assets owned by Borrower, and all of the Collateral
+is free and clear of all Liens, except for any Liens
+permitted by Lender.
+(o)	Location of Borrower.
+Borrower's place of business (or, if the Borrower
+has more than one place of business, its chief executive
+office) is located at the address listed under Borrower's
+signature on this Agreement.
+
+(p)	Status as a REIT.
+The Borrower (i) is a real estate investment trust
+as defined in Section 856 of the Internal Revenue Code
+(the "Code") (or any successor provision thereto), (ii)
+has not revoked its election to be a real estate
+investment trust, (iii) has not engaged in any
+"prohibited transactions" as defined in Section
+856(b)(6)(iii) of the Code (or any successor provision
+thereto), and (iv) for its current "tax year" (as
+defined in the Code) is and for all prior tax years
+subsequent to its election to be a real estate investment
+trust has been entitled to a dividends paid deduction
+which meets the requirements of Section 857 of the Code.
+
+(q)	NYSE Listing.
+The common stock of Borrower is listed for trading
+and traded on the New York Stock Exchange.
+5.	Hidden text - leave for automatic numbering
+ARTICLE V:  REPORTING COVENANTS
+Borrower covenants and agrees that, on and after the
+Closing Date and until payment in full of the Obligations
+and the termination of this Agreement:
+Section 5.1	Financial Statements and Other
+Financial and Operating Information.
+Borrower shall deliver or cause to be delivered to
+Lender:
+(a)	Quarterly Property Statements.
+As soon as practicable, and in any event within
+twenty (20) days after the end of each calendar quarter,
+operating statements for each Property in a form approved
+by Lender, and rent rolls and lease expiration reports in
+the form customarily generated by Borrower for such
+Property, or other form required by Lender, dated as of
+the last day of such quarter, in form and substance
+satisfactory to Lender, certified by the Borrower.
+
+(b)	Quarterly Financial Statements.
+As soon as publicly available, but not later than
+sixty (60) days after the close of each of the first
+three (3) calendar quarters of each year, a copy of the
+unaudited consolidated balance sheets of Borrower as of
+the end of such quarter and the related consolidated
+statements of income, shareholders' equity and cash flows
+for the period commencing on the first day and ending on
+the last day of such quarter, certified by the chief
+financial officer of Borrower as being complete and
+correct and fairly presenting the financial position and
+results of operations of Borrower in accordance with
+GAAP.
+(c)	Annual Financial Statements.
+As soon as publicly available, but not later than
+one hundred twenty (120) days after the close of each
+calendar year, a copy of the audited consolidated balance
+sheets of Borrower as at the end of such year and the
+related consolidated statements of income, shareholders'
+
+equity and cash flows for such calendar year, setting
+forth in each case in comparative form the figures for
+the previous year, and accompanied by the opinion of a
+nationally recognized independent public accounting firm
+stating that such consolidated financial statements
+present fairly the financial positions of Borrower for
+the periods indicated in conformity with GAAP applied on
+a basis consistent with prior years.
+
+(d)	Cash Flow Projections.
+Not later than (i) thirty (30) days prior to the end
+of each calendar year, a projection of Borrower detailing
+expected sources and uses of funds from the Property for
+the next calendar year and (ii) sixty (60) days following
+the end of each calendar year, a statement of actual cash
+flow for the immediately preceding calendar year, in each
+case accompanied by a certificate executed by the chief
+financial officer of Borrower certifying (i) as to the
+completeness, fairness and consistency of such cash flow
+statements, and (ii) that such projection has been
+prepared by Borrower in light of the past business and
+performance of Borrower and represents the reasonable
+good faith estimates of Borrower's financial personnel.
+With respect to the foregoing cash flow statements,
+Borrower shall provide such additional supporting details
+as Lender shall reasonably request.
+
+(e)	Knowledge of Event of Default.
+Promptly upon Borrower obtaining knowledge of (i)
+any condition or event which constitutes an Event of
+Default or Potential Event of Default, or (ii) any
+condition or event which has a Material Adverse Effect on
+Borrower or any Property, written notice specifying the
+nature and period of existence of any such condition or
+event and what action Borrower has taken, is taking and
+proposes to take with respect thereto.  Each delivery of
+quarterly financial statements by Borrower pursuant to
+subparagraph (b) above shall be deemed to constitute a
+representation and warranty by Borrower that there then
+exists no Event of Default or Potential Event of Default,
+unless the same shall be qualified pursuant to a written
+notice delivered with such financial statements in
+accordance with this subparagraph (e).
+
+(f)	Litigation, etc.
+Promptly upon Borrower obtaining knowledge of (i)
+the institution of, or threat of, any material action,
+suit, proceeding, governmental investigation or
+arbitration against or affecting Borrower or any Property
+not previously disclosed in writing by Borrower to Lender
+pursuant to this Agreement, including any casualty or
+eminent domain or other condemnation proceeding affecting
+any Property, or (ii) any material development in any
+
+action, suit, proceeding, governmental investigation or
+arbitration already disclosed, which, in either case, has
+a Material Adverse Effect on Borrower or any Property,
+written notice thereof to Lender and such other
+information as may be reasonably available to Borrower to
+enable Lender and its counsel to evaluate such matters.
+
+(g)	Election to Terminate Status as a REIT.
+Promptly upon Borrower's election to revoke its
+election to be a real estate investment trust (which
+election shall be made only upon the basis of a
+resolution of Borrower's Board of Directors finding that
+it would be in Borrower's best interests to revoke such
+election), written notice thereof to Lender of such
+election.
+
+(h)	SEC Filings.
+Promptly after the same are sent, copies of all
+financial statements and reports which Borrower sends to
+its shareholders; and promptly after the same are filed
+(but in the case of Borrower's (i) Form 10-K filing, in
+no event later than one hundred twenty (120) days after
+the end of the calendar year to which it relates, and
+(ii) Form 10-Q filing, in no event later than sixty (60)
+days after the end of the calendar quarter to which it
+relates), copies of all financial statements and regular,
+periodical or special reports which Borrower may make to,
+or file with, the Securities and Exchange Commission or
+any successor or similar governmental authority.
+
+(i)	Other Information.
+Such other information, reports, contracts,
+schedules, lists, documents, agreements and instruments
+in the possession of Borrower with respect to (i) the
+Collateral, or (ii) Borrower's business, assets,
+condition (financial or otherwise), income or prospects
+as Lender may from time to time reasonably request,
+including, without limitation, annual information with
+respect to cash flow projections, budgets, operating
+statements (current year and immediately preceding year),
+rent rolls, lease expiration reports, leasing status
+reports, equity funding requirements, contingent
+liability summaries, projections of leasing fees and
+overhead budgets.
+
+Section 5.2	Notice of Change.
+Borrower shall deliver to Lender prior written
+notice of any change in (a) the location of Borrower's
+place of business (or Borrower's chief executive office
+if it has more than one place of business) or (b)
+Borrower's name, business structure, or place of
+incorporation or other formation.  Unless otherwise
+approved by Lender in writing, Borrower agrees that all
+
+property that consists of tangible personal property
+(other than the books and records) will be located at one
+of the Properties and that all books and records will be
+located at Borrower's place of business (or chief
+executive office if Borrower has more than one place of
+business).
+
+6.	Hidden text - leave for automatic numbering
+ARTICLE VI:  OTHER COVENANTS
+Borrower covenants and agrees that, on and after the
+Closing Date and until payment in full of the Obligations
+and the termination of this Agreement:
+
+Section 6.1	Existence, etc.
+Borrower shall at all times maintain its corporate
+existence and shall do or cause to be done all things
+necessary to preserve and keep in full force and effect
+its rights to do business in, and shall remain in good
+standing in, each jurisdiction in which the character of
+the properties owned or leased by it therein or in which
+the transaction of its business makes such qualification
+necessary.  In addition, Borrower shall take such actions
+as may be required to ensure that Borrower's common stock
+is at all times listed for trading and traded on the New
+York Stock Exchange, the American Stock Exchange, or the
+Nasdaq National Markets System.
+
+Section 6.2	Taxes.
+(i) Borrower shall pay and discharge all taxes,
+assessments and other governmental charges assessed
+against or imposed upon any Property or other properties
+or assets of Borrower prior to the date on which any
+penalty or interest accrues thereon; and (ii) Borrower
+shall pay and discharge all claims (including, without
+limitation, claims for labor, services, materials and
+supplies) for sums which have become due and payable and
+which by law have or may become a Lien upon any Property
+or other properties or assets of Borrower, prior to the
+time when any penalty or fine shall be incurred with
+respect thereto; provided, however, that each of the
+foregoing covenants shall be subject to the right of
+Borrower to contest such taxes, assessments, other
+governmental charges and claims in good faith by
+appropriate proceedings, and subject to such extensions
+of the filing or due date thereof as Borrower shall have
+obtained.
+
+Section 6.3	Insurance.
+Borrower shall keep the improvements on each
+Property insured (through an approved blanket policy of
+insurance or through individual policies for each
+
+Property) at all times against loss or damage with
+property hazard insurance in an amount at least equal to
+the full insurable value of such improvements (including
+tenant improvements) on a replacement cost basis, as
+determined by Lender (as such insurable value may change
+from time to time) and against any other risk or hazard
+which in the opinion of Lender should be insured against
+including, without limitation, earthquake, flood and
+business interruption (including rent loss and/or extra
+expense or as appropriate).  Borrower shall also carry
+public liability insurance with coverage amounts
+(including deductibles) as determined by Lender (as such
+coverage amounts may change from time to time).  All
+insurance policies shall (a) be in such form and with
+such endorsements as may be required by Lender,
+(b) provide a lender's loss payable
+     endorsement or be
+(c) endorsed with a standard non-contributory
+mortgage clause, as appropriate, in favor of
+Lender, (c) be underwritten by insurance
+providers acceptable to Lender, and (d) provide
+Lender at least thirty (30) days' prior notice
+of cancellation, non-renewal or modification.
+The policy or policies evidencing all insurance
+required hereunder (or certificates of such
+insurance) shall be delivered to and held by
+Lender.  Borrower shall pay premiums on such
+insurance as they become due, and shall not
+permit any condition to exist on or with
+respect to the Property which would wholly or
+partially invalidate any insurance.  Borrower
+currently maintains earthquake insurance
+covering the Property, and shall continue to
+maintain such insurance so long as it is
+available at commercially reasonable rates or
+Borrower is able to recoup the costs of such
+insurance from tenants at the Property.   All
+insurance policies shall comply with the
+insurance requirements set forth on Exhibit C
+attached hereto.  In addition, Borrower shall
+file with Lender, from time to time upon
+Lender's request, a detailed list of the
+insurance then in effect and stating the names
+of the insurance companies, the amounts and
+rates of the insurance, deductibles and co-
+insurance features, if any, dates of the
+expiration thereof and the properties and risks
+covered thereby.
+Secti
+on 6.4	Compliance with Law.
+Borrower shall comply with all statutes, ordinances,
+rules and regulations of Governmental Authorities
+applicable to the Property, and Borrower shall obtain as
+
+needed all licenses, permits and approvals of
+Governmental Authorities necessary for Borrower's
+operation of the Property and maintain such permits,
+licenses and approvals in good standing.
+
+Section 6.5	Inspection of Properties; Books and
+Records.
+
+Borrower shall permit any authorized representative
+designated by Lender to visit and inspect any Property
+upon reasonable prior notice, to inspect financial and
+accounting records and Leases, and to make copies and
+take extracts therefrom, all at such times during normal
+business hours and as often as Lender may reasonably
+request.
+
+Section 6.6	Conduct of Business.
+Borrower shall engage principally in the business of
+direct ownership, operation and development of suburban
+office and industrial properties of the general type
+owned by Borrower as of the Closing Date in the Western
+United States, and any other business activities of
+Borrower will remain incidental thereto.
+
+Section 6.7	Tenant Estoppel Certificates;
+Subordination, Nondisturbance and Attornment
+Agreements.
+At Lender's request, from time to time, Borrower
+shall exercise due diligence to obtain Tenant Estoppel
+Certificates and/or Subordination, Nondisturbance and
+Attornment Agreements, in form and substance approved by
+Lender, with respect to any tenant of the Property
+designated by Lender.
+
+Section 6.8	Leases; Major Agreements.
+
+Borrower shall at all times comply with all
+obligations imposed upon it under all Leases and under
+all other Major Agreements, and shall not enter into any
+Major Agreement without Lender's prior written consent,
+which shall not be unreasonably withheld or delayed.
+Borrower shall not enter into any Lease, whether or not
+such Lease constitutes a Major Agreement, that does not
+contain provisions pursuant to which the tenant
+thereunder agrees to attorn to a mortgagee in the event
+of a foreclosure, subject only to customary conditions.
+
+Section 6.9	Chief Executive Office.
+
+Borrower shall not relocate its place of business
+(or, if Borrower has more than one place of business, its
+chief executive office), except upon prior written notice
+to Lender.
+
+Section 6.10	Consolidations and Mergers.
+Borrower shall not merge, consolidate with or into,
+or convey, transfer, lease or otherwise dispose of
+(whether in one transaction or a series of transactions)
+all or substantially all of its assets (whether now owned
+or hereafter acquired) to or in favor of any person or
+entity.
+
+Section 6.11	State of Organization.
+Borrower shall provide Lender with prior notice of
+any change in Borrower's name, business structure, state
+of organization, or the location of any Collateral for
+the Loan.
+
+Section 6.12	Security Deposits And Draws Under
+Tenant Letter Of Credit.
+(a) Upon Lender's request, Borrower shall
+immediately deposit into the Tenant Security Account, all
+security deposits under Leases, provided, however, that
+all security deposits in excess of $50,000 shall be
+deposited by Borrower into such account.  Borrower's
+assignment of leases and rents pursuant to the Deed of
+Trust shall expressly include as additional security for
+the Loan any lease guaranty, as well as each Tenant
+Letter of Credit and all other security, which Borrower
+receives in conjunction with a Lease.  Additionally,
+concurrently with the execution of this Agreement, and
+from time to time thereafter as Borrower receives new
+Tenant Letters of Credit in excess of $50,000 (or, upon
+Lender's request, all Tenant Letters of Credit), Borrower
+shall (i) confirm assignment to Lender of Borrower's
+rights to proceeds from draws under all Tenant Letters of
+Credit as additional security for the Loan and (ii)
+provide to Lender each original Tenant Letter of Credit
+along with an executed transfer of beneficiary document
+(provided, however, that such transfer document shall not
+be presented to the issuer thereof except following a
+foreclosure or deed-in-lieu of foreclosure under the Deed
+of Trust or a failure by Borrower to comply with the
+requirements of subsection (c) or (d) below).  Pursuant
+to such assignment of proceeds, all draws under Tenant
+Letters of Credit shall be deposited (upon payment by the
+applicable issuing bank with respect to such Tenant
+Letter of Credit) by Lender into the Tenant Security
+Account.  Any draws under Tenant Letters of Credit and
+the tenant security deposits shall remain in the Tenant
+Security Account pending disposition of such draws and/or
+security deposits in a manner consistent with this
+Agreement.  Borrower hereby grants to Lender a security
+interest in said Tenant Security Account and all proceeds
+thereof.
+
+(b) Provided there is no Event of Default by
+Borrower under this Agreement, Borrower may request a
+withdrawal of funds from the Tenant Security Account for
+application in respect of tenant defaults under the
+applicable Lease and to cover any losses which Borrower
+certifies in writing to Lender are recoverable from the
+applicable tenant's Tenant Letter of Credit or security
+deposit, and Lender shall disburse to Borrower from the
+Tenant Security Account such requested amount.
+
+(c) Borrower shall (i) promptly notify Lender
+of any event or condition which permits a draw under a
+Tenant Letter of Credit previously delivered to Lender,
+(ii) provide to Lender a copy of the notice of Lease
+default, as applicable, and (iii) in a timely manner
+request a draw from the applicable issuing bank of such
+Tenant Letter of Credit.  Additionally, if an issuing
+bank of such Tenant Letter of Credit notifies Borrower
+that such issuing bank will not renew such Tenant Letter
+of Credit (or if the applicable tenant has failed to
+provide a replacement letter of credit not later than
+sixty (60) days prior to the expiration thereof), then
+Borrower shall (x) provide Lender prompt written notice
+of such nonrenewal or failure, and (y) timely draw the
+full amount under such Tenant Letter of Credit (with the
+proceeds thereof to be deposited directly into the Tenant
+Security Account).  Borrower shall not amend or terminate
+any such Tenant Letter of Credit without Lender's prior
+approval.
+
+(d) The procedures for a draw under a Tenant
+Letter of Credit shall be as follows:  No later than five
+(5) Business Days following written notice of an event or
+condition which permits a draw under a Tenant Letter of
+Credit (with all documentation and certifications as
+required by this Section 6.12) from Borrower pursuant to
+subsection (c) above, Lender shall either (i) return the
+relevant Tenant Letter of Credit to Borrower so that
+Borrower can draw the full amount which may be drawn
+thereunder when such credit may be drawn (and, in any
+event not later than twenty (20) days prior to the
+expiration thereof), or (ii) present such Tenant Letter
+of Credit to the issuing bank directly, in which case
+Borrower shall concurrently provide to such issuing bank
+any required draw request or other documentation so that
+the full amount which may be drawn thereunder is drawn,
+in either such case with the proceeds of such draw to be
+deposited (upon payment by the applicable issuing bank
+with respect to such Tenant Letter of Credit) by Lender
+into the Tenant Security Account.  Immediately following
+any partial draw by Borrower under such Tenant Letter of
+Credit, Borrower shall return (or cause to be returned)
+the original Tenant Letter of Credit to Lender to be held
+in accordance with this Section 6.12.  Borrower also
+shall take such other actions consistent with the
+foregoing as may reasonably be requested by Lender with
+respect to such Tenant Letters of Credit.
+(e) Upon satisfaction of the Loan in full, any
+Tenant Letters of Credit or tenant security deposits held
+by Lender shall be returned to Borrower.  In addition,
+following termination of any Lease, any Tenant Letters of
+Credit or tenant security deposits held by Lender with
+respect to such terminated Lease shall be returned to
+Borrower to the extent that Borrower is obligated to
+return same to tenant.
+
+(f) Borrower hereby represents to and for the
+benefit of Lender that nothing contained in this Section
+6.12 conflicts with the terms of any Lease, provided,
+however, that with respect to the letter of credit
+provided by Quester Technology, Inc., in addition to the
+requirements set forth in this Section 6.12, Lender's
+rights and responsibilities with respect to such letter
+of credit are further articulated and qualified by a Tri-
+Party Agreement between Borrower, Lender and Quester
+Technology, Inc., dated July 31, 1997, and modified by
+letter agreement on January 31, 2001.  In addition, the
+indemnity provisions contained in Section 8.2 of this
+Agreement shall apply to and include any claims against
+Lender by tenants or issuers of Tenant Letters of Credit,
+or by any person or entity on their behalf.
+
+Section 6.13	Delivery of Additional Security;
+Special Letters of Credit.
+(a) Borrower shall deliver to Lender, not
+later than October 31, 2002, two (2) irrevocable standby
+letters of credit (each such letter of credit, a
+"Special Letter of Credit"), one such letter of credit
+with respect to the Property at 47600 Westinghouse Drive
+in Fremont, California, and the other letter of credit
+with respect to the Property at 47633 Westinghouse Drive
+in Fremont, California, each naming Lender as
+beneficiary, in form and substance and from an issuer
+satisfactory to Lender and in an amount, agreed to by
+Borrower and Lender, sufficient to cover the projected
+re-tenanting and re-leasing cost associated with the two
+aforementioned Properties, such Special Letters of Credit
+to provide recourse support for the Loan, provided,
+however, that the amount of such Special Letters of
+Credit may be reduced from time to time, by agreement
+between Borrower and Lender, after Borrower has provided
+sufficient evidence to Lender as to actual re-tenanting
+and/or re-leasing costs expended by Borrower with respect
+to the aforementioned Properties.  Without in any manner
+limiting Lender's other remedies hereunder, Lender may
+draw on such Special Letters of Credit at any time
+following a Default hereunder and apply the proceeds
+thereof against Borrower' obligations under the Loan
+Documents.  Such Special Letters of Credit shall be
+returned to Borrower, if at all, in accordance with
+subsection (b) below.
+
+(b) Provided that no Event of Default or
+Potential Event of Default then exists, at Borrower's
+written request Lender shall return one or both of the
+Special Letters of Credit to Borrower, upon Borrower's
+delivery to Lender of satisfactory evidence of renewal or
+releasing of the applicable Property, completion of and
+payment for any relevant retenanting work, payment of any
+applicable leasing commissions, and acceptance and
+occupancy of such Property by the tenant along with
+commencement of rent, all in accordance with Leases
+approved by Lender pursuant to Section 6.8 below.
+
+7.	Hidden text - leave for automatic numbering
+ARTICLE VII:  EVENTS OF DEFAULT AND REMEDIES
+Section 7.1	Events of Default.
+Each of the following events or occurrences shall
+constitute an Event of Default under this Agreement:
+(a)	Payment.
+Borrower shall fail to pay any installment of the
+principal of or interest on the Loan when and as the same
+shall become due and payable, whether on the due date
+thereof, by acceleration or otherwise, or Borrower shall
+fail to make payment of any other amount payable under
+this Agreement or the other Loan Documents when and as
+the same shall become due and payable, and any such
+failure shall continue for a period of five (5) days
+following written notice thereof from Lender to Borrower;
+provided, however, that following the first occasion
+during each year of the term of the Loan for which Lender
+shall have given to Borrower such written notice of
+Borrower's failure to pay any such amount when due and
+payable, Borrower's failure to pay when due and payable
+any such amount shall constitute an Event of Default
+without the requirement of any notice from Lender.
+(b)	Other Covenants.
+Borrower shall fail to perform any other covenant or
+obligation to be performed by Borrower under this
+Agreement or any other Loan Document, including, without
+limitation, the Environmental Compliance Agreement, and
+such failure shall continue for thirty (30) days after
+written notice thereof from Lender to Borrower specifying
+the failure and demanding that Borrower remedy the same;
+provided, however, that if (i) Lender determines in good
+faith that such failure can be cured within ninety (90)
+days, (ii) no lien or security interest created by the
+Loan Documents will be impaired, and (iii) Borrower
+diligently commences to cure such failure within thirty
+(30) days after the date of Lender's notice and
+
+thereafter diligently prosecutes such cure, such failure
+shall not constitute an Event of Default unless it
+continues for ninety (90) days after Lender's initial
+notice.
+
+(c)	Representations and Warranties.
+Any representation or warranty made by Borrower in
+this Agreement or in the other Loan Documents, or in any
+certificate, document or instrument furnished in
+connection with this Agreement or the transactions
+contemplated hereby, shall prove to have been false or
+misleading in any material respect when made.
+
+(d)	Involuntary Bankruptcy; Appointment of Receiver.
+(j) An involuntary case shall be
+commenced against Borrower and the petition shall
+not be dismissed within thirty (30) days after
+commencement of the case, or a court having
+jurisdiction shall enter a decree or order for
+relief in respect of Borrower in an involuntary
+case, under any applicable bankruptcy, insolvency or
+other similar law now or hereinafter in effect; or
+
+(ii) A decree or order of a court for
+the appointment of a receiver, liquidator,
+sequestrator, trustee, custodian or other officer
+having similar powers shall be entered against
+Borrower or over all or a substantial part of the
+property of Borrower; or a warrant of attachment,
+execution or similar process against any substantial
+part of the property of Borrower shall be issued and
+the same shall not be stayed, vacated, dismissed,
+bonded or discharged within thirty (30) days of
+entry, appointment or issuance.
+
+(d) Voluntary Bankruptcy; Appointment of Receiver.
+
+Borrower shall have an order for relief entered with
+respect to it or commence a voluntary case under any
+applicable bankruptcy, insolvency or other similar law
+now or hereafter in effect, or shall consent to the entry
+of an order for relief in an involuntary case, or to the
+conversion of an involuntary case to a voluntary case,
+under any such law, or shall consent to the appointment
+of or taking of possession by a receiver, trustee or
+other custodian for all or a substantial part of its
+property; or Borrower shall make any assignment for the
+benefit of creditors or shall be unable or fail, or admit
+in writing its inability, to pay its debts as such debts
+become due.
+
+(f)	Solvency; Material Adverse Change.
+There shall have occurred any change in the
+business, operations, properties, assets or condition
+(financial or otherwise) of Borrower which Lender
+determines could have a Material Adverse Effect upon
+Borrower.
+
+(g)	Management Changes.
+The Chairperson of the Board or the chief executive
+office of Borrower resigns, is terminated or otherwise
+ceases to act for any reason, and such officer of
+Borrower is not replaced with a person reasonably
+satisfactory to Lender within twelve (12) months after
+such person ceases to hold such position.
+
+(h)	Change in Control.
+Any change in control of Borrower occurs.  For
+purposes of this section, "change in control" shall mean
+(i) the acquisition of beneficial ownership by any
+"person" or "group" (as defined in Section 13(d)(3) or
+14(d)(2) of the Securities Exchange Act of 1934, as
+amended) of a direct or indirect interest in more than
+fifty percent (50%) of the voting power of the then
+outstanding capital stock of Borrower; or (b) a merger or
+consolidation of the Borrower with any other entity or
+the merger of any other entity into Borrower or any other
+transaction, as a result of which the stockholders of
+Borrower immediately prior to such transaction own, in
+the aggregate, less than a majority of the voting power
+of the outstanding capital stock of the surviving or
+resulting entity; or (c) the first day on which a
+majority of the members of the Board of Directors of
+Borrower are not Continuing Directors.  A "Continuing
+Director" shall mean any director of the Board of
+Directors of Borrower who is either (i) a member of such
+Board of Directors on the date of this Agreement or (ii)
+nominated or elected to such Board of Directors with the
+approval of a majority of the Continuing Directors who
+were members of such Board of Directors at the time of
+such nomination or elections.
+
+Section 7.2	Rights and Remedies.
+(a)	Acceleration.
+Upon the occurrence of any Event of Default
+described in Sections 7.1(d) or (e) of this Agreement
+with respect to Borrower, the unpaid principal amount of
+and any and all accrued interest on the Loan shall
+automatically become immediately due and payable, with
+all additional interest from time to time accrued thereon
+and without presentment, demand or protest or other
+requirements of any kind (including, without limitation,
+valuation and appraisement, diligence, presentment,
+
+notice of intent to demand or accelerate or notice of
+acceleration), all of which are hereby expressly waived
+by Borrower.  Upon the occurrence of any other Event of
+Default, Lender, by written notice to Borrower, may
+declare the unpaid principal amount of, any and all
+accrued and unpaid interest on, the Loan and all of the
+other Obligations to be, and the same shall thereupon be,
+immediately due and payable with all additional interest
+from time to time accrued thereon and without
+presentment, demand or protest or other requirements of
+any kind (including without limitation, valuation and
+appraisement, diligence, presentment, notice of intent to
+demand or accelerate and of acceleration), all of which
+are hereby expressly waived by Borrower.  Without
+limiting Lender's authority hereunder, on or after the
+Maturity Date, Lender may exercise any or all rights and
+remedies under the Loan Documents or applicable law,
+including, without limitation, foreclosure upon all or
+any part of the Collateral.
+
+(b)	Waiver of Demand.
+Demand, presentment, protest and notice of
+nonpayment are hereby waived by Borrower.  Borrower also
+waives, to the extent permitted by law, the benefit of
+all valuation, appraisal and exemption laws.
+
+(c)	Environmental Assessment.
+As part of a foreclosure upon any Property or the
+acceptance by Lender of any deed in lieu of foreclosure,
+Lender shall have the right to cause an environmental
+assessment for such Property to be prepared by an
+environmental consultant acceptable to Lender, the cost
+of which shall constitute an Obligation of Borrower
+hereunder.
+
+8.	Hidden text - leave for automatic numbering
+ARTICLE VIII:  MISCELLANEOUS
+Section 8.1	Expenses.
+(a)	Generally.
+Borrower shall pay, or reimburse Lender for, all of
+Lender's reasonable audit, legal, appraisal, valuation
+and investigation expenses and for all other reasonable
+out-of-pocket costs and expenses of every type and nature
+(including, without limitation, the fees, expenses and
+disbursements of Lender's internal appraisers,
+environmental advisors or legal counsel) incurred by
+Lender in connection with (i) the negotiation,
+preparation and execution of this Agreement, the Deeds of
+Trust and the other Loan Documents, the obtaining of
+compliance with the closing conditions and the making of
+the Loan; (ii) the pre-closing investigation and review
+of Borrower and the Property, including appraisal fees
+
+and costs of environmental assessment; (iii) title
+insurance premiums and endorsement charges for the title
+insurance described in Section 3.1(b), recording fees and
+attorneys' fees and costs incurred in connection
+therewith; (iv) the creation, perfection or protection of
+Lender's Liens on the Collateral; (v) obtaining
+Appraisals of the Properties (A) periodically, but not
+more frequently than once in any calendar year, in order
+to comply with regulatory requirements applicable to
+Lender, or (B) pursuant to Section 2.7, 2.8 or 2.9 above,
+or (C) during the continuance of an Event of Default; and
+(vi) the protection, collection or enforcement of any of
+the Obligations or the Collateral.  On the Closing Date,
+Borrower shall pay, or reimburse Lender for, all such
+costs and expenses paid or incurred by Lender as of such
+date, and all other such costs and expenses shall be paid
+or reimbursed by Borrower to Lender on demand.
+
+(b)	After Event of Default.
+Borrower further agrees to pay, or reimburse Lender
+for, all reasonable out-of-pocket costs and expenses,
+including, without limitation, attorneys' fees and
+disbursements incurred by Lender after the occurrence of
+an Event of Default (i) in enforcing any Obligations or
+in foreclosing against the Collateral or exercising or
+enforcing any other right or remedy available by reason
+of such Event of Default; (ii) in connection with any
+refinancing or restructuring of the credit arrangements
+provided under this Agreement in the nature of a "work-
+out" or in any insolvency or bankruptcy proceeding;
+(iii) in commencing, defending or intervening in any
+litigation or in filing a petition, complaint, answer,
+motion or other pleadings in any legal proceeding
+relating to Borrower and related to or arising out of the
+transactions contemplated hereby; (iv) in taking any
+other action in or with respect to any suit or proceeding
+(whether in bankruptcy or otherwise); (v) in protecting,
+preserving, collecting, leasing, selling, taking
+possession of, or liquidating any of the Collateral; or
+(vi) in attempting to enforce or enforcing any Lien on
+any of the Collateral or any other rights under the Deeds
+of Trust.
+Section 8.2	Indemnity.
+Borrower shall indemnify, defend and hold harmless
+Lender and its Affiliates and participants and each of
+the respective officers, directors, employees, agents,
+shareholders, representatives, attorneys and consultants
+of each of the foregoing (collectively called the
+"Indemnitees") from and against any and all Liabilities
+and Costs imposed on, incurred by, or asserted against
+such Indemnitees in any manner relating to or arising out
+of this Agreement, the Deeds of Trust or the other Loan
+
+Documents, or any act, event or transaction related or
+attendant thereto, the making of the Loan and the
+management of the Loan, or the use or intended use of the
+proceeds of the Loan (collectively, the "Indemnified
+Matters"); provided, however, that Borrower shall have
+no obligation to an Indemnitee hereunder with respect to
+Indemnified Matters to the extent caused by or resulting
+from the willful misconduct or gross negligence of that
+Indemnitee, as determined by a court of competent
+jurisdiction.
+
+Section 8.3	Notices and Delivery.
+Unless otherwise specifically provided herein, any
+consent, notice or other communication herein required or
+permitted to be given shall be in writing and may be
+personally served, telecopied or sent by courier service
+or United States mail and shall be deemed to have been
+given when delivered in person or by courier service,
+upon receipt of a telecopy (or on the next Business Day
+if such telecopy is received on a non-Business Day or
+after 5:00 p.m. on a Business Day) or three (3) Business
+Days after deposit in the United States mail (registered
+or certified, with postage prepaid and properly
+addressed).  For the purposes hereof, the addresses of
+the parties hereto (until notice of a change thereof is
+delivered as provided in this Section 8.3) shall be as
+set forth below each party's name on the signature pages
+hereof, or, as to each party, at such other address as
+may be designated by such party in a written notice to
+the other party.
+
+Section 8.4	Survival of Warranties, Indemnities and Agreements.
+All agreements, representations, warranties and
+indemnities made or given herein shall survive the
+execution and delivery of this Agreement and the other
+Loan Documents and the making and repayment of the Loan
+hereunder and such indemnities shall survive termination
+hereof.
+
+Section 8.5	No Waiver; Remedies Cumulative.
+No failure or delay on the part of Lender in the
+exercise of any power, right or privilege under any of
+the Loan Documents shall impair such power, right or
+privilege or be construed to be a waiver of any default
+or acquiescence therein, nor shall any single or partial
+exercise of any such power, right or privilege preclude
+other or further exercise thereof or of any other right,
+power or privilege.  All rights and remedies existing
+under the Loan Documents are cumulative to and not
+exclusive of any rights or remedies otherwise available.
+
+Section 8.6	Marshalling; Recourse to Security; Payments Set Aside.
+Lender shall not be under any obligation to marshall
+any assets in favor of Borrower or any other party or
+against or in payment of any or all of the Obligations.
+To the extent that Borrower makes a payment or payments
+to Lender, or Lender shall enforce its Liens or exercise
+its rights of setoff, and such payment or payments or the
+proceeds of such enforcement or setoff or any part
+thereof are subsequently invalidated, declared to be
+fraudulent or preferential, set aside and/or required to
+be repaid to a trustee, receiver or any other party under
+any bankruptcy law, state or federal law, common law or
+equitable cause, then to the extent of such recovery, the
+Obligations or part thereof originally intended to be
+satisfied, and all Liens, rights and remedies therefor,
+shall be revived and continued in full force and effect
+as if such payment had not been made or such enforcement
+or setoff had not occurred.
+
+Section 8.7	Severability.
+In case any provision of this Agreement or the other
+Loan Documents shall be held to be invalid, illegal or
+unenforceable, the validity, legality and enforceability
+of the remaining provisions shall not in any way be
+affected or impaired thereby.
+
+Section 8.8	Headings.
+
+Section headings in this Agreement are included
+herein for convenience of reference only and shall not
+constitute a part of this Agreement for any other purpose
+or be given any substantive effect.
+
+Section 8.9	Governing Law.
+This Agreement shall be governed by, and shall be
+construed and enforced in accordance with, the laws of
+the State of California.
+
+Section 8.10	Successors and Assigns.
+This Agreement and the other Loan Documents shall be
+binding upon the parties hereto, and their respective
+successors and assigns, and shall inure to the benefit of
+the parties hereto and their respective successors and
+permitted assigns.  Notwithstanding the foregoing,
+Borrower's rights hereunder, and Borrower's duties and
+Obligations hereunder, shall not be assigned without the
+prior written consent of Lender.
+
+Section 8.11	Sale of Loan, Participations.
+Lender may, at any time, sell, transfer, assign,
+dispose of, grant participations in or syndicate the Loan
+and the Loan Documents, provided that, unless otherwise
+consented to by Borrower (such consent not to be
+
+unreasonably withheld):  (a) no more than three (3)
+Persons shall hold interests in the Loan (as Lender,
+assignee or participant), and (b) (i) Lender, or an
+assignee of Lender reasonably acceptable to Borrower,
+shall at all times retain an interest in the Loan that is
+greater than 50% (the "Majority Lender"), and (ii)
+Borrower shall not be required to communicate with any
+Person holding an interest in the Loan other than the
+Majority Lender.  Lender shall have the right to forward
+to any prospective purchaser, co-lender or participant
+all documents and information relating to the Loan and
+the Loan Documents, Borrower and the Collateral, whether
+furnished by Borrower or otherwise, as Lender deems
+necessary or desirable.  Borrower shall reasonably
+cooperate with Lender in any efforts by Lender to sell,
+transfer, assign, dispose of, grant participations in or
+syndicate the Loan and the Loan Documents, including,
+without limitation, by executing and delivering to Lender
+replacement a promissory note or notes in the form of the
+Note and in the aggregate principal amount of then
+outstanding principal amount of the Loan.
+
+Section 8.12	Counterparts; Inconsistencies.
+This Agreement and any amendments, waivers, consents
+or supplements may be executed in counterparts, each of
+which when so executed and delivered shall be deemed an
+original, but all of which together shall constitute but
+one and the same instrument.  This Agreement and each of
+the other Loan Documents shall be construed to the extent
+reasonable to be consistent one with the other, but to
+the extent that the terms and provisions of this
+Agreement are actually and directly inconsistent with the
+terms and provisions of any other Loan Document, the
+terms and provisions of this Agreement shall govern.
+
+Section 8.13	Construction.
+The parties acknowledge that each party has reviewed
+and participated in preparing, and has had the
+opportunity to have such party's counsel review and
+participate in preparing, the Loan Documents and that the
+normal rule of construction to the effect that any
+ambiguities are to be resolved against the drafting party
+shall not be employed in the interpretation of the Loan
+Documents or any amendments or exhibits thereto.
+
+Section 8.14	Entire Agreement.
+
+This Agreement, taken together with all of the other
+Loan Documents and all certificates and other documents
+
+delivered by Borrower to Lender, embodies the entire
+agreement, and supersedes all prior agreements, written
+and oral, relating to the subject matter hereof.
+
+
+
+IN WITNESS WHEREOF, this Agreement has been duly executed
+on the date set forth above.
+
+
+BORROWER:               BEDFORD PROPERTY INVESTORS, INC.,
+                          a Maryland corporation
+
+
+                          By:/s/Hanh Kihara
+                         Its: Sr. V.P. and Chief
+                              Financial Officer
+
+
+                              ADDRESS FOR NOTICE AND
+                              DELIVERY FOR
+                              BORROWER:
+
+                       Bedford Property Investors, Inc.
+                              270 Lafayette Circle
+                              Lafayette, CA  94549
+                              Attn:  Hahn Kihara
+                              Tel: (925) 283-8910
+                              Fax:  (925) 283-5697
+
+
+LENDER:                   UNION BANK OF CALIFORNIA, N.A.
+
+
+                              By: /s/David B. Hunzbly
+                              Its: Vice President
+
+
+                              ADDRESS FOR NOTICE AND
+                              DELIVERY TO
+                              LENDER:
+
+                              Union Bank of California, N.A.
+                              Real Estate Industries Group
+                              350 California Street, 7th Floor
+                              Attn:  Annette L. Billingsley
+                              Tel:  (415) 705-5075
+                              Fax:  (415) 433-7438
+
+
+                          EXHIBIT A
+
+               PROPERTIES AND RELEASE PRICES
+
+<TABLE>
+<S>                        <C>                <C>
+
+(A)
+PROPERTY
+(B)
+ALLOCATED LOAN AMOUNT*
+(C)
+RELEASE PRICE
+(B X 120%)
+1.	Canyon Vista, San Diego, CA.
+ $4,059,000
+$4,870,800
+2.	Napa Corporate Center, Napa, CA.
+ $4,620,000
+$5,544,000
+3.	Carroll Tech Center I, San Diego, CA.
+ $1,338,000
+$1,605,600
+4.	Carroll Tech Center II, San Diego, CA.
+ $2,497,900
+$2,997,480
+5.	Carroll Tech Center III, San Diego, CA.
+ $1,939,100
+$2,326,920
+6.	47633 Westinghouse Drive, Fremont, CA.
+ $3,060,000
+$3,672,000
+7.	47650 Westinghouse Drive, Fremont, CA.
+ $1,320,000
+$1,584,000
+8.	47600 Westinghouse Drive, Fremont, CA.
+ $1,320,000
+$1,584,000
+9.	115 Mason Circle, Concord, CA.
+ $1,665,000
+$1,998,000
+
+$21,819,000
+
+
+</TABLE>
+*Allocated loan amount to be adjusted, in proportion to
+the relative Appraised Values of each Property from time
+to time, upon each and any reappraisal of any Property,
+and the Release Prices adjusted accordingly.
+
+                            EXHIBIT B
+<TABLE>
+<S>                   <C>                          <C>
+
+Building
+Tenant
+Square Footage
+
+
+
+47650 Westinghouse Drive I
+SMT Unlimited, L.P.
+24,030
+
+
+
+47600 Westinghouse Drive
+Quester Technology, Inc.
+24,030
+
+
+
+47633 Westinghouse/Quester
+Quester Technology, Inc.
+
+
+
+
+115 Mason Circle
+Koppl Industrial Systems, Inc.
+8,154
+
+LMH, Inc.
+7,885
+
+Community Resources
+5,832
+
+Taylor Made Water Systems
+7,296
+
+Pacific Mechanical Supply, Inc.
+5,833
+
+
+
+860-870 Napa (Napa 9)
+Bank of America
+2,640
+
+Enterprise Productivity Systems, Inc.
+7,558
+
+PPI Engineering, Inc.
+4,336
+
+Tandy Corporation
+1,017
+
+Oakville Grocery Corporation
+1,989
+
+Fulcrum Integration Technologies
+2,160
+
+Fat Angel Aviation
+1,854
+
+J. Lohr Winery
+1,602
+
+Walsh Vineyard Management
+2,021
+
+Greg D. Long
+3,204
+
+Saverglass, Inc.
+3,048
+
+K&L Manco
+4,610
+
+Robert Mondavi Winery
+17,551
+
+PPI Engineering, Inc.
+936
+
+E&F ATMI, Inc.
+4,326
+
+Oris Pacheco & Sons, Inc.
+985
+
+Javorina's American Window Sys.
+2,472
+
+ATMI, Inc.
+1,602
+
+Visicon Inspection
+3,864
+
+
+
+Carroll Tech Center I
+San Diego Cash Register Co.
+21,936
+
+
+
+Carroll Tech Center II
+Sony Online Entertainment
+39,900
+
+
+
+Carroll Tech Center III
+Verant Interactive, Inc.
+29,307
+
+
+
+Canyon Vista Center
+TUV Product Service, Inc.
+17,591
+
+Midway Home Entertainment, Inc.
+27,512
+
+Entrada Networks
+18,643
+</TABLE>
+* Estoppel required prior to closing
+
+
+
+                EXHIBIT C - Insurance Requirements
+
+
+1.  REQUIRED POLICY FORMS AND COVERAGES
+A. COMMERCIAL GENERAL LIABILITY INSURANCE in the
+          minimum amount of $5,000,000 ($1,000,000 per
+          occurrence).
+B. BUILDING  AND  PERSONAL PROPERTY COVERAGE with
+SPECIAL FORM (All Risk/Extended Coverage) in the
+minimum amount shown in the following table
+("Insurable Value").  The following clauses or
+endorsements shall be included:  Full Replacement
+Cost Endorsement and Stipulated Value/Agreed Amount
+Endorsement.
+<TABLE>
+<S>                               <C>
+[PROPERTY
+INSURABLE VALUE
+47633 Westinghouse Drive, Fremont, Alameda County, California
+$4,192,000
+47600 Westinghouse Drive, Fremont, Alameda County, California
+$1,767,000
+47650 Westinghouse Drive, Fremont, Alameda County, California
+$1,767,000
+8929 Terman Court, San Diego, San Diego County, California
+$1,668,750
+8958 Terman Court, San Diego, San Diego County, California
+$3,155,500
+8959 Terman Court, San Diego, San Diego County, California
+$2,228,750
+860-870 Napa Valley Corporate Way, Napa, Napa County California
+$4,724,000
+10040, 10070, 10110 Mesa Rim Road, San Diego, San Diego County, California
+$3,248,000
+115 Mason Circle, Concord, Contra Costa County, California
+$1,725,000
+</TABLE>
+C.	BOILER AND MACHINERY COVERAGE.
+D.	BUSINESS  INCOME AND EXTRA EXPENSE OR RENTAL INCOME/ RENTAL VALUE COVERAGE.
+E.	[EARTHQUAKE and/or FLOOD insurance - pending UBOC review]
+2. ACCEPTABLE INSURANCE CARRIERS.  All carriers of
+property insurance shall have a Best Guide Rating of A
+VIII or better and shall be licensed to do business in
+the state where the property is located.
+
+3. MINIMUM COVERAGE.  The amount of property
+insurance coverage shall equal or exceed the Insurable
+Value on a replacement cost basis, as such Insurable
+Value may change from time to time.
+4. MAXIMUM DEDUCTIBLE.  The deductible shall not
+exceed the lesser of $25,000 or 5% of the coverage
+amount (per Property).
+
+5.	CO-INSURANCE.  Co-Insurance clauses are not
+acceptable unless (i) the policy includes an Agreed
+Value Endorsement or (ii) the amount calculated under
+the co-insurance formula exceeds the Insurable Value.
+
+6.	ACCEPTABLE EVIDENCE OF PROPERTY INSURANCE.  Evidence
+     of property insurance shall be presented on ACORD
+form 27, a Declarations Page, or an equivalent form
+that confers rights on the Certificate Holder.
+ACORD Form 75-S is acceptable only for loans less
+than $1,000,000 (unless attached to ACORD "Cover
+Note") and must be replaced prior to expiration by
+one of the aforementioned forms or an equivalent.
+ACORD forms 24 and 25S are not acceptable as
+evidence of property insurance.  Evidence of
+property insurance shall include the loan number, if
+any, indicated below.
+
+7.	NAMED INSURED.  All policies shall name Borrower as
+Insured.  Property insurance policies shall name
+UNION BANK OF CALIFORNIA, N.A., ITS SUCCESSORS AND/OR ASSIGNS
+as Mortgagee or Loss Payee.  Liability Insurance
+policies shall name UNION BANK OF CALIFORNIA, N.A., ITS
+SUCCESSORS AND/OR ASSIGNS as Additional Insured.
+
+8.	LOSS PAYABLE ENDORSEMENT.  All property insurance
+policies shall include a Lender's Loss Payable
+
+Endorsement (438BFU, CP1218, or an equivalent clause
+or endorsement) naming UNION BANK OF CALIFORNIA, N.A.,
+ITS SUCCESSORS AND/OR ASSIGNS as Loss Payee.
+9. NOTICE OF CANCELLATION.  All policies shall
+provide
+
+10. Lender at least thirty (30) days notice of
+cancellation, non-renewal or modification.
+
+11. INITIAL POLICY TERM.  All evidence of property
+insurance shall indicate a policy term of at least
+12 months, or coverage must be continuous until
+canceled.
+12. MULTIPLE INSUREDS.  If property insurance is
+provided by more than one party (e.g., Borrower
+and major tenants), the sum of the coverages
+provided shall equal or exceed the Insurable
+Value.
+
+13. CHANGES TO INSURANCE REQUIREMENTS.  From time to
+time, Lender may require insurance against other
+hazards, as such hazards are commonly insured
+against by reasonably prudent business persons
+operating properties of similar construction,
+configuration and location, or as such insurance
+is required by law.  These insurance requirements
+may be modified or amended by Lender in its sole
+discretion.  Upon expiration of any existing
+policy, a replacement policy meeting such modified
+or amended insurance requirements shall be
+provided.
+
+14. OBLIGATION TO MAINTAIN COVERAGE.  It is the
+obligation of Borrower to keep required insurance
+in force at all times and to provide the required
+evidence of insurance to Lender.  Failure to do so
+constitutes a default under the terms of the deed
+of trust securing the loan.  At renewal, evidence
+of insurance shall be received by Lender at least
+thirty (30) days before existing coverage expires.
+If acceptable coverage is not received by Lender
+within thirty (30) days of the expiration of
+existing coverage, Lender may place interim
+coverage to protect its security interest at
+Borrower's expense.  Interim insurance may be
+considerably more expensive than coverage
+purchased by Borrower.  Such interim insurance
+will not protect the interest of Borrower.  Lender
+shall not be liable for any loss incurred by
+Borrower as a result of failure to maintain
+adequate coverage.
+	Borrower will instruct the insurance agent for such
+insurance to provide Lender with proof of insurance in
+the form of a policy or certificate of insurance,
+including the endorsements set forth above, to be
+delivered to the following address:
+
+Union Bank of California, N.A.
+Commercial Real Estate Loan Administration
+Re Loan No. 0709450182
+Attn: Cindy Rafael
+18300 Von Karman Avenue, Suite 200
+Irvine, CA  92612
+Telephone #: (949) 553-7156
+FAX#: (949) 553-7123
+
+
+
+BORROWER'S INSURANCE AGENT:
+Name
+Address
+City, State, Zip
+Telephone #   					 Fax #:
+
+
+
+
+               EXHIBIT D - RESERVE REQUIREMENTS
+<TABLE>
+<S>                                 <C>
+
+PROPERTY
+PROPERTY TYPE
+Canyon Vista, San Diego, CA.
+Research & Development
+Napa Corporate Center, Napa, CA.
+Office
+Carroll Tech Center I, San Diego, CA.
+Research & Development
+Carroll Tech Center II, San Diego, CA.
+Research & Development
+Carroll Tech Center III, San Diego, CA.
+Research & Development
+47633 Westinghouse Drive, Fremont, CA.
+Research & Development
+47650 Westinghouse Drive, Fremont, CA.
+Research & Development
+47600 Westinghouse Drive, Fremont, CA.
+Research & Development
+115 Mason Circle, Concord, CA.
+Industrial
+</TABLE>
+
+Reserve Requirements
+
+Office:  $1.00 per net rentable square foot per month
+Research & Development:  $.30 per net rentable square foot per month
+Industrial:  $.10 per net rentable square foot per month
+
+
+
+
+
+
+AMENDED AND RESTATED PROMISSORY NOTE
+SECURED BY DEEDS OF TRUST
+
+<TABLE>
+<S>
+                                <C>             <C>
+Debtor Name	BEDFORD PROPERTY INVESTORS, INC., a Maryland corporation
+Debtor Address
+	270 Lafayette Circle
+	Lafayette, CA  94549
+Office
+	95371
+Loan Number
+        0709450182
+
+Maturity Date
+	November 19, 2004
+
+Amount
+	$21,819,000
+</TABLE>
+$21,819,000                        Date: November 19, 2001
+FOR VALUE RECEIVED, on November 19, 2004 ("Maturity Date"),
+as such date may be extended by Section 2.9 of the Loan
+Agreement, the undersigned ("Debtor") promises to pay to the
+order of UNION BANK OF CALIFORNIA, N.A. ("Bank"), as indicated
+below, the principal sum of Twenty-One Million Eight Hundred
+Nineteen Thousand and 00/100ths Dollars ($21,819,000.00), or
+if less, the aggregate unpaid principal amount of all
+disbursements made by Bank pursuant to the Amended and
+Restated Loan Agreement dated concurrently herewith, between
+Debtor and Bank ("Loan Agreement"), together with interest on
+the unpaid balance of such principal amount, at the per annum
+rate or rates and at the times set forth below.  This Amended
+and Restated Promissory Note Secured by Deeds of Trust
+("Note") fully amends, supercedes and restates the Promissory
+Note Secured by Deed of Trust executed by Debtor for the
+benefit of Bank dated December 24, 1996 (the "Original
+Note"), and outstanding obligations of Debtor under the
+Original Note shall be deemed outstanding for all purposes
+under this Note.  Upon delivery of this Note, the Original
+Note shall be conspicuously marked to reflect that it has been
+amended and restated, in its entirety, by this Note.  (Unless
+otherwise defined in Paragraph 8 below or elsewhere herein,
+capitalized terms used in this Note shall have the meanings
+given to them in the Loan Agreement.)
+
+1.	PAYMENTS.
+a.	PRINCIPAL PAYMENTS.
+i.	INITIAL TERM.
+A. During the first year of the initial term
+     of the Loan (from the Closing Date until
+     November 19, 2002), Debtor shall pay
+     principal in installments of $44,769.60
+     each on the first day of each month
+     commencing December 1, 2001;
+
+B. During the second year of the initial term
+of the Loan (from November 19, 2002 until
+November 19, 2003), Debtor shall pay
+principal in installments of $46,476.76
+each on the first day of each month
+commencing December 1, 2002; and
+
+C. During the third year of the initial term
+of the Loan (from November 19, 2003 until
+the Maturity Date), Debtor shall pay
+principal in installments of $48,249.01
+each on the first day of each month
+commencing December 1, 2003.
+
+Notwithstanding the required principal
+amortization payments set forth above, any
+
+outstanding principal balance under the Note on
+the Maturity Date shall be due and payable on
+the Maturity Date.
+
+ii. EXTENSION TERM.  If Debtor exercises the
+Extension Option set forth in Section 2.9 of
+the Loan Agreement, then on the original
+Maturity Date Lender will determine
+amortization due during the extension period
+and calculate such amortization payments so
+that during the extension period Debtor shall
+be required to pay to Bank principal
+amortization payments as follows:
+
+A. During the first year of the extension
+term of the Loan (from the original
+Maturity Date until November 19, 2005)
+("Extension Year One"), Debtor shall pay,
+on the first day of each month commencing
+December 1, 2004, principal payments each
+in an equal amount that, in the aggregate,
+equate to the principal amortization that
+would be due under the Loan during
+Extension Year One based on a calculation
+of total principal amortization that would
+be due under the Loan during the time
+period from the Maturity Date to the
+Extended Maturity Date under a 22-year
+amortization schedule of equal monthly
+payments of principal and interest using a
+rate equal to the Fixed Rate (using a 360-
+day Fixed Rate Period) in effect at the
+original Maturity Date; and
+
+B. During the second year of the extension
+term of the Loan (from the November 19,
+2005 until the Extended Maturity Date)
+("Extension Year Two"), Debtor shall pay,
+on the first day of each month commencing
+December 1, 2005, principal payments each
+in an equal amount that, in the aggregate,
+equate to the principal amortization that
+would be due under the Loan during
+Extension Year Two based on a calculation
+of total principal amortization that would
+be due under the Loan during the time
+period from November 19, 2005 to the
+Extended Maturity Date under a 22-year
+amortization schedule of equal monthly
+payments of principal and interest using a
+rate equal to the Fixed Rate (using a 360-
+day Fixed Rate Period) in effect at the
+original Maturity Date.
+Notwithstanding the required principal
+amortization payments set forth above, any
+outstanding principal balance under the Note on
+the applicable Extended Maturity Date shall be
+due and payable on such Extended Maturity Date.
+b. INTEREST PAYMENTS.  Debtor shall pay to Bank accrued
+interest on the outstanding principal amount of the
+disbursements made by Bank to Debtor under the Loan
+Agreement on the first day of each month commencing
+December 1, 2001, and on the Maturity Date.  If
+interest shall not be paid when due, it shall become
+part of the principal and bear interest as herein
+provided.  All computations of interest under this
+Note shall be made on the basis of a year of 360
+days, for actual days elapsed.  If any interest rate
+defined in this Note ceases to be available from
+Bank for any reason, then such interest rate shall
+be replaced by the rate then offered by Bank, which,
+in the sole discretion of Bank, most closely
+approximates the unavailable rate.  Interest shall
+be payable at the following applicable rate(s),
+subject to Paragraph 3 below:
+
+i. LIBOR BASED INTEREST RATE.  At Debtor's option,
+amounts outstanding hereunder in minimum
+amounts of at least $500,000 and increments of
+at least $100,000 shall bear interest at a rate
+("Fixed Rate") which is one and sixty one-
+hundredths percent (1.60%) per annum in excess
+of Bank's LIBOR Rate for the Interest Period
+selected by Debtor.
+
+Any Fixed Rate may not be changed, altered or
+otherwise modified until the expiration of the
+Interest Period selected by Debtor.  The
+exercise of such interest rate option by Debtor
+shall be as recorded in Bank's records, which
+records shall be prima facie evidence of the
+amount borrowed under such interest rate option
+and the interest rate; provided, however, that
+the failure of Bank to make any such notation
+in its records shall not discharge Debtor from
+its obligations to repay in full with interest
+all amounts borrowed.  In no event shall any
+Interest Period extend beyond the then Maturity
+Date.
+To select a Fixed Rate, Debtor may, from time
+to time with respect to principal outstanding
+on which a Fixed Rate is not accruing, and on
+the expiration of any Interest Period with
+respect to principal outstanding on which a
+Fixed Rate has been accruing, select an
+
+interest rate and an Interest Period by
+telephoning an authorized lending officer of
+Bank located at the banking office identified
+below prior to 10:00 a.m., Pacific time, on any
+Business Day and advising that officer of the
+Interest Period and the Fixed Rate Commencement
+Date selected (which Fixed Rate Commencement
+Date shall follow the date of such selection by
+no more than two (2) Business Days).
+
+In no event shall Debtor be entitled to select
+a Fixed Rate if an Event of Default shall have
+occurred and be continuing.  In addition, no
+more than five (5) Fixed Rate Components may be
+outstanding under this Note at any one time.
+Further, notwithstanding anything to the
+contrary contained in this paragraph, Debtor
+shall not be entitled to select a Fixed Rate
+with respect to any portion of the outstanding
+principal balance of this Note which Debtor is
+obligated to repay to Bank prior to the
+expiration of the Interest Period for such
+Fixed Rate.
+
+Bank will mail a confirmation of the terms of
+the selection to Debtor promptly after the
+selection is made.  Agent's failure to send
+such confirmation shall not affect Bank's
+rights to collect interest at the rate
+selected.  If, on the date of the selection,
+the Fixed Rate selected is unavailable for any
+reason, the selection shall be void.  Banks
+reserve the right to fund the principal from
+any source of funds notwithstanding any Fixed
+Rate selected by Debtor.
+
+ii. VARIABLE INTEREST RATE.  All principal
+outstanding hereunder which is not bearing
+interest at a Fixed Rate shall bear interest at
+a rate per annum equal to the Reference Rate,
+which rate shall vary as and when the Reference
+Rate changes.
+
+c. PAYMENT MECHANICS.  Debtor shall pay all amounts due
+under this Note in lawful money of the United States
+at Bank's Monterey Park, California, Office, or such
+other office as may be designated by Bank from time
+to time.  Payments received by Bank under this Note
+shall first be applied to accrued and unpaid
+interest then due and owing hereunder, and
+thereafter to the repayment of principal.
+2. LATE PAYMENTS.  If any payment required by the terms of
+this Note shall remain unpaid ten days after same is
+due, at the option of Bank, Debtor shall pay to Bank
+a late payment fee of five percent (5%) of the
+amount unpaid.
+
+3. INTEREST RATE FOLLOWING DEFAULT.  Upon the occurrence
+of an Event of Default, at the option of Bank and to
+the extent permitted by law, interest shall be payable
+on the outstanding principal under this Note at a per
+annum rate equal to five percent (5%) in excess of the
+applicable interest rate specified in Paragraph 1
+above, calculated from the date of the occurrence of
+such Event of Default until all amounts payable under
+this Note are paid in full.
+
+4.	PREPAYMENT; INTEREST RATE ADJUSTMENT PREMIUM.
+a. Except as provided in this Paragraph 4 or as limited
+by Section 2.6(b) of the Loan Agreement, amounts
+outstanding under this Note may be prepaid in whole
+or in part at any time without penalty or premium.
+Debtor may prepay amounts outstanding under this
+Note bearing interest at a Fixed Rate, in whole or
+in part, provided Debtor has given Bank not less
+than five (5) Business Days' prior written notice of
+Debtor's intention to make such prepayment and
+Debtor pays to Bank the prepayment fee due as a
+result ("Interest Rate Adjustment Premium").  The
+Interest Rate Adjustment Premium shall also be due
+if Bank, for any other reason, including
+acceleration or foreclosure, receives all or any
+portion of principal bearing interest at a Fixed
+Rate prior to the Fixed Rate Maturity Date.  The
+Interest Rate Adjustment Premium shall be an amount
+equal to the present value of the product of:  (i)
+the difference (but not less than zero) between (a)
+the Fixed Rate applicable to the principal amount
+which is being prepaid, and (b) the return which
+Bank could obtain if it used the amount of such
+prepayment of principal to purchase at bid price
+regularly quoted securities issued by the United
+States having a maturity date most closely
+coinciding with the relevant Fixed Rate Maturity
+Date and such securities were held by Bank until the
+relevant Fixed Rate Maturity Date ("Yield Rate");
+(ii) a fraction, the numerator of which is the
+number of days in the period between the date of
+prepayment and the relevant Fixed Rate Maturity Date
+and the denominator of which is 360; and (iii) the
+amount of the principal so prepaid.  Present value
+under this Note is determined by discounting the
+above product to present value using the Yield Rate
+as the annual discount factor.
+b. In no event shall Bank be obligated to make any
+payment or refund to Debtor, nor shall Debtor be
+entitled to any setoff or other claim against Bank,
+should the return which Bank could obtain under the
+above prepayment formula exceed the interest that
+Bank would have received if no prepayment had
+occurred.  All prepayments shall include payment of
+accrued interest on the principal amount so prepaid
+and shall be applied to payment of interest before
+application to principal.  A determination by Bank
+as to the Interest Rate Adjustment Premium amount,
+if any, shall be conclusive.  In the event of
+partial prepayment, such prepayments shall be
+applied to principal payments in sequential order,
+beginning with the next maturing Fixed Rate
+Component and ending with the last Maturing Fixed
+Rate Component.
+
+c. Bank shall provide Debtor a statement of the amount
+payable on account of prepayment.  Debtor
+acknowledges that (i) Bank provides for a Fixed Rate
+upon the understanding that it apply to the Fixed
+Rate Component for the entire Interest Period, and
+(ii) Bank would not lend to Debtor without Debtor's
+express agreement to pay Bank the Interest Rate
+Adjustment Premium described above.
+
+d. The Interest Rate Adjustment Premium shall also be
+payable if prepayment occurs as the result of the
+acceleration of the principal of this Note by Bank
+because of any Event of Default.  If, following such
+acceleration, all or any portion of a Fixed Rate
+Component is satisfied, whether through sale of
+property encumbered by any security agreement or
+other agreement securing this Note, at a foreclosure
+sale held thereunder or through the tender of
+payment at any time following such acceleration, but
+prior to such a foreclosure sale, then such
+satisfaction shall be deemed an evasion of the
+prepayment conditions set forth above, and Bank
+shall, automatically and without notice or demand,
+be entitled to receive, concurrently with such
+satisfaction the Interest Rate Adjustment Premium
+set forth above, and the amount of such Interest
+Rate Adjustment Premium shall be added to the
+principal.  DEBTOR HEREBY ACKNOWLEDGES AND AGREES
+THAT BANK WOULD NOT MAKE THE LOAN TO DEBTOR
+EVIDENCED IN WHOLE OR IN PART BY THIS NOTE WITHOUT
+DEBTOR'S AGREEMENT, AS SET FORTH ABOVE, TO PAY BANK
+A INTEREST RATE ADJUSTMENT PREMIUM UPON THE
+SATISFACTION OF ALL OR ANY PORTION OF THE PRINCIPAL
+BEARING INTEREST AT A FIXED RATE FOLLOWING THE
+ACCELERATION OF THE MATURITY DATE HEREOF BY REASON
+OF AN EVENT OF DEFAULT.  DEBTOR HAS CAUSED THOSE
+PERSONS SIGNING THIS NOTE ON ITS BEHALF TO
+SEPARATELY INITIAL THE AGREEMENT CONTAINED IN THIS
+PARAGRAPH BY PLACING THEIR INITIALS BELOW:
+		INITIALS: ____________________
+
+5.  DEFAULT AND ACCELERATION OF TIME FOR PAYMENT.  For the
+purposes of this Note, the term "Event of Default" shall
+mean any of the following: (a) the failure of Debtor to make
+any payment required under this Note when due; or (b) the
+occurrence of any other "Event of Default" or "Default"
+as defined in the Loan Agreement or the other Loan
+Documents.  Upon the occurrence of an Event of Default, Bank
+shall be entitled to declare all obligations under this Note
+immediately due and payable, and to exercise all rights and
+remedies provided for in the Loan Agreement and the other
+Loan Documents, provided, however, that upon the occurrence
+of an Event of Default under Section 7.1(d) or Section
+7.1(e) of the Loan Agreement, all principal and interest
+shall automatically become immediately due and payable
+
+6.	ADDITIONAL AGREEMENTS OF DEBTOR.  If any amounts owing
+under this Note are not paid when due, Debtor promises to
+pay all costs and expenses, including attorneys' fees
+(including the allocated costs of Bank's in-house counsel
+and legal staff), incurred by Bank in the collection or
+enforcement of this Note.  Debtor and any endorsers of
+this Note, for the maximum period of time and the full
+extent permitted by law, (a) waive diligence,
+presentment, demand, notice of nonpayment, protest,
+notice of protest, and notice of every kind; (b) waive
+the right to assert the defense of any statute of
+limitations to any debt or obligation hereunder; and (c)
+consent to renewals and extensions of time for the
+payment of any amounts due under this Note.  If this Note
+is signed by more than one party, the term "Debtor"
+includes each of the undersigned and any successors in
+interest thereof; all of whose liability shall be joint
+and several.  Any married person who signs this Note
+agrees that recourse may be had against the separate
+property of that person for any obligations hereunder.
+The receipt of any check or other item of payment by
+Bank, at its option, shall not be considered a payment on
+account until such check or other item of payment is
+honored when presented for payment at the drawee bank.
+Bank may delay the credit of such payment based upon
+Bank's schedule of funds availability, and interest under
+this Note shall accrue until the funds are deemed
+collected.  In any action brought under or arising out of
+this Note, Debtor and any other Loan Party, including
+
+their successors and assigns, hereby consent to the
+jurisdiction of any competent court within the State of
+California, except as provided in any alternative dispute
+resolution agreement executed between Debtor and Bank,
+and consent to service of process by any means authorized
+by said state's law.  The term "Bank" includes, without
+limitation, any holder of this Note.  This Note shall be
+construed in accordance with and governed by the laws of
+the State of California.  This Note hereby incorporates
+any alternative dispute resolution agreement previously,
+concurrently or hereafter executed between Debtor and
+Bank.  The deeds of trust securing this Note permits the
+Bank to declare all obligations hereunder immediately due
+and payable upon breach of the following provision:
+"Trustor shall not, directly or indirectly, sell, convey,
+assign, further encumber, transfer, alienate or otherwise
+dispose of the real property encumbered by such deed of
+trust or any part thereof or any interest therein,
+whether voluntarily, involuntarily, by operation of law
+or otherwise, or lease all or any portion thereof or an
+undivided interest therein, or enter into an agreement to
+do so, without the prior written consent of Beneficiary,
+except as otherwise permitted by the Loan Agreement."
+
+6. LIMITATION OF DEBTOR'S LIABILITY. Bank's recovery against
+Debtor under the Loan Documents shall be limited solely
+to the Collateral (including all rents, issues, profits
+and income therefrom and proceeds thereof) and the
+Special Letters of Credit given to Bank as security for
+Debtor's performance under the Loan Documents, and such
+recovery shall not be a lien, or the basis of a claim of
+lien or levy of execution, against the general assets of
+Debtor.  Notwithstanding the foregoing, Debtor and the
+general assets of Debtor shall be fully and personally
+liable to Bank to the same extent that Debtor would be
+liable absent the foregoing limitation of this paragraph
+for the following:
+
+a. fraud, willful misrepresentation, gross negligence
+or waste, to the full extent of Bank's loss
+attributable thereto;
+
+b. failure to pay taxes, assessments or other charges
+attributable to Debtor which can create liens on any
+portion of the Collateral senior in priority to the
+lien of the Deed of Trust encumbering the affected
+Collateral, including mechanic's liens, stop notices
+or contractor's liens (to the full extent of any
+such taxes, assessments or other charges);
+
+c. any loss which would have been covered by any policy
+of insurance that Debtor is required to maintain,
+but failed to maintain, under the Loan Agreement or
+any of the other Loan Documents;
+
+d. tenant security deposits held by Debtor upon
+foreclosure of the subject Property;
+
+e. any inaccuracy in or breach of any representation or
+warranty pertaining to any Hazardous Substance or
+any failure in the due, prompt and complete
+observance and performance of any covenant or any
+other obligation imposed upon Debtor under or
+pursuant to the Environmental Compliance Agreement;
+
+f. retention of any rents or other income, insurance
+proceeds, condemnation or eminent domain awards or
+other similar funds or payments attributable to any
+Collateral which, under the terms of any Loan
+Document, should have been paid to Bank;
+
+g. the full amount of the Loan and all other
+obligations evidenced or secured by the Loan
+Documents, in the event of any transfer of all or
+any part of the Property without Bank's prior
+written approval; or
+
+h. all costs and expenses (including, without
+limitation, attorneys' fees) incurred by Bank in
+enforcing its rights and remedies under the Loan
+Documents subsequent to any of the following:  (i)
+an Event of Default under Section 7.1(e) of the Loan
+Agreement; (ii) an Event of Default under
+Section 7.1(d) of the Loan Agreement if the filing
+is made against Debtor by any third party which was
+solicited or induced to do so by Debtor; or (iii)
+after the occurrence of any Event of Default under
+either Section 7.1(d) or Section 7.1(e) of the Loan
+Agreement:  (A) any objection by Debtor to (1) any
+request by Bank for the dismissal of any proceeding
+referred to in Section 7.1(d) or Section 7.1(e) of
+the Loan Agreement; (2) any attempt by Bank to
+obtain relief from the automatic stay; or (3) any
+attempt by Bank to secure the continuation of any
+receiver appointed pre-petition or to obtain
+control, directly or through a receiver, of the
+rents, issues and profits of any Property; (B) any
+request by Debtor for authority to use cash
+collateral over Bank's objection; (C) any action
+brought by Debtor or on its behalf against Bank; (D)
+
+any request by Debtor to sell Collateral over Bank's
+objection; or (E) Debtor's taking of any position
+adverse to Bank with respect to any plan of
+reorganization proposed in any such proceedings.
+
+The foregoing shall not be deemed to limit:  (i) any
+right Bank might otherwise have to obtain injunctive
+relief against Debtor; (ii) any suit or action in
+connection with the preservation, enforcement or
+foreclosure of the liens, mortgages, assignments and
+security interests now or at any time hereafter securing
+the payment and performance of the Obligations; or (iii)
+the collection of amounts which may become owing or
+payable under or on account of insurance, condemnation
+awards or damages for other public actions or surety
+bonds maintained or provided by Debtor.  In addition,
+nothing herein shall be deemed to constitute a waiver of
+any obligation evidenced by the Loan Documents, nor
+limit, amend, alter or diminish any right which Bank may
+have under the provisions of Sections 506(a), 506(b),
+1111(b) or any other provision of the Bankruptcy Reform
+Act of 1978, or any successor statute thereto, or any
+similar provision under applicable state law, to file a
+claim for the full amount of the Obligations or to
+require that all Collateral shall continue to secure the
+Loan owing to Bank in accordance with the Loan Documents.
+
+7. DEFINITIONS.  As used herein, the following terms shall
+have the meanings respectively set forth below:
+a. "Business Day" shall mean a day which is not a
+Saturday or Sunday on which Bank is open for
+business in the state identified in Paragraph 6
+above, and on which dealings in U.S. dollar
+deposits outside of the United States may be
+carried on by Bank.
+
+b. "Fixed Rate Commencement Date" shall means the
+first day of the Interest Period with respect to
+principal outstanding under a Fixed Rate
+Component.
+
+c. "Fixed Rate Component" shall mean amounts
+outstanding under this Note that bear interest at
+a Fixed Rate.
+
+d. "Fixed Rate Maturity Date" shall mean the last day
+of the Interest Period with respect to principal
+outstanding under a Fixed Rate Component.
+
+e. "Interest Period" shall mean any calendar period
+of one, two, three, six or twelve months. In
+determining an Interest Period, a month means a
+period that starts on one Business Day in a month
+and ends on and includes the day preceding the
+numerically corresponding day in the next month.
+For any month in which there is no such
+numerically corresponding day, then as to that
+month, such day shall be deemed to be the last
+calendar day of such month.  Any Interest Period
+which would otherwise end on a non-Business Day
+shall end on the next succeeding Business Day
+unless that is the first day of a month, in which
+event such Interest Period shall end on the next
+preceding Business Day.
+
+f. "LIBOR Rate" shall mean a per annum rate of
+interest (rounded upward, if necessary, to the
+nearest 1/100 of 1%) at which dollar deposits, in
+immediately available funds and in lawful money of
+the United States would be offered to Bank,
+outside of the United States, for a term
+coinciding with the Interest Period selected by
+Debtor and for an amount equal to the amount of
+principal covered by Debtor's interest rate
+selection, plus Bank's costs, including the cost,
+if any, of reserve requirements.
+
+g. "Reference Rate" shall mean the rate announced by
+Bank from time to time at its corporate
+headquarters as its "Reference Rate."  The
+Reference Rate is an index rate determined by Bank
+from time to time as a means of pricing certain
+extensions of credit and is neither directly tied
+to any external rate of interest or index nor
+necessarily the lowest rate of interest charged by
+Bank at any given time.
+
+DEBTOR:  BEDFORD PROPERTY INVESTORS, INC.,
+         a Maryland corporation
+
+By:  /s/Hanh Kihara
+     ****************************
+Its:  Vice President and Chief
+      Financial Officer
+     ****************************
+
+
+
+
+
+iii
+
+Page 41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

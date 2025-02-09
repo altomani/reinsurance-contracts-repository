@@ -1,0 +1,152 @@
+<DOCUMENT>
+<TYPE>EX-10.33
+<SEQUENCE>11
+<FILENAME>b317102ex10-33.txt
+<DESCRIPTION>MATERIAL CONTRACTS
+<TEXT>
+<PAGE>
+
+
+REINSURER:              Select Reinsurance Ltd.
+
+REINSURED:              PXRE Reinsurance Ltd.
+
+TERM:                   Agreement commencing January 1, 2001
+                        covering Subject Business attaching from inception to
+                        December 31, 2001. It is agreed by the parties to this
+                        Agreement that this slip replaces any previously
+                        executed placing slip covering this exposure for PXRE
+                        Reinsurance Company.
+
+BUSINESS COVERED:       The Covered Contracts are:
+
+                        1.    the Quota Share Reinsurance of Tower Insurance
+                              Company of New York
+
+                        2.    the Quota Share Reinsurance of Legion Insurance
+                              Company
+
+
+                        The terms set out herein shall apply to both covered
+                        contracts individually. The execution of one contract is
+                        for the convenience of the parties, all terms shall
+                        apply if there were separate contracts for each of the
+                        contracts.
+
+LIMITS & RETENTIONS:    The Reinsurer shall indemnify the Reinsured for all
+                        ultimate net loss incurred by the Reinsured in excess
+                        of 0% of the Subject Premium Income on the Covered
+                        Contract subject to a maximum of 100% of the Subject
+                        Premium Income on the Covered Contract.
+
+CEDED PREMIUM &
+CEDING COMMISSION:      The Reinsurance Premium shall be equal to 100% of the
+                        Subject Premium Income on the Covered Contract, subject
+                        to a maximum of $13,956,000 for Covered Contract 1 and
+                        $4,544,000 for Covered Contract 2. There shall be a
+                        ceding commission of 30% of any Reinsurance Premium. The
+                        Reinsurer shall pay such Ceding Commission to the
+                        Company at the time of final settlement of the
+                        losses hereunder or commutation.
+
+COMMUTATION
+PROVISIONS:             This Agreement may be commuted at any time if both
+                        parties agree. If commuted or at the settlement of all
+                        losses, the Reinsurer shall pay to the Reinsured the
+                        balance of a notional experience account. The balance of
+                        the experience account at the end of each calendar
+                        quarter shall be:
+
+                        90% of Reinsurance Premium paid, Less Reinsurer's margin
+                        of 8.065% of Reinsurance Premium if commuted by December
+                        31, 2003, 8.355% if not commuted by December 31, 2003.
+                        Less paid Ultimate Net Loss Less paid Ceding Commission
+                        Plus an interest credited quarterly on the average daily
+                        balance at a rate of USD LIBOR less 100 bp.
+
+OTHER WORDING:          1. Ultimate Net Loss shall mean the amounts paid,
+                        payable or deducted from funds withheld by third parties
+                        on behalf of the Reinsured under the Covered Business.
+
+                        2. Right of offset to the fullest extent allowed by
+                        applicable law and regulation.
+
+                        3. Other conditions to be agreed.
+
+
+<PAGE>
+
+
+
+ACCEPTED HEREON:        100% by the Reinsurer
+
+                        /s/ Robert Myron
+                        -------------------------------------------
+                        Robert Myron
+                        Vice President
+                        Select Reinsurance Ltd.
+
+
+AND FOR PXRE Reinsurance Ltd.
+
+
+                        By:                              /s/ Gerald L. Radke
+                            --------------------------   -----------------------
+                            Jeffrey L. Radke             Gerald L. Radke
+                            President                    Chairman
+                            PXRE Reinsurance Ltd.        PXRE Reinsurance Ltd.
+
+
+<PAGE>
+
+
+The Reinsurer's and Reinsured's Right of Commutation
+
+This Agreement may be commuted at any calendar quarter end while coverage under
+this contract is in effect by:
+
+      a)    The Reinsured at its sole option should the balance of the
+            Experience Account be positive by providing 60 days written notice
+            to the Reinsurer; or
+
+      b)    The Reinsurer at its sole option by providing 60 days written notice
+            to the Reinsured; or
+
+      c)    By mutual agreement of the Reinsured and the Reinsurer with each
+            party agreeing to do so in writing with 60 days notice
+
+Such Commutation shall constitute a full and final settlement of all obligations
+and rights under this Agreement for both the Reinsured and the Reinsurer. The
+Commutation shall be effective on the date the Commutation payment is made to
+the Reinsured by the Reinsurer.
+
+The Commutation Payment shall be calculated as follows:
+
+      a.    the Reinsured and the Reinsurer shall jointly retain and compensate
+            an Actuary who shall determine the present value, calculated at the
+            rate of 7.25% per annum, of all incurred but unpaid (by the
+            Reinsurer to the Reinsured) Ceded Ultimate Net Losses as of the
+            Commutation Date, unless the Reinsured and the Reinsurer mutually
+            agree on this amount, and as such the services of the Actuary shall
+            not be required.
+
+      b.    There shall be a final calculation of the Experience Account as of
+            the Commutation Date utilizing 100% of the amount calculated in (a)
+            above if elected to be commuted by the Reinsured, and 110% of the
+            amount calculated in (a) above if elected to be commuted by the
+            Reinsurer. The amount of Ceded Ultimate Net Losses utilized for such
+            Final Calculation as calculated in (a) above, shall be payable to
+            the Reinsured to the Reinsurer, subject to the limit of this
+            Agreement.
+
+      c.    If the balance of the Experience Account is positive after this
+            Final Calculation, the Communtation Payment shall be equal to the
+            positive amount. If the balance of the Experience Account is
+            negative after this Final Calculation, no amount shall be payable by
+            the Reinsurer to the Reinsured.
+
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -50,14 +50,25 @@ def build_search_params(year):
     }
 
 def perform_search(api, search_params):
-    """Perform and return search results."""
-    response = api.get_filings(search_params)
-    if response:
-        print(f"Year {search_params['startDate'][:4]}: Total filings found: {response['total']['value']}")
-        return response
-    else:
-        print(f"Year {search_params['startDate'][:4]}: Error: Request failed")
-        return {}
+    """Perform search with pagination and return aggregated results."""
+    all_filings = []
+    page = 1
+    while True:
+        search_params.update({"page": page})
+        response = api.get_filings(search_params)
+        if response:
+            filings = response.get("filings", [])
+            all_filings.extend(filings)
+            print(f"Year {search_params['startDate'][:4]}, Page {page}: {len(filings)} filings retrieved.")
+            # if fewer than 100 items returned, assume last page
+            if len(filings) < 100:
+                break
+            page += 1
+        else:
+            print(f"Year {search_params['startDate'][:4]}, Page {page}: Error: Request failed.")
+            break
+    print(f"Total filings after pagination: {len(all_filings)}")
+    return {"filings": all_filings, "total": {"value": len(all_filings)}}
 
 def filter_exhibit_filings(search_results):
     """Filter results to include only filings with 'EX-10' in type."""
@@ -77,6 +88,10 @@ async def download_filing(session, filing, semaphore):
         path = urlparse(url).path
         ext = os.path.splitext(path)[1] or '.html'
         filename = os.path.join(download_dir, filing.get('accessionNo') + ext)
+        # Skip download if file already exists
+        if os.path.exists(filename):
+            print(f"Skipped download (already exists): {filename}")
+            return
         try:
             async with session.get(url) as resp:
                 if resp.status == 200:
@@ -134,7 +149,7 @@ def process_year(api, year):
 def main():
     api = load_config()
     all_metadata = []
-    for year in range(2001, 2025):
+    for year in range(2002, 2004):
         print(f"Processing year: {year}")
         df = process_year(api, year)
         all_metadata.append(df)

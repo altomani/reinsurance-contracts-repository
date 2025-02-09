@@ -1,0 +1,158 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>g85911exv10w2.txt
+<DESCRIPTION>AMENDMENT NO.4 TO THE AUTOMATIC FLEXIBLE PREMIUM
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+                            Amendment Number 4 to the
+
+     Automatic Flexible Premium Variable Life Reinsurance Agreement Number 3
+                         (Referred to as the Agreement)
+
+                                     Between
+
+                   WESTERN RESERVE LIFE ASSURANCE CO. OF OHIO
+
+                             St. Petersburg, Florida
+                         (referred to as the Reinsured)
+
+                                       and
+
+                           GLOBAL PREFERRED RE LIMITED
+
+                                Hamilton, Bermuda
+                         (referred to as the Reinsurer)
+
+                             Effective July 1, 2003
+
+I.       Article IX, REINSURANCE RESERVES, Sections 1 is hereby replaced as
+         follows:
+
+         1.       The Reinsurer will:
+
+                  (a)      Set up Statutory Reserves and Liabilities not less
+                           than the reduction taken by the Reinsured for the
+                           reinsured contracts; and if greater,
+
+                  (b)      Establish a liability ("Benefit Reserve"), for the
+                           benefit of the Reinsured, not less than the excess of
+                           the present value of expected future reinsured
+                           benefits, less the present value of future expected
+                           gross reinsurance premiums.
+
+II.      Schedule B4, Benefit Reserve Formula and Assumptions, is hereby
+         replaced as follows:
+
+SCHEDULE B4, BENEFIT RESERVE FORMULA AND ASSUMPTIONS
+
+BENEFIT RESERVE METHODOLOGY
+
+The reserve calculation method is the net premium method with the reserve
+calculated over a 20-year period, after which the business may be recaptured.
+The terminal reserves are calculated using monthly curtate assumptions; premiums
+are paid at the beginning of the month and death benefits are paid at the end of
+the month. The formula for the terminal reserve is:
+
+         tV(12) = PVt (expected future benefits) - k * PVt (expected future
+         gross reinsurance premiums),
+
+         where
+
+         k = PVt (expected future benefits)/PVt (expected future gross
+         reinsurance premiums) for t=0, and
+
+         tV(12) is the terminal reserve at duration t.
+
+
+<PAGE>
+
+The final reserve calculation represents an exact linear interpolation between
+two terminal reserves, giving the formula:
+
+         t-1+sV(12) = t-1V(12) * (1-s) + tV(12) * s,
+
+         where
+
+         s is the portion of one year expired between the last policy
+         anniversary and the valuation date.
+
+BENEFIT RESERVE ASSUMPTIONS
+
+>>       Interest rate: The maximum statutory interest rate allowed by law as
+         prescribed in the NAIC Standard Valuation Law and approved by the State
+         of Ohio Department of Insurance.
+
+>>       Gross Reinsurance Premiums: Financial Freedom Builder (FFB) guaranteed
+         cost of insurance charge paid on a monthly basis.
+
+>>       Mortality: Mortality is the 80 CSO mortality table based on Gender
+         (Male/Female) and Smoking status(Nonsmoker, Smoker).
+
+>>       Expected Benefits:
+
+         -        Policies with a level death benefit option (Option A): The
+                  expected benefits (net amount at risk) per unit of initial
+                  $1,000 of specified amount are:
+
+<TABLE>
+<CAPTION>
+            DURATION       NAR      DURATION       NAR      DURATION       NAR       DURATION      NAR
+            --------      -----     --------      -----     --------      -----      --------     -----
+            <S>           <C>       <C>           <C>       <C>           <C>        <C>          <C>
+                1         1,000         6          962         11          923          16         885
+                2          992          7          954         12          916          17         878
+                3          985          8          946         13          908          18         870
+                4          977          9          939         14          900          19         862
+                5          969         10          931         15          893          20         855
+</TABLE>
+
+         -        All other policies and riders: Expected benefits are level.
+
+>>       Lapse Rates: None.
+
+
+                                       2
+<PAGE>
+
+                                    * * * * *
+
+Except as expressed herein, all terms, covenants and provisions of the Automatic
+Flexible Premium Variable Life Reinsurance Agreement Number 3, as amended, not
+in conflict with the provisions of this amendment shall remain unaltered and in
+full force and effect.
+
+In witness of the above, the Reinsured and the Reinsurer, by their respective
+officers have executed this amendment in duplicate at the dates and places
+indicated and shall be effective as of July 1, 2003.
+
+WESTERN RESERVE LIFE                         GLOBAL PREFERRED RE LIMITED
+ASSURANCE CO. OF OHIO
+
+
+
+at  St. Petersburg, FL                   at  Duluth, GA
+   -------------------------------          -----------------------------------
+on: October 21, 2003                     on: October 15, 2003                 .
+   -------------------------------          -----------------------------------
+
+
+
+By: /s/  Larry Kirkland                  By: /s/ Bradley E. Barks
+   -------------------------------          -----------------------------------
+Title: VP & Managing Actuary             Title: CFO
+
+
+
+By:  /s/  Stefanie J. Harder             By: /s/  David W. McLeroy
+   -------------------------------          -----------------------------------
+Title: Staff Actuary                     Title: VP - Financial Projects
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>

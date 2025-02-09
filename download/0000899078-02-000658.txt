@@ -1,0 +1,1463 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>5
+<FILENAME>ext10-2.txt
+<TEXT>
+                                                                    Exhibit 10.2
+
+                    COMPREHENSIVE PREFERRED ESCROW AGREEMENT
+
+                          Account Number 0914362-00002
+
+This  Agreement  is effective  September  28, 2001 among DSI  Technology  Escrow
+Services,  Inc. ("DSI"),  INSpire Insurance  Solutions,  Inc.  ("Depositor") and
+Millers  American  Group,  Inc.,  acting on behalf of itself and its affiliates,
+("Preferred Beneficiary"), who collectively may be referred to in this Agreement
+as "the parties."
+
+A.     WHEREAS Depositor and Preferred Beneficiary have entered into a Master
+       Services Agreement dated December 30, 1999, inclusive of various Service
+       Addendums including but not limited to IT Service Addendums 1.1.5 and
+       1.1.6 (as subsequently amended from time to time);
+
+B.     WHEREAS Depositor desires to avoid disclosure of its proprietary
+       technology except under certain limited circumstances;
+
+C.     WHEREAS the availability of the proprietary technology of Depositor is
+       critical to Preferred Beneficiary in the conduct of its business and,
+       therefore, Preferred Beneficiary needs access to the proprietary
+       technology under certain limited circumstances;
+
+D.     WHEREAS Depositor and Preferred Beneficiary desire to establish an escrow
+       with DSI to provide for the retention, administration and controlled
+       access of the proprietary technology materials of Depositor;
+
+E.     The parties desire this Agreement to be supplementary to the Master
+       Services Agreement pursuant to 11 United States Code, Section 365 (n).
+
+ARTICLE I - DEPOSITS
+
+1.1    Obligation to Make Deposit. Upon the signing of this Agreement by the
+       parties, Depositor shall deliver to DSI the proprietary technology and
+       other materials necessary for the continued operation of Preferred
+       Beneficiaries business ("Deposit Materials") required to be deposited by
+       the Master Services Agreement or, if the Master Services Agreement does
+       not identify the materials to be deposited with DSI, then such materials
+       will be identified on an Exhibit A. If Exhibit A is applicable, it is to
+       be prepared and signed by Depositor. DSI shall have no obligation with
+       respect to the preparation, signing or delivery or Exhibit A.
+
+1.2    Identification of Tangible Media. Prior to the delivery of the Deposit
+       Materials to DSI, Depositor shall conspicuously label for identification
+       each document, magnetic tape, disk, or other tangible media upon which
+       the Deposit Materials are written or stored. Additionally, Depositor
+       shall complete Exhibit B to this Agreement by listing each such tangible
+       media by the item label description, the type of media and the quantity.
+       The Exhibit B must be signed by Depositor and delivered to DSI with the
+       Deposit Materials. Unless and until Depositor makes the initial deposit
+       with DSI, DSI shall have no obligation
+
+
+                                      1
+
+<PAGE>
+
+
+       with respect to this  Agreement,  except the  obligation to notify the
+       parties  regarding  the status of the  deposit  account as required in
+       Section 2.2 below.
+
+1.3    Deposit Inspection. When DSI receives the Deposit Materials and the
+       Exhibit B, DSI will conduct a deposit inspection by visually matching the
+       labeling of the tangible media containing the Deposit Materials to the
+       item descriptions and quantity listed on the Exhibit B. In addition the
+       deposit inspection, Preferred Beneficiary may elect to cause a
+       verification of the Deposit Materials in accordance with Section 1.6
+       below.
+
+1.4    Acceptance of Deposit. At completion of the deposit inspection, if DSI
+       determines that the labeling of the tangible media matches the item
+       descriptions and quantity on Exhibit B, DSI will date and sign the
+       Exhibit B and mail a copy thereof to Depositor and Preferred Beneficiary.
+       If DSI determines that the labeling does not match the item descriptions
+       or quantity on the Exhibit B, DSI will (a) note the discrepancies in
+       writing on the Exhibit B; (b) date and sign the Exhibit B with the
+       exceptions noted; and (c) mail a copy of the Exhibit B to Depositor and
+       Preferred Beneficiary. DSI's acceptance of the deposit occurs upon the
+       signing of the Exhibit B by DSI. Delivery of the signed Exhibit B to
+       Preferred Beneficiary is Preferred Beneficiary's notice that the Deposit
+       Materials have been received and accepted by DSI.
+
+1.5    Depositor's Representations.  Depositor represents as follows:
+
+        a.     Depositor lawfully possesses all of the Deposit Materials
+               deposited with DSI;
+
+        b.     With respect to all the Deposit Materials, Depositor has the
+               right and authority to grant to DSI and Preferred Beneficiary the
+               rights as provided in this Agreement;
+
+        c.     The Deposit Materials are not subject to any lien or other
+               encumbrance;
+
+        d.     The Deposit Materials consist of the proprietary technology and
+               other materials identified either in the Master Services
+               Agreement or Exhibit A, as the case may be; and
+
+        e.     The Deposit Materials are readable and useable in their current
+               form, or, if any portion of the Deposit Materials are encrypted,
+               the decryption tools and decryption keys have also been
+               deposited.
+
+1.6    Verification. DSI shall perform a Level I verification of the Deposit
+       Materials upon the initial deposit and for each update. A verification
+       determines, in different levels of detail, the accuracy, completeness,
+       sufficiency and quality of the Deposit Materials. A Level I verification
+       is defined as follows: DSI will cause a technically qualified DSI
+       employee to evaluate the Deposit Materials in order to identify (a) the
+       hardware and software configurations reasonably necessary to maintain the
+       Deposit Materials; (b) the hardware and software configurations
+       reasonably necessary to compile the Deposit Materials; and (c) the
+       compilation instructions. DSI will then prepare and deliver to Depositor
+       and Preferred Beneficiary, within 10 business days, a report describing
+       the information so identified. It shall be the responsibility of the
+       Depositor, and not DSI, to ensure that the Deposit
+
+
+                                       2
+
+<PAGE>
+
+
+       Materials contain the information so identified in DSI's report, as well
+       as any other information that may be required in the Master Services
+       Agreement.
+
+       Preferred Beneficiary shall have the right, at Preferred Beneficiary's
+       expense, to cause higher levels of verification of any Deposit Materials.
+       Preferred Beneficiary shall notify Depositor and DSI of Preferred
+       Beneficiary's request for verification. Depositor shall have the right to
+       be present at the verification. If a verification is elected after the
+       Deposit Materials have been delivered to DSI, then only DSI, or at DSI's
+       election an independent person or company selected and supervised by DSI,
+       may perform the verification.
+
+1.7    Deposit Updates. Notwithstanding anything to the contrary set forth in
+       the Master Services Agreement, Depositor at its own expense, shall update
+       the Deposit Materials once each quarter during the term of this
+       Agreement. In addition to the Depositor's required quarterly deposits,
+       Preferred Beneficiary, at its own expense, may request additional
+       deposits upon its good faith determination that a material modification
+       of the product has occurred. Such updates will be added to the existing
+       deposit. All deposit updates shall be listed on a new Exhibit B and the
+       new Exhibit B shall be signed by Depositor. Each Exhibit B will be held
+       and maintained separately within the escrow account. An independent
+       record will be created which will document the activity for each Exhibit
+       B. The processing of all deposit updates shall be in accordance with
+       Sections 1.2 and 1.6 above. All references in this Agreement to the
+       Deposit Materials shall include the initial Deposit Materials and any
+       updates.
+
+       DSI shall notify Depositor in writing semi-annually of Depositor's
+       obligation to make updated deposits. Within 30 days of receipt of each
+       such notice, Depositor shall certify in writing to DSI that it has made
+       the updated deposits as required in the immediately preceding paragraph.
+       After the 30 days, DSI shall notify Preferred Beneficiary that DSI has
+       received an updated deposit from Depositor or that no response has been
+       received from Depositor. Unlimited deposit updates and two storage units
+       are included in the fees for this Agreement.
+
+1.8    Removal of Deposit Materials. The Deposit Materials may be removed and/or
+       exchanged only on written instructions signed by Depositor and Preferred
+       Beneficiary, or as otherwise provided in this Agreement.
+
+ARTICLE 2 - CONFIDENTIALITY AND RECORD KEEPING
+
+2.1    Confidentiality. DSI shall maintain the Deposit Materials in a secure,
+       environmentally safe, locked facility that is accessible only to
+       authorized representatives of DSI. DSI shall have the obligation to
+       reasonably protect the confidentiality of the Deposit Materials. Except
+       as provided in this Agreement, DSI shall not disclose, transfer, make
+       available, or use the Deposit Materials. DSI shall not disclose the
+       content of this Agreement to any third party. If DSI receives a subpoena
+       or other order of a court or other judicial tribunal pertaining to the
+       disclosure or release of the Deposit Materials, DSI will immediately
+       notify the parties to this Agreement unless prohibited by law. It shall
+       be the responsibility of Depositor and/or Preferred Beneficiary to
+       challenge any such order; provided, however, that DSI does not waive its
+       rights to present its position with respect to any such order.
+
+                                       3
+
+<PAGE>
+
+       DSI will not be required to disobey any court or other judicial tribunal
+       order. (See Section 7.5 below for notices of requested orders.)
+
+2.2    Status Reports. DSI will issue to Depositor and Preferred Beneficiary a
+       report profiling the account history at least semi-annually. DSI may
+       provide copies of the account history pertaining to this Agreement upon
+       the request of any party to this Agreement.
+
+2.3    Audit Rights. During the term of this Agreement, Depositor and Preferred
+       Beneficiary shall have the right to inspect the written records of DSI
+       pertaining to this Agreement. Any inspection shall be held during normal
+       business hours and following reasonable prior notice.
+
+ARTICLE 3 - GRANT OF RIGHTS TO DSI
+
+3.1    Title to Media. Depositor hereby transfers to DSI the title to the media
+       upon which the proprietary technology and materials contained on the
+       media such as any copyright, trade secret, patent or other intellectual
+       property rights.
+
+3.2    Right to Make Copies. DSI shall have the right to make copies of the
+       Deposit Materials as reasonably necessary to perform this Agreement. DSI
+       shall copy all copyright, nondisclosure, and other proprietary notices
+       and titles contained on the Deposit Materials onto any copies made by
+       DSI. With all Deposit Materials submitted to DSI, Depositor shall provide
+       any and all instructions as may be necessary to duplicate the Deposit
+       Materials including but not limited to the hardware and/or software
+       needed.
+
+3.3    Right to Transfer Upon Release. Depositor hereby grants to DSI the right
+       to transfer the Deposit Materials to Preferred Beneficiary upon any
+       Release Event of the Deposit Materials for use by Preferred Beneficiary
+       in accordance with Section 4. Except upon such a Release Event or as
+       otherwise provided in this Agreement, DSI shall not transfer the Deposit
+       Materials.
+
+ARTICLE 4 - RELEASE OF DEPOSIT
+
+4.1    Release Event.  As used in this Agreement, "Release Event" shall mean one
+       or more of the following:
+
+        a.     Depositor's material breach of the Master Services Agreement or
+               any of the Service Addendums included as a part hereof;
+
+        b.     Depositor makes a general assignment for the benefit of creditors
+               (except where assets are pledged by Depositor to a bank as
+               collateral for a line of credit);
+
+        c.     Depositor voluntarily files a petition for bankruptcy;
+
+        d.     Depositor files a petition for reorganization of other similar
+               arrangement under bankruptcy laws;
+
+                                       4
+<PAGE>
+
+        e.     A petition in bankruptcy is filed against INSpire by a third
+               party and such petition is not dismissed within ninety days of
+               its filing date;
+
+        f.     A receiver or trustee or other custodian of its assets is
+               appointed for all or any part of the property and assets of
+               INSpire; or
+
+        g.     INSpire becomes insolvent.
+
+4.2    Filing For Release of Deposit by Preferred Beneficiary. Upon written
+       notice to DSI by Preferred Beneficiary of the occurrence of a Release
+       Event as defined in Section 4.1, DSI shall provide a copy of the notice
+       to Depositor by commercial express mail. From the date DSI mails the
+       notice requesting release of the Deposit Materials, Depositor shall have
+       ten business days to deliver to DSI contrary instructions. "Contrary
+       Instructions" shall mean the written representation by Depositor that a
+       Release Event has not occurred or has been cured to Preferred
+       Beneficiary's satisfaction. Upon receipt of Contrary Instructions, DSI
+       shall send a copy by commercial express overnight mail to Preferred
+       Beneficiary that there is a dispute to be resolved pursuant to the
+       dispute resolution section (Section 7.3) of this Agreement. Subject to
+       Section 5.2 hereof, DSI will continue to store the Deposit Materials
+       without release pending (a) joint instructions from Depositor and
+       Preferred Beneficiary; (b) resolution pursuant to the dispute resolution
+       provisions; (c) order of a court; or (d) if at any time DSI receives an
+       affidavit from Preferred Beneficiary, within fifteen business days after
+       DSI mails to Preferred Beneficiary a copy of the Contrary Instructions
+       received from Depositor, stating that Depositor failed to operate and
+       maintain the INSpire system (Application Software and/or Application
+       System as defined in the Master Services Agreement) and/or meet
+       applicable service standard levels set forth in the Master Services
+       Agreement ("Affidavit"). Upon receipt of such Affidavit, DSI shall be
+       authorized at any time to immediately release the Deposit Materials to
+       the Preferred Beneficiary. DSI shall have no obligation to determine
+       independently whether a Release Event occurred and shall have no right to
+       refuse to deliver the Deposit Materials on the grounds that a Release
+       Event has not occurred; however, DSI shall not be required to disobey a
+       court order. DSI shall be required only to verify that the Affidavit
+       purports to have been executed by the Preferred Beneficiary.
+
+       If DSI does not receive Contrary Instructions from the Depositor, DSI is
+       authorized to release the Deposit Materials to the Preferred Beneficiary
+       or, if more than one beneficiary is registered to the deposit, to release
+       a copy of the Deposit Materials to the Preferred Beneficiary. However,
+       DSI is entitled to receive any reasonable fees due DSI before making the
+       release. Any copying expense in excess of three hundred dollars ($300.00)
+       will be chargeable to Preferred Beneficiary.
+
+4.3    Right to Use Following Release. Following a release as provide in Section
+       4, Preferred Beneficiary shall have the non-exclusive right to use the
+       released material and technology solely for the purpose of continuing the
+       benefits afforded to the Preferred Beneficiary by the Master Services
+       Agreement or other contract(s) between Depositor and Preferred
+       Beneficiary. Additionally, Preferred Beneficiary shall be required to
+       maintain the confidentiality of the released material and technology, in
+       accordance with the terms and conditions of the Master Services
+       Agreement.
+
+                                       5
+<PAGE>
+
+ARTICLE 5 - TERM AND TERMINATION
+
+5.1    Term of Agreement. The initial term of this Agreement is for a period of
+       one year. Thereafter, this Agreement shall automatically renew from year
+       to year unless sooner terminated upon: (a) termination of the Master
+       Services Agreement in accordance with Article VII thereof (in which case,
+       this Agreement shall terminate upon such date of termination of the
+       Master Services Agreement) upon joint instructions to DSI; or (b)
+       Depositor and Preferred Beneficiary's joint written instruction to DSI
+       that the Agreement is terminated; or (c) termination of this Agreement by
+       DSI for nonpayment in accordance with Section 5.2. If the Deposit
+       Materials are subject to another escrow agreement with DSI, DSI reserves
+       the right, after the initial one year term, to adjust the anniversary
+       date of this Agreement to match the then prevailing anniversary date of
+       such other escrow arrangements.
+
+5.2    Termination for Nonpayment. In the event of the nonpayment of fees owed
+       to DSI, DSI shall provide written notice of delinquency to all parties to
+       this Agreement. Any party to this Agreement shall have the right to make
+       the payment to DSI to cure the default. If the past due payment is not
+       received in full by DSI within thirty days of the date of such notice,
+       then DSI shall have the right to terminate this Agreement at any time
+       thereafter by sending written notice of termination to all parties. DSI
+       shall have no obligation to take any action under this Agreement so long
+       as any payment due to DSI remains unpaid.
+
+5.3    Disposition of Deposit Materials Upon Termination. Upon termination of
+       this Agreement, DSI shall destroy, return, or otherwise deliver the
+       Deposit Materials in accordance with Depositor's instructions. If there
+       are no instructions, DSI may, at its sole discretion, destroy the Deposit
+       Materials or return them to Depositor. DSI shall have no obligation to
+       return or destroy the Deposit Materials if the Deposit Materials are
+       subject to another escrow agreement with DSI.
+
+5.4    Survival of Terms Following Termination.  Upon termination of this
+       Agreement, the following provisions of this Agreement shall survive:
+
+              Depositor's Representations (Section 1.5);
+              The obligations of confidentiality with respect to the
+                Deposit Materials;
+              The rights granted in the sections entitled Right to Transfer Upon
+                Release (Section 3.3) and Right to Use Following Release
+                (Section 4.3), if a release of the Deposit Materials has
+                occurred prior to termination;
+              The obligation of Preferred Beneficiary to pay DSI any reasonable
+                fees and expenses due and related to this Agreement;
+              The provisions of Article 7; and
+              Any provisions in this Agreement which specifically state they
+                survive the termination or expiration of this Agreement.
+
+ARTICLE 5 - DSI'S FEES
+
+6.1    Fee Schedule. DSI is entitled to be paid its standard fees and expenses,
+       if reasonable, applicable to the services provided. If DSI's standard
+       fees and expenses are determined to
+
+                                       6
+
+<PAGE>
+
+       be unreasonable, then DSI shall be entitled to be paid fees and expenses
+       mutually agreed upon by the parties. The parties agree that the Preferred
+       Beneficiary shall be solely responsible for any and all reasonable
+       DSI fees (not including any amount paid to DSI pursuant to Section 7.2
+       below) incurred with respect to this Agreement. DSI shall notify the
+       Preferred Beneficiary at least 60 days prior to an increase in fees.
+       For any service not listed on DSI's standard fee schedule, DSI will
+       provide a quote prior to rendering the service, if requested.
+
+6.2    Payment Terms. DSI shall not be required to perform any service unless
+       the payment for such service and any outstanding balances owed to DSI are
+       paid in full. Fees are due upon receipt of a signed contract or receipt
+       of the Deposit Materials whichever is earliest. If invoiced fees are not
+       paid, DSI may terminate this Agreement in accordance with Section 5.2.
+
+ARTICLE 7 - LIABILITY AND DISPUTES
+
+7.1    Right to Rely on Instructions. DSI may act in reliance on the
+       instructions of a party only if such instructions are from a Designated
+       Representative of a party. The Designated Representatives of Depositor
+       are the Senior Data Center Manager and the Chief Technical Officer. The
+       Designated Representatives of Preferred Beneficiary are the Chairman and
+       CEO, the Executive Vice President and/or the Vice President and General
+       Counsel. A party may change their Designated Representative or any of
+       them by delivering to DSI and the other party hereto a writing signed by
+       one the then Designated Representatives. No other agent or employee,
+       other that a Designated Representative, shall have the power to bind a
+       party hereto.
+
+7.2    Indemnification.  DSI shall be responsible to perform its obligations
+       under this Agreement and to act in a reasonable and prudent manner with
+       regard to this escrow arrangement.  Provided DSI has acted in the
+       manner stated in the preceding sentence, Depositor and Preferred
+       Beneficiary each agree to indemnify, defend and hold harmless DSI from
+       any and all claims, actions, damages, arbitration fees and expenses,
+       costs, attorney's fees and other liabilities ("Liabilities") incurred by
+       DSI relating in any way to this escrow arrangement unless such
+       Liabilities were caused solely by the negligence or willful misconduct of
+       DSI.
+
+7.3    Dispute Resolution. Any dispute relating solely to whether a Release
+       Event has occurred shall be resolved by Expedited Arbitration under the
+       Commercial Rules of the American Arbitration Association. Three
+       Arbitrators shall be selected. The Depositor and Preferred Beneficiary
+       shall each select one arbitrator and the two chosen arbitrators shall
+       select the third arbitrator, or failing agreement on the selection of the
+       third arbitrator, The American Arbitration Association shall select the
+       third arbitrator. However, if DSI is a party to the arbitration, DSI
+       shall select the third arbitrator. For purposes of this section 7.3,
+       "Expedited Arbitration" shall mean the parties agree to use commercially
+       reasonable efforts to conduct arbitration within fifteen (15) days of
+       selection of arbitrators pursuant to this section. Unless otherwise
+       agreed by Depositor and Preferred Beneficiary, arbitration will take
+       place Fort Worth, Texas, U.S.A. Any court having jurisdiction over the
+       matter may enter judgment on the award of the arbitrator(s). Service of a
+       petition to conform the
+
+                                       7
+
+<PAGE>
+
+       arbitration award may be made by First Class mail or by commercial
+       express mail, to the attorney for the party or, if unrepresented, to
+       the party at the last known business address.
+
+7.4    Controlling Law.  This Agreement is to be governed and construed in
+       accordance with the laws of the State of Texas, without regard to its
+       conflict of law provisions.
+
+7.5    Notice of Requested Order. If any party intends to obtain an order from
+       the arbitrator or any court of competent jurisdiction which may direct
+       DSI to take, or refrain from taking any action, that party shall:
+
+        a.     Give DSI at least two business days' prior notice of the hearing;
+
+        b.     Ensure that DSI not be required to deliver the original (as
+               opposed to a copy) of the Deposit Materials if DSI may need to
+               retain the original in its possession to fulfill any of its other
+               duties.
+
+ARTICLE 8 - GENERAL PROVISIONS
+
+8.1    Entire Agreement. This Agreement, which includes the Exhibits described
+       herein, embodies the entire understanding among the parties with respect
+       to its subject matter and supersedes all previous communications,
+       representations or understandings, either oral or written. DSI is not a
+       party to the Master Services Agreement between Depositor and Preferred
+       Beneficiary and has no knowledge of any of the terms or provisions of any
+       such Master Services Agreement. DSI's only obligations to Depositor or
+       Preferred Beneficiary are as set forth in this Agreement. No amendment or
+       modification of this Agreement shall be valid or binding unless signed by
+       all the parties hereto, except that Exhibit A need not be signed by DSI,
+       Exhibit B need not be signed by Preferred Beneficiary and Exhibit C need
+       not by signed.
+
+8.2    Notices. All notices, invoices, payments, deposits and other documents
+       and communications shall be given to the parties at the addresses
+       specified in the attached Exhibit C. It shall be the responsibility of
+       the parties to notify each other as provided in this Section in the event
+       of a change of address. The parties shall have the right to rely on the
+       last known address of the other parties. Unless otherwise provided in
+       this Agreement, all documents and communications may be delivered by
+       First Class mail.
+
+8.3    Severability. In the event any provision of this Agreement is found to be
+       invalid, voidable or unenforceable, the parties agree that unless it
+       materially affects the entire intent and purpose of this Agreement, such
+       invalidity, voidability or unenforceability shall affect neither the
+       validity of this Agreement nor the remaining provisions herein, and the
+       provisions in question shall be deemed to be replaced with a valid and
+       enforceable provision most closely reflecting the intent and purpose of
+       the original provision.
+
+8.4    Successors. This Agreement shall be binding upon and shall inure to the
+       benefit of the successors and assigns of the parties. However, DSI shall
+       have no obligation in performing this Agreement to recognize any
+       successor or assign of Depositor or Preferred Beneficiary unless DSI
+       receives clear, authoritative and conclusive written evidence of the
+       change of parties.
+
+                                       8
+<PAGE>
+
+8.3    Regulations. Depositor is responsible for and warrant compliance with all
+       applicable laws, rules, and regulations, including but not limited to
+       customs laws, import, export, and re-export laws and government
+       regulations of any country from or to which the Deposit Materials may be
+       delivered in accordance with the provisions of this Agreement.
+
+8.6    Counterparts. This Agreement may be executed in multiple counterparts,
+       each of which shall be deemed to be an original, and all such
+       counterparts shall constitute but one instrument.
+
+ARTICLE 9 - DEFINITIONS
+
+       The following terms have the indicated meaning whenever they are used in
+       this Agreement and/or the Exhibits made a part hereof.
+
+9.1    Computer Program shall mean a set of statements or instructions, to be
+       used directly or indirectly in a computer in order to bring about a
+       certain result. A computer program may comprise any or all of source code
+       and excutable code.
+
+9.2    Design documentation shall mean documentation describing the data flows,
+       data structures, and control logic of a computer program.
+
+9.3    Documentation shall mean textual and/or graphic material, perceivable
+       directly by humans and/or with the aid of a devise or machine, relating
+       to a computer program.
+
+9.4    Executable code shall mean a series of one or more instructions
+       executable after suitable processing by a computer or other programmable
+       machine, without compilation or assembly.
+
+9.5    Software shall include computer programs and associated documentation.
+
+9.6    Source code shall mean a series of instructions or statements in an
+       English like high-level computer language such as C++, VISUAL BASIC,
+       JAVA, C, FORTRAN, PASCAL OR LISP, or in a relatively low-level language
+       such as the assembly language for a particular processor. Source code is
+       normally readily readable by humans trained in the particular computer
+       language in question. It is normally transformed by an interpreter or
+       compiler into machine-readable executable code for actual use on a
+       computer.
+
+
+
+<TABLE>
+<CAPTION>
+       <S>                                                  <C>
+       INSpire Insurance Solutions, Inc.                    Millers American Group, Inc.
+       ---------------------------------                    ----------------------------
+       (Depositor)                                          (Preferred Beneficiary)
+
+       By:  /s/ Gordon L. Gaar                              By:  /s/ James G. Illegible
+           ----------------------------------------             ------------------------------------------
+
+       Name:  Gordon L. Gaar                                Name:  James G. Illegible
+             --------------------------------------               ----------------------------------------
+                         (Printed)                                          (Printed)
+
+       Title: CTO                                           Title: Chairman & CEO
+             --------------------------------------               ----------------------------------------
+
+       Date:  September 28, 2001                            Date:   September 28, 2001
+             --------------------------------------                ---------------------------------------
+
+                                       9
+<PAGE>
+
+       DSI Technology Escrow Services, Inc.
+
+       By:  /s/ Lisa H. Gillian
+           ----------------------------------------
+
+       Name:  Lisa H. Gillian
+             --------------------------------------
+                         (Printed)
+       Title:  Contract Administrator
+              -------------------------------------
+       Date:   November 7, 2001
+              -------------------------------------
+</TABLE>
+
+
+
+
+
+
+
+
+
+                                       10
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                       EXHIBIT A
+
+                            MATERIALS TO BE DEPOSITED
+
+Account Number:        0914362-00002
+                  ----------------------------------------------------------------------------------------
+Depositor  represents  to preferred  Beneficiary  that  Deposit  materials  delivered  to DSI shall  consist of the
+following:
+
+<S>                   <C>                                                            <C>
+--------------------- -------------------------------------------------------------- --------------------------------
+       MEDIA:                                 APPLICATION:                           CONTENTS:
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+CD - x of y:          EmPower                                                        README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      WPC - SPL                                                      README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      WPC - MGA                                                      README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      NEON                                                           README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      PSP                                                            README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      Visual Rate (VR)                                               README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      Policy & Claims Administration (PCA)                           README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      WINS (Reinsurance & Peril)                                     README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      Service Manager                                                README.TXT
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Documentation
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+DLT - x of y:         Empower                                                        Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      WPC - SPC                                                      Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      WPC - MGA                                                      Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      NEON                                                           Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      PSP                                                            Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      Visual Rate (VR)                                               Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+3590 - x of y:        WINS (Reinsurance & Peril)                                     Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                      Policy & Claims Administration (PCA)                           Source
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+                                                                                     Database Objects
+--------------------- -------------------------------------------------------------- --------------------------------
+--------------------- -------------------------------------------------------------- --------------------------------
+Paper                 Millers American Group - Escrow Document A                     This  document   describes  the
+                                                                                     content of the escrow  deposits
+                                                                                     and   lists   any   3rd   party
+                                                                                     software  and/or  hardware that
+                                                                                     may be  needed  to  acquire  by
+                                                                                     the beneficiary.
+</TABLE>
+                                                                      11
+<PAGE>
+
+
+
+
+
+<PAGE>
+
+
+                                                                       EXHIBIT A
+
+                            MATERIALS TO BE DEPOSITED
+
+Depositor:   INSpire Insurance Solutions
+
+By:
+         --------------------------------------------
+
+Name:
+         --------------------------------------------
+
+Title:
+         --------------------------------------------
+
+Date:
+         --------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       12
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                          EXHIBIT B
+
+
+                       DESCRIPTION OF DEPOSITED MATERIALS
+
+<S>                                   <C>
+------------------------------------- --------------------------------------------------------------------------------
+Depositor Company Name:               INSPIRE INSURANCE SOLUTIONS
+------------------------------------- --------------------------------------------------------------------------------
+------------------------------------- --------------------------------------------------------------------------------
+Account Number:                       0914362-00002
+------------------------------------- --------------------------------------------------------------------------------
+------------------------------------- ------------------------------------ ----------------------- -------------------
+Product Name:                         THE MILLERS AMERICAN GROUP           Version:                2001.QX
+------------------------------------- ------------------------------------ ----------------------- -------------------
+----------------------------------------------------------------------------------------------------------------------
+(Product Name will appear as the Exhibit B Name on Account History report)
+</TABLE>
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------------------
+<S>                       <C>                      <C>
+------------------------- ------------------------ -------------------------------------------------------------------
+        QUANTITY                MEDIA TYPE                      LABEL DESCRIPTION OF EACH SEPARATE ITEM
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+                          CD-ROM
+
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+                          DLT III - Cartridge
+
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+                          3590 Cartridges
+
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+                          Documentation
+
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+                          Other
+
+------------------------- ------------------------ -------------------------------------------------------------------
+</TABLE>
+
+PRODUCT DESCRIPTION:
+
+Environment:                                         PRODUCTION
+                  --------------------------------------------------------------
+
+DEPOSIT MATERIAL INFORMATION:
+
+Is the media or are any of the files encrypted? No If yes, please include any
+passwords and the decryption tools.
+
+Encryption tool name                                                    Version
+                     --------------------------------------------------
+Hardware required
+Software required
+Other required information
+                           ----------------------------------------------------
+
+<TABLE>
+<CAPTION>
+<S>                                                                               <C>    <C>    <C>    <C>    <C>    <C>
+I certify for DEPOSITOR that the above-described                                  DSI has inspected and accepted
+the above Deposit Materials have been transmitted to DSI:                         materials (any exceptions are noted above):
+
+
+Signature:                                                         Signature:
+            -----------------------------                                      ------------------------------
+Print Name:
+            -----------------------------                          Print Name:
+                                                                               ------------------------------
+Date:       -----------------------------                          Date:
+                                                                               ------------------------------
+                                                                   Exhibit B#:
+
+
+                                                                               ------------------------------
+</TABLE>
+Sales Representative:
+Debbie Cherniak                                      972.373.8844
+
+Send Materials to:
+DSI, 9265 Sky Park Ct., Suite 202, San Diego, CA  92123       (858) 499-1600
+
+                                       13
+<PAGE>
+                                                                       EXHIBIT C
+
+                               DESIGNATED CONTACT
+
+Account Number:            0914362-00002
+                  --------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+<S>                                                          <C>
+Notices, deposit material returns and
+Communications to Depositor                                  Invoices to Depositor should be
+Should be addressed to:                                      addressed to:
+
+Company Name:  INSpire Insurance Solutions                   Director-FTW Technical Services
+Address:       300 Burnett Street                            300 Burnett Street
+               Fort Worth, Texas  76102                      Fort Worth, Texas  76102
+
+
+Designated Contact:  Keith Bell                              Contact:  Alan Schmitz
+Telephone:  817.348.3234
+Facsimile:  817.348.3764                                     P.O.#, if required:  N/A
+E-mail:  Kbell@INSPR.com                                     E-mail:  Aschmitz@inspr.com
+
+
+Verification Contact:
+Keith Bell
+
+Notices and communications to                                Invoices to preferred Beneficiary
+Preferred Beneficiary should be addressed to:                should be addressed to:
+
+Company Name:  The Millers American Group                    N/A
+Address:       777 Main Street, Suite 1000
+               Fort Worth, Texas  76102
+
+Designated Contact:  Rob Wilson                              Contact:
+
+Telephone:  817.348.1808
+Facsimile:  817.348.1820
+E-mail:  Rob.Wilson@milgrp.com
+
+Requests from Depositor or Preferred Beneficiary to change the designated
+contact should be given in writing by the designated contact or an authorized
+employee of Depositor or Preferred Beneficiary.
+
+Contracts, Deposit Materials and notices to                  Invoice inquiries and fee remittances
+DSI should be addressed to:                                  to DSI should be addressed to:
+
+DSI Technology Escrow Services, Inc.                         DSI Technology Escrow Services, Inc.
+Contract Administration                                      P.O. Box 45156
+9265 Sky Park Court, Suite 202                               San Francisco, CA  94145-0156
+San Diego, CA  92123
+Telephone:  (858) 499-1600                                   (858) 499-1636
+Facsimile:  (858) 694-1919                                   (858) 499-1637
+E-mail:  ca@dsiescrow.com
+
+Date:
+</TABLE>
+
+                                       14
+<PAGE>
+
+
+
+                  MILLERS AMERICAN GROUP - PREFERRED AGREEMENT
+
+The Preferred Agreement caters to those customers who demand more sophisticated
+escrow arrangements. It is a three-party contract that involves constant
+administration by DSI and frequent correspondence between DSI, the depositor and
+the beneficiary. The depositor and beneficiary will receive signed confirmations
+from DSI that every deposit has been inspected; an account history report every
+six months to notify them of the status of the escrow; and ongoing monitoring
+services to ensure compliance of contract terms.
+
+PURPOSE
+DSI's Preferred Agreement is generally used when:
+o Both parties agree that a high level of escrow protection is needed.
+o Thebeneficiary wants to sign the agreement.
+o The beneficiary wants the option to request a release of deposit materials
+  directly from DSI.
+o The beneficiary wants to negotiate unique releaseconditions, such as loss
+  of support.
+
+FEATURES
+Preferred customers benefit from these unique features:
+o Tailored release conditions.
+o Modification of terms for unique requirements.
+o Written notification detailing the contents of the initial deposit and each
+  update.
+o Semi-annual account histories listing all deposit activity.
+o DSI direct billing to beneficiary.
+o Technical verification options.
+o Audit rights to both parties.
+o Audit trail of deposit created through inspection, and date stamping of all
+  deposit materials.
+o Deposit inspection with signed receipt for both the depositor and beneficiary.
+o Grant of use rights and deposit content definition.
+
+Customers who want DSI's premier escrow service should choose the Comprehensive
+Preferred Agreement that provides these additional features:
+
+o Basic verification of deposit materials. This includes documentation of the
+  hardware and software environments needed to read the computer media,
+  maintain the source code, and compile the source code.
+o Continual deposit maintenance in which DSI notifies the depositor semi-
+  annually to make updates. DSI then notifies the beneficiary of any
+  update activity.
+o Unlimited deposit updates and/or replacements, plus one additional storage
+  unit.
+
+
+                                       15
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                          EXHIBIT A
+                            MATERIALS TO BE DEPOSITED
+
+<S>                 <C>                                                             <C>
+Account Number:     0914362-00002
+                    -------------------------------------------------------------------------------------------------
+
+Depositor represents to Preferred Beneficiary that Deposit Materials delivered
+to DSI shall consist of the following:
+
+------------------- --------------------------------------------------------------- ----------------------------------
+      MEDIA:        APPLICATION:                                                    CONTENTS:
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+  3590 - X of Y:    EmPower                                                         README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Underwriter Expert System (UES)                                 README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Visual Rate (VR)                                                README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Policy & Claims Administration (4 - PCA)                        README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Ordering and Receiving System (OARS)                                Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    NEON                                                            README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    WINS                                                            README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source - not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Service Manager                                                 README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    E-INSpire                                                           Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    WPC (SPL & MGA)                                                 README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Management and Reporting System (MARS)                              Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                        Not applicable to client
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                    Policy Set Production                                           README.TXT
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Documentation
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Database Objects
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+                                                                                    Source
+------------------- --------------------------------------------------------------- ----------------------------------
+------------------- --------------------------------------------------------------- ----------------------------------
+      Paper         Millers - Escrow Document A                                     Document describes the contents
+                                                                                    of the escrow deposits and lists
+                                                                                    any 3rd party software and/or
+                                                                                    hardware needed to process the
+                                                                                    system(s) by the beneficiary.
+------------------- --------------------------------------------------------------- ----------------------------------
+</TABLE>
+
+                                       16
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                                                                                          EXHIBIT A
+                            MATERIALS TO BE DEPOSITED
+
+Account Number:            0914362-00002
+                  -------------------------------------------------------------------------------------------------
+
+Depositor represents to Preferred Beneficiary that Deposit Materials delivered
+to DSI shall consist of the following:
+
+
+<S>               <C>                                         <C>               <C>
+                                                              Preferred
+Depositor:        INSPIRE INSURANCE SOLUTIONS                 Beneficiary:      MILLERS AMERICAN GROUP
+                  -----------------------------------                           -----------------------------------
+
+
+By:               Gordon Gaar                                 By:               Cecil Wise
+                  -----------------------------------                           -----------------------------------
+
+Name:                                                         Name:
+                  -----------------------------------                           -----------------------------------
+
+Title:            Vice President & CTO                        Title:            Vice President, Litigation & General
+                  -----------------------------------
+                                                                                Counsel
+                                                                                -----------------------------------
+
+Date:                                                         Date:
+                  -----------------------------------                           -----------------------------------
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       17
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                              EXHIBIT B
+                                           DESCRIPTION OF DEPOSITED MATERIALS
+
+------------------------------------- --------------------------------------------------------------------------------
+<S>                                   <C>    <C>    <C>    <C>    <C>    <C>
+Depositor Company Name:               INSPIRE INSURANCE SOLUTIONS
+------------------------------------- --------------------------------------------------------------------------------
+------------------------------------- --------------------------------------------------------------------------------
+Account Number:                       0914362-00002
+------------------------------------- --------------------------------------------------------------------------------
+------------------------------------- ------------------------------------ ----------------------- -------------------
+Product Name:                         MILLERS - PRODUCTION SITE            Version:                2002.QX
+------------------------------------- ------------------------------------ ----------------------- -------------------
+----------------------------------------------------------------------------------------------------------------------
+(Product Name will appear as the Exhibit B Name on Account History report)
+----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+------------------------- ------------------------ -------------------------------------------------------------------
+        QUANTITY                MEDIA TYPE                      LABEL DESCRIPTION OF EACH SEPARATE ITEM
+------------------------- ------------------------ -------------------------------------------------------------------
+<S>                       <C>                      <C>
+------------------------- ------------------------ -------------------------------------------------------------------
+           1              3590 Cartridge           Millers American Group - Client Server Applications
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+           1              3590 Cartridge           Millers American Group - AS400 Applications
+------------------------- ------------------------ -------------------------------------------------------------------
+------------------------- ------------------------ -------------------------------------------------------------------
+           1              Paper Documentation      Millers American Group - Escrow Document A
+------------------------- ------------------------ -------------------------------------------------------------------
+</TABLE>
+
+PRODUCT DESCRIPTION:
+
+Environment:                        PRODUCTION
+                  --------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+DEPOSIT MATERIAL INFORMATION:
+
+<S>                                                                <C>            <C>               <C>
+------------------------------------------------------------------ -------------- ----------------- ------------------
+Is the media or are any of the files encrypted?                       NO/YES
+------------------------------------------------------------------ -------------- ----------------- ------------------
+------------------------------------------------------------------ -------------- ----------------- ------------------
+If Yes, please include any passwords and the decryption tools.
+------------------------------------------------------------------ -------------- ----------------- ------------------
+------------------------------------------------------------------ -------------- ----------------- ------------------
+Encryption tool name:                                                             Version:
+------------------------------------------------------------------ -------------- ----------------- ------------------
+------------------------------------------------------------------ -------------- ----------------- ------------------
+Hardware required:
+------------------------------------------------------------------ -------------- ----------------- ------------------
+------------------------------------------------------------------ -------------- ----------------- ------------------
+Software required:
+------------------------------------------------------------------ -------------- ----------------- ------------------
+------------------------------------------------------------------ -------------- ----------------- ------------------
+Other required information:
+------------------------------------------------------------------ -------------- ----------------- ------------------
+</TABLE>
+<TABLE>
+<CAPTION>
+<S>                           <C>                            <C>                      <C>
+I certify for DEPOSITOR that the above-described             DSI has inspected and accepted
+the above Deposit Materials have been transmitted to DSI:    materials (any
+exceptions are noted above):
+
+----------------------------- ------------------------------ ------------------------ --------------------------------
+Signature:                                                   Signature:
+
+----------------------------- ------------------------------ ------------------------ --------------------------------
+----------------------------- ------------------------------ ------------------------ --------------------------------
+Print name:                           Alan Schmitz           Print Name:
+
+----------------------------- ------------------------------ ------------------------ --------------------------------
+----------------------------- ------------------------------ ------------------------ --------------------------------
+Date:                                                        Date Accepted:
+
+                                                             ------------------------ --------------------------------
+----------------------------- ------------------------------ ------------------------ --------------------------------
+                                                             Exhibit B#:
+
+                                                             ------------------------ --------------------------------
+</TABLE>
+
+
+                                       18
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                                                               EXHIBIT C
+                                                   DESIGNATED CONTACT
+
+Account Number:                     0914362-00002
+                  -------------------------------------------------------------------------------------------------
+<S>                                                          <C>
+------------------------------------------------------------ ------------------------------------------------------------
+DEPOSITOR'S INFORMATION:                                     NOTICES, DEPOSIT MATERIAL RETURNS AND COMMUNICATIONS TO
+                                                             DEPOSITOR SHOULD BE ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                INSpire Insurance Solutions
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                     300 Burnett Street
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             Fort Worth, TX  76102
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Name(s):                           Alan Schmitz
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Phone #:                           817.348.3248
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Fax #:                             817.348.3764
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact E-Mail Address:                    Aschmitz@nspr.com
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             INVOICES TO DEPOSITOR SHOULD BE ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                                               N/A
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                                                    N/A
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Name:                                                             N/A
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Phone #:                                                          N/A
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  P.O. # (if required): N/A
+------------------------------------------------------------ ------------------------------------------------------------
+
+------------------------------------------------------------ ------------------------------------------------------------
+BENEFICIARY'S INFORMATION:                                   NOTICES AND COMMUNICATIONS TO PREFERRED BENEFICIARY SHOULD
+                                                             BE ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                Millers American Group
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Attn:                                                        Martha Bell
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                     777 N. Main Suite 1000
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             Ft. Worth, TX 76102
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Name(s):                           Martha Bell
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Phone #:                           817.348.1735
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Fax #:                             817.348.1730
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact E-Mail Address:                    Martha.Bell@MILGRP.com
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             INVOICES TO BENEFICIARY SHOULD BE ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                Millers American Group
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                     777 N. Main Suite 1000
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             Ft. Worth, TX 76102
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Name:                              Martha Bell
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Phone #:                           817.348.1735
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  P.O. # (if required):
+------------------------------------------------------------ ------------------------------------------------------------
+</TABLE>
+
+                                       19
+
+
+<PAGE>
+                                                                       EXHIBIT C
+                               DESIGNATED CONTACT
+
+Account Number:                     0914362-00002
+                  --------------------------------------------------------------
+
+Requests from Depositor or Preferred Beneficiary to change the designated
+contact should be given in writing by the designated contact or an authorized
+employee of Depositor or Preferred Beneficiary.
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------ ------------------------------------------------------------
+<S>                                                          <C>
+DSI'S INFORMATION:                                           CONTRACTS, DEPOSIT MATERIALS AND NOTICES SHOULD BE
+                                                             ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                DSI Technology Escrow Services, Inc.
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Attn:                                                        Contract Administration
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                     9265 Sky Park Court, Suite 202
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             San Diego, CA  92123
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Phone #:                                   858.499.1600
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Fax #:                                     858.694.1919
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact E-Mail Address:                    ca@dsiescrow.com
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             INVOICES INQUIRIES
+AND FEE REMITTANCES SHOULD BE ADDRESSED TO:
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Company Name:                                                DSI Technology Escrow Services, Inc.
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Attn:                                                        Account Receivables
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Address:                                                     PO Box 45156
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                                                             San Francisco, CA  94145-0156
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Phone #:                                   858.499.1636
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Contact Phone #:                           858.499.1937
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+Sales Representative:                                        Debbie Cherniak
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Representative's Phone #:                  972.373.8844
+------------------------------------------------------------ ------------------------------------------------------------
+------------------------------------------------------------ ------------------------------------------------------------
+                  Representative's E-Mail:                   Dcherniak@dsiescrow.com
+------------------------------------------------------------ ------------------------------------------------------------
+</TABLE>
+
+                                       20
+
+</TEXT>
+</DOCUMENT>

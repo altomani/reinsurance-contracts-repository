@@ -1,0 +1,1641 @@
+<DOCUMENT>
+<TYPE>EX-10.64
+<SEQUENCE>3
+<FILENAME>a88364exv10w64.txt
+<DESCRIPTION>EXHIBIT 10.64
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.64
+
+
+[Confidential treatment is being sought for certain portions of this exhibit, as
+indicated by a"[*]" symbol and footnoted as "omitted pursuant to Rule 24b-2."
+Such omitted portions have been filed with the Securities and Exchange
+Commission.]
+
+================================================================================
+
+
+               MASTER SERVICES AND INTELLECTUAL PROPERTY AGREEMENT
+
+                                     BETWEEN
+
+                  FIDELITY NATIONAL INFORMATION SOLUTIONS, INC.
+
+                                       AND
+
+                        FIDELITY NATIONAL FINANCIAL, INC.
+
+================================================================================
+
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+<TABLE>
+<S>                                                                          <C>
+1.0    DEFINITIONS  ..........................................................3
+
+2.0    DEVELOPMENT OF TECHNOLOGY AND SERVICES.................................6
+
+3.0    TRANSFER AND DELIVERY OF TECHNOLOGY....................................8
+
+4.0    TESTING AND ACCEPTANCE OF TECHNOLOGY...................................9
+
+5.0    LICENSE GRANTS AND RESTRICTIONS........................................9
+
+6.0    OWNERSHIP OF TECHNOLOGY...............................................10
+
+7.0    INFORMATION SECURITY AND CONTINUITY PLANNING SERVICES.................11
+
+8.0    FNF WEBSITES..........................................................12
+
+9.0    HARDWARE PROCUREMENT..................................................12
+
+10.0   PAYMENTS AND ACCOUNTING...............................................12
+
+11.0   TERM AND TERMINATION..................................................13
+
+12.0   CONFIDENTIAL INFORMATION..............................................14
+
+13.0   REPRESENTATIONS AND WARRANTIES........................................15
+
+14.0   INDEMNIFICATION.......................................................16
+
+15.0   DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY.....................17
+
+16.0   MISCELLANEOUS.........................................................18
+</TABLE>
+
+
+
+                                       ii
+
+<PAGE>
+
+               MASTER SERVICES AND INTELLECTUAL PROPERTY AGREEMENT
+
+        This MASTER SERVICES AND INTELLECTUAL PROPERTY AGREEMENT (the "MASTER
+AGREEMENT") is made effective January 1, 2003 (the "EFFECTIVE DATE") by and
+between Fidelity National Information Solutions, Inc., a Delaware corporation
+("FNIS"), with a principal place of business at 2510 Red Hill Avenue, Santa Ana,
+California 92705, U.S.A., and Fidelity National Financial, Inc., a Delaware
+corporation, on behalf and for the benefit of itself and its Affiliates other
+than FNIS ("FNF"), with a principal place of business at 4050 Calle Real, Santa
+Barbara, California 93110, U.S.A.
+
+                                    RECITALS
+
+        A. FNF is a real estate service company that provides title insurance
+and performs other title-related services such as real estate information and
+technology services;
+
+        B. FNIS is a comprehensive provider of business communications and
+information technology solutions including electronic data processing,
+facilities management, systems integration, systems development,
+telecommunications and related services;
+
+        C. FNF and MicroGeneral Corporation, a wholly-owned subsidiary of FNIS,
+previously entered into a System Development, Maintenance and Information
+Technology Services Master Agreement on or about May 23, 2001, as amended and
+restated on July 9, 2002;
+
+        D. The parties now desire to terminate such prior agreement and any
+other prior agreements between the parties regarding the subject matter hereof
+(the "PRIOR AGREEMENTS") and replace them with this Master Agreement; and
+
+        E. The parties desire to set forth the general terms and conditions
+under which FNIS will offer communications and information technology services
+to FNF and to memorialize the ownership of certain intellectual property;
+
+        NOW, THEREFORE in consideration of the mutual covenants and promises
+contained herein, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby mutually acknowledged, the parties to this
+Master Agreement (hereinafter collectively, "PARTIES" and individually, a
+"PARTY") agree as follows:
+
+                                    AGREEMENT
+
+1.0 DEFINITIONS
+
+        1.1 "Affiliate" means any entity, specifically excluding FNIS, which is
+controlled by or under common control with FNF, with "control" meaning ownership
+of more than fifty percent (50%) of the voting stock of the entity, or in the
+case of a non-corporate entity, an equivalent interest.
+
+        1.2 "Components" means any specific component(s) of the New
+Development(s) developed by FNIS hereunder which are not the New Development(s),
+whether competitive with the New Development(s) or not.
+
+        1.3 "Confidential Information" means information which is marked as
+confidential or proprietary, is identified as confidential or proprietary
+through oral communications at the time of the disclosure, or, based on the
+circumstances surrounding said disclosure, would be considered confidential or
+proprietary by a reasonable party to the disclosure. By way of example but not
+limitation, the FNF Data shall be the Confidential Information of FNF, and FNIS
+Data shall be the Confidential Information of FNIS. Each party's know-how,
+network design and equipment configurations and techniques relating to network
+and network management developed or utilized during the course of this Master
+Agreement is the Confidential Information of such party. The terms of this
+Master
+
+
+
+                                       3
+<PAGE>
+
+Agreement, including pricing and financial data, discussions, negotiations and
+proposals from one party to the other party related directly hereto and invoices
+and service records shall be Confidential Information of both parties.
+Confidential Information does not include any portion of the Confidential
+Information which: (i) is now, or hereafter becomes, through no act or failure
+to act on the part of the receiving party, generally known in the industry; (ii)
+was possessed by the receiving party without any obligation of confidentiality
+prior to receiving the Confidential Information; (iii) is rightfully obtained by
+the receiving party without restriction on disclosure; or (iv) is independently
+developed by the receiving party without any use of the Confidential
+Information.
+
+        1.4 "Data" means all data collected by the parties in accordance with
+this Master Agreement or the Prior Agreements, including, but not limited to the
+FNF Data and the FNIS Data.
+
+        1.5 "Deliverables" means the software, technology, systems, or other
+materials to be developed or delivered by or for FNIS in the course of providing
+the Services to FNF during the Term and more fully described in this Master
+Agreement, including those described in the applicable Statement(s) of Work.
+
+        1.6 "Documentation" means implementation notes, training materials,
+technical reference materials, operating manuals, users' manuals, programming
+manuals, modification manuals, flow charts, drawings and software listings
+designed to assist a user's or developer's understanding or application of
+software, technology, systems or processes.
+
+        1.7 "End User" means a sublicensee and user of the FNIS Sublicensable
+Technology who has sublicensed the FNIS Sublicensable Technology directly from
+FNF in accordance with this Master Agreement.
+
+        1.8 "FNF Data" means (a) all data or information regarding FNF's
+business, including information relating to customers, employees, technology,
+operations, facilities, consumer markets, products, capacities, systems,
+procedures, security practices, research, development, business affairs and
+finances; (b) all data or information regarding or relating to FNF's business
+created and compiled by FNF; and (c) the data created and/or generated by the
+product(s) set forth under the heading "FNF Data" in Schedule 2 attached hereto
+(the "Description of Data") or the applicable Statement of Work.
+
+        1.9 "FNF Hardware" means all hardware which is used by either of the
+parties to provide and/or run the Technology in accordance with this Master
+Agreement which is identified as "FNF Hardware" in Schedule 3 attached hereto
+(the "Description of Hardware") and/or in the Statement(s) of Work as "FNF
+Hardware," and/or is purchased, leased, or otherwise acquired by FNIS for or on
+behalf of FNF pursuant to performance of Services, including any and all related
+Documentation and third-party software procured by FNIS on behalf of FNF to
+install and/or run the FNF Hardware pursuant to Section 9.0 hereof (the
+"Hardware Procurement").
+
+        1.10 "FNF Service Location" means any site or facility owned, leased or
+controlled by FNF, and where Services shall be performed in connection with this
+Master Agreement and/or the Statement(s) of Work.
+
+        1.11 "FNF Technology" means (a) FNF Data, (b) FNF proprietary materials
+developed by or for FNF prior to the execution of this Master Agreement and
+described in Schedule 1 attached hereto (the "Description of Technology") as
+"FNF Technology"; and (c) New Development.
+
+        1.12 "FNF Website" means any website, sub-site or technology community
+within such website or sub-site created by or for FNF where such website,
+sub-site or technology community within such website or sub-site is/are either
+owned or controlled by FNF.
+
+        1.13 "FNIS Data" Unless otherwise agreed in a Statement of Work, FNIS
+Data means (a) all data or information regarding FNIS' business, including
+information relating to customers, employees, technology, operations,
+facilities, consumer markets, products, capacities, systems, procedures,
+security practices, research, development, business affairs and finances, but
+excluding FNF Technology and (b) all data or information regarding
+
+
+
+                                       4
+<PAGE>
+
+FNIS' business created and compiled by or for FNIS; and (c) the data created
+and/or generated by the product(s) set forth under the heading "FNIS Data" in
+the Description of Data or the applicable Statement of Work.
+
+        1.14 "FNIS Hardware" means all hardware which is used by either of the
+parties to provide and/or run the Technology in accordance with this Master
+Agreement which is not purchased by or on behalf of FNF , and/or which is
+identified as "FNIS Hardware" in Schedule 3 attached hereto (the "Description of
+Hardware" and/or in the Statement(s) of Work as "FNIS Hardware," including any
+and all related Documentation and third-party software procured to install
+and/or run the FNIS Hardware. FNIS Hardware is wholly owned and operated by FNIS
+in its sole discretion.
+
+        1.15 "FNIS Nonsublicensable Technology" means all the technology
+described in the Description of Technology and/or in Statement(s) of Work as
+"FNIS Nonsublicensable Technology," including any and all related Documentation,
+Upgrades, Updates and test suites thereto provided by FNIS to FNF under the
+Prior Agreements, this Master Agreement and/or the Statement(s) of Work. FNIS
+Nonsublicensable Technology may include FNIS proprietary technology or third
+party technology.
+
+        1.16 "FNIS Service Location" means any location owned, leased, or
+controlled by FNIS and from or at which FNIS provides Services in connection
+with this Master Agreement and/or the Statement(s) of Work, other than FNF
+Service Locations.
+
+        1.17 "FNIS Sublicensable Technology" means all the technology and FNIS
+Data described in the Description of Technology and/or in Statement(s) of Work
+as "FNIS Sublicensable Technology," including any and all related Documentation,
+Upgrades, Updates and test suites thereto provided by FNIS to FNF under the
+Prior Agreements, this Master Agreement and/or the Statement(s) of Work. FNIS
+Sublicensable Technology may include FNIS proprietary technology or third party
+technology.
+
+        1.18 "FNIS Technology" means the FNIS Nonsublicensable Technology and
+the FNIS Sublicensable Technology.
+
+        1.19 "Intellectual Property Rights" means worldwide common law and
+statutory rights associated with (a) patents and patent applications; (b) works
+of authorship, including copyrights, copyright applications, copyright
+registrations and "moral" rights; (c) the protection of trade and industrial
+secrets and confidential information; (d) other proprietary rights relating to
+intangible intellectual property; (e) analogous rights to those set forth above;
+and (f) divisions, continuations, renewals, re-issuances and extensions of the
+foregoing (as applicable) now existing or hereafter filed, issued or acquired.
+
+        1.20 "New Development" means all the technology described in the
+Description of Technology and/or developed pursuant to the Statement(s) of Work
+as "New Development," including any and all related Documentation, Upgrades,
+Updates, and test suites thereto provided by FNIS to FNF under the Prior
+Agreements, this Master Agreement and/or the Statement(s) of Work. New
+Development includes the Deliverables.
+
+        1.21 "Residuals" means any nonspecific software coding techniques
+developed by FNIS in the course of performing Services and maintained in the
+unaided human memory of the developer(s).
+
+        1.22 "Services" means all services described in Schedule 4 attached
+hereto (the "Description of Services") and/or in the Statement(s) of Work.
+
+        1.23 "Statement of Work" means separate written agreement(s) executed by
+the parties which generally follow the suggested form statement of work
+guidelines set forth as Schedule 7 attached hereto (the "Statement of Work
+Guidelines") describing (a) the Services to be provided to FNF by FNIS, such as
+technical specifications, development milestones, Service Level agreements and
+maintenance terms; (b) fees and/or costs to be paid to FNIS for such Services,
+and (c) any other terms mutually agreed upon by the parties.
+
+
+
+                                       5
+<PAGE>
+
+        1.24 "Technology" means, collectively, the FNIS Technology and the New
+Development.
+
+        1.25 "Third Party Software" means all software, technology,
+Documentation and related services owned or provided by a third party and
+validly licensed to and used by FNIS in connection with the Services, including
+without limitation in any Deliverable, other than FNIS Technology.
+
+        1.26 "Third Party Data" means all data or information created, compiled,
+or provided by a third party including information relating to customers,
+employees, technology, operations, facilities, consumer markets, products,
+capacities, systems, procedures, security practices, research, development,
+business affairs and finances and provided to either FNF or FNIS in connection
+with the Services including any Deliverable.
+
+        1.27 "Update" means a release of the FNIS Technology or New Development
+containing substantially only defect corrections, minor new features,
+functionalities and/or performance enhancements.
+
+        1.28 "Upgrade" means a release of the FNIS Technology or New Development
+containing major new features or functionalities.
+
+The following additional initially capitalized terms are defined in the
+referenced sections of this Master Agreement:
+
+<TABLE>
+<CAPTION>
+<S>                                                       <C>
+                  ---------------------------------------------------
+                      DEFINED TERM                      SECTION
+                  ---------------------------------------------------
+                      Effective Date                   Introductory
+                                                        Paragraph
+                  ---------------------------------------------------
+
+                      Emergency Services                  2.10
+                  ---------------------------------------------------
+                      Fees                                10.1
+                  ---------------------------------------------------
+                      FNF                              Introductory
+                                                        Paragraph
+                  ---------------------------------------------------
+                      FNF Offering                         5.6
+                  ---------------------------------------------------
+                      FNIS                             Introductory
+                                                         Paragraph
+                  ---------------------------------------------------
+                      FNIS Taxes                           10.2
+                  ---------------------------------------------------
+                      Input                                 5.6
+                  ---------------------------------------------------
+                      Procurement Services                  9.1
+                  ---------------------------------------------------
+                      Project Coordinator                  2.11
+                  ---------------------------------------------------
+                      Prior Agreements                  Recital D
+                  ---------------------------------------------------
+                      Service Levels                        2.6
+                  ---------------------------------------------------
+                      Term                                 11.1
+                  ---------------------------------------------------
+                      Transition Fees                      11.6
+                  ---------------------------------------------------
+                      Transition Period                    11.6
+                  ---------------------------------------------------
+</TABLE>
+
+2.0 DEVELOPMENT OF TECHNOLOGY AND SERVICES
+
+        2.1 Undertaking. FNIS will design and develop the Deliverable(s),
+provide the Services, and provide any additional technology and development,
+including, by way of example but not limitation, infrastructure technology and
+development, in conformance with the with this Master Agreement including the
+Description of Services and the Statement(s) of Work.
+
+        2.2 Obligations in Support. In order to help ensure the timely and
+satisfactory completion of FNIS' development work under a Statement of Work,
+FNIS will deploy throughout the development sufficient and
+
+
+
+                                       6
+<PAGE>
+
+qualified personnel, and other necessary resources to complete FNIS' development
+work, such personnel and resources as deemed or determined necessary by FNIS in
+its reasonable discretion. Unless otherwise agreed in a Statement of Work, the
+Services shall be provided at a FNF Service Location or a FNIS Service Location.
+
+        2.3 Status Reports. FNIS will provide to FNF status reports, if any,
+detailing the status of the development work described in the Statement(s) of
+Work in accordance with the reporting terms, if any, contained in those
+Statement(s) of Work.
+
+        2.4 Change Requests. Changes impacting full compliance with a Statement
+of Work or Fees (hereinafter defined) payable are only valid if implemented in
+accordance with the following change request procedure. FNF may request any
+change to Specifications or a Statement of Work by setting forth the proposed
+change in reasonable detail in a writing (including e-mail) submitted to FNIS
+("CHANGE REQUEST"). FNIS shall respond in writing to Change Requests within ten
+(10) business days of receipt, in each case, setting forth the expected effect
+of incorporating the requested change, including, as appropriate, the impact of
+a Statement of Work and any additional Fees which FNIS would require in order to
+make the requested change, and the amended timetable to make such changes
+("CHANGE RESPONSE"). Such additional Fees shall either be at a mutually agreed
+upon fixed amount or if the parties do not so agree, shall be quoted on a time
+and materials basis in accordance with the schedule of development Fees set
+forth in the Services fee schedule set forth as Schedule 6 attached hereto (the
+"SERVICES FEE SCHEDULE"). FNF shall respond within fifteen (15) business days of
+receipt of the Change Response informing FNIS whether it agrees with FNIS'
+description of the anticipated impact and additional terms, if any, proposed in
+the Change Response. If and when FNF agrees in writing or by email to the terms
+and conditions outlined in the Change Response as set forth in the previous
+sentence, or the parties mutually agree in writing to a revised Change Response,
+FNIS shall promptly begin to implement the agreed changes upon the agreed upon,
+amended timetable set forth in the Change Response.
+
+        2.5 Third Party Software and Third Party Data. Only upon mutually agreed
+to terms, FNIS shall acquire and secure for the benefit of FNF any and all Third
+Party Software that may be necessary or advisable to perform FNIS obligations
+hereunder, or as may be agreed in a Statement of Work. Unless otherwise agreed
+in a Statement of Work, all Third Party Software and Third Party Data shall be:
+(a) commercially available software with standard end user license agreements
+assignable to FNF; or (b) acquired from a mutually agreed upon vendor under
+terms and conditions approved in advance and in writing by mutual agreement of
+the parties. FNIS shall disclose to FNF any discounts, rebates, returns,
+upgrades, bug fixes, service packs or service agreements associated with such
+Third Party Software and Third Party Data. FNF and FNIS shall negotiate in good
+faith appropriate adjustment (if any) of FNIS fees to reflect the same. Third
+Party Software and Third Party Data costs will be included in Fees quoted in the
+Technology fee schedule set forth as Schedule 5 attached hereto (the "TECHNOLOGY
+FEE SCHEDULE"), Services Fee Schedule, or the Statement of Work.
+
+        2.6 Measurement and Monitoring Tools. If requested by FNF, and the
+parties reach mutually agreed to terms and conditions, including, but not
+limited to the financial remuneration from FNF to FNIS for the measuring and
+monitoring herein requested, FNIS shall measure and monitor its compliance with
+any performance levels, service levels and other standards identified in the
+Description of Services or a Statement of Work (collectively, the "SERVICE
+LEVELS"). Such measurement and monitoring shall permit reporting at a level of
+detail sufficient for FNF to verify compliance with the Service Levels. FNF
+shall have the right to require FNIS to outsource its responsibilities with
+respect to monitoring any Service Level established under any Statement of Work.
+FNF shall further have the right to audit FNIS compliance with the Service
+Levels hereunder at any FNF Service Location upon notice or at any FNIS Service
+Location upon reasonable prior notice on a quarterly basis, unless otherwise
+agreed in an individual Statement of Work.
+
+        2.7 FNIS Project Staff and Subcontracting. Unless otherwise agreed in a
+Statement of Work, FNIS shall have the right to either appoint FNIS project
+staff or to subcontract any portion of the Services, provided in the case of
+subcontractors, FNIS executes written agreements with each subcontractor that
+contain terms no less protective of FNF's Confidential Information as the
+provisions in Section 12.0 herein. FNIS is solely responsible
+
+
+
+                                       7
+<PAGE>
+
+for all payments of fees and expenses to such subcontractors and for the work
+and activities of each of its subcontractors, including compliance with the
+applicable terms and provisions of this Master Agreement.
+
+        2.8 Licenses and Permits. Each party shall cooperate with and provide
+reasonable assistance to the other party in obtaining any licenses, consents,
+approvals, permits and other authorizations as may be necessary or advisable for
+the performance of this Master Agreement and any Statement of Work.
+
+        2.9 Data Migration. FNIS shall not modify, compile, store or format FNF
+Data in a manner that is not compatible with readily portable, off-the-shelf
+database applications.
+
+        2.10 Emergency Services. From time to time it may be necessary for FNF
+to request FNIS to provide certain services on an emergency basis ("EMERGENCY
+SERVICES"). The parties acknowledge and agree that the exigencies of such
+situations may make the execution of a Statement of Work impracticable and that,
+in such situations, FNIS may take action, including commitment of time,
+resources and effort, to perform Emergency Services if and only if FNIS is
+qualified and able to provide such Emergency Services, and such Emergency
+Services are billed at the rate of $175 per hour in accordance with Section 10.1
+hereof. The parties shall honor commitments and actions that were reasonable
+under the circumstances, and shall endeavor to execute a Statement of Work as
+soon as practicable. To the extent the parties disagree about whether any
+particular services are Emergency Services, they will refer the disagreement to
+the resolution process identified in Section 16.5.
+
+        2.11 Project Coordinators. Each party shall appoint an individual (the
+"PROJECT COORDINATOR") who shall serve on a dedicated basis as the primary
+representative for such party for a given Service under this Master Agreement.
+The Project Coordinator shall (a) have overall responsibility for managing and
+coordinating the performance of such party's obligations under this Master
+Agreement and any Statement(s) of Work; (b) be authorized to act for and on
+behalf of such party with respect to all matters relating to this Master
+Agreement and the Statement(s) of Works; and (c) appoint the individuals who
+shall be primarily responsible for supervising performance under the Description
+of Services or Statement(s) of Work.
+
+        2.12 FNIS Staffing. At any time during the Term, FNF may communicate to
+FNIS any objections or concerns FNF may have with respect to personnel,
+subcontractors and/or Project Coordinators selected by FNIS to perform the
+Services. FNIS will use commercially reasonably efforts to address FNF's
+objections or concerns. FNIS may, upon request from FNF, replace or reassign
+such individuals or subcontractors; provided, however, that FNIS shall be
+entitled to charge FNF with any reasonable and mutually agreed fees, costs or
+expenses resulting from staffing changes requested by FNF and approved by FNIS.
+
+        2.13 Performance Review. The responsible FNF and FNIS managers for a
+given Service will meet when reasonably requested by either party to review the
+performance of either party under this Master Agreement. At the request of
+either party, written or taped minutes of such meetings may be kept.
+
+3.0 TRANSFER AND DELIVERY OF TECHNOLOGY
+
+        3.1 Deliverables. FNIS will deliver the relevant Deliverables on a
+schedule and in the form set forth in the applicable Statement of Work. In
+addition, FNIS will provide to FNF such Documentation as may be reasonably
+agreed to by the parties in writing in the applicable Statement(s) of Work. FNIS
+will provide software development services on a time and materials basis unless
+otherwise mutually agreed in writing by the parties.
+
+        3.2 Delays. Time is of the essence and FNIS' completion and delivery to
+FNF of Deliverables and Documentation thereto in accordance with the schedule
+set forth in the Statement(s) of Work are important to the success of FNF and
+FNIS. FNIS must provide FNF with written notice of any expected delay within a
+reasonable time of becoming aware of such expected delay. If FNIS becomes aware
+that the delivery of any Deliverable may be late, or if any Deliverable cannot
+be delivered to FNF, the parties shall meet promptly upon written request for
+such meeting by FNF or FNIS following notice of said delay to develop a plan to
+cure such late delivery.
+
+
+
+                                       8
+<PAGE>
+
+4.0 INTENTIONALLY DELETED
+
+5.0 LICENSE GRANTS AND RESTRICTIONS
+
+        5.1 FNIS' License Grant and Restrictions for the FNIS Nonsublicensable
+Technology. Unless otherwise agreed in a Statement of Work, FNIS hereby grants
+to FNF a limited, revocable, non-exclusive, nontransferable, nonsublicensable,
+worldwide, royalty-free license to use the FNIS Nonsublicensable Technology, the
+sole purpose of maintaining FNF's business operations during the Term hereof.
+
+        5.2 FNIS' License Grant and Restrictions for FNIS Sublicensable
+Technology. FNIS hereby grants to FNF a limited, revocable, non-exclusive,
+sublicensable, worldwide license to use the FNIS Sublicensable Technology, on
+financial terms mutually agreed to by the parties, for the purposes of (i)
+maintaining FNF's business operations during the Term hereof; and (ii) to
+sublicense to End Users during the Term hereof in accordance with the following
+terms and restrictions:
+
+                a. Copies. FNF may make unlimited copies of the FNIS
+Sublicensable Technology for the purpose of sublicensing to End Users in
+accordance with this Section 5.2; and
+
+                b. Sales. FNF may market, demonstrate, copy, perform services
+with, reproduce, sublicense, or otherwise sell or distribute through FNF's own
+sales and/or distribution channels to End Users the FNIS Sublicensable
+Technology or any part thereof in binary form, solely for use by that End User;
+and
+
+                c. Written Sublicense Agreements. FNF will enter into a written
+sublicense agreement with each End User which will include terms that are no
+less protective of FNIS and FNIS' Intellectual Property Rights than those in
+this Master Agreement, and each such written sublicense agreement will include
+terms that include standard warranty disclaimers and limitations that are
+substantially similar to those set forth on Schedule 8 attached hereto (the "END
+USER TERMS AND CONDITIONS"); and
+
+                d. License Fees. FNIS shall provide FNF FNIS Sublicensable
+Technology without fees, royalties or other charges; provided, however the
+parties may agree from time to time that FNIS will only provide certain FNIS
+Nonsublicensable Technology for use and/or FNIS Sublicensable Technology to FNF
+for sublicense if FNF pays mutually agreed license Fees. Such license Fees and
+any associated changes to the scope of the license grant will only apply if the
+parties mutually agree in writing signed by an authorized officer of each party,
+whether in the Technology Fee Schedule, a Statement of Work or otherwise.
+
+                e. Quarterly Reports; Audit Rights. FNF shall provide to FNIS
+quarterly, written reports of all FNIS Sublicensable Technology sublicensed to
+each End User and any financial payments due to FNIS in accordance with this
+Section 5.2 during the previous quarter. In any transaction in which Fees are to
+be paid for the FNIS Sublicensable Technology by FNF in accordance with
+financial terms mutually agreed to by the parties in writing, or the Technology
+Fee Schedule to FNIS, FNF shall keep complete, clear, and accurate records
+regarding the services performed, the parties' obligations, the revenues
+generated, the shipments made, the payments made, the calculation of Fees and
+costs payable in connection with the Technology Fee Schedule, and all other data
+relevant to the FNF's obligations thereunder. FNIS shall have the right, upon no
+less than ten (10) calendar days prior written notice, to have an inspection and
+audit of the FNF' relevant books and records conducted by an independent audit
+professional chosen and paid by the FNIS no more than twice annually, during
+regular business hours, at the FNF's offices and in a manner that does not
+interfere with regular business operations. If an audit discloses a discrepancy,
+FNF shall immediately pay to FNIS the amount of the discrepancy, and if the
+discrepancy is five (5%) percent or more below the amount actually due to or
+paid by FNF hereunder, then the FNF shall also bear the costs of the audit. This
+provision shall survive any termination or expiration of this Master Agreement
+for a period of two (2) years;
+
+                f. End User Sublicensing Data. FNF shall own all data regarding
+its sublicenses of any FNIS Sublicensable Technology, including its quarterly
+reports. FNIS may access and use such data for the purposes
+
+
+
+                                       9
+<PAGE>
+
+of providing the Services, such as end user customer support, but not any other
+purpose without the prior written consent of FNF; and
+
+                g. Additional Sublicensing Terms and Conditions. FNF's
+sublicense of any FNIS Sublicensable Technology shall be further restricted by
+any additional sublicensing provisions applicable in detail to any given
+application(s) and/or component(s) comprising the FNIS Sublicensable Technology
+as such additional terms and conditions are also set forth in the Technology Fee
+Schedule or any applicable Statement of Work between the parties.
+
+        5.3 Derivative Works. FNF may not create derivate works of the FNIS
+Technology, without FNIS' prior written consent to be given in FNIS sole
+discretion, and with FNF and FNIS to agree to any financial terms and payments
+to FNIS for allowing FNF to create such derivative works.
+
+        5.4 No Reverse Engineering. FNF shall not modify, reverse engineer,
+decompile or disassemble the FNIS Technology (other than that provided in source
+code to FNF hereunder) or any part thereof. FNIS shall not modify, reverse
+engineer, decompile or disassemble the FNF Technology (other than that provided
+in source code to FNIS hereunder, and any Component(s) licensed to FNIS pursuant
+to a Statement of Work with rights to modify source code) or any part thereof.
+
+        5.5 FNF's License Grant and Restrictions for the FNF Technology.
+
+                a. FNF's License Grant. FNF hereby grants to FNIS a limited,
+royalty-free, non-revocable, non-exclusive, transferable, worldwide license and
+sublicense to use the New Development and prepare derivative works thereof
+solely for the purposes of providing Services in accordance with the terms of
+this Master Agreement during the Term hereof.
+
+                b. Restrictions on FNF's License Grant. For the absence of
+doubt, FNIS has no right to use the FNF Technology for commercial purposes
+without separate written agreement of FNF, and may not sell, rent, loan or
+otherwise use or transfer the FNF Technology to any third party. However, FNIS
+may use any Residuals derived from developing the FNF Technology for any
+purposes whatsoever. FNF grants FNIS no rights in Components generally, but the
+parties may agree that FNF will license particular Components to FNIS in the
+applicable Statement of Work.
+
+        5.6 Input. FNIS has no obligation to give FNF any suggestions, comments,
+feedback or other input ("INPUT") on Deliverables, FNF Technology, or any other
+FNF products, services, technologies, and related specifications or other
+documentation ("FNF OFFERING"). Accordingly, if FNIS does give FNF Input on any
+FNF Technology, FNIS agrees FNF may freely use, reproduce, license, distribute,
+and otherwise commercialize such Input in any FNF Offering.
+
+6.0 OWNERSHIP OF TECHNOLOGY
+
+        6.1 FNIS Technology. FNIS asserts that FNIS and/or FNIS' suppliers own
+the FNIS Technology and associated Intellectual Property Rights. FNF agrees
+that, as between FNIS and FNF, FNIS is the owner of the FNIS Technology and the
+associated Intellectual Property Rights. Nothing herein shall be deemed a
+transfer or assignment to FNF of the FNIS Technology, any portion thereof, or
+any Intellectual Property Rights related thereto.
+
+        6.2 FNF Technology. The parties acknowledge and agree that FNF owns all
+right, title and interest in and to FNF Technology, unless otherwise explicitly
+agreed in a Statement of Work.
+
+                a. FNF Ownership. Unless otherwise explicitly agreed in a
+Statement of Work, to the extent any Deliverable hereunder includes material
+subject to copyright, FNIS agrees that the Deliverable (excluding any FNIS
+Technology included therein) is done as a "work made for hire" as that term is
+defined under U.S. copyright law, and that as a result, FNF shall own all
+copyrights in the Deliverable. To the extent that the
+
+
+
+                                       10
+<PAGE>
+
+Deliverable does not qualify as a work made for hire under applicable law, and
+to the extent that the Deliverable includes material subject to copyright,
+patent, trade secret, or other Intellectual Property Right protection, FNIS
+hereby assigns to FNF, its successors and assigns, all right, title and interest
+in and to the Deliverable (excluding any FNIS Technology included therein),
+including all copyrights, patents, trade secrets, and other proprietary rights
+therein (including renewals thereof). FNIS shall execute and deliver to FNF such
+additional instruments, and take such other actions, as FNF may reasonably
+request to confirm, evidence or carry out the grants of rights contemplated by
+this paragraph. FNIS' obligations under this paragraph will apply both during
+and indefinitely after the Term. FNIS hereby appoints FNF (and its duly
+authorized officers and agents) as FNIS' agent and attorney-in-fact, to act in
+FNIS' stead to execute and deliver any such additional instrument and take such
+other actions, with the same legal force and effect as if done by FNIS, should
+FNIS for any reason whatsoever fail to promptly execute or deliver any such
+instrument or take such other actions as described herein.
+
+                b. Other Rights. If FNIS has any rights to the FNF Technology
+that cannot be assigned as described above, FNIS unconditionally and irrevocably
+(i) waives the enforcement of such rights and all claims and causes of action of
+any kind against FNF with respect to such rights, and agrees, at FNF's expense,
+to consent to join in any action to enforce such rights, or (ii) in the case
+where such rights cannot be assigned or waived, grants to FNF, during the term
+of such rights, a royalty-free, exclusive, perpetual, irrevocable and worldwide
+license to fully exercise all such rights akin to ownership, with rights to
+sublicense through multiple levels of sublicensees.
+
+7.0 INFORMATION SECURITY AND CONTINUITY PLANNING SERVICES
+
+        7.1 FNF Security Procedures. FNF shall maintain and enforce at the FNF
+Service Locations reasonable physical safety and security procedures and
+communicate them to FNIS. FNF shall be responsible for any failures of FNF to
+comply with reasonable FNF physical safety and security procedures then in
+effect at the applicable FNF Service Locations or reasonable physical safety and
+security procedures then in effect at the applicable FNIS Service Locations, to
+the extent that such non-compliance causes damages to FNIS.
+
+        7.2 FNIS Security Procedures. FNIS shall maintain and enforce at the
+FNIS Service Locations reasonable physical safety and security procedures and
+communicate them to FNF. FNIS shall be responsible for any failures of FNIS or
+its subcontractors to comply with reasonable FNIS physical safety and security
+procedures then in effect at the applicable FNIS Service Locations or reasonable
+physical safety and security procedures then in effect at the applicable FNF
+Service Locations, to the extent that such non-compliance causes damages to FNF.
+
+        7.3 FNIS Compliance. FNIS shall comply at the FNF Service Locations with
+FNF's physical safety and security procedures. FNIS shall be responsible for any
+failures of FNIS or subcontractors to comply with FNF's physical safety and
+security procedures then in effect at the applicable FNF Service Locations, to
+the extent that such non-compliance causes damages to FNF.
+
+        7.4 FNF Compliance. FNF shall comply at FNIS Service Locations with
+FNIS' physical safety and security procedures. FNF shall be responsible for any
+failures of FNF to comply with FNIS' physical safety and security procedures
+then in effect at the applicable FNIS Service Locations, to the extent that such
+non-compliance causes damages to FNIS.
+
+        7.5 Data Security. Except to the extent otherwise agreed by the parties
+in Statement(s) of Work, both parties shall establish and maintain good and
+sound safeguards against the destruction, loss or alteration of the FNF Data or
+FNIS Data in the possession of FNF or FNIS. In the event that either party or,
+with respect to FNIS, its subcontractors, discover or are notified of a breach
+or potential breach of security relating to the FNF Data or FNIS Data, the
+discovering party shall immediately (i) notify the other party of such breach or
+such potential breach, and (ii) if the applicable FNF Data or FNIS Data was in
+the possession of the discovering party or the discovering party's agents,
+representatives and subcontractors, at the time of such breach or such potential
+breach, the discovering party shall (a) investigate such breach or such
+potential breach, and (b) inform the other party of the results of such
+investigation.
+
+
+
+                                       11
+<PAGE>
+
+        7.6 Security Relating to Shared FNIS Environments. If FNIS provides the
+Services to FNF from an FNIS Service Location that also provides services to or
+processes data for any other FNIS customer, FNIS shall, in addition to its
+obligations under Section 7.5, at FNF's request, demonstrate to FNF's reasonable
+satisfaction that FNF's Confidential Information and FNF Data will not be
+disclosed to any such other FNIS customer.
+
+        7.7 Data Sublicensing. The parties will identify FNIS Data as either
+FNIS Nonsublicensable Technology or FNIS Sublicensable Technology in the
+Description of Technology or applicable Statements of Work.
+
+        7.8 Compliance with Laws. The parties hereby acknowledge that disclosure
+of some such data may be governed by various state and federal laws and
+regulations, and each party hereby agrees to comply with all such laws and
+regulations.
+
+        7.9 Data Letter Agreements. Notwithstanding the foregoing, either party
+may use the other party's data as provided for in a letter agreement executed by
+the parties substantially in the form of the data letter agreement template set
+forth as Schedule 9 to govern the management and sharing of any particular Data
+or subset thereof by the parties and with third parties (each, a "DATA LETTER
+AGREEMENT").
+
+8.0 FNF WEBSITES
+
+        FNF Websites developed as part of the Services shall be New Development
+hereunder, and as such, wholly owned by FNF. FNIS may host such FNF Websites or
+provide, or have provided, services related to the FNF Websites under a
+Statement of Work (collectively, "Web Services").. FNF and FNIS hereby
+acknowledge and agree that any and all liability resulting from third-party use
+of the FNF Websites, exclusive of any liability resulting from Web Services, is
+the responsibility of FNF. FNF will indemnify FNIS from any such third-party
+claims pursuant to Section 14.0 hereof. That means FNF is responsible for
+ensuring that each FNF Website conforms with appropriate laws and regulation
+regarding the Internet, and that each such FNF Website has the appropriate Terms
+of Service, Terms of Use, and/or Privacy Policy posted thereon, unless such
+obligations have been assumed by FNIS under a Statement of Work.
+
+9.0 HARDWARE PROCUREMENT
+
+        9.1 Procurement. Upon FNF's written request and at FNIS' reasonable and
+good faith discretion, FNIS may obtain on behalf of FNF any FNF Hardware in
+exchange for relevant fees set forth in the Services Fee Schedule (the
+"PROCUREMENT SERVICES").
+
+        9.2 Procurement Services. FNIS shall (i) identify suppliers with
+favorable terms for any FNF Hardware or Procurement Services, and (ii) acquire
+the FNF Hardware or Procurement Services on FNF's behalf or lease, or coordinate
+the leasing of such FNF Hardware to FNF.
+
+        9.3 Designation of Hardware. Schedule 3 (the "DESCRIPTION OF HARDWARE")
+identifies the FNF Hardware owned by FNF as of the Effective Date, and the FNIS
+Hardware owned by FNIS as of the Effective Date.
+
+10.0 PAYMENTS AND ACCOUNTING
+
+        10.1 Fees; Invoices; and Payment. FNF shall pay to FNIS the Technology
+Fees set forth in the Technology Fee Schedule, the Services Fees set forth in
+the Services Fee Schedule, the fees set forth in any applicable Statement of
+Work, and/or the cost of the FNF Hardware (individually and collectively, the
+"FEES"). FNF will pay Fees for Emergency Services at the rate of $175 per hour.
+FNIS shall invoice FNF for the Fees in the manner and on the schedule set forth
+in the applicable schedule, Statement of Work, or otherwise mutually agreed by
+the parties in writing. FNIS shall provide invoices that include sufficient
+detail to enable FNF to validate fees and/or costs charged. Upon FNF's request,
+FNIS shall provide customized invoices to satisfy individual billing
+
+
+
+                                       12
+<PAGE>
+
+requirements of FNF, determined by FNF in its sole discretion. FNF reserves the
+right to return invoices with insufficient detail to FNIS and such invoices
+shall be deemed to be in dispute. Unless otherwise agreed in a Statement of
+Work, FNF shall pay undisputed sums due FNIS within thirty (30) days of
+receiving an invoice. FNIS shall invoice FNF in the manner and on the schedule
+set forth in the applicable Statement of Work, or as otherwise mutually agreed
+by the parties in writing.
+
+        10.2 Taxes. FNF shall pay, or reimburse FNIS for payment of, any taxes
+(other than FNIS Taxes) or amounts paid in lieu of taxes (other than payments in
+lieu of FNIS Taxes), including privilege or excise taxes based on the gross
+revenue of FNIS, however designated or levied, based upon this Master Agreement,
+the charges of FNIS for the Services or materials provided under this Master
+Agreement. FNIS is responsible for, and will hold FNF harmless from and against
+the payment of franchise taxes, state and local real and personal property
+taxes, employment taxes for its employees and taxes based on the net income of
+FNIS ("FNIS TAXES").
+
+        10.3 Late Fees. FNF will pay late fees (except for invoices disputed in
+good faith) at a rate of one-quarter percent (0.25%) per month from the date of
+the invoice on those Fees not paid by the sixtieth (60th) day following the day
+the related invoice was issued.
+
+        10.4 Pro Rata Payment. If FNF terminates any Statement of Work or
+Service prior to the end of a pay period for any reason other than FNIS' breach
+of its obligations, FNF shall pay to FNIS the pro rata Fees due for that
+cancelled Statement of Work or those cancelled Services for the fractional term
+such Service were provided during a given pay period.
+
+        10.5 Audits. FNIS shall keep complete, clear, and accurate records
+regarding its obligations and the calculation of Fees and costs payable
+hereunder. FNF shall have the right, upon no less than ten (10) calendar days
+prior written notice, to have an inspection and audit of FNIS' relevant books
+and records conducted by an independent audit professional chosen and paid by
+FNF no more than twice annually, during regular business hours, at FNIS' offices
+and in a manner that does not interfere with regular business operations. If an
+audit discloses a discrepancy in payments or charges, FNIS shall immediately pay
+to FNF the amount of the discrepancy, and if the discrepancy varies five (5%)
+percent or more from the amount actually due to or paid by FNF hereunder, then
+the FNIS shall also bear the costs of the audit. This provision shall survive
+any termination or expiration of this Master Agreement for a period of two (2)
+years. Further, pursuant to Statement of Auditing Standards ("SAS") No. 70, to
+the extent FNIS is providing systems support for external customer activities of
+FNF, FNF shall have the right to have an independent certified public accountant
+firm conduct an audit of such systems support at any time during the Term or
+within three years thereafter.
+
+11.0 TERM AND TERMINATION
+
+        11.1 Term of Master Agreement. The term of this Master Agreement begins
+on the Effective Date and ends one (1) year thereafter, unless earlier
+terminated herewith (the "TERM").
+
+        11.2 Services Term. If a term is not specified in a Statement of Work or
+with respect to a particular Service under the Description of Services, such
+Statement of Work or the particular Service under the Description of Services
+shall expire upon completion of the Services described therein. Notwithstanding
+the foregoing, FNF may terminate any Statement of Work with or without cause
+upon ninety (90) days written notice to FNIS. For the avoidance of doubt, the
+Master Agreement shall survive the expiration or termination of each Statement
+of Work.
+
+        11.3 Partial Termination for Cause. If either party fails to comply with
+any material term of a Statement of Work , the other party may terminate such
+Statement of Work following sixty (60) days written notice to the breaching
+party specifying any such breach unless, within the period of such notice, all
+breaches specified therein are remedied. If the breach is one which, by its
+nature, cannot be fully remedied in sixty (60) days, the parties shall cooperate
+to prepare a mutually acceptable plan within such sixty (60) day period to cure
+the breach and then pursuant to which, the breaching party shall undertake
+reasonable, diligent and good faith efforts to promptly remedy the breach. If
+the parties are unable to agree upon a plan to remedy the breach within such
+sixty (60) day
+
+
+
+                                       13
+<PAGE>
+
+period, the non-breaching party may terminate the corresponding Statement of
+Work. If, after the parties have agreed upon a remedial plan, the breaching
+party fails to comply with such plan, the non-breaching party may thereafter
+terminate such Statement of Work effective on written notice. Termination of any
+such Statement of Work shall not affect any obligations of either party as to
+the remaining Statements of Work under this Master Agreement which have not been
+so terminated and such obligations shall remain in full force and effect.
+
+        11.4 Full Termination for Cause. If either party fails to comply with
+any material term of this Master Agreement, the other party may terminate this
+Master Agreement following sixty (60) days' written notice to the breaching
+party specifying any such breach unless, within the period of such notice, all
+breaches specified therein are remedied. A party breaching any term with respect
+to the other party's intellectual property or Confidential Information will use
+best efforts to remedy the situation immediately, and the nonbreaching party may
+proceed to see preliminary injunctive relief as appropriate and available, not
+withstanding Section 16.5. If the breach is one which, by its nature, cannot be
+fully remedied in sixty (60) days, the parties shall cooperate to prepare a
+mutually acceptable plan within such sixty (60) day period to cure the breach
+and then pursuant to which, the breaching party shall undertake reasonable,
+diligent and good faith efforts to promptly remedy the breach. If the parties
+are unable to agree upon a plan to remedy the breach within such sixty (60) day
+period, the non-breaching party may terminate this Master Agreement. If, after
+the parties have agreed upon a remedial plan, the breaching party fails to
+comply with such plan, the non-breaching party may thereafter terminate this
+Master Agreement effective on written notice.
+
+        11.5 Effect of Termination or Expiration. Within thirty (30) days after
+expiration or termination of a Statement of Work, a particular Service under the
+Description of Services, or this Master Agreement: (a) each party will return
+(or, at the request of the owner of such Confidential Information, destroy or
+permanently delete) any Confidential Information in such party's possession or
+control; (b) FNIS will assign, transfer or sublicense Third Party Software and
+Third Party Data to FNF or take any other action reasonably requested by FNF to
+secure FNF's rights in and to such Third Party Software and Third Party Data,
+and (iii) FNIS will deliver any and all FNF Hardware to FNF and assign or
+transfer any lease or rental agreements related to the same. In the event FNF
+requests that FNIS provide transition assistance in connection with such
+transfers or assignments, FNF shall pay FNIS the Transition Fees as described in
+Section 11.6, below.
+
+        11.6 Transition Assistance Upon Termination. Upon termination of this
+Master Agreement, a particular Service pursuant to Section 11.2 hereof, or any
+Statement of Work for any reason, including breach by FNF, FNIS shall, if
+requested by FNF, provide FNF with reasonable training and other assistance to
+minimize disruption in the transition of the Services to FNF or a third party
+selected by FNF. FNIS' obligation to provide transition assistance shall
+continue for up to six (6) months after termination or expiration of the
+applicable agreement (the "TRANSITION PERIOD"). If FNF has requested such
+transition assistance, FNF shall pay FNIS for such assistance on time and
+materials basis at mutually agreed upon rates (the "TRANSITION FEES"). If
+termination is caused by FNF's breach, at FNIS' request, FNF shall pay to FNIS
+prior to the commencement of such transition services the reasonable estimated
+costs of FNIS services.
+
+12.0 CONFIDENTIAL INFORMATION
+
+        12.1 Obligation. Except as provided in this Master Agreement, neither
+party may use, reproduce, distribute or disclose Confidential Information it
+receives from the disclosing party under this Master Agreement, without the
+prior written authorization of the disclosing party. Each party must hold in
+confidence Confidential Information received from the other party and must
+protect the confidentiality thereof with the same degree of care that it
+exercises with respect to its own information of like importance, but in no
+event less than reasonable care, for the Term hereof and for seven (7) years
+following termination or expiration of this Master Agreement.
+
+        12.2 Employee Access. Each party must inform its employees and
+contractors having access to the other party's Confidential Information of
+restrictions required to comply with this Section 12.0. Such employees and
+contractors shall be contractually required to comply with this Section 12.0.
+Each party agrees to provide notice
+
+
+
+                                       14
+<PAGE>
+
+to the other immediately after learning of or having reason to suspect a breach
+of any of the restrictions of this Section 12.0.
+
+        12.3 Legally Required Disclosures. The receiving party may divulge
+Confidential Information pursuant to statute, regulation or the order of a court
+of competent jurisdiction, provided that the receiving party notifies the
+disclosing party in writing and cooperates with the disclosing party, at the
+disclosing party's reasonable request and expense, in any lawful action to
+contest or limit the scope of such required disclosure.
+
+13.0 REPRESENTATIONS AND WARRANTIES
+
+        13.1 By FNF. FNF represents and warrants to FNIS as follows:
+
+                a. Corporate Power. FNF (i) is a corporation duly incorporated,
+validly existing and in good standing under the State of Delaware, and (ii) has
+full corporate power to terminate the Prior Agreements and to consummate the
+transactions contemplated by this Master Agreement.
+
+                b. Authority. This Master Agreement has been duly authorized,
+executed and delivered and constitutes a valid and binding agreement,
+enforceable against FNF in accordance with this Master Agreement's terms,
+subject to the effect of bankruptcy, insolvency, moratorium and other laws now
+or hereafter in effect relating to and affecting the rights of creditors
+generally and to equitable principles of general application.
+
+                c. No Breaches. Neither the execution or delivery of this Master
+Agreement, nor the consummation of any of the transactions contemplated herein,
+will result in the breach of any term or provision of, or constitute a default
+under, any charter provision or bylaw, or material agreement (subject to any
+applicable required consent), order, law, rule or regulation to which it is a
+party or which is otherwise applicable to it.
+
+                d. Non-Infringement. The FNF Technology does not and will not
+infringe the Intellectual Property Rights of any third party as may now or in
+the future exist.
+
+                e. Compliance. In performing its obligations hereunder, FNF
+shall comply in all material respects with requirements all applicable Federal,
+state and local statutes, regulations and ordinances, including, without
+limitation, the Gramm-Leach-Bliley Act.
+
+        13.2 By FNIS. FNIS represents and warrants to FNF as follows:
+
+                a. Corporate Power. FNIS (i) is a corporation duly incorporated,
+validly existing and in good standing under the laws of the State of Delaware,
+and (ii) has full corporate power to terminate the Prior Agreement and to
+consummate the transactions contemplated by this Master Agreement.
+
+                b. Authority. This Master Agreement has been duly authorized,
+executed and delivered and constitutes a valid and binding agreement,
+enforceable against FNIS in accordance with this Master Agreement's terms,
+subject to the effect of bankruptcy, insolvency, moratorium and other laws now
+or hereafter in effect relating to and affecting the rights of creditors
+generally and to equitable principles of general application.
+
+                c. No Breaches. Neither the execution or delivery of this Master
+Agreement, nor the consummation of any of the transactions contemplated herein,
+will result in the breach of any term or provision of, or constitute a default
+under, any charter provision or bylaw, or material agreement (subject to any
+applicable required consent), order, law, rule or regulation to which it is a
+party or which is otherwise applicable to it.
+
+                d. Warranty of Compliance. All Services and Deliverables shall
+comply in all material respects to the applicable Statement of Work (including
+specifications, approved design and functional layout documents contained
+therein) or the Description of Services. The Services shall be rendered by
+qualified FNIS personnel, and shall be consistent with standard commercial
+practice.
+
+
+
+                                       15
+<PAGE>
+
+                e. Non-Infringement. The FNIS Technology and the New Development
+does not and will not infringe the Intellectual Property Rights of any third
+party as may now or in the future exist and FNIS has the right to grant all of
+the licenses to FNF hereunder, free from all claims, liens, security interests
+or other encumbrances. FNIS shall not place on any of FNIS Technology or New
+Development any liens, security interest or other encumbrances that would in any
+manner affect FNF's licenses or ownership under this Master Agreement.
+
+                f. Compliance. In performing its obligations hereunder, FNIS
+shall comply in all material respects with requirements all applicable Federal,
+state and local statutes, regulations and ordinances, including, without
+limitation, the Gramm-Leach-Bliley Act.
+
+                g. No Viruses. FNIS will use its best efforts to ensure that the
+Deliverables do not and shall not contain, at the time of installation and to
+FNIS' knowledge, any timer, clock, counter, or other limiting design or routine,
+nor (to the best of FNIS' knowledge) any virus, that causes or could cause any
+FNF systems, or FNF Data (or any portion thereof) to become erased, inoperable,
+impaired, or otherwise incapable of being used in the full manner for which it
+was designed and licensed (including, without limitation, any design or routine
+that would impede copying thereof) after being used or copied a certain number
+of times, or after the lapse of a certain period of time, or after the
+occurrence or lapse of any similar triggering factor or event, or for any other
+reason. Furthermore, FNIS will use its best efforts to ensure that the
+Deliverables do not and shall not, to FNIS' knowledge, contain any virus,
+limiting design or routine that causes or could cause any of them to become
+erased, inoperable, impaired, or otherwise incapable of being used in the full
+manner for which it was designed and licensed pursuant to this Master Agreement
+because it has been installed on or moved to a hardware unit or system that has
+a serial number, model number, or other identification different from the
+identification of the one on which it was originally installed.
+
+14.0 INDEMNIFICATION
+
+        14.1 Indemnity by FNF. FNF agrees to indemnify, defend and hold harmless
+FNIS, and its respective officers, directors, shareholders, employees, agents,
+successors and assigns, in accordance with the procedures described in Section
+14.3, from any and all losses arising from or in connection with any breach any
+of any representations or warranties by FNF set forth in Section 13.1.
+
+        14.2 Indemnity by FNIS. FNIS agrees to indemnify, defend and hold
+harmless FNF and its officers, directors, shareholders, employees, agents,
+successors and assigns, in accordance with the procedures described in Section
+14.3, from any and all losses arising from or in connection with the breach of
+any representation, warranty or covenant by FNIS set forth in Section 13.2.
+
+        14.3 Indemnification Procedures.
+
+                a. Notice. Promptly after receipt by any person entitled to
+indemnification under Sections 14.1 or 14.2 (an "INDEMNIFIED PARTY") of notice
+of the commencement (or threatened commencement) of any civil, criminal,
+administrative or investigative action or proceeding involving a claim in
+respect of which the Indemnified Party will seek indemnification, the
+Indemnified Party shall notify the party which is obligated to provide such
+indemnification (an "INDEMNIFYING PARTY") of such claim in writing.
+
+                b. Effect of Failure to Provide Timely Notice. No failure to
+notify the Indemnifying Party shall relieve it of its obligations under this
+Master Agreement except to the extent that it can demonstrate damages
+attributable to the Indemnified Party's failure to notify.
+
+                c. Control by Indemnifying Party. The Indemnifying Party shall
+be entitled to have sole control over the defense and/or settlement of such
+claim, provided that, within fifteen (15) days after receipt of such written
+notice, the Indemnifying Party notifies the Indemnified Party of its election to
+so assume full control, and provided further that the Indemnifying Party can
+demonstrate to the reasonable satisfaction of the Indemnified Party that the
+Indemnifying Party has the financial capability to indemnify the Indemnified
+Party. In that event: (i) the
+
+
+
+                                       16
+<PAGE>
+
+Indemnified Party shall be entitled to participate in the defense of such claim
+and to employ counsel at the Indemnifying Party's reasonable expense to assist
+in the handling of such claim; (ii) the Indemnifying Party shall obtain the
+prior written approval of the Indemnified Party before entering into any
+settlement of such claim or ceasing to defend against such claim if such
+settlement or cessation would cause injunctive or other relief to be imposed
+against the Indemnified Party; and (iii) the Indemnified Party shall be free to
+enter direct discussions with some or all claimants for purposes of settlement,
+and shall be free to enter into such settlement(s) on terms agreeable to the
+Indemnified Party (upon provision of reasonable notice to and consultation with
+the Indemnifying Party); provided, however, that the Indemnifying Party shall
+not be required to reimburse the Indemnified Party's expenses if the Indemnified
+Party has assumed control over the defense, and provided further that the
+Indemnified Party it shall not engage in or consummate any settlement
+discussions without the written approval and authority of Indemnifying Party.
+
+                d. Participation by Indemnified Party. If the Indemnifying Party
+does not assume sole control over the defense of such claim as provided in this
+Section 14.3, the Indemnifying Party may participate in such defense and the
+Indemnified Party shall have the right to defend the claim in such manner as it
+may deem appropriate, at the cost and expense of the Indemnifying Party. The
+Indemnifying Party shall promptly reimburse the Indemnified Party for such costs
+and expenses, in accordance with the applicable section of this Section 14.0. An
+Indemnifying Party shall not be required to indemnify any Indemnified Party for
+any amount paid or payable by such Indemnified Party in the settlement of any
+such claim which was agreed to without the written consent of the Indemnifying
+Party.
+
+                e. Financial Capacity. The Indemnified Party may request, from
+time to time, that the Indemnifying Party demonstrate that it continues to have
+the financial capability to indemnify the Indemnified Party, and if the
+Indemnifying Party is unable to demonstrate such to the Indemnifying Party's
+reasonable satisfaction, the Indemnified Party may assume full control of the
+defense of such claim, but the Indemnifying Party shall continue to be
+responsible for indemnifying the Indemnified Party.
+
+        14.4 Subrogation. In the event that an Indemnifying Party shall be
+obligated to indemnify an Indemnified Party pursuant to this Section 14.0, the
+Indemnifying Party shall, upon payment of such indemnity in full, be subrogated
+to all rights of the Indemnified Party with respect to the claims to which such
+indemnification relates.
+
+15.0 DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+
+        15.1 Disclaimer. EXCEPT AS SPECIFIED IN THIS SECTION 15.0, NEITHER PARTY
+MAKES ANY OTHER WARRANTIES AND EXPLICITLY DISCLAIMS ALL OTHER WARRANTIES,
+EXPRESS, IMPLIED OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A SPECIFIC PURPOSE.
+
+        15.2 Limitation of Liability. EXCEPT WITH RESPECT TO CLAIMS ARISING FROM
+MISUSE OF INTELLECTUAL PROPERTY, BREACH OF CONFIDENTIALITY, OR INDEMNIFICATION
+OBLIGATIONS, IN NO EVENT SHALL EITHER PARTY, OR ANY OF ITS AFFILIATES, PARTNERS,
+OFFICERS, EMPLOYEES, DIRECTORS, AGENTS, CONTRACTORS, REPRESENTATIVES, SUCCESSORS
+OR ASSIGNS, AS SUCH, BE LIABLE FOR ANY PUNITIVE, EXEMPLARY, INCIDENTAL,
+INDIRECT, CONSEQUENTIAL OR SPECIAL DAMAGES UNDER OR IN CONNECTION WITH THIS
+AGREEMENT. IN ANY EVENT, EXCEPT WITH RESPECT TO CLAIMS ARISING FROM MISUSE OF
+INTELLECTUAL PROPERTY, BREACH OF CONFIDENTIALITY, OR INDEMNIFICATION
+OBLIGATIONS, THE TOTAL LIABILITY OF EITHER PARTY, AND ITS AFFILIATES, PARTNERS,
+OFFICERS, EMPLOYEES, DIRECTORS, REPRESENTATIVES, SUCCESSORS AND ASSIGNS, TO THE
+OTHER PARTY FOR ANY LOSSES, IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED
+THE TOTAL COMPENSATION PAID BY FNF TO FNIS HEREUNDER DURING THE CONSECUTIVE SIX
+(6) MONTH PERIOD IMMEDIATELY PRECEDING THE OCCURRENCE OF THE EVENT(S) GIVING
+RISE TO SUCH LIABILITY.
+
+
+
+                                       17
+<PAGE>
+
+16.0 MISCELLANEOUS
+
+        16.1 Force Majeure. Each party shall be excused from performance under
+this Master Agreement and shall have no liability to the other party for any
+period it is prevented from performing any of its obligations (other than
+payment obligations), in whole or in part, as a result of delays caused by the
+other party or by an act of God, war, civil disturbance, court order, labor
+dispute, or other cause beyond its reasonable control, including failures or
+fluctuations, in electrical power, heat, light, or telecommunications, and such
+nonperformance shall not be a default under, or grounds for termination of, this
+Master Agreement.
+
+        16.2 Severability. If any provision of this Master Agreement is held to
+be unenforceable, then both parties shall be relieved of all obligations arising
+under such provision, but only to the extent that such provision is
+unenforceable, and this Master Agreement shall be deemed amended by modifying
+such provision to the extent necessary to make it enforceable while preserving
+its intent or, if that is not possible, by substituting another provision that
+is enforceable and achieves the same objective and economic result. If such
+unenforceable provision does not relate to the payments to be made to FNIS, and
+if the remainder of this Master Agreement is capable of substantial performance,
+then the remainder of this Master Agreement shall be enforced to the extent
+permitted by law. IT IS EXPRESSLY UNDERSTOOD AND AGREED THAT EACH PROVISION OF
+THIS AGREEMENT WHICH PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER OF
+WARRANTIES, INDEMNIFICATION OR EXCLUSION OF DAMAGES OR OTHER REMEDIES IS
+INTENDED TO BE SEVERABLE AND INDEPENDENT OF ANY OTHER PROVISION AND TO BE
+ENFORCED AS SUCH. FURTHER, IT IS EXPRESSLY UNDERSTOOD AND AGREED THAT IN THE
+EVENT ANY REMEDY UNDER THIS AGREEMENT IS DETERMINED TO HAVE FAILED OF ITS
+ESSENTIAL PURPOSE, ALL LIMITATIONS OF LIABILITY AND EXCLUSIONS OF DAMAGES OR
+OTHER REMEDIES SHALL REMAIN IN EFFECT.
+
+        16.3 Relationship of the Parties. No employees, consultants, contractors
+or agents of one party shall, as a result of this Master Agreement, be
+considered agents, employees, partners, franchisees or joint ventures of the
+other party, nor do they have any authority to bind the other party by contract
+or otherwise to any obligation. They will not represent to the contrary, either
+expressly or implicitly. The parties have a nonexclusive relationship. FNF may,
+in its sole discretion, obtain services or technology from third parties similar
+or identical to the Services provided by FNIS, subject to FNIS' Intellectual
+Property Rights and FNF's confidentiality obligations. Similarly, FNIS may
+provide services similar or identical to the Services provided to FNF, subject
+to subject to FNF's Intellectual Property Rights and FNIS' confidentiality
+obligations.
+
+        16.4 Independent Counsel. Each party represents, warrants and
+acknowledges that it has been represent by independent counsel of its choosing
+in the negotiation and execution of this Master Agreement.
+
+        16.5 Choice of Law; Dispute Resolution; Attorneys' Fees. This Agreement
+shall be governed by and interpreted under the internal laws of the State of
+California without giving effect to any choice of law rules. If there is any
+dispute or disagreement between the parties either in interpreting any provision
+of this Agreement or about the performance of either party, then upon the
+written request of either party, each of the parties, through their respective
+Project Coordinators, will meet and confer to negotiate in good faith in an
+effort to resolve the dispute without any formal proceeding. During the course
+of such negotiation(s), all reasonable requests made by one party to the other
+for information, including copies of relevant documents, will be honored. The
+specific format for such discussions will be left to the discretion of the
+Project Coordinators. If the Project Coordinators are unable to resolve the
+dispute within thirty (30) days after their first meeting, then an Executive
+Committee made up of each party's then-acting President and one (1) additional
+executive from each party, Vice-President level or higher, will next attempt to
+resolve the dispute by adhering to the following procedure (which procedure will
+be implemented before either party pursues other available remedies, except that
+either party my seek injunctive relief from a court where appropriate in order
+to maintain the status quo while this procedure is being followed): The
+Executive Committee will hold a meeting promptly to attempt in good faith to
+negotiate a resolution of the dispute; provided, however, that no such meeting
+will be deemed to vitiate or reduce the obligations and liabilities of the
+parties or be
+
+
+
+                                       18
+<PAGE>
+
+deemed a waiver by a party hereto of any remedies to which such party would
+otherwise be entitled. If, within thirty (30) days after such meeting, the
+parties have not succeeded in negotiating a resolution of the dispute, or made
+material progress in that regard, then the parties agree to submit the dispute
+to mediation in accordance with the then-current Model Procedure for Mediation
+of Business Disputes of the Center for Public Resources and to bear equally the
+costs of the mediation. The parties will jointly appoint a mutually acceptable
+mediator, seeking assistance in such regard from the Center for Public Resources
+if the parties have been unable to agree upon such appointment within twenty
+(20) days from the conclusion of the negotiation period. The parties agree to
+participate in good faith in the mediation and negotiations related thereto for
+a period of thirty (30) days. If the parties are not successful in resolving the
+dispute through the mediation, then the parties agree to submit the matter to
+binding arbitration in accordance with the Center for Public Resources rules for
+Non-Administered Arbitration of Business Disputes, by a sole arbitrator.
+Mediation and Arbitration will take place in the City of Santa Ana unless
+otherwise agree by the parties. The substantive and procedural law of the State
+of California will apply to the proceedings. Equitable remedies will be
+available in any arbitration. Punitive damages will not be awarded. This section
+is subject to the Federal Arbitration Act, 9 U.S.C.A. Section 1 et seq. and
+judgment upon the award rendered by the arbitrator, if any, may be entered by
+any court having jurisdiction thereof. If any legal action or other proceeding
+is brought for the enforcement of this Agreement, or because of an alleged
+dispute, breach, default or misrepresentation in connection with any of the
+provisions of this Agreement, the prevailing party shall be entitled to recover
+reasonable attorneys fees and other costs incurred in that action or proceeding,
+in addition to any other relief to which it may be entitled.
+
+        16.6 Import and Export Laws. The FNF Technology and FNIS Technology,
+including, without limitation, technical data regarding the same, is subject to
+U.S. export control laws and may be subject to export and import regulation in
+other countries. The parties agree to comply strictly with all such regulations
+and acknowledge that they have the responsibility to obtain such licenses to
+export, re-export or import such technology as may be required.
+
+        16.7 Notices. When one party is required or permitted to give notice to
+the other, such notice shall be deemed given when delivered by hand or when
+mailed by United States mail, registered or certified mail, return receipt
+requested, postage prepaid, and addressed as follows:
+
+        FNIS:   Fidelity National Information Solutions, Inc.
+                2510 Red Hill Avenue
+                Santa Ana, California  92705
+
+        Attn:   Dwayne Walker, President and C.O.O.
+
+        FNF:    Fidelity National Financial, Inc.
+                4050 Calle Real
+                Santa Barbara, California  93110
+
+        Attn:   Edward Dewey, C.O.O.
+
+        Either party may change its address for notification purposes by giving
+the other party written notice of the new address and the date upon which it
+will become effective.
+
+        16.8 Construction. This Master Agreement has been negotiated by the
+parties and their respective counsel. This Master Agreement will be interpreted
+without any strict construction in favor of or against either party.
+
+        16.9 Amendment and Waiver. Unless otherwise provided herein, this Master
+Agreement may not be modified, amended, or rescinded, in whole or part except by
+written instrument signed by the duly authorized representatives of both
+parties. No delay or omission by either party to exercise any right or power it
+has under this Master Agreement shall impair or be construed as a waiver of such
+right or power. A waiver by either party of any
+
+
+
+                                       19
+<PAGE>
+
+covenant or breach shall not be construed to be a waiver of any succeeding
+breach or of any other covenant. All waivers must be in writing and signed by
+the party waiving its rights.
+
+        16.10 Binding Nature; Assignment. This Master Agreement shall bind the
+parties and their successors and permitted assigns. Neither party may assign
+this Master Agreement without the prior written consent of the other, which
+consent shall not be unreasonably withheld or delayed; provided, however, that
+either party may assign this Master Agreement to any entity which acquires all
+or substantially all of the assets of the party. Any other assignment attempted
+without the written consent of the other party shall be void.
+
+        16.11 No Rights in Third Parties. The parties agree that this Master
+Agreement is for the benefit of the parties hereto and is not intended to confer
+any legal rights or benefits on any third party and that there are no third
+party beneficiaries to this Master Agreement or any part or specific provision
+of this Master Agreement, except for any Member.
+
+        16.12 Entire Agreement; Conflicts. This Master Agreement, including all
+of its schedules and Statements of Work, each of which is incorporated into this
+Master Agreement, is the entire agreement between the parties with respect to
+its subject matter, and there are no other representations, understandings or
+agreements between the parties relative to such subject matter, including the
+Prior Agreements. The terms and conditions of this Master Agreement shall apply
+to each Statement of Work, and in the event of a conflict between the express
+terms of this Master Agreement and a Statement of Work, in which case the terms
+and conditions of this Master Agreement shall control unless such Statement of
+Work is signed by the then-acting President or Chief Executive Officer of each
+of FNF and FNIS. For the avoidance of doubt, the System Development, Maintenance
+and Information Technology Services Master Agreement on or about May 23, 2001,
+as amended and restated on July 9, 2002, is completely superceded by this Master
+Agreement.
+
+        16.13 Media Releases. All media releases, public announcements and
+public disclosures by FNF or FNIS or their employees or agents relating to this
+Master Agreement or its subject matter, including promotional or marketing
+materials shall be coordinated with and approved by the other party prior to
+release, which approval shall not be unreasonably withheld. This restriction
+does not apply (i) to any announcement intended solely for internal distribution
+within FNF or within FNIS, or (ii) any disclosure required by legal, accounting
+or regulatory requirements beyond the reasonable control of the disclosing
+party.
+
+        16.14 Survival. The following sections shall survive termination or
+expiration of this Master Agreement: Sections 1, 5.2(f), 5.6, 6, 8, 11.5, 11.6,
+and 12 through 16. Any permitted End User licenses will survive in accordance
+with their terms.
+
+        16.15 Counterparts. This Master Agreement may be executed in
+counterparts, each of which will be deemed an original, and all of which will
+constitute one agreement.
+
+        IN WITNESS WHEREOF, intending to be legally bound hereby, the parties
+have caused this Master Agreement to be executed and delivered by their duly
+authorized representatives as of the Effective Date set forth above.
+
+
+FIDELITY NATIONAL                       FIDELITY NATIONAL
+INFORMATION SOLUTIONS, INC.             FINANCIAL, INC.
+
+By: /s/ NEIL JOHNSON                    By: /s/ PETER SADOWSKI
+   --------------------------------        -------------------------------------
+
+Name:  Neil Johnson                     Name:  Peter Sadowski
+
+Title: Executive Vice President/        Title: Executive Vice
+       Chief Financial Officer                 President/General Counsel
+
+Date: March 27, 2003                    Date: March 27, 2003
+
+
+
+
+                                       20
+
+<PAGE>
+SCHEDULE 1.     DESCRIPTION OF TECHNOLOGY
+
+SCHEDULE 2.     DESCRIPTION OF DATA
+
+SCHEDULE 3.     DESCRIPTION OF FNF HARDWARE
+
+SCHEDULE 4.     DESCRIPTION OF SERVICES
+
+SCHEDULE 5.     TECHNOLOGY FEE SCHEDULE
+
+SCHEDULE 6.     SERVICES FEE SCHEDULE
+
+SCHEDULE 7.     STATEMENT(S) OF WORK TEMPLATE
+
+SCHEDULE 8.     END USER TERMS AND CONDITIONS
+
+SCHEDULE 9.     DATA LETTER AGREEMENT TEMPLATE
+
+SCHEDULE 10.    SHORT-TERM TERMINABLE SERVICES
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                       SCHEDULE 6. SERVICES FEE SCHEDULE
+------------------------------------------------------------------------------------------------------------------
+  DOS
+REFERENCE         CATEGORIES             SERVICES                                          FIXED          VARIABLE
+------------------------------------------------------------------------------------------------------------------
+<S>               <C>                    <C>                                               <C>            <C>
+                  PROJECT                Time & Materials                                                  [*]
+                  WORK                   Consultant Fees                                                   [*]
+                                         Merger & Acquisition Activity                                     [*]
+
+  1               FNIS CALL              Call Center Description
+                  CENTER                   -Desktop Services - NLS                                         [*]
+                                           -NLS - Evening back up tapes                    [*]
+                                           -Print Shop Desktop Support                                     [*]
+                                           -Claims/Legal Desktop Support                   [*]
+                                           -Trust Accounting Desktop Support                               [*]
+                                           -Asset Management Desktop Support                               [*]
+                                           -Cash Management Desktop Support                                [*]
+                                         Trust Services Group Desktop Support                              [*]
+                                           -Loan Portfolio Services Desktop Support                        [*]
+                                           -Trust Services Group Desktop Support                           [*]
+                                         Other Project Work                                                [*]
+
+   2              FNF CORPORATE          CLAIMS                                            [*]
+                  SYSTEMS                  -CPS - Claims Processing System
+                                           -LIPS - Litigation Inquiry Processing System
+                                           -Reinsurance System
+                                         NAS - National Agency System
+                                           -Premier
+                                           -AIMS
+                                         Accounting Application Support
+                                           -Bank Reconciliation (Simon, STAT)
+                                           -GL Interface
+                                           -NBU - National Business Units
+                                           -Document Direct
+                                         Corporate Mainframe
+                                         Forms Processing - 1099s                          [*]
+                                         Other Project Work                                                [*]
+
+   3              CTT PRODUCTION         SIERRA TISTAR                                     [*]
+                  SYSTEMS                TEAM                                              [*]
+                                           -TEAM Application Support
+                                           -TEAM After Hour Support
+                                           -NLS/Conseco Support Service
+                                           -EorderNet Support Service
+                                           -Team Document Delivery
+                                           -CTT/EDI - Team Bank Reconciliation
+                                         Team/Plant Hardware Maintenance                   [*]
+                                         Other Project Work                                                [*]
+
+   4              FNT PRODUCTION         SIMON                                             [*]
+                  SYSTEMS                SIMON Application Support                         [*]
+                                           -SIMON Hardware Support
+                                           -SIMON Field Services Support
+                                           -SIMON Networking Support
+                                           -SIMON After Hours Support - General & ME
+                                           -RETS Application Support
+                                           -RETS Hardware Support
+                                           -STATS Application Support
+                                           -Sparing Strategy
+                                           -OMS Translator/RealEC
+                                           -STAT - Stand Alone/Batch Trust Accounting
+                                           -FNDS - Document Services
+                                           -RETS - Real Estate Tracking Services (NJ only)
+                                           -HIQ - Homeonwers Insurance Quote
+                                           -Field Tech Services
+</TABLE>
+------------------------
+ [*] Omitted pursuant to Rule 24b-2.
+
+
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+  DOS
+REFERENCE         CATEGORIES             SERVICES                                          FIXED          VARIABLE
+---------         ----------             --------                                          -----          --------
+<S>               <C>                    <C>                                               <C>            <C>
+                                         SIMON (con't)
+                                           -OTS Applicaton Support
+                                           -OTS Hardware Support
+                                           -OTS Field Services Support
+                                           -OTS Networking Support
+                                           -OTS 6.x, 7.x
+                                           -OTS Lite
+                                         OTS Gold Rush                                                     [*]
+                                         SIMON Deployment (MAC)                                            [*]
+                                         ExpressNet/EN Client                                [*]
+                                         High Priority Inventory Management                  [*]
+                                         Printer Support - Lexmark                           [*]
+                                         Other Project Work                                                [*]
+
+   5              DISTRIBUTED            Microsoft Server Support                            [*]
+                  SYSTEMS                  -Novell Server Support
+                                         Other Project Work                                                [*]
+
+   6              EMAIL &                Email Support (General Support, Creations,          [*]
+                  MESSAGING                deletions, mods, and synchs)                      [*]
+                                           -BlackBerry Support (General Support, Setup,
+                                               and terminations)
+                                           -SPAM Application Monitoring (per mailbox)
+                                         Other Project Work                                                [*]
+
+   7              FNF-WAN & LAN          FNF-WAN*                                            [*]
+                                                                                             [*]
+                                         FNF Network Management                              [*]
+                                         FNF Network Monitoring                              [*]
+
+   8              PROPERTY               Plant Systems SLA - Chatsworth                      [*]
+                  INSIGHT                Plant Systems SLA - Chicago                         [*]
+                                         Plant Systems SLA - Miami                           [*]
+                                         Project Work                                        [*]
+                                         Data Center Projects                                              [*]
+
+   9              TELECOM                Telecommunications Services                         [*]
+                                         Long Distance Services                              [*]
+                                                                                             [*]
+ 10/11            FNF WEB                FNF Web Hosting                                     [*]
+                  SERVICES               Web Content Services                                [*]
+                                         FNF Internal Web Sites                              [*]
+                                         Other Project Work                                                [*]
+
+  12              LDAP                   LDAP/Edirectory                                     [*]
+                                         LDAP Ghost Account Mgmt                             [*]
+                                         Usage & Customization                                             [*]
+
+  13              TRAINING               Simon, STAT, OTS, Team                                            [*]
+                                         Other Training                                                    [*]
+
+ 14/15            SECURITY & DRP         ESM Security and DRP                                [*]
+                                         Team Disaster Recovery                              [*]
+                                         Audits/Compliance Reporting/Privacy Policy/                       [*]
+                                           Planning/Assessments
+------------------------------------------------------------------------------------------------------------------
+ [*] Omitted pursuant to Rule 24b-2.
+</TABLE>
+
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+------------------------------------------------------------------------------------------------------------------
+  DOS
+REFERENCE         CATEGORIES             SERVICES                                          FIXED          VARIABLE
+------------------------------------------------------------------------------------------------------------------
+<S>               <C>                    <C>                                               <C>            <C>
+                  NGS                    NGS Development                                                  [*]
+                                         NGS Data Center/NOC                                              [*]
+                                         NGS Training                                                     [*]
+                                         NGS Deployment                                                   [*]
+                                         NGS Annual Maintenance                            [*]
+                                         NGS Secuirity & DRP                               [*]
+                                         NGS WAN                                                          [*]
+------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+*FNF WAN
+Office Size                              Monthly Monitoring Rate
+-----------
+<S>               <C>                    <C>
+
+Small             T1 or DSL              [*]
+Medium            2 T1's                 [*]
+Large             Over 2 T1's            [*]
+
+                                         Monthly Maintenance Rate
+Small             DSL                    [*]
+Small             T1 or less             [*]
+Medium            2 T1's                 [*]
+Large             Over 2 T1's            [*]
+</TABLE>
+----------------------
+ [*] Omitted pursuant to Rule 24b-2.
+
+
+
+
+</TEXT>
+</DOCUMENT>

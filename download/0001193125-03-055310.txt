@@ -1,0 +1,2707 @@
+<DOCUMENT>
+<TYPE>EX-10.54
+<SEQUENCE>20
+<FILENAME>dex1054.txt
+<DESCRIPTION>MASTER COLLATERAL AND INTERCREDITOR AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.54
+
+EXECUTION COPY
+
+================================================================================
+
+                  MASTER COLLATERAL AND INTERCREDITOR AGREEMENT
+
+                                      among
+
+                      DEUTSCHE BANK TRUST COMPANY AMERICAS,
+                          as Revolver Collateral Agent,
+
+                      DEUTSCHE BANK TRUST COMPANY AMERICAS,
+                        as Revolver Administrative Agent,
+
+          THE FACILITY REPRESENTATIVES FROM TIME TO TIME PARTY HERETO,
+
+                      DEUTSCHE BANK TRUST COMPANY AMERICAS,
+
+                           as Master Collateral Agent
+
+                               AFS FUNDING CORP.,
+
+                                       and
+
+                                AFS SENSUB CORP.
+
+                                  as Borrowers
+
+                                       and
+
+                      AMERICREDIT FINANCIAL SERVICES, INC.,
+
+                                   ----------
+
+                           Dated as of August 15, 2002
+
+                                   ----------
+
+================================================================================
+
+<PAGE>
+
+                  MASTER COLLATERAL AND INTERCREDITOR AGREEMENT
+
+        MASTER COLLATERAL AND INTERCREDITOR AGREEMENT dated as of August 15,
+2002 among DEUTSCHE BANK TRUST COMPANY AMERICAS, a New York banking
+organization, as collateral agent for the lenders party to the Credit Agreement
+referred to below (together with its successors in such capacity, the "Revolver
+Collateral Agent"), DEUTSCHE BANK TRUST COMPANY AMERICAS, as administrative
+agent for the lenders party to the Credit Agreement referred to below (together
+with its successors in such capacity, the "Revolver Administrative Agent"), the
+financial institutions from time to time party hereto as Facility
+Representatives (as defined below), DEUTSCHE BANK TRUST COMPANY AMERICAS, a New
+York banking organization (including any successor thereto, the "Master
+Collateral Agent"), AFS FUNDING CORP., a Nevada corporation ("AFS Funding") and
+AFS SENSUB CORP., a Nevada corporation (together with AFS Funding, each, a
+"Borrower" and collectively, the "Borrowers"), and AMERICREDIT FINANCIAL
+SERVICES, INC., a Delaware corporation ("ACFS").
+
+                              W I T N E S S E T H :
+
+        WHEREAS, the Borrowers have sold and contemplate selling, from time to
+time, pools of receivables to various trusts which have issued or may issue
+various series of notes or certificates (each a "Series") which will be repaid
+from the proceeds of, or represent an interest in, such pools of receivables;
+
+        WHEREAS, the Borrowers have entered into a Credit Agreement, dated as of
+August 15, 2002 (as from time to time amended, supplemented or otherwise
+modified, the "Revolving Credit Agreement"), with certain financial institutions
+and commercial paper conduits as lenders and agents, the Revolver Administrative
+Agent, and the Revolver Collateral Agent;
+
+        WHEREAS, the revolving line of credit to the Borrowers under the Credit
+Agreement will be secured by certain securities of various Series rated at least
+Ba2 by Moody's and BB by S & P;
+
+        WHEREAS, the Borrowers wish to provide additional collateral for the
+obligations outstanding under the Revolving Credit Agreement pursuant to the
+terms hereof;
+
+        WHEREAS, from time to time, with respect to Series to be issued in the
+future, the Borrowers intend to enter into agreements with certain parties to
+provide credit enhancement for such Series in the form of reinsurance, cash
+collateral account loans, letters of credit or other means;
+
+        WHEREAS, the Borrowers may wish to provide additional collateral to the
+providers of such credit enhancement pursuant to the terms hereof;
+
+        WHEREAS, the lenders under the Revolving Credit Agreement and such
+credit enhancement providers wish to have pari passu interests in the collateral
+pledged and assigned
+
+<PAGE>
+
+hereunder to the extent set forth herein;
+
+        WHEREAS, the Borrowers may from time to time issue promissory notes
+secured, on a subordinated basis to the extent set forth herein, by the
+collateral pledged and assigned herein;
+
+        WHEREAS, ACFS or an Affiliate of ACFS will service each Series.
+
+        NOW, THEREFORE, ACFS, the Borrowers, the Master Collateral Agent, the
+Revolver Administrative Agent, the other Facility Representatives and the
+Revolver Collateral Agent, intending to be legally bound, hereby agree as
+follows:
+
+                Section 1       Definitions. For all purposes of this Agreement,
+the following terms shall have the meanings set forth below and the following
+terms which are defined in the Uniform Commercial Code in effect in the State of
+New York from time to time are used herein as so defined: Accounts, Chattel
+Paper, Documents, Equipment, Goods, General Intangibles, Instruments, Investment
+Property and Proceeds.
+
+                "ACFS" has the meaning specified in the Preamble.
+
+                "Account Collateral" has the meaning set forth in Section 3.
+
+                "Adverse Claim" has the meaning set forth in Section 8-102(a)(1)
+of Article 8.
+
+                "AFS Funding" has the meaning specified in the Preamble.
+
+                "AFSFT Class A Certificate" means the Class A Certificate issued
+pursuant to the AFSFT Trust Agreement.
+
+                "AFSFT Class A Certificate Collateral" has the meaning specified
+in Section 3.
+
+                "AFSFT Trust Agreement" means the Second Amended and Restated
+Trust Agreement, dated as of August 15, 2002, between AFS Funding and Deutsche
+Bank Trust Company Delaware as successor in interest to Bankers Trust
+(Delaware), as Owner Trustee, as amended, supplemented or otherwise modified
+from time to time.
+
+                "Agreement" means this Master Collateral and Intercreditor
+Agreement, as it may be amended, supplemented or otherwise modified from time to
+time.
+
+                "Article 8" means UCC, Revised Article 8, Investment Securities
+(with conforming and miscellaneous amendments to Articles 1, 3, 4, 5, 9 and 10),
+1994 Official Text, as adopted by the American Law Institute and the National
+Conference of Commissioners on Uniform State Laws. Unless the context requires
+otherwise, "Article 8" means such version in the form in which it is adopted in
+the applicable jurisdiction.
+
+                "Available Funds" has the meaning specified in Section 6.
+
+                                      - 2 -
+
+<PAGE>
+
+                "Borrowers" has the meaning specified in the Preamble.
+
+                "Borrower Agreements" has the meaning set forth in Section 4.
+
+                "Capped Expenses" means, at any time, fees, costs and expenses
+due at such time (if any) to the Master Collateral Agent hereunder not in excess
+of $7,500 with respect to any Distribution Date.
+
+                "Certificated Security" has the meaning set forth in Section
+8-102(a)(4) of Article 8.
+
+                "Clearing Corporation" has the meaning set forth in Section
+8-102(a)(5) of Article 8.
+
+                "Clearing Corporation Security" means a "Security" (as defined
+in Section 8-102(a)(15) of Article 8) that is in the physical possession of, or
+registered in the name of, a Clearing Corporation or its nominee.
+
+                "Collateral" has the meaning set forth in Section 3.
+
+                "Collateral Account" has the meaning set forth in Section 7.
+
+                "Collection Action" means: (a) to demand, sue for, take or
+receive from or on behalf of the Borrowers (or either of them) or any guarantor
+of the Junior Debt, by set-off or in any other manner, the whole or any part of
+any moneys which may now or hereafter be owing by the Borrowers (or either of
+them) or any such guarantor with respect to the Junior Debt, provided, however,
+that the Junior Creditors may take and receive all payments permitted to be made
+pursuant to Section 6 of this Agreement; (b) to initiate or participate with
+others in any suit, action or proceeding against the Borrowers or any such
+guarantor to (i) enforce payment of or to collect the whole or any part of the
+Junior Debt or (ii) commence judicial enforcement of any of the rights and
+remedies under any of the Junior Facility Agreements or applicable law with
+respect to any of the Junior Debt; (c) to accelerate any Junior Debt; (d) to
+cause the Borrowers (or either of them) or any such guarantor to honor any
+purchase, redemption or mandatory prepayment obligation under any Junior
+Facility Agreement; or (e) to take any action to realize upon any of the
+property or assets of the Borrowers (or either of them) or such guarantor or to
+exercise any other right or remedy with respect to thereto.
+
+                "Control": with respect to any Federal Book Entry Security, the
+Master Collateral Agent shall have obtained control if:
+
+                (i)     the Master Collateral Agent is a participant in the book
+        entry system maintained by the Federal Reserve Bank that is acting as
+        fiscal agent for the issuer of such Federal Book Entry Security, and
+        such Federal Reserve Bank has indicated by book entry that such Federal
+        Book Entry Security has been credited to the Master Collateral
+
+                                      - 3 -
+
+<PAGE>
+
+        Agent's securities account in such book entry system; or
+
+                (ii)    the Master Collateral Agent is registered solely in its
+        name on the records of a Securities Intermediary as the person having a
+        Security Entitlement in respect of such Federal Book Entry Security
+        against such Securities Intermediary; and (b) the Securities
+        Intermediary is a participant in the book entry system maintained by the
+        Federal Reserve Bank that is acting as fiscal agent for the issuer of
+        such Federal Book Entry Security; and (c) such Federal Reserve Bank has
+        indicated by book entry that such Federal Book Entry Security has been
+        credited to the Securities Intermediary's securities account in such
+        book entry system.
+
+                "Default" has the meaning set forth in Section 5.
+
+                "Delivery": when used with respect to Account Collateral,
+"Delivery" means:
+
+                (i)     with respect to Physical Property, transfer thereof to
+        the Master Collateral Agent or its nominee or custodian by physical
+        delivery to the Master Collateral Agent or its nominee or custodian
+        endorsed to, or registered in the name of, the Master Collateral Agent
+        or its nominee or custodian or endorsed in blank;
+
+                (ii)    with respect to a Certificated Security, transfer of
+        such Certificated Security to the Master Collateral Agent or its nominee
+        or custodian by physical delivery to the Master Collateral Agent or its
+        nominee or custodian, endorsed to, or registered in the name of, the
+        Master Collateral Agent or its nominee or custodian or endorsed in
+        blank; and
+
+                (iii)   with respect to any such Account Collateral that
+        constitutes an Uncertificated Security (including any investments in
+        money market mutual funds, but excluding any Federal Book Entry
+        Security), (A) registration of the Master Collateral Agent as the
+        registered owner by the issuer, or (B) satisfaction of the requirements
+        for obtaining "control" pursuant to Section 8-106(c)(2) of Article 8.
+
+                "Designated FSA Series" means Series 1998-D, Series 1999-A,
+Series 1999-B, Series 1999-C, Series 1999-D, Series 2000-A, Series 2000-B,
+Series 2000-C, Series 2000-D, Series 2001-A, Series 2001-B, Series 2001-C,
+Series 2001-D, Series 2002-A, and Series 2002-B, and each FSA Series as to which
+the conditions set forth below have been satisfied:
+
+                (i)     the original certificate of beneficial interest in the
+        Underlying Trust for such Series is in the possession of AFS Funding
+        Trust and is registered in the name of AFS Funding Trust, and the Master
+        Collateral Agent shall have received a certificate of ACFS stating that
+        AFS Funding Trust has received and has possession of such certificate,
+        and there shall be no other security interests or Liens on such
+        certificate;
+
+                (ii)    ACFS shall have delivered a certificate to the Master
+        Collateral Agent (with a
+
+                                      - 4 -
+
+<PAGE>
+
+        copy to each Agent) certifying that each of the relevant Series
+        Transaction Documents is in full force and effect, no party to any such
+        document is in default of its obligations thereunder, there is otherwise
+        no default, event which with the passage of time or the giving of notice
+        or both would constitute a default, servicer default, event which with
+        the passage of time or the giving of notice or both would constitute a
+        servicer default, trigger event or like occurrence in the Underlying
+        Transactions, and all of the representations and warranties of the
+        Borrowers set forth in such Series Transaction Documents are true and
+        correct;
+
+                (iii)   The Master Collateral Agent shall have received a
+        certificate of the Borrowers or ACFS stating that ACFS is the servicer
+        for such Series;
+
+                (iv)    At least four Business Days prior to the date the cash
+        flows from such Series will initially be included in the calculation of
+        the Senior Borrowing Base, ACFS shall have provided to the Master
+        Collateral Agent (with a copy to each Facility Representative and Agent)
+        a certificate certifying the information with respect to such Series
+        described on Annex 1;
+
+                (v)     The Master Collateral Agent shall have received an
+        irrevocable letter of direction from AFS Funding and AFS Funding Trust
+        to the trustee party to the related supplement to the Spread Account
+        Agreement instructing such trustee to pay all amounts otherwise payable
+        to AFS Funding or AFS Funding Trust to the Master Collateral Agent,
+        which letter shall have been acknowledged and agreed to by such trustee;
+
+                (vi)    The Master Collateral Agent shall have received
+        certified copies of requests for information or copies (or a similar
+        search report certified by a party acceptable to the Master Collateral
+        Agent), dated a date reasonably near to the date on which the cash flows
+        from such Series will initially be included in the calculation of the
+        Senior Borrowing Base, listing all effective financing statements which
+        name the Borrowers or AFS Funding Trust (in any case, under its present
+        name and any previous name) as debtor and which are filed in the State
+        of Delaware, the State of Nevada or the State of Texas, together with
+        copies of such financing statements (none of which, other than financing
+        statements naming the collateral agent specified in the Spread Account
+        Agreement shall cover any of the Collateral);
+
+                (vii)   The Master Collateral Agent shall have received an
+        opinion of counsel to the Borrowers with respect to the creation,
+        perfection and priority of the security interest in the beneficial
+        interest in the Underlying Trust; and
+
+                (viii)  The Master Collateral Agent shall have received such
+        other documents, instruments, opinions, certificates as the Master
+        Collateral Agent may reasonably deem necessary or desirable.
+
+                                      - 5 -
+
+<PAGE>
+
+                "Designated Non-FSA Series" means the Series 2000-1, Series
+2001-1, and Series 2002-1 and each Series as to which the conditions set forth
+below have been satisfied:
+
+                (i)     the original certificate of beneficial interest in the
+        Underlying Trust for such Series is in the possession of the Master
+        Collateral Agent and is registered in the name of the Master Collateral
+        Agent or accompanied by an instrument of transfer satisfactory to the
+        Master Collateral Agent executed in blank, or, if uncertificated, all
+        action required to perfect the security interest of the Master
+        Collateral Agent therein has been completed to the satisfaction of the
+        Master Collateral Agent, and the Master Collateral Agent shall have
+        received a certificate of ACFS stating that the Master Collateral Agent
+        has possession of such certificate and a perfected security interest in
+        such certificate, and there shall be no other security interests or
+        Liens on such certificate;
+
+                (ii)    ACFS shall have delivered a certificate to the Master
+        Collateral Agent certifying that each of the related Series Transaction
+        Documents is in full force and effect, no party to any such document is
+        in default of its obligations thereunder, there is no default, event
+        which with the passage of time or the giving of notice or both would
+        constitute a default, servicer default, event which with the passage of
+        time or the giving of notice or both would constitute a servicer
+        default, trigger event or like occurrence in the Underlying
+        Transactions, and all of the representations and warranties of the
+        Borrowers set forth in such Series Transaction Documents are true and
+        correct;
+
+                (iii)   The Master Collateral Agent shall have received a
+        certificate of the Borrowers or ACFS stating that ACFS is the servicer
+        for such Series;
+
+                (iv)    At least four Business Days prior to the date the cash
+        flows from such Series will initially be included in the calculation of
+        the Senior Borrowing Base, ACFS shall have provided to the Master
+        Collateral Agent (with a copy to each Facility Representative) a
+        certificate certifying the information with respect to such Series
+        described on Annex 1;
+
+                (v)     The Master Collateral Agent shall have received
+        certified copies of requests for information or copies (or a similar
+        search report certified by a party acceptable to the Master Collateral
+        Agent), dated a date reasonably near to the date on which the cash flows
+        from such Series will initially be included in the calculation of the
+        Senior Borrowing Base, listing all effective financing statements which
+        name the Borrowers or AFS Funding Trust (in any case, under its present
+        name and any previous name) as debtor and which are filed in the State
+        of Delaware, the State of Nevada or the State of Texas, together with
+        copies of such financing statements;
+
+                (vi) The Master Collateral Agent shall have received an opinion
+        of counsel to the Borrowers with respect to the creation, perfection and
+        priority of the security interest in the beneficial interest in the
+        Underlying Trust;
+
+                                      - 6 -
+
+<PAGE>
+
+                (vii)   The Master Collateral Agent shall have received an
+        irrevocable letter of direction from the Borrowers to the trustee party
+        to the related sale and servicing agreement instructing such trustee to
+        pay all amounts otherwise payable to the Borrowers to the Master
+        Collateral Agent, which letter shall have been acknowledged and agreed
+        to by such trustee; and
+
+                (viii)  The Master Collateral Agent shall have received such
+        other documents, instruments, opinions, certificates as the Master
+        Collateral Agent may reasonably deem necessary or desirable.
+
+                "Designated Term Series" means each Designated FSA Series and
+each Designated Non-FSA Series.
+
+                "Determination Date" means, with respect to any Distribution
+Date, the fourth Business Day preceding such Distribution Date.
+
+                "Distribution Date": The 12th day of each calendar month, or, if
+such day is not a Business Day, the immediately following
+Business Day.
+
+                "Eligible Account" means (i) a segregated trust account
+maintained with the Master Collateral Agent or (ii) a segregated trust account
+maintained with a depository institution or trust company organized under the
+laws of the United States of America, or any of the States thereof, or the
+District of Columbia, having a certificate of deposit, short term deposit or
+commercial paper rating of at least A-1 by Standard & Poor's and P-1 by Moody's.
+Except in the event of a transfer pursuant to Section 7(a) of the Revolver
+Security Agreement, such depository institution or trust company shall have been
+approved by written notice from ACFS.
+
+                "Entitlement Order" has the meaning set forth in Section
+8-102(a)(8) of Article 8.
+
+                "Event of Default" has the meaning set forth in Section 25.
+
+                "Facility Representatives" means the Senior Facility
+Representatives and Junior Facility Representatives.
+
+                "Federal Book Entry Security" means an obligation (i) issued by
+the U.S. Treasury, the Federal Home Loan Mortgage Corporation or the Federal
+National Mortgage Association, or any other direct obligation of, or obligation
+fully guaranteed as to timely payment or principal and interest by, the United
+States of America, that is a book-entry security held through the Federal
+Reserve System pursuant to Federal book entry regulations, and (ii) the
+perfection of a security interest in which is governed pursuant to federal
+regulations by Article 8.
+
+                "Final FSA Insurance Termination Date" means the last to occur
+of the FSA Insurance Termination Dates.
+
+                                      - 7 -
+
+<PAGE>
+
+                "Financial Asset" has the meaning set forth in Section
+8-102(a)(9) of Article 8.
+
+                "FSA" means Financial Security Assurance Inc., a New York stock
+insurance company.
+
+                "FSA Insurance Termination Date" means, when used in the
+singular, any of, and when used in the plural, all of, the termination date of
+the 1998-D Insurance and Indemnity Agreement, the 1999-A Insurance and Indemnity
+Agreement, the 1999-B Insurance and Indemnity Agreement, the 1999-C Insurance
+and Indemnity Agreement, 1999-D Insurance and Indemnity Agreement, the 2000-A
+Insurance and Indemnity Agreement, the 2000-B Insurance and Indemnity Agreement,
+the 2000-C Insurance and Indemnity Agreement, the 2000-D Insurance and Indemnity
+Agreement, the 2001-A Insurance and Indemnity Agreement, the 2001-B Insurance
+and Indemnity Agreement, the 2001-C Insurance and Indemnity Agreement, the
+2001-D Insurance and Indemnity Agreement, the 2002-A Insurance and Indemnity
+Agreement, and the 2002-B Insurance and Indemnity Agreement, and the termination
+date of each other insurance and indemnity agreement entered into in connection
+with a Series the spread account of which is subject to the Spread Account
+Agreement.
+
+                "FSA Series" means, at any particular time, all Series with
+respect to which FSA has issued an insurance policy and with respect to which
+the spread accounts are subject to the Spread Account Agreement.
+
+                "Initial Advance Date" has the meaning set forth in Section 14.
+
+                "Instruments" has the meaning set forth in Section 9-105(l)(i)
+of Article 8.
+
+                "Investment Property" has the meaning set forth in Section
+9-115(1)(f) of Article 8.
+
+                "Joinder Supplement" means an agreement among one or more Senior
+Facility Representatives or Junior Facility Representatives, the Borrowers, ACFS
+and the Master Collateral Agent in the form of Exhibit A hereto (appropriately
+completed).
+
+                "Junior Creditors" means any holder of any Junior Debt.
+
+                "Junior Debt" means all of the liabilities and obligations of
+any of the Borrowers evidenced by the Junior Facility Agreements and any other
+instrument, agreement or document relating to or entered into in connection with
+any of the foregoing, and all other amounts now or hereafter owed by any of the
+Borrowers to the Junior Creditors under any of the Junior Facility Agreements.
+
+                "Junior Default" means a default in the payment of any of the
+Junior Debt or in the performance of any term, covenant or condition contained
+in the Junior Facility Agreements
+
+                                      - 8 -
+
+<PAGE>
+
+or any other occurrence permitting any Junior Creditors to accelerate the
+payment of all or any portion of the Junior Debt.
+
+                "Junior Default Notice" means a written notice from a Junior
+Facility Representative to the Master Collateral Agent pursuant to which the
+Master Collateral Agent is notified of the occurrence of a Junior Default, which
+notice shall reasonably identify such Junior Default.
+
+                "Junior Facility Aggregate Amount" means, with respect to any
+date, the sum of the Junior Facility Outstanding Amounts with respect to each
+Junior Facility Agreement on such date.
+
+                "Junior Facility Agreement" means each loan agreement,
+indenture, note, letter of credit reimbursement agreement, reinsurance
+agreement, cash collateral loan agreement or other agreement identified from
+time to time by any Borrower as such and qualifying as such pursuant to the
+terms of Section 15 hereof.
+
+                "Junior Facility Outstanding Amount" means, with respect to a
+Junior Facility Agreement and any date, the outstanding principal amount of any
+Borrower's repayment or reimbursement obligations under such Junior Facility
+Agreement on such date.
+
+                "Junior Facility Representative" means, with respect to any
+Junior Facility Agreement, the party identified as such in the Joinder
+Supplement executed pursuant to Section 15 in connection with Junior Facility
+Agreement qualifying as such hereunder.
+
+                "Lien" means, with respect to any asset, any mortgage, pledge,
+hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or
+other), preference, priority, security agreement or preferential arrangement of
+any kind or nature whatsoever (including any conditional sale or other title
+retention agreement relating to such asset).
+
+                "Master Collateral Agent" has the meaning specified in the
+Preamble.
+
+                "MCA Servicer's Certificate" has the meaning specified in
+Section 6.
+
+                "Obligations" means all obligations (monetary or otherwise) of
+the Borrowers to (a) the Master Collateral Agent, the Revolver Collateral Agent,
+the Revolver Administrative Agent, and the lenders and agents parties to the
+Revolving Credit Agreement, (b) the parties providing loans or credit
+enhancement under the other Senior Facility Agreements and (c) the parties
+providing loans or credit facilities under the Junior Facility Agreements.
+
+                "Permitted Lien" means, with respect to any Person, (i) any Lien
+for taxes, assessments or other governmental charges or levies not yet subject
+to penalties for non-payment or the validity, applicability or amount of which
+is being contested in good faith by appropriate legal proceedings and with
+respect to which adequate reserves in accordance with generally
+
+                                      - 9 -
+
+<PAGE>
+
+accepted accounting principles have been established by such Person; (ii) any
+Lien which is imposed by law (such as those of mechanics, carriers and
+warehousemen), if payment of the obligation secured thereby is not yet due or
+the validity, the applicability or amount of which is being contested in good
+faith by appropriate legal proceedings and with respect to which adequate
+reserves in accordance with generally accepted accounting principles have been
+established by such Person; and (iii) judgment Liens in existence less than five
+days after the entry thereof or with respect to which execution has been stayed,
+so long as the aggregate amount of all such judgment Liens at any time does not
+exceed $100,000, or judgment Liens the payment of which is covered in full
+(subject to a customary deductible) by insurance.
+
+                "Physical Property" means personal property constituting
+Instruments, including bankers' acceptances, commercial paper, negotiable
+certificates of deposit and other obligations that are susceptible of physical
+delivery.
+
+                "Proceeding" means any voluntary or involuntary insolvency,
+bankruptcy, receivership, custodianship, liquidation, dissolution,
+reorganization, assignment for the benefit of creditors, appointment of a
+custodian, receiver, trustee or other officer with similar powers or any other
+proceeding for the liquidation, dissolution or other winding up of a person or
+entity.
+
+                "Reorganization Subordinated Securities" means any equity
+securities, notes or other debt securities issued pursuant to a plan of
+reorganization or restructuring in any Proceeding in substitution for all or any
+portion of the Junior Debt.
+
+                "Required Facility Representatives" means, on any date, (a) so
+long as any amount is outstanding under any Senior Facility Agreement or any
+commitment under any Senior Facility Agreement is in effect, the Required Senior
+Facility Representatives and (b) thereafter, the Required Junior Facility
+Representatives.
+
+                "Required Junior Facility Representatives" means, on any date,
+Junior Facility Representatives with respect to Junior Facility Agreements
+representing Junior Facility Outstanding Amounts in excess of 50% of the Junior
+Facility Aggregate Amount on such date.
+
+                "Required Senior Facility Representatives" means, on any date,
+(i) with respect to declaring Events of Default and/or exercising remedies with
+respect thereto, (A) if a Senior Borrowing Base Deficiency exists, Senior
+Facility Representatives with respect to Senior Facilities Agreements
+representing Senior Facility Notional Amounts in excess of 66-2/3% of the Senior
+Facility Aggregate Amount on such date or (B) if no Senior Borrowing Base
+Deficiency exists, all Senior Facility Representatives and (ii) with respect to
+all other matters, Senior Facility Representatives with respect to Senior
+Facility Agreements representing Senior Facility Notional Amounts in excess of
+50% of the Senior Facility Aggregate Amount on such date.
+
+                "Residual Interests" means, collectively, the Series 2000-1
+Residual Interest, the Series 2001-1 Residual Interest, the Series 2002-1
+Residual Interest, and the certificates of beneficial interest in each
+Underlying Trust with respect to each Designated Non-FSA Series.
+
+                                     - 10 -
+
+<PAGE>
+
+                "Revolver Administrative Agent" has the meaning specified in the
+Preamble.
+
+                "Revolver Collateral Agent" has the meaning specified in the
+Preamble.
+
+                "Revolver Collateral" means the property of the Borrowers in
+which a security interest has been granted by the Borrowers pursuant to the
+terms of the Revolver Security and Collateral Agent Agreement, dated as of the
+date hereof, among the Borrowers, ACFS, the Revolver Collateral Agent and the
+Revolver Administrative Agent, as the same may from time to time be amended,
+supplemented or otherwise modified.
+
+                "Revolver Excess Spread" means any amounts received by the
+Master Collateral Agent from the Revolver Collateral Agent pursuant to Section
+6(vi) of the Revolver Security Agreement.
+
+                "Revolver Security Agreement": the Revolver Security and
+Collateral Agent Agreement, dated as of the date hereof, among the Borrowers,
+ACFS, the Revolver Collateral Agent and the Revolver Administrative Agent, as
+the same may be amended, supplemented or otherwise modified from time to time.
+
+                "Revolving Credit Agreement" has the meaning set forth in the
+recitals.
+
+                "Secured Parties" means, collectively, (a) the Master Collateral
+Agent, the Revolver Collateral Agent, the Revolver Administrative Agent, and the
+lenders and agents parties to the Revolving Credit Agreement, (b) the parties
+providing loans or credit enhancement under the other Senior Facility Agreements
+and (c) the parties providing loans or credit facilities under the Junior
+Facility Agreements, and their respective successors and assigns, as their
+interests may appear.
+
+                "Securities Account" has the meaning set forth in Section
+8-501(a) of Article 8.
+
+                "Security Entitlement" has the meaning set forth in Section
+8-102(a)(17) of Article 8.
+
+                "Securities Intermediary" has the meaning set forth in Section
+8-102(a)(14) of Article 8.
+
+                "Senior Borrowing Base" means, at any time, the amount
+determined by ACFS and confirmed by the Master Collateral Agent with respect to
+all Designated Term Series pursuant to the cash flow model described in Annex 1.
+
+                "Senior Borrowing Base Certificate" has the meaning set forth in
+Section 5(g).
+
+                "Senior Borrowing Base Deficiency" means, at any time, the
+Senior Facility Aggregate Amount exceeds the Senior Borrowing Base at such time
+and such condition has
+
+                                     - 11 -
+
+<PAGE>
+
+existed (x) if such condition is the result, in whole or in part, of a change by
+S & P in the "Modeling Assumptions" used pursuant to Annex 1 to calculate the
+Senior Borrowing Base, on two consecutive Distribution Dates or (y) otherwise,
+for five Business Days.
+
+                "Senior Borrowing Base Interim Deficiency" means, at any time,
+the Senior Facility Aggregate Amount exceeds the Senior Borrowing Base at such
+time and such condition has not existed on two consecutive Distribution Dates.
+
+                "Senior Creditors" means any holder of any Senior Debt.
+
+                "Senior Debt" means all of the liabilities and obligations of
+any Borrower evidenced by the Senior Facility Agreements and any notes issued
+thereunder and any other instrument, agreement or document relating to or
+entered into in connection with any of the foregoing, and all other amounts now
+or hereafter owed by any Borrower to the Senior Creditors under any of the
+Senior Facility Agreements.
+
+                "Senior Default" means a default in the payment of any of the
+Senior Debt or in the performance of any term, covenant or condition contained
+in the Senior Facility Agreements or any other occurrence permitting any Senior
+Creditors to accelerate the payment of all or any portion of the Senior Debt.
+
+                "Senior Default Notice" means a written notice from a Senior
+Facility Representative to the Master Collateral Agent pursuant to which the
+Master Collateral Agent is notified of the occurrence of a Senior Default, which
+notice shall reasonably identify such Senior Default.
+
+                "Senior Excluded Collateral" means the property of any Borrower
+in which a security interest has been granted by such Borrower pursuant to the
+terms of the Senior Facility Agreements to secure amounts due under such
+Agreements.
+
+                "Senior Facility Aggregate Amount" means, with respect to any
+date, the sum of the Senior Facility Notional Amounts with respect to each
+Senior Facility Agreement on such date.
+
+                "Senior Facility Agreement" means each of the Revolving Credit
+Agreement and related notes and each other note, loan agreement, letter of
+credit reimbursement agreement, reinsurance agreement, cash collateral loan
+agreement or other agreement identified from time to time by the Borrowers as
+such and qualifying as such pursuant to the terms of Section 13 hereof.
+
+                "Senior Facility Allocated Amount" means, with respect to a
+Senior Facility Agreement and any Distribution Date, the product of (a) the
+Available Funds for such Distribution Date and (b) the Senior Facility
+Allocation Percentage with respect to such Senior Facility Agreement on such
+date.
+
+                                     - 12 -
+
+<PAGE>
+
+                "Senior Facility Allocation Percentage" means, with respect to a
+Senior Facility Agreement and any Distribution Date, the percentage equivalent
+of a fraction, the numerator of which is the Senior Facility Notional Amount
+with respect to such Senior Facility Agreement for such Distribution Date and
+the denominator of which is the total of the Senior Facility Notional Amounts
+with respect to all Senior Facility Agreements on such Distribution Date.
+
+                "Senior Facility Excess Spread" means, on any Distribution Date
+with respect to a Senior Facility Agreement, any cash flows from underlying
+collateral in excess of all amounts required to be paid to the Senior Creditors
+party to such agreement on such date.
+
+                "Senior Facility Notional Amount" means, with respect to a
+Senior Facility Agreement and any Distribution Date, the amount specified as
+such in such Senior Facility Agreement with respect to such date, provided,
+however, that the Senior Facility Notional Amount with respect to any Senior
+Facility Agreement may only be increased in accordance with the provisions of
+Section 14.
+
+                "Senior Facility Representative" means (a) with respect to the
+Revolving Credit Agreement, (i) with respect to distributions of amounts
+pursuant to clauses (ii), (iii) and (iv) of Section 6, the Lender Collateral
+Agent and (ii) in all other cases, collectively, the Required Lenders (as
+defined in the Revolving Credit Agreement) and (b) with respect to any other
+Senior Facility Agreement, the party identified as such in the Joinder
+Supplement executed pursuant to Section 13 in connection with Senior Facility
+Agreement qualifying as such hereunder.
+
+                "Senior Facility Required Amount" means, with respect to a
+Senior Facility Agreement and any Distribution Date, the aggregate amount due to
+the Secured Parties under such Senior Facility Agreement on such Distribution
+Date less the amount of funds available pursuant to the terms of such Senior
+Facility Agreement to pay such amount on such date.
+
+                "Senior Facility Shortfall Amount" means, with respect to a
+Senior Facility Agreement and any Distribution Date, the excess, if any, of the
+Senior Facility Required Amount with respect to such Senior Facility Agreement
+on such Distribution Date over the Senior Facility Allocated Amount with respect
+to such Senior Facility Agreement on such Distribution Date.
+
+                "Series" has the meaning set forth in the recitals.
+
+                "Series Transaction Documents" means, with respect to any
+Series, the pooling and servicing agreement (or equivalent document by any other
+name), sale and servicing agreement, indenture, insurance and indemnity
+agreement, if any, notes, certificates of beneficial interest, trust agreements,
+transfer agreements, contribution agreements, and, if such Series is an FSA
+Series, the related supplement to the Spread Account Agreement and, if such
+Series is not an FSA Series, any related credit enhancement documents.
+
+                                     - 13 -
+
+<PAGE>
+
+                "Series 2000-1 Residual Interest" means the certificate of
+beneficial interest in the AmeriCredit Automobile Receivables Trust 2000-1 and
+all rights to payment with respect thereto and all proceeds thereof.
+
+                "Series 2001-1 Residual Interest" means the certificate of
+beneficial interest in the AmeriCredit Automobile Receivables Trust 2001-1 and
+all rights to payment with respect thereto and all proceeds thereof.
+
+                "Series 2002-1 Residual Interest" means the certificate of
+beneficial interest in the AmeriCredit Automobile Receivables Trust 2002-1 and
+all rights to payment with respect thereto and all proceeds thereof.
+
+                "Spread Account Agreement": That certain Spread Account
+Agreement, dated as of December 1, 1994, as amended and restated as of May 11,
+1998, among AFS Funding, FSA, Lasalle National Bank, Harris Trust and Savings
+Bank and Bank One, N.A., as amended, restated, modified or supplemented from
+time to time.
+
+                "UCC" means the Uniform Commercial Code as in effect in each
+relevant jurisdiction.
+
+                "Uncertificated Security" has the meaning set forth in Section
+8-102(a)(18) of Article 8.
+
+                "Underlying Transactions" means, when used in the singular, any
+of, and when used in the plural, all of, the transactions contemplated by each
+of 1998-D Insurance and Indemnity Agreement, the 1999-A Insurance and Indemnity
+Agreement, the 1999-B Insurance and Indemnity Agreement, the 1999-C Insurance
+and Indemnity Agreement, the 1999-D Insurance and Indemnity Agreement, the
+2000-A Insurance and Indemnity Agreement, the 2000-B Insurance and Indemnity
+Agreement, the 2000-C Insurance and Indemnity Agreement, the 2000-D Insurance
+and Indemnity Agreement, the 2001-A Insurance and Indemnity Agreement, the
+2001-B Insurance and Indemnity Agreement, the 2001-C Insurance and Indemnity
+Agreement, the 2001-D Insurance and Indemnity Agreement, the 2002-A Insurance
+and Indemnity Agreement, the 2002-B Insurance and Indemnity Agreement, the
+1998-D Sale and Servicing Agreement, the 1999-A Sale and Servicing Agreement,
+the 1999-B Sale and Servicing Agreement, the 1999-C Sale and Servicing
+Agreement, the 1999-D Sale and Servicing Agreement, the 2000-1 Sale and
+Servicing Agreement, the 2000-A Sale and Servicing Agreement, the 2000-B Sale
+and Servicing Agreement, the 2000-C Sale and Servicing Agreement, the 2000-D
+Sale and Servicing Agreement, the 2001-1 Sale and Servicing Agreement, the
+2001-A Sale and Servicing Agreement, the 2001-B Sale and Servicing Agreement,
+the 2001-C Sale and Servicing Agreement, the 2001-D Sale and Servicing
+Agreement, the 2002-A Sale and Servicing Agreement, the 2002-1 Sale and
+Servicing Agreement, the 2002-B Sale and Servicing Agreement, each insurance and
+indemnity agreement and each sale and servicing agreement entered into in
+connection with a Designated Term Series
+
+                                     - 14 -
+
+<PAGE>
+
+and all other transactions anticipated by the documents executed in connection
+with any of the foregoing.
+
+                "Underlying Trust" means, in the singular any of the AmeriCredit
+Automobile Receivables Trust 1998-D, the AmeriCredit Automobile Receivables
+Trust 1999-A, the AmeriCredit Automobile Receivables Trust 1999-B, the
+AmeriCredit Automobile Receivables Trust 1999-C, the AmeriCredit Automobile
+Receivables Trust 1999-D, the AmeriCredit Automobile Receivables Trust 2000-1,
+the AmeriCredit Automobile Receivables Trust 2000-A, the AmeriCredit Automobile
+Receivables Trust 2000-B, the AmeriCredit Automobile Receivables Trust 2000-C,
+the AmeriCredit Automobile Receivables Trust 2000-D, the AmeriCredit Automobile
+Receivables Trust 2001-1, the AmeriCredit Automobile Receivables Trust 2001-A,
+the AmeriCredit Automobile Receivables Trust 2001-B, the AmeriCredit Automobile
+Receivables Trust 2001-C, the AmeriCredit Automobile Receivables Trust 2001-D,
+the AmeriCredit Automobile Receivables Trust 2002-A, the AmeriCredit Automobile
+Receivables Trust 2002-1, the AmeriCredit Automobile Receivables Trust 2002-B,
+and each trust established in connection with a Designated Term Series and in
+the plural, all of such trusts.
+
+                "Underlying Trustees": in the singular, the trustees, trust
+collateral agents or collateral agents in the Underlying Transactions and any
+other trustee designated with respect to the Underlying Transactions.
+
+                Section 2       Appointment of Master Collateral Agent. The
+Secured Parties party to the Revolving Credit Agreement have authorized the
+appointment of Deutsche Bank Trust Company Americas as Master Collateral Agent
+hereunder and subject to the terms and conditions hereof. Subject to the terms
+and conditions hereof, each other Facility Representative, by its execution of a
+Joinder Supplement, hereby appoints Deutsche Bank Trust Company Americas as
+Master Collateral Agent hereunder, and Deutsche Bank Trust Company Americas
+hereby accepts such appointment.
+
+                Section 3       Borrowers' Grant of Security Interest. As
+security for the prompt payment or performance in full when due, whether at
+stated maturity, by acceleration or otherwise, of all Obligations and of all
+amounts secured by this Agreement, the Borrowers hereby assign and pledge to the
+Master Collateral Agent, for the benefit of the Secured Parties, and grant to
+the Master Collateral Agent, for the benefit of the Secured Parties, a perfected
+security interest in and lien upon, all of the Borrowers' right, title and
+interest in and to the following, in each case whether now or hereafter existing
+or in which Borrowers now have or hereafter acquire an interest and wherever the
+same may be located (collectively, the "Collateral"):
+
+                (a)     the beneficial interest in AFS Funding Trust represented
+                        by the AFSFT Class A Certificate;
+
+                                     - 15 -
+
+<PAGE>
+
+                (b)     all rights of AFS Funding to profits, distributions and
+                        proceeds from the beneficial interest described in (a)
+                        (together with the beneficial interest described in (a),
+                        the "AFSFT Class A Certificate Collateral");
+
+                (c)     the Series 2000-1 Residual Interest, the Series 2001-1
+                        Residual Interest, the Series 2002-1 Residual Interest,
+                        and each other Residual Interest that may from time to
+                        time hereafter be granted and pledged by the Borrowers
+                        under this Agreement;
+
+                (d)     all of the following (the "Account Collateral"):
+
+                                (1)     the Collateral Account and all funds
+                        held in the Collateral Account and all certificates and
+                        instruments, if any, from time to time representing or
+                        evidencing the Collateral Account or such funds,
+
+                                (2)     all investments from time to time of
+                        amounts in the Collateral Account, and all certificates
+                        and instruments, if any, from time to time representing
+                        or evidencing such investments,
+
+                                (3)     all Clearing Corporation Securities,
+                        Certificated Securities, Uncertificated Securities,
+                        Federal Book-Entry Securities, Security Entitlements,
+                        Investment Property, notes, certificates of deposit and
+                        other instruments from time to time delivered to or
+                        otherwise possessed by the Master Collateral Agent or
+                        any Secured Party or any assignee, agent or Securities
+                        Intermediary on behalf of the Master Collateral Agent or
+                        any Secured Party in substitution for or in addition to
+                        any of the then existing Account Collateral, and
+
+                                (4)     all interest, dividends, cash,
+                        instruments and other property from time to time
+                        received, receivable or otherwise distributed in respect
+                        of or in exchange for any and all of the then existing
+                        Account Collateral;
+
+                (e)     all Accounts, Chattel Paper, Documents, Goods, General
+                        Intangibles, Instruments and Investment Property of the
+                        Borrowers excluding the Revolver Collateral and the
+                        Senior Excluded Collateral;
+
+                (f)     all additional property that may from time to time
+                        hereafter be granted and pledged by the Borrowers or by
+                        anyone on its behalf under this Agreement, including the
+                        deposit with the Master Collateral Agent of additional
+                        moneys by the Borrowers; and
+
+                (g)     all Proceeds, accessions, substitutions, rents and
+                        profits of any and all of the foregoing Collateral
+                        (including proceeds that constitute property of the
+                        types described in paragraphs (a) through (f) above)
+                        and, to the extent not
+
+                                     - 16 -
+
+<PAGE>
+
+                        otherwise included, all payments under insurance
+                        (whether or not the Master Collateral Agent or a Secured
+                        Party or any assignee or agent on behalf of the Master
+                        Collateral Agent or a Secured Party is the loss payee
+                        thereof) or any indemnity, warranty or guaranty payable
+                        by reason of loss, non-payment or damage to or otherwise
+                        with respect to any of the foregoing Collateral.
+
+                Section 4       Borrowers Remain Liable. Notwithstanding
+anything in this Agreement, (a) except to the extent of ACFS's duties under this
+Agreement, each Borrower shall remain liable under the Series Transaction
+Documents to which it is a party (the "Borrower Agreements") to perform all of
+its duties and obligations thereunder to the same extent as if this Agreement
+had not been executed, (b) the exercise by a Secured Party or the Master
+Collateral Agent of any of its rights under this Agreement shall not release any
+Borrower or ACFS from any of their respective duties or obligations under the
+Borrower Agreements to which it is a party or other agreements included in the
+Collateral, (c) the Revolver Collateral Agent, the Secured Parties and the
+Master Collateral Agent shall not have any obligation or liability under the
+Borrower Agreements to which it is a party or other agreements included in the
+Collateral by reason of this Agreement, and (d) neither the Revolver Collateral
+Agent, the Master Collateral Agent nor any of the Secured Parties shall be
+obligated to perform any of the obligations or duties of the Borrowers or ACFS
+under the Borrower Agreements or other agreements included in the Collateral or
+to take any action to collect or enforce any claim for payment assigned under
+this Agreement.
+
+                Section 5       Covenants Regarding the Collateral.
+
+        (a)     Offices and Records. ACFS and the Borrowers will permit
+representatives of the Revolver Collateral Agent, the Facility Representatives
+and the Master Collateral Agent, at the expense of ACFS in the case of one visit
+per year, at any time and from time to time during normal business hours (i) to
+inspect and make copies of and abstracts from its records regarding the
+Collateral and Designated Term Series, and (ii) to visit the properties of the
+Borrowers or ACFS utilized in connection with the servicing of the Designated
+Term Series for the purpose of examining such records, and to discuss matters
+relating to the Designated Term Series or the Borrowers' or ACFS' performance
+under this Agreement with any officer or employee of the Borrowers or ACFS
+having knowledge of such matters, provided that the Person seeking such
+information has given the Borrowers or ACFS prior written notice of its intent
+to inspect or visit and provided, further that no such Person shall so inspect
+or visit the Borrowers or ACFS more frequently than once per quarter unless a
+Default or an Event of Default has occurred and is continuing or ACFS otherwise
+consents to such additional inspection or visit. If a Default or Event of
+Default has occurred and is continuing, such inspection or visit shall be at the
+expense of the Borrowers. Each of the Borrowers and ACFS agrees to render to the
+Revolver Collateral Agent and the Master Collateral Agent such clerical and
+other assistance as may be reasonably requested with regard to the foregoing.
+Neither Borrower shall change its name, identity or corporate structure to such
+an extent that any financing statement filed by the Master Collateral
+
+                                     - 17 -
+
+<PAGE>
+
+Agent in connection with this Agreement would become seriously misleading,
+unless it shall have given the Master Collateral Agent and the Revolver
+Collateral Agent at least 30 days' prior written notice of such change.
+
+        (b)     Performance of Borrower Agreements. Each Borrower shall (i)
+perform and observe all the terms and provisions of the Borrower Agreements to
+be performed or observed by it, maintain the Borrower Agreements to which it is
+a party in full force and effect, enforce such Borrower Agreements in accordance
+with their terms and take all such action to such end as may be from time to
+time requested by the Master Collateral Agent and (ii) upon request of the
+Master Collateral Agent, make to any other party to such Borrower Agreements
+such demands and requests for information and reports or for action as such
+Borrower is entitled to make under the Borrower Agreements.
+
+        (c)     Notice of Material Adverse Claim. Each of the Borrowers and ACFS
+shall advise the Master Collateral Agent and each Facility Representative
+promptly, in writing and in reasonable detail, (i) of any Lien, other than a
+Permitted Lien, known to it made or asserted against any of the Collateral, and
+(ii) of the occurrence of any event which would have a material adverse effect
+on the value of the Collateral or on the assignments and security interests, or
+priority or perfection thereof, granted by the Borrowers in this Agreement or
+the ability of the Master Collateral Agent to enforce its security interest in
+the Collateral or foreclose on the Collateral.
+
+        (d)     Further Assurances; Financing Statements.
+
+                                (1)     Each of the Borrowers and ACFS agrees
+                        that at any time and from time to time, at its expense,
+                        it shall promptly execute and deliver all further
+                        instruments and documents, and take all reasonable
+                        further action, that may be necessary or desirable or
+                        required by applicable law or that the Master Collateral
+                        Agent or any Facility Representative may request to
+                        perfect and protect the assignments and security
+                        interests granted or purported to be granted by this
+                        Agreement or to enable the Master Collateral Agent or
+                        any of the Secured Parties to exercise and enforce its
+                        rights and remedies under this Agreement with respect to
+                        any Collateral. Without limiting the generality of the
+                        foregoing, the Borrowers shall execute and file such
+                        financing or continuation statements, or amendments
+                        thereto, and such other instruments or notices as may be
+                        necessary or desirable or required by applicable law or
+                        that the Master Collateral Agent or any Facility
+                        Representative may reasonably request to protect and
+                        preserve the assignments and security interests granted
+                        by this Agreement. On the Effective Date, AFS Funding
+                        shall Deliver to the Master Collateral Agent the AFSFT
+                        Class A Certificate and the Borrowers shall deliver to
+                        the Master Collateral Agent all certificates
+                        representing the Residual Interests together with
+                        instruments of transfer and bond powers,
+
+                                     - 18 -
+
+<PAGE>
+
+                        each executed in blank.
+
+                                (2)     Upon receipt by an authorized officer of
+                        the Master Collateral Agent of written request from any
+                        Lender or Agent party to the Revolving Credit Agreement
+                        or any Facility Representative to file one or more
+                        financing or continuation statements, or amendments
+                        thereto, relating to all or any part of the Collateral,
+                        the Master Collateral Agent will employ legal counsel on
+                        behalf of the Secured Parties to prepare, at the expense
+                        of the Borrowers, such financing statements,
+                        continuation statements or other instruments required
+                        under this Section for execution by the Master
+                        Collateral Agent who will return such documents to legal
+                        counsel for filing in the appropriate jurisdictions as
+                        necessary. The Master Collateral Agent shall have no
+                        responsibility or obligation, at any time, to monitor,
+                        inquire or investigate with respect to the need for any
+                        financing statements, continuation statements or such
+                        other instruments. The Borrowers and each Secured Party
+                        hereby severally authorize the Master Collateral Agent
+                        to file one or more financing or continuation
+                        statements, and amendments thereto, relating to all or
+                        any part of the Collateral without the signature of the
+                        Borrowers or the Secured Parties where permitted by law
+                        and to cause such statements and amendments to be filed
+                        at the expense of the Borrowers (which may include fees
+                        and expenses for services of legal counsel). A carbon,
+                        photographic or other reproduction of this Agreement or
+                        any financing statement covering the Collateral or any
+                        part thereof shall be sufficient as a financing
+                        statement where permitted by law. The Master Collateral
+                        Agent will promptly send, or cause counsel to send, to
+                        the Borrowers any financing or continuation statements
+                        thereto which it files, or causes to be filed, without
+                        the signature of the Borrowers and will promptly send,
+                        or cause counsel to send, to each Secured Party and the
+                        Borrowers, as the case may be, any financing or
+                        continuation statements thereto which it files, or
+                        causes to be filed, without the signature of the Secured
+                        Parties except, in the case of filings of copies of this
+                        Agreement as financing statements, the Master Collateral
+                        Agent will promptly send, or cause counsel to send, to
+                        the Borrowers and each Secured Party, as the case may
+                        be, the filing or recordation information with respect
+                        thereto.
+
+                                (3)     Each of the Borrowers and ACFS shall
+                        furnish to the Master Collateral Agent and each Facility
+                        Representative from time to time such statements and
+                        schedules further identifying and describing the
+                        Collateral and such other reports in connection with the
+                        Collateral as any Facility Representative may reasonably
+                        request, all in reasonable detail.
+
+                                     - 19 -
+
+<PAGE>
+
+        (e)     Opinions as to Collateral. Not more than 90 days nor less than
+30 days prior to each August 1, commencing August 1, 2003, during the term of
+this Agreement the Borrowers shall, at their own cost and expense, furnish to
+the Master Collateral Agent and each Facility Representative an opinion of
+counsel either (a) stating that, in the opinion of such counsel, such action has
+been taken with respect to the execution and filing of any financing statements
+and continuation statements and other actions as are necessary to perfect,
+maintain and protect the lien and security interest of the Master Collateral
+Agent (and the priority thereof), with respect to the Collateral against all
+creditors of and purchasers from the Borrowers and reciting the details of such
+action, or (b) stating that, in the opinion of such counsel, no such action is
+necessary to maintain such perfected lien and security interest. Such opinion of
+counsel shall further describe each execution and filing of any financing
+statements and continuation statements and such other actions as will, in the
+opinion of such counsel, be required to perfect, maintain and protect the lien
+and security interest of the Master Collateral Agent with respect to the
+Collateral against all creditors of and purchasers from the Borrowers for a
+period, specified in such opinion, continuing until a date not earlier than
+eighteen months from the date of such opinion.
+
+        (f)     Non-Interference. Neither Borrower shall (i) waive or alter any
+of its rights under the Collateral (or waive, alter or amend any agreement or
+instrument relating thereto) without the prior written consent of the Master
+Collateral Agent; or (ii) fail to pay any tax, assessment, charge or fee levied
+or assessed against the Collateral, or to defend any action, if such failure to
+pay or defend may adversely affect the priority or enforceability of its right,
+title or interest in and to the Collateral or the Master Collateral Agent's
+rights in, lien on, and security interest in the Collateral or the perfection,
+priority or enforcement thereof; or (iii) take any action, or fail to take any
+action, if such action or failure to take action, will interfere with the
+enforcement of any rights hereunder.
+
+        (g)     Borrowing Base Calculations. Until this Agreement shall have
+been terminated in accordance with its terms, ACFS agrees that it will furnish
+to the Master Collateral Agent and each Facility Representative and each
+"Lender" party to the Revolving Credit Agreement (as defined therein), as soon
+as available and in any event on or before each Determination Date, a
+certificate in the form of Exhibit B (a "Senior Borrowing Base Certificate")
+setting forth the Senior Borrowing Base and each Senior Facility Notional
+Amount. ACFS shall also deliver a Senior Borrowing Base Certificate to the
+Master Collateral Agent and each Facility Representative in connection with each
+additional Designated Series and each proposed change in a Senior Facility
+Notional Amount. The Master Collateral Agent shall promptly confirm the accuracy
+of such calculations, and, if it is unable to confirm such calculations, shall
+promptly give notice thereof to ACFS and each Facility Representative. In
+addition, on March 1 and August 1 of each year, commencing March 1, 2003, AFCS
+agrees to cause a firm of nationally recognized independent accountants to
+perform (and report the results thereof to the Master Collateral Agent and each
+Facility Representative) agreed upon procedures acceptable to the Required
+Facility Representatives which will (1) verify the modeling inputs against the
+underlying terms of the Designated Term Series, (2) recalculate the cash flows
+using the
+
+                                     - 20 -
+
+<PAGE>
+
+methodology outlined in Annex 1 of this Agreement and (3) calculate the total
+Senior Borrowing Base pursuant to said Annex 1.
+
+        (h)     Appointment of Servicer. If FSA or other credit enhancement
+provider is not the "Controlling Party" with respect to any Designated Series,
+as defined therein, to the extent either Borrower or AFS Funding Trust has
+control over the appointment of a successor servicer with respect to such
+Designated Series under the related Series Transaction Documents, the Borrowers
+will not appoint, and will cause AFS Funding not to appoint, any successor
+servicer without the consent of the Required Facility Representatives.
+
+                Section 6       Distributions.
+
+        On each Distribution Date by 2:00 p.m. (New York time), the Master
+Collateral Agent shall distribute, from the amounts on deposit in the Collateral
+Account, including Senior Facility Excess Spread deposited therein (the
+"Available Funds"), in accordance with written instructions from ACFS delivered
+to the Master Collateral Agent in substantially the form of Exhibit C hereto (a
+"MCA Servicer's Certificate") at least three (3) Business Days prior to such
+Distribution Date, the following amounts, if any, for such Distribution Date in
+the following order of priority:
+
+                (i)     FIRST, to the extent not previously paid by ACFS or
+        otherwise by or on behalf of the Borrowers to the Master Collateral
+        Agent, the Capped Expenses; and
+
+                (ii)    SECOND, to each Senior Facility Representative for
+        application to amounts due to the Secured Parties under the related
+        Senior Facility Agreement in accordance with the terms of such Senior
+        Facility Agreement, the lesser of the Senior Facility Allocated Amount
+        with respect to the related Senior Facility Agreement for such
+        Distribution Date and the Senior Facility Required Amount with respect
+        to such Senior Facility Agreement for such Distribution Date; and
+
+                (iii)   THIRD, to each Senior Facility Representative for
+        application to amounts due to the Secured Parties under the related
+        Senior Facility Agreement in accordance with the terms of such Senior
+        Facility Agreement, the Senior Facility Shortfall Amount (after giving
+        effect to distributions pursuant to clause SECOND) with respect to the
+        related Senior Facility Agreement for such Distribution Date, provided
+        that if the aggregate amount of Senior Facility Shortfall Amounts (after
+        giving effect to distributions pursuant to clause SECOND) with respect
+        to such Distribution Date exceeds the amount of the Available Funds that
+        are available for distribution pursuant to this clause THIRD on such
+        Distribution Date and a Senior Borrowing Base Deficiency shall not have
+        occurred and be continuing on such Distribution Date, such amount of the
+        Available Amount shall be distributed to each Senior Facility
+        Representative pro rata based on the respective Senior Facility Notional
+        Amounts; and provided, further, that the amount distributed to a Senior
+        Facility Representative pursuant to the preceding proviso
+
+                                     - 21 -
+
+<PAGE>
+
+        shall not exceed the related Senior Facility Shortfall Amount (after
+        giving effect to distributions pursuant to clause SECOND) with respect
+        to such Distribution Date; and
+
+                (iv)    FOURTH, to each Senior Facility Representative for
+        application to amounts due to the Secured Parties under the related
+        Senior Facility Agreement in accordance with the terms of such Senior
+        Facility Agreement, the Senior Facility Shortfall Amount with respect to
+        the related Senior Facility Agreement for such Distribution Date
+        remaining after giving effect to clause THIRD, pro rata based on the
+        respective remaining Senior Facility Shortfall Amounts; and
+
+                (v)     FIFTH, to the extent not paid pursuant to clause FIRST
+        of Section 6(a), any fees, costs and expenses due to the Master
+        Collateral Agent hereunder; and
+
+                (vi)    the remaining Available Funds shall be paid to, or at
+        the written direction of, the Borrowers or to any Junior Facility
+        Representative entitled thereto;
+
+provided, that ACFS may allocate the amount of the Available Funds that are
+available for distribution pursuant to clause THIRD and/or clause FOURTH on such
+Distribution Date in such other manner as it may determine in its sole
+discretion so long as after giving effect to the payment of such allocated
+amounts, no Senior Facility Shortfall Amount will exist; and provided, further,
+that if a Senior Borrowing Base Interim Deficiency shall exist on such
+Distribution Date, then ACFS may elect to retain the amount of the Available
+Funds that are available for distribution pursuant to clause THIRD in the
+Collateral Account until the succeeding Distribution Date.
+
+                Section 7       The Collateral Account; Investments.
+
+        (a)     On or prior to the Closing Date, the Borrowers shall establish
+an account (the "Collateral Account") in the name of the Master Collateral Agent
+for the benefit of the Secured Parties. The Collateral Account shall be an
+Eligible Account which is a segregated non-interest bearing trust account
+initially established with the Master Collateral Agent. If at any time the
+Collateral Account ceases to be an Eligible Account, any Facility Representative
+may direct the Master Collateral Agent in writing to transfer such account to
+another institution so long as such account shall meet the requirements of an
+Eligible Account. Each of ACFS and the Borrowers will cause all proceeds of
+Collateral, including, without limitation, distributions on the AFSFT Class A
+Certificate and the Residual Interests together with all Revolver Excess Spread
+and Senior Facility Excess Spread to be deposited in the Collateral Account.
+Each of ACFS and the Borrowers will hold in trust for the Master Collateral
+Agent and will promptly deposit (but in no event later than one Business Day
+after receipt) any amounts it receives in respect thereof in the Collateral
+Account.
+
+        (b)     All amounts held in the Collateral Account shall, to the extent
+permitted by applicable laws, rules and regulations, be invested by the Master
+Collateral Agent, as directed by ACFS in writing (or, if ACFS fails to provide
+such direction, amounts in the Collateral Account
+
+                                     - 22 -
+
+<PAGE>
+
+shall be invested in investments described in clause (d) of the definition of
+Cash Equivalents), in Cash Equivalents that mature not later than one Business
+Day prior to the next succeeding Distribution Date. The amounts held in the
+Collateral Account on the Business Day prior to each Distribution Date shall be
+invested by the Master Collateral Agent in overnight or next-day funds in such
+Cash Equivalents reasonably available to the Master Collateral Agent as directed
+in writing by ACFS for the period of time from the Business Day prior to the
+Distribution Date until such Distribution Date. All income or other gains from
+investment of moneys on deposit in any such account shall be deposited by the
+Master Collateral Agent in the Collateral Account immediately upon receipt. The
+taxpayer identification number associated with the Collateral Account shall be
+that of AFS Funding and each Borrower shall report for Federal, state and local
+income tax purposes, the income, if any, represented by the Collateral Account
+attributable to such Borrower. If any amounts are needed for disbursement from
+the Collateral Account and sufficient uninvested funds are not available therein
+to make such disbursement, the Master Collateral Agent shall cause to be sold or
+otherwise converted to cash a sufficient amount of the investments in such
+account to make such disbursement. Any written direction hereunder shall certify
+that any such investment is authorized by this Section 7. Investments in Cash
+Equivalents shall be made in the name of the Master Collateral Agent on behalf
+of the Secured Parties, and, except as specifically required above, such
+investments shall not be sold or disposed of prior to their maturity. Each and
+every investment of funds in the Collateral Account shall be made in Cash
+Equivalents held by a financial institution that is a Securities Intermediary in
+an account pursuant to an agreement with such financial institution, that
+requires such financial institution to (A) credit such Cash Equivalents to a
+Securities Account exclusively in the name of the Master Collateral Agent, (B)
+comply with Entitlement Orders pertaining to such account originated by the
+Master Collateral Agent without further consent of the Borrowers, (C) not enter
+into any agreement which grants "control" (as defined in Section 8-106 of
+Article 8) of such account (or any interest or property therein) to any Person
+other than the Master Collateral Agent, (D) subordinate any security interest,
+banker's lien, right of setoff or other similar right which such financial
+institution may have in such account to the interest of the Master Collateral
+Agent and (E) expressly treat each item of property as a Financial Asset and
+such account as a Securities Account.
+
+Subject to the other provisions hereof, the Master Collateral Agent shall have
+sole control over each such investment and the income thereon, and any
+certificate or other instrument evidencing any such investment, if any, shall be
+delivered directly to the Master Collateral Agent or its agent, together with
+each document of transfer, if any, necessary to transfer title and a Security
+Entitlement free from any Adverse Claim to such investment to the Master
+Collateral Agent in a manner that complies with this Section 7. All interest,
+dividends, gains upon sale and other income from, or earnings on, investments of
+funds in the Collateral Account shall be deposited in the Collateral Account and
+distributed pursuant to Section 6 hereof. If the Master Collateral Agent is
+given written instructions to invest funds in the Collateral Account in
+investments other than investments of the type described in clause (d) of the
+definition of "Cash Equivalents", the Person giving such instructions agrees to
+assist the Master Collateral Agent in complying with the requirements herein
+with respect to such investments.
+
+                                     - 23 -
+
+<PAGE>
+
+        (c)     With respect to the Account Collateral:
+
+                (i)     any Account Collateral that is held in deposit accounts
+        shall be held solely in the name of the Master Collateral Agent in
+        accounts which satisfy clause (ii) of the definition of Eligible
+        Account; each such deposit account shall be subject to the exclusive
+        custody, dominion and control of the Master Collateral Agent, and the
+        Master Collateral Agent shall have sole signature authority with respect
+        thereto;
+
+                (ii)    any Account Collateral that constitutes Physical
+        Property shall be delivered to the Master Collateral Agent in accordance
+        with paragraph (i) of the definition of "Delivery" and shall be
+        continuously held, pending maturity or disposition, solely by the Master
+        Collateral Agent;
+
+                (iii)   any Account Collateral that constitutes a Certificated
+        Security shall be delivered to the Master Collateral Agent in accordance
+        with paragraph (ii) of the definition of "Delivery" and shall be
+        continuously held, pending maturity or disposition, solely by the Master
+        Collateral Agent;
+
+                (iv)    any such Account Collateral that constitutes an
+        Uncertificated Security (including any investments in money market
+        mutual funds, but excluding any Federal Book Entry Security) and where
+        the issuer thereof is organized in a Revised Article 8 Jurisdiction,
+        shall be delivered to the Master Collateral Agent in accordance with
+        paragraph (iii) of the definition of "Delivery" and shall be maintained,
+        pending maturity or disposition, through continued registration of the
+        Master Collateral Agent's (or its nominee's) ownership of such security;
+        and
+
+                (v)     with respect to any Account Collateral that constitutes
+        a Federal Book Entry Security, the Master Collateral Agent shall
+        maintain and obtain Control over such property.
+
+Effective upon Delivery of any Account Collateral in the form of Physical
+Property, book-entry securities or uncertificated securities, the Master
+Collateral Agent shall be deemed to have represented that it has purchased such
+Account Collateral for value, in good faith and without actual notice of any
+adverse claim thereto.
+
+        (d)     If any amount is on deposit in the Collateral Account on a day
+when (i) there are no amounts due under the Revolving Credit Agreement, (ii) the
+Senior Facility Notional Amount with respect to each Senior Facility Agreement
+(other than the Revolving Credit Agreement) is zero and (iii) the Junior
+Facility Aggregate Amount is zero, the Master Collateral Agent shall pay such
+amount to, or at the written direction of, the Borrowers after it has (x)
+confirmed receipt of such amount and (y) confirmed that the requirements of
+clauses (i), (ii) and (iii) of this paragraph are have been satisfied.
+
+                                     - 24 -
+
+<PAGE>
+
+                Section 8       Fees and Expenses. ACFS covenants and agrees to
+pay to the Master Collateral Agent from time to time, and the Master Collateral
+Agent shall be entitled to, the fees and expenses agreed in writing between ACFS
+and the Master Collateral Agent, and will further pay or reimburse the Master
+Collateral Agent upon its request for all reasonable fees, expenses and
+disbursements incurred or made by the Master Collateral Agent in accordance with
+any of the provisions hereof or any other documents executed in connection
+herewith (including the reasonable compensation and the reasonable expenses and
+disbursements of its counsel and of all persons not regularly in its employ). To
+the extent not paid by ACFS, such fees, expenses and disbursements will be paid
+to the Master Collateral Agent in accordance with the provisions of Section 6.
+The obligations of ACFS under this Section 8 to compensate the Master Collateral
+Agent and to pay or reimburse the Master Collateral Agent for reasonable
+expenses and disbursements shall survive the satisfaction and discharge of this
+Agreement or the earlier resignation or removal of the Master Collateral Agent.
+When the Master Collateral Agent incurs expenses or renders services in
+connection with proceedings under the Bankruptcy Code or any other applicable
+federal or state bankruptcy, insolvency or other similar law, or in case of any
+other comparable judicial proceedings relative to the Borrowers, such expenses
+(including the fees and expenses of its counsel and agents) and the compensation
+for such services are intended to constitute expenses of administration under
+any bankruptcy law or law relating to creditors rights generally.
+
+                Section 9       Representations And Warranties Of The Master
+Collateral Agent. The Master Collateral Agent represents and warrants as of the
+date hereof that:
+
+        (a)     It is a banking organization, validly existing and in good
+standing under the laws of the State of New York;
+
+        (b)     It has full power, authority and legal right to execute, deliver
+and perform this Agreement and has taken all necessary action to authorize the
+execution, delivery and performance by it of this Agreement;
+
+        (c)     The execution, delivery and performance by it of this Agreement
+do not violate any provision of its corporate charter or by-laws;
+
+        (d)     This Agreement has been duly authorized, executed and delivered
+by it and constitutes its legal, valid and binding agreement, enforceable
+against it in accordance with its terms, except as enforceability may be limited
+by bankruptcy, insolvency reorganization or other similar laws affecting the
+enforcement of creditors' rights generally and by general principles of equity.
+
+                Section 10      Resignation By And Removal Of The Master
+Collateral Agent; Successor Master Collateral Agent.
+
+        (a)     The Master Collateral Agent may at any time resign and terminate
+its obligations under this Agreement upon at least 60 days prior written notice
+to the Revolver Collateral Agent,
+
+                                     - 25 -
+
+<PAGE>
+
+each Facility Representative and the Borrowers. No resignation shall be
+effective until a successor Master Collateral Agent shall have been appointed
+and accepted its appointment. Promptly after receipt of notice of the Master
+Collateral Agent's proposed resignation, the Required Facility Representatives
+shall appoint, by written instrument, a successor collateral agent and notify
+the Borrowers thereof. If a successor collateral agent is not appointed in
+accordance with the foregoing procedures, the Master Collateral Agent may
+petition a court of competent jurisdiction to appoint a successor collateral
+agent. One (1) original counterpart of such instrument of appointment shall be
+delivered to each Facility Representative, the Master Collateral Agent, the
+Revolver Collateral Agent, the Borrowers and the successor collateral agent.
+
+        (b)     The Required Facility Representatives, upon at least 60 days
+written notice to the Master Collateral Agent (or, if such removal is for cause,
+such 60 day period may be decreased to no less than twenty Business Days by the
+Required Facility Representatives in their sole discretion), may remove and
+discharge the Master Collateral Agent (or any successor collateral agent
+thereafter appointed) from the performance of its obligations under this
+Agreement. A copy of such notice shall be delivered to each other party hereto.
+Promptly after the giving of notice of removal of the Master Collateral Agent,
+the Required Facility Representatives shall appoint, by written instrument, a
+successor collateral agent and notify the Borrowers thereof. One (1) original
+counterpart of such instrument of appointment shall be delivered to each
+Facility Representative, the Master Collateral Agent, the Revolver Collateral
+Agent, the Borrowers and the successor collateral agent. No such removal shall
+become effective until all outstanding amounts due and owing to the Master
+Collateral Agent are paid in full.
+
+        (c)     In the event of any such resignation or removal, the Master
+Collateral Agent shall promptly transfer to the successor collateral agent, as
+directed in writing by the Required Facility Representatives, physical
+collateral, all accounts, funds and investments being administered under this
+Agreement and shall cooperate with each Facility Representative, the Borrowers
+and the successor collateral agent to facilitate the continued perfection and
+priority of the Lien granted for the benefit of the Secured Parties in the
+Collateral.
+
+                Section 11      Indemnity. ACFS agrees to indemnify, defend and
+hold harmless the Master Collateral Agent and its directors, officers, agents
+and employees against any and all claims, damages, losses, liabilities or
+expenses (including, but not limited to, reasonable attorneys' fees, court costs
+and costs of investigation) of any kind or nature whatsoever arising out of or
+in connection with this Agreement that may be imposed upon, incurred by or
+asserted against the Master Collateral Agent; provided, however, that this
+Section 11 shall not relieve the Master Collateral Agent from liability for its
+willful misconduct or gross negligence, as conclusively determined by a court of
+competent jurisdiction beyond all applicable appeals. The provisions of this
+Section 11 shall survive the resignation or removal of the Master Collateral
+Agent or any successor Master Collateral Agent and the termination of this
+Agreement.
+
+                                     - 26 -
+
+<PAGE>
+
+                Section 12      Limitations Of Liability.
+
+        (a)     The Master Collateral Agent shall not be liable to the
+Borrowers, ACFS, the Revolver Collateral Agent, the Revolver Administrative
+Agent, any other Facility Representative, any other Secured Party or any other
+Person with respect to any action taken or not taken by it in the performance of
+its obligations under this Agreement except in the case of the Master Collateral
+Agent's willful misconduct or gross negligence. The obligations of the Master
+Collateral Agent shall be determined solely by the express provisions of this
+Agreement. No representation, warranty, covenant, agreement, obligation or duty
+of the Master Collateral Agent shall be implied with respect to this Agreement
+or the Master Collateral Agent's services hereunder.
+
+        (b)     The Master Collateral Agent may conclusively rely, and shall be
+fully protected in acting or refraining from acting, upon and need not verify
+the accuracy of (i) any oral instructions from any persons the Master Collateral
+Agent believes to be authorized to give such instructions, who shall only be,
+with respect to ACFS, the Borrowers and each Facility Representative, persons
+the Master Collateral Agent believes in good faith to be duly authorized
+officers thereof, and (ii) any written instruction, notice, order, request,
+direction, certificate, opinion or other instrument or document believed by the
+Master Collateral Agent to be genuine and to have been signed and presented by
+the proper party or parties.
+
+        (c)     The Master Collateral Agent may consult with counsel nationally
+recognized in the area of commercial transactions with regard to legal questions
+arising out of or in connection with this Agreement, and the advice or opinion
+of such counsel shall be full and complete authorization and protection in
+respect of any action taken, omitted or suffered by the Master Collateral Agent
+in reasonable reliance, in good faith, and in accordance therewith; provided,
+however, that if the Required Facility Representatives give written instructions
+to the Master Collateral Agent or provide an opinion of counsel selected by
+them, which in either case conflicts with any such advice or opinion of counsel,
+then the Master Collateral Agent shall follow such instructions of the Required
+Facility Representatives (unless such written instructions violate the express
+terms of this Agreement, violate applicable law or subject the Master Collateral
+Agent to liability) or such opinion of counsel selected by the Required Facility
+Representatives, and shall be fully protected in acting or refraining to act
+thereon. Any such written instructions from the Required Facility
+Representatives shall contain an indemnity satisfactory to the Master Collateral
+Agent with respect to the instructions given to the Master Collateral Agent.
+
+        (d)     No provision of this Agreement shall require the Master
+Collateral Agent to expend or risk its own funds or otherwise incur financial
+liability in the performance of its duties under this Agreement if it shall have
+reasonable grounds for believing that repayment of such funds or adequate
+indemnity satisfactory to it is not assured to it.
+
+                                     - 27 -
+
+<PAGE>
+
+        (e)     The Master Collateral Agent may execute any of the trusts or
+powers hereunder or perform any duties hereunder either directly or by or
+through agents, attorneys, custodians or nominees appointed with due care, and
+shall not be responsible for any willful misconduct or negligence on the part of
+any agent, attorney, custodian or nominee so appointed.
+
+        (f)     Whenever in the administration of the provisions of this
+Agreement the Master Collateral Agent shall deem it necessary or desirable that
+a matter be proved or established prior to taking or suffering any action to be
+taken hereunder, such matter (unless other evidence in respect thereof be herein
+specifically prescribed) may, in the absence of gross negligence or bad faith on
+the part of the Master Collateral Agent, be deemed to be conclusively proved and
+established by a certificate signed by an officer of any of ACFS, the Borrowers
+and each Facility Representative, as the case may be, and delivered to the
+Master Collateral Agent and such certificate, in the absence of gross negligence
+or bad faith on the part of the Master Collateral Agent, shall be full warrant
+to the Master Collateral Agent for any action taken, suffered or omitted by it
+under the provisions of this Agreement upon the faith thereof.
+
+        (g)     The Master Collateral Agent shall have no obligation to invest
+and reinvest any cash held in the Collateral Account in the absence of timely
+and specific written investment direction from ACFS. In no event shall the
+Master Collateral Agent be liable for the selection of investments or for
+investment losses incurred thereon. The Master Collateral Agent shall have no
+liability in respect of losses incurred as a result of the liquidation of any
+investment prior to its stated maturity or the failure of ACFS to provide timely
+written investment direction.
+
+        (h)     Any corporation into which the Master Collateral Agent may be
+merged or converted or with which it may be consolidated, or any corporation
+resulting from any merger, conversion or consolidation to which the Master
+Collateral Agent shall be a party, or any corporation succeeding to the business
+of the Master Collateral Agent shall be the successor of the Master Collateral
+Agent hereunder without the execution or filing of any paper with any party
+hereto or any further act on the part of any of the parties hereto except where
+an instrument of transfer or assignment is required by law to effect such
+succession, anything herein to the contrary notwithstanding.
+
+        (i)     Notwithstanding anything herein to the contrary, in no event
+shall the Master Collateral Agent have any obligation or liability in respect of
+the monitoring or maintenance of the perfection of any security interest
+evidenced hereby or for the filing or refiling or recording or rerecording of
+any financing or continuation statements in respect of any such security
+interest except if the Master Collateral Agent fails to comply with its
+obligations under Section 5(d)(2) with respect to any financing or continuation
+statement which any Agent, Lender or Facility Representative expressly requests
+that it file pursuant to the terms thereof.
+
+        (j)     The Master Collateral Agent shall not be deemed to have notice
+of any Event of Default unless an Authorized Officer of the Master Collateral
+Agent is specifically notified in writing of such event by a Facility
+Representative, the Borrowers or ACFS.
+
+                                     - 28 -
+
+<PAGE>
+
+                Section 13      Addition of Senior Facility Agreements. The
+Borrowers may designate an agreement as a Senior Facility Agreement by
+delivering to the Master Collateral Agent at least seven Business Days prior to
+the proposed date of the effectiveness of such designation a written notice
+identifying such agreement and the related Senior Facility Notional Amount and
+by satisfying the following conditions on or before such proposed date of
+effectiveness:
+
+        (a)     at least seven Business Days prior to the proposed date of the
+effectiveness of such designation, the Borrowers shall have delivered to the
+Master Collateral Agent a certificate calculating the Senior Borrowing Base as
+of such date and demonstrating that, after giving effect to such designation,
+the sum of the Senior Facility Notional Amounts with respect to each Senior
+Facility will not exceed the Senior Borrowing Base;
+
+        (b)     the related Senior Facility Representative, the Borrowers and
+ACFS shall have delivered to the Master Collateral Agent a Joinder Supplement
+relating to such Senior Facility Agreement;
+
+        (c)     S & P shall have confirmed in writing that amounts due under
+each Senior Facility Agreement continue to be rated at least "BBB-," after
+giving effect to the proposed Senior Facility Agreement;
+
+        (d)     ACFS shall have delivered to the Master Collateral Agent a
+certificate that the Senior Facility Agreement requires Senior Facility Excess
+Spread, if any, to be paid to the Master Collateral Agent;
+
+        (e)     such Senior Facility Agreement shall provide that the collateral
+agent thereunder will hold any Senior Excluded Collateral with respect thereto
+for the benefit of the Master Collateral Agent and the Secured Parties to the
+extent of any related Senior Facility Excess Spread payable to the Master
+Collateral Agent hereunder; and
+
+        (f)     the Master Collateral Agent shall have received an Officer's
+Certificate of each of the Borrowers stating that on the date of such
+designation and after giving effect to the proposed Senior Facility Agreement,
+no condition, event or act which with notice or lapse of time or both will
+become a Default or Event of Default has occurred and is continuing.
+
+The Master Collateral Agent shall deliver notice of each designation of an
+additional Senior Facility Agreement to each Facility Representative promptly
+following its receipt of notice of such designation from the Borrowers.
+
+                Section 14      Increase and Decrease of Senior Facility
+                                Notional Amounts.
+
+        (a)     The Borrowers may increase the Senior Facility Notional Amount
+of any Senior Facility Agreement by delivering to the Master Collateral Agent at
+least seven Business Days prior to the proposed date of the effectiveness of
+such increase a written notice identifying such
+
+                                     - 29 -
+
+<PAGE>
+
+agreement and the related proposed increase in the Senior Facility Notional
+Amount and by satisfying the following conditions on or before such proposed
+date of effectiveness:
+
+                (i)     at least seven Business Days prior to the proposed date
+        of the effectiveness of such increase, the Borrowers shall have
+        delivered to the Master Collateral Agent a certificate calculating the
+        Senior Borrowing Base as of such date and demonstrating that, after
+        giving effect to such increase, the sum of the Senior Facility Notional
+        Amounts with respect to each Senior Facility will not exceed the Senior
+        Borrowing Base;
+
+                (ii)    if after giving effect to such increase the Senior
+        Facility Aggregate Amount would exceed 66-2/3% of the Senior Borrowing
+        Base, S & P shall have confirmed in writing that amounts due under each
+        Senior Facility Agreement continue to be rated at least "BBB-"; and
+
+                (iii)   the Master Collateral Agent shall have received an
+        Officer's Certificate of each of the Borrowers stating that on the date
+        of such increase of the applicable Senior Facility Notional Amount and
+        after giving effect to such increase, no condition, event or act which
+        with notice or lapse of time or both will become a Default or Event of
+        Default has occurred and is continuing.
+
+provided, however, that (i) the Senior Facility Notional Amount with respect to
+any Senior Facility Agreement which does not provide a revolving facility shall
+in no event be increased to an amount in excess of the Senior Facility Notional
+Amount with respect to such Senior Facility Agreement on the date such Senior
+Facility Agreement was added pursuant to Section 13 hereof unless the
+outstanding amount advanced under such Senior Facility Agreement is subsequently
+increased and (ii) the Senior Facility Notional Amount with respect to any
+Senior Facility Agreement which provides a revolving facility (other than the
+Revolving Credit Agreement) shall in no event be increased to an amount in
+excess of the product of (x) the Senior Facility Notional Amount with respect to
+such Senior Facility Agreement on the date (the "Initial Advance Date") which is
+the later of (A) the date such Senior Facility Agreement was added pursuant to
+Section 13 hereof and (B) the date the initial advance was made on such Senior
+Facility Agreement and (y) a fraction, the numerator of which is the amount
+outstanding under such Senior Facility Agreement on the date of such proposed
+increase and the denominator of which is the amount advanced under such Senior
+Facility Agreement on the Initial Advance Date. The Master Collateral Agent
+shall deliver notice of each increase in the Senior Facility Notional Amount of
+any Senior Facility Agreement to each Facility Representative promptly following
+its receipt of notice of such increase from the Borrowers.
+
+        (b)     The Borrowers may decrease the Senior Facility Notional Amount
+with respect to any Senior Facility Agreement from time to time by providing
+prior written notice thereof to each Facility Representative and the Master
+Collateral Agent.
+
+                Section 15      Addition of Junior Facility Agreements. The
+Borrowers may designate an agreement as a Junior Facility Agreement by
+delivering to the Master Collateral
+
+                                     - 30 -
+
+<PAGE>
+
+Agent at least seven Business Days prior to the proposed date of the
+effectiveness of such designation a written notice identifying such agreement
+and by satisfying the following conditions on or before such proposed date of
+effectiveness:
+
+        (a)     the related Junior Facility Representative, the Borrowers and
+ACFS shall have delivered to the Master Collateral Agent a Joinder Supplement
+relating to such Junior Facility Agreement.
+
+The Master Collateral Agent shall deliver notice of each designation of an
+additional Junior Facility Agreement to each Facility Representative promptly
+following its receipt of notice of such designation from the Borrowers.
+
+                Section 16      Junior Facility Distributions. The Borrowers and
+each Junior Facility Representative may agree to amend clause (vi) of Section 6
+without the consent of any Senior Creditor or Senior Facility Representative,
+provided that S & P shall have consented to such amendment.
+
+                Section 17      Subordination.
+
+        (a)     Subordination of Junior Debt to Senior Debt. The Borrowers
+covenant and agree, and the Junior Creditors by their respective acceptance of
+the Junior Debt (whether upon original issue or upon transfer or assignment)
+likewise covenant and agree, that the payment of any and all of the Junior Debt
+shall be subordinate and subject in right of payment, to the extent and in the
+manner set forth herein, to the prior payment in full in cash of the Senior Debt
+and costs and expenses under Section 6(a)(i) and (iv). Each holder of Senior
+Debt, whether now outstanding or hereafter created, incurred, assumed or
+guaranteed, shall be deemed to have acquired Senior Debt in reliance upon the
+provisions contained in this Agreement.
+
+        (b)     Proceedings. In the event of any Proceeding involving the
+Borrowers: (a) all Senior Debt and costs and expenses under Section 6(a)(i) and
+(iv) shall first be paid in full in cash before any payment of or with respect
+to the Junior Debt shall be made (other than a distribution of Reorganization
+Subordinated Securities if the Junior Creditors, the Senior Creditors and the
+Master Collateral Agent shall have entered into such supplements to or
+modifications to this Agreement as the Senior Creditors may request to reflect
+the continued subordination of the Reorganization Subordination Securities to
+the Senior Debt and costs and expenses under Section 6(a)(i) and (iv) (or notes
+or other securities issued in substitution of all or a portion thereof) to at
+least the same extent as provided herein); (b) any payment or distribution,
+whether in cash, property or securities, which, but for the terms hereof,
+otherwise would be payable or deliverable in respect of the Junior Debt (other
+than a distribution of Reorganization Subordinated Securities if the Junior
+Creditors, the Senior Creditors and the Master Collateral Agent shall have
+entered into such supplement to or modification to this Agreement as the Senior
+Creditors may request to reflect the continued subordination of the
+Reorganization Subordinated Securities to the Senior Debt and costs and expenses
+under Section 6(a)(i) and (iv) (or notes or other securities issued in
+substitution of all or a portion thereof) to at least the same extent as
+
+                                     - 31 -
+
+<PAGE>
+
+provided herein), shall be paid or delivered directly to the Master Collateral
+Agent for the benefit of each Senior Creditor until all Senior Debt and costs
+and expenses under Section 6(a)(i) and (iv) are paid in full, and the Junior
+Creditors irrevocably authorize, empower and direct all receivers, trustees,
+liquidators, custodians, conservators and others having authority in the
+premises to effect all such payments and distributions, and the Junior Creditors
+also irrevocably authorize, empower and direct the Master Collateral Agent and
+each Senior Creditor to demand sue for, collect and receive every such payment
+or distribution; (c) the Junior Creditors agree to execute and deliver to the
+Master Collateral Agent and each Senior Facility Representative or their
+respective representatives such further instruments confirming the authorization
+referred to in the foregoing clause (b) as may be requested by the Master
+Collateral Agent or any Senior Facility Representative; (d) the Junior Creditors
+agree not to initiate, prosecute or encourage any other person or entity to
+initiate or prosecute any claim, action or other proceeding challenging the
+validity, priority, extent or enforceability of the Senior Debt or any liens and
+security interests securing the Senior Debt; (e) the Junior Creditors agree not
+to object to any use of cash collateral by the Borrowers under Section 363 of
+the United States Bankruptcy Code permitted by the Senior Facility
+Representatives or any borrowing by the Borrowers from the Senior Facility
+Representatives or to any grant of a lien or security interest by any person or
+entity in favor of the Master Collateral Agent for the benefit of the Senior
+Facility Representatives under Section 364 of the United States Bankruptcy Code;
+and (f) if the Junior Creditors fail (i) to execute, verify, deliver and file
+any proofs of claim in respect of the Junior Debt in connection with any such
+Proceeding at least 20 days prior to the expiration of the time to file such
+proofs of claim, the Junior Creditors hereby irrevocably authorize, empower and
+appoint the Master Collateral Agent (for the benefit of the Senior Facility
+Representatives) as its agent and attorney-in-fact to execute, verify, deliver
+and file such proofs of claim and (ii) to vote such claim in any such Proceeding
+at least 3 days prior to the expiration of the time to vote, the Junior
+Creditors hereby irrevocably authorize, empower and appoint the Master
+Collateral Agent as its agent and attorney-in-fact to vote any such claim;
+provided, however, that the Master Collateral Agent shall have no obligation to
+execute, verify, deliver, file and/or vote any such proof of claim. In the event
+that the Master Collateral Agent votes any claim in accordance with the
+authority granted hereby, the Junior Creditors shall not be entitled to change
+or withdraw such vote. The Senior Debt shall continue to be treated as Senior
+Debt and the provisions of this Agreement shall continue to govern the relative
+rights and priorities of the Senior Facility Representatives, the Master
+Collateral Agent and the Junior Creditors even if all or part of the Senior Debt
+or the security interests securing the Senior Debt are subordinated, set aside,
+avoided or disallowed in connection with any such Proceeding and this Agreement
+shall be reinstated if at any time any payment of any of the Senior Debt is
+rescinded or must otherwise be returned by any holder of the Senior Debt or any
+representative of such holder.
+
+        (c)     Payment Block Upon Senior Default. The Borrowers may not make
+and the Junior Creditors may not receive any payment of principal, interest or
+any other amount due with respect to any Junior Debt if at the time of such
+payment a Senior Default exists.
+
+                                     - 32 -
+
+<PAGE>
+
+        (d)     Payments Otherwise Permitted. Nothing contained in this Section
+17 or elsewhere in this Agreement or in the Senior Facility Agreements shall
+prevent the Borrowers at any time, except during the pendency of any Proceeding
+referred to in subsection 17(b) or under the conditions referred to in
+subsection 17(c), from making payments, to the extent funds are available
+therefor in accordance with the terms of this Agreement, or the Junior Creditors
+from receiving payments pursuant to Section 6 of this Agreement on the Junior
+Notes.
+
+        (e)     Restriction on Action by the Junior Creditors. Until the Senior
+Debt and costs and expenses under Section 6(a)(i) and (iv) are indefeasibly paid
+in full in cash, the Junior Creditors shall not, without the prior written
+consent of the Senior Facility Representatives, take any Collection Action with
+respect to the Junior Debt, except as permitted in the following sentence. Upon
+the acceleration of all of the Senior Debt the Junior Creditors may, upon three
+business days prior written notice to the Master Collateral Agent, accelerate
+the Junior Debt or take any other Collection Action which is not inconsistent
+with or in contravention of, and which does not interfere with, any enforcement
+actions by the Master Collateral Agent or any Senior Facility Representative or
+the provisions of this Agreement; provided, however, that following the
+acceleration of the Senior Debt as described above, if such acceleration is
+rescinded, then all Collection Actions taken by the Junior Creditors shall
+likewise be rescinded.
+
+        (f)     Incorrect Payments. If any payment or distribution on account of
+the Junior Debt not permitted to be made by the Borrowers or received by the
+Junior Creditors under this Agreement is received by the Junior Creditors before
+all Senior Debt and costs and expenses under Section 6(a)(i) and (iv) are
+indefeasibly paid in full in cash and all lending commitments under the Credit
+Agreement have terminated and the Revolving Credit Agreement shall have
+terminated, such payment or distribution shall not be commingled with any asset
+of the Junior Creditors, shall be held in trust by the Junior Creditors for the
+benefit of the Senior Creditors and the Master Collateral Agent and shall be
+promptly paid over to the Master Collateral Agent, or its designated
+representative, for the benefit of the Senior Creditors and the Master
+Collateral Agent.
+
+        (g)     Sale, Transfer. etc. No Junior Creditor may sell, assign,
+pledge, dispose of or otherwise transfer all or any portion of the Junior Debt
+or its rights under any Junior Facility Agreement without at least 5 business
+days prior written notice to the Master Collateral Agent and unless prior to the
+consummation of any such action, the transferee thereof shall execute and
+deliver to the Master Collateral Agent either an assumption agreement pursuant
+to which such transferee assumes all of the transferring Junior Creditor's
+obligations and liabilities under this Agreement, with respect to the portion of
+the Junior Debt and Junior Facility Agreements so transferred, or the transferee
+executes and delivers to the Master Collateral Agent an agreement identical to
+this Agreement (mutatis mutandis), providing for the continued subordination of
+the Junior Debt to the Senior Debt as provided herein and for the continued
+effectiveness of all of the rights of the Senior Facility Representatives
+arising under this Agreement and which reflects the provisions herein concerning
+such transfer. Notwithstanding the failure to execute or deliver any such
+agreement, the subordination effected hereby shall survive any sale, assignment,
+
+                                     - 33 -
+
+<PAGE>
+
+pledge, disposition or other transfer of all or any portion of the Junior Debt,
+and the terms of this Agreement shall be binding upon the successors and assigns
+of the Junior Creditors.
+
+        (h)     Legends. Until the Senior Debt is indefeasibly paid in full in
+cash and the Senior Facility Agreements have been terminated, the Junior
+Facility Agreements at all times shall contain in a conspicuous manner the
+following legend:
+
+                "This instrument and the rights and obligations evidenced hereby
+                are subordinate in the manner and to the extent set forth in
+                that certain Master Collateral and Intercreditor Agreement (the
+                "Subordination Agreement") dated as of August 15, 2002 among AFS
+                Funding Corp., AFS SenSub Corp., AmeriCredit Financial Services,
+                Inc., Deutsche Bank Trust Company Americas, as master collateral
+                agent, the "Senior Facility Representatives" referenced therein
+                and the "Junior Facility Representatives" referenced therein, as
+                amended, supplemented or otherwise modified from time to time;
+                and each holder of this instrument, by its acceptance hereof,
+                shall be bound by the provisions of the Subordination
+                Agreement."
+
+        (i)     Continued Effectiveness. The Junior Creditors hereby agree that
+their obligations hereunder shall be continuing, absolute and unconditional and
+not subject to any reduction, limitation, impairment, termination, defense or
+recoupment whatsoever by reason of, or be otherwise diminished by, any of the
+following: (a) any extension, modification or renewal of, or indulgence with
+respect to, or substitution for, the Senior Debt or any part thereof or any
+agreement relating thereto at any time; (b) any failure or omission to perfect
+or maintain any lien or security interest on, or preserve rights to, any
+security or collateral or to enforce any right, power or remedy with respect to
+the Senior Debt or any part thereof or any agreement relating thereto, or any
+collateral securing the Senior Debt or any part thereof; (c) any waiver of any
+right, power or remedy or of any default with respect to the Senior Debt or any
+part thereof or any agreement relating thereto or with respect to any collateral
+securing the Senior Debt or any part thereof; (d) any release, surrender,
+compromise, settlement, waiver, subordination or modification, with or without
+consideration, of, any collateral securing the Senior Debt or any part thereof,
+any guaranties with respect to the Senior Debt or any part thereof, or any other
+obligations of any person or entity with respect to the Senior Debt or any part
+thereof; (e) the enforceability or validity of the Senior Debt or any part
+thereof or the genuineness, enforceability or validity of any agreement relating
+thereto or with respect to any collateral securing the Senior Debt or any part
+thereof; (f) any Senior Facility Representative's election, in any case or
+proceeding instituted under chapter 11 of the United States Bankruptcy Code, of
+the application of section 1111(b)(2) of the United States Bankruptcy Code; (g)
+any borrowing, use of cash collateral, or grant of a security interest by the
+Borrowers, as debtor in possession, under section 363 or 364 of the United
+States Bankruptcy Code; or (h) the disallowance of all or any portion of any of
+the Agent's or the Lenders' claims for repayment of the Senior Debt under
+section 502 or 506 of the United States Bankruptcy Code. The Senior Facility
+Representatives may direct the
+
+                                     - 34 -
+
+<PAGE>
+
+Master Collateral Agent to take any action or exercise any remedy with respect
+to any Collateral from time to time and at any time in their sole discretion,
+without notice to the Junior Creditors. The terms of this Agreement, the
+subordination effected hereby, and the rights and the obligations of the Junior
+Creditors, the Borrowers, and the Senior Creditors arising hereunder shall not
+be affected, modified or impaired in any manner or to any extent by: (a) any
+amendment or modification of or supplement to the any Senior Facility Agreement
+or any Junior Facility Agreement; (b) the validity or enforceability of any of
+such documents; or (c) any exercise or non-exercise of any right, power or
+remedy under or in respect of the Senior Debt or the Junior Debt or any of the
+instruments or documents referred to in clause (a) above. The Junior Creditors
+hereby acknowledge that the provisions of this Agreement are intended to be
+enforceable at all times, whether before the commencement of, after the
+commencement of, in connection with or premised on the occurrence of a
+Proceeding.
+
+        (j)     No Contest. The Junior Creditors agree that they will not at any
+time contest the validity, perfection, priority or enforceability of the Senior
+Debt or the Senior Facility Agreements or the rights of the holders of the
+Senior Debt in the Collateral hereunder.
+
+                Section 18      Term Of Agreement. This Agreement shall be
+terminated upon the final indefeasible payment of all Obligations and the
+termination of the Senior Facility Agreements and the Junior Facility
+Agreements.
+
+                Section 19      Notices. All demands, notices and communications
+relating to this Agreement shall be in writing and shall be deemed to have been
+duly given when received by the other party or parties at the address shown on
+Schedule I or in the Joinder Supplement by which they became a party hereto,
+whether by personal delivery, express delivery or facsimile, or such other
+address as may hereafter be furnished to the other party or parties by like
+notice. Any such demand, notice or communication hereunder shall be deemed to
+have been received on the date delivered to or received at the premises of the
+addressee.
+
+                Section 20      GOVERNING LAW; VENUE; CONSENT TO JURISDICTION.
+
+                        (A)     THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE
+WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO
+ITS CONFLICT OF LAW PROVISIONS (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW
+YORK GENERAL OBLIGATIONS LAW).
+
+                        (B)     VENUE FOR ANY ACTION BROUGHT UNDER THIS
+AGREEMENT MAY BE IN ANY NEW YORK STATE COURT OR FEDERAL DISTRICT COURT SITTING
+IN NEW YORK COUNTY, NEW YORK. EACH PARTY TO THIS AGREEMENT HEREBY CONSENTS TO
+THE JURISDICTION OF SUCH COURT.
+
+                Section 21      Assignment. Except as expressly permitted
+herein, no party to this Agreement may assign its rights or delegate its
+obligations under this Agreement without the express written consent of the
+other parties.
+
+                                     - 35 -
+
+<PAGE>
+
+                Section 22      Counterparts. For the purpose of facilitating
+the execution of this Agreement and for other purposes, this Agreement may be
+executed simultaneously in any number of counterparts, each of which shall be
+deemed to be an original, and together shall constitute and be one and the same
+instrument.
+
+                Section 23      Headings.  The section headings are not part of
+this Agreement and shall not be used in its interpretation.
+
+                Section 24      Third Party Beneficiaries. It is hereby agreed
+by the parties hereto that the Secured Parties are, and are intended to be,
+third party beneficiaries under this Agreement with the right to enforce this
+Agreement as if such Secured Parties were parties hereto.
+
+                Section 25      Defaults; Certain Remedies.
+
+        (a)     Event of Default. An "Event of Default" shall exist under this
+Agreement if there exists an "Senior Default" or "Junior Default". For the
+purpose of this Agreement, a "Default" shall mean any occurrence or condition
+which, with the giving of notice or the passage of time, or both, would be an
+Event of Default. Unless and until the Master Collateral Agent has actual
+knowledge that an Event of Default shall have occurred and is continuing, the
+Master Collateral Agent shall not take any action under this Agreement except
+for the performance of such duties as are specifically set forth herein and
+except as may be set forth from time to time in written instructions by the
+Required Facility Representatives in accordance with this Agreement, and upon
+receipt of such written instruction, the Master Collateral Agent shall give such
+notice or direction or exercise such right, remedy or power hereunder as shall
+be specified in such instruction.
+
+        (b)     Notice of Event of Default; Control by Required Facility
+Representatives. If the Master Collateral Agent has actual knowledge that an
+Event of Default shall have occurred, the Master Collateral Agent shall give
+prompt notice thereof to each Facility Representative; and if and for so long as
+the Master Collateral Agent shall not have actual knowledge that such Event of
+Default shall no longer be continuing, the Master Collateral Agent shall
+exercise such rights, powers and remedies (whether vested in it by this
+Agreement or by law or in equity or by statute or otherwise) for the protection
+and enforcement of its rights under this Agreement as the Master Collateral
+Agent may be directed in writing by the Required Facility Representatives in
+accordance with this Agreement, and in such exercise shall use the same degree
+of care and skill as a prudent person would use under the circumstances in the
+conduct of such person's own affairs. The Required Facility Representatives, by
+an instrument or instruments in writing executed and delivered to the Master
+Collateral Agent, shall have the right to direct the method and place of
+conducting the action to be taken by the Master Collateral Agent in connection
+with the protection and enforcement of the Master Collateral Agent's rights
+under this Agreement.
+
+        (c)     Default Remedies. If any one or more Events of Default exist and
+shall be continuing, the Master Collateral Agent shall have the right to proceed
+to protect and enforce its
+
+                                     - 36 -
+
+<PAGE>
+
+rights hereunder by exercising all or any of the rights and remedies available
+to it under applicable law (either by suit in equity or by action at law or by
+any other appropriate proceeding) and all or any of the rights and remedies
+conferred in this Agreement, whether for the specific performance of any
+covenant or agreement herein or therein contained or in execution or aid of any
+power herein or therein granted, or for foreclosure thereunder, in such order as
+the Master Collateral Agent may determine in its sole discretion (subject to the
+direction of the Required Facility Representatives pursuant to Section 25(b)).
+No power, right or remedy conferred on the Master Collateral Agent in this
+Agreement is intended to be exclusive of any other right, power or remedy and
+each and every right and remedy shall be cumulative and shall be in addition to
+every other right or remedy given herein or now or hereafter existing at law or
+in equity or by statute or otherwise. The Master Collateral Agent shall, at the
+written direction of the Required Facility Representatives, also do one or more
+of the following (subject to Section 12 hereof):
+
+                (i)     institute proceedings in its own name and on behalf of
+        the Secured Parties as Master Collateral Agent for the collection of all
+        amounts then payable on the Senior Debt and/or the Junior Debt with
+        respect thereto, whether by declaration or otherwise, enforce any
+        judgment obtained, and collect from the Borrowers and any other obligor
+        upon such debt moneys adjudged due;
+
+                (ii)    institute proceedings from time to time for the complete
+        or partial foreclosure upon the Collateral;
+
+                (iii)   exercise any remedies of a secured party under the UCC
+        and take any other appropriate action to protect and enforce the right
+        and remedies of the Master Collateral Agent and the Secured Parties; and
+
+                (iv)    sell the Collateral or any portion thereof or rights or
+        interest therein, at one or more public or private sales called and
+        conducted in any manner permitted by law.
+
+        (d)     Bankruptcy Proceeding. If there shall be pending a case or
+proceedings in bankruptcy with respect to, or for the reorganization or
+arrangement of, any Borrower under any bankruptcy or insolvency law or in case a
+conservator, liquidator, custodian, receiver or trustee shall have been
+appointed for any Borrower or any of the Collateral, the Master Collateral Agent
+may, but, unless requested in writing by the Required Facility Representatives,
+shall not (subject to Section 25(b)) be obligated to, file such proofs of claim
+and other papers or documents as may be necessary or advisable in order to have
+the claims of the Secured Parties allowed in such case or proceeding for the
+Obligations at the date of the institution of such case or proceeding, and for
+any additional amounts that may become due and payable under any of the Senior
+Facility Agreements or Junior Facility Agreements or other document or
+instrument creating or evidencing any Obligation after such date and to
+otherwise protect and assert its rights, liens and security interests in, under
+and to the Collateral. The Master Collateral Agent may, but, unless requested in
+writing by the Required Facility Representatives, shall not (subject to Section
+25(b))
+
+                                     - 37 -
+
+<PAGE>
+
+be obligated to, and unless prohibited by applicable law and regulations, vote
+(as directed by the Required Facility Representatives) on behalf of the Secured
+Parties in any election of a trustee, a standby trustee or person performing
+similar functions in any such case or proceeding. No provision of this Agreement
+shall be deemed to authorize the Master Collateral Agent to authorize or consent
+to or accept or adopt on behalf of any Secured Party any plan of reorganization,
+arrangement, adjustment or composition affecting the Senior Debt or the Junior
+Debt or the rights of any Secured Party or to authorize the Master Collateral
+Agent to vote in respect of the claim of any Secured Party in any such
+proceeding.
+
+        (e)     Delay or Omission; No Waiver. No course of dealing or failure or
+delay by the Master Collateral Agent in exercising any right, power or remedy
+shall impair such right, power or remedy or operate as a waiver thereof or
+otherwise prejudice the Master Collateral Agent's rights, powers and remedies.
+Every right and remedy given hereby, by any other document or instrument
+creating or evidencing any Obligation or by law to the Master Collateral Agent
+may be exercised from time to time as often as may be deemed expedient by the
+Master Collateral Agent.
+
+        (f)     Restoration of Rights and Remedies. If the Master Collateral
+Agent shall have instituted any proceeding to enforce any right or remedy under
+this Agreement and such proceeding shall have been discontinued or abandoned for
+any reason, or shall have been determined adversely to the Master Collateral
+Agent, then and in every such case the Master Collateral Agent, the Borrowers
+and the Secured Parties shall, subject to any determination in such proceeding,
+be restored severally and respectively to their former positions hereunder, and
+thereafter all rights and remedies of the Master Collateral Agent shall continue
+as though no such proceeding had been instituted.
+
+        (g)     Application of Proceeds. The proceeds of any exercise of rights
+with respect to the Collateral, or any part thereof, shall be paid to and
+applied as follows:
+
+                (i)     FIRST, to the payment of (i) costs and expenses of
+        foreclosure or suit, if any, and of any sale, and of all proper
+        expenses, liabilities and advances, including legal expenses and
+        reasonable attorneys' fees, incurred or made hereunder by the Master
+        Collateral Agent, (ii) any fees, expenses, disbursements, advances or
+        liabilities due and unpaid to the Master Collateral Agent under Section
+        8 and (iii) all taxes, assessments or liens superior to the liens
+        hereunder, except any taxes, assessments or other superior lien subject
+        to which such sale may have been made;
+
+                (ii)    SECOND, to the payment of all accrued and unpaid
+        interest on the Senior Debt and, in case such proceeds shall be
+        insufficient to pay in full such amounts so unpaid, then ratably
+        according to the aggregate accrued and unpaid interest under each Senior
+        Facility Agreement;
+
+                (iii)   THIRD, to the payment of the principal outstanding on
+        the Senior Debt and, in case such proceeds shall be insufficient to pay
+        such principal amounts in full, then
+
+                                     - 38 -
+
+<PAGE>
+
+        ratably according to the unpaid principal amounts with respect to each
+        Senior Facility Agreement; and
+
+                (iv)    FOURTH, to the payment of any other amounts accrued and
+        unpaid with respect to the Senior Debt and, in case such proceeds shall
+        be insufficient to pay such amounts in full, then ratably according to
+        the outstanding amounts under each Senior Facility Agreement; and
+
+                (v)     FIFTH, to the payment of all accrued and unpaid interest
+        on the Junior Debt and, in case such proceeds shall be insufficient to
+        pay in full such amounts so unpaid, then ratably according to the
+        aggregate accrued and unpaid interest under each Junior Facility
+        Agreement;
+
+                (vi)    SIXTH, to the payment of the principal outstanding on
+        the Junior Debt and, in case such proceeds shall be insufficient to pay
+        such principal amounts in full, then ratably according to the Junior
+        Facility Outstanding Amounts under each Junior Facility Agreement; and
+
+                (vii)   SEVENTH, to the payment of any other amounts accrued and
+        unpaid with respect to the Junior Debt and, in case such proceeds shall
+        be insufficient to pay such amounts in full, then ratably according to
+        the outstanding amounts under each Junior Facility Agreement; and
+
+the surplus, if any, shall be paid to the Borrowers, its or their successors and
+assigns, or to whomsoever may be lawfully entitled to receive the same.
+
+        (h)     Limitations on Suits. Anything contained herein to the contrary
+notwithstanding, no Facility Representative shall have the right to institute
+any suit, action or proceeding at law or in equity, for the execution of any
+trust or power hereof or for any other remedy under or upon this Agreement,
+unless:
+
+                (i)     such Facility Representative shall have previously given
+        the Master Collateral Agent written notice of the occurrence of an Event
+        of Default;
+
+                (ii)    the Required Facility Representatives shall have made
+        written request upon the Master Collateral Agent to exercise such powers
+        or enforce such remedies or institute such action, suit or proceeding in
+        its own name; and
+
+                (iii)   the Master Collateral Agent shall have refused or failed
+        to comply with such request for a period of 10 days after such written
+        request shall have been received by it.
+
+        Such notification, request, and refusal or omission are hereby declared,
+in every case, to be conditions precedent to the exercise by any Facility
+Representative of any remedy hereunder;
+
+                                     - 39 -
+
+<PAGE>
+
+it being understood and intended that no one or more of the Facility
+Representatives shall have any right in any manner whatever by his or their
+action to enforce any right under this Agreement, except in the manner herein
+provided, and that all judicial proceedings to enforce any provision hereof
+shall be instituted, had and maintained in the manner herein provided and for
+the benefit of all Secured Parties, as provided for herein.
+
+        (i)     Sharing.
+
+                (i)     Remittance of Proceeds of Collateral. If any Secured
+        Party shall obtain any cash proceeds of the Collateral otherwise than
+        through a distribution from the Master Collateral Agent pursuant to the
+        terms hereof, then such Secured Party shall, promptly after receipt
+        thereof, remit, or cause the related Facility Representative to remit,
+        such cash proceeds to the Master Collateral Agent. The Master Collateral
+        Agent shall, promptly after receipt of such cash proceeds, disburse the
+        amount so remitted to it as provided in Section 25(g), in the order of
+        priority set forth therein. Any such cash proceeds shall not be deemed
+        to have satisfied any obligations in respect of which it was originally
+        received by such Secured Party but rather shall be deemed to have
+        satisfied, to the extent of the amount of such proceeds, the obligations
+        to which such cash proceeds are applied as provided for in Section
+        25(g).
+
+                (ii)    Return of Proceeds. If any Secured Party that has
+        remitted cash proceeds of Collateral to the Master Collateral Agent
+        pursuant to the preceding paragraph (i) shall thereafter be required to
+        repay such proceeds to the original payor thereof, such Secured Party
+        shall have a lien on the Collateral, prior to the lien securing the
+        Obligations, securing the repayment of the proceeds so remitted to the
+        Master Collateral Agent (less any portion thereof distributed to such
+        Secured Party pursuant to 25(g)), provided that, upon request by such
+        Secured Party to the Master Collateral Agent, the Master Collateral
+        Agent shall request each Facility Representative to whom such proceeds
+        were disbursed to remit such proceeds to the Master Collateral Agent and
+        each Facility Representative shall promptly comply with such request.
+
+                (iii)   Sharing. Except as otherwise provided in paragraph (i)
+        and (ii), if any Secured Party shall obtain any Collateral, proceeds of
+        Collateral or any other property as security for the payment of any
+        Obligation held by it, such Secured Party shall promptly thereafter take
+        such actions as shall be necessary to transfer such property to the
+        Master Collateral Agent as security for all of the Obligations or
+        otherwise to share equitably the benefit of such property with all
+        Secured Parties.
+
+        (j)     In any proceedings brought by the Master Collateral Agent to
+enforce the Liens hereunder (and also any proceedings involving the
+interpretation of any provision hereof), the Master Collateral Agent shall be
+held to represent all the Secured Parties, and it shall not be necessary to make
+any Secured Party a party to any such proceedings.
+
+                                     - 40 -
+
+<PAGE>
+
+                Section 26      Limited Liability of Master Collateral Agent.
+
+        It is expressly understood and agreed by the parties hereto that (a)
+this Agreement is executed and delivered by Deutsche Bank Trust Company
+Americas, not individually or personally but solely as Master Collateral Agent,
+in the exercise of the powers and authority conferred and vested in it, (b) the
+representations, undertakings and agreements herein made on the part of the
+Master Collateral Agent are made and intended not as personal representations,
+undertakings and agreements by Deutsche Bank Trust Company Americas, but are
+made and intended for the purpose of binding only the Master Collateral Agent,
+and (c) under no circumstances shall Deutsche Bank Trust Company Americas be
+personally liable for the payment of any indebtedness or expenses of the Master
+Collateral Agent or be liable for the breach or failure of any obligation,
+representation, warranty or covenant made or undertaken by the Master Collateral
+Agent under this Agreement.
+
+                Section 27      Amendments. The Required Senior Facility
+Representatives, the Required Junior Facility Representatives, the Master
+Collateral Agent, ACFS and the Borrowers may, from time to time, enter into
+written amendments, supplements, modifications, waivers and consents of or to
+this Agreement; provided, however, that:
+
+                (a)     S & P shall have confirmed in writing that such
+amendment, supplement, modification, waiver or consent will not result in the
+reduction or withdrawal of any rating on any Senior Facility Agreement;
+
+                (b)     no such amendment, supplement, modification, waiver or
+consent shall, (i) amend Section 6 in a manner adverse to the parties to the
+Senior Facility Agreements or change the definition of "Required Senior Facility
+Representatives" without the consent of all Senior Facility Representatives,
+(ii) amend Section 6 in a manner adverse to the parties to the Junior Facility
+Agreements or change the definition of "Required Junior Facility
+Representatives" without the consent of all Junior Facility Representatives,
+(iii) release all or any part of the Collateral without the consent of each
+Facility Representative, or (iv) change the provisions of this Section 27 or
+change the definition of "Required Facility Representatives" without the consent
+of each Facility Representative; and
+
+                (c)     without the written consent of the Master Collateral
+Agent, no such amendment, supplement, modification or waiver shall amend, modify
+or waive any provision of Section 11 or 12 or otherwise change any of the rights
+or obligations of the Master Collateral Agent hereunder or reduce the rate of,
+or extend the date of payment for, any fee payable to the Master Collateral
+Agent hereunder.
+
+                                     - 41 -
+
+<PAGE>
+
+                Any such amendment, supplement, modification or waiver shall
+apply equally to each of the Secured Parties and shall be binding the Secured
+Parties, the Facility Representatives, the Master Collateral Agent, the
+Borrowers and ACFS. In the case of any waiver, the parties shall be restored to
+their former position and rights hereunder to the extent provided for in such
+waiver. This Agreement may not be amended orally or by any course of conduct.
+
+                            [Signature Page Follows]
+
+                                     - 42 -
+
+<PAGE>
+
+                IN WITNESS WHEREOF, the parties hereto have caused their duly
+authorized representatives to hereunto set their hand as of the day and year
+first above written.
+
+                                DEUTSCHE BANK TRUST COMPANY AMERICAS,
+                                not in its individual capacity but
+                                solely as Revolver Administrative Agent and
+                                Revolver Collateral Agent
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                AFS FUNDING CORP.
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                AFS SENSUB CORP.
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                AMERICREDIT FINANCIAL SERVICES, INC.
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                     - 43 -
+
+<PAGE>
+
+                                DEUTSCHE BANK TRUST COMPANY AMERICAS,
+                                not in its individual capacity but solely as
+                                Master Collateral Agent
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+                                By:
+                                   ---------------------------------------------
+                                   Name:
+                                   Title:
+
+        [Signature Page to Master Collateral and Intercreditor Agreement]
+
+                                     - 44 -
+
+<PAGE>
+                                                                       EXHIBIT A
+
+                           FORM OF JOINDER SUPPLEMENT
+
+<PAGE>
+
+                                                                       EXHIBIT B
+
+                    FORM OF SENIOR BORROWING BASE CERTIFICATE
+
+<PAGE>
+
+                                                                       EXHIBIT C
+
+                       FORM OF MCA SERVICER'S CERTIFICATE
+
+<PAGE>
+                                                                      SCHEDULE I
+
+                                NOTICE ADDRESSES
+
+<PAGE>
+
+                                                                         ANNEX 1
+
+                      CALCULATION OF SENIOR BORROWING BASE
+
+The Senior Borrowing Base will be determined based on a cash flow model
+calculated as set forth below. ACFS will initially make each calculation (or
+engage a Person to make such calculation on its behalf) of the Senior Borrowing
+Base, and the Master Collateral Agent will confirm each such calculation.
+
+S & P will provide "Modeling Assumptions" (described below) for each Designated
+Term Series at or before closing. Upon each addition to the Designated Term
+Series, S & P will provide Modeling Assumptions for the additional Series. S & P
+will provide revised Modeling Assumptions if necessary.
+
+The "Modeling Assumptions" will be, collectively, the Expected Cumulative Loss
+Expectation, Loss Multiple, the Loss Horizon and the Additional Modeling
+Assumptions.
+
+The model inputs will be based on (i) collateral and bond information as for the
+last available month for all outstanding Designated Term Series and (ii) the
+collateral and bond information for an additional Designated Term Series after
+pricing described under the headings "Collateral Characteristics" and
+"Securities Characteristics" below.
+
+The following lists details the inputs and modeling assumptions to be included
+in the calculation of the Senior Borrowing Base:
+
+Collateral Characteristics:
+
+With respect to each Designated Term Series, the weighted average coupon,
+weighted average original maturity, weighted average remaining maturity and the
+total pool outstanding will be provided by the Borrowers. (For a new Designated
+Term Series with a pre-funding account, the collateral characteristics described
+in the offering documents for such Series will be used with respect to the full
+face amount of such Designated Term Series for modeling purposes.)
+
+Securities Characteristics
+
+The Borrowers will provide (a) the weighted average coupon on all outstanding
+notes and certificates to be issued under such Designated Term Series, which
+shall be calculated based on amounts outstanding as of (i) for outstanding
+Designated Term Series, the last amount outstanding as of the related
+calculation date and (ii) for the new Designated Term Series, the amounts and
+coupons to be in effect on the closing date of such Designated Term Series
+(assuming the full face amount of such notes and certificates for modeling
+purposes) and (b) the outstanding face amount of all such outstanding notes and
+certificates.
+
+<PAGE>
+
+Expected Cumulative Loss Expectation
+
+Initially, for all Designated Term Series, the Expected Cumulative Loss
+Expectation is 10.5%.
+
+Actual Losses to Date
+
+ACFS will provide, on a monthly basis, actual realized losses for each
+Designated Term Series.
+
+Expected Remaining Losses
+
+Expected Remaining Losses, individually for each Designated Term Series, will
+equal the Expected Cumulative Loss Expectation minus Actual Losses to Date.
+
+Senior Loss Multiple
+
+Initially, the Senior Loss Multiple will be 1.8.
+
+Loss Horizon
+
+Initially, the Loss Horizon will be:
+
+Months            % of Total Remaining Losses
+------            ---------------------------
+1 - 12            40%
+13 - 24           40%
+25 - 36           20%
+
+Transactions seasoned less than 12 months - the original loss assumption for
+months 13-36 will still apply; the remaining losses to come will be spread
+evenly over the remaining months in the first year and will equal the difference
+of (i) the product of (a) the Expected Cumulative Loss Expectation and (b) the
+original collateral balance plus any pre-funding and (ii) the sum of (a) the net
+cumulative losses to date and (b) net cumulative losses allocated to months
+13-36.
+
+Transactions seasoned between 12 and 24 months - the original loss assumption
+for months 25-36 will still apply; the remaining losses to come will be spread
+evenly over the remaining months in the second year and will equal the
+difference of (i) the product of (a) the Expected Cumulative Loss Expectation
+and (b) the original collateral balance plus any pre-funding and (ii) the sum of
+(a) the net cumulative losses to date and (b) net cumulative losses allocated to
+months 25-36.
+
+                                      - 2 -
+
+<PAGE>
+
+Transactions seasoned over 24 months - the remaining losses to come will be
+spread evenly over the next 12 months and will equal the difference of (i) the
+product of (a) the Expected Cumulative Loss Expectation and (b) the original
+collateral balance plus any pre-funding and (ii) the net cumulative losses to
+date.
+
+Senior Sub Transactions
+
+Initially the Senior Sub Transactions will be comprised of the following Term
+securitizations:
+
+AmeriCredit Automobile Receivables Trust 2000-1
+AmeriCredit Automobile Receivables Trust 2001-1
+AmeriCredit Automobile Receivables Trust 2002-1
+
+Senior Borrowing Base Calculation
+
+Using the Modeling Assumptions for each Designated Term Series and applying the
+Senior Loss Multiple to the Expected Remaining Losses, a schedule of monthly
+cash flows will be determined.
+
+A schedule (the "FSA Scheduled Cash Flows") of aggregate monthly residual cash
+flows for the Designated FSA Series for the period from the date of
+determination to the date which is 60 months after such date of determination
+will be determined assuming a trigger event occurs under the related Series
+Transaction Documents occurs immediately and cash is withheld until such time as
+trigger event is satisfied.
+
+A schedule (the "Other Wrapped Scheduled Cash Flows") of aggregate monthly
+residual cash flows for the Designated Non-FSA Series for the period from the
+date of determination to the date which is 60 months after such date of
+determination will be determined assuming the most stringent trigger events
+occur immediately.
+
+The Senior Borrowing Base will be the sum of (a) aggregated schedules of
+residual cash flows from the Senior Sub Transactions for the period from the
+date of determination to the date which is 60 months after such date of
+determination, the FSA Scheduled Cash Flows and the Other Wrapped Scheduled Cash
+Flows and (b) the outstanding principal amount of BBB/Baa2 rated Asset Backed
+Securities each of which meet the criteria for "Eligible Security" under the
+Revolver Credit Agreement but are not pledged to the Revolver Collateral Agent
+and are pledged to the Master Collateral Agent and (c) cash and A-1/P1 rated
+investments held by the Master Collateral Agent as Collateral hereunder.
+
+Additional Modeling Assumptions
+
+                                      - 3 -
+
+<PAGE>
+
+Prepayment Speed                    1.3% ABS
+Recovery %                          45%
+Recovery Lag                        0 months (all deals seasoned)
+Servicing Fee                       2.25%
+FSA Premium                         0.25%
+FSA Default Premium                 0.50%
+Reinsurance Premium                 4.50%
+Spread Account Reinvestment %       1.50%
+Call %                              0%
+
+For transactions with floating rate tranches, the underlying deal employs in the
+structure either an interest rate cap or interest rate swap. If the tranche
+benefits from an interest rate cap, Libor will be stressed to a BBB- level as
+determined by S & P. If the tranche benefits from an interest rate swap, the
+swap rate will be used.
+
+All other modeling assumptions were based on each deal's structure (i.e., bond
+coupons, spread account %'s, etc...) and June 2002 distribution data (i.e.,
+current pool balance, current losses, etc...)
+
+                                      - 4 -
+
+<PAGE>
+
+                                Table of Contents
+
+<TABLE>
+<CAPTION>
+                                                                              Page
+                                                                              ----
+<S>                                                                           <C>
+SECTION 1  DEFINITIONS........................................................   2
+
+SECTION 2  APPOINTMENT OF MASTER COLLATERAL AGENT.............................  15
+
+SECTION 3  BORROWERS' GRANT OF SECURITY INTEREST..............................  15
+
+SECTION 4  BORROWERS REMAIN LIABLE............................................  17
+
+SECTION 5  COVENANTS REGARDING THE COLLATERAL.................................  17
+
+SECTION 6  DISTRIBUTIONS......................................................  21
+
+SECTION 7  THE COLLATERAL ACCOUNT; INVESTMENTS................................  22
+
+SECTION 8  FEES AND EXPENSES..................................................  24
+
+SECTION 9  REPRESENTATIONS AND WARRANTIES OF THE MASTER COLLATERAL AGENT......  25
+
+SECTION 10  RESIGNATION BY AND REMOVAL OF THE MASTER COLLATERAL AGENT;
+SUCCESSOR MASTER COLLATERAL AGENT.............................................  25
+
+SECTION 11  INDEMNITY.........................................................  26
+
+SECTION 12  LIMITATIONS OF LIABILITY..........................................  27
+
+SECTION 13  ADDITION OF SENIOR FACILITY AGREEMENTS............................  29
+
+SECTION 14  INCREASE AND DECREASE OF SENIOR FACILITY NOTIONAL AMOUNTS.........  29
+
+SECTION 15  ADDITION OF JUNIOR FACILITY AGREEMENTS............................  30
+
+SECTION 16  JUNIOR FACILITY DISTRIBUTIONS.....................................  31
+
+SECTION 17  SUBORDINATION.....................................................  31
+</TABLE>
+
+                                        i
+
+<PAGE>
+
+                                Table of Contents
+                                   (Continued)
+
+<TABLE>
+<CAPTION>
+                                                                              Page
+                                                                              ----
+<S>                                                                           <C>
+SECTION 18  TERM OF AGREEMENT.................................................  35
+
+SECTION 19  NOTICES...........................................................  35
+
+SECTION 20  GOVERNING LAW; VENUE; CONSENT TO JURISDICTION.....................  35
+
+SECTION 21  ASSIGNMENT........................................................  35
+
+SECTION 22  COUNTERPARTS......................................................  36
+
+SECTION 23  HEADINGS..........................................................  36
+
+SECTION 24  THIRD PARTY BENEFICIARIES.........................................  36
+
+SECTION 25  DEFAULTS; CERTAIN REMEDIES........................................  36
+
+SECTION 26  LIMITED LIABILITY OF MASTER COLLATERAL AGENT......................  41
+
+SECTION 27  AMENDMENTS........................................................  41
+</TABLE>
+
+EXHIBITS
+
+A       Form of Joinder Supplement
+B       Form of Senior Borrowing Base Certificate
+C       Form of MCA Servicer's Certificate
+
+SCHEDULES
+
+I       Notice Addresses
+
+ANNEXES
+
+1       Calculation of Senior Borrowing Base
+
+                                       ii
+
+</TEXT>
+</DOCUMENT>

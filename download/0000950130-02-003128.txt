@@ -1,0 +1,2361 @@
+<DOCUMENT>
+<TYPE>EX-10.36
+<SEQUENCE>78
+<FILENAME>dex1036.txt
+<DESCRIPTION>AGREEMENT DATED NOVEMBER 30, 1997
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.36
+
+                                                          Draft: 25 November '97
+
+                                    AGREEMENT
+                                    ---------
+
+     This Agreement (the "Agreement") is entered into as of the 30th day of
+November, 1997, among CBC Holding (Delaware) Inc., a Delaware corporation
+("CBC"); Chase Insurance Agency, Inc., a Delaware corporation ("CIA");
+U.S.I. Holdings Corporation, a Delaware corporation ("USI"); and USI Insurance
+Services Corp., a Delaware corporation ("USIS").
+
+                                    RECITALS
+
+     WHEREAS, CBC and CIA are both indirectly wholly-owned by The Chase
+Manhattan Corporation ("CMC"); and
+
+     WHEREAS, USIS is a wholly-owned subsidiary of USI; and
+
+     WHEREAS, CBC wishes to purchase from USI certain shares of USI preferred
+stock, as hereinafter described; and
+
+     WHEREAS, USI wishes to issue and sell such shares to CBC, on terms and
+conditions hereinafter set forth; and
+
+     WHEREAS, CIA wishes to develop an insurance brokerage business specializing
+in the insurance and employee benefits needs of certain of its Affiliates'
+commercial customers; and
+
+     WHEREAS, USI has the requisite expertise to develop such a brokerage
+business for CIA, all as described below; and
+
+     WHEREAS, CIA wishes to engage USI to develop such a business for CIA, and
+USI is willing to accept such engagement, on the terms and conditions
+hereinafter set forth;
+
+     NOW, THEREFORE, the parties hereto hereby agree as follows:
+
+1. DEFINITIONS. As used herein, the following capitalized terms shall have the
+   ------------
+meanings indicated:
+
+     1996 Audited Financial Statements: the financial statements of USI and its
+     ----------------------------------
+     consolidated Affiliates, as of December 31, 1996, audited by Deloitte &
+     Touche, LLP, attached hereto as Exhibit A.
+
+                                        1
+
+<PAGE>
+
+     Acquired Agency: an insurance agency described in Section 4.3.
+     ---------------
+
+     Adjustment Period: the period of six (6) calendar months following the
+     -----------------
+     Option Exercise Date or the USIS Put Exercise Date, as the case may be.
+
+     Affiliate: as to any person or entity, any other person or entity
+     ---------
+     controlling, controlled by, or under direct or indirect common control
+     with, such person or entity.
+
+     Agency Acquisition: the acquisition by USI of any property and casualty
+     ------------------
+     insurance agency, in accordance with Section 4.3.
+
+     Annualized Run Rate EBITDA: EBITDA, adjusted in accordance with Section
+     --------------------------
+     5.6.1.2.
+
+     Arbiter: the party selected by USI and CIA, pursuant to Section 5.6.3, to
+     -------
+     determine the amount of the First Installment or the Second Installment, as
+     the case may be.
+
+     Business Day: any day on which banks in New York are neither required nor
+     ------------
+     permitted to close.
+
+     Business Plan: the business plan for Newco's first three years of
+     -------------
+     operation, to be agreed between USI and CIA, as it may be amended from time
+     to time (which amendment(s) shall require the written consent of both USI
+     and CIA). A draft of the Business Plan is attached hereto as Exhibit C.
+
+     Carriers: companies which have certificates of authority to underwrite
+     --------
+     insurance.
+
+     Closing Date: the date on which the purchase of Shares by CBC takes place.
+     ------------
+
+     Closing: the closing of the purchase of Shares by CBC, pursuant to Section
+     -------
+     2.3.
+
+     CBC: CBC Holding (Delaware) Inc., a Delaware corporation.
+     ---
+
+     CBC Put: CBC's right to cause USI to repurchase the Shares under certain
+     -------
+     circumstances, as described in Article III.
+
+     CBC Put Exercise Notice: CBC's notice to USI that CBC wishes to exercise
+     -----------------------
+     the CBC Put.
+
+                                        2
+
+<PAGE>
+
+     CBC Put Price: the price to be paid by USI to CBC in exchange for the
+     -------------
+     Shares, upon CBC's exercise of the CBC Put, as described in Section 3.2.
+
+     CIA: Chase Insurance Agency, Inc., a Delaware corporation.
+     ---
+
+     CIA Indemnified Person: as defined in Section 11.1.
+     ----------------------
+
+     CMC: The Chase Manhattan Corporation, a Delaware corporation and the
+     ---
+     indirect parent company of CBC and CIA.
+
+     Commission Revenue: that portion of the Customer Revenue paid by Carriers
+     ------------------
+     and Providers to Newco or an Affiliate, or retained by Newco or an
+     Affiliate, in connection with the placement of insurance policies and
+     employee benefits programs contemplated hereby.
+
+     Confidential Information of any specified Party: all information provided
+     -----------------------------------------------
+     to a Party or any of its Affiliates (the "Receiving Party") by, or at the
+     direction of, another Party or any of its Affiliates (the "Disclosing
+     Party") in connection with the transactions contemplated hereby. (For the
+     sake of clarity, it is understood that information obtained by USI
+     Affiliates from their customers and prospective customers, outside the
+     context of this Agreement and the transactions and activities contemplated
+     hereby, shall not constitute Confidential Information for purposes hereof.)
+     Such information may be in any form including, but not limited to, printed
+     or oral communications and information stored in printed or electromagnetic
+     format; it may relate to, among other things, the Disclosing Party's or its
+     Affiliates' business relationships and methods of transacting business,
+     their customers, and the terms and conditions of this Agreement and the
+     Related Documents. The term "Confidential Information" shall not include
+     information which (i) was or becomes generally available to the public
+     other than as a result of the disclosure by the Receiving Party, its
+     Affiliates, or any of their respective employees, agents or advisors, or
+     (ii) was or becomes available to the Receiving Party or its employees,
+     agents or advisors on a nonconfidential basis from a source other than the
+     Disclosing Party, its Affiliates, or their respective employees, agents or
+     advisors, provided that such source is not known by the Receiving Party to
+     be prohibited by contractual, legal, or fiduciary obligation from
+     disclosing such information.
+
+     Control Transaction: any transaction contemplated by Section 3.1.
+     -------------------
+
+     Customer Revenue: commissions, fees and other revenues of Newco or an
+     ----------------
+     Affiliate, generated by the sales and Servicing of insurance policies
+
+                                        3
+
+<PAGE>
+
+     and employee benefits programs, and related products and activities
+     contemplated hereby.
+
+     Disclosing Party: as defined in the definition of "Confidential
+     ----------------
+     Information," above.
+
+     EBITDA: earnings of Newco, before deduction of interest, income and
+     ------
+     franchise taxes, depreciation, and amortization.
+
+     EBITDA Exercise Price: the price (consisting of the First Installment and
+     ---------------------
+     the Second Installment) to be paid by CIA to USIS and the USI Partnership
+     or to Newco, as the case may be, upon exercise of the Option pursuant to
+     those Trigger Events specified in Sections 5.6 and 5.7, or upon exercise of
+     the USIS Put, as the case may be.
+
+     Employees: the employees of Newco.
+     ---------
+
+     Estimated Newco Value: the value of Newco calculated by reference to the
+     ---------------------
+     Annualized Run Rate EBITDA, from which the amount of the First Installment
+     is to be calculated, as described in Section 5.6.1.3.
+
+     Excluded Assets: the assets of Newco, if any, which CIA specifies as being
+     ---------------
+     excluded from CIA's purchase of the Newco Business, as described in Section
+     5.8.2.
+
+     Exercise Price: the price (either the EBITDA Exercise Price or the Fixed
+     --------------
+     Exercise Price) which CIA shall pay in exchange for the Newco Shares or the
+     Newco Business, as the case may be, upon exercise of the Option, as
+     described in Sections 5.5, 5.6 and 5.7.
+
+     Fair Market Value: the fair market value of the Shares on the date
+     -----------------
+     specified, determined in accordance with the definition of "Fair Market
+     Value" contained in Section 1 of the Subscription Agreement.
+
+     Final Newco Value: The value of Newco calculated by reference to the
+     -----------------
+     Modified Run Rate EBITDA, from which the amount of the Second Installment
+     is to be calculated, as described in Section 5.7.2.
+
+     First Installment: the first installment of the EBITDA Exercise Price, as
+     -----------------
+     described in Section 5.6.1.3.
+
+     Fixed Exercise Price: the price ($1,000,000) to be paid by CIA to USIS and
+     --------------------
+     the USI Partnership or to Newco, as the case may be, upon exercise of the
+     Option pursuant to those Trigger Events specified in Sections 5.5 and 5.7.
+
+                                        4
+
+<PAGE>
+
+     GAAP: generally accepted accounting principles in the United States, as in
+     ----
+     effect from time to time.
+
+     Guarantee: USI's guarantee of Newco's obligations under the Loan Agreement
+     ---------
+     and the Notes, the form of which is attached to the Loan Agreement as
+     Exhibit LA-C.
+
+     Indemnified Losses: as defined in Section 11.1.
+     ------------------
+
+     Indemnity: the indemnity to be provided by USI to CIA pursuant to Section
+     ---------
+     5.9.1.3 or Section 5.9.2.3, the form of which is attached as Exhibit D.
+
+     Interim Financial Statements: the financial statements of USI and its
+     ----------------------------
+     consolidated Affiliates as of September 30, 1997, attached as Exhibit B.
+
+     Joinder Agreement: the Joinder Agreement to be executed by CBC in
+     -----------------
+     connection with the purchase of the Shares, as described in Section 2.3.4.
+
+     Key Employees: those employees of USI and its Affiliates listed on the
+     -------------
+     attached Schedule 1.
+
+     License Agreement: the License Agreement pursuant to which CMC will
+     -----------------
+     license to Newco the right to use the "Chase" name, as described in Section
+     4.5.1.
+
+     Licensing Requirements: all licenses, registrations, and qualifications
+     ----------------------
+     which are necessary, and all other legal, governmental and regulatory
+     requirements which must be satisfied, either by Newco or by its Employees,
+     for the conduct of Newco's business in any specific jurisdiction.
+
+     Loans: the credit facilities to be made available to Newco by an Affiliate
+     -----
+     of CMC pursuant to Section 4.4.
+
+     Loan Agreement: the Revolving Credit and Term Loan Agreement pursuant to
+     --------------
+     which an Affiliate of CMC will make the Loans to Newco, as described in
+     Section 4.4.1.
+
+     Marketing Agreement: the agreement pursuant to which CIA and certain of its
+     -------------------
+     Affiliates will refer certain customers to Newco, as described in Section
+     4.6.
+
+                                        5
+
+<PAGE>
+
+     Middle Market Customers: businesses having annual sales of between $3
+     -----------------------
+     million and $500 million.
+
+     Modified Run Rate EBITDA: the Annualized Run Rate EBITDA adjusted as
+     ------------------------
+     described in Section 5.6.2.1.
+
+     New Owner Price: the per share price paid for shares of USI in a
+     ---------------
+     transaction described in Section 3.2.3.
+
+     Newco: collectively, Chase/USI Employee Benefits and Commercial Insurance
+     -----
+     Agency, LLC, a Delaware limited liability company to be formed by USI in
+     accordance with Section 4.1, and the Newco Subsidiaries.
+
+     Newco Business: at any specified date, the assets of Newco (other than the
+     --------------
+     Excluded Assets, if any), and the liabilities of Newco to the extent they
+     are reflected on Newco's balance sheet or incurred in the ordinary course
+     of its business in accordance with the Business Plan, as described in
+     Section 5.1.
+
+     Newco Pledge: Newco's pledge of all its assets to secure the Loans, the
+     ------------
+     form of which is attached to the Loan Agreement as Exhibit LA-E.
+
+     Newco Shares: at any specified date, all outstanding membership interests
+     ------------
+     and/or other forms of equity ownership, of Newco.
+
+     Newco Subsidiaries: the subsidiaries of Newco to be formed pursuant to
+     ------------------
+     Section 4.2.2.2 in order to comply with the Licensing Requirements of
+     certain jurisdictions.
+
+     Notes: the Revolving Credit Note and the Term Note.
+     -----
+
+     Operating Statement: the income statement for Newco for the Trailing Twelve
+     -------------------
+     Months, to be prepared by USI and Newco, pursuant to Section 5.6.1.1, upon
+     exercise of the Option or the USIS Put, as the case may be.
+
+     Option: CIA's option to purchase either the Newco Shares or the Newco
+     ------
+     Business, as described in Article V.
+
+     Option Closing Date: the date, to be selected by USI and CIA in accordance
+     -------------------
+     with Section 5.4, on which CIA's purchase of the Newco Shares or the Newco
+     Business pursuant to the Option is consummated.
+
+     Option Exercise Date: the first day of the month in which CIA delivers the
+     --------------------
+     Option Exercise Notice to USI, as described in Section 5.6.
+
+                                        6
+
+<PAGE>
+
+     Option Exercise Notice: the notice that CIA intends to exercise the Option,
+     ----------------------
+     to be delivered by CIA to USI pursuant to Section 5.3.
+
+     Party: any party to this Agreement or any of the Related Documents.
+     -----
+
+     Preferred Stock: the Series N Preferred Stock of USI.
+     ---------------
+
+     Providers: companies (other than Carriers) involved in selling or servicing
+     ---------
+     commercial property and casualty insurance and employee benefits products
+     and/or providing support services related thereto, including without
+     limitation third party administrators and health maintenance organizations.
+
+     Purchase Price: the Purchase Price which CBC will pay to USI for the
+     --------------
+     Shares, as described in Article II.
+
+     Receiving Party: as defined in the definition of "Confidential
+     ---------------
+     Information," above.
+
+     Related Documents: the Joinder Agreement, the License Agreement, the Loan
+     -----------------
+     Agreement, the Notes, the Guarantee, the USIS Pledge, the Newco Pledge, the
+     Marketing Agreement, the Subscription Agreement, and all other documents to
+     be delivered pursuant hereto or thereto.
+
+     Repurchase Date: the date on which the repurchase of the Shares by USI
+     ---------------
+     pursuant to the CBC Put is consummated, as described in Section 3.3.4.
+
+     Revolving Credit Note: the promissory note to be issued by Newco in
+     ---------------------
+     exchange for the Revolving Credit Loan, the form of which is attached to
+     the Loan Agreement as Exhibit LA-A.
+
+     Second Installment: the second installment of the EBITDA Exercise Price, as
+     ------------------
+     described in Section 5.6.2.2.
+
+     Servicing: activities relating to the ongoing processing and administration
+     ---------
+     of Newco's business, including without limitation those activities listed
+     on the attached Schedule 3, but excluding third party administration
+     services.
+
+     Shares: any shares of the Preferred Stock purchased by CBC.
+     ------
+
+     Share Purchase Notice: the notice that Newco has been formed and
+     ---------------------
+     capitalized, to be delivered by USI to CBC pursuant to Section 4.1.4.
+
+     Subcontracts and Subcontractors: as defined in Schedule 6.
+     -------------------------------
+
+                                        7
+
+<PAGE>
+
+     Subscription Agreement: the Subscription Agreement to be executed by CBC
+     ----------------------
+     and USI in accordance with Section 2.3.1.
+
+     Substitute Carriers/Providers: as defined in Section 5.11.
+     -----------------------------
+
+     Tax: any federal, state, local or foreign income, gross receipts, license,
+     ---
+     payroll, employment, excise, severance, stamp, occupation, premium,
+     windfall profits, environmental, customs duties, capital stock, franchise,
+     profits, withholding, social security (or similar), unemployment,
+     disability, real property, personal property, sales use, transfer,
+     registration, value added, alternative or add-on minimum, estimated, or
+     other tax of any kind whatsoever, including any interest, penalty, or
+     addition thereto, whether disputed or not.
+
+     Term Note: the promissory note to be issued by Newco in exchange for the
+     ---------
+     Term Loan, the form of which is attached to the Loan Agreement as Exhibit
+     LA-B.
+
+     Termination Fee: the fee payable by CIA to USI under certain circumstances,
+     ---------------
+     as described in Section 6.3.
+
+     Trailing Twelve Months: the period of twelve (12) calendar months prior to
+     ----------------------
+     the first day of the month in which the Option Exercise Notice or the USIS
+     Put Exercise Notice, as the case may be, is received, as described in
+     Section 5.6.
+
+     Transfer Consents: written acknowledgments from Carriers and Providers
+     -----------------
+     that, after the Option Closing Date or the USIS Put Closing Date, as the
+     case may be, their agreements with Newco will continue in force (if the
+     Newco Shares are purchased) or will be freely transferred to CIA (if the
+     Newco Business is purchased).
+
+     Trigger Event: an event which gives CIA the immediate right to exercise the
+     -------------
+     Option, as set forth in Section 5.2.
+
+     USI: U.S.I. Holdings Corporation, a Delaware corporation.
+     ---
+
+     USI Indemnified Person: as defined in Section 11.2.
+     ----------------------
+
+     USI Partnership: a limited partnership to be formed by USI and USIS, as
+     ---------------
+     described in Section 4.1.2, to own at least 99% of the equity interests in
+     Newco.
+
+                                        8
+
+<PAGE>
+
+     USIS: USI Insurance Services Corp., a Delaware corporation wholly-owned by
+     ----
+     USI.
+
+     USIS Pledge: the pledge by USIS and the USI Partnership of their respective
+     -----------
+     ownership interests in Newco to secure the Loans, the form of which is
+     attached to the Loan Agreement as Exhibit LA-D.
+
+     USIS Put: the right of USIS and the USI Partnership to cause CIA to
+     --------
+     purchase the Newco Shares or the Newco Business under certain
+     circumstances, as described in Article VII.
+
+     USIS Put Closing Date: the date, to be selected by CIA in accordance with
+     ---------------------
+     Section 7.5, on which CIA's purchase of the Newco Shares or the Newco
+     Business pursuant to the USIS Put is consummated.
+
+     USIS Put Exercise Date: the date on which the USIS Put Exercise Notice is
+     ----------------------
+     delivered to CIA.
+
+     USIS Put Exercise Notice: the notice that USIS intends to exercise the USIS
+     ------------------------
+     Put, to be delivered by USIS to CIA pursuant to Section 7.4.
+
+II. CBC INVESTMENT IN USI. CBC agrees to purchase 923,000 Shares of Preferred
+    ---------------------
+Stock for an aggregate purchase price of US $5,999,500 (the "Purchase Price"),
+as set forth below.
+
+2.1 Terms of the Preferred Stock. The terms of the Preferred Stock shall be as
+    ----------------------------
+set forth in the attached Schedule 2.
+
+2.2 Conditions Precedent.
+    --------------------
+
+     2.2.1 The obligations of CBC to purchase the Shares hereunder shall be
+     subject to the satisfaction of the following conditions precedent:
+
+          2.2.1.1 The Share Purchase Notice shall have been delivered to CBC by
+          USI in accordance with Section 4.1.4.
+
+          2.2.1.2 The representations and warranties of USI and USIS, set forth
+          in Section 9.1 hereof, shall be true, complete, and correct on and as
+          of the Closing Date.
+
+          2.2.1.3 USI, USIS, and Newco shall be in full compliance with all the
+          terms and conditions of this Agreement and the Related Documents, as
+          of the Closing Date.
+
+                                        9
+
+<PAGE>
+
+          2.2.1.4 CBC shall have received certificates of duly authorized
+          officers of USI, dated the Closing Date, substantially in the form
+          attached as Exhibits J and K.
+
+          2.2.1.5 CBC shall have received an opinion of counsel to USI (which
+          counsel must be reasonably satisfactory to CBC), dated the Closing
+          Date, substantially in the form attached as Exhibit L.
+
+     2.2.2 The obligations of USI to issue and sell the Shares to CBC hereunder
+     shall be subject to the following conditions precedent:
+
+          2.2.2.1 The representations and warranties of CBC, set forth in
+          Section 9.2 hereof, shall be true, complete, and correct on and as of
+          the Closing Date.
+
+          2.2.2.2 CBC shall be in full compliance with all terms and conditions
+          of the Agreement and all the Related Documents, as of the Closing
+          Date.
+
+          2.2.2.3 USI shall have received certificates of duly authorized
+          officers of CBC, dated the Closing Date, substantially in the form
+          attached as Exhibits M and N.
+
+          2.2.2.4 USI shall have received an opinion of in-house counsel to CBC
+          and/or its Affiliates, dated the Closing Date, substantially in the
+          form attached as Exhibit O.
+
+2.3 The Closing. The Closing of the purchase and sale of the Shares shall take
+    -----------
+place on a date (the "Closing Date"), to be agreed between USI and CBC, within
+ten (10) Business Days after CBC's receipt of the Share Purchase Notice. On the
+Closing Date, the following actions shall be taken in connection therewith:
+
+     2.3.1 Each of USI and CBC shall execute, and deliver to the other, a
+     Subscription Agreement substantially in the form attached as Exhibit I.
+
+     2.3.2 USI shall deliver to CBC stock certificates representing the Shares.
+
+     2.3.3 CBC shall deliver the amount of $5,999,500 to USI, by wire transfer
+     of immediately available funds to Citibank F.S.B., Branch #303, 260
+     California Street, San Francisco, California, ABA #321-171184 FAO USI
+     Insurance Services Corp., Business IMMA #601194533.
+
+     2.3.4 CBC shall execute and deliver to USI the Joinder Agreement
+     substantially in the form attached as Exhibit E.
+
+                                       10
+
+<PAGE>
+
+     2.3.5 Each of USI and CBC shall deliver to the other the certificates and
+     opinions of counsel referred to in Sections 2.2.1.5 and 2.2.1.6, and
+     2.2.2.4 and 2.2.2.5, respectively.
+
+III. THE CBC PUT.
+     ------------
+
+3.1 Events Giving Rise to the CBC Put Option. USI agrees to re-purchase the
+    ----------------------------------------
+Shares from CBC, at CBC's option (the "CBC Put"), if, at any time after the
+Closing-Date,
+
+     3.1.1 any commercial bank, any investment bank, any bank holding company,
+     or any Affiliate of any commercial or investment bank or bank holding
+     company, acquires ownership of a 25% (or greater) equity interest in USI;
+     or
+
+     3.1.2 any other entity or Affiliated group, other than Zurich Centre
+     Investments Limited and its Affiliates, acquires ownership of a 40% (or
+     greater) equity interest in USI; or
+
+     3.1.3 Zurich Centre Investments Limited and its Affiliates acquire
+     ownership of a 51 % (or greater) equity interest in USI.
+
+For purposes of this Section 3.1, ownership of the specified percentage equity
+interest of USI means the right to determine, directly or indirectly, the votes
+of that percentage of the voting shares (or other equity interest) of USI, or to
+appoint or cause the appointment of that percentage of the members of the board
+of directors of USI; and an investment bank means any registered broker/dealer
+which engages in sales and underwriting of securities, except Dillon Read & Co.
+Inc.
+
+Any acquisition of ownership described in this Section 3.1 shall be considered a
+"Control Transaction."
+
+3.2  CBC Put Price: The per-Share repurchase price which USI shall pay for
+     --------------
+Shares repurchased hereunder (the "CBC Put Price") shall be the greater of:
+
+     3.2.1 the Purchase Price; or
+
+     3.2.2 95% of the Fair Market Value on the date on which CBC delivers the
+     Put Exercise Notice to USI, as the term "Fair Market Value" is defined in
+     the Subscription Agreement; or
+
+     3.2.3 95% of the per-Share purchase price paid by the entity or group in
+     the Control Transaction as a result of which CBC is exercising the CBC Put
+     (the "New Owner Price").
+
+                                       11
+
+<PAGE>
+
+3.3  The Repurchase. Any such repurchase shall take place as follows:
+     ---------------
+
+     3.3.1 USI shall notify CBC, in writing, of the occurrence of any Control
+     Transaction no later than five (5) Business Days after the sooner of the
+     date on which such Control Transaction becomes publicly known or the date
+     on which it becomes effective.
+
+     3.3.2 At any time within 180 days of receipt of such notice, CBC may notify
+     USI, in writing, of its wish to cause USI to repurchase the Shares (the
+     "CBC Put Exercise Notice").
+
+     3.3.3 No later than ten (10) Business Days following its receipt of the CBC
+     Put Exercise Notice, USI shall deliver to CBC a written statement
+     indicating the Fair Market Value and the New Owner Price, together with
+     documentation, reasonably satisfactory to CBC, evidencing the calculation
+     thereof.
+
+     3.3.4 The repurchase of the Shares by USI shall take place on a date (the
+     "Repurchase Date") which shall be mutually agreed by CBC and USI, provided
+     that the Repurchase Date shall be not more than thirty (30) Business Days
+     following the date of the CBC Put Exercise Notice. On the Repurchase Date:
+
+          3.3.4.1 USI shall deliver to CBC, by wire transfer of immediately
+          available funds to the account specified by CBC, the aggregate CBC Put
+          Price; and
+
+          3.3.4.2 CBC shall deliver to USI the certificates for the Shares being
+          repurchased, duly endorsed for transfer, free and clear of any liens,
+          security interests or encumbrances of any type or kind.
+
+3.4  Nonrecourse. CBC's sale of the Shares to USI pursuant to the CBC Put shall
+     ------------
+     be without recourse to CBC.
+
+IV.  DEVELOPMENT OF BROKERAGE BUSINESS.
+     ----------------------------------
+
+4.1  Formation of Newco.
+     -------------------
+
+     4.1.1 USI and USIS shall establish a new Delaware limited liability company
+     under the name Chase/USI Employee Benefits and Commercial Insurance Agency,
+     LLC ("Newco"), to engage exclusively in the brokerage of (i) employee
+     benefit programs, (ii) commercial property and casualty insurance and
+     related individual insurance needs of commercial customers, and (iii)
+     related consulting and Servicing activities. Newco's
+
+                                       12
+
+<PAGE>
+
+     business activities may include, without limitation, the following: risk
+     management and loss control, analysis of loss exposures and designs,
+     insurance loss reserves and rate reviews, performance of cash flow studies,
+     administration of risk funding and transfer techniques, captive company
+     formation, self-insurance consulting, reinsurance placement, management of
+     insurance programs, and the provision of third party administration, and
+     such other activities as may be mutually agreed by CIA and USI. The
+     Certificate of Formation and the Operating Agreement of Newco shall be
+     substantially in the form attached as Exhibit P.
+
+     4.1.2 Newco shall have two members: USIS (the sole manager, the sole voting
+     member, and holder of up to 1 % of Newco's equity), and a limited
+     partnership to be established by USI (the "USI Partnership"). USIS will be
+     the general partner of the USI Partnership, and USI will be the limited
+     partner of the USI Partnership.
+
+     4.1.3 USI shall cause USIS and the USI Partnership to make capital
+     contributions to Newco in the aggregate amount of $1,000,000 in cash.
+
+     4.1.4 USI agrees that Newco shall be formed in accordance with this Section
+     4.1 within ten (10) Business Days after execution of this Agreement. USI
+     shall provide to CBC written evidence of Newco's organization (the "Share
+     Purchase Notice") as soon as practicable thereafter, so that the Closing
+     Date may be agreed between USI and CBC. USI further agrees that Newco shall
+     be capitalized within one (1) Business Day after the Closing, and USI shall
+     provide to CIA written evidence of such capitalization within two (2)
+     Business Days thereafter.
+
+4.2  Business and Operation of Newco.
+     -------------------------------
+
+     4.2.1 Subject in all cases to the terms of this Agreement and the Related
+     Documents, USI and USIS shall be responsible for overseeing the operations
+     of Newco and managing the development of its business, including without
+     limitation the following:
+
+          4.2.1.1 appointing all directors of Newco;
+
+          4.2.1.2 recruiting, training, developing, and managing all Employees
+          of Newco, including both sales and Servicing capabilities;
+
+          4.2.1.3 developing internal accounting and control functions;
+
+          4.2.1.4 maintaining the Newco books and financial records in
+          accordance with GAAP, consistently applied;
+
+                                       13
+
+<PAGE>
+
+          4.2.1.5 maintaining complete and adequate corporate records of Newco;
+
+          4.2.1.6 establishing and maintaining management systems to record,
+          monitor, and analyze (i) all material customer complaints; (ii) all
+          complaints and inquiries from regulatory and law enforcement agencies
+          which could reasonably be expected to affect Newco's ability to
+          conduct its business in accordance with this Agreement, the Business
+          Plan, and the other Related Documents; (iii) the occurrence of events
+          which could give rise to claims-related losses or lead to litigation
+          in connection with the insurance policies and employee benefits
+          programs sold by Newco; (iv) substantive changes in Newco's
+          relationships with Carriers and Providers; and (v) all such other data
+          and information relevant to qualitative analysis of Newco's business
+          activities as CIA may reasonably request.
+
+          4.2.1.7 leasing and maintaining appropriate premises for Newco's
+          operations and customer interaction;
+
+          4.2.1.8 obtaining appropriate operating equipment, including computer
+          hardware and software and telecommunications facilities;
+
+          4.2.1.9 assuring regulatory compliance;
+
+          4.2. 1.10 directing business development and customer solicitation;
+
+          4.2.1.11 securing and maintaining agreements with the key Carriers and
+          Providers listed on the attached Schedule 4, and with such other
+          Carriers and Providers as USI and CIA may agree are appropriate to
+          support the business referred to Newco under the Marketing Agreement;
+          and
+
+          4.2.1.12 developing, with the appropriate Carriers and Providers, a
+          product range and expertise sufficient to support the business
+          referred to Newco under the Marketing Agreement.
+
+     4.2.2 USI and USIS shall be responsible for assuring that Newco (and its
+     Employees, as necessary) complies with the Licensing Requirements of all
+     relevant jurisdictions, as follows:
+
+          4.2.2.1 USI and USIS shall use their best efforts to assure that, no
+          later than thirty days after its formation, Newco (and its Employees)
+          shall have complied with the Licensing Requirements of the states
+
+                                       14
+
+<PAGE>
+
+          of New York, New Jersey and Connecticut. In any case, Newco and its
+          Employees shall be in compliance with such Licensing Requirements as
+          soon as possible thereafter.
+
+          4.2.2.2 As soon as practicable following a written request by CIA,
+          Newco (and its Employees) shall have complied with the Licensing
+          Requirements of the states listed on the attached Schedule 5. To the
+          extent that compliance with the Licensing Requirements of any
+          jurisdiction(s) requires a locally incorporated entity, Newco shall
+          form such subsidiaries in such jurisdictions (the "Newco
+          Subsidiaries") and shall cause the Newco Subsidiaries to take all such
+          actions as shall be necessary or appropriate to comply with such
+          Licensing Requirements. USI agrees that, where possible, all Newco
+          Subsidiaries shall be organized as limited liability companies.
+          References to Newco in this Agreement and the Related Documents shall
+          refer equally to the Newco Subsidiaries.
+
+          4.2.2.3 To the extent that Newco is presented with new business
+          opportunities requiring compliance with the Licensing Requirements of
+          any other state or jurisdiction, Newco (and its Employees) shall, as
+          soon as practicable thereafter, comply with such Licensing
+          Requirements. To the extent necessary pending Newco's compliance with
+          any such requirements, USI or USIS shall cause one of its Affiliates
+          to engage in such new business, and, promptly upon Newco's compliance
+          with such Licensing Requirements, USI or USIS shall cause such
+          Affiliate to transfer such new business to Newco, without cost. The
+          foregoing notwithstanding, it is understood that, if CIA confirms in
+          writing that compliance with the Licensing Requirements of any
+          specified jurisdiction is not commercially reasonable in view of the
+          limited prospective business for Newco in such jurisdiction, then,
+          until such time as CIA may reverse such determination, Newco shall not
+          be compelled to comply with the Licensing Requirements of such
+          jurisdiction. In any such case, USI or USIS shall cause one of its
+          Affiliates to engage in the proposed new business in such
+          jurisdiction. At any time up to and including the Option Closing Date
+          or the USIS Put Closing Date, as the case may be, upon CIA's request,
+          USI shall cause such Affiliate to transfer such new business to CIA,
+          without cost.
+
+          4.2.2.4 In any case where, pursuant to Section 4.2.2.3, USI or one of
+          its Affiliates is engaging in business on behalf of Newco, USI or such
+          Affiliate shall be entitled to 60% of the Commission Revenue paid by
+          the relevant Carrier or Provider to, or retained by, US[ or such
+          Affiliate, with the remainder of such Commission Revenue to
+
+                                       15
+
+<PAGE>
+
+          be promptly paid by USI or such Affiliate to Newco (to the extent
+          permitted by applicable Licensing Requirements).
+
+     4.2.3 USI and USIS shall cause the development, within Newco, of an
+     internal Servicing capability for Newco's property and casualty and
+     employee benefits brokerage business. Such unit shall be a cohesive
+     business unit, staffed by and reporting to Newco Employees, capable of
+     functioning entirely independently of USI and its Affiliates and, on that
+     basis, of Servicing all of Newco's existing and projected property and
+     casualty and employee benefits business without reliance on external
+     Servicing resources. Such capability shall be in place no later than two
+     (2) years following the date hereof. (It is understood that, with respect
+     to employee benefits business, internal Servicing capability shall be in
+     place prior to the commencement of Newco's operations.) In the interim
+     period between the formation of Newco and the implementation of a full
+     Servicing capability for property and casualty business hereunder, USI
+     shall, or shall cause its Affiliates to, perform such Servicing activities
+     as Newco's business may require, to the extent Newco is unable to perform
+     such activities internally. As compensation for the performance of such
+     Servicing activities, USI or its Affiliate, as the case may be, shall be
+     entitled to receive 60% of the Commission Revenue paid by the relevant
+     Carrier or Provider to, or retained by, Newco or USI or such Affiliate with
+     respect to the relevant Newco customers; the remainder of such Commission
+     Revenue shall be payable to Newco.
+
+     4.2.4 USI and USIS shall ensure that:
+
+          4.2.4.1 the organizational and governing documents of Newco are not
+          amended in any way inconsistent with the terms of this Agreement or
+          any of the Related Documents;
+
+          4.2.4.2 Newco is operated at all times substantially in accordance
+          with all terms of this Agreement, the Business Plan, and the other
+          Related Documents;
+
+          4.2.4.3 USIS and the USI Partnership remain the sole members of Newco,
+          and no other person or entity owns any equity interest in Newco;
+
+          4.2.4.4 USIS remains wholly-owned by USI;
+
+          4.2.4.5 USIS remains the sole general partner of the USI Partnership;
+
+                                       16
+
+<PAGE>
+
+          4.2.4.6 USI remains the sole limited partner of the USI Partnership;
+
+          4.2.4.7 Newco does not form or acquire any subsidiaries other than the
+          Newco Subsidiaries;
+
+          4.2.4.8 Newco is at all times in compliance with all material laws and
+          regulations;
+
+          4.2.4.9 Newco and its Employees remain in compliance with all material
+          terms of the applicable Licensing Requirements of New York, New
+          Jersey, Connecticut, Texas and all other jurisdictions in which
+          Newco's business activities require such compliance;
+
+          4.2.4.10 Newco's employment policies and practices conform to those
+          set forth in the attached Schedule 6;
+
+          4.2.4.11 Newco maintains insurance coverage in accordance with the
+          attached Schedule 7;
+
+          4.2.4.12 all of Newco's dealings with USI and its other Affiliates are
+          conducted on an arms'-length basis; all such dealings relating to the
+          provision of marketing and other services (except those referred to in
+          the second sentence of Section 4.2.2.3, Section 4.2.2.4, and the last
+          two sentences of Section 4.2.3, unless applicable Licensing
+          Requirements or other laws and regulations provide otherwise) are
+          documented in written agreements, which must be in form and substance
+          satisfactory to CIA; and all such dealings are accurately recorded and
+          readily identifiable on the books and records of USI, Newco, and their
+          Affiliates;
+
+          4.2.4.13 Newco delivers to CIA, on a timely basis, the financial
+          statements and other reports listed on the attached Schedule 8;
+
+          4.2.4.14 Newco delivers to CIA, promptly upon CIA's request, such
+          qualitative or trending analyses of Newco's business as CIA may
+          reasonably require;
+
+          4.2.4.15 all of Newco's agreements with Carriers and Providers are
+          documented in written contracts, which must be in form and substance
+          reasonably satisfactory to CIA;
+
+          4.2.4.16 to the extent possible, with the exertion of USI's best
+          efforts, all of Newco's agreements with Carriers and Providers are on
+          terms (including without limitation compensation, terms of
+
+                                       17
+
+<PAGE>
+
+          coverage, and pricing) no less favorable than the terms offered by the
+          relevant Carriers and Providers to other similarly situated USI
+          Affiliates;
+
+          4.2.4.17 except as otherwise specifically provided herein or in the
+          Business Plan, Newco is the agent, or is recognized as the broker of
+          record, on all agreements with Carriers and Providers involving
+          commercial property and casualty insurance, life insurance, and
+          employee benefits programs offered to customers of CIA or its
+          Affiliates under the Marketing Agreement;
+
+          4.2.4.18 Newco and the Newco Subsidiaries make all filings and
+          payments related to Taxes in a timely and accurate fashion; and
+
+          4.2.4.19 For federal, state and local income and franchise tax
+          purposes, Newco and each of the Newco Subsidiaries do not elect to be
+          classified as associations and either (i) will be classified as a
+          partnership, or (ii) will not be regarded as entities separate from
+          their owners pursuant to the default classification of Income Tax
+          Regulation Section 1.7701-3(b)(i) and (ii).
+
+4.3  Acquisition(s) and Expansion by USI.
+     -----------------------------------
+
+     4.3.1 USI acknowledges its intent, in the near term, to acquire one or more
+     property and casualty insurance agencies in the Northeastern United States
+     to supplement the capabilities of Carpenter and Pelton, Inc., one of USI's
+     existing subsidiaries. USI and CIA agree that such acquisition(s) are
+     crucial to Newco's success. Therefore, USI covenants and agrees with CIA
+     that USI will, within 15 (fifteen) calendar months after the date hereof,
+     complete the acquisition of one or more such agencies with an aggregate of
+     at least $8 million in annual commission revenue, having broad capability
+     in placing property and casualty insurance and focused primarily on Middle
+     Market customers in New York, New Jersey, and Connecticut (each such
+     acquisition, an "Agency Acquisition", and each agency so acquired, an
+     "Acquired Agency"). To satisfy the requirement of this Section 4.3.1, the
+     Acquired Agency/ies must be reasonably satisfactory to CIA, in view of
+     Newco's anticipated business needs.
+
+     4.3.2 In addition, USI shall develop, within such 15-month period,
+     acceptable levels of expertise in all specialties necessary to conduct
+     Newco's business properly, including without limitation those described on
+     the attached Schedule 9.
+
+                                       18
+
+<PAGE>
+
+4.4  Loans to Newco.
+     ---------------
+
+     4.4.1 An Affiliate of CMC shall make available to Newco, on terms and
+     conditions set forth in the Revolving Credit and Term Loan Agreement, the
+     form of which is attached as Exhibit G (the "Loan Agreement") and the
+     Note(s), credit facilities (the "Loans") in an amount up to $4,000,000.
+
+     4.4.2 USI agrees to guarantee Newco's obligations under the Loan Agreement
+     and the Notes by executing and delivering the Guarantee to the CMC
+     Affiliate acting as lender.
+
+     4.4.3 As further security for the Loans, USI agrees to cause USIS, the USI
+     Partnership, and Newco to execute and deliver the USIS Pledge and the Newco
+     Pledge.
+
+4.5 License of Chase and USI Name. Prior to or immediately upon the formation of
+    -----------------------------
+Newco, Newco, USI, and CMC shall enter into a License Agreement, substantially
+in the form attached as Exhibit F-1, pursuant to which CMC will license to
+Newco the right to use the "Chase" name, subject to the terms, conditions, and
+restrictions set forth therein.
+
+4.6 Marketing Agreement. Newco, USI, and CIA and/or its relevant Affiliates
+    -------------------
+shall enter into a Marketing Agreement, substantially in the form attached as
+Exhibit H, pursuant to which CIA and/or such Affiliates would refer to Newco
+certain of their commercial customers for their property and casualty insurance
+and employee benefits program needs. The Marketing Agreement shall be executed
+by the parties thereto no later than five (5) Business Days after the date of
+the Share Purchase Notice.
+
+V.   CIA'S PURCHASE OPTION.
+     ---------------------
+
+5.1 The Option. At any time after November 30, 2000, and at any time within 180
+    ----------
+days after CIA learns of the occurrence of any other Trigger Event, CIA shall
+have the irrevocable option (the "Option") to purchase, in its sole discretion,
+either (i) all the membership interests, or other forms of equity ownership, of
+Newco (the "Newco Shares"), or (ii) the assets of Newco, and those liabilities
+of Newco (including the Loans) which are reflected on the most recent balance
+sheet delivered pursuant to Schedule 8, or which are incurred in the ordinary
+course of its business in accordance with the Business Plan (collectively, the
+"Newco Business").
+
+5.2 Trigger Event: Any of the following shall be considered a Trigger Event
+    -------------
+hereunder:
+
+     5.2.1 the date November 30, 2000;
+
+                                       19
+
+<PAGE>
+
+     5.2.2 the exercise of the CBC Put;
+
+     5.2.3 any breach by USI or any of its Affiliates of any provision of this
+     Agreement or any of the Related Documents, which breach remains uncured for
+     a period of ten (10) Business Days following receipt by USI from CIA of
+     written notice of such breach (or, if such breach cannot be cured within
+     such ten-day period, USI and its Affiliates do not continue in good faith
+     to effect such cure, provided that such cure must be effected in any event
+     within ninety (90) days following receipt by USI of such notice of breach);
+
+     5.2.4 an Event of Default specified under Section 7.1 of the Loan
+     Agreement;
+
+     5.2.5 the delivery of the notice of termination by USI to CIA pursuant to
+     Section 6.2;
+
+     5.2.6 the termination of the Marketing Agreement by Newco/USI/USIS pursuant
+     to Section 11.1.1, or by CIA pursuant to Section 11.1.3, of the Marketing
+     Agreement; or
+
+     5.2.7 the termination of the License Agreement.
+
+5.3 Method of Exercise. If CIA determines to exercise the Option, it shall give
+    ------------------
+USI written notice (the "Option Exercise Notice") of its intention to do so.
+
+5.4 Option Closing Date. The closing of CIA's acquisition of the Newco Shares or
+    -------------------
+the Newco Business pursuant to the Option shall take place on a date (the
+"Option Closing Date") to be mutually agreed by USI and CIA, which date shall
+be:
+
+     5.4.1 if the applicable Exercise Price is the Fixed Exercise Price, not
+     more than ninety (90) days following USI's receipt of the Option Exercise
+     Notice; or
+
+     5.4.2 if the applicable Exercise Price is the EBITDA Exercise Price, not
+     more than ninety (90) days following determination of the amount of the
+     First Installment by USI pursuant to Section 5.6.1.3 or, if CIA objects to
+     USI's calculation of the First Installment pursuant to Section 5.6.3.1,
+     then not more than ten (10) days following the decision of the Arbiter
+     pursuant to Section 5.6.3.3.
+
+                                       20
+
+<PAGE>
+
+5.5 Fixed Exercise Price. If CIA exercises the Option pursuant to a Trigger
+    --------------------
+Event described in Sections 5.2.3 or 5.2.4, the Exercise Price shall be
+$1,000,000 (the "Fixed Exercise Price").
+
+5.6 EBITDA Exercise Price. If CIA exercises the Option pursuant to a Trigger
+    ---------------------
+Event described in Sections 5.2.1, 5.2.5, 5.2.6, or 5.2.7 the Exercise Price
+shall be the EBITDA Exercise Price, which shall be calculated by reference to
+Newco's financial results for the period of twelve (12) calendar months prior to
+the first day of the month in which the Option Exercise Notice is given (the
+"Option Exercise Date"), adjusted as provided below. (For purposes hereof such
+twelve month period (preceding the Option Exercise Date) is referred to as the
+"Trailing Twelve Months.") The EBITDA Exercise Price shall be comprised of two
+successive payments, a "First Installment" and a "Second Installment."
+
+     5.6.1 The First Installment shall be payable on the Option Closing Date and
+     shall be calculated as follows:
+
+          5.6.1.1 Promptly upon receipt of the Option Exercise Notice (and in
+          any event no later than thirty (30) days thereafter), USI and Newco
+          shall prepare an income statement (the "Operating Statement") for
+          Newco for the Trailing Twelve Months. The Operating Statement is to be
+          prepared in accordance with GAAP, showing the actual EBITDA for the
+          Trailing Twelve Months.
+
+          5.6.1.2 The Operating Statement and calculation of EBITDA will then be
+          adjusted by USI/Newco as follows:
+
+          (i) To the extent the Customer Revenue for any account which is not in
+          lapse or terminated for non-payment by a Carrier or Provider has been
+          recognized by Newco in the Trailing Twelve Months at less than the
+          annual income from the related account, the income reflected on the
+          Operating Statement will be adjusted upward to reflect the annual
+          Customer Revenue for such account.
+
+          (ii) Any Customer Revenue from an account which has been canceled as
+          of the Option Exercise Date (or which Newco knows will be canceled
+          during the six month period following the Option Exercise Date), or
+          which is in lapse or has been terminated for nonpayment by a Carrier
+          or Provider as of the Option Exercise Date, will be deducted from the
+          annual income reflected on the Operating Statement for such account.
+
+          (iii) If any account(s) with effective dates on or prior to the Option
+          Exercise Date have been placed with a Carrier or Provider, but
+          Customer Revenue from such account(s) has not yet been
+
+                                       21
+
+<PAGE>
+
+          recorded as income on the Operating Statement, the income reflected on
+          the Operating Statement will be adjusted upward in an amount equal to
+          the annual Customer Revenue to be received from such account(s).
+
+          (iv) The expense reflected on the Operating Statement will be adjusted
+          upward or downward, as the case may be, to reflect the appropriate
+          annual commission and bonus expense for the increases and decreases in
+          Customer Revenue determined in accordance with (i), (ii), and (iii)
+          above.
+
+          (v) Expense reflected on the Operating Statement for salary, payroll
+          taxes, and employee benefits will be adjusted upward or downward, as
+          the case may be, to reflect all Employees on the then most current
+          payroll register (except those whose employment has been terminated
+          prior to the Option Exercise Date), plus those positions which are
+          then vacant but are expected to be filled, as if such Employees were
+          employed, and such positions were filled, during the entire Trailing
+          Twelve Months.
+
+          (vi) All fees paid to CIA or its Affiliates pursuant to the License
+          Agreement or the Marketing Agreement will be deducted from the expense
+          reflected on the Operating Statement.
+
+          (vii) Income and expense reflected in the Operating Statement will be
+          adjusted downward to reflect the deduction of non-recurring income and
+          expense items not directly related to the sales and Servicing of
+          Newco's customer accounts.
+
+          (viii) The amount of expense reflected in the Operating Statement will
+          be adjusted upward to reflect annual expenses related to all
+          contractual commitments which exist at the Option Exercise Date.
+
+          (ix) The amount of expense reflected in the Operating Statement will
+          be adjusted downward to reflect the reduction of annual expenses
+          attributable to contractual commitments, if any, which existed during
+          a part of the Trailing Twelve Months but which (a) are no longer in
+          force as of the day after Option Exercise Date, or which Newco knows
+          will be terminated during the Adjustment Period (as defined below), or
+          (b) which have been amended, as of the day after the Option Exercise
+          Date, to reflect terms more favorable than those by reference to which
+          the Annualized Run Rate EBITDA was calculated, or which Newco knows
+          are to be so amended during the Adjustment Period.
+
+                                       22
+
+<PAGE>
+
+          For purposes hereof, EBITDA adjusted in accordance with this Section
+          5.6.1.2 is referred to as the "Annualized Run Rate EBITDA."
+
+          5.6.1.3 The Estimated Newco Value shall be (i) the Annualized Run Rate
+          EBITDA, (ii) times 5.1; and the First Installment shall be equal to
+          75% of the Estimated Newco Value, less the amount of principal and
+          accrued unpaid interest outstanding under the Loan Agreement as of the
+          Option Closing Date.
+
+          5.6.1.4 USI and Newco shall be responsible for the calculation of the
+          Estimated Newco Value and the First Installment, and shall notify CIA
+          of the results of such calculation no later than sixty (60) days
+          following the Option Exercise Date. Such notice shall be accompanied
+          by a written explanation of such calculation, including itemized
+          reconciliation and support documentation reasonably satisfactory to
+          CIA. It is understood, further, that CIA may participate in
+          USI's/Newco's calculations hereunder to the extent CIA shall deem it
+          appropriate or expedient.
+
+     5.6.2 The Second Installment shall be calculated based on adjustments to
+     the Annualized Run Rate EBITDA, as described below, as necessary to reflect
+     certain customer cancellations or nonpayments during the period of six (6)
+     calendar months following the Option Exercise Date (the "Adjustment
+     Period").
+
+          5.6.2.1 Promptly after the end of the Adjustment Period (and in any
+          case no later than ten (10) Business Days thereafter), CIA (or its
+          successor in interest or assignee) shall calculate a revised
+          Annualized Run Rate EBITDA (the "Modified Run Rate EBITDA"), which
+          reflects deletion of annualized income and expense amounts related to
+          accounts which are in lapse or which have been terminated for
+          non-payment by a Carrier or Provider during the Adjustment Period, and
+          for which adjustments were made in the calculation of the Annualized
+          Run Rate EBITDA pursuant to Section 5.6.1.2(i), (iii), and/or (iv).
+
+          5.6.2.2 For purposes of determining the Second Installment, the Final
+          Newco Value shall be (i) the Modified Run Rate EBITDA, (ii) less
+          accounts receivable which are overdue by ninety (90) days or more
+          (after applying applicable reserves), to the extent such accounts
+          receivable were not deducted pursuant to Section 5.6.2.1, (iii) times
+          5.1; and the Second Installment shall be an amount equal to (a) the
+          Final Newco Value, (b) less the First Installment, (c) less the amount
+          of principal and accrued interest outstanding under the
+
+                                       23
+
+<PAGE>
+
+          Loan Agreement as of the Option Closing Date, (d) less the amount of
+          any nonrecurring liabilities which have not been paid for which a
+          reserve was taken or should have been taken in accordance with GAAP,
+          as of the day immediately preceding the Option Closing Date, (e) less
+          accounts payable which are overdue, as of the day immediately
+          preceding the Option Closing Date.
+
+          5.6.2.3 CIA shall be responsible for the calculation of the Final
+          Newco Value and the amount of the Second Installment, and shall notify
+          USI of the results of such calculation no later than thirty (30) days
+          following the end of the Adjustment Period. Such notice shall be
+          accompanied by a written explanation of such calculation, including
+          itemized reconciliation and support documentation reasonably
+          satisfactory to USI.
+
+          5.6.2.4 The Second Installment shall be payable by CIA to USIS and the
+          USI Partnership or to Newco, as the case may be (or, if the amount of
+          the Second Installment is a negative number, by USIS and the USI
+          Partnership or by Newco, as the case may be, to CIA) no later than ten
+          (10) Business Days following USI's receipt of CIA's calculation
+          thereof in accordance with Section 5.6.2.3, subject in all cases to
+          the provisions of Section 5.6.3, below.
+
+     5.6.3 Each of CIA or USI shall have the right to review and challenge the
+     calculation made by the other hereunder, as follows:
+
+          5.6.3.1 From the date of USI's receipt of the Option Exercise Notice,
+          CIA shall be granted full access to the books and records of Newco
+          and, as relevant, to those of USI and its other Affiliates providing
+          services to Newco. CIA shall have thirty (30) days after receipt of
+          USI's calculation of the First Installment to give USI written notice
+          of any objection CIA may have to such calculation.
+
+          5.6.3.2 Following the Option Closing Date, CIA shall inform USI of all
+          accounts which have lapsed or been canceled for non-payment and which
+          are to be reflected in CIA's calculation of the Second Installment,
+          and USI shall have thirty (30) days after receipt of such calculation
+          to give CIA written notice of any objection USI may have thereto.
+
+          5.6.3.3 If during either such 30-day period, either Party receives
+          such an objection from the other, then USI and CIA shall endeavor to
+          agree upon the amount of the First Installment or the Second
+          Installment, as the case may be. If they are unable, within thirty
+          (30) days, to so agree, then the issue shall be submitted for
+
+                                       24
+
+<PAGE>
+
+          resolution to a qualified independent Arbiter in accordance with the
+          procedures set forth in the attached Schedule 10.
+
+5.7 Exercise Price When CBC Put Exercise is Trigger Event. If CIA exercises the
+    -----------------------------------------------------
+Option pursuant to a Trigger Event described in Section 5.2.2, the Exercise
+Price shall be the greater of the Fixed Exercise Price or the EBITDA Exercise
+Price.
+
+5.8 Election of Newco Shares or Newco Business: Exclusion of Certain Assets.
+    -----------------------------------------------------------------------
+
+     5.8.1 Not less than 45 (forty-five) days prior to the Option Closing Date,
+     CIA shall notify USI, in writing, whether CIA will purchase the Newco
+     Shares or the Newco Business.
+
+     5.8.2. It is understood that, if CIA elects to purchase the Newco Business
+     pursuant to the Option, CIA may, at any time up to and including the day
+     ten (10) Business Days prior to the Option Closing Date, give Newco written
+     notice specifying any assets of Newco as being excluded from CIA's purchase
+     of the Newco Business, in which case such specified assets (the "Excluded
+     Assets") shall not be transferred to CIA on the Option Closing Date and
+     shall be retained by Newco. It is understood that CIA may designate as
+     Excluded Assets only those assets of Newco which CIA is prohibited from
+     owning by laws, regulations, orders, rulings, or judgments of legislative,
+     regulatory, or judicial bodies having jurisdiction over CIA.
+
+5.9 The Option Closing.
+    ------------------
+
+     5.9.1 If the Exercise Price is the Fixed Exercise Price, then, on the
+     Option Closing Date:
+
+          5.9.1.1 CIA shall pay to USIS and the USIS Partnership (in the event
+          of a purchase of the Newco Shares) or Newco (in the event of a
+          purchase of the Newco Business) the Exercise Price, by wire transfer
+          of immediately available funds to the account specified by USI or
+          Newco, as the case may be, at least three (3) Business Days prior to
+          the Option Closing Date;
+
+          5.9.1.2 USI, USIS, the USI Partnership, and/or Newco shall deliver to
+          CIA such documents, instruments, and other items, in form and
+          substance reasonably satisfactory to CIA, as CIA may determine are
+          necessary or appropriate in connection with the transfer to CIA of
+          good title to the Newco Shares or the Newco Business, as the case may
+          be, including without limitation evidence
+
+                                       25
+
+<PAGE>
+
+          of membership in Newco, bills of sale, assignments, liability
+          assumption agreements, representations and warranties, opinions of
+          counsel, officers' certificates, etc., and items related to the tax
+          deductibility for CIA of the Exercise Price (including any principal
+          and interest under the Loan Agreement applied to the Exercise Price)
+          and any election under Internal Revenue Code Sections 338(h)(10) or
+          754 or comparable state and local provisions;
+
+          5.9.1.3 USI shall deliver to CIA an Indemnity, substantially in the
+          form attached as Exhibit D, pursuant to which USI will indemnify CIA,
+          its designee (if any), and their respective Affiliates for (i) any
+          loss, damage, or expense (including without limitation fees and
+          expenses of legal counsel) arising out of any actual or alleged
+          malfeasance, bad faith, or negligence of USI, Newco, any other USI
+          Affiliate, or any of their respective employees, directors, officers,
+          or agents, in the conduct of Newco's business prior to the Option
+          Closing Date, and (ii) any obligations of Newco, including without
+          limitation obligations for the payment of Taxes, incurred prior to, or
+          arising out of Newco's activities prior to, the Option Closing Date
+          (other than those liabilities reflected on the most recent balance
+          sheet of Newco delivered pursuant to Schedule 8 and incurred in the
+          ordinary course of business in accordance with the Business Plan);
+
+          5.9.1.4 USI and Newco shall use their best efforts to deliver to CIA
+          written acknowledgment, from each Carrier and Provider with which
+          Newco has an agreement, that such agreement will continue in force (if
+          the Newco Shares are purchased), or be freely transferred to CIA (if
+          the Newco Business is purchased), after the Option Closing Date (such
+          acknowledgments hereinafter referred to as the "Transfer Consents");
+
+          5.9.1.5 In the case of a purchase of the Newco Business, CIA shall
+          deliver to Newco such documents as may be necessary to evidence the
+          assumption by CIA of those liabilities of Newco which are included in
+          the Newco Business (as described in Section 5.1); and
+
+          5.9.1.6 USI shall receive a release of the Guarantee from the lender
+          under the Loan Agreement.
+
+     5.9.2 If the Exercise Price is the EBITDA Exercise Price, then:
+
+          5.9.2.1 on the Option Closing Date, CIA shall pay to USIS and the USI
+          Partnership (in the event of a purchase of the Newco Shares)
+
+                                       26
+
+<PAGE>
+
+          or to Newco (in the event of a purchase of Newco Business) the First
+          Installment, by wire transfer of immediately available funds to the
+          account specified by USIS or Newco, as the case may be, at least three
+          (3) Business Days prior to the Option Closing Date;
+
+          5.9.2.2 on the Option Closing Date, USI, USIS, the USI Partnership,
+          and/or Newco shall deliver to CIA such documents, instruments, and
+          other items, in form and substance satisfactory to CIA, as CIA may
+          determine are necessary or appropriate in connection with the transfer
+          to CIA of good title to the Newco Shares or the Newco Business, as the
+          case may be, including without limitation evidence of membership in
+          Newco, bills of sale, assignments, liability assumption agreements,
+          representations and warranties, opinions of counsel, officers'
+          certificates, etc., and items related to the tax deductibility for CIA
+          of the Exercise Price (including any principal and interest under the
+          Loan Agreement applied to the Exercise Price) and any election under
+          Internal Revenue Code Sections 338(h)(10) or 754 or comparable state
+          and local provisions;
+
+          5.9.2.3 USI shall deliver to CIA an Indemnity, substantially in the
+          form attached as Exhibit D, pursuant to which USI will indemnify CIA,
+          its designee (if any), and their respective Affiliates for (i) any
+          loss, damage, or expense (including without limitation fees and
+          expenses of legal counsel) arising out of any actual or alleged
+          malfeasance, bad faith, or negligence of USI, Newco, any other USI
+          Affiliate, or any of their respective employees, directors, officers,
+          or agents, in the conduct of Newco's business prior to the Option
+          Closing Date, and (ii) any obligations of Newco, including without
+          limitation obligations for the payment of Taxes, incurred prior to, or
+          arising out of Newco's activities prior to, the Option Closing Date
+          (other than those liabilities reflected on the most recent balance
+          sheet of Newco delivered pursuant to Schedule 8 and incurred in the
+          ordinary course of business in accordance with the Business Plan); and
+
+          5.9.2.4 USI and Newco shall use their best efforts to deliver to CIA
+          Transfer Consents from each Carrier and Provider with which Newco has
+          an agreement;
+
+          5.9.2.5 subject to the provisions of Section 5.6.3, on the date
+          forty-five (45) days after the Adjustment Date (the "Second
+          Installment Payment Date"), CIA shall pay the Second Installment to
+          USIS and the USI Partnership or to Newco, as the case may be (or, if
+          the amount of the Second Installment is a negative number,
+
+                                       27
+
+<PAGE>
+
+          USIS and the USI Partnership or Newco, as the case may be, shall pay
+          the Second Installment to CIA), by wire transfer of immediately
+          available funds to the account specified by USI (or by CIA) at least
+          three (3) Business Days prior to the Second Installment Payment Date;
+
+          5.9.2.6 In the case of a purchase of the Newco Business, CIA shall
+          deliver to Newco such documents as may be necessary to evidence the
+          assumption by CIA of those liabilities of Newco which are included in
+          the Newco Business (as described in Section 5.1); and
+
+          5.9.2.7 USI shall receive a release of the Guarantee from the lender
+          under the Loan Agreement.
+
+5.10 Employees. The Parties agree to follow the procedures set forth in Section
+     ---------
+4 of Schedule 6.
+
+5.11 Continued Access to Carriers and Providers. To the extent that USI and
+     ------------------------------------------
+Newco are unable to provide the Transfer Consents required by Section 5.9.1.4
+and 5.9.2.4, USI shall use its best efforts to arrange for CIA to establish
+appropriate relationships with other Carriers and Providers, of the same or
+higher A.M. Best rating, which are capable of offering comparable products to
+CIA customers (each, a "Substitute Carrier/Provider") provided that such
+Carriers and Providers must be acceptable to CIA. To the extent USI is unable to
+provide either the Transfer Consents or such relationships with Substitute
+Carriers/Providers acceptable to CIA, USI shall, upon CIA's request, provide
+access to such Carriers and Providers for the business activities of Newco (or
+CIA, in the case where the Newco Business is acquired) for a period of five (5)
+years following the Option Closing Date. In furtherance hereof, USI and Newco
+(or CIA) shall enter into a sub-broker agreement, sub-contract, or other
+agreement of similar purpose and effect whereby Newco (or CIA) shall have access
+to such Carriers and Providers on terms no less favorable (including without
+limitation, pricing, type of coverage, and compensation) as USI or its similarly
+situated Affiliates enjoy from time to time. For providing such access, USI
+shall be entitled to receive 60% of the Customer Revenue paid by the relevant
+Carrier or Provider to, or retained by, USI or an Affiliate thereof, with the
+remainder of such Customer Revenue to be promptly paid to Newco (or CIA)
+pursuant to the sub-broker agreement, sub-contract or other agreement between
+the parties contemplated hereby.
+
+5.12 Use of USI Name. Promptly after the Option Closing Date, if CIA elects to
+     ---------------
+purchase the Newco Shares, Newco shall cease using the USI name, and CIA shall
+cause the name of Newco to be changed to a name not including the name "USI".
+
+                                       28
+
+<PAGE>
+
+5.13 Expenditures Following Option Exercise Date. USI agrees that, during the
+     -------------------------------------------
+period from the date of receipt of the Option Exercise Notice until the Option
+Closing Date, Newco shall not make, or commit to make, any single expenditure
+for physical assets in excess of $15,000 without CIA's prior written consent.
+
+5.14 No Encumbrance: During the term hereof, USI agrees that it will not, nor
+     ---------------
+will it permit Newco to, sell, pledge, hypothecate, or otherwise transfer or
+encumber, any of the Newco Shares or any of the assets included in the Newco
+Business, nor will USI permit the attachment of any lien or other encumbrance
+thereon, except as provided in the Newco Pledge. USI shall notify CIA promptly
+upon the attachment of any lien or other encumbrance on any of the Newco Shares
+or any of the assets included in the Newco Business. USI shall assure that the
+Newco Shares and Newco Business are freely transferable to CIA without any
+consent of, or action by, any other party, except as required by law.
+Notwithstanding the foregoing, Newco may sell, transfer, or encumber its assets
+in the ordinary course of its business in accordance with the Business Plan,
+subject to the terms of the Newco Pledge.
+
+VI. REVIEW DATES FOR NEWCO'S PERFORMANCE
+    ------------------------------------
+
+6.1 USI's Right to Terminate. USI shall have the right, upon sixty (60) days'
+    ------------------------
+prior written notice to CIA, to terminate this Agreement if Newco's cumulative
+total revenue is less than 70% of the amount projected in the Business Plan for
+the fiscal year ended on December 31, 1998, or for any semi-annual period ending
+on any June 30 or December 31 thereafter, through and including December 31,
+2000.
+
+6.2 Notice of Termination. USI's notice of termination hereunder shall be
+    ---------------------
+delivered to CIA within thirty (30) days after the end of the relevant fiscal
+period referred to in Section 6.1.
+
+6.3 Termination Payment. On the day sixty (60) days following CIA's receipt of
+    -------------------
+USI's notice of termination hereunder, CIA shall pay to USI a termination fee
+(the "Termination Fee") of $2.5 million; provided, however, that if, prior to
+such date, CIA delivers the Option Exercise Notice pursuant to Section 5.3, then
+no Termination Fee shall be due.
+
+VII. USIS's PUT OPTION.
+     -----------------
+
+7.1 The USIS Put. At any time on or after May 31, 2002, USIS and the USI
+    ------------
+Partnership shall have the right to cause CIA, to purchase either the Newco
+Shares or the Newco Business (at CIA's option), subject to the terms and
+conditions hereinafter set forth.
+
+                                       29
+
+<PAGE>
+
+7.2  Conditions to Exercise of the USIS Put.
+     --------------------------------------
+
+     7.2.1 USIS and the USI Partnership shall have the right to exercise the
+     USIS Put only if USI is able to provide to CIA Transfer Consents, dated no
+     earlier than ninety (90) days prior to the USIS Put Exercise Date, of
+     Carriers and Providers accounting for at least (i) 80% of the annual
+     Commission Revenue attributable to sales and Servicing of property and
+     casualty insurance policies, and (ii) 80% of the annual Commission Revenue
+     attributable to sales and Servicing of employee benefits programs,
+     calculated in each case for the Trailing Twelve Months making the
+     adjustments set forth in Section 5.6.1.2. It is understood that, to the
+     extent USI is unable to provide Transfer Consents from the requisite
+     Carriers and Providers hereunder, USI may arrange for CIA to establish
+     appropriate relationships with Substitute Carriers/Providers acceptable to
+     CIA.
+
+     7.2.2 Anything herein to the contrary notwithstanding, it is understood
+     that CIA shall have no obligation pursuant to the USIS Put to the extent
+     that CIA's acquisition of the Newco Shares or the Newco Business is
+     prohibited by any laws, regulations, orders, rulings, or judgments of any
+     legislative, regulatory, or judicial bodies having jurisdiction over CIA.
+
+7.3 USIS Put Price. The price to be paid by CIA for the Newco Shares or the
+    --------------
+Newco Business upon exercise of the USIS Put shall be calculated in accordance
+with Section 5.6, provided that all references therein to the Option shall be
+read, for purposes hereof, as references to the USIS Put (and accordingly,
+references to the Option Exercise Notice, the Option Exercise Date, and the
+Option Closing Date shall be read as references to the USIS Put Exercise Notice,
+the USIS Put Exercise Date, and the USIS Put Closing Date, respectively).
+
+7.4 Method of Exercise. If USIS and the USI Partnership determine to exercise
+    ------------------
+the USIS Put, USIS (on its own behalf and on behalf of the USI Partnership)
+shall give CIA written notice (the "USIS Put Exercise Notice") of their
+intention to do so. On the date of delivery of the USIS Put Exercise Notice (the
+"USIS Put Exercise Date"), USI shall deliver to CIA the Transfer Consents
+required pursuant to Section 7.2.1.
+
+7.5 USIS Put Closing Date. The sale of the Newco Shares or the Newco Business
+    ---------------------
+pursuant to the USIS Put shall take place on a date (the "USIS Put Closing
+Date") not more than 180 days after the date of the USIS Put Exercise Notice.
+The USIS Put Closing Date shall be selected by CIA, and CIA shall notify USI of
+the date selected, no later than ninety (90) days following CIA's receipt of the
+USIS Put Exercise Notice. Not less than forty-five (45) days prior
+
+                                       30
+
+<PAGE>
+
+to the USIS Put Closing Date, CIA shall inform USI whether it will purchase the
+Newco Shares or the Newco Business.
+
+7.6 The USIS Put Closing. The USIS Put Closing, and the payment of the First
+    --------------------
+Installment and the Second Installment, shall take place in accordance with
+Sections 5.8.2 and 5.9.2, provided that all references therein to the option
+shall be read, for purposes hereof, as references to the USIS Put (and
+accordingly, references to the option Closing Date shall be read as references
+to the USIS Put Closing Date).
+
+7.7 Continued Access to Carriers and Providers. To the extent that USI and
+    ------------------------------------------
+Newco are unable to provide the Transfer Consents required by Sections 7.2.1 and
+7.4, USI shall use its best efforts to arrange for CIA to establish appropriate
+relationships with Substitute Carriers/Providers acceptable to CIA. To the
+extent USI is unable to provide either the Transfer Consents or such
+relationships with Substitute Carriers/Providers acceptable to CIA, USI shall,
+upon CIA's request, provide access to such Carriers and Providers for the
+business activities of Newco (or CIA, in the case where the Newco Business is
+acquired) for a period of five (5) years following the USIS Put Closing Date. In
+furtherance hereof, USI and Newco (or CIA) shall enter into a sub-broker
+agreement, sub-contract, or other agreement of similar purpose and effect
+whereby Newco (or CIA) shall have access to such Carriers and Providers on terms
+no less favorable (including without limitation, pricing, type of coverage, and
+compensation) as USI or its similarly situated Affiliates enjoy from time to
+time. For providing such access, USI shall be entitled to receive 60% of the
+Customer Revenue paid by the relevant Carrier or Provider to, or retained by,
+USI or an Affiliate thereof, with the remainder of such Customer Revenue to be
+promptly paid to Newco (or CIA) pursuant to the sub-broker agreement,
+sub-contract or other agreement between the parties contemplated hereby.
+
+7.8 Use of USI Name. Promptly after the USIS Put Closing Date, if CIA elects to
+    ---------------
+purchase the Newco Shares, Newco shall cease using the USI name, and CIA shall
+cause the name of Newco to be changed to a name not including the name "USI".
+
+7.9 Expenditures Following USIS Put Exercise Date. USI agrees that, during the
+    ---------------------------------------------
+period from the date of receipt of the USIS Put Exercise Notice until the USIS
+Put Closing Date, Newco shall not make or commit to make any single expenditure
+for physical assets in excess of $15,000 without CIA's prior written consent.
+
+                                       31
+
+<PAGE>
+
+VIII. EXCLUSIVITY : NONCOMPETITION.
+      ----------------------------
+
+8.1  Provision of Similar Services.
+     -----------------------------
+
+     8.1.1 USI agrees that:
+
+          8.1.1.1 for a period of thirty (30) weeks following the date of this
+          Agreement, neither USI nor any of its Affiliates will enter into any
+          agreement or arrangement pursuant to which it would develop, for or in
+          conjunction with any commercial bank or bank holding company, a
+          property and casualty insurance and/or employee benefits brokerage or
+          other similar business; and
+
+          8.1.1.2 during the term of this Agreement, neither USI nor any of its
+          Affiliates will enter into any agreement or arrangement pursuant to
+          which it would develop, for or in conjunction with any commercial bank
+          or bank holding company, a property and casualty insurance and/or
+          employee benefits brokerage or other similar business conducting
+          substantial operations in New York, New Jersey, Connecticut, and/or
+          Texas. The foregoing notwithstanding, it is understood that if Newco
+          has not commenced operations (either directly or through Affiliates of
+          USI pursuant to Sections 4.2.2.3 or 4.2.3) in Texas within twelve (12)
+          months of Newco's organization, then the provisions of this Section
+          8.1.1.2 shall no longer apply to Texas.
+
+     8.1.2 USI further agrees that, during the term hereof, it will disclose to
+     CIA the identity of any financial institution with which USI or any
+     Affiliate proposes to enter into any agreement or arrangement to develop a
+     property and casualty insurance or employee benefits brokerage or other
+     similar business (to the extent permitted by Section 8.1.1) and will
+     consult with CIA on the choice of any such financial institution.
+
+8.2  Employment.
+     ----------
+
+     8.2.1 USI agrees that, during the term hereof and for a period of two (2)
+     years thereafter, neither USI, nor any of the Key Employees, nor any of
+     USI's Affiliates (including Newco, after the exercise of the Option or the
+     USIS Put if the Newco Business is purchased pursuant to such exercise) will
+     solicit, endeavor to entice away, employ, offer to employ, or arrange
+     employment for any person who is at any time during such period employed by
+     Newco, excluding clerical Employees, whether or not such person would
+     thereby commit any breach of his contract of service with Newco. USI agrees
+     to procure that each of the Key Employees undertakes in writing to abide by
+     the provisions of this Section 8.2,
+
+                                       32
+
+<PAGE>
+
+     specifying that CIA (and/or its designee, if any, in the purchase of the
+     Newco Shares or the Newco Business pursuant to the Option or the USIS Put)
+     is intended to be a beneficiary of such undertaking.
+
+     8.2.2 CIA agrees that during the term hereof and for a period of two (2)
+     years thereafter, neither CIA nor any of its Affiliates will actively
+     solicit for employment or endeavor to entice away any person who is at any
+     time during such period employed by USI and its Affiliates (except Newco)
+     in New York, New Jersey, or Connecticut, excluding clerical Employees.
+     (Nothing herein shall be interpreted to prevent CIA and its Affiliates from
+     engaging in their normal recruitment practices through advertisement or
+     other general solicitation, or from interviewing and employing employees of
+     USI, provided that neither CIA nor any of its Affiliates initially seeks
+     out such employees to solicit them for employment.)
+
+IX.  REPRESENTATIONS AND WARRANTIES.
+     ------------------------------
+
+9.1 Representations and Warranties of USI and USIS. USI and USIS hereby
+    ----------------------------------------------
+represent and warrant to CIA, and covenant and agree with CIA, that:
+
+     9.1.1 Each of USI and USIS is a corporation duly organized and validly
+     existing under the laws of the state of Delaware, with all requisite
+     corporate power and authority to own (or lease and enjoy undisturbed) its
+     assets and conduct its business as currently conducted. Each of USI and
+     USIS is duly qualified, licensed, and in good standing in every
+     jurisdiction in which it presently engages in business and in which such
+     qualification is required.
+
+     9.1.2 Each of USI and USIS has the corporate power and authority to enter
+     into and perform its obligations under this Agreement and the Related
+     Documents and to perform the activities and effect the transactions
+     contemplated hereby and thereby. The execution, delivery and performance of
+     this Agreement and the Related Documents has been approved by all requisite
+     corporate action on the part of USI and USIS, and this Agreement and the
+     Related Documents constitute valid and binding obligations of USI and USIS
+     enforceable in accordance with their terms, except as such enforceability
+     may be limited by (i) applicable bankruptcy, insolvency, reorganization,
+     moratorium or other laws relating to or affecting creditors' rights
+     generally, (ii) general principles of equity (regardless of whether such
+     enforceability is considered in a proceeding in equity or at law), and
+     (iii) considerations of public policy by a court of competent jurisdiction.
+
+     9.1.3 The execution, delivery and performance by USI and USIS, and, where
+     applicable, their Affiliates, of this Agreement and the Related
+
+                                       33
+
+<PAGE>
+
+     Documents will not (i) violate, conflict with, result in a breach of, or
+     constitute (with or without notice or lapse of time or both) a default or
+     result in the creation of a lien under, any material agreement, indenture,
+     mortgage or lease to which USI, USIS, or any such Affiliate is a party or
+     by which it or its properties are bound; (ii) constitute a violation by
+     USI, USIS, or any such Affiliate of any laws or regulations applicable to
+     it; (iii) violate any provision of its articles of incorporation or by laws
+     (or similar governing documents); or (iv) violate any order, judgment,
+     injunction or decree of any court, arbitrator or governmental body against
+     or binding upon USI, USIS, or any such Affiliate.
+
+     9.1.4 Neither USI, USIS, nor any of their Affiliates requires any consent,
+     approval, authorization or permit of, or filing with or notification to,
+     any governmental or regulatory authority in connection with this Agreement,
+     the Related Documents, or the transactions and activities contemplated
+     hereby and thereby, except the Licensing Requirements referred to in
+     Section 4.2.2.
+
+     9.1.5 There are no actions, suits or proceedings pending or, to the best of
+     their knowledge, threatened against or affecting USI, USIS, or any of their
+     Affiliates that, if adversely determined, would have a material adverse
+     effect on USI's, USIS's, or any such Affiliate's ability to perform its
+     obligations under this Agreement and the Related Documents.
+
+     9.1.6 Each of USI, USIS, and their Affiliates which are or will be engaged
+     in any activities related to this Agreement or any of the Related
+     Documents, has complied with, and none of them is in default in any
+     material respect under, any laws, ordinances, requirements, regulations,
+     orders, or decrees of any court, commission, board, or other
+     administrative, legislative, or judicial body or governmental agency having
+     jurisdiction over it, or any of its assets, which could materially and
+     adversely affect its ability to enter into this Agreement and the Related
+     Documents and to perform its obligations hereunder or thereunder.
+
+     9.1.7 USI, USIS, and all their Affiliates which are or will be engaged in
+     any activities related to this Agreement or any of the Related Documents
+     shall comply with all applicable federal, state and local laws and
+     regulations including, without limitation, compliance with all registration
+     and licensing requirements of any governmental or industry regulatory body
+     having jurisdiction over USI, USIS, and such Affiliates.
+
+     9.1.8 The Shareholders' Agreement and the Controlling Shareholders'
+     Agreement attached hereto as Exhibits Q and R are in full force and effect
+     and have not been amended or modified in any respect. The Shareholders'
+     Agreement and the Controlling Shareholders' Agreement
+
+                                       34
+
+<PAGE>
+
+     constitute valid and binding obligations of the parties thereto (including,
+     as applicable, USI, each of the Investors, and each of Bellwether, Dillon
+     Read, and Saratoga, as those terms are therein defined), enforceable in
+     accordance with their terms, except as such enforceability may be limited
+     by (i) applicable bankruptcy, insolvency, reorganization, moratorium or
+     other laws relating to or affecting creditors' rights generally, (ii)
+     general principles of equity (regardless-of-whether such enforceability is
+     considered in a proceeding in equity or at law), and (iii) considerations
+     of public policy by a court of competent jurisdiction. Upon CIA's
+     execution of the Joinder Agreement, CIA will be entitled to all benefits of
+     an Investor under the Shareholders' Agreement.
+
+     9.1.9 No person, entity, or Affiliated group currently holds (directly or
+     indirectly) 25% ownership of USI (as the concept of "ownership" is defined
+     in Section 3.1), except Saratoga (as defined in the Controlling
+     Shareholders' Agreement).
+
+     9.1.10 Each of the Key Employees listed on Schedule 1 is employed by USI or
+     one of its Affiliates, and each such person is contractually committed to
+     continue in the employment of USI or its Affiliates in such capacity at
+     least through November 30, 2000.
+
+     9.1.11 The 1996 Audited Financial Statements, copies of which are attached
+     as Exhibit A, (i) were prepared in accordance with GAAP, applied on a
+     consistent basis (except as expressly stated otherwise), and (ii) are
+     unqualified and fairly present the financial position and results of USI
+     and its consolidated Affiliates as at 31 December, 1996. The Interim
+     Financial Statements, copies of which are attached as Exhibit B, (i) were
+     prepared in accordance with GAAP applied on a consistent basis (except that
+     they do not contain notes and are subject to usual and customary year-end
+     audit adjustments, and as otherwise expressly stated therein), and (ii)
+     fairly present the financial position and results of USI and its
+     consolidated Affiliates as at September 30, 1997.
+
+     9.1.12 The current financial position of USI and its consolidated
+     Affiliates is fundamentally reflected by the Interim Financial Statements
+     and no material change has occurred in the financial position of USI and
+     its consolidated Affiliates since the date thereof. Specifically, since
+     September 30, 1997, neither USI nor any of its consolidated Affiliates has:
+
+          9.1.12.1 declared or paid any dividends or other distributions in
+          respect of any of its shares;
+
+          9.1.12.2 entered into any material transaction not at arms length or
+          any material transaction not in the ordinary course of business;
+
+                                       35
+
+<PAGE>
+
+          9.1.12.3 incurred any material damage, destruction, or loss to any
+          physical property owned or used in its business not covered by
+          insurance;
+
+          9.1.12.4 given any material discharge or release of any obligations of
+          third parties to it, for which no substantially equal benefit was
+          received by it;
+
+          9.1.12.5 made any material acquisition or disposition of assets or
+          properties, other than in the ordinary course of business;
+
+          9.1.12.6 made any change in its accounting methods or practices;
+
+          9.1.12.7 made any increase in, or commitment to increase, the
+          compensation payable or to become payable to any of its directors,
+          employees or commercial agents, other than routine increases for
+          employees in accordance with normal practice; or
+
+          9.1.12.8 entered into any agreement to do any of the items described
+          in this Section 9.1.12 except as contemplated by this Agreement or any
+          Related Document.
+
+     9.1.13 USIS is a direct wholly-owned subsidiary of USI.
+
+     9.1.14 USI and USIS, jointly and severally, shall indemnify and hold
+     harmless CIA and its Affiliates from and against any cost, liability, or
+     expense arising out of or attributable to the claims of any person or
+     entity that such person or entity acted as broker or finder for USI, USIS,
+     or any of their Affiliates in connection with the transactions contemplated
+     hereby.
+
+9.2 Representations and Warranties of CBC and CIA. Each of CBC and CIA hereby
+    ----------------------------------------------
+represents and warrants to USI and USIS, with respect to itself, that:
+
+     9.2.1 It is a corporation duly organized and validly existing under the
+     laws of the state of Delaware with all requisite corporate power and
+     authority to conduct its businesses as currently conducted.
+
+     9.2.2 It has the corporate power and authority to enter into and perform
+     its obligations under this Agreement and the Related Documents and to
+     perform the activities and effect the transactions contemplated hereby and
+     thereby. The execution, delivery and performance of this Agreement and the
+     Related Documents has been approved by all requisite corporate action on
+     its part, and this Agreement and the Related Documents constitute valid and
+     binding obligations of CBC or CIA, as the case may
+
+                                       36
+
+<PAGE>
+
+     be, enforceable in accordance with their terms, except as such
+     enforceability may be limited by (i) applicable bankruptcy, insolvency,
+     reorganization, moratorium or other laws relating to or affecting
+     creditors' rights generally, (ii) general principles of equity (regardless
+     of whether such enforceability is considered in a proceeding in equity or
+     at law), and (iii) considerations of public policy by a court of competent
+     jurisdiction.
+
+     9.2.3 The execution, delivery and performance of this Agreement and the
+     Related Documents by CBC or CIA, as the case may be, will not (i) violate,
+     conflict with, result in a breach of or constitute (with or without notice
+     or lapse of time or both) a default under, any material agreement,
+     indenture, mortgage or lease to which it is a party or by which it or its
+     properties are bound; (ii) constitute a violation by CBC or CIA, as the
+     case may be, of any laws or regulations applicable to it; (iii) violate any
+     provision of its articles of incorporation or bylaws (or similar governing
+     documents); or (iv) violate any order, judgment, injunction or decree of
+     any court, arbitrator or governmental body against or binding upon it.
+
+     9.2.4 It does not require any consent, approval, authorization or permit
+     of, or filing with or notification to, any governmental or regulatory
+     authority in connection with this Agreement, the Related Documents, or the
+     transactions and activities contemplated hereby and thereby.
+
+     9.2.5 There are no actions, suits or proceedings pending or, to its
+     knowledge, threatened against or affecting it that, if adversely
+     determined, would have a material adverse effect on its ability to perform
+     its obligations under this Agreement and the Related Documents.
+
+     9.2.6 No person has acted as broker or finder on behalf of CBC or CIA, as
+     the case may be, in connection with the transactions contemplated by this
+     Agreement.
+
+X.   CONFIDENTIALITY.
+     ----------------
+
+10.1 Use and Disclosure. All Confidential Information shall be treated as
+     -------------------
+confidential business information of the Disclosing Party and/or its Affiliates,
+and shall be accorded the same treatment as the Receiving Party accords its own
+most confidential business information. Specifically (but without limiting the
+generality of the foregoing), except as required by law:
+
+     10.1.1 The Receiving Party shall disclose Confidential Information only to
+     those of its employees, agents, advisors, Carriers, and Providers who need
+     to know such information in connection with the transactions contemplated
+     hereby and by the Related Documents, and no other person shall have access
+     to any Confidential Information.
+
+                                       37
+
+<PAGE>
+
+     10.1.2 The Confidential Information shall be used by the Receiving Party
+     and its employees, agents and advisors only in connection with the
+     transactions contemplated by this Agreement or any Related Document.
+
+     10.1.3 The Receiving Party shall assure that each of its employees, agents,
+     subcontractors, and advisors having access to any of the Confidential
+     Information undertakes in writing to abide by the provisions of this
+     Article X, specifying that CIA (and/or its designee, if any, in the
+     purchase of the Newco Shares or the Newco Business pursuant to the Option
+     or the USIS Put) is intended to be a beneficiary of such undertaking.
+
+     10.1.4 The Disclosing Party shall be advised of all sub-contractors,
+     consultants and others not employed by the Receiving Party who have access
+     to any Confidential Information, and the Receiving Party shall not grant
+     such access, or shall terminate access if it has been already granted, to
+     anyone to whom the Disclosing Party objects based upon a good faith
+     analysis of its business needs and, where appropriate, the Receiving Party
+     shall obtain promptly from that person all Confidential Information.
+
+     10.1.5 In the event that the Receiving Party, or anyone to whom the
+     Receiving Party makes disclosure in accordance with this Section 10.1,
+     becomes legally compelled to disclose any Confidential Information, the
+     Receiving Party shall, to the extent permitted by law, provide the
+     Disclosing Party with prompt notice so that the Disclosing Party may seek a
+     protective order or other appropriate remedy and/or waive compliance with
+     the provisions of this Section 10.1.5; provided, however, that the
+     provisions of this Section 10.1.5 shall not apply to disclosure by any
+     Receiving Party or any or its Affiliates to any regulatory agency having
+     jurisdiction over such Receiving Party or such Affiliates, to the extent
+     that such Receiving Party or such Affiliates determine in good faith that
+     failure to disclose to such regulatory agency would adversely affect such
+     party's relationship with such regulatory agency.
+
+It is understood that all materials that are developed by USI, its agents,
+subcontractors or employees which use Confidential Information of Newco, shall
+be the property of Newco, subject to acquisition by CIA upon exercise of the
+Option; and any such materials which use Confidential Information of CIA or any
+CIA Affiliate shall be the property of CIA or such CIA Affiliate, as the case
+may be.
+
+10.2 Remedies. Each party hereto recognizes that the Confidential information of
+     ---------
+the other parties is a valuable, special, and unique asset of such other party,
+
+                                       38
+
+<PAGE>
+
+that a breach of this Article X may cause irreparable harm to such other party,
+and that actual damages may be difficult to ascertain and in any event may be
+inadequate. Accordingly, each Party hereto agrees that in the event of such
+breach, the Disclosing Party shall be entitled to injunctive relief in addition
+to such other legal or equitable remedies as may be available.
+
+10.3 Return of Information. At the end of the term of this Agreement, each of
+     ----------------------
+the Parties hereto, or to any of the Related Documents, shall promptly return to
+the other Parties all Confidential information of such other Party, and all
+materials based on or incorporating any such Confidential Information.
+
+XI.  INDEMNIFICATION.
+     ----------------
+
+11.1 USI's Indemnification of CIA. USI agrees to indemnify CIA, its Affiliates
+     ----------------------------
+and their directors, officers, employees and agents (each, a "CIA Indemnified
+Person") for, and to hold each of them harmless against, any and all losses,
+liabilities, claims, demands, actions, judgments, damages, costs and expenses,
+including reasonable attorneys' fees and disbursements and other expenses,
+incurred in connection with this Agreement or any Related Document
+(collectively, "Indemnified Losses"), including the costs of investigating any
+claim and defending any action and any amounts paid in settlement or compromise
+(provided, that, USI shall have given its prior written approval of any
+ --------
+settlement or compromise, which approval shall not be unreasonably withheld) of
+an action to which such CIA Indemnified Person is a party, arising out of or
+relating to USI's activities in connection herewith or therewith, including, but
+not limited to, a breach by USI, USIS, Newco, or any of their Affiliates, of any
+terms or conditions of this Agreement or any Related Document, except for such
+losses, liabilities, claims, demands, actions, judgments, damages, costs and
+expenses incurred by reason of the sole negligence or willful misconduct of any
+CIA Indemnified Person whose duties are directly related hereto. If any event
+occurs for which indemnification to any CIA Indemnified Person is provided in
+this Section, such CIA Indemnified Person must provide USI with written notice
+of such event as soon as possible, but in no event later than thirty (30) days
+after the earlier of: (i) such time as it has actual knowledge of the occurrence
+of such event or (ii) such time as it receives notice that an action has been
+filed in a court, or action has been taken by any administrative agency,
+alleging the occurrence of an event that entitles a CIA Indemnified Person to
+indemnification by USI hereunder. USI, at its own expense, shall be entitled to
+participate in such action or proceeding, and, after written notice from USI to
+CIA, to assume the defense of such action or proceeding with mutually acceptable
+counsel, or, with such CIA Indemnified Person's consent (which shall not be
+unreasonably withheld), compromise or settle such action or proceeding, at its
+own expense. Notwithstanding USI's election to assume the defense of such action
+or proceeding, such CIA Indemnified Person shall have the right to employ
+separate counsel and to participate in the defense of such action or proceeding
+at its own expense. It is understood that indemnification hereunder shall not be
+
+                                       39
+
+<PAGE>
+
+available to the extent such losses, liabilities, claims, demands, actions,
+judgments, damages, costs and expenses are reimbursed to the relevant CIA
+Indemnified Person(s) pursuant to policies of insurance covering such CIA
+Indemnified Person(s).
+
+11.2 CIA's Indemnity of USI. CIA agrees to indemnify USI, its Affiliates and
+     ----------------------
+their directors, officers, employees and agents (each a "USI Indemnified
+Person") from, and to hold each of them harmless against, any and all
+Indemnified Losses, including the costs of investigating any claim and defending
+any action and any amounts paid in settlement or compromise (provided, that, CIA
+                                                             --------
+shall have given its prior written approval of any settlement or compromise,
+which approval shall not be unreasonably withheld) of an action to which such
+USI Indemnified Person is a party arising out of or relating to CIA's activities
+in connection with this Agreement or any Related Document, except for
+Indemnified Losses incurred by reason of the sole negligence or willful
+misconduct of USI or Newco in connection with this Agreement. If any event
+occurs for which indemnification to any USI Indemnified Person is provided in
+this Section, such USI Indemnified Person must provide CIA with written notice
+of such event as soon as possible, but in no event later than thirty (30) days
+after the earlier of: (i) such time as it has actual knowledge of the occurrence
+of such event or (ii) such time as it receives notice that an action has been
+filed in a court, or action has been taken by any administrative agency,
+alleging the occurrence of an event that entitles a USI Indemnified Person to
+indemnification by CIA hereunder. CIA, at its own expense, shall be entitled to
+participate in such action or proceeding, and, after written notice from CIA to
+such USI Indemnified Person, to assume the defense of such action or proceeding
+with mutually acceptable counsel, or, with such USI Indemnified Person's consent
+(which shall not be unreasonably withheld), compromise or settle such action or
+proceeding. Notwithstanding CIA's election to assume the defense of such action
+or proceeding, such USI Indemnified Person shall have the night to employ
+separate counsel and to participate in the defense of such action or proceeding
+at its own expense. It is understood that indemnification hereunder shall not be
+available to the extent such losses, liabilities, claims, demands, actions,
+judgments, damages, costs and expenses are reimbursed to the relevant USI
+Indemnified Person(s) pursuant to policies of insurance covering such USI
+Indemnified Person(s).
+
+11.3 Sharing of Documents: Indemnification Payments. With respect to each
+     ----------------------------------------------
+indemnification matter, within ten (10) Business Days after the indemnitee
+receives documents pertaining to any demand or proceeding constituting such
+indemnification matter, or within such shorter period of time as may be
+necessary under the circumstances to avoid prejudice to the indemnitor's rights,
+the indemnitee shall give notice to the indemnitor of the nature of such
+indemnification matter and shall deliver to the indemnitor copies of all such
+documents. In addition, ten (10) Business Days after a final agreement is
+reached or a final judgment is rendered with respect to such indemnification
+matter, the indemnitor
+
+                                       40
+
+<PAGE>
+
+shall pay to the indemnitee any amounts to which the indemnitee is entitled
+under this Section.
+
+11.4 Duration. All claims for indemnification under this Section XI must be made
+     --------
+(i) with respect to any Indemnified Losses related to Taxes, within ten (10)
+Business Days after the end of the period of statutory limitations for such
+claims, (ii) with respect to Indemnified Losses relating to or arising out of
+the claims of any third party against any CIA Indemnified Person or USI
+Indemnified Person, within ten (10) Business Days after the end of the statutory
+period of limitations for such third party claim; and (iii) with respect to all
+other claims, within 18 (eighteen) months following termination of this
+Agreement.
+
+XII. TERM AND TERMINATION.
+     --------------------
+
+12.1 Automatic Termination. This Agreement shall terminate automatically on the
+     ---------------------
+Option Closing Date or the USIS Put Closing Date, as the case may be.
+
+12.2 Optional Termination. This Agreement may be terminated:
+     --------------------
+
+     12.2.1 by CIA, effective immediately, by the giving of written notice to
+     USI, at any time within ninety (90) days following either (i) the
+     Repurchase Date or (ii) the termination of the License Agreement or the
+     Marketing Agreement.
+
+     12.2.2 by USI, by the giving of sixty (60) days' prior written notice to
+     CIA under the circumstances described in Section 6.1.
+
+12.3 Survival. Provisions of Sections 5.11, 5.12, 7.7 and 7.8, and Articles III,
+     --------
+VIII, X, XI and XIII, shall survive termination hereof, except that Article VIII
+shall not survive termination by USI pursuant to Section 6.1.
+
+XIII. MISCELLANEOUS.
+
+13.1 Cooperation. CIA and USI agree, and USI agrees to cause Newco, to execute,
+     -----------
+acknowledge, deliver, file, record and publish such further instruments and
+documents, and to do such other acts and things, as may be necessary and proper
+to carry out the intent and purposes of this Agreement and the Related
+Documents.
+
+13.2 Notices. All notices, demands and requests of any kind which either Party
+     -------
+may be required or may desire to serve upon any other Party hereto in connection
+with this Agreement or any of the Related Documents shall be delivered only by
+courier or other means of personal service which provides written verification
+of receipt, or by registered or certified mail return receipt requested (a
+"Notice").
+
+                                       41
+
+<PAGE>
+
+     Any such Notice so delivered by registered or certified mail or courier
+shall be deposited in the United States mail, or in the case of courier,
+deposited with the courier, with postage thereon fully prepaid. All Notices
+shall be addressed to the parties to be served as follows:
+
+     (a) if to CBC:
+
+         1201 N. Market Street
+         9th Floor
+         Wilmington, DE 19801
+         Attention: Richard J. Nolan
+                    President and CEO
+         Facsimile No.: (302) 654-3008
+
+               Copies to:
+
+               Arthur T. Guja
+               Vice President and Assistant General Counsel
+               Legal Department
+               The Chase Manhattan Bank
+               New York, NY 10017
+               Facsimile No.: (212) 270-1226
+
+     (b) if to CIA:
+
+         Chase Insurance Agency, Inc.
+         380 Madison Avenue
+         13th Floor
+         New York, NY 10017
+         Attention: Dennis Kosovac
+                    President and CEO
+         Facsimile No.: (212) 622-4470
+
+               Copies to:
+
+               Arthur T. Guja
+               Vice President and Assistant General Counsel
+               Legal Department
+               The Chase Manhattan Bank
+               New York, NY 10017
+               Facsimile No.: (212) 270-1226
+
+                                       42
+
+<PAGE>
+
+     (c) if to USI:
+
+         U.S.I. Holdings Corporation
+         c/o Progressive Plan Administrators
+         470 Park Avenue South
+         6th Floor
+         New York, NY 10016
+         Attention: John Addeo
+                    Executive Vice President-Operations
+         Facsimile No.: (212) 689-0409
+
+               Copies to.
+
+               Jay Scarborough, General Counsel
+               USI Insurance Services Corp.
+               235 Pine Street
+               10th Floor
+               San Francisco, CA 94104
+               Facsimile No.: (415) 983-0101
+
+     Any Parties hereto may at any time and from time to time change the address
+to which Notice shall be sent hereunder by Notice to the other party given under
+this Section. All such Notices shall be effective when received or when delivery
+is refused at the respective address set forth above or as then in effect
+pursuant to any such change.
+
+13.3 Amendments, etc. No amendment or waiver of any provision of this Agreement
+     ----------------
+or any Related Document, and no consent to any departure by any party herefrom
+or therefrom, shall in any event be effective unless the same shall be in
+writing and signed by each party sought to be bound thereby. Any such waiver or
+consent shall be effective only in the specific instance and for the specific
+purpose for which given.
+
+13.4 No Waiver: Remedies. No failure by any party to exercise, and no delay in
+     -------------------
+exercising, any right under this Agreement or any Related Document shall operate
+as a waiver thereof; nor shall any single or partial exercise of any right under
+this Agreement or any Related Document preclude any other or further exercise
+thereof or the exercise of any other right. The remedies provided in this
+Agreement or any Related Document are cumulative and not exclusive of any
+remedies provided by law.
+
+13.5 Binding Effect: Assignment. This Agreement and each Related Document shall
+     --------------------------
+be binding upon and inure to the benefit of the parties hereto and their
+respective permitted assigns. Neither this Agreement nor any of the Related
+Documents, nor any rights, privileges, duties and obligations of the parties
+hereto
+
+                                       43
+
+<PAGE>
+
+or thereto, may be assigned or delegated by any party unless such assignment or
+delegation is consented to by the other parties in writing. Notwithstanding the
+foregoing, CBC and/or CIA may assign any of their respective rights or
+obligations under this Agreement or any Related Document to any of their
+Affiliates, and CIA may assign its rights and obligations under Articles V and
+VII to any other person regardless of affiliation, in each case without the
+consent of USI or Newco.
+
+13.6 Governing Law. This Agreement and the Related Documents, and the
+     --------------
+interpretation of their respective terms, shall be governed by the laws of the
+State of New York without giving effect to its principles of conflicts of law.
+Any actions to enforce this Agreement or any Related Document shall be brought
+only in the federal or state courts of New York, with a venue in New York
+County, New York. In the event of a lawsuit, both parties consent to personal
+jurisdiction and venue in New York and waive any defense based upon improper
+venue. THE PARTIES WAIVE THEIR RIGHTS TO A JURY TRIAL.
+
+13.7 Schedules and Exhibits; Captions. The Schedules and Exhibits attached
+     ---------------------------------
+hereto, or to any Related Document, are hereby incorporated and made a part
+hereof or thereof (as the case may be) as if fully set forth herein. All
+captions and titles included herein and in the Related Documents are inserted
+only for convenience and in no way define, limit, extend or describe the scope
+or intent of this Agreement.
+
+13.8 Independent Contractor. Nothing contained herein or in any Related Document
+     -----------------------
+is intended to create or shall be deemed or construed to create a relationship
+of employer and employee, or principal and agent, or partnership or joint
+venture between or among any of the parties hereto or thereto. The actions of
+USI and its Affiliates (including Newco) are and will be those of an independent
+contractor and shall not be those of agent, employee, or partner of CBC, CIA, or
+any of their Affiliates, and neither USI nor any of its Affiliates (including
+Newco) shall hold themselves out as, nor otherwise represent themselves to be,
+agents, employees, or partners of CBC, CIA, or any of their Affiliates.
+
+13.9 Severability. Whenever possible, each provision of this Agreement and the
+     -------------
+Related Documents will be interpreted in such a manner as to be effective and
+valid under applicable law, but if any provision of this Agreement is held to be
+prohibited by or invalid under applicable law, such provision will be
+ineffective only to the extent of such prohibition or invalidity, without
+invalidating the remainder of such provision or the remaining provisions of this
+Agreement.
+
+13.10 Entire Agreement. This Agreement and the Related Documents constitute the
+      -----------------
+entire Agreement between the parties with respect to the subject
+
+                                       44
+
+<PAGE>
+
+matter hereof, and they supersede any and all prior written or oral agreements
+as to the subject matter of this Agreement.
+
+13.11 Execution in Countenparts. This Agreement, and any Related Document, may
+      --------------------------
+be executed by the parties hereto in separate counterparts, each of which when
+so executed shall be deemed to be an original and all of which taken together
+shall constitute but one and the same agreement.
+
+13.12 Consent/Approval by CIA. Any consent or approval required to be given by
+      ------------------------
+CIA hereunder or under any Related Document shall be deemed sufficiently given
+if given in writing signed by Dennis Kosovac (or such other person as he may
+designate by notice in accordance with Section 13.2).
+
+13.13 USI Responsibility. Anything herein to the contrary notwithstanding, it is
+      -------------------
+understood that USI shall cause its Affiliates, including USIS, the USI
+Partnership, and Newco, to comply with the provisions of this Agreement and the
+Related Documents.
+
+     IN WITNESS WHEREOF, each of the parties hereto has caused this Agreement to
+be executed by its duly authorized representative, as of the day and year first
+written above.
+
+                                                     CBC HOLDING (DELAWARE) INC.
+
+
+                                                     By:/s/ Richard J Nolan, Jr.
+                                                        ------------------------
+                                                            Richard J Nolan, Jr.
+
+
+                                                     CHASE INSURANCE AGENCY,INC.
+
+
+                                                     By:/s/Illegible
+                                                        ------------------------
+
+
+                                                     U.S.I. HOLDINGS CORPORATION
+
+
+                                                     By:/s/ John Addeo
+                                                        ------------------------
+
+
+                                                     USI INSURANCE SERVICE CORP.
+
+
+                                                     By:/s/ John Addeo
+                                                        ------------------------
+
+                                       45
+
+</TEXT>
+</DOCUMENT>
