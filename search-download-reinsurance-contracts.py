@@ -14,10 +14,12 @@ from dotenv import load_dotenv
 load_dotenv(override=True)
 
 # Read the API key from environment variable
-api_key = os.getenv('SEC_API_KEY')
+sec_api_key = os.getenv('SEC_API_KEY')
+ua_name = os.getenv('USER_AGENT_NAME')
+ua_email = os.getenv('USER_AGENT_EMAIL')
 
 # Initialize the FullTextSearchApi with the API key
-full_text_search_api = FullTextSearchApi(api_key)
+full_text_search_api = FullTextSearchApi(sec_api_key)
 
 def load_config():
     """Load environment variables and initialize API."""
@@ -66,7 +68,9 @@ def filter_exhibit_filings(search_results):
 # Prepare for asynchronous downloads.
 nest_asyncio.apply()
 download_dir = 'download'
+index_download_dir = 'index-download'
 os.makedirs(download_dir, exist_ok=True)
+os.makedirs(index_download_dir, exist_ok=True)
 
 async def download_filing(session, filing, year, semaphore):
     async with semaphore:
@@ -98,7 +102,7 @@ async def download_filing(session, filing, year, semaphore):
 
 async def download_all_filings(filings, year):
     semaphore = asyncio.Semaphore(1000)
-    async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0 (Company info@company.com)"}) as session:
+    async with aiohttp.ClientSession(headers={"User-Agent": f"Mozilla/5.0 ({ua_name} {ua_email})"}) as session:
         tasks = [download_filing(session, filing, year, semaphore) for filing in filings]
         for i in range(0, len(tasks), 5):
             await asyncio.gather(*tasks[i:i+5])
@@ -119,7 +123,7 @@ def save_metadata_to_csv(filings, year):
         "downloadFilename": filing.get("downloadFilename", "")
     } for filing in filings]
     df = pd.DataFrame(metadata)
-    df.to_csv(os.path.join(download_dir, f"index-{year}.csv"), index=False)
+    df.to_csv(os.path.join(index_download_dir, f"index-{year}.csv"), index=False)
     return df
 
 def process_year(api, year):

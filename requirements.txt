@@ -5,3 +5,6 @@ pandas
 aiohttp
 asyncio
 nest_asyncio
+openai
+tiktoken
+html2text
