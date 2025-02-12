@@ -1,0 +1,2272 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exhibit1034.txt
+<DESCRIPTION>EXHIBIT 10.34
+<TEXT>
+                                                                   Exhibit 10.34
+
+
+                         COINSURANCE AND ADMINISTRATION
+                                    AGREEMENT
+
+                    (hereinafter referred to as "Agreement")
+
+
+                                     between
+
+
+                            CONSECO INSURANCE COMPANY
+                                   (ILLINOIS)
+
+                   (hereinafter referred to as the "Company")
+
+                                       and
+
+                     REASSURE AMERICA LIFE INSURANCE COMPANY
+                                   (ILLINOIS)
+
+                    (hereinafter referred to as "Reinsurer")
+
+
+                           Effective: January 1, 2007
+
+
+
+<PAGE>
+
+                                Table of Contents
+                                -----------------
+<TABLE>
+<S>                                                                                                              <C>
+PREAMBLE..........................................................................................................1
+
+ARTICLE I Coinsurance.............................................................................................1
+
+   1.    Reinsurance..............................................................................................1
+   2.    Transfer of Reserves; Initial Ceding Allowance;
+         Initial Settlement of Quarterly Cash Flows...............................................................2
+   3.    Agent Compensation.......................................................................................4
+   4.    Payment of Premium Taxes and Guaranty Assessments........................................................4
+   5.    Other Reinsurance........................................................................................4
+   6.    Credit for Reinsurance...................................................................................5
+   7.    New Business.............................................................................................5
+   8.    Funds Withheld Account...................................................................................6
+
+ARTICLE II Reinsurance Liability..................................................................................7
+
+ARTICLE III Plan and Amount of Insurance..........................................................................8
+
+   1.    Plan.....................................................................................................8
+   2.    Reductions and Terminations..............................................................................8
+   3.    Reinstatements...........................................................................................8
+   4.    Misstatements............................................................................................8
+   5.    Nonforfeiture Benefits...................................................................................8
+   6.    Payment..................................................................................................9
+   7.    Contractual Conversions; Internal Replacement............................................................9
+
+ARTICLE IV Administration........................................................................................10
+
+   1.    Transfer of Administrative Services.....................................................................10
+   2.    Administrative Services.................................................................................10
+   3.    Reports and Remittances.................................................................................11
+   4.    Reservation of Authority................................................................................12
+   5.    Complaint Handling Procedures...........................................................................13
+   6.    Inquiries...............................................................................................14
+   7.    Authorizations..........................................................................................14
+   8.    Books and Records.......................................................................................14
+   9.    Ownership of Premiums...................................................................................15
+   10.   Security Interest.......................................................................................15
+   11.   Termination of Services.................................................................................16
+   12.   SOX Audit Language......................................................................................17
+   13.   Gramm-Leach-Bliley Act..................................................................................17
+
+ARTICLE V Representations and Warranties of the Company..........................................................18
+
+</TABLE>
+
+
+<PAGE>
+                                Table of Contents
+                                -----------------
+<TABLE>
+<S>                                                                                                              <C>
+ARTICLE VI Representations and Warranties of Reinsurer...........................................................21
+
+ARTICLE VII Representations and Warranties of Conseco, Inc.......................................................22
+
+ARTICLE VIII Indemnification and Other Agreements................................................................23
+
+   1.    Indemnification by Company..............................................................................23
+   2.    Indemnification by Reinsurer............................................................................23
+   3.    Notice of Potential Liability...........................................................................24
+   4.    Opportunity to Defend...................................................................................24
+   5.    Litigation Management...................................................................................24
+   6.    Obligation of the Company to Fund Trust Account.........................................................25
+   7.    Obligation of the Reinsurer to Fund Trust Account.......................................................26
+   8.    Conduct of Business.....................................................................................27
+
+ARTICLE IX TAX...................................................................................................28
+
+   1.    DAC Tax.................................................................................................28
+   2.    Excise Tax..............................................................................................28
+
+ARTICLE X Insolvency.............................................................................................30
+
+ARTICLE XI Duration of Coinsurance...............................................................................31
+
+ARTICLE XII Settlement of disputes...............................................................................32
+
+ARTICLE XIII Termination.........................................................................................33
+
+   1.    Termination.............................................................................................33
+   2.    Termination Event.......................................................................................33
+   3.    Termination Date; Consequences of Termination...........................................................33
+   4.    Termination Due to Breach of Administrative Services....................................................34
+   5.    Servicing Following Termination.........................................................................35
+   6.    Unamortized Portion of the Ceding Commission............................................................35
+
+ARTICLE XIV General Provisions...................................................................................36
+
+   1.    Non-Guaranteed Elements.................................................................................36
+   2.    Reinsurance Conditions..................................................................................37
+   3.    Errors and Omissions....................................................................................37
+   4.    Offset..................................................................................................37
+   5.    Certain Transfers.......................................................................................37
+   6.    Authority...............................................................................................37
+   7.    Entire Agreement........................................................................................37
+</TABLE>
+                                       ii
+<PAGE>
+                                Table of Contents
+                                -----------------
+<TABLE>
+<S>                                                                                                              <C>
+   8.    Amendment...............................................................................................38
+   9.    Counterparts............................................................................................38
+   10.   No Assignment...........................................................................................38
+   11.   Binding Effect..........................................................................................38
+   12.   Notices.................................................................................................38
+   13.   Survival of Certain Representations of the Company......................................................39
+   14.   Governing Law...........................................................................................39
+   15.   Invalid Provisions......................................................................................39
+   16.   Announcements...........................................................................................40
+   17.   Contract Controls.......................................................................................40
+
+ARTICLE XV Execution.............................................................................................41
+</TABLE>
+
+                                      iii
+
+<PAGE>
+
+                                   Schedules
+                                   ---------
+
+
+Schedule A        Reinsured Policies
+
+Schedule B        Regulatory Approvals
+
+Schedule C        Reserves to be Transferred
+
+Schedule D        Assets Assumed Transferred for Purposes
+                  of Determining IMR Generated by    Transaction
+
+Schedule E        Assets to be Transferred at Effective Date
+
+Schedule F        Determination of Cash Component
+
+Schedule G-1      Funds Held Assets at Effective Date
+
+Schedule G-2      Funds Held Assets at Closing Date
+
+Schedule H        Administrative Transfer Dates
+
+Schedule I-1      Administrative Service Fees Payable to Company
+
+Schedule I-2      Services and Standards Required for Administrative Transition
+
+Schedule J        Transitional Accounting Report
+
+Schedule K        Quarterly Report
+
+Schedule L        Litigation
+
+Schedule M        Other Reinsurance Agreements
+
+
+                                       iv
+<PAGE>
+                                    PREAMBLE
+                                    --------
+
+     WHEREAS, Conseco Insurance Company, an Illinois insurance company (the
+"Company"), desires to reinsure on a coinsurance basis a certain block of in
+force fixed and equity indexed annuities and traditional individual life
+insurance policies; and
+
+     WHEREAS, Reassure America Life Insurance Company, an Illinois insurance
+corporation ("Reinsurer"), desires to reinsure and provide the administration of
+such annuities and life insurance policies; and
+
+     WHEREAS, the Company and Reinsurer intend that the basis of the reinsurance
+shall be 100% coinsurance by Reinsurer; and
+
+     NOW, THEREFORE, the Company, Reinsurer and Conseco, Inc. (solely as to
+Article III, Section 7(b) and Article VII hereof) have entered into this
+Coinsurance and Administration Agreement ("Agreement") and mutually agree to
+reinsure the Company's annuity and life insurance policies on the terms and
+conditions set forth in this Agreement.
+
+This Agreement is solely among the Company, Conseco, Inc. and Reinsurer and
+performance of the obligations of any party under this Agreement will be
+rendered solely to the other parties. In no instance will anyone other than the
+Company, Conseco, Inc. or Reinsurer have any rights under this Agreement.
+
+                                    ARTICLE I
+
+                                   COINSURANCE
+                                   -----------
+
+1.   Reinsurance
+
+     The Company will cede and Reinsurer will accept on a coinsurance basis 100%
+("Reinsurer's Share") of the Contractual Liabilities arising under the annuities
+and life insurance policies and plans of insurance, as set forth in Schedule A
+that are either in force on January 1, 2007 (the "Effective Date") or that
+constitute New Business, in each case net of Other Reinsurance whether or not
+collected. The annuities, life insurance policies and plans set forth in
+Schedule A, together with New Business, are hereinafter referred to collectively
+as the "Reinsured Policies" and individually as a "Reinsured Policy."
+
+     For purposes of this Agreement, "Contractual Liability" and "Contractual
+Liabilities" shall be restricted to all liabilities and obligations arising from
+and after the Effective Date under the written terms and conditions of Reinsured
+Policies, and all liabilities and obligations arising from any act, error or
+omission of the Reinsurer in administering the Reinsured Policies pursuant to
+Article IV, other than: (i) liabilities arising from acts, errors or omissions
+on the part of Company, its agents, employees or representatives (but excluding
+the Reinsurer) that cause liability beyond policy provisions; (ii) any
+non-policy liabilities, not attributable to the Reinsurer, including, without
+limitation, liabilities for expenses or commissions incurred prior to the
+Effective Date; (iii) Extra Contractual Obligations; (iv) any liabilities
+arising under or related to the Reinsured Policies incurred prior to the
+Effective Date; (v) any liabilities resulting from, arising out of or related to
+any enhancement of policy provisions by the Company occurring from and after the
+Effective Date, whether such enhancement is the result of a judgment,
+
+                                       1
+<PAGE>
+settlement, consent order or otherwise; and (vi) Reinsured Policies that
+annuitize during the period from the Effective Date to the applicable
+Administrative Transfer Date.
+
+     For purposes of this Agreement, "Extra Contractual Obligations" means all
+liabilities or obligations arising under or in respect of a Reinsured Policy,
+exclusive of liabilities or obligations arising under the express written terms
+and conditions of a Reinsured Policy. Extra Contractual Obligations shall
+include (without limitation) any liability for fines, penalties, forfeitures,
+punitive, special, exemplary or other forms of extra-contractual damages, which
+liabilities or obligations arise from any act, error or omission, of the
+Company, its agents, employees or representatives, whether or not intentional,
+negligent, in bad faith or otherwise relating to: (i) the marketing, sale,
+underwriting, production or issuance of the Reinsured Policies, (ii) the
+cancellation or administration of the Reinsured Policies; (iii) the
+investigation, defense, trial, settlement or handling of claims, benefits, or
+payments under the Reinsured Policies; or (iv) the failure to pay, the delay in
+payment, or errors in calculating or administering the payment of benefits,
+claims or any other amounts due or alleged to be due under or in connection with
+the Reinsured Policies.
+
+     The premium to be paid to Reinsurer by the Company for the Reinsured
+Policies will be Reinsurer's Share of all premiums paid to the Company under the
+Reinsured Policies on and after the Effective Date inclusive of policy and
+similar fees (together, "Premiums").
+
+     This Agreement will not be effective, valid or binding absent receipt of
+all required regulatory approvals set forth in Schedule B. The Company shall
+have the right to rescind this Agreement, upon written notice given prior to the
+Closing Date, and this Agreement will be of no further force or effect, if any
+event, occurrence, fact, condition, change, development or effect shall have
+occurred since the date this Agreement is executed, but prior to the Closing
+Date, or could reasonably be expected to occur during such period, that,
+individually or in the aggregate with other such events, occurrences, facts,
+conditions, changes, developments or effects, has had or resulted in, or could
+reasonably be expected to become or result in, a material adverse effect on the
+Reinsurer or its ultimate parent company.
+
+     The Reinsurer shall have the right to rescind this Agreement, upon written
+notice given prior to the Closing Date, and this Agreement will be of no further
+force or effect, if any event, occurrence, fact, condition, change, development
+or effect shall have occurred since the date this Agreement is executed, but
+prior to the Closing Date, or could reasonably be expected to occur during such
+period, that, individually or in the aggregate with other such events,
+occurrences, facts, conditions, changes, developments or effects, has had or
+resulted in, or could reasonably be expected to become or result in, a material
+adverse effect on the Company or Conseco, Inc.
+
+2.   Transfer of Reserves; Initial Ceding Allowance; Initial Settlement of
+     Quarterly Cash Flows
+
+     (a) In consideration for the reinsurance provided by Reinsurer, on the
+fifth business day following receipt of all regulatory approvals set forth in
+Schedule B, or on such other day as the parties may mutually agree (the "Closing
+Date"), the Company shall pay to Reinsurer an amount (the "Initial Net
+Consideration") equal to the sum of (x) and (y), where (x) equals Reinsurer's
+Share of (i) Net Reserves (as defined below), plus (ii) any interest maintenance
+reserves ("IMR") associated with this transaction including both the historical
+IMR identified in
+
+                                       2
+<PAGE>
+Schedule C and IMR generated by this transaction (determined with respect to the
+portfolio of investments described on Schedule D), less (iii) any policy loans
+outstanding on the Reinsured Policies, net of any unearned policy loan interest
+on those policy loans but including amounts of interest accrued with respect
+thereto, less (iv) the amount of the Funds Withheld Balance (each of items (i),
+(ii), (iii) and (iv) shall be determined as of the Effective Date), less (v) a
+ceding allowance (the "Initial Ceding Allowance") equal to $70.7 million; and
+(y) equals the interest accrued on the amount determined pursuant to clause (x)
+from the Effective Date through the Closing Date at a rate per annum equal to
+5.50%. As used herein, "Net Reserves" means the statutory reserves attributable
+to the Contractual Liabilities reinsured hereunder determined as of the
+Effective Date and in accordance with Company SAP consistently applied, net of
+(1) reserves ceded under Other Reinsurance, (2) reserves for life claims in the
+course of settlement, (3) life claims that have been incurred but not reported,
+and (4) annuities in payout, each as of the Effective Date.
+
+     (b)  (i) The Initial Net Consideration shall be payable in cash and in kind
+as provided herein. The Company will transfer to Reinsurer certain assets
+in-kind (the "Transferred Assets") and an amount of cash determined as specified
+below (the "Cash Component"). The Transferred Assets will include all or a
+substantial portion of those assets listed in Schedule E each with a fair market
+value (excluding accrued investment income) determined as of the Effective Date
+as the mutually agreed to price stated in Schedule E; provided that, (x) for
+assets (such as mortgage or asset backed securities) that have periodic
+repayments of principal, the market values specified in Schedule E shall be
+reduced by the amount of such principal repayments from the Effective Date to
+the Closing Date and (y) for assets that have been sold in part, the market
+values stated therein shall be reduced proportionally.
+
+          (ii) The Transferred Assets will be selected from those assets listed
+in Schedule E subject to changes mutually agreed by both parties, which changes
+shall hereafter be referred to as the "Substituted Assets." Each Substituted
+Asset shall have a market value as of the Effective Date equal to the average of
+the market values reported by the Bloomberg, L.P. and the Financial Times
+pricing sources. Substituted Assets shall: (A) not be substituted for any asset
+listed on Schedule E unless mutually agreed to by the parties; (B) have a
+similar market yield as the assets being replaced; (C) have a similar duration
+as the assets being replaced; and, (D) have a similar credit quality as the
+assets being replaced. In the case of (B), (C) and (D) above, each shall be
+determined as of the Effective Date.
+
+          (iii) The fair market value specified in Schedule E for any asset
+listed therein plus accrued interest as at the Closing Date shall be the
+"Designated Value" for such asset. The amount of the Cash Component is
+determined such that the sum of the aggregate Designated Value for Transferred
+Assets and the amount of the Cash Component cash shall be equal to the Initial
+Net Consideration. If the Cash Component so determined is a negative number, the
+absolute value of such amount shall be paid by the Reinsurer to the Company.
+Summary computations with respect to the foregoing transfers are set forth on
+Schedule F hereto.
+
+     (c) In addition, effective as of the Effective Date, the Company shall
+establish the Funds Withheld Account. Reinsurer shall be entitled to receive the
+benefits of the operation of the Funds Withheld Account as specified in Section
+8 of this Article I from and after the Effective Date hereof and also the
+Reinsurer's Share of interest earned and principal repayments
+
+                                       3
+<PAGE>
+in respect of policy loans attributable to the Reinsured Policies
+
+     (d) The Company represents and warrants that reserves and other amounts
+pertaining to the Reinsured Policies set forth on Schedule C hereto have been
+determined by the Company in accordance with Company SAP. For the purposes of
+this Agreement, "Company SAP" shall be defined as the statutory valuation
+methods, mortality tables, and interest rate bases duly adopted in accordance
+with applicable law in prior years by the Company with regard to the Reinsured
+Policies, but excluding the voluntary reserve strengthening on plans F14 and
+S500 with regard to cliff surrender charges and also excluding any portion of
+Company additional reserves held on account of asset adequacy analysis.
+Reinsurer agrees with respect to the Reinsured Policies, to establish and
+maintain as liability on its statutory statements proper reserves for the
+Reinsured Policies in accordance with statutory accounting practices applicable
+to Reinsurer, but in no case less than the statutory reserves as required by the
+regulatory authorities of the Company's state of domicile.
+
+3.   Agent Compensation
+
+     Reinsurer will pay, and will reimburse the Company to the extent the
+Company has paid for, all producer and marketing organization commissions
+incurred on or after the Effective Date related to the Reinsured Policies in
+accordance with procedures agreed to by the parties, except for any such
+commissions processed on the OASYS B system after the applicable Administrative
+Transfer Date. Reinsurer will not be responsible for reimbursing the Company for
+any other commissions or additional payments on account of producers or
+marketing organizations, including, without limitation, those made under any
+production or persistency bonus or incentive program applicable to the Reinsured
+Policies. Without Reinsurer's prior written consent, the Company shall not
+implement any material modification to its current producer commission or
+service plans or arrangements applicable to the Reinsured Policies. The Company
+can collect outstanding debt from agents for its own benefit, including
+offsetting against commissions payable.
+
+4.   Payment of Premium Taxes and Guaranty Assessments
+
+     The Company will pay all actual premium taxes and any other similar
+assessments (including all guaranty fund assessments not offset from such
+premium taxes) related to the Reinsured Policies incurred on or after the
+Effective Date. Reinsurer will reimburse the Company for such amounts quarterly.
+
+5.   Other Reinsurance
+
+     With the prior written consent of Reinsurer, the Company may exercise any
+right it may have to recapture risk under the Reinsured Policies ceded under any
+existing reinsurance ("Other Reinsurance") and Reinsurer will reinsure such
+recaptured risk under this Agreement. Upon request by Reinsurer, the Company
+agrees to take reasonable action to exercise its rights to recapture risk under
+the Reinsured Policies ceded under any such Other Reinsurance and Reinsurer will
+reinsure such recaptured risk under this Agreement. Notwithstanding the
+foregoing, the Reinsurer shall not have any obligation to reinsure any such
+recaptured risks hereunder unless and until the Company shall have transferred
+to the Reinsurer the Reinsurer's
+
+                                       4
+<PAGE>
+Share of the amount of statutory reserves in respect of such recaptured risks
+calculated as of the effective date of such recapture in accordance with Company
+SAP consistently applied.
+
+6.   Credit for Reinsurance
+
+     (a) From the Effective Date to the Closing Date, the Company shall
+calculate, establish and maintain proper reserves with respect to the Reinsured
+Policies in accordance with Company SAP consistently applied.
+
+     (b) From the Closing Date to the applicable Administrative Transfer Date,
+the Company shall calculate proper reserves with respect to the Reinsured
+Policies in accordance with Company SAP consistently applied, and Reinsurer
+shall establish and maintain proper reserves for the Reinsured Policies in
+accordance with statutory accounting practices applicable to Reinsurer, but in
+no case less than the statutory reserves as required by the regulatory
+authorities of the Company's state of domicile
+
+     (c) From and after the applicable Administrative Transfer Date, Reinsurer
+shall calculate, establish and maintain proper reserves for the Reinsured
+Policies in accordance with statutory accounting practices applicable to
+Reinsurer, but in no case less than the statutory reserves as required by the
+regulatory authorities of the Company's state of domicile. On an annual basis
+during each year after the Administrative Transfer Date in which this Agreement
+remains in force, in connection with the preparation of the Company's annual
+financial statements the Reinsurer shall cause its appointed actuary to provide
+to the Company's appointed actuary an actuarial opinion in compliance with the
+current NAIC requirements. Such actuarial opinion shall state that, in the
+opinion of the Reinsurer's appointed actuary, such reserves and related
+actuarial values concerning the Reinsured Policies as of the date of such
+actuarial opinion: (i) are computed in accordance with presently accepted
+actuarial standards consistently applied and are fairly stated, in accordance
+with sound actuarial principles; (ii) are based on actuarial assumptions which
+produce reserves at least as great as those called for in any provision of the
+Reinsured Policies concerning the reserve basis and method, and are in
+accordance with all other contract provisions of the Reinsured Policies; (iii)
+meet the requirements of the insurance laws and regulations of the Company's
+state of domicile; (iv) are computed on the basis of assumptions consistent with
+those used in computing the corresponding items in the prior year; and (v)
+include provision for all actuarial reserves and related statement items which
+should be established in accordance with sound actuarial principles. In
+addition, in connection with the Reinsured Policies, Reinsurer agrees to
+disclose to the Company its actuarial assumptions relied on in establishing its
+reserves and the results of its asset adequacy testing for the Reinsured
+Policies.
+
+7.   New Business
+
+     The Reinsurer will reinsure and be liable pursuant to this Agreement for
+Contractual Liabilities arising under Reinsured Policies issued after the
+Effective Date on applications submitted no later than June 30, 2007 and
+administered by the Company on its Bannerstone administration system ("New
+Business") provided that such New Business is written and issued in the ordinary
+course of business in accordance with past practices and the Company's
+underwriting guidelines in force on the Effective Date. In its sole discretion,
+the Reinsurer may
+
+                                       5
+<PAGE>
+treat any policies or contracts not meeting the requirements of the foregoing
+sentence as "New Business" and reinsure such policies or contracts hereunder.
+Notwithstanding anything herein to the contrary, the Company shall use its best
+efforts to cease issuing New Business as soon as practicable after the date of
+this Agreement.
+
+8.   Funds Withheld Account
+
+     (a) The Company shall establish and maintain a funds withheld account (the
+"Funds Withheld Account") as of the Effective Date which shall be reported in
+accordance with Schedule J. The opening balance of the Funds Withheld Account
+shall be equal to the market value of the call option contracts identified on
+Schedule G-1 as of the Effective Date (the "Opening Balance"). For each report
+in the form set forth in Schedule J provided to the Reinsurer in accordance with
+this Agreement, the ending balance of the Funds Withheld Account shall be equal
+to the market value of the Hedges as of the date of such report. For purposes of
+this Agreement, "Hedge or Hedges" shall mean the call option contracts
+identified on Schedule G-1, or any one of them, and any additional call option
+contract purchased by the Company prior to the Closing Date to hedge risk
+associated with a Reinsured Policy (except simple index annuity products), which
+will be listed on Schedule G-2 to be provided to the Reinsurer on or before the
+Closing Date. Changes to the Funds Withheld Account shall be reported quarterly
+in accordance with Schedule J.
+
+     (b) During the period from the Effective Date to but excluding the Closing
+Date, the Company will continue to manage the Hedges in accordance with
+applicable law and its historic practices. Any Hedges purchased by the Company
+during such period will be allocated proportionately to the Reinsured Policies,
+with the proportion determined by the notional amount of liability for each
+weekly cohort as determined on the day the Hedge is purchased. Reinsurer will
+pay the Company for the cost of any Hedges purchased during such period
+allocated to the Reinsured Policies. The Company will pay Reinsurer the value of
+the Hedges when they mature.
+
+     (c) During the twelve-month period beginning on the Closing Date and ending
+on the first anniversary thereof, the Company will transmit to Reinsurer its
+report on the inventory of Hedges for the Reinsured Policies (the "Inventory").
+The Company will transmit the Inventory report to the Reinsurer weekly and, on
+the Inventory, the Company will establish the valuation of the Hedges consistent
+with the Company's historic practices.
+
+     (d) Following the Closing Date and continuing until the final
+Administrative Transfer Date, Company shall provide to the Reinsurer each
+business day data similar to that which has been provided to Reinsurer as an
+example of the information currently being used by Company to manage the Hedges.
+In particular, this information will include a schedule which lists by premium
+anniversary date at least the following information:
+
+          i.   volume of business in force, measured by account value on
+               immediately preceding premium anniversary date;
+          ii.  the strike price;
+          iii. the average participation rates; and,
+          iv.  the historical monthly strike prices for completed months since
+               the previous premium anniversary date.
+
+                                       6
+<PAGE>
+                                   ARTICLE II
+
+                              REINSURANCE LIABILITY
+                              ---------------------
+
+     Reinsurer's liability with respect to any Contractual Liability on any
+Reinsured Policy begins on the Effective Date and ends at the same time as that
+of the Company; provided, however, that Reinsurer will have no liability for any
+Contractual Liability incurred before the Effective Date, except for annuity
+claims in the course of settlement and annuity claims incurred but not reported
+which were included in the asset transfer. Reinsurer will not participate in any
+enhancement of policy provisions by the Company occurring from and after the
+Effective Date whether such enhancement is the result of a judgment, settlement,
+consent order or otherwise unless agreed to by Reinsurer in writing prior to
+granting of such enhancement, including enhancements agreed to by Reinsurer
+pursuant to Section 8.5.
+
+     The payment of Premiums is a condition precedent to the continuing
+liability of Reinsurer under this Agreement. If Premiums with respect to this
+Agreement are not paid when due, to the extent such Premiums are in the
+possession of the Company and not otherwise collected directly by the Reinsurer
+pursuant to Article IV, Reinsurer shall have the right to provide to the Company
+forty-five (45) days' prior written notice (the "Initial Notice") of its intent
+to terminate because of the Company's failure to pay Premiums. If following
+forty-five days after delivery of the Initial Notice, Premiums with respect to
+this Agreement are not paid when due, Reinsurer shall have the further right to
+provide to the Company a second forty-five (45) days' prior written notice (the
+"Second Notice") of its intent to terminate because of the Company's failure to
+pay Premiums. Reinsurer shall use its commercially reasonable efforts to ensure
+that any such Second Notice shall be delivered both to the Chief Executive
+Officer of the Company and to its Chief Financial Officer. The Second Notice
+shall attach a copy of this Agreement and indicate on its face a reference to
+this provision. Reinsurance of all Reinsured Policies having Premiums in arrears
+shall terminate as of the date to which Premiums had previously been paid unless
+all such Premiums in arrears are paid before the end of the second forty-five
+(45) day notice period. No such termination shall become effective unless and
+until Reinsurer shall have delivered both the Initial Notice and the Second
+Notice and each of the 45-day cure periods described above and therein shall
+have ended without cure of the Company's failure to pay the Premiums therein
+noted. If, as set forth above, reinsurance with respect to the Reinsured
+Policies shall terminate due to the Company's failure to pay Premiums,
+reinsurance hereunder of the Reinsured Policies with Premiums subsequently
+becoming due shall terminate automatically as of the date upon which new
+Premiums become due. Notwithstanding the foregoing, reinsurance shall remain in
+full force and effect with respect to the Reinsured Policies for which there are
+no Premiums in arrears. Furthermore, Reinsurer's termination rights pursuant to
+this Article II shall only apply in the event Reinsurer is unable to set off the
+unpaid Premiums against the Reinsurer's share of any Contractual Liabilities
+owed to the Company.
+
+                                       7
+<PAGE>
+                                  ARTICLE III
+
+                          PLAN AND AMOUNT OF INSURANCE
+                          ----------------------------
+
+1.   Plan
+
+     Reinsurance under this Agreement is on a coinsurance basis and is subject
+to the written terms and conditions set forth in the Reinsured Policies, and any
+amendments thereto in effect as of the Effective Date.
+
+2.   Reductions and Terminations
+
+     Reinsurance amounts are calculated in terms of coverages on a "per policy"
+basis. If the coverage of any Reinsured Policy on an insured is reduced or
+terminated, reinsurance under this Agreement on such Reinsured Policy will be
+similarly reduced or terminated.
+
+3.   Reinstatements
+
+     A Reinsured Policy ceded under this Agreement that is reduced, terminated
+or lapsed, and later reinstated pursuant to policy provisions will be reinsured
+by Reinsurer. Reinsurer will be entitled to receive the Reinsurer's Share of any
+Premiums and interest that the Company has received for reinstatement.
+
+     A terminated policy that would have been a Reinsured Policy had it been in
+force on the date of this Agreement, that later reinstates pursuant to policy
+provisions, will be reinsured by Reinsurer and become a Reinsured Policy.
+Reinsurer will be entitled to receive the Reinsurer's Share of any Premiums and
+interest for coverage on or after the Effective Date that is received for
+reinstatement, and the Company will transfer to Reinsurer the Reinsurer's Share
+of the amount of the statutory reserves calculated as of the Effective Date. The
+date of reinsurance for such reinstated policies shall be the Effective Date.
+
+4.   Misstatements
+
+     If the insured's age or sex was misstated and the amount of insurance on
+the Company's policies is adjusted, the Company and Reinsurer will share the
+adjustment in proportion to the amount of liability of each with respect to such
+Reinsured Policy. Premiums will be recalculated for the correct age or sex and
+amounts according to the proportion as above and adjusted without interest. If
+the insured is still alive, the method above will be used for past years and the
+amount of reinsurance and Premium adjusted for the future to the amount that
+would have been correct at the Effective Date.
+
+5.   Nonforfeiture Benefits
+
+     Reinsurer shall reinsure any nonforfeiture benefit provided for under the
+terms of any Reinsured Policy.
+
+                                       8
+<PAGE>
+6.   Payment
+
+     For Reinsured Policies that annuitize prior to the applicable
+Administrative Transfer Date, Reinsurer will pay to the Company Reinsurer's
+Share in a lump sum without regard to the form of claim settlement of the
+Company.
+
+7.   Contractual Conversions; Internal Replacement
+
+     (a) In the event of a contractual conversion of any Reinsured Policy
+pursuant to the terms thereof, Reinsurer will reinsure the risk resulting from
+such conversion.
+
+     (b) The Company and Conseco, Inc. each covenant not to solicit and to cause
+each of their respective Affiliates not to solicit, owners, beneficiaries or
+policyholders in connection with any program of internal replacement for any of
+the Reinsured Policies absent the prior written consent of Reinsurer. The term
+"program of internal replacement" shall mean any program sponsored or supported
+by the Company or any of its Affiliates offered to a class of policy owners in
+which a policy or a portion of any policy is exchanged for another policy not
+reinsured under this Agreement which is written by the Company or any Affiliate
+thereof, its successors or assigns. Should the Company, its Affiliates,
+successors or assigns initiate a program of internal replacement that would
+include any of the risks reinsured hereunder, the Company will immediately
+notify Reinsurer prior to the solicitation of any owners, beneficiaries or
+policyholders of any Reinsured Policy. For each risk reinsured hereunder that
+has been replaced under a program of internal replacement, Reinsurer shall have
+the option at its sole discretion of either treating the risks reinsured as
+recaptured on terms reasonably acceptable thereto or continuing reinsurance on
+the new policy under the terms of this Agreement without any additional ceding
+allowance therefor.
+
+     For purposes of the foregoing, "Affiliate" shall mean, with respect to any
+Person, any Person directly or indirectly controlling, controlled by, or under
+direct or indirect common control with, such Person. The term "control" means
+the possession, directly or indirectly, of the power to direct or cause the
+direction of the management and policies of such Person, whether through the
+ownership of voting securities, by contract or otherwise, and the terms
+"controlling" and "controlled" have correlative meanings to the foregoing. In
+the event of a voluntary change in the control of the Company occurring prior to
+the fourth annual anniversary of the Effective Date of this Agreement, Conseco,
+Inc. covenants for itself and its Affiliates to cause the transferee in respect
+of such change in Control to undertake and assume the obligations of Conseco,
+Inc. hereunder for the benefit of Reinsurer. It is acknowledged that following
+any such undertaking and assumption, Conseco, Inc. and its Affiliates shall not
+be liable, contingently or otherwise, for the performance by any such successor
+(or any Affiliates of any such successor) of its (or their) obligations as so
+undertaken and assumed; provided, however, that Reinsurer shall be afforded the
+right to directly enforce any such covenant.
+
+                                       9
+<PAGE>
+                                   ARTICLE IV
+
+                                 ADMINISTRATION
+                                 --------------
+
+1.   Transfer of Administrative Services
+
+     (a) On and after the dates set forth on Schedule H, which are subject to
+change upon mutual written consent, and for so long as the reinsurance provided
+hereunder remains in force unless otherwise terminated pursuant to Article XIII,
+Section 4, Reinsurer shall be responsible for providing administrative services
+in accordance with Section 2 of this Article IV for the transferred Reinsured
+Policies. The effective date on which Reinsurer assumes responsibility for
+administrative services on a Reinsured Policy is referred to as an
+"Administrative Transfer Date." Prior to the applicable Administrative Transfer
+Date with respect to any Reinsured Policy, the Company shall continue to provide
+the administrative services for such Reinsured Policy in a manner consistent
+with applicable law, its current practices as of the date hereof and in
+accordance with the terms and conditions of the Reinsured Policies. In
+consideration for the Company performing these services, Reinsurer shall pay the
+Company, on a quarterly basis, the fees computed as set forth in Schedule I-1
+for the Reinsured Policies administered by the Company.
+
+     (b) The Company and Reinsurer shall cooperate with each other and use their
+respective commercially reasonable efforts to effect an orderly transition of
+all administrative services for the Reinsured Policies from the Company to
+Reinsurer as of the applicable Administrative Transfer Dates. Without limiting
+the generality of the foregoing, the Company shall provide the Reinsurer with
+the assistance, services and standards set forth in Schedule I-2 to support and
+effect such transition. After the applicable Administrative Transfer Date, no
+additional fees shall be incurred by the Reinsurer pursuant to this Article IV,
+Section 1.
+
+2.   Administrative Services
+
+     (a) The Reinsurer shall provide the following administrative services with
+respect to any Reinsured Policy from and after the applicable Administrative
+Transfer Date: (i) preparing and mailing all necessary or appropriate policy and
+annuity statements, reports and communications, including premium notices; (ii)
+collecting premiums and amounts due under the Reinsured Policies; (iii)
+receiving, processing, investigating, evaluating, and paying claims and/or
+surrenders filed by or on behalf of holders of Reinsured Policies; (iv)
+defending any action brought under a Reinsured Policy with respect to
+Contractual Liabilities; (v) providing usual and customary services for holders
+of Reinsured Policies, including, without limitation, processing loans,
+non-forfeiture claims, lapses, annuity payments, reinstatements, cancellations,
+conversions and other changes provided for under the Reinsured Policies and
+calculations related thereto, and call center operations; (vi) providing the
+Company with information on commissions and producers entitled thereto, if any,
+for the Reinsured Policies; (vii) providing all accounting and actuarial
+information related to the Reinsured Policies that are necessary for the Company
+to timely meet its statutory, GAAP or tax accounting and reporting requirements;
+(viii) maintaining appropriate books and records of all transactions related to
+the Reinsured Policies, including the obligation to maintain books and records
+pursuant to Article VIII, Section 5; (ix) administering Other Reinsurance; (x)
+tax reporting to policyholders, including 1099s, and (xi) providing such
+
+                                       10
+<PAGE>
+additional services as may be necessary and appropriate to properly administer
+the Reinsured Policies. Reinsurer shall perform such administrative services in
+accordance with the written provisions of the Reinsured Policies. Reinsurer's
+performance of services hereunder shall be in accordance with any applicable
+federal and state laws, rules and regulations.
+
+     (b) Notwithstanding any other provision of this Agreement, the Reinsurer
+may, at its option, delegate its obligations under this Article IV to
+Transactions Applications Group, Inc. or, after providing prior written notice
+to the Company, to any other duly licensed third party administrator or other
+service provider. Any such delegation shall be effected in a manner that does
+not interrupt or impair the performance of the administrative services required
+hereby. In any event, no delegation will release the Reinsurer from
+responsibility to the Company under this Agreement with respect to the
+performance of the administrative services required hereby.
+
+     (c) The Reinsurer shall not be entitled to any separate consideration, fees
+or reimbursement for the administrative services performed hereunder.
+
+3.   Reports and Remittances
+
+
+     (a) Between the Closing Date and the final Administrative Transfer Date,
+the Company shall prepare an accounting for each full or partial quarter prior
+to such final Administrative Transfer Date substantially in the form set forth
+in Schedule J (the "Transitional Quarterly Accountings"), provided that the
+Company will continue to report the Funds Withheld Account in accordance with
+Schedule J for the twelve month period following the Closing Date and provided
+further that the first Schedule J provided by the Company to the Reinsurer shall
+contain a reconciliation for the period from the Effective Date through the end
+of the calendar month immediately preceding the Closing Date. Each Transitional
+Quarterly Accounting shall be provided to Reinsurer by no later than the
+thirtieth (30th) day of the following calendar quarter. The final Transitional
+Quarterly Accounting shall be due by no later than thirty (30) days after the
+final Administrative Transfer Date. If any such Transitional Quarterly
+Accounting reflects a balance due Reinsurer it shall be paid in cash with the
+Transitional Quarterly Accounting. If any such Transitional Quarterly Accounting
+reflects a balance due the Company, the Reinsurer shall pay such balance in cash
+within ten (10) business days of the delivery of the Transitional Quarterly
+Accounting. Further, during the period from the Closing Date to the final
+Administrative Transfer Date, Reinsurer will advance cash to the Company for the
+benefits to be paid on the Reinsured Policies. Any funds so advanced shall be
+held by the Company in trust for the benefit of holders of Reinsured Policies
+and the Reinsurer. The balance of the advance will be trued-up monthly. The
+balance at these dates will be calculated as the estimated benefits to be paid
+prior to the next advance date. The Company will recalculate the advance balance
+each week, taking into account advances received and actual benefits paid.
+Should the advance balance fall below a threshold amount, then the advance will
+be trued-up as though it were the next regularly scheduled true-up date. The
+threshold amount will be calculated as the expected weekly benefit payments. The
+Company will pay interest to Reinsurer on the advance balance at the Fed Funds
+rate, which will be computed weekly based on an adjusted average advance
+balance. The adjusted average balance will be calculated based on the actual day
+of receipt of new advances, but as though benefits were paid at the middle
+period. The interest rate on the cash advance will equal the daily average of
+the Fed Funds rate for the weekly period. Any
+
+                                       11
+<PAGE>
+funds so advanced that are not paid as benefits on the Reinsured Policies prior
+to the final Administrative Transfer Date shall be returned to the Reinsurer
+within ten (10) business days.
+
+     (b) From and after the first Administrative Transfer Date, the Reinsurer
+shall prepare a report for each full or partial quarter after such
+Administrative Transfer Date substantially in the form set forth in Schedule K
+(the "Quarterly Report"). Each Quarterly Report shall be provided to the Company
+by no later than the thirtieth (30th) day of the following calendar quarter.
+
+     (c) Each party will provide the other in a timely manner with such other
+information related to this Agreement and the business reinsured hereunder that
+is reasonably required by the parties to prepare their respective financial
+reports under statutory, tax and GAAP accounting methods.
+
+     (d) Interest will accrue at the Fed Funds rate and be payable on any
+balance due the Company or the Reinsurer set forth in any Transitional Quarterly
+Accounting or Quarterly Report that is not paid when due, calculated from the
+date such amount was due to the date on which such amount is remitted. Such
+interest shall accrue at an annual rate equal to the US Federal Funds Effective
+Rate ("the Fed Funds rate") defined, for purposes of this Agreement, as the
+daily weighted average Fed Funds rate on brokered trades set by the Federal
+Reserve after the close of daily business (or if not a business day, the first
+business day thereafter). This rate appears the following day on Bloomberg as
+the "FEDL" or published in the Wall Street Journal under Borrowing Benchmarks,
+Money Rates, Federal Funds Effective Rate, Latest.
+
+4.   Reservation of Authority
+
+     Notwithstanding anything to the contrary contained herein:
+
+     (a) The Company shall have the ultimate and final authority over decisions
+and policies relating to the Reinsured Policies, and the Company has the right
+to inspect any and all documents that pertain to the administration of the
+Reinsured Policies by Reinsurer and any contract administrators. The Company's
+authority described above includes but is not limited to the acceptance,
+rejection or canceling of rights and the payment or nonpayment of claims under
+Reinsured Policies; provided, however, that if Reinsurer shall make any
+recommendations with respect thereto which recommendation shall be rejected by
+the Company, and the action or inaction taken by the Company results in any
+additional liabilities, damages, costs or expenses to the Company or Reinsurer,
+other than as specified in a Reinsured Policy, or if the Company's dealings with
+any of Reinsurer's contract administrators shall result in any additional
+liabilities, damages, costs or expenses to Reinsurer, such liabilities, damages,
+costs or expenses shall be the responsibility of the Company and Company shall
+indemnify and hold Reinsurer and Reinsurer's contract administrators harmless
+from and against any such liabilities, damages, costs or expenses.
+
+     (b) The business and affairs of the Company shall be managed by its Board
+of Directors, and to the extent delegated by the Board, by the Company's
+designated officers. Reinsurer acknowledges that the Board of Directors of the
+Company is vested with the power, authority and responsibility for managing the
+business and affairs of the Company, including
+
+                                       12
+<PAGE>
+administrative services agreements of the Company with Reinsurer and any
+contractors. Reinsurer acknowledges that any and all actions or services,
+whether supervisory or ministerial, taken or provided pursuant to this Agreement
+by Reinsurer and any contract administrators, shall be subject to the continuous
+supervision by the Company's Board of Directors and officers.
+
+5.   Complaint Handling Procedures
+
+     (a) The parties will cooperate with each other in providing information
+necessary to respond to any complaints of policyholders concerning the Reinsured
+Policies. For purposes of this Section, a complaint shall not include Litigation
+which will be managed as provided in Article VIII.
+
+     (b) After the Closing Date and before the applicable Administrative
+Transfer Date, Company shall promptly forward any such complaints, along with
+the proposed response, by facsimile or overnight mail to a contact person
+designated by Reinsurer in writing (the "Reinsurer Contact") for review. Upon
+answering such complaints, Company will furnish Reinsurer with a copy of the
+complaint file.
+
+     (c) After the applicable Administrative Transfer Date, Reinsurer shall
+answer all complaints received by it concerning the Reinsured Policies,
+provided, that if a complaint relates to a matter that would be a liability of
+Company under this Agreement ("Company Complaint"), it shall be handled as
+provided in paragraph (d) of this Section. All complaints (including Company
+Complaints) concerning the Reinsured Policies received by Company after the
+applicable Administrative Transfer Date shall be promptly forwarded by facsimile
+or overnight mail (or as Reinsurer may otherwise direct) to the Reinsurer
+Contact for reply. Upon answering any complaints, Reinsurer will furnish Company
+with a copy of the complaint file.
+
+     (d) If the complaint is a Company Complaint, Reinsurer shall:
+
+(1) by the end of the fifth business day after receipt thereof, fax or overnight
+mail a copy of the Company Complaint to a contact person designated by the
+Company in writing (the "Company Contact");
+
+(2) have the discretion to obtain an agent's statement and acknowledge receipt
+of the complaint;
+
+(3) draft a proposed response to the complaint and provide a fax copy of the
+proposed response along with a copy of the applicable portion of the policy file
+to the Company Contact within ten (10) business days after receipt thereof.
+Company shall have five (5) business days from the date the proposed response is
+received from the Reinsurer to review the proposed response. If the Company
+disagrees with Reinsurer's proposed response, Company must provide the Reinsurer
+Contact with a written notice of objection within such 5 day period. If an
+objection is not received within such 5 day period, the Company shall be deemed
+to agree with the proposed response. Reinsurer will then respond to the
+complaint while keeping the Company fully apprised; or
+
+(4) if Company disagrees with Reinsurer's proposed response and Reinsurer
+receives an objection from the Company within such 5 day period, Reinsurer shall
+turn over the handling of the complaint to the Company and the Company shall
+then assume full responsibility for the
+
+                                       13
+<PAGE>
+handling of the complaint while keeping Reinsurer fully apprised, and will
+furnish Reinsurer with a copy of the complaint file.
+
+     (e) The Company shall be solely responsible for maintaining any complaint
+files, complaint registers or other reports of any kind related to policyholder
+complaints, which are required to be maintained under applicable state law.
+Subject to the requirements of Article VIII, Section 5 regarding Litigation,
+Reinsurer shall also maintain complaint files and registers and shall provide
+the Company with copies of complaint registers concerning Reinsured Policies
+quarterly or upon reasonable request by the Company. The Company shall also be
+responsible for preparing and submitting any other complaint filings as required
+by applicable law.
+
+6.   Inquiries
+
+     In the event that Reinsurer or the Company receives notice of, or otherwise
+becomes aware of, any regulatory inquiry, investigation or proceeding relating
+to the Reinsured Policies, Reinsurer or the Company, as applicable, shall
+promptly notify in writing the other party thereof, whereupon the parties shall
+cooperate in good faith and use their respective commercially reasonable efforts
+to respond to such matter in a timely manner.
+
+7.   Authorizations
+
+     After the Closing Date and upon Reinsurer's reasonable request, the Company
+shall provide specific authorizations for Reinsurer's employees to sign letters
+and acknowledge policy modifications on behalf of the Company concerning such
+matters which include, but are not limited to, policy administration and claim
+matters. Notwithstanding the failure of the Company to grant specific
+authorizations, Reinsurer shall be authorized hereunder to perform such acts
+with respect to the Reinsured Policies as may be reasonably necessary for the
+performance of this Agreement. The Company hereby grants an irrevocable (other
+than in the event of termination of this Agreement) power of attorney
+authorizing Reinsurer to endorse for deposit payments and remittances related to
+the Reinsured Policies into a bank account or accounts controlled by Reinsurer,
+and to communicate directly with the policyholders under the Reinsured Policies
+concerning policy matters, including providing payment instructions and other
+administrative matters, and any other matters Reinsurer deems necessary or
+appropriate in connection with the Reinsured Policies and in compliance with the
+terms of this Agreement.
+
+8.   Books and Records
+
+     (a) On the applicable Administrative Transfer Date, the Company shall
+deliver to Reinsurer all Books and Records, except such original Books and
+Records required by the Company to complete its support of the transition of the
+Reinsured Policies or required by law to be retained by the Company. Upon such
+completion, such Books and Records shall then be delivered to Reinsurer. After
+the applicable Administrative Transfer Date, all Books and Records maintained by
+Reinsurer shall be open to examination and audit by the Company at reasonable
+times during Reinsurer's normal business hours, subject to reimbursement of all
+reasonable costs and expenses incurred by Reinsurer in connection therewith,
+provided that such examinations and audits shall be conducted not more than once
+in any calendar year. Prior to the applicable Administrative Transfer Date, all
+Books and Records shall be open to examination
+
+                                       14
+<PAGE>
+and audit by Reinsurer at reasonable times during the Company's normal business
+hours, subject to reimbursement of all reasonable costs and expenses incurred by
+the Company in connection therewith.
+
+     (b) If either party requests access to, or copies of, any Books and
+Records, that party shall have reasonable access thereto and shall pay the
+reasonable cost of copying and shipping such Books and Records.
+
+     (c) For purposes of this Agreement, "Books and Records" means originals or
+copies of all customer lists, policy records, files, charts, books and ledgers,
+policy information, policy forms and rating plans, records relating to
+development, marketing, reserving or approval of the Reinsured Policies,
+disclosure and other documents and filings, including statutory filings,
+required under all applicable laws, administrative records, reinsurance records,
+claim records, sales records, underwriting records, financial records, tax
+records and compliance records in the possession or control of the Company
+and/or the Reinsurer and relating principally to the Reinsured Policies
+including any database, magnetic or optical media (to the extent not subject to
+licensing restrictions) and any other form of recorded, computer generated or
+stored information or process, but excluding:
+
+          (1)  The Company's original certificate of incorporation, bylaws,
+               corporate seal, licenses to do business, minute books and other
+               corporate records relating to corporate organization and
+               capitalization; and
+
+          (2)  original tax and corporate accounting records relating to the
+               Reinsured Policies.
+
+     (d) Any Books and Records required to be maintained pursuant to Article
+VIII, Section 5(d) shall be maintained as provided in that section.
+
+9.   Ownership of Premiums
+
+     All monies, checks, drafts, money orders, postal notes and other
+instruments that may be received after the applicable Administrative Transfer
+Date by the Company for Premiums, fees or other payments on or in respect of the
+Reinsured Policies shall be held in trust by the Company for the benefit of
+Reinsurer and shall be immediately transferred and delivered to Reinsurer, and
+any such instruments when so delivered shall bear all endorsements required to
+effect the transfer of same to Reinsurer. The Reinsurer shall be authorized to
+endorse for payment to Reinsurer any such checks, drafts, money orders and other
+instruments pertaining to the Reinsured Policies that are payable to, or to the
+order of, the Company and received by the Reinsurer under this Agreement. As
+between the parties, Reinsurer shall be deemed owner of all such payments.
+
+10.  Security Interest
+
+     (a) The parties agree that as security for all the Secured Obligations (as
+hereinafter defined), the Company does hereby grant, bargain, sell, convey,
+assign and otherwise pledge to Reinsurer, all of the Company's right, title and
+interest, if any (legal, equitable or otherwise), to (i) all Premiums, fees and
+other payments due or made after the Effective Date under the
+
+                                       15
+<PAGE>
+Reinsured Policies (and the lockbox or account set up for the receipt of said
+Premiums, fees and other payments after the Effective Date) and (ii) all cash
+and assets supporting the reserves relating to the Reinsured Policies
+(collectively, for purposes of this Section 10, the "Collateral"). As used in
+this Section 10, "Secured Obligations" shall mean any and all obligations of the
+Company arising under this Agreement (including any obligations to pay and
+deliver to Reinsurer any amounts owing to Reinsurer upon termination of this
+agreement as provided in Article XIII). Upon the failure of the Company to fully
+perform any of its obligations and undertakings hereunder, Reinsurer shall have,
+in addition to all other rights under this Agreement or under applicable law,
+the following rights:
+
+     (1) the right to exercise all rights and remedies granted a secured party
+under the Uniform Commercial Code, as said code has been enacted in the
+Company's or the Reinsurer's state of domicile, or any other applicable
+jurisdiction (collectively, the "UCC"), as though all the Collateral constituted
+property subject to a security interest under Article 9 thereof;
+
+     (2) the right to set off; the right to intercept and retain monies and
+property in the lockbox and otherwise; and
+
+     (3) the right to dispose of the Collateral, subject to commercial
+reasonableness.
+
+     This provision is being included in this Agreement to ensure that, if an
+insolvency or other court determines that, notwithstanding the provisions of
+this Agreement, including Articles I, II and III, Article IV, Section 9, Article
+VIII, Section 1 and Article XIII, and the intent of this Agreement, the Company
+retained ownership of or any rights in the Collateral, Reinsurer's rights to the
+Collateral are protected with a first priority, perfected security interest, and
+it is the intent of the parties that this Section be interpreted as such.
+Nothing contained herein shall be construed to support the conclusion that the
+Company will retain any ownership of or any rights in the Collateral after the
+Effective Date or to support the conclusion that Reinsurer does not acquire full
+ownership thereof as of the Effective Date.
+
+     (b) The Company shall execute and deliver any and all financing statements
+reasonably requested by Reinsurer to the extent that it may appear appropriate
+to Reinsurer to file such financing statements in order to perfect Reinsurer's
+title under Article 9 of the UCC to any and all premiums, the Unamortized
+Portion of the Ceding Commission, any other amounts due Reinsurer, and any and
+all other Collateral.
+
+11.  Termination of Services
+
+     The Company and Reinsurer acknowledge that the Reinsurer's provision of
+administrative services under this Article IV is inextricably related to the
+reinsurance of the Reinsured Liabilities provided for hereunder. For the
+avoidance of doubt, the Company and Reinsurer agree that the Reinsurer's
+obligations to provide the services set forth in this Article IV shall terminate
+automatically and be of no further force or effect upon the termination of the
+reinsurance provided hereunder, subject to the Servicing Following Termination
+provisions of Article XIII, provided that the Company may terminate the
+administrative services pursuant to Article XIII while keeping the reinsurance
+in force.
+
+                                       16
+<PAGE>
+12.  SOX Audit Language
+
+     As a public company, Conseco, Inc. and its subsidiaries (including, without
+limitation, the Company) are subject to the Sarbanes-Oxley Act of 2002
+("Sarbanes-Oxley"). To record the financial impact of the Coinsurance Agreement,
+the Company relies upon Reinsurer's internal financial and operational controls
+as they relate to reporting the financial transactions under the Coinsurance
+Agreement. Pursuant to Title IV, Section 404 of Sarbanes-Oxley, the Company
+needs to have a basis for such reliance. To provide the Company with the basis
+for such reliance, the Company retains the right, at its expense, to audit
+controls in place by Reinsurer or Reinsurer's third party administrator by
+either appointing a mutually acceptable accounting firm or through the use of
+its internal audit staff. Any such audit shall take place after reasonable
+notice to the Reinsurer and shall occur during normal business hours. In
+addition, Reinsurer agrees to provide the Company with a SAS 70 report prepared
+by the Reinsurer's third party administrator to the extent such report is
+available.
+
+13.  Gramm-Leach-Bliley Act
+
+     In performing administrative services under this Agreement, the parties
+agree to comply with the requirements of the Gramm-Leach-Bliley Act.
+
+
+
+
+
+
+
+                                       17
+<PAGE>
+                                   ARTICLE V
+
+                  REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+                  ---------------------------------------------
+
+     The Company represents and warrants to the Reinsurer as follows, as of the
+date hereof and as of the Closing Date:
+
+     (1) Organization and Standing of the Company. The Company is a corporation
+duly organized and validly existing under the laws of the State of Illinois.
+
+     (2) Authorization. The Company has all requisite corporate power and
+authority to enter into this Agreement, and to perform its obligations
+hereunder. The execution and delivery by the Company of this Agreement, and the
+performance by the Company of its obligations hereunder have been duly
+authorized and are valid and binding obligations of the Company, enforceable
+against it in accordance with its terms, except as enforceability may be limited
+by bankruptcy, insolvency, moratorium or other similar laws affecting creditors'
+rights generally or by the principles governing the availability of equitable
+remedies.
+
+     (3) No Conflict or Violation. The execution, delivery and performance of
+this Agreement will not (a) violate any provision of the Articles of
+Incorporation, By-laws or other charter or organizational document of the
+Company; (b) violate, conflict with or result in the breach of any of the terms
+of, result in any modification of, give any counterparty the right to terminate,
+or constitute a default under, any contract or other agreement to which the
+Company is a party; (c) violate any order, judgment or decree applicable to the
+Company; or (d) subject to the receipt of the necessary regulatory approvals or
+non-disapprovals set forth in Schedule B, violate any statute, law or regulation
+of any jurisdiction applicable to the Company.
+
+     (4) Compliance with Applicable Law. The Reinsured Policies are, and the
+sale, marketing (including but not limited to any advertisements and
+point-of-sale materials), issuance and administration thereof have been
+conducted, in compliance in all material respects with all laws applicable to
+the Reinsured Policies, including, without limitation, common law. The tax
+treatment under the U.S. Internal Revenue Code of 1986, as amended (the "Code")
+of all the Reinsured Policies is and at all times has been the same or more
+favorable to the purchaser, policyholder or intended beneficiaries thereof as
+the tax treatment under the Code for which such contracts were purported to
+qualify or were treated as qualifying; Company has complied in all respects with
+all requirements of the Code with respect to the Reinsured Policies, including
+without limitation withholding obligations and information reporting
+requirements. For purposes of this Section 4, the provisions of the Code
+relating to the tax treatment of the Reinsured Policies shall include, but not
+be limited to, Code Sections 72, 79, 101, 401, 403, 408, 457, 817, 818, 7702,
+and 7702A.
+
+     (5) Consistent with Books and Records. The Books and Records of Company
+are, and since the Effective Date have been, true, correct, complete and
+accurate in all material respects in relation to the Reinsured Policies. All of
+the information concerning the Reinsured Policies contained in any exhibit or
+schedule to this Agreement or in any computer master file furnished
+
+                                       18
+<PAGE>
+to Reinsurer is true, correct, complete and accurate in all material respects.
+
+     (6) Cost of Insurance and Discretionary Elements. To the best of Company's
+knowledge, Company has complied and is in compliance with all contract
+provisions, laws and regulations associated with or applicable to the cost of
+insurance, credited interest rates, participation rates and other discretionary
+elements concerning the Reinsured Policies and true and complete copies of all
+supporting documents relating to any changes to such discretionary elements have
+been provided to Reinsurer.
+
+     (7) Litigation. Except as disclosed on Schedule L, and other than routine
+claims for Contractual Liabilities arising in the ordinary course of business,
+there are no claims, actions, suits, proceedings or investigations pending, or
+to the knowledge of Company, threatened, against, involving or affecting any of
+the Reinsured Policies or any of the rights or assets to be transferred
+hereunder or the transactions provided for in this Agreement, and Company does
+not have any knowledge of any specific dispute or controversy or pattern of
+alleged improper conduct relating to any of the Reinsured Policies that
+reasonably may be expected to give rise to any claim, action, suit, proceeding
+or investigation.
+
+     (8) Information Supplied to Reinsurer and to Milliman, Inc. All information
+supplied by or on behalf of the Company (a) to Reinsurer in connection with
+Reinsurer's due diligence on the Reinsured Policies and the Company and (b) to
+Milliman, Inc. (or its affiliates or any consulting actuaries associated with
+Milliman, Inc.) in connection with the preparation of the actuarial appraisal
+prepared by Milliman, Inc., dated December 21, 2006 and the letters from
+Milliman, Inc. to Conseco Insurance Company dated February 16, 2007 and February
+27, 2007 (collectively, the "Appraisal"), was true, correct, accurate and
+complete in all material respects.
+
+     (9) Regulatory Status in New York. Company is neither licensed as an
+insurer nor accredited as a reinsurer in New York. None of the Reinsured
+Policies have been written or otherwise issued in New York such that New York
+licensure or accreditation would be required.
+
+     (10) Policies. None of the Reinsured Policies entitles the holder thereof
+or any other person to receive dividends, distributions or other benefits based
+on the revenues or earnings of Company. None of the Reinsured Policies has
+premiums or other consideration allocated to one or more separate accounts of
+Company. To the best knowledge of Company, Company has paid all required bonus
+amounts to policyholders in accordance with the illustrations used in connection
+with the marketing and sale of the Reinsured Policies.
+
+     (11) Reserves. Company has (i) established and maintained as a liability on
+its statutory statements the statutory reserves and claim reserves required by
+Company SAP and (ii) made no commitments to any Governmental Entities to hold
+policy reserves which exceed those required by Company SAP. For purposes of this
+Agreement, "Governmental Entity" means any court, administrative or regulatory
+agency or commission, or other federal, state or local governmental authority or
+instrumentality, including, without limitation, any State insurance regulator,
+having jurisdiction over any party hereto.
+
+     (12) Other Reinsurance. Schedule M sets forth a complete and correct list
+as of the Effective Date of all reinsurance agreements constituting Other
+Reinsurance with respect to the
+
+                                       19
+<PAGE>
+Reinsured Policies. Each such reinsurance agreement is and as of the Effective
+Date was valid, legal and binding on the Company in accordance with its terms,
+and neither the Company, nor to the best of Company's knowledge, any other
+party, is or, as of the Effective Date, was in breach thereof or default
+thereunder, and there does not exist under any such agreement any event which,
+with the giving of notice or the lapse of time, or both, would constitute a
+breach or default by the Company thereunder which would entitle the other party
+thereto to terminate such agreement.
+
+     (13) Assets. The Company has good, valid and marketable title to all of the
+assets listed on Schedule E, free and clear of any liens.
+
+     (14) Absence of Certain Changes. Since the Effective Date, the Reinsured
+Policies have been managed and administered by the Company in the ordinary
+course of business consistent with past practices including, without limitation,
+with regard to underwriting, pricing and actuarial and investment policies in
+general (including but not limited to the Company's policies and practices
+concerning the management of the cost of insurance, credited interest rates,
+participation rates and other discretionary elements concerning the Reinsured
+Policies.)
+
+     (15) No Brokers. No investment banker, broker, finder or other intermediary
+has acted directly or indirectly for either Company or any of its affiliates,
+and Company has not and will not incur any obligation to pay any brokerage or
+finder's fee or other commission, in connection with this Agreement.
+
+
+                                       20
+<PAGE>
+                                   ARTICLE VI
+
+                   REPRESENTATIONS AND WARRANTIES OF REINSURER
+                   -------------------------------------------
+
+     The Reinsurer represents and warrants to the Company as follows, as of the
+date hereof and as of the Closing Date:
+
+     (1) Organization and Standing of Reinsurer. Reinsurer is a corporation duly
+organized and validly existing under the laws of Illinois.
+
+     (2) Authorization. Reinsurer has all requisite corporate power and
+authority to enter into this Agreement, and to perform its obligations
+hereunder. The execution and delivery by Reinsurer of this Agreement, and the
+performance by Reinsurer of its obligations hereunder have been duly authorized
+and are valid and binding obligations of Reinsurer, enforceable against it in
+accordance with its terms, except as enforceability may be limited by
+bankruptcy, insolvency, moratorium or other similar laws affecting creditors'
+rights generally or by the principles governing the availability of equitable
+remedies.
+
+     (3) No Conflict or Violation. The execution, delivery and performance of
+this Agreement will not (a) violate any provision of the Articles of
+Incorporation, By-laws or other charter or organizational document of Reinsurer;
+(b) violate, conflict with or result in the breach of any of the terms of,
+result in any modification of, give any counterparty the right to terminate, or
+constitute a default under, any contract or other agreement to which Reinsurer
+is a party; (c) violate any order, judgment or decree applicable to Reinsurer;
+or (d) subject to the receipt of the necessary regulatory approvals or
+non-disapprovals set forth in Schedule B, violate any statute, law or regulation
+of any jurisdiction applicable to Reinsurer.
+
+     (4) No Brokers. No investment banker, broker, finder or other intermediary
+has acted directly or indirectly for either Reinsurer or any of its affiliates,
+and Reinsurer has not and will not incur any obligation to pay any brokerage or
+finder's fee or other commission, in connection with this Agreement.
+
+     (5) Other. Reinsurer is authorized or accredited as a reinsurer in the
+State of Illinois. Reinsurer is solvent and able to satisfy all of its debts in
+the ordinary course of business.
+
+                                       21
+<PAGE>
+                                  ARTICLE VII
+
+                 REPRESENTATIONS AND WARRANTIES OF CONSECO, INC.
+                 -----------------------------------------------
+
+     Conseco, Inc. represents and warrants to the Reinsurer as follows, as of
+the date hereof and as of the Closing Date:
+
+     (1) Organization and Standing of Conseco, Inc. Conseco, Inc. is a
+corporation duly organized and validly existing under the laws of Delaware.
+
+     (2) Authorization. Conseco, Inc. has all requisite corporate power and
+authority to enter into this Agreement, and to perform its obligations
+hereunder. The execution and delivery by Conseco, Inc. of this Agreement, and
+the performance by Conseco, Inc. of its obligations hereunder have been duly
+authorized and are valid and binding obligations of Conseco, Inc., enforceable
+against it in accordance with its terms, except as enforceability may be limited
+by bankruptcy, insolvency, moratorium or other similar laws affecting creditors'
+rights generally or by the principles governing the availability of equitable
+remedies.
+
+     (3) No Conflict or Violation. The execution, delivery and performance of
+this Agreement will not (a) violate any provision of the Articles of
+Incorporation, By-laws or other charter or organizational document of Conseco,
+Inc.; (b) violate, conflict with or result in the breach of any of the terms of,
+result in any modification of, give any counterparty the right to terminate, or
+constitute a default under, any contract or other agreement to which Conseco,
+Inc. is a party; (c) violate any order, judgment or decree applicable to
+Conseco, Inc.; or (d) subject to the receipt of the necessary regulatory
+approvals or non-disapprovals set forth in Schedule B, violate any statute, law
+or regulation of any jurisdiction applicable to Conseco, Inc.
+
+
+                                       22
+<PAGE>
+                                  ARTICLE VIII
+
+                      INDEMNIFICATION AND OTHER AGREEMENTS
+                      ------------------------------------
+
+1.   Indemnification by Company
+
+     Company shall indemnify and hold Reinsurer and its directors, officers,
+employees, representatives, affiliates, successors and permitted assigns
+(collectively, the "Reinsurer Indemnified Parties") harmless from and against
+all claims, losses (including refunded or foregone premiums), liabilities,
+damages (including any punitive, exemplary, compensatory, consequential or
+indirect damages and lost profits), deficiencies, costs and expenses of any
+nature, including interest and penalties, and legal, accounting, actuarial and
+other professional fees and litigation costs and expenses (collectively,
+"Losses"), asserted against, imposed upon or incurred by any Reinsurer
+Indemnified Party, directly or indirectly arising out of or in connection with
+(a) the Reinsured Policies, other than the Contractual Liabilities specifically
+reinsured by Reinsurer or other liabilities expressly assumed by the Reinsurer
+under this Agreement, (b) Company's or any producer's negligence or misconduct
+in connection with the, administration, pricing, sales or marketing of the
+Reinsured Policies, (c) any liabilities of Company other than (i) the
+Contractual Liabilities specifically reinsured by Reinsurer under this Agreement
+or other liabilities expressly assumed by the Reinsurer and (ii) except as
+provided in clause (g) hereof, the administrative responsibilities of Reinsurer
+referred to in Article IV, (d) any Extra Contractual Obligations unless and to
+the extent that such Losses arise out of the acts, errors or omissions of
+Reinsurer, its agents, subcontractors, representatives or delegates, (e) any
+misrepresentation, breach of or failure to perform, or allegation which, if
+true, would constitute a misrepresentation, breach of or failure to perform, any
+representation, warranty, covenant, undertaking or agreement of Company in this
+Agreement, (f) Litigation (other than Litigation arising from or related to
+acts, errors or omissions of the Reinsurer in the conduct of its
+responsibilities hereunder), (g) any modification in the administration of the
+Reinsured Policies in connection with the settlement of Litigation as
+contemplated by Article VIII, Section 5(a), to the extent such modification has
+not been consented to by the Reinsurer, or (h) any enforcement of this
+indemnity.
+
+2.   Indemnification by Reinsurer
+
+     Reinsurer shall indemnify and hold Company and its directors, officers,
+employees, representatives (excluding the producers), affiliates, successors and
+permitted assigns (collectively, the "Company Indemnified Parties") harmless
+from and against all Losses asserted against, imposed upon or incurred by any
+Company Indemnified Party, directly or indirectly, arising out of or in
+connection with (a) any and all Contractual Liabilities occurring after the
+Effective Date (provided, however, that no indemnification is provided for any
+Contractual Liability if it arises out of any allegation or matter that, if
+true, would constitute a breach of Company's representations and warranties
+hereunder), (b) any Extra Contractual Obligations only to the extent such
+liabilities arise out of the acts, errors or omissions of Reinsurer, its agents,
+subcontractors, representatives or delegates from and after the applicable
+Administrative Transfer Date, (c) any misrepresentation, breach of or failure to
+perform, or allegation which, if true, would constitute a misrepresentation,
+breach of or failure to perform, any representation,
+
+                                       23
+<PAGE>
+warranty, covenant, undertaking or agreement of Reinsurer in this Agreement, or
+(d) any litigation caused by or related to Reinsurer in connection with any
+services performed hereunder, or (e) any enforcement of this indemnity.
+
+3.   Notice of Potential Liability
+
+     Promptly after receipt by a party entitled to indemnification hereunder
+(the "Indemnified Party") of notice of any demand, claim or circumstances which,
+with or without the lapse of time, would give rise to a claim or the
+commencement (or threatened commencement) of any action, proceeding or
+investigation that may result in indemnifiable Losses, the Indemnified Party
+shall give notice of the potential liability to the party required to provide
+indemnification with respect to such indemnifiable Losses ("Indemnifying
+Party"). The notice shall (i) describe the potential liability in reasonable
+detail, (ii) indicate the amount (estimated, if necessary) of the Losses that
+have been or may be suffered by the Indemnified Party and (iii) include a
+statement as to the basis for the indemnification sought. Failure to provide
+notice in a timely manner shall not be deemed a waiver of the Indemnified
+Party's right to indemnification other than to the extent that such failure
+prejudices the defense of the claim by the Indemnifying Party.
+
+4.   Opportunity to Defend
+
+     The Indemnifying Party may elect to defend, at its own expense and by its
+own counsel, any potential liability covered by this Article; provided, however,
+that the Indemnifying Party may not compromise or settle any such liability
+without the consent of the Indemnified Party (which consent shall not be
+unreasonably withheld or delayed). If the Indemnifying Party elects to defend
+the potential liability, it shall within 30 days from receipt of the notice
+required by Article VIII, Section 3, notify the Indemnified Party of its intent
+to do so, and the Indemnified Party shall cooperate in the defense at its own
+expense. The Indemnifying Party shall be entitled to participate in (but not to
+control) the defense of any asserted liability which it has not elected to
+defend with its own counsel and at its own defense. The Company and Reinsurer
+shall make mutually available to each other all relevant information in their
+possession relating to any asserted liability (except to the extent that such
+action would result in the loss of attorney-client privilege) and shall
+cooperate with each other in the defense thereof.
+
+5.   Litigation Management
+
+     (a) The Company shall provide the defense for all Litigation (other than
+Litigation arising from or related to acts, errors or omissions of the Reinsurer
+in the conduct of its responsibilities hereunder which shall be the
+responsibility of Reinsurer), including the Litigation listed on Schedule L
+("Existing Litigation") at the Company's sole cost, including, but not limited
+to, the costs of attorneys, expert witnesses and other expenses. The conduct of
+such defense, including the approval of any settlement or compromise shall be
+within the sole control of the Company; provided, however, that any terms of any
+such settlement or compromise that require an enhancement of policy provisions
+or other changes in the terms of the Reinsured Policies ("Policy Enhancement")
+or modification in the administration of the Reinsured Policies shall be subject
+to the prior written consent of Reinsurer, which consent shall not be
+unreasonably withheld or delayed. Reinsurer agrees to consider, in good faith,
+any potential settlement or compromise proposed by the Company that includes
+payment by the Company to
+
+                                       24
+<PAGE>
+the Reinsurer of the reasonable cost associated with any changes or
+modifications in the administration of the Reinsured Policies.
+
+     (b) Reinsurer shall afford to the Company and its representatives,
+reasonable access and duplicating rights during normal business hours to all
+information, including, without limitation, all Books and Records within its
+possession, custody or control relating to the Reinsured Policies insofar as
+such access is reasonably required by the Company in connection with the
+Existing Litigation or litigation which may arise or be threatened with respect
+to Reinsured Policies (collectively referred to as "Litigation").
+
+     (c) Reinsurer shall make available to the Company, upon written request,
+its officers, employees, agents and representatives as witnesses to the extent
+that any such person may reasonably be required in connection with the defense
+and/or settlement of Litigation.
+
+     (d) Except as otherwise required by law or agreed in writing, Reinsurer
+shall retain and shall not alter any information transferred by the Company to
+Reinsurer's possession or control relating to the Reinsured Policies, including,
+but not limited to, paper documents, microfiche, microfilm and electronic
+systems and/or data created by Reinsurer during its administration of the
+Reinsured Policies, which are or may be relevant to the Litigation (referred to
+collectively as "Litigation Information"). This obligation specifically includes
+information related to Existing Litigation. Reinsurer will promptly inform any
+employee having access to, custody, possession or control of Litigation
+Information and Reinsurer's obligation to retain Litigation Information. Nothing
+contained in this Agreement shall waive any attorney-client privilege or claim
+of attorney work product that already exists or hereafter may be created.
+
+6.   Obligation of the Company to Fund Trust Account
+
+     (a) In the event that the Company approves a settlement or compromise of
+Litigation and the terms of any such settlement or compromise require a Policy
+Enhancement (which, as noted above, will only be permitted with the prior
+written consent of the Reinsurer), the Company shall be obligated to establish
+and fund a trust account (the "Company Trust Account") solely for the purpose of
+collateralizing the Company's obligations to the holders of the Reinsured
+Policies who are entitled to receive Policy Enhancements, provided that the
+Company shall not be so obligated to fund the Company Trust Account unless and
+until the aggregate value of all such Policy Enhancements exceeds $12,000,000.
+The Company Trust Account shall be held in a national bank or trust company that
+is a qualified United States financial institution meeting the requirements of
+the Company's domiciliary state insurance law. The Company Trust Account shall
+be established and funded no later than the date such settlement or compromise
+takes effect.
+
+     (b) The Company Trust Account shall be funded by the Company with cash or
+other assets with a National Association of Insurance Commissioners ("NAIC")
+designation of 1 or 2 with a book value equal to the statutory reserves of the
+Company in respect of such Policy Enhancement, determined in accordance with
+Company SAP consistently applied (the "Company Required Balance"). Thereafter,
+as of the end of each calendar quarter, the Company Required Balance shall be
+recalculated and the statutory book value of the assets held in the Company
+Trust Account shall be determined. If the statutory book value of the assets
+held in the
+
+                                       25
+<PAGE>
+Company Trust Account exceeds the Company Required Balance as of the end of any
+calendar quarter, the amount of such excess shall be released from the Company
+Trust Account and paid over to the Company. If the statutory book value of the
+assets held in the Company Trust Account is less than the Company Required
+Balance as of the end of any calendar quarter, the amount of such deficiency
+shall be paid into the Company Trust Account by the Company within 3 business
+days of the date of determination but in no event later than 45 days after the
+end of the preceding calendar quarter. Each determination by the Company with
+respect to either the statutory book value of assets or the amount of the
+Company Required Balance shall be subject to review and approval by the
+Reinsurer (which approval shall not be unreasonably withheld or delayed).
+
+     (c) The Company shall grant to the Reinsurer the right, secured by a
+perfected first priority security interest, to withdraw funds from the Company
+Trust Account, as third party administrator of the Reinsured Policies, in order
+to fund that portion of each payment of claims or other benefits under the
+Reinsured Policies that is attributable to the Policy Enhancement.
+
+     (d) The obligation of the Company to maintain the Company Trust Account
+will terminate once the aggregate value of all such Policy Enhancements is less
+than $12,000,000; provided that the Company's financial strength rating by
+Standard & Poor's Ratings Services ("S&P") is at least BB+. Notwithstanding, the
+Company shall remain liable for all such Policy Enhancements.
+
+7.   Obligation of the Reinsurer to Fund Trust Account
+
+     (a) If the Reinsurer's financial strength rating by S&P is downgraded to a
+rating of less than A-, the parties will negotiate in good faith a trust account
+that will secure the Reinsurer's obligations to the Company under this
+Agreement. If the parties are unable to agree on the form of the trust
+arrangement within 45 days after the downgrade (or such longer period as the
+parties may agree), the Reinsurer shall, establish a trust that complies with
+the required provisions of the then current reserve credit trust requirements of
+the Company's state of domicile; provided, that notwithstanding any such
+requirements (x) assets in the trust account will be valued on the Reinsurer's
+statutory book value (not market value) basis, (y) the Reinsurer may, with prior
+notice to, but without prior consent of, the Company, withdraw assets from the
+trust account at any time to the extent that the statutory book value of the
+assets in the trust account exceeds 100% of the statutory reserves with respect
+to the Reinsured Policies as required by the applicable regulatory authorities,
+and (z) no other amounts may be withdrawn from the trust except by written
+agreement of the parties or pursuant to applicable court or arbitration order or
+pursuant to Article XII.
+
+     (b) It is the intent of the parties that the trust shall not be used to
+secure reinsurance credit, but will be used only to provide financial comfort to
+the Company. Following establishment of any trust established under paragraph
+(a) above, the parties shall continue to negotiate in good faith and shall use
+their best efforts to agree on a substitute arrangement that more closely
+reflects the intent of this Agreement, at which time the trust established under
+the preceding sentence shall be terminated and replaced by such substitute
+arrangement.
+
+     (c) The obligation of the Reinsurer to establish or maintain a trust
+account will
+
+                                       26
+<PAGE>
+terminate on the earlier of the termination of this Agreement or the date the
+financial strength rating of the Reinsurer is upgraded to A- or higher by S&P.
+
+8.   Conduct of Business
+
+     During the period from the date of this Agreement through the applicable
+Administrative Transfer Date, the Company will manage and administer the
+Reinsured Policies in the ordinary course of business consistent with past
+practices including, without limitation, with regard to underwriting, pricing
+and actuarial and investment policies in general (including but not limited to
+the Company's policies and practices concerning the management of the cost of
+insurance, credited interest rates, participation rates and other discretionary
+elements concerning the Reinsured Policies.)
+
+
+
+
+
+
+
+
+
+
+
+                                       27
+<PAGE>
+                                   ARTICLE IX
+
+                                       TAX
+                                       ---
+
+1.   DAC Tax
+
+     Each party is subject to United States taxation as defined in Section
+1.848-2(h)(2)(ii) of the Income Tax Regulations under Section 848 of the
+Internal Revenue Code of 1986, as amended (the "Code"). Reinsurer and the
+Company will comply with the following concerning the capitalization of certain
+policy expenses, pursuant to Section 848 of the Code and Income Tax Regulations
+Sections 1.848-1 and 1.848-2.
+
+          (a)  The term "party" will refer to either Reinsurer or the Company as
+               appropriate.
+
+          (b)  The terms used in this Article are defined by reference to
+               Regulations Section 1.848-1 and 1.848-2 as in effect on the
+               Closing Date. The term "net consideration" will refer to net
+               consideration as defined in Regulation Section 1.848-2(f).
+
+          (c)  Each party shall attach a schedule to its federal income tax
+               return identifying the relevant reinsurance agreements for which
+               the joint election under the Regulation has been made. The first
+               taxable year for which the joint election will be effective is
+               the tax year ending December 31, 2007.
+
+          (d)  Pursuant to the joint election set forth in Section 1.848-2(g)(8)
+               of the Income Tax Regulations, the party with net positive
+               consideration, for such agreement for each taxable year, shall
+               capitalize specified policy acquisition expenses with respect to
+               such agreement without regard to the general deductions
+               limitation of Section 848(c)(1).
+
+          (e)  Each party agrees to exchange information pertaining to the
+               amount of net consideration under such agreement each year, to
+               ensure consistency, no later than June 15 following the end of
+               such year. The parties agree to act in good faith to amicably
+               resolve any differences.
+
+2.   Excise Tax
+
+
+          (a)  To the extent that any portion of the reinsurance premium for
+               this Agreement is subject to the Federal Excise Tax (as imposed
+               under Section 4371 of the Internal Revenue Code) and the
+               Reinsurer is not exempt therefrom, the Reinsurer shall allow for
+               the purpose of paying the Federal Excise Tax, a deduction by the
+               Company of the applicable percentage of the premium payable
+               hereon. In the event of any return of premium becoming due
+               hereunder, the Reinsurer shall deduct the applicable same
+               percentage from the return premium payable hereon and the Company
+               or its agent shall take steps to recover the tax from the United
+
+                                       28
+<PAGE>
+               States Government. In the event of any uncertainty, upon the
+               written request of the Company, the Reinsurer will immediately
+               file a certificate of a senior corporate officer of the Reinsurer
+               certifying to its entitlement to the exemption from the Federal
+               Excise Tax with respect to one or more transactions.
+
+          (b)  In consideration of the terms under which this Contract is
+               issued, the Company undertakes not to claim any deduction of the
+               premium hereon when making tax returns, other than Income or
+               Profits Tax returns, to any State or Territory of the United
+               States of America or to the District of Columbia.
+
+
+
+
+                                       29
+<PAGE>
+                                   ARTICLE X
+
+                                   INSOLVENCY
+                                   ----------
+
+     All reinsurance under this Agreement will be paid on demand by Reinsurer
+directly to the Company, its liquidator, receiver, or statutory successor, on
+the basis of the liability of the Company under the policy or policies reinsured
+without diminution because of the insolvency of the Company. In the event of the
+insolvency of the Company, the liquidator, receiver, or statutory successor of
+the Company will give written notice to Reinsurer of a pending claim against
+Reinsurer or the Company on any policy reinsured. Such notice will be given
+within a reasonable time after the claim is filed in the conservation,
+liquidation, or insolvency proceedings. While the claim is pending, Reinsurer
+may investigate and interpose, at its own expense, in the proceedings where the
+claim is to be adjudicated, any defenses which it may deem available to the
+Company or its liquidator, receiver, or statutory successor. The expense
+incurred by Reinsurer will be charged, subject to court approval, against the
+Company as an expense of the conservation, liquidation, or insolvency to the
+extent of a proportionate share of the benefit that accrues to the Company as a
+result of the defenses by Reinsurer. Where two or more reinsurers are involved
+and a majority-in-interest elect to defend a claim, the expense will be
+apportioned in accordance with the terms of this Agreement as if the expense had
+been incurred by the Company.
+
+     Nothing hereinabove set forth in this insolvency clause shall in any way
+change the relationship or status of the parties hereto, to wit, that of ceding
+insurer and reinsurer, nor enlarge the obligations of either party to each
+other, except as specifically hereinabove provided, to wit, to pay the statutory
+successor on the basis of the amount of liability of the Company under the
+Reinsured Policies, rather than on the basis of the actual amount of loss
+(dividends) paid by the liquidator, receiver or statutory successor to allowed
+claimants, nor shall anything in the insolvency clause in any manner create any
+obligation or establish any rights against Reinsurer in favor of any third
+parties or any person not parties to this Agreement.
+
+
+
+
+
+
+                                       30
+<PAGE>
+                                   ARTICLE XI
+
+                             DURATION OF COINSURANCE
+                             -----------------------
+
+     This Agreement will be effective as of January 1, 2007. Except as otherwise
+provided herein, this Agreement is unlimited in duration but may be amended by
+mutual consent of the Company and Reinsurer. The reinsurance provided hereunder
+will remain in force until termination of the policy or policies on which the
+reinsurance is based in accordance with the terms of this Agreement.
+
+
+                                       31
+<PAGE>
+                                  ARTICLE XII
+
+                             SETTLEMENT OF DISPUTES
+                             ----------------------
+
+                                   ARBITRATION
+                                   -----------
+
+     Reinsurer and the Company will attempt to resolve any dispute between them
+under or with respect to this Agreement without resort to any litigation.
+Accordingly, Reinsurer and the Company agree that they will negotiate diligently
+and in good faith to agree on a mutually satisfactory resolution of any such
+dispute and/or mediate any such dispute; provided, however, that if any such
+dispute cannot be so resolved by them within sixty calendar days (or such longer
+period as the parties may agree) after commencing such negotiations, Reinsurer
+and the Company agree that they will submit such dispute to arbitration in the
+manner specified in, and such arbitration proceeding will be conducted in
+accordance with, the Commercial Arbitration Rules of the American Arbitration
+Association ("AAA") and judgment on the award rendered may be entered in any
+court having jurisdiction thereof. The parties also agree that the AAA Optional
+Rules for Emergency Measures of Protection shall apply to the proceedings.
+
+     The arbitration panel will consist of three disinterested arbitrators, each
+of whom must be a present or former officer of a life insurance or life
+reinsurance company familiar with the reinsurance business. Reinsurer and the
+Company will each appoint one arbitrator by written notification to the other
+party within thirty calendar days after the date of the mailing of the
+notification initiating the arbitration. These two arbitrators will then select
+the third arbitrator within sixty calendar days after the date of the mailing of
+the notification initiating arbitration.
+
+     In addition to construing this Agreement in light of applicable statutory
+and case law, the arbitrators shall construe this Agreement in light of the
+prevailing custom and practices for reinsurance in the insurance industry. The
+vote or approval of a majority of the arbitrators will decide any question
+considered by the arbitrators. The place of any arbitration will be determined
+by the arbitrators. Each decision (including, without limitation, each award) of
+the arbitrators will be final and binding on all parties and will be
+non-appealable, and (at the request of either Reinsurer or the Company) any
+award of the arbitrators may be confirmed by a judgment entered by any court of
+competent jurisdiction. Each party will be responsible for paying (a) all fees
+and expenses charged by its respective counsel, accountants, actuaries, and
+other representatives in conjunction with such arbitration and (b) one-half of
+the fees and expenses charged by each arbitrator.
+
+
+                                       32
+<PAGE>
+                                  ARTICLE XIII
+
+                                   TERMINATION
+                                   -----------
+
+1.   Termination
+
+     It is the expectation of the parties that this Agreement shall remain in
+full force and effect until the last of the Reinsured Policies ceases to be in
+force. However, notwithstanding anything to the contrary in this Agreement, in
+the event of a Termination Event, the following provisions of this Article XIII
+shall survive the termination of this Agreement and shall govern the rights,
+obligations and liabilities of the parties.
+
+2.   Termination Event
+
+     Each of the following shall constitute a "Termination Event":
+
+     (a) Any action by the Company or any person claiming by or through the
+Company (including any rehabilitator, liquidator, receiver or similar person) to
+intercept, interfere with, assert control over or otherwise exercise any rights
+with respect to the Collateral, in which case Reinsurer shall have the right to
+terminate this Agreement;
+
+     (b) Any material default in the performance of any of the material
+obligations of any party hereunder, and the continuation of such default for
+thirty (30) days after delivery of written notice of such default to such party
+by the non-defaulting party, in which case the non-defaulting party shall have
+the right to terminate this Agreement; and
+
+     (c) A rehabilitator, liquidator, receiver or similar person successfully
+terminates this Agreement.
+
+3.   Termination Date; Consequences of Termination
+
+     (a) Upon the occurrence of a Termination Event, the party entitled to
+terminate this Agreement, or in the case of Section 2(c) of this Article XIII,
+Reinsurer, shall specify a Termination Date not prior to the date of the
+occurrence of the Termination Event (the "Termination Date").
+
+     (b) As of the Termination Date,
+
+     (1) Reinsurer shall be relieved of on-going responsibilities for servicing
+the Reinsured Policies and shall have no further obligations with respect to
+payment of claims, coinsurance of Contractual Liabilities, or any other
+obligations whatsoever under this Agreement except for obligations under the
+provisions of this Agreement that expressly survive termination.
+
+     (2) Company shall be deemed to have recaptured and reassumed all
+Contractual Liabilities or any other obligations whatsoever under this
+Agreement.
+
+                                       33
+<PAGE>
+     (3) Company shall pay to Reinsurer each of the following: (i) the
+Unamortized Portion of the Ceding Commission; (ii) the estimated cost incurred
+by the Reinsurer to transfer the servicing of the Reinsured Policies to and from
+the systems of the Reinsurer, unless termination is on account of a material
+default of Reinsurer; and (iii) an amount equal to the amount of any Collateral
+previously received by the Company (including any rehabilitator, liquidator,
+receiver or similar person or any person acting by, through or in the place of
+Company) and otherwise not in the possession or control of the Reinsurer, and
+used to satisfy claims of policyholders under the Reinsured Policies prior to
+the Termination Date.
+
+     (4) Reinsurer shall pay to Company: (x) the amount of any Premiums or
+policy, reinsurance or other receipts received by Reinsurer for periods after
+the Termination Date, and (y) the Net Reserve Amount, plus assets supporting the
+IMR, plus any IMR created by the transfer, less any policy loans outstanding on
+the Reinsured Policies, net of any unearned policy loan interest on those policy
+loans but including amounts of interest accrued with respect thereto, determined
+as of the Termination Date. "Net Reserve Amount" means cash or admitted invested
+assets having a market value equal to the statutory reserves attributable to the
+Contractual Liabilities being recaptured (net of reserves ceded under Other
+Reinsurance the benefits of which have not been assigned to Reinsurer, reserves
+for claims in course of settlement, reserves for claims that have been incurred
+but not reported, and reserves for annuities in payout, and net of
+policy-related assets) determined as of the Termination Date.
+
+     (c) It is the intention of the parties that the benefits and obligations
+with respect to the Reinsured Policies be retained by Reinsurer for all periods
+prior to the Termination Date, that such benefits and obligations be borne by
+the Company after the Termination Date except as otherwise provided herein; and
+that in the event of termination by the Reinsurer, Company pay Reinsurer the
+Unamortized Portion of the Ceding Commission and Reinsurer's administrative
+costs; and this Article XIII shall be construed accordingly.
+
+4.   Termination Due to Breach of Administrative Services
+
+     Notwithstanding anything contained herein to the contrary, in the event the
+Company has grounds to terminate this Agreement pursuant to Section 2(b) above
+related to Reinsurer's performance in administering the Reinsured Policies, the
+Company may, at its sole discretion, terminate only Article IV and keep the
+remainder of this Agreement in full force and effect. In the event the Company
+elects to terminate the administrative services only, Reinsurer shall return or
+transfer all Books and Records related to the administration of the Reinsured
+Policies in accordance with the Company's written, reasonable instructions. In
+addition, Reinsurer shall use its best efforts to provide the Company, without
+charge, with a limited license to use the software system or systems used by
+Reinsurer in connection with the administration of the Reinsured Policies,
+including all computer programs and updated source and object codes
+("Software"). If Reinsurer is unable to provide the Software to the Company,
+without charge, within 180 days after the date of termination of the
+administrative services portion of this Agreement, then the Company may contact
+the Software vendor directly, and procure a license to use the Software and
+obtain copies of the Software and necessary documentation from the vendor, and
+charge all expenses for such licenses, Software and documentation to Reinsurer,
+and Reinsurer agrees to pay or reimburse the Company for all such incurred
+expenses. Reinsurer shall be liable for and provide prompt reimbursement of all
+reasonable expenses incurred by the Company related to
+
+                                       34
+<PAGE>
+the remaining administration of the Reinsured Policies, regardless of whether or
+not the Company handles such administration itself or through its designee,
+including the estimated cost incurred by the Company to transfer the servicing
+of the Reinsured Policies to and from the systems of the Reinsurer. For the
+avoidance of doubt, the provisions of Section 3 of this Article XIII, shall not
+apply to a termination under this Section 4.
+
+5.   Servicing Following Termination
+
+     (a) For a period not to exceed 180 days from and after the Termination
+Date, Reinsurer, upon request of Company, shall continue to administer the
+Reinsured Policies in good faith until such time as Company is prepared to take
+over, or transfer to a third party administrator, administrative responsibility
+for the Reinsured Policies; provided that the Company shall pay Reinsurer an
+administration service fee equal to an annualized rate of $25 per Reinsured
+Policy so administered by the Reinsurer after the Termination Date. At the
+request of the Company, and if applicable, the Reinsurer will in good faith
+cooperate with the Company in its efforts to contract directly with the then
+current third party administrator. During such period, Company shall reimburse
+Reinsurer's direct expenses at Reinsurer's cost of providing such services
+unless such termination is initiated by the Company.
+
+     (b) After the Termination Date, the parties shall cooperate with each
+other, affording the other full access to all records relating to the Reinsured
+Policies, including records of receipts relating in any way to the Reinsured
+Policies, and each party shall promptly advise the other party of any receipts
+relating in any way to the Reinsured Policies. Company shall promptly transfer
+and remit to Reinsurer Premiums, policy, reinsurance or other receipts with
+respect to the Reinsured Policies received by or on behalf of it but payable
+with respect to periods before the Termination Date, and Reinsurer shall
+promptly transfer and remit to Company Premiums, policy, reinsurance or other
+receipts with respect to the Reinsured Policies received by or on behalf of it
+but payable with respect to periods after the Termination Date, and any amounts
+due hereunder may be settled by way of off-set, as provided in Article XIV,
+Section 4.
+
+6.   Unamortized Portion of the Ceding Commission
+
+     For purposes of this Agreement, the "Unamortized Portion of the Ceding
+Commission" shall be calculated in accordance with the Rule of 78 applied over
+25 years. If the parties cannot agree on the amount of the Unamortized Portion
+of the Ceding Commission as of the Termination Date, the issue will be referred
+to and conclusively determined by, Milliman, Inc. (or another actuarial
+consultant mutually agreed by the parties), whose fees will be shared equally by
+the parties.
+
+
+
+
+
+                                       35
+<PAGE>
+                                  ARTICLE XIV
+
+                               GENERAL PROVISIONS
+                               ------------------
+
+1.   Non-Guaranteed Elements
+
+     The Company shall set all non-guaranteed elements of the Reinsured
+Policies, taking into account the Good Faith Recommendations of the Reinsurer.
+The term "Good Faith Recommendation" shall mean any recommendation provided by
+the Reinsurer with respect to the non-guaranteed elements of the Reinsured
+Policies that (i) complies with the written terms of the Reinsured Policies and
+all applicable laws, rules, regulations, bulletins and orders related thereto,
+and (ii) is made in good faith after taking into consideration the historic
+practices of the Company, as disclosed to the Reinsurer, in setting such
+non-guaranteed elements to meet target investment spreads as well as applicable
+market conditions and performance during the monthly period or periods at issue.
+With respect to the Reinsured Policies, the Company shall, in its absolute
+discretion, either (i) follow the recommendation(s) of the Reinsurer, or (ii)
+reject the recommendation(s) of the Reinsurer, regardless of whether such
+recommendation constitutes a Good Faith Recommendation. If, however, the Company
+rejects any Good Faith Recommendation, the Company shall indemnify Reinsurer for
+any Direct Economic Loss to the extent such Direct Economic Loss results from
+the Company's rejection of such Good Faith Recommendation. For purposes of this
+Section, "Direct Economic Loss" means (x) with respect to credited interest
+rates, participation rates and other non-guaranteed elements, the amount by
+which the aggregate change in liability accrued to policyholders in respect of
+the period to which Reinsurer's Good Faith Recommendation relates exceeds the
+aggregate change in liability that would have been accrued to such policyholders
+in respect of such period to the extent that the Company had followed such Good
+Faith Recommendation, and (y) with respect to charges under the Reinsured
+Policies included in the non-guaranteed elements, the amount by which the
+aggregate amount due from policyholders in respect of the period to which
+Reinsurer's Good Faith Recommendation relates is less than the aggregate amount
+that would have been due from such policyholders in respect of such period if
+the Company had followed such Good Faith Recommendation. Reinsurer hereby
+represents that its current intention is to recommend changes consistent with
+the Company's historic practices, as disclosed to the Reinsurer, for the
+non-guaranteed elements of the Reinsured Policies; provided, however, that
+Reinsurer retains all of its rights under this section to recommend changes in
+participation rates in accordance with the written terms and conditions of the
+Reinsured Policies or to change its views to reflect changes in circumstances
+concerning the Reinsured Policies or otherwise. Notwithstanding any other
+provisions of this Agreement, although the Company may follow Reinsurer's Good
+Faith Recommendation, Reinsurer shall assume all liability for Extra-Contractual
+Damages resulting from its recommended changes in non-guaranteed elements,
+unless Extra-Contractual Damages result from acts, errors or omissions of the
+Company related to the marketing, sale, underwriting, production or issuance of
+the affected Reinsured Policies or administration of the policies by the Company
+prior to the applicable Administrative Transfer Date.
+
+                                       36
+<PAGE>
+2.   Reinsurance Conditions
+
+     The reinsurance is subject to the same limitations and conditions as the
+insurance under the written terms of the Reinsured Policies.
+
+3.   Errors and Omissions
+
+     If either the Company or Reinsurer unintentionally fails to perform an
+obligation under this Agreement or unintentionally errs in performing such an
+obligation, the oversight or error will be corrected by restoring both the
+Company and Reinsurer to the positions they would have occupied had no such
+oversight or error occurred. Any amounts due under this Section will accrue
+interest at the Fed Funds rate.
+
+4.   Offset
+
+     Any amount which either the Company or Reinsurer is contractually obligated
+to pay to the other party under this Agreement may be offset against and paid
+out of any amount which is due and unpaid from the other party under this
+Agreement, as such amounts shall be deemed mutual debts and credits. The
+application of this offset provision will not be deemed to constitute diminution
+in the event of insolvency.
+
+5.   Certain Transfers
+
+     (a) The Company agrees that it shall not sell, assumption reinsure or
+otherwise further transfer or reinsure the Reinsured Policies or its net
+retention with respect thereto absent Reinsurer's prior written consent.
+
+     (b) With not less than thirty days prior written notice to the Company,
+Reinsurer shall be entitled to transfer and assign all of its right, title and
+interest in, and obligations under, this Agreement to any Affiliate of Reinsurer
+as shall, as of the date of such transfer, (i) undertake and assume each and
+every of Reinsurer's liabilities and obligations hereunder, (ii) be an
+authorized or accredited reinsurer in the State of Illinois and (iii) have
+claims-paying-ability or similar credit rating from a nationally recognized
+rating agency not less than the rating then held by Reinsurer.
+
+     (c) For the avoidance of doubt, the provisions of clause (b) of this
+Section 5 shall not limit or restrict in any way the Reinsurer's right to
+retrocede all or any part of its retention under this Agreement to any party on
+an indemnity reinsurance basis.
+
+6.   Authority
+
+     Neither the Company nor Reinsurer shall have any power or authority to act
+for or on behalf of the other except as herein expressly granted, and no other
+or greater power or authority shall be implied by the grant or denial of power
+or authority specifically mentioned herein.
+
+7.   Entire Agreement
+
+     This Agreement and the Schedules attached hereto supersede all prior
+discussions and written and oral agreements between the parties with respect to
+the subject matter of this
+
+                                       37
+<PAGE>
+Agreement. This Agreement and the Schedules attached hereto contain the sole and
+entire agreement between the parties hereto with respect to the subject matter
+hereof.
+
+8.   Amendment
+
+     This Agreement may be modified or amended only by a writing duly executed
+by or on behalf of the Company and Reinsurer subject to any applicable
+regulatory approval.
+
+9.   Counterparts
+
+     This Agreement may be executed simultaneously in any number of
+counterparts, each of which will be deemed an original, but all of which will
+constitute one and the same instrument.
+
+10.  No Assignment
+
+     Except as otherwise provided herein, neither party hereto may assign this
+Agreement or any right hereunder or part hereof without the prior written
+consent of the other party hereto.
+
+11.  Binding Effect
+
+     This Agreement is binding upon and will inure to the benefit of the parties
+and their respective successors and permitted assigns.
+
+12.  Notices
+
+     Any notice, request, instruction, or other document to be given hereunder
+by any party hereto to the other party hereto will be in writing and (a)
+delivered personally, (b) sent by facsimile, (c) delivered by overnight express,
+or (d) sent by registered or certified mail, postage prepaid, as follows:
+
+If to the Company, to:
+
+         Conseco Insurance Company
+         11825 N. Pennsylvania Street
+         Carmel, Indiana  46032
+         Attn:  President
+
+         With a copy to:
+
+         Conseco Insurance Company
+         11825 N. Pennsylvania Street
+         Carmel, Indiana  46032
+         Attn:  General Counsel
+
+
+
+                                       38
+<PAGE>
+If to Reinsurer, to:
+
+         Reassure America Life Insurance Company
+         175 King Street
+         Armonk, New York  10504
+         Attention:  Chief Executive Officer
+
+         With a copy to:
+
+         Reassure America Life Insurance Company
+         175 King Street
+         Armonk, New York  10504
+         Attention:  General Counsel
+
+If to Conseco, Inc., to:
+
+         Conseco, Inc.
+         11825 North Pennsylvania St.
+         Carmel, Indiana  46032
+         Attention:  Secretary
+
+
+     or at such other address for a party as will be specified by like notice.
+Each notice or other communication required or permitted under this Agreement
+that is addressed as provided in this Section will be deemed given upon
+delivery.
+
+13.  Survival of Certain Representations of the Company
+
+     The representations and warranties of the parties set forth in Article V
+and Article VI hereof shall survive for a period expiring on the date that is
+three (3) years after the Closing Date; provided, however, that (i) the
+representations and warranties of the Company set forth in Article V, Sections 1
+and 2, (ii) the covenants of the Company set forth in Article III, Section 6(b),
+(iii) the representations and warranties of Conseco, Inc. set forth in Article
+VII, Sections 1 and 2, (iv) the covenants of Conseco Inc. set forth in Article
+III, Section 6(b), and (v) the representations and warranties of Reinsurer in
+Article VI, Sections 1 and 2 shall survive indefinitely.
+
+14.  Governing Law
+
+     This Agreement shall be governed by and construed in accordance with the
+laws of the State of Illinois, without giving effect to any principles of
+conflicts of law thereof that are not mandatorily applicable by law and would
+permit or require the application of the laws of another jurisdiction.
+
+15.  Invalid Provisions
+
+     If any provision of this Agreement is held to be illegal, invalid, or
+unenforceable under
+
+                                       39
+<PAGE>
+any present or future law, and if the rights or obligations of the Company or
+Reinsurer under this Agreement will not be materially and adversely affected
+thereby, (i) such provision will be fully severable, (ii) this Agreement will be
+construed and enforced as if such illegal, invalid, or unenforceable provision
+had never comprised a part hereof, (iii) the remaining provisions of this
+Agreement will remain in full force and effect and will not be affected by the
+illegal, invalid, or unenforceable provision or by its severance herefrom, and
+(iv) in lieu of such illegal, invalid, or unenforceable provision, there will be
+added automatically as a part of this Agreement a legal, valid, and enforceable
+provision as similar in terms to such illegal, invalid, or unenforceable
+provision as may be possible.
+
+16.  Announcements
+
+     The content and timing of public announcements by either party referencing
+each other or the nature of the reinsurance provided hereby must be approved in
+advance by both parties, but such approval shall not be unreasonably withheld,
+conditioned or delayed.
+
+17.  Contract Controls
+
+     The provisions of this Agreement (without reference to attached Schedules)
+shall be deemed to control in the event of any inconsistency or conflict between
+the provisions of this Agreement (without reference to the Schedules attached
+hereto) and the Schedules attached hereto.
+
+
+                         [SIGNATURES ON FOLLOWING PAGE]
+
+
+
+
+                                       40
+<PAGE>
+                                   ARTICLE XV
+
+                                    EXECUTION
+                                    ---------
+
+     IN WITNESS WHEREOF, Reinsurer and the Company have executed this Agreement
+on the dates and at the places set forth below.
+
+                                              CONSECO INSURANCE COMPANY
+
+
+
+
+
+Date:    May 8, 2007                          By:    /s/Ronald F. Ruhl
+      ----------------------------               -----------------------------
+Place:   Conseco                              Name:  Ronald F. Ruhl
+       ---------------------------                  --------------------------
+Witness: /s/Sheila D. Brooks                  Title: Sr. VP.
+         -------------------------                   -------------------------
+
+                                              CONSECO, INC., solely as to the
+                                              provisions of Article III,
+                                              Section 7(b) and Article VII
+                                              hereof
+
+
+Date:    May 8, 2007                          By:    /s/Mark E. Alberts
+      ----------------------------               -----------------------------
+Place:   Chicago, IL                          Name:  Mark E. Alberts
+       ---------------------------                  --------------------------
+Witness: /s/Katherine A. Miske                Title: Exec. VP., Chief Actuary
+         -------------------------                   -------------------------
+
+                                              REASSURE AMERICA LIFE INSURANCE
+                                              COMPANY
+
+
+
+
+
+Date:    May 8, 2007                          By:    /s/Kenneth H. Stewart
+      ----------------------------               -----------------------------
+Place:   Armonk, NY                           Name:  Kenneth H. Stewart
+       ---------------------------                 ---------------------------
+Witness: /s/Patrick J. Conty                  Title:  Managing Director
+         -------------------------                  --------------------------
+
+                                       41
+</TEXT>
+</DOCUMENT>

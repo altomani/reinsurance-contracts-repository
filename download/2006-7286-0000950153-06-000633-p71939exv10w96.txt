@@ -1,0 +1,3684 @@
+<DOCUMENT>
+<TYPE>EX-10.96
+<SEQUENCE>8
+<FILENAME>p71939exv10w96.txt
+<DESCRIPTION>EXHIBIT 10.96
+<TEXT>
+<PAGE>
+                                                                  Exhibit 10.96
+
+                                                               EXECUTION VERSION
+
+                        PINNACLE WEST CAPITAL CORPORATION
+
+                                  $200,000,000
+
+                                  SENIOR NOTES
+
+                       UNCOMMITTED MASTER SHELF AGREEMENT
+
+                          Dated as of February 28, 2006
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                           <C>
+1.  AUTHORIZATION OF ISSUE OF NOTES........................................    1
+
+2.  PURCHASE AND SALE OF NOTES.............................................    1
+    2A.  Facility..........................................................    1
+    2B.  Issuance Period...................................................    2
+    2C.  Periodic Spread Information.......................................    2
+    2D.  Request for Purchase..............................................    2
+    2E.  Rate Quotes.......................................................    3
+    2F.  Acceptance........................................................    3
+    2G.  Market Disruption.................................................    3
+    2H.  Closing...........................................................    4
+    2I.  Fees..............................................................    5
+
+3.  CONDITIONS OF CLOSING..................................................    6
+    3A.  Certain Documents.................................................    6
+    3B.  Opinion of Purchaser's Special Counsel............................    7
+    3C.  Representations and Warranties; No Default........................    7
+    3D.  Purchase Permitted by Applicable Laws.............................    7
+    3E.  Legal Matters.....................................................    8
+    3F.  Payment of Fees...................................................    8
+    3G.  Proceedings.......................................................    8
+    3H.  Private Placement Numbers.........................................    8
+
+4.  PREPAYMENTS............................................................    8
+    4A.  Required Prepayments..............................................    8
+    4B.  Optional Prepayment With Yield-Maintenance Amount.................    8
+    4C.  Notice of Optional Prepayment.....................................    8
+    4D.  Application of Prepayments........................................    9
+    4E.  Retirement of Notes...............................................    9
+
+5.  AFFIRMATIVE COVENANTS..................................................    9
+    5A.  Financial Statements; Notice of Defaults..........................    9
+    5B.  Information Required by Rule 144A.................................   11
+    5C.  Inspection of Property............................................   11
+    5D.  Maintenance of Property; Insurance................................   12
+    5E.  Conduct of Business and Maintenance of Existence..................   12
+    5F.  Compliance with Laws..............................................   13
+    5G.  Covenant to Secure Notes Equally..................................   13
+    5H.  Ownership of APS..................................................   13
+    5I.  Additional Covenants and Additional Defaults......................   13
+
+6.  NEGATIVE COVENANTS.....................................................   13
+    6A.  Debt..............................................................   13
+    6B.  Consolidations; Mergers and Sales of Assets.......................   13
+    6C.  Terrorism Sanction Regulations....................................   14
+</TABLE>
+
+
+                                        i
+
+<PAGE>
+
+<TABLE>
+<S>                                                                           <C>
+7.  EVENTS OF DEFAULT......................................................   14
+    7A.  Acceleration......................................................   14
+    7B.  Rescission of Acceleration........................................   16
+    7C.  Notice of Acceleration or Rescission..............................   17
+    7D.  Other Remedies....................................................   17
+
+8.  REPRESENTATIONS, COVENANTS AND WARRANTIES..............................   17
+    8A.  Organization......................................................   17
+    8B.  Financial Statements..............................................   17
+    8C.  Actions Pending...................................................   18
+    8D.  Outstanding Indebtedness..........................................   18
+    8E.  Title to Properties...............................................   18
+    8F.  Taxes.............................................................   19
+    8G.  Conflicting Agreements and Other Matters..........................   19
+    8H.  Offering of Notes.................................................   19
+    8I.  Use of Proceeds...................................................   19
+    8J.  ERISA.............................................................   20
+    8K.  Governmental Consent..............................................   20
+    8L.  Compliance with Environmental and Other Laws......................   20
+    8M.  Foreign Assets Control Regulations, Etc...........................   21
+    8N.  Permits and Other Operating Rights................................   21
+    8O.  Utility Company Status............................................   21
+    8P.  Investment Company Status.........................................   21
+    8Q.  Disclosure........................................................   22
+    8R.  Rule 144A.........................................................   22
+    8S.  Hostile Tender Offers.............................................   22
+
+9.  REPRESENTATIONS OF THE PURCHASERS......................................   22
+    9A.  Nature of Purchase................................................   22
+    9B.  Source of Funds...................................................   22
+    9C.  Accredited Investor...............................................   24
+
+10. DEFINITIONS; ACCOUNTING MATTERS........................................   24
+    10A. Yield-Maintenance Terms...........................................   24
+    10B. Other Terms.......................................................   25
+    10C. Accounting Principles, Terms and Determinations...................   33
+
+11. MISCELLANEOUS..........................................................   33
+    11A. Note Payments.....................................................   33
+    11B. Expenses..........................................................   34
+    11C. Consent to Amendments.............................................   34
+    11D. Form, Registration, Transfer and Exchange of Notes; Lost Notes....   35
+    11E. Persons Deemed Owners; Participations.............................   36
+    11F. Survival of Representations and Warranties; Entire Agreement......   36
+    11G. Successors and Assigns............................................   36
+    11H. Independence of Covenants.........................................   36
+    11I. Notices...........................................................   37
+</TABLE>
+
+
+                                       ii
+
+<PAGE>
+
+<TABLE>
+<S>                                                                           <C>
+    11J. Payments Due on Non-Business Days.................................   37
+    11K. Severability......................................................   37
+    11L. Descriptive Headings..............................................   37
+    11M. Satisfaction Requirement..........................................   38
+    11N. Governing Law.....................................................   38
+    11O. Severalty of Obligations..........................................   38
+    11P. Counterparts......................................................   38
+    11Q. Binding Agreement.................................................   38
+    11R. Waiver of Jury Trial; Consent to Jurisdiction.....................   38
+    11S. Confidential Information..........................................   39
+</TABLE>
+
+PURCHASER SCHEDULE
+
+SCHEDULE 8G - LIST OF AGREEMENTS RESTRICTING DEBT
+
+EXHIBIT A-1 - FORM OF NOTE
+
+EXHIBIT A-2 - FORM OF SERIES A NOTE
+
+EXHIBIT B   - FORM OF REQUEST FOR PURCHASE
+
+EXHIBIT C   - FORM OF CONFIRMATION OF ACCEPTANCE
+
+EXHIBIT D   - FORM OF FUNDS DELIVERY INSTRUCTION LETTER
+
+
+                                       iii
+
+<PAGE>
+
+                        PINNACLE WEST CAPITAL CORPORATION
+                        400 NORTH 5TH STREET, 19TH FLOOR
+                             PHOENIX, ARIZONA 85004
+
+                                                         As of February 28, 2006
+
+To: Prudential Investment Management, Inc.
+       (herein called "PRUDENTIAL")
+
+    Each Prudential Affiliate (as hereinafter defined)
+       which becomes bound by certain provisions of this
+       Agreement as hereinafter provided (the "PURCHASERS")
+
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+Ladies and Gentlemen:
+
+          The undersigned, Pinnacle West Capital Corporation (the "COMPANY"),
+hereby agrees with you as follows:
+
+          1. AUTHORIZATION OF ISSUE OF NOTES. The Company will authorize the
+issue of its senior promissory notes (the "NOTES") from time to time in
+accordance with the provisions of this Agreement in the aggregate principal
+amount of up to $200,000,000, to be dated the date of issue thereof; to mature,
+in the case of each Note so issued, no more than 5 years after the date of
+original issuance thereof; to bear interest on the unpaid balance thereof from
+the date thereof at the rate per annum, and to have such other particular terms,
+as shall be set forth, in the case of each Note so issued, in the Confirmation
+of Acceptance with respect to such Note delivered pursuant to paragraph 2F; and
+to be substantially in the form of Exhibit A-1 attached hereto. The term "NOTES"
+as used herein shall include each Note delivered pursuant to any provision of
+this Agreement and each Note delivered in substitution or exchange for any such
+Note pursuant to any such provision. Notes which have (i) the same final
+maturity, (ii) the same principal prepayment dates, (iii) the same principal
+prepayment amounts (as a percentage of the original principal amount of each
+Note), (iv) the same interest rate, and (v) the same original date of issuance
+are herein called a "SERIES" of Notes. Capitalized terms used herein have the
+meanings specified in paragraph 10.
+
+          2. PURCHASE AND SALE OF NOTES.
+
+          2A. FACILITY. Prudential is willing to consider, in its sole
+discretion and within limits which may be authorized for purchase by Prudential
+Affiliates from time to time, the purchase of Notes pursuant to this Agreement.
+The willingness of Prudential to consider such purchase of Notes is herein
+called the "FACILITY". At any time, the aggregate principal amount of Notes
+stated in paragraph 1, minus the aggregate principal amount of Notes purchased
+and sold pursuant to this Agreement prior to such time, minus the aggregate
+principal amount of Accepted Notes (as hereinafter defined) which have not yet
+been purchased and sold hereunder prior to such time is herein called the
+"AVAILABLE FACILITY AMOUNT" at such time. NOTWITHSTANDING THE WILLINGNESS OF
+PRUDENTIAL TO CONSIDER
+
+<PAGE>
+
+PURCHASES OF NOTES BY PRUDENTIAL AFFILIATES, THIS AGREEMENT IS ENTERED INTO ON
+THE EXPRESS UNDERSTANDING THAT NEITHER PRUDENTIAL NOR ANY PRUDENTIAL AFFILIATE
+SHALL BE OBLIGATED TO MAKE OR ACCEPT OFFERS TO PURCHASE NOTES, OR TO QUOTE
+RATES, SPREADS OR OTHER TERMS WITH RESPECT TO SPECIFIC PURCHASES OF NOTES, AND
+THE FACILITY SHALL IN NO WAY BE CONSTRUED AS A COMMITMENT BY PRUDENTIAL OR ANY
+PRUDENTIAL AFFILIATE.
+
+          2B. ISSUANCE PERIOD. Notes may be issued and sold pursuant to this
+Agreement until the earlier of (i) December 31, 2007 and (ii) the fifteenth day
+after Prudential shall have given to the Company, or the Company shall have
+given to Prudential, written notice stating that it elects to terminate the
+issuance and sale of Notes pursuant to this Agreement (or if such fifteenth day
+is not a Business Day, the Business Day next preceding such fifteenth day). The
+period during which Notes may be issued and sold pursuant to this Agreement is
+herein called the "ISSUANCE PERIOD".
+
+          2C. PERIODIC SPREAD INFORMATION. Provided no Default or Event of
+Default exists, not later than 9:30 A.M. (New York City local time) on a
+Business Day during the Issuance Period if there is an Available Facility Amount
+on such Business Day, the Company may request by telecopier or telephone, and
+Prudential will, to the extent reasonably practicable, provide to the Company on
+such Business Day (or, if such request is received after 9:30 A.M. (New York
+City local time) on such Business Day, on the following Business Day),
+information (by telecopier or telephone) with respect to various spreads at
+which Prudential Affiliates might be interested in purchasing Notes of different
+average lives; provided, however, that the Company may not make such requests
+more frequently than once in every five Business Days or such other period as
+shall be mutually agreed to by the Company and Prudential. The amount and
+content of information so provided shall be in the sole discretion of Prudential
+but it is the intent of Prudential to provide information which will be of use
+to the Company in determining whether to initiate procedures for use of the
+Facility. Information so provided shall not constitute an offer to purchase
+Notes, and neither Prudential nor any Prudential Affiliate shall be obligated to
+purchase Notes at the spreads specified. Information so provided shall be
+representative of potential interest only for the period commencing on the day
+such information is provided and ending on the earlier of the fifth Business Day
+after such day and the first day after such day on which further spread
+information is provided. Prudential may suspend or terminate providing
+information pursuant to this paragraph 2C for any reason, including its
+determination that the credit quality of the Company has declined since the date
+of this Agreement.
+
+          2D. REQUEST FOR PURCHASE. The Company may from time to time during the
+Issuance Period make requests for purchases of Notes (each such request being a
+"REQUEST FOR PURCHASE"). Each Request for Purchase shall be made to Prudential
+by telecopier or overnight delivery service, and shall (i) specify the aggregate
+principal amount of Notes covered thereby, which shall not be less than
+$5,000,000 and not be greater than the Available Facility Amount at the time
+such Request for Purchase is made, (ii) specify the principal amounts, final
+maturities, principal prepayment dates and amounts of the Notes covered thereby,
+(iii) specify the use of proceeds of such Notes, (iv) specify the proposed day
+for the closing of the purchase and sale of such Notes, which, unless otherwise
+agreed by Prudential, shall be a Business Day during the
+
+
+                                        2
+
+<PAGE>
+
+Issuance Period not less than 10 days and not more than 25 days after the making
+of such Request for Purchase, (v) specify the number of the account and the name
+and address of the depository institution to which the purchase prices of such
+Notes are to be transferred on the Closing Day for such purchase and sale, (vi)
+certify that, except as specified in such Request for Purchase, the
+representations and warranties contained in paragraph 8 are true on and as of
+the date of such Request for Purchase and that there exists on the date of such
+Request for Purchase no Event of Default or Default, (vii) specify the
+Designated Spread for such Notes and (viii) be substantially in the form of
+Exhibit B attached hereto. Each Request for Purchase shall be in writing and
+shall be deemed made when received by Prudential.
+
+          2E. RATE QUOTES. Not later than five Business Days after the Company
+shall have given Prudential a Request for Purchase pursuant to paragraph 2D,
+Prudential may, but shall be under no obligation to, provide to the Company by
+telephone or telecopier, in each case between 9:30 A.M. and 1:30 P.M. New York
+City local time (or such later time as Prudential may elect) interest rate
+quotes for the several principal amounts, maturities and principal prepayment
+schedules of Notes specified in such Request for Purchase. Each quote shall
+represent the interest rate per annum payable on the outstanding principal
+balance of such Notes, at which a Prudential Affiliate would be willing to
+purchase such Notes at 100% of the principal amount thereof.
+
+          2F. ACCEPTANCE. Within 30 minutes after Prudential shall have provided
+any interest rate quotes pursuant to paragraph 2E or such shorter period as
+Prudential may specify to the Company (such period being the "ACCEPTANCE
+WINDOW"), the Company may, subject to paragraph 2G, elect to accept such
+interest rate quotes as to any portion not less than $5,000,000 aggregate
+principal amount of the Notes specified in the related Request for Purchase.
+Such election shall be made by an Authorized Officer of the Company notifying
+Prudential by telephone or telecopier within the Acceptance Window that the
+Company elects to accept such interest rate quotes, specifying the Notes (each
+such Note being an "ACCEPTED NOTE") as to which such acceptance (an
+"ACCEPTANCE") relates. The day the Company notifies an Acceptance with respect
+to any Accepted Notes is herein called the "ACCEPTANCE DAY" for such Accepted
+Notes. Any interest rate quotes as to which Prudential does not receive an
+Acceptance within the Acceptance Window shall expire, and no purchase or sale of
+Notes hereunder shall be made based on such expired interest rate quotes.
+Subject to paragraph 2G and the other terms and conditions hereof, the Company
+agrees to sell to a Prudential Affiliate, and Prudential agrees to cause the
+purchase by a Prudential Affiliate of, the Accepted Notes at 100% of the
+principal amount of such Notes. As soon as practicable following the Acceptance
+Day, the Company, Prudential and each Prudential Affiliate which is to purchase
+any such Accepted Notes will execute a confirmation of such Acceptance
+substantially in the form of Exhibit C attached hereto (a "CONFIRMATION OF
+ACCEPTANCE"). If the Company should fail to execute and return to Prudential
+within two Business Days following receipt thereof a Confirmation of Acceptance
+with respect to any Accepted Notes, Prudential may at its election at any time
+prior to its receipt thereof cancel the closing with respect to such Accepted
+Notes by so notifying the Company in writing.
+
+          2G. MARKET DISRUPTION. Notwithstanding the provisions of paragraph 2F,
+if Prudential shall have provided interest rate quotes pursuant to paragraph 2E
+and thereafter prior to the time an Acceptance with respect to such quotes shall
+have been notified to Prudential in
+
+
+                                        3
+
+<PAGE>
+
+accordance with paragraph 2F the domestic market for U.S. Treasury securities or
+derivatives shall have closed or there shall have occurred a general suspension,
+material limitation, or significant disruption of trading in securities
+generally on the New York Stock Exchange or in the domestic market for U.S.
+Treasury securities or derivatives, then such interest rate quotes shall expire,
+and no purchase or sale of Notes hereunder shall be made based on such expired
+interest rate quotes. If the Company thereafter notifies Prudential of the
+Acceptance of any such interest rate quotes, such Acceptance shall be
+ineffective for all purposes of this Agreement, and Prudential shall promptly
+notify the Company that the provisions of this paragraph 2G are applicable with
+respect to such Acceptance.
+
+          2H. CLOSING.
+
+          2H(1). SERIES A CLOSING. The Company hereby agrees to sell to the
+Purchasers and, subject to the terms and conditions set forth herein, each
+Purchaser agrees to purchase from the Company under the Facility 5.91% Senior
+Notes due February 28, 2011 (the "SERIES A NOTES") in the aggregate principal
+amount set forth opposite its name on the Purchaser Schedule attached hereto at
+100% of such aggregate principal amount. The Series A Notes shall be
+substantially in the form of Exhibit A-2 attached hereto. The Company will
+deliver to Prudential, at the offices of Prudential Capital Group at 2200 Ross
+Avenue, Suite 4200E, Dallas, Texas, 75201 or, at the request of Prudential, at
+the offices of Baker Botts L.L.P. at 2001 Ross Avenue, Suite 600, Dallas, Texas
+75201, one or more Notes registered in the name of the Purchasers, evidencing
+the aggregate principal amount of Series A Notes to be purchased by the
+Purchasers and in the denomination or denominations specified in the Purchaser
+Schedule attached hereto against payment of the purchase price thereof by
+transfer of immediately available funds to the credit of the Company's account
+at JPMorgan Chase AZ, Phoenix, Arizona, Account Number 22703938 (ABA No.
+122100024) on the date of closing, which shall be February 28, 2006, or any
+other date upon which the Company and Prudential may mutually agree in writing
+(the "SERIES A CLOSING").
+
+          2H(2). SUBSEQUENT CLOSINGS. Not later than 11:30 A.M. (New York City
+local time) on the Closing Day for any Accepted Notes, the Company will deliver
+to each Purchaser listed in the Confirmation of Acceptance relating thereto at
+the offices of Prudential Capital Group at 2200 Ross Avenue, Suite 4200E,
+Dallas, Texas 75201 the Accepted Notes to be purchased by such Purchaser in the
+form of one or more Notes in authorized denominations as such Purchaser may
+request for each Series of Accepted Notes to be purchased on the Closing Day,
+dated the Closing Day and registered in such Purchaser's name (or in the name of
+its nominee), against payment of the purchase price thereof by transfer of
+immediately available funds for credit to the Company's account specified in the
+Request for Purchase of such Notes.
+
+          2H(3). RESCHEDULED CLOSINGS. If the Company fails to tender to any
+Purchaser the Accepted Notes to be purchased by such Purchaser on the scheduled
+Closing Day for such Accepted Notes as provided above in this paragraph 2H, or
+any of the conditions specified in paragraph 3 shall not have been fulfilled by
+the time required on such scheduled Closing Day, the Company shall, prior to
+1:00 P.M., New York City local time, on such scheduled Closing Day notify
+Prudential (which notification shall be deemed received by each Purchaser) in
+writing whether (x) such closing is to be rescheduled (such rescheduled date to
+be a Business Day during the Issuance Period not less than one Business Day and
+not more than 30 Business Days after
+
+
+                                        4
+
+<PAGE>
+
+such scheduled Closing Day (the "RESCHEDULED CLOSING DAY") and certify to
+Prudential (which certification shall be for the benefit of each Purchaser) that
+the Company reasonably believes that it will be able to comply with the
+conditions set forth in paragraph 3 on such Rescheduled Closing Day and that the
+Company will pay the Delayed Delivery Fee in accordance with paragraph 2I(2) or
+(y) such closing is to be canceled as provided in paragraph 2I(3). In the event
+that the Company shall fail to give such notice referred to in the preceding
+sentence, Prudential (on behalf of each Purchaser) may at its election, at any
+time after 1:00 P.M., New York City local time, on such scheduled Closing Day,
+notify the Company in writing that such closing is to be canceled as provided in
+paragraph 2I(3). Notwithstanding anything to the contrary appearing in this
+Agreement, the Company may elect to reschedule a closing with respect to any
+given Accepted Notes on not more than one occasion, unless Prudential shall have
+otherwise consented in writing.
+
+          2I. FEES.
+
+          2I(1). ISSUANCE FEE. The Company will pay to Prudential in immediately
+available funds a fee (the "ISSUANCE FEE") on each Closing Day (other than the
+Series A Closing) in an amount equal to 0.125% of the aggregate principal amount
+of Notes sold on such Closing Day.
+
+          2I(2). DELAYED DELIVERY FEE. If the closing of the purchase and sale
+of any Accepted Note is delayed for any reason beyond the original Closing Day
+for such Accepted Note, the Company will pay to the Purchaser of such Accepted
+Note on the Cancellation Date or actual closing date of such purchase and sale a
+fee (the "DELAYED DELIVERY FEE") calculated as follows:
+
+                           (BEY - MMY) X DTS/360 X PA
+
+where "BEY" means Bond Equivalent Yield, i.e., the bond equivalent yield per
+annum of such Accepted Note, "MMY" means Money Market Yield, i.e., the yield per
+annum on a commercial paper investment of the highest quality selected by
+Prudential on the date Prudential receives notice of the delay in the closing
+for such Accepted Note having a maturity date or dates the same as, or closest
+to, the Rescheduled Closing Day or Rescheduled Closing Days (a new alternative
+investment being selected by Prudential each time such closing is delayed);
+"DTS" means Days to Settlement, i.e., the number of actual days elapsed from and
+including the original Closing Day with respect to such Accepted Note to but
+excluding the date of such payment; and "PA" means Principal Amount, i.e., the
+principal amount of the Accepted Note for which such calculation is being made.
+In no case shall the Delayed Delivery Fee be less than zero. Nothing contained
+herein shall obligate any Purchaser to purchase any Accepted Note on any day
+other than the Closing Day for such Accepted Note, as the same may be
+rescheduled from time to time in compliance with paragraph 2H.
+
+          2I(3). CANCELLATION FEE. If the Company at any time notifies
+Prudential in writing that the Company is canceling the closing of the purchase
+and sale of any Accepted Note, or if Prudential notifies the Company in writing
+under the circumstances set forth in the penultimate sentence of paragraph 2H(3)
+that the closing of the purchase and sale of such Accepted Note
+
+
+                                        5
+<PAGE>
+
+is to be canceled, or if the closing of the purchase and sale of such Accepted
+Note is not consummated on or prior to the last day of the Issuance Period (the
+date of any such notification, or the last day of the Issuance Period, as the
+case may be, being the "CANCELLATION DATE"), the Company will pay the Purchasers
+in immediately available funds an amount (the "CANCELLATION FEE") calculated as
+follows:
+
+                                     PI X PA
+
+where "PI" means Price Increase, i.e., the quotient (expressed in decimals)
+obtained by dividing (a) the excess of the ask price (as determined by
+Prudential) of the Hedge Treasury Note(s) on the Cancellation Date over the bid
+price (as determined by Prudential) of the Hedge Treasury Notes(s) on the
+Acceptance Day for such Accepted Note by (b) such bid price; and "PA" has the
+meaning specified in paragraph 2I(2). The foregoing bid and ask prices shall be
+as reported by TradeWeb LLC (or, if such data for any reason ceases to be
+available through TradeWeb LLC, any publicly available source of similar market
+data). Each price shall be rounded to the second decimal place. In no case shall
+the Cancellation Fee be less than zero.
+
+          3. CONDITIONS OF CLOSING. The obligation of any Purchaser to purchase
+and pay for any Notes is subject to the satisfaction, on or before the Closing
+Day for such Notes, of the following conditions:
+
+          3A. CERTAIN DOCUMENTS. Such Purchaser shall have received the
+following, each dated the date of the applicable Closing Day:
+
+          (i) The Note(s) to be purchased by such Purchaser.
+
+          (ii) Certified copies of the resolutions of the Board of Directors of
+     the Company authorizing the execution and delivery of this Agreement and
+     the issuance of the Notes, and of all documents evidencing other necessary
+     corporate action and governmental approvals, if any, with respect to this
+     Agreement and the Accepted Notes (provided, that for any Closing Day
+     occurring after the Series A Closing, the Company may certify that there
+     has been no change to any applicable authorization or approval since the
+     date on which it was most recently delivered to such Purchaser under this
+     paragraph 3A(ii), as an alternative to the further delivery thereof).
+
+          (iii) A certificate of the Secretary, an Assistant Secretary or an
+     Associate Secretary of the Company certifying the names and true signatures
+     of the officers of the Company authorized to sign this Agreement and the
+     Notes and the other documents to be delivered hereunder (provided, that for
+     any Closing Day occurring after the Series A Closing, the Secretary, an
+     Assistant Secretary or an Associate Secretary of the Company may certify
+     that there has been no change to the officers of the Company authorized to
+     sign Accepted Notes and other documents to be delivered therewith since the
+     date on which a certificate setting forth the names and true signatures of
+     such officers, as described above, was most recently delivered to such
+     Purchaser under this paragraph 3A(iii), as an alternative to the further
+     delivery thereof).
+
+          (iv) Certified copies of the Certificate of Incorporation and By-laws
+     of the Company (provided, that for any Closing Day occurring after the
+     Series A Closing, the Company may certify that there has been no change to
+     any applicable constitutive
+
+
+                                        6
+
+<PAGE>
+
+     document since the date on which it was most recently delivered to such
+     Purchaser under this paragraph 3A(iv), as an alternative to the further
+     delivery thereof).
+
+          (v) Favorable opinions of (a) Snell & Wilmer, L.L.P. and (b) Morgan,
+     Lewis & Bockius LLP, special counsel to the Company (or such other counsel
+     designated by the Company and acceptable to the Purchaser(s)) satisfactory
+     to such Purchaser and substantially in the forms provided on the Closing
+     Day with respect to the Series A Notes and as to such other matters as such
+     Purchaser may reasonably request. The Company hereby directs each such
+     counsel to deliver such opinion, agrees that the issuance and sale of any
+     Accepted Notes will constitute a reconfirmation of such direction, and
+     understands and agrees that each Purchaser receiving such an opinion will
+     and is hereby authorized to rely on such opinion.
+
+          (vi) A good standing certificate for the Company from the Arizona
+     Corporation Commission dated a recent date and such other evidence of the
+     status of the Company as such Purchaser may reasonably request.
+
+          (vii) Solely in connection with the Series A Closing, certified copies
+     of Requests for Information or Copies (Form UCC-11) or equivalent reports
+     listing all effective financing statements which name the Company (under
+     its present name and previous names) as debtor and which are filed in the
+     office of the Secretary of State of Arizona, together with copies of such
+     financing statements.
+
+          (viii) Additional documents or certificates with respect to legal
+     matters or corporate or other proceedings related to the transactions
+     contemplated hereby as may be reasonably requested by such Purchaser at
+     least five days in advance of the Closing Day.
+
+          (ix) Written instructions of the Company in the form of Exhibit D
+     attached hereto.
+
+          3B. OPINION OF PURCHASER'S SPECIAL COUNSEL. Such Purchaser shall have
+received from Baker Botts, L.L.P., who is acting as special counsel for it in
+connection with this transaction, a favorable opinion satisfactory to such
+Purchaser as to such matters incident to the matters herein contemplated as it
+may reasonably request.
+
+          3C. REPRESENTATIONS AND WARRANTIES; NO DEFAULT. Except as disclosed in
+the Officer's Certificate referenced herein, the representations and warranties
+contained in paragraph 8 shall be true on and as of such Closing Day, except to
+the extent of changes caused by the transactions herein contemplated; there
+shall exist on such Closing Day no Event of Default or Default; and the Company
+shall have delivered to such Purchaser an Officer's Certificate, dated such
+Closing Day, to both such effects.
+
+          3D. PURCHASE PERMITTED BY APPLICABLE LAWS. The purchase of and payment
+for the Notes to be purchased by such Purchaser on the terms and conditions
+herein provided (including the use of the proceeds of such Notes by the Company)
+shall not violate any applicable law or governmental regulation (including,
+without limitation, Section 5 of the Securities Act or Regulation T, U or X of
+the Board of Governors of the Federal Reserve System) and shall not subject such
+Purchaser to any tax, penalty, liability or other onerous
+
+
+                                        7
+
+<PAGE>
+
+condition under or pursuant to any applicable law or governmental regulation,
+and such Purchaser shall have received such certificates or other evidence as it
+may reasonably request to establish compliance with this condition.
+
+          3E. LEGAL MATTERS. Counsel for such Purchaser, including any special
+counsel for the Purchasers retained in connection with the purchase and sale of
+such Accepted Notes, shall be satisfied as to all legal matters relating to such
+purchase and sale, and such Purchaser shall have received from such counsel
+favorable opinions as to such legal matters as it may reasonably request.
+
+          3F. PAYMENT OF FEES. The Company shall have paid to the Purchasers and
+Prudential any fees due them pursuant to or in connection with this Agreement,
+including any Issuance Fee due pursuant to paragraph 2I(1) and any Delayed
+Delivery Fee due pursuant to paragraph 2I(2). In addition, and without limiting
+the provisions of paragraph 11B, special counsel to the Purchasers shall have
+received its reasonable fees, charges and disbursements to the extent reflected
+in a statement of such special counsel rendered to the Company at least one
+Business Day prior to such Closing Day.
+
+          3G. PROCEEDINGS. All corporate and other proceedings taken or to be
+taken in connection with the transactions contemplated hereby and all documents
+incident thereto shall be satisfactory in substance and form to such Purchaser,
+and it shall have received all such counterpart originals or certified or other
+copies of such documents as it may reasonably request.
+
+          3H. PRIVATE PLACEMENT NUMBERS. Private Placement numbers issued by
+Standard & Poor's CUSIP Service Bureau (in cooperation with the Securities
+Valuation Office of the National Association of Insurance Commissioners) shall
+have been obtained by Prudential for the Notes.
+
+          4. PREPAYMENTS. The Notes shall be subject to prepayment with respect
+to any required prepayments set forth in such Notes as provided in paragraph 4A
+and with respect to the optional prepayments permitted by paragraph 4B.
+
+          4A. REQUIRED PREPAYMENTS. The Notes of each Series shall be subject to
+required prepayments, if any, set forth in the Notes of such Series.
+
+          4B. OPTIONAL PREPAYMENT WITH YIELD-MAINTENANCE AMOUNT. The Notes of
+each Series shall be subject to prepayment, in whole at any time or from time to
+time in part (in integral multiples of $1,000,000 and in a minimum amount of
+$1,000,000), at the option of the Company, at 100% of the principal amount so
+prepaid plus interest thereon to the prepayment date and the Yield-Maintenance
+Amount, if any, with respect to each such Note. Any partial prepayment of a
+Series of Notes pursuant to this paragraph 4B shall be applied in satisfaction
+of required payments of principal of the Notes in such Series in inverse order
+of their scheduled due dates.
+
+          4C. NOTICE OF OPTIONAL PREPAYMENT. The Company shall give the holder
+of each Note to be prepaid pursuant to paragraph 4B irrevocable written notice
+of such prepayment not less than 10 Business Days prior to the prepayment date,
+specifying such prepayment date, specifying the aggregate principal amount of
+the Notes to be prepaid on such date, identifying
+
+
+                                        8
+
+<PAGE>
+
+each Note held by such holder, and the principal amount of each such Note, to be
+prepaid on such date and stating that such prepayment is to be made pursuant to
+paragraph 4B. Notice of prepayment having been given as aforesaid, the principal
+amount of the Notes specified in such notice, together with interest thereon to
+the prepayment date and together with the Yield-Maintenance Amount, if any,
+herein provided, shall become due and payable on such prepayment date. The
+Company shall, on or before the day on which it gives written notice of any
+prepayment pursuant to paragraph 4B, give telephonic notice of the principal
+amount of the Notes to be prepaid and the prepayment date to each Significant
+Holder which shall have designated a recipient for such notices in the Purchaser
+Schedule attached hereto or by notice in writing to the Company.
+
+          4D. APPLICATION OF PREPAYMENTS. Upon any partial prepayment of the
+Notes of any Series pursuant to paragraph 4A or 4B, the amount so prepaid shall
+be allocated to all outstanding Notes of such Series (including, for the purpose
+of this paragraph 4D only, all Notes prepaid or otherwise retired or purchased
+or otherwise acquired by the Company or any of its Subsidiaries or Affiliates
+other than by prepayment pursuant to paragraph 4A or 4B) in proportion to the
+respective outstanding principal amounts thereof.
+
+          4E. RETIREMENT OF NOTES. The Company shall not, and shall not permit
+any of its Subsidiaries or Affiliates to, prepay or otherwise retire in whole or
+in part prior to their stated final maturity (other than by prepayment pursuant
+to paragraph 4A or 4B or upon acceleration of such final maturity pursuant to
+paragraph 7A), or purchase or otherwise acquire, directly or indirectly, Notes
+of any Series held by any holder unless the Company or such Subsidiary or
+Affiliate shall have offered to prepay or otherwise retire or purchase or
+otherwise acquire, as the case may be, the same proportion of the aggregate
+principal amount of Notes of such Series held by each other holder of Notes of
+such Series at the time outstanding upon the same terms and conditions. Any
+Notes so prepaid or otherwise retired or purchased or otherwise acquired by the
+Company or any of its Subsidiaries or Affiliates shall not be deemed to be
+outstanding for any purpose under this Agreement, except as provided in
+paragraph 4D.
+
+          5. AFFIRMATIVE COVENANTS. During the Issuance Period, from and after
+the Business Day immediately preceding the Series A Closing, and so long
+thereafter as any Note is outstanding and unpaid, the Company covenants as
+follows:
+
+          5A. FINANCIAL STATEMENTS; NOTICE OF DEFAULTS. The Company will deliver
+to each Significant Holder in duplicate:
+
+          (i) as soon as practicable and in any event within 60 days after the
+     end of each quarterly period (other than the last quarterly period) in each
+     fiscal year, statements of income and cash flows of the Company and its
+     Consolidated Subsidiaries for the period from the beginning of the current
+     fiscal year to the end of such quarterly period, and a balance sheet of the
+     Company and its Consolidated Subsidiaries as at the end of such quarterly
+     period, setting forth in the case of statements of income and cash flows in
+     comparative form figures for the corresponding period in the preceding
+     fiscal year, and accompanied by a certificate of an authorized financial
+     officer of the Company, which certificate shall state that said financial
+     statements fairly present in all material respects the financial position
+     and results of operation of the Company and its Consolidated
+
+
+                                        9
+
+<PAGE>
+
+     Subsidiaries in accordance with GAAP, except as disclosed therein and
+     subject to changes resulting from year-end audit adjustments; provided,
+     however, that delivery pursuant to clause (iii) below of copies of the
+     Quarterly Report on Form l0-Q of the Company for such quarterly period
+     filed with the SEC shall be deemed to satisfy the requirements of this
+     clause (i) with respect to consolidated financial statements so long as
+     such Report on Form 10-Q includes the financial statements required by Form
+     10-Q;
+
+          (ii) as soon as practicable and in any event within 120 days after the
+     end of each fiscal year, statements of income and cash flows of the Company
+     and its Consolidated Subsidiaries for such year, and a balance sheet of the
+     Company and its Consolidated Subsidiaries as at the end of such year,
+     setting forth in each case in comparative form corresponding figures from
+     the preceding fiscal year, and accompanied by a report thereon of
+     independent public accountants of recognized national standing selected by
+     the Company, whose report shall state that said financial statements fairly
+     present in all material respects the financial position and results of
+     operations of the Company and its Consolidated Subsidiaries as at the end
+     of, and for, such fiscal year in accordance with GAAP (except as disclosed
+     therein); provided, however, that delivery pursuant to clause (iii) below
+     of copies of the Annual Report on Form 10-K of the Company for such fiscal
+     year filed with the SEC shall be deemed to satisfy the requirements of this
+     clause (ii) with respect to consolidated financial statements and the
+     auditor's report so long as such Annual Report on Form 10-K includes the
+     financial statements required by Form 10-K;
+
+          (iii) promptly after transmission thereof, copies of all such
+     financial statements, proxy statements, notices and reports as it shall
+     send to its public stockholders and copies of all registration statements
+     (other than the exhibits thereto and any registration statements on Form
+     S-8 or its equivalent) and all reports on Form 10-K, 10-Q and 8-K (or their
+     equivalents) which it files with the SEC;
+
+          (iv) if and when any ERISA Affiliate (a) gives or is required to give
+     notice to the PBGC of any "reportable event" (as defined in Section 4043 of
+     ERISA) with respect to any Plan which might constitute grounds for a
+     termination of such Plan under Title IV of ERISA, or knows that the plan
+     administrator of any Plan has given or is required to give notice of any
+     such reportable event, a copy of the notice of such reportable event given
+     or required to be given to the PBGC; (b) receives notice of complete or
+     partial withdrawal liability under Title IV of ERISA or notice that any
+     Multiemployer Plan is in reorganization, is insolvent or has been
+     terminated, a copy of such notice; (c) receives notice from the PBGC under
+     Title IV of ERISA of an intent to terminate, impose liability (other than
+     for premiums under Section 4007 of ERISA) in respect of, or appoint a
+     trustee to administer any Plan, a copy of such notice; (d) applies for a
+     waiver of the minimum funding standard under Section 412 of the Code, a
+     copy of such application; (e) gives notice of intent to terminate any Plan
+     under Section 4041(c) of ERISA, a copy of such notice and other information
+     filed with the PBGC; (f) gives notice of withdrawal from any Plan pursuant
+     to Section 4063 of ERISA, a copy of such notice; or (g) fails to make any
+     payment or contribution to any Plan or Multiemployer Plan or in respect of
+     any Benefit Arrangement or makes any amendment to any Plan or Benefit
+     Arrangement which has resulted or is reasonably likely to result in the
+     imposition of a Lien or the
+
+
+                                       10
+
+<PAGE>
+
+     posting of a bond or other security under ERISA or the Code, a certificate
+     of an Responsible Officer setting forth details as to such occurrence and
+     action, if any, which the Company or applicable member of the ERISA
+     Affiliate is required or proposes to take; and
+
+          (v) with reasonable promptness, such other information respecting the
+     condition or operations, financial or otherwise, of the Company or any of
+     its Subsidiaries as such Significant Holder may reasonably request.
+
+Together with each delivery of financial statements required by clauses (i) and
+(ii) above, the Company will deliver to each Significant Holder an Officer's
+Certificate demonstrating (with computations in reasonable detail) compliance by
+the Company with the provisions of paragraph 6A and stating that there exists no
+Event of Default or Default, or, if any Event of Default or Default exists,
+specifying the nature thereof and what action the Company proposes to take with
+respect thereto. Information required to be delivered pursuant to clauses (i),
+(ii) and (iii) above shall be deemed to have been delivered on the date on which
+the Company provides notice to each Significant Holder that such information has
+been posted on the Company's website at www.pinnaclewest.com, at
+sec.gov/edaux/searches.htm or at another website identified in such notice and
+accessible by the Significant Holders without charge; provided that (a) such
+notice may be included in any Officer's Certificate described in the foregoing
+sentence and (b) the Company shall deliver paper copies of the information
+referred to in clauses (i), (ii) or (iii) above to any Significant Holder which
+requests such delivery.
+
+          The Company also covenants that as soon as possible and in any event
+within five Business Days after any Responsible Officer obtains knowledge of an
+Event of Default or Default then continuing, it will deliver to each holder of
+any Notes an Officer's Certificate specifying the nature thereof and what action
+the Company proposes to take with respect thereto.
+
+          5B. INFORMATION REQUIRED BY RULE 144A. The Company will, upon the
+request of the holder of any Note, provide such holder, and any qualified
+institutional buyer designated by such holder, such financial and other
+information as such holder may reasonably determine to be necessary in order to
+permit compliance with the information requirements of Rule 144A under the
+Securities Act in connection with the resale of Notes, except at such times as
+the Company is subject to and in compliance with the reporting requirements of
+section 13 or 15(d) of the Exchange Act. For the purpose of this paragraph 5B,
+the term "QUALIFIED INSTITUTIONAL BUYER" shall have the meaning specified in
+Rule 144A under the Securities Act.
+
+          5C. INSPECTION OF PROPERTY. The Company will permit any Person
+designated by any Significant Holder in writing, at such Significant Holder's
+expense if no Default or Event of Default exists and at the Company's expense if
+a Default or Event of Default does exist, to visit and inspect any of the
+properties of the Company and its Subsidiaries, to examine the corporate books
+and financial records of the Company and its Subsidiaries and make copies
+thereof or extracts therefrom and to discuss the affairs, finances and accounts
+of any of such corporations with the principal officers of the Company and its
+independent public accountants, all at such reasonable times and as often as
+such Significant Holder may reasonably request; provided, however, that the
+Company and its Subsidiaries reserve the right to restrict access to any of
+their properties in accordance with reasonably adopted policies relating to
+safety; and,
+
+
+                                       11
+
+<PAGE>
+
+provided further, that such Significant Holder complies with reasonably adopted
+security policies.
+
+          5D. MAINTENANCE OF PROPERTY; INSURANCE.
+
+          (i) The Company will keep, and will cause each Significant Subsidiary
+     to keep, all property useful and necessary in its business in good working
+     order and condition, ordinary wear and tear excepted, if the failure to do
+     so is reasonably likely to have a material adverse effect on the financial
+     condition or financial prospects of the Company and its Consolidated
+     Subsidiaries, considered as a whole, it being understood that this covenant
+     relates only to the working order and condition of such properties and
+     shall not be construed as a covenant not to dispose of properties.
+
+          (ii) The Company will maintain, and cause each Significant Subsidiary
+     to maintain, insurance with responsible and reputable insurance companies
+     or associations in such amounts and covering such risks as is usually
+     carried by companies engaged in similar businesses and owning similar
+     properties in the same general areas in which the Company or such
+     Significant Subsidiary operates; provided, however, that the Company and
+     APS may self-insure to the same extent as other companies engaged in
+     similar businesses and owning similar properties in the same general areas
+     in which the Company or such Significant Subsidiary operates.
+
+          5E. CONDUCT OF BUSINESS AND MAINTENANCE OF EXISTENCE.
+
+          (i) Subject to paragraph 6B hereof, the Company will preserve and
+     maintain, and will cause APS to preserve and maintain, its corporate
+     existence and all rights and privileges (other than, in the case of APS,
+     "franchises" as described in Arizona Revised Statutes, Section 40-283 or
+     any successor provision) reasonably necessary in the normal conduct of its
+     business, if the failure to maintain such rights or privileges is
+     reasonably likely to have a material adverse effect on the financial
+     condition or financial prospects of the Company and its Consolidated
+     Subsidiaries, considered as a whole, and will cause APS to use its
+     commercially reasonable efforts to preserve and maintain such franchises
+     reasonably necessary in the normal conduct of its business, except that (a)
+     APS from time to time may make minor extensions of its lines, plants,
+     services or systems prior to the time a related franchise, certificate of
+     convenience and necessity, license or permit is procured, (b) from time to
+     time communities served by APS may become incorporated and considerable
+     time may elapse before such a franchise is procured, (c) certain such
+     franchises may have expired prior to the renegotiation thereof, (d) certain
+     minor defects and exceptions may exist which, individually and in the
+     aggregate, are not material and (e) certain franchises, certificates,
+     licenses and permits may not be specific as to their geographical scope.
+
+          (ii) The Company will continue to conduct, directly or through its
+     Subsidiaries, the same general type of business conducted by the Company
+     and APS on the date hereof.
+
+
+                                       12
+
+<PAGE>
+
+          5F. COMPLIANCE WITH LAWS. The Company will comply, and cause each of
+its Significant Subsidiaries to comply, in all material respects with all
+applicable laws, ordinances, rules, regulations, and requirements of
+governmental authorities (including, without limitation, environmental laws and
+ERISA and the rules and regulations thereunder) except where (i) the necessity
+of compliance therewith is contested in good faith by appropriate proceedings or
+(ii) the noncompliance with which is not reasonably likely to have a material
+adverse effect on the financial condition or financial prospects of the Company
+and its Consolidated Subsidiaries, considered as a whole.
+
+          5G. COVENANT TO SECURE NOTES EQUALLY. The Company will not create,
+assume or suffer to exist any Lien on the capital stock of any Significant
+Subsidiary owned by the Company unless the holders of Notes are also granted a
+Lien thereon on a pari passu basis securing all of the Company's obligations
+under the Notes.
+
+          5H. OWNERSHIP OF APS. The Company will at all times continue to own
+directly at least 80% of the outstanding capital stock of APS.
+
+          5I. ADDITIONAL COVENANTS AND ADDITIONAL DEFAULTS. If, after the date
+hereof, the Company enters into, assumes or otherwise becomes bound or obligated
+under any agreement (including amendments of the Bank Agreement) evidencing,
+securing, guaranteeing or otherwise relating to the Bank Obligations that
+contains one or more Additional Covenants or Additional Defaults, the terms of
+this Agreement shall, without any further action on the part of the Company or
+any of the holders of the Notes, be deemed to be amended automatically to
+include each Additional Covenant and each Additional Default contained in such
+agreement. The Company further covenants to promptly execute and deliver at its
+expense (including the reasonable fees and expenses of counsel for the holders
+of the Notes) an amendment to this Agreement in form and substance satisfactory
+to the Required Holder(s) evidencing the amendment of this Agreement to include
+such Additional Covenants and Additional Defaults, provided that the execution
+and delivery of such amendment shall not be a precondition to the effectiveness
+of such amendment as provided for in this paragraph 5I, but shall merely be for
+the convenience of the parties hereto.
+
+          6. NEGATIVE COVENANTS. During the Issuance Period, from and after the
+Business Day immediately preceding the Series A Closing, and so long thereafter
+as any Note or other amount due hereunder is outstanding and unpaid, the Company
+covenants as follows:
+
+          6A. DEBT. Consolidated Debt will not exceed at any time an amount
+equal to 65% of Consolidated Capitalization.
+
+          6B. CONSOLIDATIONS; MERGERS AND SALES OF ASSETS. The Company will not,
+nor will it permit any Significant Subsidiary to, merge or consolidate with or
+into any other Person, except (i) any Significant Subsidiary may merge or
+consolidate with the Company if the Company is the corporation surviving such
+merger, (ii) any Significant Subsidiary may merge or consolidate with any other
+Subsidiary, provided that the Company's aggregate direct and indirect ownership
+interest in the survivor thereof shall not be less than the greater of the
+Company's direct and indirect ownership interest in such Subsidiaries prior to
+such merger, and (iii) the
+
+
+                                       13
+
+<PAGE>
+
+Company or any Significant Subsidiary may merge or consolidate with any other
+Person if (a) such Person was organized under the laws of the United States of
+America or one of its States and (b) the Company or such Significant Subsidiary
+is the corporation surviving such merger; provided that, in each case, after
+giving effect thereto, no Default or Event of Default will be in existence. The
+Company will not sell, lease, transfer, assign or otherwise dispose of all or
+substantially all of its assets, or permit any of its Significant Subsidiaries
+to sell, lease, transfer, assign or otherwise dispose of all or substantially
+all of its assets, except for sales, leases, transfers, assignments, and other
+dispositions of all or substantially all of the Company's or any such
+Significant Subsidiary's assets to the Company or any other Subsidiary of the
+Company, provided in each case that no Default or Event of Default shall have
+occurred and be continuing after giving effect thereto and provided further that
+(i) in no case will the merger of PWEC into the Company with the Company
+surviving be governed or prohibited by this paragraph 6B, and (ii) this
+paragraph 6B will not govern or prohibit pledges or the grant of security
+interests, mortgages or other Liens on any assets.
+
+          6C. TERRORISM SANCTION REGULATIONS. The Company will not and will not
+permit any Subsidiary to (i) become a Person described or designated in the
+Specially Designated Nationals and Blocked Persons List of the Office of Foreign
+Assets Control or in Section 1 of the Anti-Terrorism Order, unless such
+description or designation is then being contested in good faith by appropriate
+proceedings, or (ii) knowingly engage in any dealings or transactions, except to
+provide electricity to any APS customer, with any such Person.
+
+          7. EVENTS OF DEFAULT.
+
+          7A. ACCELERATION. If on or after the Series A Closing and so long
+thereafter as any Note is outstanding and unpaid, any of the following events
+shall occur and be continuing for any reason whatsoever (and whether such
+occurrence shall be voluntary or involuntary or come about or be effected by
+operation of law or otherwise):
+
+          (i) the Company defaults in the payment of any principal of, or
+     Yield-Maintenance Amount payable with respect to, any Note when the same
+     shall become due, either by the terms thereof or otherwise as herein
+     provided; or
+
+          (ii) the Company defaults in the payment of any interest on any Note
+     for more than three Business Days after the date due; or
+
+          (iii) the Company or APS defaults in any payment of principal of or
+     interest on any other Debt or any Derivative Obligation (in either case
+     which is outstanding in a principal amount exceeding $25,000,000) and such
+     default shall continue beyond any period of grace provided with respect
+     thereto, or the Company or APS fails to perform or observe any other
+     agreement, term or condition contained in any agreement under which any
+     such Debt or Derivative Obligation is created and such failure shall
+     continue after the applicable grace period, if any, specified in such
+     agreement or instrument and the effect of such failure is to cause, or to
+     permit the holder or holders of such Debt or Derivative Obligation (or a
+     trustee on behalf of such holder or holders) to accelerate, or permit the
+     acceleration of the maturity of, such Debt or Derivative Obligation; or
+
+
+                                       14
+
+<PAGE>
+
+          (iv) any representation or warranty made by the Company herein or by
+     the Company or any of its officers in any certificate furnished in
+     connection with or pursuant to this Agreement shall be false in any
+     material respect on the date as of which made; or
+
+          (v) the Company fails to perform or observe any term, covenant or
+     agreement contained in paragraph 5G, 5H or 6; or
+
+          (vi) the Company fails to perform or observe any other term, covenant,
+     agreement or condition contained herein (other than those covered by
+     clauses (i) or (ii) above) and such failure shall not be remedied within 30
+     days after notice thereof has been given to the Company by the Required
+     Holders; or
+
+          (vii) the Company or any Significant Subsidiary shall commence a
+     voluntary case or other proceeding seeking liquidation, reorganization or
+     other relief with respect to itself or its debts under any bankruptcy,
+     insolvency or other similar law now or hereafter in effect or seeking the
+     appointment of a trustee, receiver, liquidator, custodian or other similar
+     official of it or any substantial part of its property, or shall consent to
+     any such relief or to the appointment of or taking possession by any such
+     official in an involuntary case or other proceeding commenced against it,
+     or shall make a general assignment for the benefit of creditors, or shall
+     fail generally to pay its debts as they become due, or shall take any
+     corporate action to authorize any of the foregoing; or
+
+          (viii) an involuntary case or other proceeding shall be commenced
+     against the Company or any Significant Subsidiary seeking liquidation,
+     reorganization or other relief with respect to it or its debts under any
+     bankruptcy, insolvency or other similar law now or hereafter in effect or
+     seeking the appointment of a trustee, receiver, liquidator, custodian or
+     other similar official of it or any substantial part of its property, and
+     such involuntary case or other proceeding shall remain undismissed or
+     unstayed for a period of 60 days; or an order for relief shall be entered
+     against the Company or any Significant Subsidiary under the federal
+     bankruptcy laws as now or hereafter in effect; or
+
+          (ix) a final judgment in an amount in excess of $25,000,000 (excluding
+     any such judgments to the extent a solvent insurer has acknowledged
+     liability therefor in writing) is rendered against the Company or APS and,
+     within 45 days after entry thereof, such judgment is not discharged or
+     execution thereof stayed pending appeal, or within 45 days after the
+     expiration of any such stay, such judgment is not discharged; or
+
+          (x) any ERISA Affiliate shall fail to pay when due an amount or
+     amounts aggregating in excess of $25,000,000 which it shall have become
+     liable to pay under Title IV of ERISA; or notice of intent to terminate a
+     Material Plan shall be filed under Title IV of ERISA by any ERISA
+     Affiliate, any plan administrator or any combination of the foregoing which
+     could cause one or more ERISA Affiliates to incur a liability in excess of
+     $25,000,000; or the PBGC shall institute proceedings under Title IV of
+     ERISA to terminate, to impose liability (other than for premiums under
+     Section 4007 of ERISA) in respect of, or to cause a trustee to be appointed
+     to administer any Material Plan which could cause one or more ERISA
+     Affiliates to incur a liability in excess of $25,000,000 or a condition
+     shall exist by reason of which the PBGC would be entitled to obtain a
+     decree
+
+
+                                       15
+
+<PAGE>
+
+     adjudicating that any Material Plan must be terminated which could cause
+     one or more ERISA Affiliates to incur a liability in excess of $25,000,000;
+     or there shall occur a complete or partial withdrawal from, or a default,
+     within the meaning of Section 4219(c) (5) of ERISA, with respect to, one or
+     more Multiemployer Plans which could cause one or more ERISA Affiliates to
+     incur a current payment obligation in excess of $25,000,000; or
+
+          (xi) any Change in Control shall occur;
+
+then (a) if such event is an Event of Default specified in clause (i) or (ii) of
+this paragraph 7A, any holder of any Note (other than the Company or any of its
+Subsidiaries or Affiliates) may at its option, by notice in writing to the
+Company, declare all of the Notes held by such holder to be, and all of the
+Notes held by such holder shall thereupon be and become, immediately due and
+payable at par together with interest accrued thereon, without presentment,
+demand, protest or notice of any kind, all of which are hereby waived by the
+Company, (b) if such event is an Event of Default specified in clause (vii) or
+(viii) of this paragraph 7A with respect to the Company, all of the Notes at the
+time outstanding shall automatically become immediately due and payable at par
+together with interest accrued thereon and together with the Yield-Maintenance
+Amount, if any, with respect to each Note, without presentment, demand, protest
+or notice of any kind, all of which are hereby waived by the Company, and (c) if
+such event is any Event of Default other than as specified in preceding clause
+(b), the Required Holder(s) of the Notes may at its or their option by notice in
+writing to the Company, declare all of the Notes to be, and all of the Notes
+shall thereupon be and become, immediately due and payable together with
+interest accrued thereon and together with the Yield-Maintenance Amount, if any,
+with respect to each Note, without presentment, demand, protest or notice of any
+kind, all of which are hereby waived by the Company.
+
+          The Company acknowledges, and the parties hereto agree, that each
+holder of a Note has the right to maintain its investment in the Notes free from
+repayment by the Company (except as herein specifically provided for) and that
+the provision for payment of the Yield-Maintenance Amount by the Company in the
+event that the Notes are prepaid or are accelerated as a result of an Event of
+Default, is intended to provide compensation for the deprivation of such right
+under such circumstances.
+
+          7B. RESCISSION OF ACCELERATION. At any time after any or all of the
+Notes shall have been declared immediately due and payable pursuant to paragraph
+7A, the Required Holder(s) may, by notice in writing to the Company, rescind and
+annul such declaration and its consequences if (i) the Company shall have paid
+all overdue interest on the Notes, the principal of and Yield-Maintenance
+Amount, if any, payable with respect to any Notes which have become due
+otherwise than by reason of such declaration, and interest on such overdue
+interest and overdue principal and Yield Maintenance Amount at the rate
+specified in the Notes, (ii) the Company shall not have paid any amounts which
+have become due solely by reason of such declaration, (iii) all Events of
+Default and Defaults, other than non-payment of amounts which have become due
+solely by reason of such declaration, shall have been cured or waived pursuant
+to paragraph 11C, and (iv) no judgment or decree shall have been entered for the
+payment of any amounts due pursuant to the Notes or this Agreement. No such
+rescission or annulment shall
+
+
+                                       16
+
+<PAGE>
+
+extend to or affect any subsequent Event of Default or Default or impair any
+right arising therefrom.
+
+          7C. NOTICE OF ACCELERATION OR RESCISSION. Whenever any Note shall be
+declared immediately due and payable pursuant to paragraph 7A or any such
+declaration shall be rescinded and annulled pursuant to paragraph 7B, the
+Company shall forthwith give written notice thereof to the holder of each Note
+at the time outstanding.
+
+          7D. OTHER REMEDIES. If any Event of Default or Default shall occur and
+be continuing, the holder of any Note may proceed to protect and enforce its
+rights under this Agreement and such Note by exercising such remedies as are
+available to such holder in respect thereof under applicable law, either by suit
+in equity or by action at law, or both, whether for specific performance of any
+covenant or other agreement contained in this Agreement or in aid of the
+exercise of any power granted in this Agreement. No remedy conferred in this
+Agreement upon the holder of any Note is intended to be exclusive of any other
+remedy, and each and every such remedy shall be cumulative and shall be in
+addition to every other remedy conferred herein or now or hereafter existing at
+law or in equity or by statute or otherwise.
+
+          8. REPRESENTATIONS, COVENANTS AND WARRANTIES. Except as disclosed in
+the Officer's Certificate referred to in paragraph 3C, as of each Closing Day
+hereunder, the Company represents, covenants and warrants as follows (all
+references to "SUBSIDIARY" and "SUBSIDIARIES" in this paragraph 8 shall be
+deemed omitted if the Company has no Subsidiaries at the time the
+representations herein are made or repeated):
+
+          8A. ORGANIZATION. The Company is a corporation duly organized and
+validly existing in good standing under the laws of the State of Arizona and APS
+is a corporation duly organized and existing in good standing under the laws of
+the State of Arizona. Each of the Company and APS has the corporate power to own
+its respective property and to carry on its respective business as now being
+conducted. The execution, delivery and performance by the Company of this
+Agreement and the Notes are within the Company's corporate powers and have been
+duly authorized by all necessary corporate action.
+
+          8B. FINANCIAL STATEMENTS. The Company has furnished Prudential and
+each Purchaser with the following financial statements, identified by a
+principal financial officer of the Company or posted on the Company's website on
+the Internet at www.pinnaclewest.com or on sec.gov/edaux/searches.htm: (i) a
+balance sheet of the Company and its Consolidated Subsidiaries as at December
+31, 2004 and the related statements of income and cash flows of the Company and
+its Consolidated Subsidiaries for the fiscal year then ended, all reported on by
+Deloitte & Touche LLP; and (ii) a balance sheet of the Company and its
+Consolidated Subsidiaries as at September 30, 2005 and the related statements of
+income and cash flows of the Company and its Consolidated Subsidiaries for the
+nine months then ended. Such financial statements (including any related
+schedules and/or notes) or the financial statements most recently provided
+pursuant to Section 5A(i) and (ii) of this Agreement as of the date this
+representation is made or repeated, fairly present in all material respects the
+financial position and results of operations of the Company and its Consolidated
+Subsidiaries as at the end of, and for, the applicable fiscal year or fiscal
+quarter, as the case may be, in accordance with GAAP, except as disclosed
+therein and subject, as to interim statements, to changes resulting from audits
+
+
+                                       17
+
+<PAGE>
+
+and year-end adjustments. Except as disclosed in the SEC Reports or by means of
+a letter delivered to Prudential and each Purchaser prior to any Closing Day,
+there has been no material adverse change in the financial condition or
+financial prospects of the Company and its Consolidated Subsidiaries taken as a
+whole since the end of the most recent fiscal quarter for which financial
+statements have been furnished at the time of an Acceptance relating to the
+Notes to be purchased.
+
+          8C. ACTIONS PENDING. Except as disclosed in the SEC Reports or by
+means of a letter delivered to the Purchasers prior to any Closing Day, there is
+no action, suit or proceeding pending or, to the knowledge of the Company,
+threatened against or affecting the Company or any of its Subsidiaries, by or
+before any court, arbitrator or administrative or governmental body in which
+there is a reasonable possibility of an adverse decision which is reasonably
+likely to have a material adverse effect on the financial condition or financial
+prospects of the Company and its Consolidated Subsidiaries taken as a whole.
+There is no action, suit or proceeding pending or, to the knowledge of the
+Company, threatened against the Company or any of its Subsidiaries which
+purports to affect the validity or enforceability of this Agreement or any Note.
+
+          8D. OUTSTANDING INDEBTEDNESS. Neither the Company nor any of its
+Subsidiaries has outstanding any Indebtedness except as permitted by paragraph
+6A. There exists no default under the provisions of any instrument evidencing
+such Debt which is outstanding in a principal amount exceeding $25,000,000 or of
+any agreement relating thereto.
+
+          8E. TITLE TO PROPERTIES. The Company and APS have good and marketable
+title in fee simple to their respective properties and assets, including the
+properties and assets reflected in the most recent audited balance sheet
+referred to in paragraph 8B, except any such assets held pursuant to any
+arrangement accounted for as a capital lease or by any entity consolidated into
+such balance sheet as a variable interest entity, subject to (i) assets disposed
+of in the ordinary course of business since December 31, 2004; (ii) any defects
+in or encumbrances on title of the respective lessors or grantors of easements
+or rights-of-way pursuant to which APS has installed transmission and
+distribution lines; and (iii) other liens, encumbrances, or defects, none of
+which, individually or in the aggregate, materially interfere with the business
+or operations of the Company and its Subsidiaries taken as a whole. The
+representation in the foregoing sentence is subject to the following
+qualifications: (a) APS is the owner of the rights conferred upon it by the
+leases from the Navajo Tribe relating to the sites on which the Navajo Plant and
+the Four Corners Plant are situated and no representation is made with respect
+to the enforceability of such leases against the Navajo Tribe; and (b) certain
+defects in the leases of the Company and APS may exist which, together with the
+qualification referred to in clause (a), individually and in the aggregate, are
+not materially adverse to the financial condition or financial prospects of the
+Company and its Consolidated Subsidiaries taken as a whole. There are no
+outstanding shares or other securities convertible into or exchangeable for any
+shares of common stock of APS which are not held by the Company, nor any
+outstanding agreements, rights or options to acquire, subscribe for or purchase
+from APS any shares of its common stock or securities convertible into or
+exchangeable for shares of its common stock (other than agreements with or
+rights or options held by the Company). All leases necessary for the conduct of
+the respective businesses of the Company and APS are valid and subsisting and
+are in full force and effect, except to the extent qualified in this paragraph
+8E and except to the extent that
+
+
+                                       18
+
+<PAGE>
+
+the failure of any such lease to be valid and subsisting and in full force and
+effect would not have a material adverse impact on the financial condition or
+financial prospects of the Company and its Consolidated Subsidiaries, taken as a
+whole.
+
+          8F. TAXES. The Company and APS have filed all United States Federal
+income tax returns and all other tax returns which are required to be filed by
+them and have paid all taxes due pursuant to such returns or pursuant to any
+assessment received by the Company or APS, except to the extent that (i) such
+taxes are being contested in good faith and by appropriate proceedings and that
+appropriate reserves for the payment thereof have been maintained by the Company
+and APS in accordance with GAAP or (ii) the failure to make such filings or such
+payments is not reasonably likely to have a material adverse effect on the
+financial condition or financial prospects of the Company and its Consolidated
+Subsidiaries taken as a whole. The charges, accruals and reserves on the books
+of the Company and APS in respect of taxes or other governmental charges are, in
+the opinion of the Company, adequate.
+
+          8G. CONFLICTING AGREEMENTS AND OTHER MATTERS. Neither the execution
+nor delivery of this Agreement or the Notes, nor the offering, issuance and sale
+of the Notes, nor fulfillment of nor compliance with the terms and provisions
+hereof and of the Notes will conflict with, or result in a breach of the terms,
+conditions or provisions of, or constitute a default under, or result in any
+violation of, or (except as provided for or permitted herein) result in the
+creation of any Lien upon any of the properties or assets of the Company or any
+of its Significant Subsidiaries pursuant to, the charter or by-laws of the
+Company or any of its Significant Subsidiaries, any award of any arbitrator or
+any agreement (including any agreement with stockholders), instrument, order,
+judgment, decree, statute, law, rule or regulation to which the Company or any
+of its Significant Subsidiaries is subject. Neither the Company nor any of its
+Subsidiaries is a party to, or otherwise subject to any provision contained in,
+any instrument evidencing Indebtedness of the Company or such Subsidiary, any
+agreement relating thereto or any other contract or agreement (including its
+charter) which limits the amount of, or otherwise imposes restrictions on the
+incurring of, Debt of the Company of the type to be evidenced by the Notes
+except as set forth in the agreements listed in Schedule 8G attached hereto.
+
+          8H. OFFERING OF NOTES. Neither the Company nor any agent acting on its
+behalf has, directly or indirectly, offered the Notes for sale to, or solicited
+any offers to buy the Notes from, or otherwise approached or negotiated with
+respect thereto with, any Person other than institutional investors, and neither
+the Company nor any agent acting on its behalf has taken or will take any action
+which would subject the issuance or sale of the Notes to the provisions of
+Section 5 of the Securities Act or to the provisions of any securities or Blue
+Sky law of any applicable jurisdiction.
+
+          8I. USE OF PROCEEDS. The proceeds of the Series A Notes will be used
+for general corporate purposes (which purposes will be for some lawful object
+within the corporate purposes of the Company, compatible with the public
+interest, and reasonably necessary or appropriate for such purposes), including
+the repayment at maturity of the $300,000,000 aggregate principal amount of
+6.40% Notes due April 1, 2006. None of the proceeds of the sale of any Notes
+will be used, directly or indirectly, for the purpose, whether immediate,
+incidental or ultimate, of purchasing or carrying any "MARGIN STOCK" as defined
+in Regulation U (12 CFR Part 221) of the Board of Governors of the Federal
+Reserve System ("margin stock") or for the
+
+
+                                       19
+
+<PAGE>
+
+purpose of maintaining, reducing or retiring any Indebtedness which was
+originally incurred to purchase or carry any stock that is then currently a
+margin stock or for any other purpose which might constitute the purchase of
+such Notes a "purpose credit" within the meaning of such Regulation U or
+Regulation T of the Board of Governors of the Federal Reserve System, unless the
+Company shall have delivered to the Purchaser which is purchasing such Notes, on
+the Closing Day for such Notes, an opinion of counsel satisfactory to such
+Purchaser stating that the purchase of such Notes does not constitute a
+violation of such Regulation U or Regulation T. Neither the Company nor any
+agent acting on its behalf has taken or will take any action which might cause
+this Agreement or the Notes to violate Regulation T, Regulation U or any other
+regulation of the Board of Governors of the Federal Reserve System or to violate
+the Exchange Act, in each case as in effect now or as the same may hereafter be
+in effect.
+
+          8J. ERISA. No accumulated funding deficiency (as defined in section
+302 of ERISA and section 412 of the Code), whether or not waived, exists with
+respect to any Plan (other than a Multiemployer Plan). No liability to the PBGC
+has been or is expected by the Company or any ERISA Affiliate to be incurred
+with respect to any Plan (other than a Multiemployer Plan) by the Company, any
+Subsidiary or any ERISA Affiliate which is or would be materially adverse to the
+financial condition or financial prospects of the Company and its Consolidated
+Subsidiaries taken as a whole. Neither the Company, any Subsidiary nor any ERISA
+Affiliate has incurred or presently expects to incur any withdrawal liability
+under Title IV of ERISA with respect to any Multiemployer Plan which is or would
+be materially adverse to the financial condition or financial prospects of the
+Company and its Consolidated Subsidiaries taken as a whole. The execution and
+delivery of this Agreement and the issuance and sale of the Notes will be exempt
+from or will not involve any transaction which is subject to the prohibitions of
+section 406 of ERISA and will not involve any transaction in connection with
+which a penalty could be imposed under section 502(i) of ERISA or a tax could be
+imposed pursuant to section 4975 of the Code. The representation by the Company
+in the next preceding sentence is made in reliance upon and subject to the
+accuracy of the representation of each Purchaser in paragraph 9B as to the
+source of funds to be used by it to purchase any Notes.
+
+          8K. GOVERNMENTAL CONSENT. Neither the nature of the Company or of any
+Subsidiary, nor any of their respective businesses or properties, nor any
+relationship between the Company or any Subsidiary and any other Person, nor any
+circumstance in connection with the offering, issuance, sale or delivery of the
+Notes is such as to require any authorization, consent, approval, exemption or
+any action by or notice to or filing with any court or administrative or
+governmental or regulatory body (other than routine filings after the Closing
+Day for any Notes with the Securities and Exchange Commission and/or state Blue
+Sky authorities) in connection with the execution and delivery of this
+Agreement, the offering, issuance, sale or delivery of the Notes or fulfillment
+of or compliance with the terms and provisions hereof or of the Notes.
+
+          8L. COMPLIANCE WITH ENVIRONMENTAL AND OTHER LAWS. Except as described
+in the SEC Reports or by means of a letter delivered to the Purchasers prior to
+any Closing Day, the Company and its Significant Subsidiaries and all of their
+respective properties and facilities comply in all respects with all federal,
+state, local and regional statutes, laws, ordinances and judicial or
+administrative orders, judgments, rulings and regulations, including those
+relating to protection of the environment except, in any such case, where (i)
+the necessity of compliance is being contested in good faith by appropriate
+proceedings or (ii) failure to comply is not
+
+
+                                       20
+
+<PAGE>
+
+reasonably likely to result in a material adverse effect on the financial
+condition or financial prospects of the Company and its Consolidated
+Subsidiaries taken as a whole.
+
+          8M. FOREIGN ASSETS CONTROL REGULATIONS, ETC. (i) Neither the sale of
+the Notes by the Company hereunder nor its use of the proceeds thereof will
+violate the Trading with the Enemy Act, as amended, or any of the foreign assets
+control regulations of the United States Treasury Department (31 CFR, Subtitle
+B, Chapter V, as amended) or any enabling legislation or executive order
+relating thereto.
+
+          (i) Neither the Company nor any Subsidiary (a) is a Person described
+     or designated in the Specially Designated Nationals and Blocked Persons
+     List of the Office of Foreign Assets Control or in Section 1 of the Anti
+     Terrorism Order or (b) knowingly engages in any dealings or transactions
+     with any such Person, except to provide electricity to any APS customer.
+     The Company and its Subsidiaries are in compliance, in all material
+     respects, with the USA Patriot Act.
+
+          (ii) No part of the proceeds from the sale of the Notes hereunder will
+     be used, directly or indirectly, for any payments to any governmental
+     official or employee, political party, official of a political party,
+     candidate for political office, or anyone else acting in an official
+     capacity, in order to obtain, retain or direct business or obtain any
+     improper advantage, in violation of the United States Foreign Corrupt
+     Practices Act of 1977, as amended, assuming in all cases that such Act
+     applies to the Company.
+
+          8N. PERMITS AND OTHER OPERATING RIGHTS. Except as described in the SEC
+Reports or by means of a letter delivered to the Purchasers prior to any Closing
+Day, each of the Company and APS has all governmental licenses, authorizations,
+consents and approvals required to carry on its business as now conducted, if
+the failure to hold any such governmental licenses, authorizations, consents and
+approvals is reasonably likely to have a material adverse effect on the
+financial condition or financial prospects of the Company and its Consolidated
+Subsidiaries, taken as a whole.
+
+          8O. UTILITY COMPANY STATUS. The Company is a "holding company" as such
+term is defined in the Public Utility Holding Company Act of 2005 ("PUHCA
+2005"). Pursuant to PUHCA 2005, the Company is subject to the limited
+jurisdiction of the Federal Energy Regulatory Commission ("FERC"), and any State
+commission with jurisdiction to regulate a public utility company in the
+Company's holding company system, with respect to access to books and records of
+the Company and its subsidiaries and affiliates. The Company is a "public
+utility", as such term is defined in the Federal Power Act, as amended ("FPA")
+and subject to FERC regulation under the FPA. The Company has obtained blanket
+authority from FERC under Section 204 of the FPA to issue securities and assume
+liabilities, and such authorization remains in full force and effect.
+
+          8P. INVESTMENT COMPANY STATUS. The Company is not an "investment
+company" or a company "controlled" by an "investment company" within the meaning
+of the Investment Company Act of 1940, as amended.
+
+
+                                       21
+
+<PAGE>
+
+          8Q. DISCLOSURE. Neither this Agreement nor any other document,
+certificate or statement furnished to any Purchaser by or on behalf of the
+Company in connection herewith (including without limitation the Company's SEC
+Reports) contains any untrue statement of a material fact or omits to state a
+material fact necessary in order to make the statements contained herein and
+therein not misleading. There is no fact peculiar to the Company or any of its
+Subsidiaries which materially adversely affects or in the future may (so far as
+the Company can now foresee) materially adversely affect the financial condition
+or financial prospects of the Company and its Consolidated Subsidiaries taken as
+a whole and which has not been set forth in this Agreement or in the other
+documents, certificates and statements furnished to each Purchaser by or on
+behalf of the Company prior to the date hereof or any Closing Day (including
+without limitation the Company's SEC Reports) in connection with the
+transactions contemplated hereby.
+
+          8R. RULE 144A. The Notes are not of the same class as securities of
+the Company, if any, listed on a national securities exchange, registered under
+Section 6 of the Exchange Act or quoted in a U.S. automated inter-dealer
+quotation system.
+
+          8S. HOSTILE TENDER OFFERS. None of the proceeds of the sale of any
+Notes will be used to finance a Hostile Tender Offer.
+
+          9. REPRESENTATIONS OF THE PURCHASERS.
+
+          Each Purchaser represents as follows:
+
+          9A. NATURE OF PURCHASE. Such Purchaser is not acquiring the Notes
+purchased by it hereunder with a view to or for sale in connection with any
+distribution thereof within the meaning of the Securities Act, provided that the
+disposition of such Purchaser's property shall at all times be and remain within
+its control.
+
+          9B. SOURCE OF FUNDS. At least one of the following statements is an
+accurate representation as to each source of funds (the "SOURCE") to be used by
+such Purchaser to pay the purchase price of the Notes to be purchased by such
+Purchaser hereunder:
+
+          (i) the Source is an "insurance company general account" (as the term
+     is defined in the United States Department of Labor's Prohibited
+     Transaction Exemption ("PTE") 95-60) in respect of which the reserves and
+     liabilities (as defined by the annual statement for life insurance
+     companies approved by the National Association of Insurance Commissioners
+     (the "NAIC ANNUAL STATEMENT")) for the general account contract(s) held by
+     or on behalf of any employee benefit plan together with the amount of the
+     reserves and liabilities for the general account contract(s) held by or on
+     behalf of any other employee benefit plans maintained by the same employer
+     (or affiliate thereof as defined in PTE 95-60) or by the same employee
+     organization in the general account do not exceed 10% of the total reserves
+     and liabilities of the general account (exclusive of separate account
+     liabilities) plus surplus as set forth in the NAIC Annual Statement filed
+     with such Purchaser's state of domicile; or
+
+          (ii) the Source is a separate account that is maintained solely in
+     connection with such Purchaser's fixed contractual obligations under which
+     the amounts payable, or
+
+
+                                       22
+
+<PAGE>
+
+     credited, to any employee benefit plan (or its related trust) that has any
+     interest in such separate account (or to any participant or beneficiary of
+     such plan (including any annuitant)) are not affected in any manner by the
+     investment performance of the separate account; or
+
+          (iii) the Source is either (a) an insurance company pooled separate
+     account, within the meaning of PTE 90-1 or (b) a bank collective investment
+     fund, within the meaning of the PTE 91-38 and, except as disclosed by such
+     Purchaser to the Company in writing pursuant to this clause (iii), no
+     employee benefit plan or group of plans maintained by the same employer or
+     employee organization beneficially owns more than 10% of all assets
+     allocated to such pooled separate account or collective investment fund; or
+
+          (iv) the Source constitutes assets of an "investment fund" (within the
+     meaning of Part V of PTE 84-14 (the "QPAM EXEMPTION")) managed by a
+     "qualified professional asset manager" or "QPAM" (within the meaning of
+     Part V of the QPAM Exemption), no employee benefit plan's assets that are
+     included in such investment fund, when combined with the assets of all
+     other employee benefit plans established or maintained by the same employer
+     or by an affiliate (within the meaning of Section V(c)(1) of the QPAM
+     Exemption) of such employer or by the same employee organization and
+     managed by such QPAM, exceed 20% of the total client assets managed by such
+     QPAM, the conditions of Part I(c) and (g) of the QPAM Exemption are
+     satisfied, neither the QPAM nor a person controlling or controlled by the
+     QPAM (applying the definition of "control" in Section V(e) of the QPAM
+     Exemption) owns a 5% or more interest in the Company and (a) the identity
+     of such QPAM and (b) the names of all employee benefit plans whose assets
+     are included in such investment fund have been disclosed to the Company in
+     writing pursuant to this clause (iv); or
+
+          (v) the Source constitutes assets of a "plan(s)" (within the meaning
+     of Section IV of PTE 96-23 (the "INHAM EXEMPTION")) managed by an "in-house
+     asset manager" or "INHAM" (within the meaning of Part IV of the INHAM
+     exemption), the conditions of Part I(a), (g) and (h) of the INHAM Exemption
+     are satisfied, neither the INHAM nor a person controlling or controlled by
+     the INHAM (applying the definition of "control" in Section IV(h) of the
+     INHAM Exemption) owns a 5% or more interest in the Company and (a) the
+     identity of such INHAM and (b) the name(s) of the employee benefit plan(s)
+     whose assets constitute the Source have been disclosed to the Company in
+     writing pursuant to this clause (v); or
+
+          (vi) the Source is a governmental plan; or
+
+          (vii) the Source is one or more employee benefit plans, or a separate
+     account or trust fund comprised of one or more employee benefit plans, each
+     of which has been identified to the Company in writing pursuant to this
+     clause (vii) prior to the Acceptance Day for such Notes; or
+
+          (viii) the Source does not include assets of any employee benefit
+     plan, other than a plan exempt from the coverage of ERISA.
+
+
+                                       23
+
+<PAGE>
+
+As used in this paragraph 9B, the terms "employee benefit plan," "governmental
+plan," and "separate account" shall have the respective meanings assigned to
+such terms in Section 3 of ERISA.
+
+          9C. ACCREDITED INVESTOR. Each Purchaser is an "accredited investor"
+(as such term is defined under Regulation D promulgated under the Securities
+Act, or any successor law, rule or regulation).
+
+          10. DEFINITIONS; ACCOUNTING MATTERS. For the purpose of this
+Agreement, the terms defined in paragraphs 10A and 10B (or within the text of
+any other paragraph) shall have the respective meanings specified therein and
+all accounting matters shall be subject to determination as provided in
+paragraph 10C.
+
+          10A. YIELD-MAINTENANCE TERMS.
+
+          "CALLED PRINCIPAL" shall mean, with respect to any Note, the principal
+of such Note that is to be prepaid pursuant to paragraph 4B or is declared to be
+immediately due and payable pursuant to paragraph 7A, as the context requires.
+
+          "DESIGNATED SPREAD" shall mean 0.50% in the case of each Series A Note
+and 0% in the case of each Note of any other Series unless the Confirmation of
+Acceptance with respect to the Notes of such Series specifies a different
+Designated Spread in which case it shall mean, with respect to each Note of such
+Series, the Designated Spread so specified.
+
+          "DISCOUNTED VALUE" shall mean, with respect to the Called Principal of
+any Note, the amount obtained by discounting all Remaining Scheduled Payments
+with respect to such Called Principal from their respective scheduled due dates
+to the Settlement Date with respect to such Called Principal, in accordance with
+accepted financial practice and at a discount factor (as converted to reflect
+the periodic basis on which interest on such Note is payable, if payable other
+than on a semi-annual basis) equal to the Reinvestment Yield with respect to
+such Called Principal.
+
+          "REINVESTMENT YIELD" shall mean, with respect to the Called Principal
+of any Note, the Designated Spread over the yield to maturity implied by (i) the
+yields reported as of 10:00 a.m. (New York City local time) on the Business Day
+next preceding the Settlement Date with respect to such Called Principal for
+actively traded U.S. Treasury securities having a maturity equal to the
+Remaining Average Life of such Called Principal as of such Settlement Date on
+the Treasury Yield Monitor page of Standard & Poor's MMS - Treasury Market
+Insight (or, if Standard & Poor's shall cease to report such yields in MMS -
+Treasury Market Insight or shall cease to be Prudential Capital Group's
+customary source of information for calculating yield-maintenance amounts on
+privately placed notes, then such source as is then Prudential Capital Group's
+customary source of such information), or if such yields shall not be reported
+as of such time or the yields reported as of such time shall not be
+ascertainable, (ii) the Treasury Constant Maturity Series yields reported, for
+the latest day for which such yields shall have been so reported as of the
+Business Day next preceding the Settlement Date with respect to such Called
+Principal, in Federal Reserve Statistical Release H.15(519) (or any comparable
+successor publication) for actively traded U.S. Treasury securities having a
+constant maturity equal to the
+
+
+                                       24
+
+<PAGE>
+
+Remaining Average Life of such Called Principal as of such Settlement Date. Such
+implied yield shall be determined, if necessary, by (a) converting U.S. Treasury
+bill quotations to bond equivalent yields in accordance with accepted financial
+practice and (b) interpolating linearly between yields reported for various
+maturities. The Reinvestment Yield shall be rounded to that number of decimal
+places as appears in the coupon of the applicable Note.
+
+          "REMAINING AVERAGE LIFE" shall mean, with respect to the Called
+Principal of any Note, the number of years (calculated to the nearest
+one-twelfth year) obtained by dividing (i) such Called Principal into (ii) the
+sum of the products obtained by multiplying (a) each Remaining Scheduled Payment
+of such Called Principal (but not of interest thereon) by (b) the number of
+years (calculated to the nearest one-twelfth year) which will elapse between the
+Settlement Date with respect to such Called Principal and the scheduled due date
+of such Remaining Scheduled Payment.
+
+          "REMAINING SCHEDULED PAYMENTS" shall mean, with respect to the Called
+Principal of any Note, all payments of such Called Principal and interest
+thereon that would be due on or after the Settlement Date with respect to such
+Called Principal if no payment of such Called Principal were made prior to its
+scheduled due date.
+
+          "SETTLEMENT DATE" shall mean, with respect to the Called Principal of
+any Note, the date on which such Called Principal is to be prepaid pursuant to
+paragraph 4B or is declared to be immediately due and payable pursuant to
+paragraph 7A, as the context requires.
+
+          "YIELD-MAINTENANCE AMOUNT" shall mean, with respect to any Note, an
+amount equal to the excess, if any, of the Discounted Value of the Called
+Principal of such Note over the sum of (i) such Called Principal plus (ii)
+interest accrued thereon as of (including interest due on) the Settlement Date
+with respect to such Called Principal. The Yield-Maintenance Amount shall in no
+event be less than zero.
+
+          10B. OTHER TERMS.
+
+          "ACCEPTANCE" shall have the meaning specified in paragraph 2F.
+
+          "ACCEPTANCE DAY" shall have the meaning specified in paragraph 2F.
+
+          "ACCEPTANCE WINDOW" shall have the meaning specified in paragraph 2F.
+
+          "ACCEPTED NOTE" shall have the meaning specified in paragraph 2F.
+
+          "ADDITIONAL COVENANT" shall mean any affirmative or negative covenant
+or similar restriction applicable to the Company or any Subsidiary (regardless
+of whether such provision is labeled or otherwise characterized as a covenant)
+the subject matter of which either (i) is similar to that of any covenant in
+paragraph 5 or 6 of this Agreement, or related definitions in paragraph 10 of
+this Agreement, but contains one or more percentages, amounts or formulas that
+is more restrictive than those set forth herein or more beneficial to the holder
+or holders of the Bank Obligations created or evidenced by the document in which
+such covenant or similar restriction is contained (and such covenant or similar
+restriction shall be deemed an Additional Covenant only to the extent that is
+more restrictive or more beneficial) or (ii) is different from
+
+
+                                       25
+
+<PAGE>
+
+the subject matter of any covenants in paragraph 5 or 6 of this Agreement, or
+related definitions in paragraph 10 of this Agreement.
+
+          "ADDITIONAL DEFAULT" shall mean any provision contained in any
+document or instrument creating or evidencing Bank Obligations which permits the
+holder or holders of any of the Bank Obligations to accelerate (with the passage
+of time or giving of notice or both) the maturity thereof or otherwise requires
+the Company or any Subsidiary to purchase such Bank Obligations prior to the
+stated maturity thereof and which either (i) is similar to any Default or Event
+of Default contained in paragraph 7 of this Agreement, or related definitions in
+paragraph 10 of this Agreement, but contains one or more percentages, amounts or
+formulas that is more restrictive or has a shorter grace period than those set
+forth herein or is more beneficial to the holders of such other Bank Obligations
+(and such provision shall be deemed an Additional Default only to the extent
+that it is more restrictive, has a shorter grace period or is more beneficial)
+or (ii) is different from the subject matter of any Default or Event of Default
+contained in paragraph 7 of this Agreement, or related definitions in paragraph
+10 of this Agreement.
+
+          "AFFILIATE" shall mean any Person directly or indirectly controlling,
+controlled by, or under direct or indirect common control with, the Company,
+except a Subsidiary. A Person shall be deemed to control a corporation if such
+Person possesses, directly or indirectly, the power to direct or cause the
+direction of the management and policies of such corporation, whether through
+the ownership of voting securities, by contract or otherwise.
+
+          "ANTI-TERRORISM ORDER" shall mean Executive Order No. 13224 of
+September 24, 2001, Blocking Property and Prohibiting Transactions with Persons
+Who Commit, Threaten to Commit or Support Terrorism, 66 U.S. Fed. Reg. 49,079
+(2001), as amended.
+
+          "APS" shall mean Arizona Public Service Company, an Arizona
+corporation.
+
+          "AUTHORIZED OFFICER" shall mean (i) in the case of the Company, its
+chief executive officer, its chief financial officer, its chief operating
+officer, president, any vice president, treasurer or controller of the Company
+designated as an "Authorized Officer" of the Company for the purpose of this
+Agreement in a certificate provided for in paragraph 3A(iii) or in an Officer's
+Certificate executed by any one of such officers and delivered to Prudential
+from time to time, and (ii) in the case of Prudential, any officer of Prudential
+designated as its "Authorized Officer" in the Purchaser Schedule or any officer
+of Prudential designated as its "Authorized Officer" for the purpose of this
+Agreement in a certificate executed by one of its Authorized Officers. Any
+action taken under this Agreement on behalf of the Company by any individual who
+on or after the date of this Agreement shall have been an Authorized Officer of
+the Company and whom Prudential in good faith believes to be an Authorized
+Officer of the Company at the time of such action shall be binding on the
+Company even though such individual shall have ceased to be an Authorized
+Officer of the Company, and any action taken under this Agreement on behalf of
+Prudential by any individual who on or after the date of this Agreement shall
+have been an Authorized Officer of Prudential and whom the Company in good faith
+believes to be an Authorized Officer of Prudential at the time of such action
+shall be binding on Prudential even though such individual shall have ceased to
+be an Authorized Officer of Prudential.
+
+
+                                       26
+
+<PAGE>
+
+          "AVAILABLE FACILITY AMOUNT" shall have the meaning specified in
+paragraph 2A.
+
+          "BANK AGREEMENT" shall mean that certain Amended and Restated Credit
+Agreement dated as of December 9, 2005 among the Company, the lenders party
+thereto, JPMorgan Chase Bank, N.A., as Administrative Agent, and the other
+agents party thereto, as amended, restated, supplemented, modified, replaced or
+refinanced from time to time.
+
+          "BANK OBLIGATIONS" means the "Obligations," as such term is defined in
+the Bank Agreement on the date hereof.
+
+          "BENEFIT ARRANGEMENT" shall mean at any time an employee benefit plan
+within the meaning of Section 3(3) of ERISA which is not a Plan or a
+Multiemployer Plan and which is maintained or otherwise contributed to by any
+ERISA Affiliate.
+
+          "BUSINESS DAY" shall mean any day other than (i) a Saturday or a
+Sunday, (ii) a day on which commercial banks in New York City or Phoenix,
+Arizona are required or authorized to be closed and (iii) for purposes of
+paragraph 2C hereof only, a day on which Prudential is not open for business.
+
+          "CANCELLATION DATE" shall have the meaning specified in paragraph
+2I(3).
+
+          "CANCELLATION FEE" shall have the meaning specified in paragraph
+2I(3).
+
+          "CAPITAL LEASE OBLIGATION" shall mean any rental obligation which,
+under GAAP, is required to be capitalized on the books of the Company or any
+Subsidiary, taken at the amount thereof accounted for as indebtedness (net of
+interest expenses) in accordance with such principles.
+
+          "CHANGE IN CONTROL" shall mean (i) the acquisition by any Person, or
+two or more Persons acting in concert, of beneficial ownership (within the
+meaning of Rule 13d-3 of the SEC under the Exchange Act) of thirty percent (30%)
+or more of the aggregate ordinary voting power represented by the issued and
+outstanding capital stock of the Company; or (ii) the majority of the board of
+directors of the Company fails to consist of Continuing Directors (other than
+due to death or disability).
+
+          "CLOSING DAY" shall mean, with respect to the Series A Notes, the
+Series A Closing and, with respect to any Accepted Note, the Business Day
+specified for the closing of the purchase and sale of such Accepted Note in the
+Request for Purchase of such Accepted Note, provided that (i) if the Company and
+the Purchasers which are obligated to purchase such Note agree in writing on an
+earlier Business Day for such closing, the "CLOSING DAY" for such Accepted Note
+shall be such earlier Business Day, and (ii) if the closing of the purchase and
+sale of such Accepted Note is rescheduled pursuant to paragraph 2H, the Closing
+Day for such Accepted Note, for all purposes of this Agreement except references
+to "original Closing Day" in paragraph 2I(2), shall mean the Rescheduled Closing
+Day with respect to such Accepted Note.
+
+          "CODE" shall mean the Internal Revenue Code of 1986, as amended.
+
+
+                                       27
+
+<PAGE>
+
+          "CONFIRMATION OF ACCEPTANCE" shall have the meaning specified in
+paragraph 2F.
+
+          "CONSOLIDATED CAPITALIZATION" means the sum of (i) Consolidated Debt
+and (ii) Consolidated Net Worth.
+
+          "CONSOLIDATED DEBT" means at any date the Debt of the Company and its
+Consolidated Subsidiaries determined on a consolidated basis as of such date.
+
+          "CONSOLIDATED NET WORTH" means the sum of (i) the par value (or value
+stated on the books of the Company) of all classes of capital stock of the
+Company and its Subsidiaries, excluding the Company's capital stock owned by the
+Company and/or its Subsidiaries, plus (or minus in the case of a surplus
+deficit) (ii) the amount of the consolidated surplus, whether capital or earned,
+of the Company, determined in accordance with GAAP as of the end of the most
+recent calendar month (excluding (x) cumulative charges of up to $300 million to
+consolidated surplus resulting from, or in anticipation of, discontinuation of
+FASB 71, accounting for all or part of the business and (y) the effect on the
+Company's accumulated other comprehensive income/loss of the ongoing application
+of FASB 133).
+
+          "CONSOLIDATED SUBSIDIARY" shall mean at any date any Subsidiary or
+other entity the accounts of which would be consolidated with those of the
+Company in its consolidated financial statements if such statements were
+prepared as of such date.
+
+          "CONTINUING DIRECTOR" shall mean, with respect to any Person as of any
+date of determination, any member of the board of directors of such Person who
+(i) was a member of such board of directors on the date of this Agreement, or
+(ii) was nominated for election or elected to such board of directors with the
+approval of a majority of the Continuing Directors who were members of such
+board at the time of such nomination or election.
+
+          "DEBT" shall mean as to any Person at any date (without duplication):
+(a) indebtedness created, issued, incurred or assumed by such Person for
+borrowed money or evidenced by bonds, debentures, notes or similar instruments;
+(b) all obligations of such Person to pay the deferred purchase price of
+property or services, excluding, however, trade accounts payable (other than for
+borrowed money) arising in, and accrued expenses incurred in, the ordinary
+course of business of such Person so long as such trade accounts payable are
+paid within 180 days of the date incurred; (c) all Debt secured by a Lien on any
+asset of such Person, to the extent such Debt has been assumed by, or is a
+recourse obligation of, such Person; (d) all Guarantees by such Person; (e) all
+Capital Lease Obligations of such Person; and (f) the amount of all
+reimbursement obligations of such Person (whether contingent or otherwise) in
+respect of letters of credit, bankers' acceptances, surety or other bonds and
+similar instruments in support of Debt.
+
+          "DEFAULT RATE" shall mean, for any Note at any time upon the
+occurrence of an Event of Default and until such Event of Default has been cured
+or waived in writing, a rate of interest per annum from time to time equal to
+the lesser of (i) the maximum rate permitted by applicable law and (ii) the
+greater of (a) 2% over the coupon rate for such Note in effect
+
+
+                                       28
+
+<PAGE>
+
+immediately prior to such Event of Default and (b) 2.0% over the rate of
+interest publicly announced by The Bank of New York from time to time in New
+York City as its Prime Rate.
+
+          "DELAYED DELIVERY FEE" shall have the meaning specified in paragraph
+2I(2).
+
+          "DERIVATIVE OBLIGATIONS" of any Person shall mean all obligations of
+such Person in respect of any rate swap transaction, basis swap, forward rate
+transaction, commodity swap, commodity option, equity or equity index swap,
+equity or equity index option, bond option, interest rate option, foreign
+exchange transaction, cap transaction, floor transaction, collar transaction,
+currency swap transaction, cross-currency rate swap transaction, currency option
+or any other similar transaction (including any option with respect to any of
+the foregoing transactions) or any combination of the foregoing transactions.
+For the purposes of paragraph 7A(iii) hereof, the amount of any Derivative
+Obligation shall be the amount of the net termination liability of the Company
+or APS thereunder.
+
+          "ERISA" shall mean the Employee Retirement Income Security Act of
+1974, as amended.
+
+          "ERISA AFFILIATE" shall mean any corporation which is a member of the
+same controlled group of corporations as the Company within the meaning of
+section 414(b) of the Code, or any trade or business which is under common
+control with the Company within the meaning of section 414(c) of the Code.
+
+          "EVENT OF DEFAULT" shall mean any of the events specified in paragraph
+7A, provided that there has been satisfied any requirement in connection with
+such event for the giving of notice, or the lapse of time, or the happening of
+any further condition, event or act, and "DEFAULT" shall mean an event which but
+for the lapse of time or the giving of notice, or both, would constitute an
+Event of Default.
+
+          "EXCHANGE ACT" shall mean the Securities Exchange Act of 1934, as
+amended.
+
+          "FACILITY" shall have the meaning specified in paragraph 2A.
+
+          "GAAP" shall have the meaning set forth in paragraph 10C.
+
+          "GUARANTEE" shall mean, as to any Person, any obligation, contingent
+or otherwise, of such Person directly or indirectly guaranteeing any Debt of any
+other Person or in any manner providing for the payment of any Debt of any other
+Person or otherwise protecting the holder of such Debt against loss (whether by
+virtue of partnership arrangements, agreements to keep well, to purchase assets,
+goods, securities or services, or to take-or-pay or otherwise), provided that
+the term "Guarantee" shall not include endorsements for collection or deposit in
+the ordinary course of business. The term "Guarantee" used as a verb has a
+corresponding meaning.
+
+          "HEDGE TREASURY NOTE(S)" shall mean, with respect to any Accepted
+Note, the United States Treasury Note or Notes whose duration (as determined by
+Prudential) most closely matches the duration of such Accepted Note.
+
+
+                                       29
+
+<PAGE>
+
+          "HOSTILE TENDER OFFER" shall mean, with respect to the use of proceeds
+of any Note, any offer to purchase, or any purchase of, shares of capital stock
+of any corporation or equity interests in any other entity, or securities
+convertible into or representing the beneficial ownership of, or rights to
+acquire, any such shares or equity interests, if such shares, equity interests,
+securities or rights are of a class which is publicly traded on any securities
+exchange or in any over-the-counter market, other than purchases of such shares,
+equity interests, securities or rights representing less than 5% of the equity
+interests or beneficial ownership of such corporation or other entity for
+portfolio investment purposes, and such offer or purchase has not been duly
+approved by the board of directors of such corporation or the equivalent
+governing body of such other entity prior to the date on which the Company makes
+the Request for Purchase of such Note.
+
+          "INCLUDING" shall mean, unless the context clearly requires otherwise,
+"including without limitation".
+
+          "INDEBTEDNESS" shall mean as to any Person at any date (without
+duplication) indebtedness created, issued, incurred or assumed by such Person
+for borrowed money or evidenced by bonds, debentures, notes or similar
+instruments.
+
+          "INHAM EXEMPTION" shall have the meaning set forth in paragraph 9B.
+
+          "INSTITUTIONAL INVESTOR" shall mean (i) any original purchaser of a
+Note, (ii) any holder of a Note holding more than 10% of the aggregate principal
+amount of the Notes then outstanding, and (iii) any bank, trust company, savings
+and loan association or other financial institution, any pension plan, any
+registered investment company, any insurance company, any broker or dealer, or
+any other similar financial institution or entity, regardless of legal form.
+
+          "ISSUANCE FEE" shall have the meaning specified in paragraph 2I(1).
+
+          "ISSUANCE PERIOD" shall have the meaning specified in paragraph 2B.
+
+          "LIEN" shall mean, with respect to any asset, any mortgage, lien,
+pledge, charge, security interest or encumbrance of any kind, or any other type
+of preferential arrangement that has the practical effect of creating a security
+interest in respect of such asset. For purposes of this Agreement, the Company
+or any Subsidiary shall be deemed to own subject to a Lien any asset which it
+has acquired or holds subject to the interest of a vendor or lessor under any
+conditional sale agreement, capital lease or other title retention agreement
+relating to such asset.
+
+          "MATERIAL PLAN" shall mean at any time a Plan or Plans having
+aggregate Unfunded Liabilities in excess of $25,000,000.
+
+          "MULTIEMPLOYER PLAN" shall mean any Plan which is a "multiemployer
+plan" (as such term is defined in section 4001(a)(3) of ERISA).
+
+          "NAIC ANNUAL STATEMENT" shall have the meaning set forth in paragraph
+9B.
+
+          "NOTES" shall have the meaning specified in paragraph 1.
+
+
+                                       30
+
+<PAGE>
+
+          "OFFICER'S CERTIFICATE" shall mean a certificate signed in the name of
+the Company by an Authorized Officer of the Company.
+
+          "PBGC" shall mean the Pension Benefit Guaranty Corporation or any
+entity succeeding to any or all of its functions under ERISA.
+
+          "PERSON" shall mean and include an individual, a partnership, a joint
+venture, a limited liability company, a corporation, a trust, an unincorporated
+organization and a government or any department or agency thereof.
+
+          "PLAN" shall mean any employee pension benefit plan (as such term is
+defined in section 3 of ERISA) which is or has been established or maintained,
+or to which contributions are or have been made, by the Company or any ERISA
+Affiliate.
+
+          "PRUDENTIAL" shall mean Prudential Investment Management, Inc.
+
+          "PRUDENTIAL AFFILIATE" shall mean (i) any corporation or other entity
+controlling, controlled by, or under common control with, Prudential either
+directly or through subsidiaries and (ii) any managed account or investment fund
+which is managed by Prudential or a Prudential Affiliate described in clause (i)
+of this definition. For purposes of this definition, the terms "control",
+"controlling" and "controlled" shall mean the ownership, directly or through
+subsidiaries, of a majority of a corporation's or other entity's Voting Stock or
+equivalent voting securities or interests.
+
+          "PURCHASERS" shall mean The Prudential Insurance Company of America,
+Pruco Life Insurance Company, American Skandia Life Assurance Corporation,
+Prudential Retirement Insurance and Annuity Company, RGA Reinsurance Company,
+Union Security Insurance Company and American Security Insurance Company with
+respect to the Series A Notes and, with respect to any other Accepted Notes,
+Prudential and/or the Prudential Affiliate(s), which are purchasing such
+Accepted Notes.
+
+          "PWEC" shall mean Pinnacle West Energy Corporation, an Arizona
+corporation, and its successors.
+
+          "QPAM EXEMPTION" shall have the meaning set forth in paragraph 9B.
+
+          "REQUEST FOR PURCHASE" shall have the meaning specified in paragraph
+2D.
+
+          "REQUIRED HOLDER(S)" shall mean the holder or holders of at least
+66-2/3% of the aggregate principal amount of the Notes outstanding at such time.
+
+          "RESCHEDULED CLOSING DAY" shall have the meaning specified in
+paragraph 2H(3).
+
+          "RESPONSIBLE OFFICER" shall mean the chief executive officer, chief
+operating officer, chief financial officer, chief accounting officer, controller
+or treasurer of the Company or any other officer of the Company involved
+principally in its financial administration or its controllership function.
+
+
+                                       31
+
+<PAGE>
+
+          "SEC" shall mean the Securities and Exchange Commission (or any
+governmental body or agency succeeding to the function of the Securities and
+Exchange Commission.)
+
+          "SEC REPORTS" shall mean (i) the Company's Annual Report on Form 10-K
+for the year ended December 31, 2004; the Company's Quarterly Reports on Form
+10-Q for the quarters ended March 31, 2005, June 30, 2005 and September 30,
+2005; the Company's Current Reports on Form 8-K filed January 28, March 1, March
+29, April 13, April 26, May 2, May 19, May 25, June 17, June 22, July 25, July
+27, August 16, August 18, August 30, September 22, October 13, October 18,
+October 26, October 27, November 4, December 6, December 15, and December 22,
+2005 and January 5, January 9, January 10, January 26, February 1, February 3,
+and February 24, 2006, and (ii) as to any Accepted Notes (other than the Series
+A Notes), any future filings made by the Company with the SEC under Section
+13(a), 13(c), 14 or 15(d) of the Exchange Act prior to the Acceptance Day with
+respect to such Accepted Notes.
+
+          "SECURITIES ACT" shall mean the Securities Act of 1933, as amended.
+
+          "SERIES" shall have the meaning specified in paragraph 1.
+
+          "SERIES A CLOSING" shall have the meaning specified in paragraph
+2H(1).
+
+          "SERIES A NOTES" shall have the meaning specified in paragraph 2H(1).
+
+          "SIGNIFICANT HOLDER" shall mean (i) Prudential, so long as Prudential
+or any Prudential Affiliate shall hold (or be committed under this Agreement to
+purchase) any Note, or (ii) any other holder of at least 5% of the aggregate
+principal amount of the Notes from time to time outstanding.
+
+          "SIGNIFICANT SUBSIDIARY" shall mean means APS and each other
+Subsidiary of the Company (other than SunCor Development Company and any of its
+Subsidiaries) whose consolidated assets exceed 10% of the consolidated assets of
+the Company and its Consolidated Subsidiaries.
+
+          "SUBSIDIARY" shall mean, as to any Person, any corporation or other
+entity of which securities or other ownership interests having ordinary voting
+power to elect a majority of the board of directors or other persons performing
+similar functions are at the time directly or indirectly owned by such Person;
+unless otherwise specified, "Subsidiary" means a Subsidiary of the Company.
+
+          "TRANSFEREE" shall mean any direct or indirect transferee of all or
+any part of any Note purchased by any Purchaser under this Agreement.
+
+          "UNFUNDED LIABILITIES" shall mean, with respect to any Plan at any
+time, the amount (if any) by which (i) the value of all benefit liabilities
+under such Plan, determined on a plan termination basis using the assumptions
+prescribed by the PBGC for purposes of Section 4044 of ERISA, exceeds (ii) the
+fair market value of all Plan assets allocable to such liabilities under Title
+IV of ERISA (excluding any accrued but unpaid contributions), all determined as
+of the then most recent valuation date for such Plan, but only to the extent
+that such excess
+
+
+                                       32
+
+<PAGE>
+
+represents a potential liability of an ERISA Affiliate to the PBGC or any other
+Person under Title IV of ERISA.
+
+          "USA PATRIOT ACT" shall mean United States Public Law 107-56, Uniting
+and Strengthening America by Providing Appropriate Tools Required to Intercept
+and Obstruct Terrorism (USA PATRIOT Act) Act of 2001, as amended from time to
+time, and the rules and regulations promulgated thereunder from time to time in
+effect.
+
+          "VOTING STOCK" shall mean, with respect to any corporation, any shares
+of stock of such corporation whose holders are entitled under ordinary
+circumstances to vote for the election of directors of such corporation
+(irrespective of whether at the time stock of any other class or classes shall
+have or might have voting power by reason of the happening of any contingency).
+
+          10C. ACCOUNTING PRINCIPLES, TERMS AND DETERMINATIONS. All references
+in this Agreement to "GAAP" shall be deemed to refer to generally accepted
+accounting principles in effect in the United States at the time of application
+thereof. Unless otherwise specified herein, all accounting terms used herein
+shall be interpreted, all determinations with respect to accounting matters
+hereunder shall be made, and all unaudited financial statements and certificates
+and reports as to financial matters required to be furnished hereunder shall be
+prepared, in accordance with GAAP applied on a basis consistent (except for
+changes concurred in by the Company's independent public accountants) with the
+most recent audited financial statements delivered pursuant to clause (ii) of
+paragraph 5A or, if no such statements have been so delivered, the most recent
+audited financial statements referred to in clause (i) of paragraph 8B.
+
+          11. MISCELLANEOUS.
+
+          11A. NOTE PAYMENTS. The Company agrees that, so long as any Purchaser
+shall hold any Note, it will make payments of principal of, interest on, and any
+Yield-Maintenance Amount payable with respect to, such Note, which comply with
+the terms of this Agreement, by wire transfer of immediately available funds for
+credit (not later than 11:00 a.m., New York City local time, on the date due) to
+the account or accounts of such Purchaser, if any, as are specified in the
+Purchaser Schedule attached hereto or to the applicable Confirmation of
+Acceptance, or, in the case of any Purchaser not named in such Purchaser
+Schedule or any Purchaser wishing to change the account specified for it in the
+Purchaser Schedule, such account or accounts in the United States as such
+Purchaser may from time to time designate in writing, notwithstanding any
+contrary provision herein or in any Note with respect to the place of payment.
+Each Purchaser agrees that, before disposing of any Note, it will make a
+notation thereon (or on a schedule attached thereto) of all principal payments
+previously made thereon and of the date to which interest thereon has been paid.
+The Company agrees to afford the benefits of this paragraph 11A to any
+Transferee which shall have made the same agreement as the Purchasers have made
+in this paragraph 11A. No holder shall be required to present or surrender any
+Note or make any notation thereon, except that upon written request of the
+Company made concurrently with or reasonably promptly after payment or
+prepayment in full of any Note, the applicable holder shall surrender such Note
+for cancellation, reasonably promptly after any such request, to the Company at
+its principal executive office.
+
+
+                                       33
+
+<PAGE>
+
+          11B. EXPENSES. The Company agrees, whether or not the transactions
+contemplated hereby shall be consummated, to pay, and save Prudential, each
+Purchaser and any Transferee harmless against liability for the payment of, all
+reasonable out-of-pocket expenses arising in connection with such transactions,
+consisting of the following:
+
+          (i) (A) all stamp and documentary taxes and similar charges and (B)
+     costs of obtaining a private placement number from S&P for the Notes, in
+     each case as a result of the execution and delivery of this Agreement or
+     the issuance of the Notes;
+
+          (ii) reasonable document production and duplication charges and the
+     fees and reasonable expenses of any special counsel engaged by Prudential
+     or such Purchaser or such Transferee in connection with (A) the execution
+     and delivery of this Agreement and the transactions contemplated hereby and
+     each issuance of Notes hereunder and (B) any subsequent proposed waiver,
+     amendment or modification of, or proposed consent under, this Agreement,
+     whether or not such proposed action shall be effected or granted;
+
+          (iii) the costs and expenses, including attorneys' and financial
+     advisory fees, incurred by Prudential or such Purchaser or such Transferee
+     in enforcing (or determining whether or how to enforce) any rights under
+     this Agreement or the Notes or in responding to any subpoena or other legal
+     process or informal investigative demand issued in connection with this
+     Agreement or the transactions contemplated hereby or by reason of
+     Prudential or such Purchaser's or such Transferee's having acquired any
+     Note, including without limitation costs and expenses incurred in any
+     workout, restructuring or renegotiation proceeding or bankruptcy case; and
+
+          (iv) any judgment, liability, claim, order, decree, cost, fee,
+     expense, action or obligation incurred in connection with any
+     investigative, administrative or judicial proceeding brought or threatened
+     relating to or resulting from the consummation of the transactions
+     contemplated hereby, including the use of the proceeds of the Notes by the
+     Company except to the extent resulting from the gross negligence or willful
+     misconduct of the payee or any of its affiliates or agents as determined by
+     a court of competent jurisdiction.
+
+          The Company will promptly pay or reimburse each Purchaser or holder of
+a Note (upon demand, in accordance with each such Purchaser's or holder's
+written instructions) for all fees and costs paid or payable by such Purchaser
+or holder to the Securities Valuation Office of the National Association of
+Insurance Commissioners ("SVO") in connection with the initial filing of this
+Agreement and all related documents and financial information, and all
+subsequent annual and interim filings of documents and financial information
+related to this Agreement, with the SVO or any successor organization acceding
+to the authority thereof.
+
+          The obligations of the Company under this paragraph 11B shall survive
+the transfer of any Note or portion thereof or interest therein by any Purchaser
+or Transferee and the payment of any Note.
+
+          11C. CONSENT TO AMENDMENTS. This Agreement may be amended, and the
+Company may take any action herein prohibited, or omit to perform any act herein
+required to be
+
+
+                                       34
+
+<PAGE>
+
+performed by it, if the Company shall obtain the written consent to such
+amendment, action or omission to act, of the Required Holder(s) except that, (i)
+with the written consent of the holders of all Notes of a particular Series, and
+if an Event of Default shall have occurred and be continuing, of the holders of
+all Notes of all Series, at the time outstanding (and not without such written
+consents), the Notes of such Series may be amended or the provisions thereof
+waived to change the maturity thereof, to change or affect the principal
+thereof, or to change or affect the time of payment of, or decrease the rate of,
+interest on or any Yield-Maintenance Amount payable with respect to the Notes of
+such Series, (ii) without the written consent of the holder or holders of all
+Notes at the time outstanding, no amendment to or waiver of the provisions of
+this Agreement shall change or affect the provisions of paragraph 7A or this
+paragraph 11C insofar as such provisions relate to proportions of the principal
+amount of the Notes of any Series, or the rights of any individual holder of
+Notes, required with respect to any declaration of Notes to be due and payable
+or with respect to any consent, amendment, waiver or declaration, (iii) with the
+written consent of Prudential (and not without the written consent of
+Prudential) the provisions of paragraph 2 may be amended or waived (except
+insofar as any such amendment or waiver would affect any rights or obligations
+with respect to the purchase and sale of Notes which shall have become Accepted
+Notes prior to such amendment or waiver), and (iv) with the written consent of
+all of the Purchasers which shall have become obligated to purchase Accepted
+Notes of any Series (and not without the written consent of all such
+Purchasers), any of the provisions of paragraphs 2 and 3 may be amended or
+waived insofar as such amendment or waiver would affect only rights or
+obligations with respect to the purchase and sale of the Accepted Notes of such
+Series or the terms and provisions of such Accepted Notes. Each holder of any
+Note at the time or thereafter outstanding shall be bound by any consent
+authorized by this paragraph 11C, whether or not such Note shall have been
+marked to indicate such consent, but any Notes issued thereafter may bear a
+notation referring to any such consent. No course of dealing between the Company
+and the holder of any Note nor any delay in exercising any rights hereunder or
+under any Note shall operate as a waiver of any rights of any holder of such
+Note. As used herein and in the Notes, the term "THIS AGREEMENT" and references
+thereto shall mean this Agreement as it may from time to time be amended or
+supplemented.
+
+          11D. FORM, REGISTRATION, TRANSFER AND EXCHANGE OF NOTES; LOST NOTES.
+The Notes are issuable as registered notes without coupons in denominations of
+at least $2,500,000, except as may be necessary to reflect any principal amount
+not evenly divisible by $2,500,000. The Company shall keep at its principal
+office a register in which the Company shall provide for the registration of
+Notes and of transfers of Notes. Upon surrender for registration of transfer of
+any Note at the principal office of the Company, the Company shall, at its
+expense, execute and deliver one or more new Notes of like tenor and of a like
+aggregate principal amount, registered in the name of such transferee or
+transferees. At the option of the holder of any Note, such Note may be exchanged
+for other Notes of like tenor and of any authorized denominations, of a like
+aggregate principal amount, upon surrender of the Note to be exchanged at the
+principal office of the Company. Whenever any Notes are so surrendered for
+exchange, the Company shall, at its expense, execute and deliver the Notes which
+the holder making the exchange is entitled to receive. Each installment of
+principal payable on each installment date upon each new Note issued upon any
+such transfer or exchange shall be in the same proportion to the unpaid
+principal amount of such new Note as the installment of principal payable on
+such date on the Note surrendered for registration of transfer or exchange bore
+to the unpaid principal amount of such Note. No reference need be made in any
+such new Note to any installment or installments of
+
+
+                                       35
+
+<PAGE>
+
+principal previously due and paid upon the Note surrendered for registration of
+transfer or exchange. Every Note surrendered for registration of transfer or
+exchange shall be duly endorsed, or be accompanied by a written instrument of
+transfer duly executed, by the holder of such Note or such holder's attorney
+duly authorized in writing. Any Note or Notes issued in exchange for any Note or
+upon transfer thereof shall carry the rights to unpaid interest and interest to
+accrue which were carried by the Note so exchanged or transferred, so that
+neither gain nor loss of interest shall result from any such transfer or
+exchange. Upon receipt of written notice from the holder of any Note of the
+loss, theft, destruction or mutilation of such Note and, in the case of any such
+loss, theft or destruction, upon receipt of such holder's unsecured indemnity
+agreement, or in the case of any such mutilation upon surrender and cancellation
+of such Note, the Company will make and deliver a new Note, of like tenor, in
+lieu of the lost, stolen, destroyed or mutilated Note. Any sale of Notes by a
+holder will be made in accordance with applicable securities laws. No holder of
+a Note will sell or otherwise transfer any Note to any Person described or
+designated in the Specially Designated Nationals and Blocked Persons List of the
+Office of Foreign Assets Control or in Section 1 of the Anti-Terrorism Order.
+
+          11E. PERSONS DEEMED OWNERS; PARTICIPATIONS. Prior to due presentment
+for registration of transfer, the Company may treat the Person in whose name any
+Note is registered as the owner and holder of such Note for the purpose of
+receiving payment of principal of and interest on, and any Yield-Maintenance
+Amount payable with respect to, such Note and for all other purposes whatsoever,
+whether or not such Note shall be overdue, and the Company shall not be affected
+by notice to the contrary. Subject to the preceding sentence, the holder of any
+Note may from time to time grant participations in all or any part of such Note
+to any Person on such terms and conditions as may be determined by such holder
+in its sole and absolute discretion, provided that, the Company shall continue
+to deal solely and directly with such holder, such holder's rights and
+obligations hereunder shall remain unchanged, and such holder shall retain the
+sole right to approve any amendment, modification or waiver of any provision .
+
+          11F. SURVIVAL OF REPRESENTATIONS AND WARRANTIES; ENTIRE AGREEMENT. All
+representations and warranties contained herein or made in writing by or on
+behalf of the Company in connection herewith shall survive the execution and
+delivery of this Agreement and the Notes, the transfer by any Purchaser of any
+Note or portion thereof or interest therein and the payment of any Note, and may
+be relied upon by any Transferee, regardless of any investigation made at any
+time by or on behalf of any Purchaser or any Transferee. Subject to the
+preceding sentence, this Agreement, the Notes and each Confirmation of
+Acceptance embody the entire agreement and understanding between the parties
+hereto with respect to the subject matter hereof and supersede all prior
+agreements and understandings relating to such subject matter.
+
+          11G. SUCCESSORS AND ASSIGNS. All covenants and other agreements in
+this Agreement contained by or on behalf of any of the parties hereto shall bind
+and inure to the benefit of the respective successors and assigns of the parties
+hereto (including, without limitation, any Transferee) whether so expressed or
+not.
+
+          11H. INDEPENDENCE OF COVENANTS. All covenants hereunder shall be given
+independent effect so that if a particular action or condition is prohibited by
+any one of such covenants, the fact that it would be permitted by an exception
+to, or otherwise be in compliance
+
+
+                                       36
+
+<PAGE>
+
+within the limitations of, another covenant shall not avoid the occurrence of a
+Default or Event of Default if such action is taken or such condition exists.
+
+          11I. NOTICES. All written communications provided for hereunder (other
+than communications provided for under paragraph 2) shall be sent by first class
+mail or nationwide overnight delivery service (with charges prepaid) and (i) if
+to any Purchaser, addressed as specified for such communications in the
+Purchaser Schedule attached hereto or the Purchaser Schedule attached to the
+applicable Confirmation of Acceptance (in the case of any Notes issued after the
+date hereof) or at such other address as any such Purchaser shall have specified
+to the Company in writing, (ii) if to any other holder of any Note, addressed to
+it at such address as it shall have specified in writing to the Company, or, if
+any such holder shall not have so specified an address, then addressed to such
+holder in care of the last holder of such Note which shall have so specified an
+address to the Company and (iii) if to the Company, addressed to it at 400 North
+5th Street, 19th Floor, Phoenix, Arizona 85004, Attention: Treasurer, provided,
+however, that any such communication may also, at the option of the Person
+sending such communication, be delivered by any other means at the applicable
+address specified above, addressed to the attention of the person designated to
+receive such notice as provided in this paragraph 11I. Any communication
+pursuant to paragraph 2 shall be made by the method specified for such
+communication in paragraph 2, and shall be effective to create any rights or
+obligations under this Agreement only if, in the case of a telephone
+communication, an Authorized Officer of the party conveying the information and
+of the party receiving the information are parties to the telephone call, and in
+the case of a telecopier communication, the communication is signed by an
+Authorized Officer of the party conveying the information, addressed to the
+attention of an Authorized Officer of the party receiving the information, and
+in fact received at the telecopier terminal the number of which is listed for
+the party receiving the communication in the Purchaser Schedule or at such other
+telecopier terminal as the party receiving the information shall have specified
+in writing to the party sending such information.
+
+          11J. PAYMENTS DUE ON NON-BUSINESS DAYS. Anything in this Agreement or
+the Notes to the contrary notwithstanding, any payment of principal of or
+interest on, or Yield-Maintenance Amount payable with respect to, any Note that
+is due on a date other than a Business Day shall be made on the next succeeding
+Business Day without including the additional days elapsed in the computation of
+the interest payable on such next succeeding Business Day; provided that if the
+maturity date of any series of the Notes is a date other than a Business Day,
+then and in such event payment shall be made on the next succeeding Business
+Day, but shall include the additional days elapsed in the computation of
+interest payable on such next succeeding Business Day.
+
+          11K. SEVERABILITY. Any provision of this Agreement which is prohibited
+or unenforceable in any jurisdiction shall, as to such jurisdiction, be
+ineffective to the extent of such prohibition or unenforceability without
+invalidating the remaining provisions hereof, and any such prohibition or
+unenforceability in any jurisdiction shall not invalidate or render
+unenforceable such provision in any other jurisdiction.
+
+          11L. DESCRIPTIVE HEADINGS. The descriptive headings of the several
+paragraphs of this Agreement are inserted for convenience only and do not
+constitute a part of this Agreement.
+
+
+                                       37
+
+<PAGE>
+
+          11M. SATISFACTION REQUIREMENT. If any agreement, certificate or other
+writing, or any action taken or to be taken, is by the terms of this Agreement
+required to be satisfactory to Prudential, any Purchaser, to any holder of Notes
+or to the Required Holder(s), the determination of such satisfaction shall be
+made by Prudential, such Purchaser, such holder or the Required Holder(s), as
+the case may be, in the sole and exclusive judgment (exercised in good faith) of
+the Person or Persons making such determination.
+
+          11N. GOVERNING LAW. THIS AGREEMENT SHALL BE CONSTRUED AND ENFORCED IN
+ACCORDANCE WITH, AND THE RIGHTS OF THE PARTIES SHALL BE GOVERNED BY, THE LAW OF
+THE STATE OF NEW YORK.
+
+          11O. SEVERALTY OF OBLIGATIONS. The sales of Notes to the Purchasers
+are to be several sales, and the obligations of Prudential and the Purchasers
+under this Agreement are several obligations. No failure by Prudential or any
+Purchaser to perform its obligations under this Agreement shall relieve any
+other Purchaser or the Company of any of its obligations hereunder, and neither
+Prudential nor any Purchaser nor the Company shall be responsible for the
+obligations of, or any action taken or omitted by, any other such Person
+hereunder.
+
+          11P. COUNTERPARTS. This Agreement may be executed in any number of
+counterparts, each of which shall be an original, but all of which together
+shall constitute one instrument.
+
+          11Q. BINDING AGREEMENT. When this Agreement is executed and delivered
+by the Company and Prudential, it shall become a binding agreement between the
+Company and Prudential. This Agreement shall also inure to the benefit of each
+Purchaser which shall have executed and delivered a Confirmation of Acceptance,
+and each such Purchaser shall be bound by this Agreement to the extent provided
+in such Confirmation of Acceptance.
+
+          11R. WAIVER OF JURY TRIAL; CONSENT TO JURISDICTION.
+
+          (i) THE COMPANY, PRUDENTIAL AND EACH HOLDER OF NOTES HEREBY KNOWINGLY,
+     VOLUNTARILY, AND INTENTIONALLY WAIVES ANY RIGHTS IT MAY HAVE TO A TRIAL BY
+     JURY IN ANY LITIGATION OF ANY CLAIM WHICH IS BASED HEREON, OR ARISES OUT
+     OF, UNDER, OR IN CONNECTION WITH THIS AGREEMENT, THE NOTES OR THE OTHER
+     NOTE DOCUMENTS, OR ANY TRANSACTIONS RELATING HERETO OR THERETO, OR ANY
+     COURSE OF CONDUCT, COURSE OF DEALING, STATEMENTS (WHETHER ORAL OR WRITTEN),
+     OR ACTIONS OF THE COMPANY, PRUDENTIAL OR THE HOLDERS OF THE NOTES RELATING
+     HERETO OR THERETO. THE COMPANY ACKNOWLEDGES THAT THIS PROVISION IS A
+     MATERIAL INDUCEMENT FOR PRUDENTIAL AND EACH PURCHASER TO BECOME A PARTY TO
+     THIS AGREEMENT AND TO PURCHASE NOTES HEREUNDER.
+
+          (ii) ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS AGREEMENT,
+     THE NOTES, THE OTHER NOTE DOCUMENTS OR ANY TRANSACTIONS RELATING HERETO OR
+     THERETO, OR ANY COURSE OF
+
+
+                                       38
+
+<PAGE>
+
+     CONDUCT, COURSE OF DEALING, STATEMENTS (WHETHER ORAL OR WRITTEN), OR
+     ACTIONS OF THE COMPANY, PRUDENTIAL OR THE HOLDERS OF NOTES RELATING HERETO
+     OR THERETO MAY BE BROUGHT IN THE COURTS OF THE STATE OF NEW YORK OR THE
+     UNITED STATES OF AMERICA FOR THE SOUTHERN DISTRICT OF NEW YORK, AND THE
+     COMPANY HEREBY ACCEPTS FOR ITSELF, THE NONEXCLUSIVE JURISDICTION OF THE
+     AFORESAID COURTS. THE COMPANY, PRUDENTIAL AND EACH HOLDER OF NOTES HEREBY
+     IRREVOCABLY WAIVES TO THE FULLEST EXTENT PERMITTED BY LAW ANY OBJECTIONS,
+     INCLUDING, WITHOUT LIMITATION, ANY OBJECTION TO THE LAYING OF VENUE OR
+     BASED ON THE GROUNDS OF FORUM NON CONVENIENS, WHICH IT MAY NOW OR HEREAFTER
+     HAVE TO THE BRINGING OF ANY SUCH ACTION OR PROCEEDING IN SUCH RESPECTIVE
+     JURISDICTIONS.
+
+          11S. CONFIDENTIAL INFORMATION. For the purposes of this paragraph 11S,
+"CONFIDENTIAL INFORMATION" means information delivered to you by or on behalf of
+the Company or any Subsidiary in connection with the transactions contemplated
+by or otherwise pursuant to this Agreement that is proprietary in nature and
+that was clearly marked or labeled or otherwise adequately identified when
+received by you as being confidential information of the Company or such
+Subsidiary or was obtained pursuant to paragraphs 5A(v) or 5C hereof, provided
+that such term does not include information that (i) was publicly known, (ii)
+subsequently becomes publicly known through no act or omission by you or any
+person acting on your behalf, (iii) otherwise becomes known to you on a
+nonconfidential basis from a source other than the Company or any Subsidiary
+(provided that the source of such information was not known by the recipient
+after inquiry to be bound by a confidentiality agreement with or other
+contractual, legal or fiduciary obligation of confidentiality to the Company or
+any other person with respect to such information) or (iv) constitutes financial
+statements delivered to you under paragraph 5A that are otherwise publicly
+available. You will maintain the confidentiality of such Confidential
+Information in accordance with procedures adopted by you in good faith to
+protect confidential information of third parties delivered to you, provided
+that you may deliver or disclose Confidential Information to (a) your directors,
+officers, employees and attorneys (to the extent such disclosure reasonably
+relates to the administration of the investment represented by your Notes), (b)
+your agents, affiliates, financial advisors and other professional advisors who
+agree to hold confidential the Confidential Information substantially in
+accordance with the terms of this paragraph 11S, (c) any other holder of any
+Note, (d) any Institutional Investor to which you sell or offer to sell such
+Note or any part thereof or any participation therein (if such Person has agreed
+in writing prior to its receipt of such Confidential Information to be bound by
+the provisions of this paragraph 11S), (e) any Person from which you offer to
+purchase any security of the Company (if such Person has agreed in writing prior
+to its receipt of such Confidential Information to be bound by the provisions of
+this paragraph 11S), (f) any federal or state regulatory authority having
+jurisdiction over you, (g) the National Association of Insurance Commissioners
+or any similar organization, or any nationally recognized rating agency that
+requires access to information about your investment portfolio or (h) any other
+Person to which such delivery or disclosure may be necessary or appropriate (1)
+to effect compliance with any law, rule, regulation or order applicable to you,
+(2) in response to any subpoena or other legal process, (3) in connection with
+any litigation to which you are a party or (4) if an Event of Default has
+occurred and is continuing, to the extent you may reasonably determine such
+
+
+                                       39
+
+<PAGE>
+
+delivery and disclosure to be necessary or appropriate in the enforcement or for
+the protection of the rights and remedies under your Notes and this Agreement.
+Each holder of a Note, by its acceptance of a Note, will be deemed to have
+agreed to be bound by and to be entitled to the benefits of this paragraph 11S
+as though it were a party to this Agreement. On reasonable request by the
+Company in connection with the delivery to any holder of a Note of information
+required to be delivered to such holder under this Agreement or requested by
+such holder (other than a holder that is a party to this Agreement or its
+nominee), such holder will enter into an agreement with the Company embodying
+the provisions of this paragraph 11S.
+
+              (Remainder of the Page Blank: Signature Page Follows)
+
+
+                                       40
+
+<PAGE>
+\
+          If you are in agreement with the foregoing, please sign the form of
+acceptance on the enclosed counterpart of this letter and return the same to the
+Company, whereupon this letter shall become a binding agreement between the
+Company and you.
+
+                                        Very truly yours,
+
+                                        PINNACLE WEST CAPITAL
+                                        CORPORATION
+
+
+                                        By:  /s/ Barbara M. Gomez
+                                            ------------------------------------
+                                        Name: Barbara M. Gomez
+                                        Title: Vice President and Treasurer
+
+                                        The foregoing Agreement is hereby
+                                        accepted as of the date first above
+                                        written.
+
+
+                                        PRUDENTIAL INVESTMENT
+                                        MANAGEMENT, INC.
+
+
+                                        By:  /s/ Ric E. Abel
+                                            ------------------------------------
+                                             Ric E. Abel
+                                             Vice President
+
+                                        THE PRUDENTIAL INSURANCE COMPANY
+                                        OF AMERICA
+
+
+                                        By:  /s/ Ric E. Abel
+                                            ------------------------------------
+                                             Ric E. Abel
+                                             Vice President
+
+                                        PRUCO LIFE INSURANCE COMPANY
+
+
+                                        By:  /s/ Ric E. Abel
+                                            ------------------------------------
+                                             Ric E. Abel
+                                             Vice President
+
+                    SIGNATURE PAGE TO MASTER SHELF AGREEMENT
+
+<PAGE>
+
+                                        AMERICAN SKANDIA LIFE ASSURANCE
+                                        CORPORATION
+
+                                        By: Prudential Investment Management,
+                                            Inc., as investment manager
+
+
+                                        By: /s/ Ric E. Abel
+                                            ------------------------------------
+                                            Ric E. Abel
+                                            Vice President
+
+                                        PRUDENTIAL RETIREMENT INSURANCE
+                                        AND ANNUITY COMPANY
+
+                                        By: Prudential Investment Management,
+                                            Inc., as investment manager
+
+
+                                        By: /s/ Ric E. Abel
+                                            ------------------------------------
+                                            Ric E. Abel
+                                            Vice President
+
+                                        RGA REINSURANCE COMPANY
+
+                                        By: Prudential Private Placement
+                                            Investors, L.P. (as Investment
+                                            Advisor)
+
+                                        By: Prudential Private Placement
+                                            Investors, Inc. (as its General
+                                            Partner)
+
+
+                                        By: /s/ Ric E. Abel
+                                            ------------------------------------
+                                            Ric E. Abel
+                                            Vice President
+
+
+                                        2
+
+<PAGE>
+
+                                        UNION SECURITY INSURANCE COMPANY
+
+                                        By: Prudential Private Placement
+                                            Investors, L.P. (as Investment
+                                            Advisor)
+
+                                        By: Prudential Private Placement
+                                            Investors, Inc. (as its General
+                                            Partner)
+
+
+                                        By: /s/ Ric E. Abel
+                                            ------------------------------------
+                                            Ric E. Abel
+                                            Vice President
+
+                                        AMERICAN SECURITY INSURANCE
+                                        COMPANY
+
+                                        By: Prudential Private Placement
+                                            Investors, L.P. (as Investment
+                                            Advisor)
+
+                                        By: Prudential Private Placement
+                                            Investors, Inc. (as its General
+                                            Partner)
+
+
+                                        By: /s/ Ric E. Abel
+                                            ------------------------------------
+                                            Ric E. Abel
+                                            Vice President
+
+
+                                       3
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                                   AGGREGATE PRINCIPAL
+                                                                                     AMOUNT OF NOTES           NOTE
+                                                                                     TO BE PURCHASED     DENOMINATION(S)
+                                                                                   -------------------   ---------------
+<S>                                                                                <C>                   <C>
+     THE PRUDENTIAL INSURANCE COMPANY OF AMERICA                                       $105,200,000        $78,100,000
+                                                                                                           $22,100,000
+                                                                                                           $ 5,000,000
+
+(1)  All payments on account of Notes held by such purchaser shall be
+     made by wire transfer of immediately available funds for credit to:
+
+     JPMorgan Chase Bank, N.A.
+     New York, NY
+     ABA No.: 021-000-021
+     Account Name: Prudential Private Placement Servicing Account
+     Account No.: 304617040
+
+     Each such wire transfer shall set forth the name of the Company, a
+     reference to "5.91% Senior Notes, Series A, due 2011, Security No.
+     INV05539, PPN _____" and the due date and application (as among principal,
+     interest and Yield-Maintenance Amount) of the payment being made.
+
+(2)  Address for all notices relating to payments:
+
+     The Prudential Insurance Company of America
+     c/o Investment Operations Group
+     Gateway Center Two, 10th Floor
+     100 Mulberry Street
+     Newark, NJ 07102-4077
+
+     Attention: Manager, Billings and Collections
+
+(3)  Address for all other communications and notices:
+
+     The Prudential Insurance Company of America
+     c/o Prudential Capital Group
+     2200 Ross Avenue, Suite 4200E
+     Dallas, TX 75201
+
+     Attention: Managing Director
+
+(4)  Recipient of telephonic prepayment notices:
+
+     Manager, Trade Management Group
+
+     Telephone: (973) 367-3141
+     Facsimile: (888) 889-3832
+</TABLE>
+
+
+                                      PS-1
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                <C>                   <C>
+(5)  Address for Delivery of Notes:
+
+     Send physical security by nationwide overnight delivery service to:
+
+     Prudential Capital Group
+     2200 Ross Avenue, Suite 4200E
+     Dallas, TX 75201
+
+     Attention: William H. Bulmer
+     Telephone: (214) 720-6204
+
+(6)  Tax Identification No.: 22-1211670
+
+(7)  Authorized Officers:
+
+     Randall M. Kob
+     Ric E. Abel
+     Gwendolyn Foster
+     Andy Williams
+</TABLE>
+
+
+                                      PS-2
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                                   AGGREGATE PRINCIPAL
+                                                                                     AMOUNT OF NOTES           NOTE
+                                                                                     TO BE PURCHASED     DENOMINATION(S)
+                                                                                   -------------------   ---------------
+<S>                                                                                <C>                   <C>
+     PRUCO LIFE INSURANCE COMPANY                                                      $10,000,000         $10,000,000
+
+(1)  All payments on account of Notes held by such purchaser shall be made by
+     wire transfer of immediately available funds for credit to:
+
+     JPMorgan Chase Bank, N.A.
+     New York, NY
+     ABA No.: 021-000-021
+     Account Name: Prudential Private Placement Servicing Account
+     Account No.: 304617040
+
+     Each such wire transfer shall set forth the name of the Company, a
+     reference to "5.91% Senior Notes, Series A, due 2011, Security No.
+     INV05539, PPN _____", and the due date and application (as among principal,
+     interest and Yield-Maintenance Amount) of the payment being made.
+
+(2)  Address for all notices relating to payments:
+
+     Pruco Life Insurance Company
+     c/o The Prudential Insurance Company of America
+     c/o Investment Operations Group
+     Gateway Center Two, 10th Floor
+     100 Mulberry Street
+     Newark, NJ 07102-4077
+
+     Attention: Manager, Billings and Collections
+
+(3)  Address for all other communications and notices:
+
+     Pruco Life Insurance Company
+     c/o Prudential Capital Group
+     2200 Ross Avenue, Suite 4200E
+     Dallas, TX 75201
+
+     Attention: Managing Director
+
+(4)  Recipient of telephonic prepayment notices:
+
+     Manager, Trade Management Group
+
+     Telephone: (973) 367-3141
+     Facsimile: (888) 889-3832
+</TABLE>
+
+
+                                      PS-3
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                <C>                   <C>
+(5)  Address for Delivery of Notes:
+
+     Send physical security by nationwide overnight delivery service to:
+
+     Prudential Capital Group
+     2200 Ross Avenue, Suite 4200E
+     Dallas, TX 75201
+
+     Attention: William H. Bulmer
+     Telephone: (214) 720-6204
+
+(6)  Tax Identification No.: 22-1944557
+
+(7)  Authorized Officers:
+
+     Randall M. Kob
+     Ric E. Abel
+     Gwendolyn Foster
+     Andy Williams
+</TABLE>
+
+
+                                      PS-4
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                             AGGREGATE
+                                                                             PRINCIPAL
+                                                                          AMOUNT OF NOTES         NOTE
+                                                                          TO BE PURCHASED   DENOMINATION(S)
+                                                                          ---------------   ---------------
+<S>                                                                       <C>               <C>
+AMERICAN SKANDIA LIFE ASSURANCE CORPORATION                                  $1,900,000        $1,900,000
+
+(1) All payments on account of Notes held by such purchaser shall be
+    made by wire transfer of immediately available funds for credit to:
+
+    JPMorgan Chase Bank, N.A.
+    New York, NY
+    ABA No.: 021-000-021
+    Account Name: Prudential Private Placement Servicing Account
+    Account No.: 304617040
+
+    Each such wire transfer shall set forth the name of the Company, a
+    reference to "5.91% Senior Notes, Series A, due 2011, Security No.
+    INV05539, PPN _____" and the due date and application (as among
+    principal, interest and Yield-Maintenance Amount) of the payment
+    being made.
+
+(2) Address for all notices relating to payments:
+
+    The Prudential Insurance Company of America
+    c/o Investment Operations Group
+    Gateway Center Two, 10th Floor
+    100 Mulberry Street
+    Newark, NJ 07102-4077
+
+    Attention: Manager, Billings and Collections
+
+(3) Address for all other communications and notices:
+
+    The Prudential Insurance Company of America
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: Managing Director
+
+(4) Recipient of telephonic prepayment notices:
+
+    Manager, Trade Management Group
+
+    Telephone: (973) 367-3141
+    Facsimile: (888) 889-3832
+</TABLE>
+
+
+                                      PS-5
+
+<PAGE>
+
+<TABLE>
+<S>                                                                       <C>               <C>
+(5) Address for Delivery of Notes:
+
+    Send physical security by nationwide overnight delivery service to:
+
+    Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: William H. Bulmer
+    Telephone: (214) 720-6204
+
+(6) Tax Identification No.: 06-1241288
+</TABLE>
+
+
+                                      PS-6
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                             AGGREGATE
+                                                                             PRINCIPAL
+                                                                          AMOUNT OF NOTES         NOTE
+                                                                          TO BE PURCHASED   DENOMINATION(S)
+                                                                          ---------------   ---------------
+<S>                                                                       <C>               <C>
+    PRUDENTIAL RETIREMENT INSURANCE AND ANNUITY COMPANY                     $40,000,000       $40,000,000
+
+(1) All payments on account of Notes held by such purchaser shall be
+    made by wire transfer of immediately available funds for credit to:
+
+    JPMorgan Chase Bank, N.A.
+    New York, NY
+    ABA No.: 021-000-021
+    Account Name: Prudential Private Placement Servicing Account
+    Account No.: 304617040
+
+    Each such wire transfer shall set forth the name of the Company, a
+    reference to "5.91% Senior Notes, Series A, due 2011, Security No.
+    INV05539, PPN _____" and the due date and application (as among
+    principal, interest and Yield-Maintenance Amount) of the payment
+    being made.
+
+(2) Address for all notices relating to payments:
+
+    Prudential Retirement Insurance and Annuity Company
+    c/o Prudential Investment Management, Inc.
+    Private Placement Trade Management
+    PRIAC Administration
+    Gateway Center Four, 7th Floor
+    100 Mulberry Street
+    Newark, NJ 07102
+
+    Telephone: (973) 802-8107
+    Facsimile: (888) 889-3832
+
+(3) Address for all other communications and notices:
+
+    Prudential Retirement Insurance and Annuity Company
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: Managing Director
+</TABLE>
+
+
+                                      PS-7
+
+<PAGE>
+
+<TABLE>
+<S>                                                                       <C>               <C>
+(4) Address for Delivery of Notes:
+
+    Send physical security by nationwide overnight delivery service to:
+
+    Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: William H. Bulmer
+    Telephone: (214) 720-6204
+
+(5) Tax Identification No.: 06-1050034
+</TABLE>
+
+
+                                      PS-8
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                             AGGREGATE
+                                                                             PRINCIPAL
+                                                                          AMOUNT OF NOTES         NOTE
+                                                                          TO BE PURCHASED   DENOMINATION(S)
+                                                                          ---------------   ---------------
+<S>                                                                       <C>               <C>
+    RGA REINSURANCE COMPANY                                                  $7,500,000        $7,500,000
+
+    Notes/Certificates to be registered in the name of:
+    HARE & CO.
+
+(1) All payments on account of Notes held by such purchaser shall be
+    made by wire transfer of immediately available funds for credit to:
+
+    The Bank of New York
+    ABA No.: 021-000-018
+    BNF Account No. IOC566
+    Credit to: Hare & Co
+
+    Each such wire transfer shall set forth the name of the Company, a
+    reference to "5.91% Senior Notes, Series A, due 2011, PPN ____"
+    and the due date and application (as among principal, interest and
+    Yield-Maintenance Amount) of the payment being made.
+
+(2) All notices of payments and written confirmations of such wire
+    transfers:
+
+    RGA Reinsurance Company
+    Attn: Banking Dept.
+    1370 Timberlake Manor Parkway
+    Chesterfield, MO 63017-6039
+
+(3) Address for all other communications and notices:
+
+    Prudential Private Placement Investors, L.P.
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: Managing Director
+</TABLE>
+
+
+                                      PS-9
+
+<PAGE>
+
+<TABLE>
+<S>                                                                       <C>               <C>
+(4) Address for Delivery of Notes:
+
+    (a) Send physical security by nationwide overnight delivery service
+        to:
+
+        The Bank of New York
+        Securities Department
+        One Wall Street
+        3rd Floor - "A"
+        New York, NY 10286
+
+        Attention: Lucille Del Terzo
+        Telephone: (718) 315-3543
+        Facsimile: (718) 623-7572 or (718) 623-7575
+        E-mail: ldelterzo@bankofny.com
+
+        Please include in the cover letter accompanying the
+        Notes a reference to the Purchaser (RGA Private
+        Placement Prudential Financial Account No. 128863).
+
+    (b) Send copy by nationwide overnight delivery service to:
+
+        Prudential Capital Group
+        Gateway Center 4
+        100 Mulberry, 7th Floor
+        Newark, NJ 07102
+
+        Attention: Trade Management, Manager
+        Telephone: (973) 367-3141
+
+(5) Tax Identification No.: 43-1235868
+</TABLE>
+
+
+                                     PS-10
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                             AGGREGATE
+                                                                             PRINCIPAL
+                                                                          AMOUNT OF NOTES         NOTE
+                                                                          TO BE PURCHASED   DENOMINATION(S)
+                                                                          ---------------   ---------------
+<S>                                                                       <C>               <C>
+    UNION SECURITY INSURANCE COMPANY                                         $6,400,000        $6,400,000
+
+(1) All payments on account of Notes held by such purchaser shall be
+    made by wire transfer of immediately available funds for credit to:
+
+    M&I Marshall & Ilsley Bank
+    Milwaukee, WI
+    ABA No.: 075000051
+    DDA Account No.: 27006
+    Account Name: General Trust Fund
+    For further credit to Account No.: 89-0035-76-9
+    Account Name:  Union Security Prudential Private Placements
+
+    Each such wire transfer shall set forth the name of the Company, a
+    reference to "5.91% Senior Notes, Series A, due 2011, PPN ____" and
+    the due date and application (as among principal, interest and
+    Yield-Maintenance Amount) of the payment being made.
+
+(2) All notices of payments and written confirmations of such wire
+    transfers:
+
+    Marshall & Ilsley Trust Company
+    Asset Booking Department
+    11270 West Park Place, Suite 400
+    Milwaukee, WI 53224
+
+    Attention: Linda Harris-Murphy
+
+    Telephone: (414) 815-3635
+    Facsimile: (414) 815-3589
+
+    AND
+
+    Fortis, Inc.
+    One Chase Manhattan Plaza
+    New York, NY 10005
+
+    Attention: Kevin P. Mahoney
+               AVP, Investment Accounting & Treasury Operations
+
+    Telephone: (212) 859-7184
+    Facsimile: (212) 859-7043
+</TABLE>
+
+
+                                     PS-11
+
+<PAGE>
+
+<TABLE>
+<S>                                                                       <C>               <C>
+(3) Address for all other communications and notices:
+
+    Prudential Private Placement Investors, L.P.
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: Managing Director
+
+(4) Address for Delivery of Notes:
+
+    (a) Send physical security by nationwide overnight delivery service
+        to:
+
+        Marshall & Ilsley Trust Company
+        Asset Booking Department
+        11270 West Park Place, Suite 400
+        Milwaukee, WI 53224
+
+        Attention:  Linda Harris-Murphy
+        Phone: (414) 815-3635
+        Facsimile: (414) 815-3589
+
+        Please include in the cover letter accompanying the
+        Notes a reference to the Purchaser's account number
+        (Union Security - Prudential Private Placements;
+        Account Number: 89 0035 76 9)
+
+    (b) Send copy by nationwide overnight delivery service to:
+
+        Prudential Capital Group
+        Gateway Center 4
+        100 Mulberry, 7th Floor
+        Newark, NJ 07102
+
+        Attention: Trade Management, Manager
+        Telephone: (973) 367-3141
+
+(5) Tax Identification No.: 81-0170040
+</TABLE>
+
+
+                                     PS-12
+
+<PAGE>
+
+                               PURCHASER SCHEDULE
+
+<TABLE>
+<CAPTION>
+                                                                             AGGREGATE
+                                                                             PRINCIPAL
+                                                                          AMOUNT OF NOTES         NOTE
+                                                                          TO BE PURCHASED   DENOMINATION(S)
+                                                                          ---------------   ---------------
+<S>                                                                       <C>               <C>
+    AMERICAN SECURITY INSURANCE COMPANY                                      $4,000,000        $4,000,000
+
+(1) All payments on account of Notes held by such purchaser shall be
+    made by wire transfer of immediately available funds for credit to:
+
+    M&I Marshall & Ilsley Bank
+    Milwaukee, WI
+    ABA No.: 075000051
+    DDA Account No.: 27006
+    Account Name: General Trust Fund
+    For further credit to Account No.: 89-0035-89-2
+    Account Name: American Security Insurance Company Prudential
+
+                               Private Placements
+
+    Each such wire transfer shall set forth the name of the Company, a
+    reference to "5.91% Senior Notes, Series A, due 2011, PPN ____"
+    and the due date and application (as among principal, interest and
+    Yield-Maintenance Amount) of the payment being made.
+
+(2) All notices of payments and written confirmations of such wire
+    transfers:
+
+    Marshall & Ilsley Trust Company
+    Asset Booking Department
+    11270 West Park Place, Suite 400
+    Milwaukee, WI 53224
+
+    Attention: Linda Harris-Murphy
+
+    Telephone: (414) 815-3635
+    Facsimile: (414) 815-3589
+
+    AND
+
+    Fortis, Inc.
+    One Chase Manhattan Plaza
+    New York, NY 10005
+
+    Attention: Kevin P. Mahoney
+               AVP, Investment Accounting & Treasury Operations
+
+    Telephone: (212) 859-7184
+    Facsimile: (212) 859-7043
+</TABLE>
+
+
+                                     PS-13
+
+<PAGE>
+
+<TABLE>
+<S>                                                                       <C>               <C>
+(3) Address for all other communications and notices:
+
+    Prudential Private Placement Investors, L.P.
+    c/o Prudential Capital Group
+    2200 Ross Avenue, Suite 4200E
+    Dallas, TX 75201
+
+    Attention: Managing Director
+
+(4) Address for Delivery Notes:
+
+    (a) Send physical security by nationwide overnight delivery service
+        to:
+
+        Marshall & Ilsley Trust Company
+        Asset Booking Department
+        11270 West Park Place, Suite 400
+        Milwaukee, WI 53224
+
+        Attention:  Linda Harris-Murphy
+        Phone: (414) 815-3635
+        Facsimile: (414) 815-3589
+
+        Please include in the cover letter accompanying the Notes a
+        reference to the Purchaser's account number (American Security
+        Insurance Company Prudential
+        Private Placements; Account Number: 89 0035 89-2).
+
+    (b) Send copy by nationwide overnight delivery service to:
+
+        Prudential Capital Group
+        Gateway Center 4
+        100 Mulberry, 7th Floor
+        Newark, NJ 07102
+
+        Attention: Trade Management, Manager
+        Telephone: (973) 367-3141
+
+(5) Tax Identification No.: 58-1529575
+</TABLE>
+
+
+                                     PS-14
+
+<PAGE>
+
+                                                                     SCHEDULE 8G
+
+                       LIST OF AGREEMENTS RESTRICTING DEBT
+
+-    Amended and Restated Credit Agreement dated as of December 9, 2005 among
+     Pinnacle West Capital Corporation, the Lenders party thereto, JPMorgan
+     Chase Bank, N.A. as Administrative Agent, and the other agents party
+     thereto.
+
+<PAGE>
+
+                                                                     EXHIBIT A-1
+
+                                 [FORM OF NOTE]
+
+THIS NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED,
+AND MAY NOT BE SOLD OR TRANSFERRED IN ABSENCE OF SUCH REGISTRATION OR AN
+EXEMPTION THEREFROM UNDER SUCH ACT.
+
+                        PINNACLE WEST CAPITAL CORPORATION
+
+                           % SENIOR NOTE, SERIES , DUE
+
+No. R-
+ORIGINAL PRINCIPAL AMOUNT:
+ORIGINAL ISSUE DATE:
+INTEREST RATE:
+INTEREST PAYMENT DATES:
+FINAL MATURITY DATE:
+PRINCIPAL INSTALLMENT DATES AND AMOUNTS:
+
+          FOR VALUE RECEIVED, the undersigned, Pinnacle West Capital Corporation
+(herein called the "COMPANY"), a corporation organized and existing under the
+laws of the State of Arizona, hereby promises to pay to ______________, or
+registered assigns, the principal sum of ________________ DOLLARS [on the Final
+Maturity Date specified above] [, payable in installments on the Principal
+Installment Dates and in the amounts specified above, and on the Final Maturity
+Date specified above in an amount equal to the unpaid balance of the principal
+hereof,] with interest (computed on the basis of a 360-day year--30-day month)
+(a) on the unpaid balance hereof from the date hereof at the Interest Rate per
+annum specified above, payable on each Interest Payment Date specified above and
+on the Final Maturity Date specified above, commencing with the Interest Payment
+Date next succeeding the date hereof, until the principal hereof shall have
+become due and payable, and (b) on the occurrence and during the continuance of
+an Event of Default, at the Default Rate with respect to any outstanding
+principal hereof, any overdue payment of interest and any overdue payment of any
+Yield-Maintenance Amount, payable quarterly as aforesaid (or, at the option of
+the registered holder hereof, on demand).
+
+          Payments of principal of, interest on and any Yield-Maintenance Amount
+payable with respect to this Note are to be made at the main office of JPMorgan
+Chase Bank, N.A., in New York City or at such other place as the holder hereof
+shall designate to the Company in writing, in lawful money of the United States
+of America.
+
+          This Note is one of a series of Senior Notes (herein called the
+"NOTES") issued pursuant to an Uncommitted Master Shelf Agreement, dated as of
+February 28, 2006 (herein called the "AGREEMENT"), between the Company,
+Prudential Investment Management, Inc. and the Purchasers named therein and is
+entitled to the benefits thereof. As provided in the Agreement, this Note is
+subject to optional prepayment, in whole or from time to time in part on the
+terms specified in the Agreement. Capitalized terms used and not otherwise
+defined herein have the meanings specified in the Agreement.
+
+
+                                      A-1-1
+
+<PAGE>
+
+          This Note is a registered Note and, as provided in the Agreement, upon
+surrender of this Note for registration of transfer, duly endorsed, or
+accompanied by a written instrument of transfer duly executed, by the registered
+holder hereof or such holder's attorney duly authorized in writing, a new Note
+for a like principal amount will be issued to, and registered in the name of,
+the transferee. Prior to due presentment for registration of transfer, the
+Company may treat the person in whose name this Note is registered as the owner
+hereof for the purpose of receiving payment and for all other purposes, and the
+Company shall not be affected by any notice to the contrary.
+
+          In case an Event of Default, as defined in the Agreement, shall occur
+and be continuing, the principal of this Note may be declared or otherwise
+become due and payable in the manner and with the effect provided in the
+Agreement.
+
+          THIS NOTE IS INTENDED TO BE PERFORMED IN THE STATE OF NEW YORK AND
+SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH THE LAW OF SUCH STATE.
+
+                                        PINNACLE WEST CAPITAL CORPORATION
+
+
+                                        By:
+                                            ------------------------------------
+                                            [TITLE]
+
+
+                                      A-1-2
+
+<PAGE>
+
+                                                                     EXHIBIT A-2
+
+                             [FORM OF SERIES A NOTE]
+
+THIS NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED,
+AND MAY NOT BE SOLD OR TRANSFERRED IN ABSENCE OF SUCH REGISTRATION OR AN
+EXEMPTION THEREFROM UNDER SUCH ACT.
+
+                        PINNACLE WEST CAPITAL CORPORATION
+
+               5.91% SENIOR NOTE, SERIES A, DUE FEBRUARY 28, 2011
+
+No. R-A-__                   PPN: _________
+ORIGINAL PRINCIPAL AMOUNT:   $_____________
+ORIGINAL ISSUE DATE:         February 28, 2006
+INTEREST RATE:               5.91%
+INTEREST PAYMENT DATES:      March 31, June 30, September 30 and
+                             December 31 of each year,
+                             commencing on March 31, 2006
+FINAL MATURITY DATE:         February 28, 2011
+
+          FOR VALUE RECEIVED, the undersigned, Pinnacle West Capital Corporation
+(herein called the "COMPANY"), a corporation organized and existing under the
+laws of the State of Arizona, hereby promises to pay to
+_______________________________, or registered assigns, the principal sum of
+_______________________ AND NO/100'S DOLLARS ($________) on the Final Maturity
+Date specified above with interest (computed on the basis of a 360-day
+year--30-day month) (a) on the unpaid balance hereof from the date hereof at the
+Interest Rate per annum specified above, payable on each Interest Payment Date
+specified above and on the Final Maturity Date specified above, commencing with
+the Interest Payment Date next succeeding the date hereof, until the principal
+hereof shall have become due and payable, and (b) on the occurrence and during
+the continuance of an Event of Default, at the Default Rate with respect to any
+outstanding principal hereof, any overdue payment of interest and any overdue
+payment of any Yield-Maintenance Amount, payable quarterly as aforesaid (or, at
+the option of the registered holder hereof, on demand).
+
+          Payments of principal of, interest on and any Yield-Maintenance Amount
+payable with respect to this Note are to be made at the main office of JPMorgan
+Chase Bank, N.A., in New York City or at such other place as the holder hereof
+shall designate to the Company in writing, in lawful money of the United States
+of America.
+
+          This Note is one of a series of Senior Notes (herein called the
+"NOTES") issued pursuant to an Uncommitted Master Shelf Agreement, dated as of
+February 28, 2006 (herein called the "AGREEMENT"), between the Company,
+Prudential Investment Management, Inc. and the Purchasers named therein and is
+entitled to the benefits thereof. As provided in the Agreement, this Note is
+subject to optional prepayment, in whole or from time to time in part on the
+terms specified in the Agreement. Capitalized terms used and not otherwise
+defined herein have the meanings specified in the Agreement.
+
+
+                                     A-2-1
+
+<PAGE>
+
+          This Note is a registered Note and, as provided in the Agreement, upon
+surrender of this Note for registration of transfer, duly endorsed, or
+accompanied by a written instrument of transfer duly executed, by the registered
+holder hereof or such holder's attorney duly authorized in writing, a new Note
+for a like principal amount will be issued to, and registered in the name of,
+the transferee. Prior to due presentment for registration of transfer, the
+Company may treat the person in whose name this Note is registered as the owner
+hereof for the purpose of receiving payment and for all other purposes, and the
+Company shall not be affected by any notice to the contrary.
+
+          In case an Event of Default, as defined in the Agreement, shall occur
+and be continuing, the principal of this Note may be declared or otherwise
+become due and payable in the manner and with the effect provided in the
+Agreement.
+
+          THIS NOTE IS INTENDED TO BE PERFORMED IN THE STATE OF NEW YORK AND
+SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH THE LAW OF SUCH STATE.
+
+                                        PINNACLE WEST CAPITAL CORPORATION
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                     A-2-2
+
+<PAGE>
+
+                                                                       EXHIBIT B
+
+                      [TO BE PLACED ON COMPANY LETTERHEAD]
+
+                         [FORM OF REQUEST FOR PURCHASE]
+
+                        PINNACLE WEST CAPITAL CORPORATION
+
+          Reference is made to the Master Shelf Agreement (the "AGREEMENT"),
+dated as of February 28, 2006, between Pinnacle West Capital Corporation (the
+"COMPANY"), Prudential Investment Management, Inc. and the Purchasers named
+therein. All terms used herein that are defined in the Agreement have the
+respective meanings specified in the Agreement.
+
+          Pursuant to paragraph 2D of the Agreement, the Company hereby makes
+the following Request for Purchase:
+
+          1.   Aggregate principal amount of
+               the Notes covered hereby
+               (the "Notes")                             $____________
+
+          2.   Individual specifications of the Notes:
+
+<TABLE>
+<CAPTION>
+                                 Principal
+Principal   Final Maturity   Installment Dates   Designated
+  Amount         Date           and Amounts        Spread
+---------   --------------   -----------------   ----------
+<S>         <C>              <C>                 <C>
+
+</TABLE>
+
+          3.   Use of proceeds of the Notes:
+
+          4.   Proposed day for the closing of the purchase and sale of the
+               Notes:
+
+          5.   The purchase price of the Notes is to be transferred to:
+
+<TABLE>
+<CAPTION>
+                                               Name and Telephone No. of Bank
+Name and Address of Bank   Number of Account               Officer
+------------------------   -----------------   ------------------------------
+<S>                        <C>                 <C>
+
+</TABLE>
+
+          6.   The Company certifies (a) that the representations and warranties
+               contained in paragraph 8 of the Agreement are true on and as of
+               the date of this Request for Purchase except to the extent of
+               changes caused by the transactions contemplated in the Agreement
+               and (b) that there exists on the date of this Request for
+               Purchase no Event of Default or Default.
+
+
+                                      B-1
+
+<PAGE>
+
+Dated:
+       ------------------
+
+                                        PINNACLE WEST CAPITAL CORPORATION
+
+
+                                        By:
+                                            ------------------------------------
+                                            Authorized Officer
+
+
+                                      B-2
+
+<PAGE>
+
+                                                                       EXHIBIT C
+
+                      [FORM OF CONFIRMATION OF ACCEPTANCE]
+
+                        PINNACLE WEST CAPITAL CORPORATION
+
+          Reference is made to the Master Shelf Agreement (the "Agreement"),
+dated as of February 28, 2006, between Pinnacle West Capital Corporation (the
+"Company"), Prudential Investment Management, Inc. and the Purchasers named
+therein. All terms used herein that are defined in the Agreement have the
+respective meanings specified in the Agreement.
+
+          Each of the undersigned institutions which is named below as a
+Purchaser of any Accepted Notes hereby confirms the representations as to such
+Accepted Notes set forth in paragraph 9 of the Agreement, and agrees to be bound
+by the provisions of paragraphs 2F and 2H of the Agreement relating to the
+purchase and sale of such Accepted Notes.
+
+          Pursuant to paragraph 2F of the Agreement, an Acceptance with respect
+to the following Accepted Notes is hereby confirmed:
+
+I.   Aggregate principal amount $
+     (A)  (a) Name of Purchaser:
+          (b) Principal amount:
+          (c) Final maturity date:
+          (d) Principal installment dates and amounts:
+          (e) Interest rate:
+          (f) Payment and notice instructions: As set forth on attached
+              Purchaser Schedule
+          (g) Designated spread:
+
+     (B)  (a) Name of Purchaser:
+          (b) Principal amount:
+          (c) Final maturity date:
+          (d) Principal installment dates and amounts:
+          (e) Interest rate:
+          (f) Payment and notice instructions: As set forth on attached
+              Purchaser Schedule
+          (g) Designated spread:
+
+     [(C),(D) ....: same information as to any other Purchaser
+
+II.  Closing Day:
+
+III. Issuance Fee:
+
+Dated:
+       ------------------
+
+
+                                      C-1
+
+<PAGE>
+
+                                        PINNACLE WEST CAPITAL CORPORATION
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+
+
+                                        PRUDENTIAL INVESTMENT MANAGEMENT, INC.
+
+
+                                        By:
+                                            ------------------------------------
+                                            Vice President
+
+[Signature block for each named Purchaser other than Prudential]
+
+
+                                      C-2
+
+<PAGE>
+
+                                                                       EXHIBIT D
+
+               [FORM OF WRITTEN FUNDING INSTRUCTIONS]
+
+                             [Company's Letterhead]
+
+[NAMES AND ADDRESSES OF PURCHASERS]
+
+               Re: FUNDS DELIVERY INSTRUCTION
+
+Ladies and Gentlemen:
+
+          As contemplated by paragraph 2 of the Uncommitted Master Shelf
+Agreement, dated as of February 28, 2006, among you, Prudential Investment
+Management, Inc. and the Purchasers named therein, the undersigned hereby
+instructs you to deliver, on the date of closing, the proceeds of the Notes in
+the manner required by paragraph 2 to the undersigned's account identified
+below:
+
+          Account Name: ______________________________________
+
+          Account No.: _______________________________________
+
+          Bank: ______________________________________________
+
+          Bank City & State: _________________________________
+
+          Bank ABA No.: ______________________________________
+
+          Reference: _________________________________________
+
+          This instruction has been executed and delivered by an authorized
+representative of the undersigned.
+
+                                        Very truly yours,
+
+                                        PINNACLE WEST CAPITAL CORPORATION
+
+
+                                        By:
+                                            ------------------------------------
+                                        Name:
+                                              ----------------------------------
+                                        Title:
+                                               ---------------------------------
+</TEXT>
+</DOCUMENT>

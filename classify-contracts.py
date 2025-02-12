@@ -95,7 +95,7 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
         return {"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}
 
 def main():
-    for year in range(2003, 2005):
+    for year in range(2005, 2006):
         print(f"\nProcessing year: {year}")
         index_path = os.path.join(INDEX_DOWNLOAD_DIR, f"index-{year}.csv")
         if not os.path.exists(index_path):
@@ -129,7 +129,7 @@ def main():
                         h.body_width = 0
                         content = h.handle(content).strip()
                     else:
-                        print(f"Unsupported file type: {file_path}. Skipping row {i}.")
+                        print(f"Unsupported file type: {file_path}. Skipping row {i+1}.")
                         continue
                 metadata = row[[
                     "companyNameLong", "description", "formType", "type", "filedAt"

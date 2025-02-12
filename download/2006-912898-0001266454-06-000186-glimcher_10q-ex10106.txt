@@ -1,0 +1,2404 @@
+<DOCUMENT>
+<TYPE>EX-10.106
+<SEQUENCE>2
+<FILENAME>glimcher_10q-ex10106.txt
+<DESCRIPTION>LOAN AGREEMENT, DATED AS OF MARCH 14, 2006, BY AND BETWEEN TULSA PROMENADE, LLC AND CHARTER ONE BANK, N.A.
+<TEXT>
+                                                                  EXHIBIT 10.106
+
+
+
+
+
+
+                                 LOAN AGREEMENT
+                                 --------------
+
+
+                                 by and between
+
+                              TULSA PROMENADE, LLC
+                                  as Borrower,
+
+                                       and
+
+                             CHARTER ONE BANK, N.A.,
+                                    as Lender
+
+
+<PAGE>
+
+                                 LOAN AGREEMENT
+                                 --------------
+
+     THIS LOAN AGREEMENT (this "Agreement"), is made and entered into as of the
+14th day of March, 2006, by and between Tulsa Promenade, LLC, a Delaware limited
+liability company (the "Borrower") and CHARTER ONE BANK, N.A., a national
+banking association (the "Lender").
+
+                                    RECITALS
+                                    --------
+
+     WHEREAS, Borrower is the owner of certain real property in Tulsa, Oklahoma,
+as more particularly described on Exhibit A attached as a part hereof (the
+"Land", which term shall include such present improvements and all rights,
+privileges, easements, hereditaments and appurtenances thereunto relating or
+appertaining);
+
+     WHEREAS, improvements on the Land include a regional shopping mall
+containing approximately 438,481 square feet of retail space, parking and common
+areas related thereto (the "Mall");
+
+     WHEREAS, Borrower desires to acquire additional land and retail space
+containing approximately 81,320 square feet of retail space currently owned by
+Mervyn's Department Store (the "Mervyn's Acquisition");
+
+     WHEREAS, Borrower intends to make certain improvements to the Project
+(defined herein), including general upgrades and tenant improvements associated
+with new leases benefiting the Project;
+
+     WHEREAS, Borrower has applied to Lender for a first mortgage loan in the
+amount of $50,000,000.00 (the "Loan") for the purpose of such acquisitions and
+improvements, and Lender is willing to make the Loan upon the terms and
+conditions hereinafter set forth;
+
+     NOW, THEREFORE, in consideration of the mutual representations, warranties,
+covenants and agreements herein contained, the sufficiency of which is hereby
+acknowledged, the parties hereto represent and agree as follows:
+
+                                    ARTICLE I
+
+                          INCORPORATION AND DEFINITIONS
+                          -----------------------------
+
+     The foregoing recitals and all exhibits hereto are made a part of this
+Agreement. The following terms shall have the following meanings in this
+Agreement:
+
+     Additional Debt Service: For purposes of a Subsequent Draw shall mean debt
+service calculated as set forth in the definition of Debt Service based on the
+amount of such Subsequent Draw.
+
+<PAGE>
+
+     Adjusted NOI: The annualized amount of rents from Incremental New Leases,
+plus the annualized amount of Incremental Reimbursable Expenses minus the
+annualized rental income derived from any existing leases expiring within 90
+days of such Subsequent Draw minus annualized operating expenses allocated to
+the New Incremental Leases (where applicable) based on actual trailing twelve
+month expenses for the Project applied on a square foot basis to the leaseable
+area of the New Incremental Leases minus Management Fees based on the projected
+gross revenues from the Incremental New Leases minus Reserves for Capital
+Expenditures allocated to the Incremental New Leases.
+
+     Applicable Margin: The percentage set forth below corresponding to the Loan
+to Value Ratio in effect at such time:
+
+-----------------------------------------------------------------------------
+   Level              Loan to Value Ratio            Applicable Margin for
+                                                       LIBOR Rate Loans
+-----------------------------------------------------------------------------
+     1       < or = 0.50 to 1.00                             1.20%
+-----------------------------------------------------------------------------
+     2       > 0.50 to 1.00 and < or = 0.60 to 1.00          1.35%
+-----------------------------------------------------------------------------
+     3       > 0.60 to 1.00                                  1.50%
+-----------------------------------------------------------------------------
+
+The Applicable Margin shall be determined by the Lender from time to time, based
+on the Loan to Value Ratio as determined by Lender in its sole discretion.
+
+     Appraisal: An MAI certified appraisal of the Project performed in
+accordance with FIRREA and Lender's appraisal requirements by an appraiser
+selected and retained by Lender, which shall be acceptable to Lender in its sole
+discretion.
+
+     Borrower: Tulsa Promenade, LLC, an Oklahoma limited liability company.
+
+     Certificate of Compliance: As defined in Section 7.10 (f).
+
+     Debt Service: The annual principal and interest payments required for the
+current outstanding principal balance of the Loan assuming a thirty (30) year
+amortization and the greater of an interest rate equal to (i) the yield on a
+10-year United States Treasury Note plus 2.50% and (ii) 7%, provided that for
+purposes of Draw A and Draw B, interest will be assumed to be 7%.
+Notwithstanding the foregoing, in the event any portion of the Loan is subject
+to a Hedging Contract with a fixed rate of interest, calculations of Debt
+Service for the portion of the Loan subject to a Hedging Contract shall be based
+on the actual fixed interest rate set forth in such Hedging Contract assuming a
+thirty (30) year amortization.
+
+     Debt Service Coverage Ratio: The ratio of the Borrower's Net Operating
+Income to Debt Service.
+
+     Default or Event of Default: One or more of the events or occurrences set
+forth in Article X below.
+
+     Default Rate: As defined in the Note.
+
+     Disbursement: A disbursement of Loan Proceeds by Lender as contemplated by
+Article VI below.
+
+
+                                      -2-
+<PAGE>
+
+     Draw A: As defined in Section 3.3 (a).
+
+     Draw B: As defined in Section 3.3 (b).
+
+     DSC Cash Collateral Reserve: As defined in Section 7.28.1.
+
+     DSCR Requirement: As defined in Section 7.28.
+
+     Environmental Law: As defined in the Indemnity Agreement by and between
+Borrower and Lender dated on or about the date hereof.
+
+     Hedging Contracts means, interest rate swap agreements, interest rate cap
+agreements and interest rate collar agreements, or any other agreements or
+arrangements entered into between the Borrower and the Lender and designed to
+protect the Borrower against fluctuations in interest rates or currency exchange
+rates.
+
+     Hedging Obligations means, with respect to the Borrower, all liabilities of
+the Borrower to the Lender under Hedging Contracts.
+
+     Incremental New Leases: Any New Lease entered into after the immediately
+preceding Subsequent Draw, or in the case of the first Subsequent Draw, entered
+into after Draw A or Draw B, as the case may be.
+
+     Incremental Reimbursable Expenses: Cash expenses incurred by the Borrower,
+but which are required to be reimbursed by the tenant(s).
+
+     Incremental Value: The Adjusted NOI divided by the Prevailing Cap Rate.
+
+     Improvements: All buildings, structures and other improvements, including
+all common areas, located or to be located on the Land (and, upon the Mervyn's
+Acquisition, on the land subject to such acquisition) and all fixtures and
+equipment required for the operation thereof.
+
+     Inspecting Agent: Any and all persons or entities from time to time
+designated by Lender as Lender's agent to inspect the Project.
+
+     Interest Period: As defined in the Note.
+
+     LIBOR Rate: Relative to any Interest Period for LIBOR Rate Loans, the
+offered rate for deposits of U.S. Dollars in an amount approximately equal to
+the amount of the requested LIBOR Rate Loan for a term coextensive with the
+designated Interest Period which the British Bankers' Association fixes as its
+LIBOR rate as of 11:00 a.m. London time on the day which is two London Banking
+Days prior to the beginning of such Interest Period.
+
+     LIBOR Rate Loan: Any Loan the rate of interest applicable to which is based
+upon the LIBOR Rate.
+
+
+                                      -3-
+<PAGE>
+
+     LIBOR Lending Rate: Relative to any LIBOR Rate Loan to be made, continued
+or maintained as, or converted into, a LIBOR Rate Loan for any Interest Period,
+a rate per annum determined pursuant to the following formula:
+
+         LIBOR Lending Rate                 =            LIBOR Rate
+                                                         ----------
+                                              (1.00 - LIBOR Reserve Percentage)
+
+     London Banking Day: A day on which dealings in US dollar deposits are
+transacted in the London interbank market.
+
+     Loan: As defined in the recitals.
+
+     Loan Amount: The lesser of (i) 65% of the value of the Project, or (ii)
+$50,000,000.00.
+
+     Loan Closing: The date on which the Mortgage is filed with the County
+Recorder's office.
+
+     Loan Documents: This Agreement, the documents specified in Article IV
+hereof, and any other instruments evidencing or securing the obligations of
+Borrower or any guarantor under the Note or any of the other Loan Documents.
+
+     Loan Opening: The first disbursement of the Loan.
+
+     Loan Proceeds: All amounts advanced as part of the Loan, whether advanced
+directly to Borrower or other parties.
+
+     Loan to Value Ratio: The ratio of the outstanding principal amount of the
+Loan to the value of the Project securing the Loan (as determined by the most
+recent Appraisal) at the time such calculation is made.
+
+     Management Fee: The greater of (i) the actual management fee for the
+Project, or (ii) the imputed management fee set forth in the most recent
+Appraisal, which, as of the date hereof, is 3%.
+
+     Managing Member Glimcher Properties Limited Partnership, a Delaware limited
+liability company, as of Loan Closing, to be immediately replaced by Tulsa
+Promenade REIT, LLC as set forth in Section 9.2
+
+     Maturity Date: _______________, 2009.
+
+     Mervyn's Acquisition: As defined in the recitals.
+
+     Mervyn's Collateral Account: As defined in Section 3.3(b).
+
+     Mortgage: As defined in Section 4(b).
+
+
+                                      -4-
+<PAGE>
+
+     Net Operating Income or NOI: The sum of the following (without duplication
+and determined on a consistent basis with prior periods): (a) rents and other
+revenues received in the ordinary course of business from operating the Project
+(including proceeds of rent loss insurance but excluding pre-paid rents and
+revenues and security deposits except to the extent applied in satisfaction of
+tenants' obligations for rent) during the trailing twelve months minus (b) any
+income received from leases where tenant has given Borrower notice of its
+intention to terminate or not renew its existing lease minus (c) all expenses
+paid or accrued related to the ownership, operation or maintenance of the
+Project, including, but not limited to, taxes, assessments and other similar
+charges, insurance, utilities, payroll costs, maintenance, repair and
+landscaping expenses and on-site marketing expenses during the trailing twelve
+months minus (d) the Reserves for Capital Expenditures for the Project for the
+trailing twelve months minus (e) the Management Fee for the Project for such
+period.
+
+     New Lease(s): Newly executed leases with national or regional tenants in
+accordance with Section 7.30 and with terms of at least five(5) years.
+
+     Note: As defined in Section 3.2.
+
+     Permitted Exceptions: Encumbrances on the Land expressly agreed to by
+Lender, as set forth in Schedule B I of the Title Policy.
+
+     Prevailing Cap Rate or PCR: In the event that a Subsequent Draw occurs
+within 12 months of the Loan Closing, the Prevailing Cap Rate shall mean 7.37%
+(as set forth in the most recent Appraisal). In the event that a Subsequent Draw
+occurs later than 12 months following the Loan Closing, the Prevailing Cap Rate
+shall mean the lesser of (i) the yield on the prevailing 10-year United States
+Treasury Note plus 2.50%; or (ii) the capitalization rate set forth in the most
+recent Appraisal, provided that such Appraisal may not be older than twelve (12)
+months.
+
+     Prime Rate: The rate of interest announced by Lender in Cleveland, Ohio
+from time to time as its "Prime Rate." The Borrower acknowledges that the Lender
+may make loans to its customers above, at or below the Prime Rate. Interest
+accruing by reference to the Prime Rate shall be calculated on the basis of
+actual days elapsed and a 360-day year.
+
+     Prime Rate Loan: Any Loan for the period(s) when the rate of interest
+applicable to such Loan is calculated by reference to the Prime Rate.
+
+     Proforma Debt Service: For purposes of a Subsequent Draw shall mean current
+Debt Service plus Additional Debt Service.
+
+     Proforma NOI: For purposes of a Subsequent Draw shall mean Adjusted NOI
+(for such Subsequent Draw) plus NOI (trailing twelve months).
+
+     Project: The Land, together with the Improvements, provided that if/when
+the Mervyn's Acquisition occurs, the definition of Project shall automatically
+include all the land and improvements related to the Mervyn's Acquisition.
+
+     Prohibited Transfer: As defined in Section 9.2 below.
+
+
+                                      -5-
+<PAGE>
+
+     Reference Banks: Means four major banks in the London interbank market.
+
+     Request for Disbursement: As defined in Article VI hereof.
+
+     Reserves for Capital Expenditures: The amount of annual reserves required
+for the Project pursuant to the most recent Appraisal as approved by Lender in
+its sole discretion. As of the date hereof, the required annual reserves is $.15
+per square foot (total of $43,845.00).
+
+     Regulated Materials: As defined in the Indemnity Agreement by and between
+Borrower and Lender dated on or about the date hereof.
+
+     Required NOI: As defined in Section 7.28.1.
+
+     Soft Costs: Costs incurred by Borrower for professional and other services
+in connection with the Project.
+
+     Subsequent Draw: As defined in Section 3.3 (c).
+
+     Title Company: Flagler Title Company.
+
+     Title Policy: An ALTA Mortgagee's Loan Title Insurance Policy with extended
+coverage issued by the Title Insurer insuring the lien of the Mortgage as a
+valid first, prior and paramount lien upon the Project and all appurtenant
+easements, and subject to no other exceptions other than the Permitted
+Exceptions and otherwise satisfying the requirements of Section 5.1(a).
+
+                                   ARTICLE II
+
+                         REPRESENTATIONS AND WARRANTIES
+                         ------------------------------
+
+     2.1 Representations and Warranties. To induce Lender to execute and perform
+this Agreement, Borrower hereby represents, covenants and warrants to Lender as
+follows:
+
+     (a) At the Loan Closing and at all times thereafter until the Loan is paid
+in full, the Borrower will have good and marketable indefeasible fee simple
+title to the Land, subject only to the Permitted Exceptions.
+
+     (b) Each of the Loan Documents, when executed and delivered, will
+constitute the duly authorized, legal, valid and binding obligations of each
+party executing the same, and will be enforceable strictly in accordance with
+their respective terms.
+
+     (c) No condition, circumstance, event, agreement, document, instrument,
+restriction, or pending or threatened litigation or proceeding exists which
+could materially adversely affect the validity or priority of the liens and
+security interests granted to Lender under the Loan Documents, which could
+materially adversely affect the ability of Borrower to own the Land and to
+operate the Project, which could materially adversely affect the ability of
+Borrower to perform its or their respective obligations under the Loan
+Documents, which would constitute a default in the obligations of the Borrower
+under any of the Loan Documents or which would constitute such a default with
+the giving of notice or lapse of time or both.
+
+
+                                      -6-
+<PAGE>
+
+     (d) The Land, the present use and occupancy of the Land and the use and
+occupancy of the Project, does not violate or conflict in any material respect
+with any applicable law, statute, ordinance, rule, regulation or order of any
+kind, including, without limitation, zoning, building, environmental, land use,
+noise abatement, occupational health and safety or other laws, any building
+permit or any condition, grant, easement, covenant, condition or restriction,
+whether recorded or not.
+
+     (e) All financial statements submitted by Borrower to Lender in connection
+with this Loan are true and correct in all material respects, have been prepared
+in accordance with generally recognized accounting principles consistently
+applied, and fairly present the respective financial conditions and results of
+operations of the entity and persons which are their subject as of the
+respective dates thereof. No material adverse change has occurred in the
+financial conditions reflected therein since the respective dates thereof and no
+additional borrowings have been made by Borrower since the date thereof other
+than the Loan contemplated hereby.
+
+     (f) This Agreement and all financial statements, budgets, schedules,
+opinions, certificates, confirmations, applications, rent rolls, affidavits,
+agreements, and other materials submitted to the Lender in connection with or in
+furtherance of this Agreement by or on behalf of the Borrower, fully and fairly
+state the matters with which they purport to deal, do not misstate any material
+fact, nor, separately or in the aggregate, fail to state any material fact
+necessary to make the statements made not misleading.
+
+     (g) All utility and municipal services required for the, occupancy and
+operation of the Project, including, but not limited to, water supply, storm and
+sanitary sewage disposal system, gas, electric and telephone facilities are
+available for use.
+
+     (h) All permits and licenses required by applicable law to occupy and
+operate the Project have been issued and are in full force.
+
+     (i) The storm and sanitary sewage disposal system, water system and all
+mechanical systems of the Land and the Project comply in all material respects
+with all applicable environmental, pollution control and ecological laws,
+ordinances, rules and regulations.
+
+     (j) All utility, parking, vehicular access (including curb cuts and highway
+access), recreational and other permits and easements required for the use and
+operation of the Project have been granted and issued, to the extent necessary
+or required for the operation and use of the Project.
+
+     (k) Except as shown on the survey, the Project does not encroach upon any
+building line, set back line, side yard line, or any recorded or visible
+easement, or other easement of which Borrower is aware or has reason to believe
+may exist, affecting the Land.
+
+
+                                      -7-
+<PAGE>
+
+     (l) All roads necessary for ingress and egress to the Project and for the
+full utilization of the Improvements for their intended purposes have either
+been completed pursuant to easements approved by the Lender or the necessary
+rights-of-way thereof have been dedicated to public use and accepted by the
+appropriate governmental authority.
+
+     (m)(i) No condemnation of any portion of the Project and (ii) no denial of
+access to the Project from any point of access to the Project, has commenced, or
+to the best of Borrower's knowledge, is contemplated by any governmental
+authority.
+
+     2.2 Continuation of Representations and Warranties. The Borrower hereby
+covenants, warrants and agrees that each of the representations and warranties
+made in Section 2.1 hereof shall be and shall remain true and correct at the
+time of the Loan Closing and at all times thereafter so long as any part of the
+Loan shall remain outstanding. Each Request for Disbursement shall constitute a
+reaffirmation that these representations and warranties are true on and as of
+the date of such Request for Disbursement and will be true on the date of the
+Disbursement.
+
+                                   ARTICLE III
+
+                                    THE LOAN
+                                    --------
+
+     3.1 Agreement to Borrow and Lend. Borrower agrees to borrow from Lender,
+and Lender agrees to lend to Borrower, such amount as shall be requested by the
+Borrower, but in no event exceeding the stated Loan Amount, on the terms of and
+subject to the conditions of this Agreement.
+
+     3.2 The Note. The Loan shall be evidenced by a promissory note (the
+"Note"), executed by Borrower, payable to the order of Lender and in the Loan
+Amount. Interest, maturity, terms of payment of principal and interest,
+prepayment premiums, and all other similar terms and conditions of the Loan
+shall be as set forth in the Note.
+
+     3.3. Permitted Draws.
+
+     (a) Initial Draw: Borrower may request and Lender will provide an initial
+draw at Loan Closing in an amount up to the lesser of (i) 65% of the purchase
+price of the Mall, (ii) 65% of the appraised value of the Mall, (iii) an amount
+such that the Debt Service Coverage Ratio for the Project is not less than
+1.25x, or (iv) $35,000,000 ("Draw A");
+
+     (b) Mervyn's Acquisition Draw: In the event that Borrower proceeds with the
+Mervyn's Acquisition, Borrower may request and Lender will provide an additional
+draw to fund the Mervyn's Acquisition in an amount up to the lesser of (i) 65%
+of the purchase price of the Mervyn's Acquisition, or (ii) 65% of the appraised
+value of the Mervyn's Acquisition ("Draw B"); provided that Borrower must
+deposit its own funds or draw an additional amount from Loan proceeds (such draw
+shall not be restricted by the foregoing) in the amount of one year's Debt
+Service for Draw B, to be deposited in an account with Lender (the "Mervyn's
+Collateral Account") to be held as additional collateral for the Loan, until
+such time as the Project (factoring both the Mall and the Mervyn's Acquisition)
+achieves the DSCR Requirement, provided that such release shall not occur prior
+to the one year anniversary of the Lender's disbursement of Draw B.
+
+
+                                      -8-
+<PAGE>
+
+     (c) Subsequent Draws: At any time following the Loan Opening, but not more
+than once per quarter, Borrower may request additional draws in the minimum
+amount of $1,000,000 (and $250,000 increments thereafter) to reimburse Borrower
+for expenses incurred related to improvements made to the Project or incurred
+related to any Incremental New Leases (each being a "Subsequent Draw" and
+collectively, the "Subsequent Draws") subject to the following:
+
+          (i) Borrower must provide evidence that the Project currently complies
+with the required minimum Debt Service Coverage Ratio of 1.25x;
+
+          (ii) Borrower must provide evidence that the Project will continue to
+comply with the required minimum Debt Service Coverage Ratio of 1.25x after such
+Subsequent Advance based on Proforma Net Operating Income and Proforma Debt
+Service; and
+
+          (iii) Such draw may not exceed 65% of the Incremental Value.
+
+In no event shall the aggregate outstanding amount of Draw A, Draw B, and all
+Subsequent Draws exceed the aggregate amount of $50,000,000.
+
+     3.4. Interest Election. Subject to the terms and conditions set forth in
+the Note, interest on the outstanding principal amount of the Note shall accrue,
+at Borrower's option, at one of the following rates of interest: (i) the Prime
+Rate; or (ii) during the Interest Period applicable thereto at a rate equal to
+the sum of the LIBOR Lending Rate for such Interest Period plus the Applicable
+Margin thereto and be payable on each Interest Payment Date.
+
+                                   ARTICLE IV
+
+                                 LOAN DOCUMENTS
+                                 --------------
+
+     Borrower agrees to execute and deliver to Lender, on or prior to the Loan
+Opening, the following documents, all of which must be satisfactory to Lender
+and Lender's counsel in form, substance and execution and all of which are
+executed on or about the date hereof:
+
+     (a) The Note.
+
+     (b) A mortgage with power of sale, security agreement and financing
+statements (the "Mortgage"), duly executed by the Borrower and granting a valid
+and subsisting first lien on the Land and the portions of the Project
+constituting real property, and a security interest in the personal property and
+fixtures securing all obligations of the Borrower under all of the Loan
+Documents, subject only to the Permitted Exceptions.
+
+     (c) An assignment to Lender from Borrower of the rents, leases, security
+and other deposits, income, issues, proceeds and profits associated with or
+arising from the Project or any part thereof, and which assignment is prior to
+all other such assignments and valid as such against all creditors of Borrower.
+
+
+                                      -9-
+<PAGE>
+
+     (d) Uniform Commercial Code financing statements, executed by Borrower as
+debtor with respect to the Mortgage and the security agreement described in
+clauses (b) and (d) hereof, and which financing statements are prior to all
+other such financing statements and valid as such against all creditors of
+Borrower.
+
+     (e) A collateral assignment to Lender of all rights of Borrower in any
+contract for management of the Project or any portion thereof, together with
+assignments of such maintenance and service contracts entered into in connection
+with the operation of the Project as Lender may require, and which assignment is
+prior to all other such assignments and valid as such against all creditors of
+Borrower.
+
+     (f) An indemnity agreement from Borrower in favor of Lender confirming the
+perpetual survival of Borrower's representations, warranties and indemnities
+herein with respect to Regulated Materials, among other things, and compliance
+with all applicable laws.
+
+     (g) Such other papers and documents as may be required by this Agreement or
+as Lender may reasonably require.
+
+                                    ARTICLE V
+
+                           CONDITIONS TO LOAN CLOSING
+                           --------------------------
+
+     5.1 Unless waived by Lender, Borrower shall furnish the following to Lender
+at least five (5) business days prior to the Loan Closing or at such time as is
+set forth below, all of which must be strictly satisfactory to Lender and
+Lender's counsel in form, content and execution:
+
+     (a) Title Policy. A commitment (the "Title Commitment") for issuance of an
+ALTA Loan Policy of Title Insurance, Form B-1970 (Amended 10-17-70, or 6-18-87)
+(the "Title Policy"), issued by the Title Company to Lender, in the Loan Amount,
+insuring the Mortgage to be a valid first, prior and paramount mortgage lien
+upon the fee title to the Land and the Project, and a valid first lien upon any
+easement in favor of the Premises which provides access to the Premises for
+ingress and egress and/or for utilities, to the extent of funded Disbursements
+of the Loan, subject only to the Permitted Exceptions and to customary
+exceptions which, by their nature, cannot be eliminated until construction of
+the Project has been completed, and with all so-called "standard" exceptions
+deleted. The Title Commitment shall (i) contain a so-called "Comprehensive
+Endorsement"; (ii) contain an endorsement affirmatively insuring the priority of
+the Mortgage against any vendor's or mechanic's lien; (iii) affirmatively insure
+the Lender that (A) no restrictions of record affecting the Land have been
+violated, and that such instruments contain no right of reverter or forfeiture,
+(B) the survey described in Section 5.1(b) hereof is accurate and accurately
+depicts the same real estate as is covered by the Title Commitment, (C) Lender
+is the holder of the Mortgage and that the Mortgage is the first lien against
+the Project; (iv) insure contiguity of the Land with adjoining public rights of
+way; (v) contain ALTA Variable Rate Endorsement No.6; (vi) contain an
+endorsement affirmatively insuring that all future advances of Loan Proceeds
+made by Lender shall be secured by the Mortgage and have priority as of the date
+the Mortgage is filed for record with the Tulsa County Recorder; and (vii)
+contain such other endorsements as Lender may require. If requested by Lender,
+appropriate provisions satisfactory to Lender for co-insurance and reinsurance,
+
+
+                                      -10-
+<PAGE>
+
+with direct access agreements acceptable in form and substance to Lender, shall
+also be obtained. Contemporaneously with delivery to Lender of the Title
+Commitment, Borrower shall also deliver to Lender copies of all documents
+constituting the Permitted Exceptions. Borrower agrees to deliver to the Title
+Agent, with a copy of each to Lender, such other papers, instructions and
+documents as the Title Agent may require for the issuance of the Title
+Commitment and the issuance of date down endorsements and interim certifications
+relating to construction payouts as provided in Article vi hereof, and in
+accordance with all requirements of this Agreement.
+
+     (b) Survey. A plat survey (the "Survey") of the Land, in duplicate, made by
+a registered land surveyor, dated no later than three (3) months prior to Loan
+Closing, showing.
+
+          (i) the location (and recording numbers, to the extent recorded) of
+     all visible or recorded easements (including appurtenant easements), water
+     courses, drains, sewers, public and private roads (including the names and
+     widths thereof and recording numbers for the dedications thereof), other
+     rights of way, and curb cuts, if any, within, adjacent to or serving the
+     Land and Project or to which the Land and Project are or will be subject,
+     and the location of any such proposed easements; that the same are, and
+     after Construction of the Project and granting of easements will be,
+     unobstructed; and that all portions of the Project will have access over
+     recorded easements to dedicated public roads;
+
+          (ii) the common street address of the Land and Project and the
+     dimensions, boundaries and acreage or square footage of the Land and the
+     Improvements;
+
+          (iii) that all foundations and other structures currently existing and
+     all other improvements on the Land, are placed within the lot and building
+     lines, all deed restriction, recorded plats, other restrictions of record
+     and ordinances relating to the location thereof (and, to the extent that
+     any such restrictions or ordinances require any structure to be set back
+     specified distances from any line, showing said line and the measured
+     distance of said structure, or the proposed location of said structure,
+     from said line);
+
+          (iv) that except as may be shown on the survey there are no
+     encroachments on the Land from improvements located on adjoining property;
+
+          (v) the location and course of all visible utility lines;
+
+          (vi) if the Land comprises more than one parcel, interior lines and
+     other data sufficient to insure contiguity; and
+
+          (vii) such additional information which may be required by the Lender
+     or the Title Company.
+
+     The Survey shall be made in accordance with the Minimum Standard Detail
+Requirements for ALTA/ACSM Class A Land Title Surveys most recently adopted by
+the American Land Title Association.
+
+
+                                      -11-
+<PAGE>
+
+     (c) Insurance Policies. (i) Evidence of insurance policies as set forth
+below, all of which must be satisfactory to Lender, in companies, forms, amounts
+and coverage satisfactory to Lender, containing waiver of subrogation and first
+mortgagee clauses in favor of Lender and providing for thirty (30) days' written
+notice to Lender in advance of cancellation of said policies for non-payment of
+premiums or any other reason or for material modification of said policies, and
+ten (10) days' written notice to Lender in advance of payment of any insurance
+claims under said policies to any person.
+
+     (ii) Without limiting the generality of the foregoing, such policies shall
+include the following:
+
+          (A) Intentionally deleted.
+
+          (B) Comprehensive general public liability, property damage and
+     indemnity insurance, including, without limitation, water damage, so-called
+     assumed and contractual liability coverage and claims for bodily injury,
+     death or property damage, naming Lender as an additional insured, in a
+     minimum amount of One Million Dollars ($1,000,000.00) per person One
+     Million Dollars ($1,000,000.00) per occurrence, or such other amounts as
+     Lender may from time to time require, with insurance carriers having a
+     Best's rating of A or better, in forms and with companies satisfactory to
+     Lender and with a maximum deductible of One Thousand Dollars ($1,000.00).
+     Borrower shall also carry and maintain excess of umbrella liability, naming
+     Lender as an additional insured thereunder in a minimum amount of Two
+     Million Dollars ($2,000,000.00), with an insurance carrier having a Best's
+     rating of A or better, in form satisfactory to Lender.
+
+          (C) Insurance against loss or damage by fire and such other hazards,
+     casualties and contingencies (including, without limitation, so called all
+     risk coverages) as Lender may require, in an amount equal to the greater of
+     (1) the Loan Amount, or (2) the replacement cost of the Project, with a
+     replacement cost endorsement and in such amounts so as to avoid the
+     operation of any coinsurance clause, for such periods and otherwise as
+     Lender may require from time to time.
+
+          (D) Insurance against rent loss or abatement of rent, covering payment
+     of rent and like charges from the Land over a term of not less than twelve
+     (12) months, in an amount to be approved by Lender.
+
+          (E) Workers' compensation and employee liability insurance, naming
+     Lender as additional insured, covering all employees working on or about
+     the Project, and death, injury and/or property damage occurring on or about
+     the Project, or resulting from activity thereat, with liability insurance
+     limits for death of or injury to persons not less than Statutory Limits and
+     for damage to property of not less than Statutory Limits.
+
+Borrower shall deliver renewal certificates of all insurance required above,
+together with written evidence of full payment of the annual premiums therefor
+at least thirty (30) days prior to the expiration of the existing insurance. Any
+such insurance may be provided under so called "blanket" policies, so long as
+
+
+                                      -12-
+<PAGE>
+
+the amounts and coverages thereunder will, in Lender's sole judgment, provide
+protection equivalent to that provided under a single policy meeting the
+requirements of this paragraph.
+
+     (d) Compliance with Laws. Evidence satisfactory to Lender that the Project
+is in compliance with all applicable laws, ordinances (including zoning),
+orders, rules and regulations of applicable governmental or quasigovernmental
+authorities (including, without limitation, requirements for parking and
+operation of the Project), and that any approvals thereof required from third
+parties or any governmental or quasigovernmental authorities have been obtained.
+
+     (e) Financial Statements. Current financial statements for the Borrower.
+
+     (f) Management Agreement. Prior to the first advance of Loan Proceeds, a
+copy of the management agreement. Said agreement to be collaterally assigned to
+Lender and consented to by the Manager and the Service Provider.
+
+     (g) Environmental Assessment. Evidence, including an environment
+assessment, indicating that the Land, and the existing improvements, in Lender's
+sole judgment, (i) contain no Regulated Materials and no other contamination
+which, even if not so regulated, is known to pose a hazard to the health of any
+person on or about the Land, (ii) is not located in a "Wetlands" or "Flood
+Plain" area, and (iii) contains no underground storage tanks. Lender reserves
+the right, at Borrower's expense, to retain an independent consultant to review
+any such evidence submitted by Borrower or to conduct its own investigation of
+the Land.
+
+     (h) Payment of Loan Origination Fee. Payment to Lender of a Loan
+Commitment/Origination Fee in the amount of $52,500.00 (15 basis points of the
+amount of Draw A). Borrower shall pay Lender the remainder of the
+Commitment/Origination fee in the amount of $22,500 (15 basis points of
+remaining undisbursed Loan amount) at the time of the earlier of (i) Draw B, or
+(ii) a Subsequent Draw.
+
+     (i) Documents of Record. Copies of all covenants, conditions, restrictions,
+easements and matters of record which affect the Land.
+
+     (j) Equity: Borrower shall have provided evidence reasonably satisfactory
+to Lender that Borrower's cash equity invested in the Project is not less than
+the greater of (i) 35% of the total cost of the Project, or (ii) $20,405,000.
+Borrower's cash equity must be used to pay for acquisition of the Mall.
+
+     (k) Borrower's Attorney's Opinion. The opinion of Borrower's legal counsel
+that with respect to the Borrower, the Land, and the Project: (a) there is no
+threatened or pending litigation that might affect the Loan, the Land, the
+Project or the Borrower; (b) the transactions contemplated by this Agreement do
+not violate any provision of any law, restriction or other document affecting
+the Borrower, the Land, or the Project; (c) the Loan Documents have been duly
+executed and delivered, constitute legal, valid and binding obligations of the
+Borrower and are enforceable in accordance with their terms; (d) Borrower is a
+validly organized and existing limited liability company under the laws of the
+State of Delaware and qualified to do business in the State of Oklahoma, that
+Borrower has the legal capacity to own, develop and operate the Land and the
+Project, and has the legal capacity to perform its obligations under the Loan
+
+
+                                      -13-
+<PAGE>
+
+Documents, and that the Loan has been duly authorized by the Borrower, (e) the
+individuals executing the Loan Documents are properly authorized to do so on
+behalf of Borrower, (f) such other matters (including an opinion with respect to
+zoning of the Land and the Project) concerning the Loan, the Loan Documents, and
+the Land, the Project, and the Borrower, as the Lender or its counsel may
+require.
+
+     (l) Organizational Documents.
+
+          (1) Certified copy of the Borrower's, Managing Member's, and OG Retail
+          Holding Co., LLC's Articles of Organization;
+
+          (2) Certified copy of Borrower's, Managing Member's, and OG Retail
+          Holding Co., LLC's Operating Agreement;
+
+          (3) Borrower's, Managing Member's, and OG Retail Holding Co., LLC's
+          Resolutions authorizing Borrower to enter into Loan and designating
+          the members/officers authorized to execute all Loan Documents.
+
+          (4) Certified copy of the Glimcher Properties Limited Partnership
+          Articles of Organization;
+
+          (5) Certified copy of Glimcher Properties Limited Partnership Limited
+          Partnership Agreement;
+
+          (6) Certified copy of the Glimcher Properties Corporation's Articles
+          of Incorporation;
+
+          (7) Certified copy of Glimcher Properties Corporation's By-laws/Code
+          of Regulations;
+
+          (8) Glimcher Properties Corporation's Resolutions authorizing Glimcher
+          Properties Limited Partnership Resolutions as sole member of Borrower
+          to enter into Loan.
+
+     (m) Full executed copy of the purchase agreement for the Mall.
+
+     (n) Lender shall have obtained (at Borrower's cost) an Appraisal of the
+Project which Appraisal is satisfactory to Lender in all respects including, but
+not limited to, having a fair market evaluation of the Project indicating a
+Loan-to-Value Ratio of sixty-five percent (65%) or lower.
+
+     (o) Borrower shall concurrently with the Loan Opening, enter into a
+derivative rate instrument or Hedging Contract in the minimum amount of 75% of
+the projected combined amount of Draw A and Draw B; or upon each Draw A and Draw
+B, enter into a derivative rate instrument or Hedging Contract in the minimum
+amount of 75% of the amount of such draw.
+
+
+                                      -14-
+<PAGE>
+
+     (p) Borrower shall use good faith and commercially reasonable efforts to
+deliver to Lender, within 60 days of the date hereof subordination
+nondisturbance and attornment agreements (the "SNDA's") with JC Penney and
+Hollywood Theater. Notwithstanding anything to the contrary contained herein,
+Lender shall not be obligated to fund any Subsequent Draws unless and until the
+foregoing SNDA's have been delivered to Lender.
+
+     (q) Additional Documents. Such other papers and documents regarding
+Borrower, the Land or the Project as Lender may require.
+
+                                   ARTICLE VI
+
+                                  DISBURSEMENTS
+                                  -------------
+
+     6.1 The Disbursements. (a) Subject to the provisions of this Agreement, and
+also subject to the terms and conditions of the other Loan Documents, the Lender
+shall make and the Borrower shall accept the Loan in periodic Disbursements not
+exceeding, in the aggregate, the Loan Amount (except for additional
+Disbursements which the Lender shall have the right to make at its option
+pursuant to the Mortgage). Disbursements shall be made from Loan Proceeds. The
+first disbursement, to be made upon the Loan Closing, shall be in an amount
+equal to (i) Draw A, (ii) such other costs and expenses of Loan Closing, as
+approved by Lender in its sole and absolute discretion, and (iii) such other
+costs and expenses in accordance with Section 6.1(b) below (the "Initial
+Disbursement"). All Disbursements following the Initial Disbursement are
+hereinafter called "Subsequent Disbursements".
+
+     (b) After an Event of Default, Borrower hereby requests and authorizes
+Lender to make Disbursements directly to itself for payment and reimbursement of
+all interest, charges, costs and expenses incurred by Lender in connection with
+the Loan, pursuant to this Agreement or other Loan Documents, including, but not
+limited to, (i) interest due on the Loan and any points, loan fees, service
+charges, commitment fees, or other fees due to Lender in connection with the
+Loan; (ii) all title examination, survey, escrow, filing, search, recording and
+registration fees and charges; (iii) all documentary stamp and other taxes and
+charges imposed by law on the issuance or recording of any of the Loan
+Documents; (iv) all appraisal fees; (v) all title, casualty liability, payment,
+performance or other insurance or bond premiums; (vi) all fees and disbursements
+for legal services including, without limitation, in-house attorney's costs and
+fees, and outside counsel engaged in connection with the preparation,
+negotiation, enforcement or administration of this Agreement or any of the Loan
+Documents; and (vii) any amounts required to be paid by Borrower under this
+Agreement, the Mortgage or any Loan Document after the occurrence of a Default
+(all of which are herein referred to as "Loan Expenses").
+
+     (c) Except for the Initial Disbursement, which shall be made at the Loan
+Opening, Lender shall make each Disbursement within fifteen (15) business days
+following receipt of all information required by Lender for the funding of such
+Disbursement.
+
+     6.2 Requests for Loan Disbursements. All requests for Disbursements,
+including, without limitation, the Initial Disbursement shall be submitted on
+the Lender's form of "Certificate for Payment", signed by the Borrower stating,
+among other things, the amount of Loan Proceeds requested for each item. Each
+Certificate for Payment requesting Disbursements for improvements to the Project
+
+
+                                      -15-
+<PAGE>
+
+shall be accompanied by (a) the Borrower's affidavit, certifying the amount of
+all outstanding balances due but unpaid for work in place for the Project, (b)
+invoices from contractors and any other supporting documentation, and (c) lien
+waivers from all contractors in the sum received by each such contractor for all
+of Borrower's preceding draw requests, all to be in form and substance
+satisfactory to Lender and the Title Agent. Borrower shall not submit more than
+one Certificate for Payment per quarter. Each Certificate for Payment must be
+received by the Lender on or before a date which is at least fifteen (15) days
+prior to the date upon which the requested Disbursement is to be made, excluding
+the date of receipt by the Lender.
+
+     6.3 Loan Opening and Initial Disbursement. The Loan Opening shall be made
+at such time as all of the conditions and requirements of this Agreement
+required to be performed by Borrower or other parties prior to the Loan Opening
+have been satisfied or performed. At the Loan Opening, Lender shall disburse, in
+addition to the Initial Disbursement, all funds necessary to pay any Loan
+Expenses then due.
+
+     6.4 Subsequent Disbursements.
+
+     (a) Draw B shall be made by Lender following receipt of Borrower's written
+request, provided that, prior to the funding of Draw B, Borrower shall furnish
+the following to Lender, all of which must be in form, substance and execution
+satisfactory to Lender:
+
+          (i) Borrower has delivered to Lender all items in Section 5.1, to the
+     extent that such items apply or could apply to the Mervyn's Acquisition,
+     including 5.1 a, b, c, d, f, g, l, and m.
+
+          (ii) Borrower has delivered to Lender an amendment to Mortgage and
+     environmental indemnity agreement in form and substance acceptable to
+     Lender in its sole discretion, increasing the amount of the Mortgage and
+     adding the property from the Mervyn's Acquisition as additional security
+     for the Loan. Borrower hereby agrees to pay any costs related to the
+     foregoing amendment, including without limitation all recording costs,
+     mortgage tax, title costs, and reasonable attorney's fees;
+
+          (iii) Borrower has caused the Title Company to issue an endorsement to
+     the Title Policy, which endorsement insures that no claim exists which
+     constitutes a cloud on the Lender's secured position established by the
+     insured Mortgage and that no matters exist subordinate to the Mortgage
+     which are unacceptable to the Lender; accelerates the effective date of the
+     Title Policy to the date of the requested Disbursement; and covers the
+     amount of the requested Disbursement so that the total amount insured by
+     the Title Policy equals the total amount disbursed by Lender under the
+     terms of this Agreement, an endorsement to the Title Policy to add the
+     property described in the Mervyn's Acquisition, and any other endorsement
+     to Title Policy that the Lender deems necessary to protect its security
+     interest (or at the option of the Lender, confirmation from the Title Agent
+     that all requirements for the issuance of such an endorsement have been
+     satisfied and confirmation that the Title Insurer will issue such an
+     endorsement within a specified time acceptable to the Lender).
+
+
+                                      -16-
+<PAGE>
+
+          (iv) Evidence that all conditions set forth in Section 6.5 below shall
+     have been met.
+
+          (v) All conditions to the Initial Disbursement have been met, and the
+     Initial Disbursement has been funded by Lender.
+
+          (vi) Borrower has delivered to Lender an updated Certificate of
+     Compliance, certifying among other things, the names of all tenants who
+     have given their notice to terminate or not renew their existing lease.
+
+          (vii) Borrower has delivered to Lender a certified current revised
+     rent roll for the Project.
+
+     (b) Prior to the funding of each Subsequent Draw, Borrower shall furnish
+the following to Lender, all of which must be in form, substance and execution
+satisfactory to Lender in its sole and absolute discretion:
+
+          (i) Borrower has delivered to Lender an amendment to Mortgage in form
+     and substance acceptable to Lender in its sole discretion, increasing the
+     amount of the Mortgage. Borrower hereby agrees to pay any costs related to
+     the foregoing amendment, including without limitation all recording costs,
+     mortgage tax, title costs, and reasonable attorney's fees;
+
+          ii) An endorsement to the Title Policy, which endorsement insures that
+     no claim exists which constitutes a cloud on the Lender's secured position
+     established by the insured Mortgage and that no matters exist subordinate
+     to the Mortgage which are unacceptable to the Lender; accelerates the
+     effective date of the Title Policy to the date of the requested
+     Disbursement; and covers the amount of the requested Disbursement so that
+     the total amount insured by the Title Policy equals the total amount
+     disbursed by Lender under the terms of this Agreement (or at the option of
+     the Lender, confirmation from the Title Agent that all requirements for the
+     issuance of such an endorsement have been satisfied and confirmation that
+     the Title Insurer will issue such an endorsement within a specified time
+     acceptable to the Lender).
+
+          (iii) If applicable, the lien waivers required pursuant to Section
+     6.2; lien waivers from contractors, subcontractors and suppliers shall be
+     submitted prior to the next scheduled Disbursement.
+
+          (iv) The Certificate for Payment required pursuant to Section 6.2
+     above.
+
+          (v) Evidence that all Loan Proceeds disbursed to date have been
+     applied to payment of costs of the Project (including, but not limited to,
+     satisfactory waivers of mechanic's and materialmen's liens, affidavits,
+     sworn statements and receipts for materials), if applicable.
+
+
+                                      -17-
+<PAGE>
+
+          (vi) Upon Lender's request, evidence that any improvements to the
+     Project are being constructed in accordance with applicable law. Lender
+     shall have the right to require, at Borrower's cost, any additional
+     information to complete Lender's analysis of each Disbursement request of
+     Borrower.
+
+          (vii) Borrower has delivered to Lender an updated Certificate of
+     Compliance, certifying among other things, current compliance with Debt
+     Service Coverage Ratio requirements and setting forth all tenants who have
+     given their notice to terminate or not renew their existing lease.
+
+          (viii) Borrower shall have delivered to Lender a fully executed copy
+     of all Incremental New Leases which contain terms and conditions acceptable
+     to Lender in Lender's sole discretion.
+
+          (ix) Borrower shall have delivered to Lender twelve (12) month
+     proforma operating statements for the Project reflecting all Incremental
+     New Leases.
+
+          (x) Borrower shall have delivered to Lender a certified current
+     revised rent roll for the Project.
+
+          (xi) Borrower shall have delivered to Lender copies of paid invoices
+     for improvements made to the Project or costs incurred, if any, related to
+     Incremental New Leases.
+
+     6.5 Conditions to All Disbursements. No Disbursement of Loan Proceeds shall
+be made by Lender to Borrower at any time unless:
+
+     (a) All conditions precedent to that Disbursement have been satisfied,
+including without limitation, performance of all of Borrower's obligations under
+this Agreement and the Loan Documents which are to be performed prior to such
+Disbursement.
+
+     (b) The amount of Loan proceeds disbursed or to be disbursed does not
+exceed the lesser of (i) 65% of the purchase price of the Project, (ii) 65% of
+the appraised value of the Project, (iii) an amount such that the Debt Service
+Coverage Ratio for the Project does not exceed 1.25x (as determined pursuant to
+the requirements for such disbursement).
+
+     (c) No Default has occurred under this Agreement, or under any of the Loan
+Documents, and no event, circumstance or condition has occurred or exists which,
+with the passage of time or the giving of notice, would constitute such a
+Default.
+
+     (d) No material litigation or proceedings are pending or threatened
+(including but not limited to, proceedings under Title 11 of the United States
+Code) against Borrower, the Land or the Project.
+
+     (e) No material adverse change has occurred or is threatened with respect
+to the Project or the financial condition of Borrower.
+
+
+                                      -18-
+<PAGE>
+
+     (f) All representations and warranties made by Borrower to Lender herein
+and otherwise in connection with this Loan continue to be accurate, and all
+statements and representations made in the application for this Loan submitted
+to Lender continue to be accurate.
+
+     (g) No uninsured damage to or destruction of the Project or any portion
+thereof shall have occurred.
+
+     (h) If requested by Lender, Lender has received a satisfactory report from
+Lender's Inspecting Agent, indicating that the items for which payment has been
+requested have been performed at or incorporated into the Project. The cost of
+this inspection shall be paid directly by Borrower.
+
+     (i) The Loan is not in default and Borrower has complied with all of the
+terms and conditions of this Agreement.
+
+     6.6 Intentionally deleted.
+
+     6.7 Documents Required for Final Disbursement. The final Certificate for
+Payment for the final Disbursement shall be accompanied by the following, all of
+which shall be strictly satisfactory to Lender in its sole and absolute
+discretion:
+
+     (a) Borrower shall have furnished Lender with current searches of all
+Uniform Commercial Code financing statements filed with the Secretary of State
+of Oklahoma and/or the Recorder for Tulsa County, Oklahoma, against Borrower as
+debtors, showing that no Uniform Commercial Code financing statements are filed
+or recorded against Borrower in which the collateral is described as personal
+property or fixtures located on the Project or used in connection with the
+Project.
+
+     (b) An affidavit of the Borrower stating that each person providing any
+material or performing any work in connection with the Project has been paid in
+full and that all withholding taxes have been paid.
+
+     (c) Any permits, licenses, certificates of occupancy or other evidence of
+compliance with the requirements of any governmental authorities necessary for
+the use of the Land.
+
+     (d) If requested by Lender, a satisfactory final inspection report of
+Lender's Inspecting Agent and a representative of the permanent lender if any,
+indicating that the Project has been fully completed in accordance, the
+requirements of this Agreement and the requirements of all New Leases.
+
+     (e) Evidence that all insurance required under the terms of this Agreement
+is in full force and effect.
+
+     (f) Such other items as may be required by Lender, including, without
+limitation, evidence that the improvements have been completed to the
+satisfaction of the Lender and in a manner sufficient to satisfy the terms of
+any permanent loan commitment.
+
+
+                                      -19-
+<PAGE>
+
+     6.10 Intentionally deleted.
+
+     6.11 Intentionally deleted.
+
+     6.12 Intentionally deleted.
+
+     6.13 Provisions Applicable to All Disbursements. (a) By execution of this
+Agreement, Borrower authorizes Lender to make any Disbursement to the account to
+receive such Disbursement, and the Borrower agrees that, in so doing, the Lender
+is not acting as agent or trustee for the Borrower and the Lender will not be
+held accountable for any such Disbursement made in good faith.
+
+     (b) Each Certificate For Payment by the Borrower shall constitute an
+affirmation that the warranties and representations contained in Article II of
+this Agreement remain true and correct and that no breach of the covenants of
+Borrower contained in this Agreement has occurred, in each case as of the date
+of the Disbursement, unless Lender is notified to the contrary prior to funding
+of the requested Disbursement.
+
+     (c) The Lender may apply amounts due hereunder to the satisfaction of the
+conditions hereof, and amounts so applied shall be part of the Loan and shall be
+secured by the Mortgage, evidenced by the Note, bear interest in accordance with
+the Note and shall be due and payable in accordance with the provisions of the
+Note.
+
+                                   ARTICLE VII
+
+                          FURTHER COVENANTS OF BORROWER
+                          -----------------------------
+
+     7.1 Construction of Project. Borrower agrees that any new improvements to
+the Project will be constructed and fully equipped in a good and workmanlike
+manner with materials of high quality, in accordance with applicable building,
+zoning, pollution control, and environmental protection and other laws and
+ordinances and the New Leases. Borrower agrees that all materials contracted or
+purchased for construction of new improvements to the Project and all labor
+hired or contracted for with respect to the Project and paid for with Loan
+Proceeds will be used and employed solely on the Project and for no other
+purpose.
+
+     7.2 Intentionally deleted
+
+     7.3 Inspection by Lender. If requested by Lender, Borrower will cooperate
+(and will cause the contractors to cooperate) with Lender in arranging for
+inspections of the progress of the construction of new improvements to the
+Project by Lender's Inspecting Agent, from time to time, and Borrower will
+cooperate (and will cause any managing agent to cooperate) with Lender in
+arranging for inspections, from time to time, of the Project by Lender and its
+Inspecting Agents.
+
+     7.4 Mechanics' Liens. Borrower will not suffer or permit any mechanics'
+lien claims to be filed or otherwise asserted against the Project or any funds
+due any contractor, and will promptly bond or discharge the same if any claims
+for lien or any proceedings for the enforcement thereof are filed or commenced;
+provided, however, that Borrower shall have the right to contest in good faith
+
+
+                                      -20-
+<PAGE>
+
+and with due diligence the validity of any such lien or claim upon furnishing to
+the Title Agent such security or indemnity as it may require to induce the Title
+Agent to issue its Title Policy or an endorsement thereto insuring against all
+such claims, liens or proceedings; and provided further that Lender will not be
+required to make any further Disbursements of the Loan Proceeds unless (i) any
+mechanics' lien claims shown by any title insurance commitments or interim
+binders or certifications have been bonded against, released or insured against
+by the Title Agent or (ii) Borrower shall have provided Lender with such other
+security with respect to such claim as may be acceptable to Lender, in its sole
+discretion. In the event Borrower elects to bond any mechanic's lien claim, such
+bond shall be in an amount equal to at least one hundred twenty-five percent
+(125%) of such claim.
+
+     7.5 Settlement of Mechanics' Lien Claims. If Borrower shall fail promptly
+to bond or discharge any mechanics' lien claim filed or otherwise asserted or to
+contest any such claims and give security or indemnity in the manner provided in
+subsection 7.4 above, or, having commenced to contest the same, and having given
+such security or indemnity, shall thereafter fail to prosecute such contest in
+good faith or with due diligence, or fail to maintain such indemnity or security
+so required by the Title Agent for its full amount, or, upon adverse conclusion
+of any such contest, shall fail to cause any judgment or decree to be satisfied
+and lien to be released, then, and in any such event, Lender may at its election
+(but shall not be required to), (i) procure the release and discharge of any
+such claim and any judgment or decree thereon, without inquiring into or
+investigating the amount, validity or enforceability of such lien or claim and
+(ii) effect any settlement or compromise of the same, or may furnish such
+security or indemnity to the Title Agent, and any amounts so expended by Lender,
+including premiums paid or security furnished in connection with the issuance of
+any surety company bonds, shall be deemed to constitute disbursements of the
+Loan Proceeds hereunder (even if the total amount of disbursements would exceed
+the face amount of the Note).
+
+     7.6 Intentionally deleted.
+
+     7.7 Renewal of Insurance. Borrower shall pay timely all premiums on all
+insurance policies required under this Agreement from time to time; and when and
+as additional insurance is required from time to time during the term of the
+Loan and when and as any policies of insurance may expire, furnish to Lender,
+premiums prepaid, additional and renewal insurance policies in companies,
+coverage and amounts satisfactory to Lender, all in accordance with Section
+5.1(c). Notwithstanding this Section, in the event of Borrower's default under
+this Agreement or any of the Loan Documents, Lender shall have the right (but
+not the obligation) to place and maintain insurance required to be placed and
+maintained by Borrower hereunder and treat the amounts expended therefor as
+additional disbursements of Loan Proceeds (even if the total amount of
+disbursements would exceed the face amount of the Note).
+
+     7.8 Proceedings to Enjoin or Prevent Operation. If any proceedings are
+filed seeking to enjoin or otherwise prevent or declare unlawful the occupancy,
+maintenance or operation of the Project or any portion thereof, Borrower shall
+at its sole expense (i) cause such proceedings to be vigorously contested in
+good faith and (ii) in the event of an adverse ruling or decision, prosecute all
+allowable appeals therefrom. Without limiting the generality of the foregoing,
+Borrower shall resist the entry or seek the stay of any temporary or permanent
+injunction that may be entered and use its best efforts to bring about a
+favorable and speedy disposition of all such proceedings.
+
+
+                                      -21-
+<PAGE>
+
+     7.9 Lender's Action for Its Own Protection Only. The authority herein
+conferred upon Lender, and any action taken by Lender, including, without
+limitation, actions to inspect the Project, to procure waivers or sworn
+statements, and to approve contracts, will be exercised and taken by Lender and
+by Lender's other advisors or representatives for their own protection only and
+may not be relied upon by Borrower or any other person for any purposes
+whatever. Neither Lender nor any other advisor or representative of Lender shall
+be deemed to have assumed any responsibility to Borrower or any other person
+with respect to any such action herein authorized or taken by Lender or any
+other advisor or representative of Lender or with respect to the proper
+construction of improvements on the Project, performance of contracts,
+subcontracts or purchase orders by any contractor, subcontractor or material
+supplier, or prevention of mechanics' liens from being claimed or asserted
+against any of the Project. Any review, investigation or inspection conducted by
+Lender, or any other architectural or engineering consultants retained by Lender
+or any agent or representative of Lender in order to verify independently
+Borrower's satisfaction of any conditions precedent to Loan disbursements under
+this Agreement, Borrower's performance of any of the covenants, agreements and
+obligations of Borrower under this Agreement, or the validity of any
+representations and warranties made by Borrower hereunder (regardless of whether
+or not the party conducting such review, investigation or inspection should have
+discovered that any of such conditions precedent were not satisfied or that any
+such covenants, agreements or obligations were not performed or that any such
+representations or warranties were not true), shall not affect (or constitute a
+waiver by Lender of) (i) any of Borrower's representations and warranties under
+this Agreement or Lender's reliance thereon or (ii) Lender's reliance upon any
+certifications of Borrower or the Architect required under this Agreement or any
+other facts, information or reports furnished Lender by Borrower hereunder.
+
+     7.10 Furnishing Information. (a) Within 90 days of the end of each calendar
+year, Borrower shall deliver or cause to be delivered to Lender financial
+statements for Borrower prepared by an accountant and within 30 days following
+the filing of the same, annual federal income tax returns for Borrower. Any such
+financial statements for Borrower shall be of review quality or on a form
+provided by Lender and certified as true and correct by Borrower.
+
+     (b) Within 30 days following the end of each quarter and prior to any
+Disbursement, Borrower shall deliver to Lender current rent rolls for the
+Project, which shall include information on the amount of units rented, the
+rental under each lease; and the term of each lease, as well as any other
+related information as may be requested by Lender. All such rent rolls shall be
+certified as true and correct by Borrower.
+
+     (c) Within 30 days following the end of each quarter except that Borrower
+shall have 45 days following the fourth quarter, Borrower shall deliver to
+Lender annual cash flow and operating statements for the Project showing actual
+sources and uses of cash during the preceding twelve (12) months. All such
+statements shall be certified as true and correct by Borrower.
+
+
+                                      -22-
+<PAGE>
+
+     (d) Within 45 days following the end of each fiscal year, Borrower shall
+deliver to Lender a proforma operating budget for the Project.
+
+     (e) Within 30 days following the end of each quarter, Borrower shall
+deliver historical tenant sales reports (as available).
+
+     (f) Within 30 days following the end of each quarter and prior to any
+Disbursement, Borrower shall deliver to Lender a certified certificate of
+compliance, substantially in the form attached hereto as Exhibit B, certifying,
+among other things, current compliance with Debt Service Coverage Ratio
+requirements and setting forth all tenants who have given their notice to
+terminate or not renew their existing lease (the "Certificate of Compliance").
+
+     (g) Additionally, Borrower will:
+
+          (i) promptly supply Lender with such information concerning its
+     affairs and property relating to the development and operation of the
+     Project, including but not limited to monthly management reports, as Lender
+     may request from time to time hereafter;
+
+          (ii) promptly notify Lender of any condition or event which
+     constitutes (or which upon the giving of notice or lapse of time or both
+     would constitute) a breach or event of default of any term, condition,
+     warranty, representation or provision of this Agreement or of any of the
+     Loan Documents;
+
+          (iii) promptly notify Lender of any "material adverse financial
+     change" in its respective financial conditions, and maintain a standard and
+     modern system of accounting in accordance with generally accepted
+     accounting principles;
+
+          (iv) promptly notify Lender of any "materially adverse financial
+     change" in connection with the operation of the Project;
+
+          (v) upon reasonable notice from Lender, at any time whatever during
+     regular business hours permit Lender or any of its agents or
+     representatives to have access to and examine all of its books and records
+     regarding the development and operation of the Project; and
+
+          (vi) permit Lender to copy and make abstracts from any and all of said
+     books and records.
+
+     7.11 Documents of Further Assurance. Borrower shall, from time to time,
+upon Lender's request, execute, deliver, record and furnish such documents as
+Lender may reasonably deem necessary or desirable to (i) perfect and maintain
+perfected as valid liens upon the Project, the liens granted by Borrower to
+Lender under the Mortgage and the assignments and other security interests under
+the other Loan Documents as contemplated by this Agreement, (ii) correct any
+errors of a typographical nature which may be contained in any of the Loan
+Documents, and (iii) consummate fully the transaction contemplated under this
+Agreement.
+
+
+                                      -23-
+<PAGE>
+
+     7.12 Intentionally deleted.
+
+     7.13 Operation of Project. As long as any portion of the Loan remains
+outstanding, the Project shall be operated in a first class manner as a
+commercial retail property.
+
+     7.14 Management Agents' and Brokers' Contracts. Borrower shall not enter
+into, any new management contract or materially modify, or amend any management
+contracts for the Project, without the prior written approval of Lender which
+approval shall not unreasonably be withheld, except as specifically permitted
+pursuant to that certain Assignment of Management Agreement executed in
+conjunction herewith.
+
+     7.15 Furnishing Notices. Borrower shall provide Lender with copies of all
+notices with respect to any non compliance or default pertaining to the Project
+or any part thereof received by Borrower (or its agents or representatives) from
+any federal, state or local governmental official, body, board or department,
+within three (3) business days after such notice is received.
+
+     7.16 Intentionally deleted.
+
+     7.17 No Additional Debt; No Assignment. As more particularly provided in
+Section 9.2, Borrower shall not consent or agree to any lien, mortgage, security
+interest, encumbrance, or sale and leaseback transaction affecting the Land.
+
+     7.18 Hold Disbursements in Trust. Borrower will pay all costs, expenses and
+fees relating to the equipping, fixturing, use and operation of the Project.
+
+     7.19 Indemnification. Borrower hereby indemnifies Lender and agrees to
+defend Lender and hold Lender harmless from and against all claims, injuries,
+losses, costs, damages, liabilities and expenses (including attorneys' fees and
+consequential damages) of any and every kind to any persons or property by
+reason of (i) the construction or other work contemplated herein (except by
+reason of the negligence or willful misconduct of Lender), (ii) the operation or
+maintenance of the Project (except by reason of the negligence or willful
+misconduct of Lender), (iii) any other action or inaction by, or matter which is
+the responsibility of Borrower (except by reason of the gross negligence or
+willful misconduct of Lender), or (iv) the breach of any representation or
+obligation of Borrower hereunder.
+
+     7.20 Prohibition Against Cash Distributions and Application of Net Cash
+Flow to Other Expenditures. In no event shall Borrower make any disbursements
+from rental or other cash flow from the Land and the Project to any party during
+any month until the installment due under the Note has been reserved or
+allocated for such month.
+
+     7.21 Insurance Reporting Requirements. Borrower shall promptly notify the
+insurance carrier or agent therefor (with a copy of such notification being
+provided to Lender) if there is any increase in hazard relating to the Project,
+or transfer of ownership.
+
+     7.22 Compliance With Laws. Borrower shall comply with all applicable
+requirements of any governmental authority having jurisdiction. In no event
+shall Borrower consent to or cause any zoning change on the Project or any
+portion thereof (including any variance, plan approval, rezoning, or
+modification of any zoning commitment) without Lender's prior written consent.
+
+
+                                      -24-
+<PAGE>
+
+     7.23 Alterations. Without the prior written consent of Lender, Borrower
+shall not make any material alterations to the Project, if the costs of such
+alterations will exceed $3,000,000.00.
+
+     7.24 Lost Note. Borrower shall, if the Note is mutilated, destroyed, lost
+or stolen, deliver to Lender, in substitution therefor, a new promissory note
+containing the same terms and conditions as the Note with a notation thereon of
+the unpaid principal accrued and unpaid interest.
+
+     7.25 Regulated Materials. Borrower shall comply with any and all laws,
+regulations or orders with respect to the discharge and removal of Regulated
+Materials, shall pay immediately when due the costs of removal of any such
+Regulated Materials, and shall keep the Project free of any lien imposed
+pursuant to such laws, regulations or orders. In the event Borrower fails to do
+so, after notice to Borrower and the expiration of the earlier of (i) applicable
+cure periods hereunder or (ii) the cure period permitted under applicable law,
+regulation or order, Lender may either declare this Agreement to be in default
+or cause the Project to be freed from the Regulated Materials with the cost of
+the removal added to the indebtedness evidenced by the Note and secured by the
+Mortgage (regardless of whether such indebtedness then increases the outstanding
+balance of the Note to an amount in excess of the face amount thereof). Borrower
+further agrees that Borrower shall not release or dispose of any Regulated
+Materials at the Project without the express prior approval of Lender and any
+such release or disposal will be in compliance with all applicable laws and
+regulations and conditions, if any, established by Lender, including, without
+limitation, those set forth in Section 6 of the Mortgage. Lender shall have the
+right at any time to conduct an environmental audit of the Project for
+reasonable cause, at Borrower's sole cost and expense, and Borrower shall
+cooperate in the conduct of such environmental audit. Borrower shall give Lender
+and its agents and its employees access to the Project to inspect and test the
+Project and to remove Regulated Materials. Borrower hereby indemnifies Lender
+and agrees to defend Lender and hold Lender harmless from and against all
+claims, injuries, losses, costs, damages, liabilities and expenses (including
+attorneys' fees and consequential damages) by reason of any claim in connection
+with any Regulated Materials which were present at the Project during or prior
+to Borrower's ownership of the Project. The foregoing indemnification shall be
+included within the indemnity agreement referred to in clause(n) of Article iv
+hereof, and shall survive repayment of the Note.
+
+     7.26 Asbestos. Without limiting the generality of Section 7.25 above,
+Borrower shall not install nor permit to be installed in the Project asbestos or
+any substance containing asbestos. If Borrower shall fail to comply with this
+section, Lender may declare this Agreement to be in default and/or do whatever
+is necessary to eliminate said substances from the Project or otherwise comply
+with the applicable law, regulation, or order and the costs thereof shall be
+added to the indebtedness evidenced by the Note and secured by the Mortgage.
+
+     7.27 Additional Appraisals. Borrower hereby covenants and agrees that
+Lender may, in its sole discretion, require annually an updated Appraisal for
+the Project, at Borrower's expense. Notwithstanding he foregoing, in no event
+shall Lender require Borrower to provide more than two (2) additional Appraisals
+during the term of the Loan.
+
+
+                                      -25-
+<PAGE>
+
+     7.28 Minimum Debt Service Coverage Ratio. Borrower hereby covenants and
+agrees that the Project will maintain a minimum Debt Service Coverage Ratio
+during the term of the Loan of 1.25x (the "DSCR Requirement"), measured
+quarterly. For purposes of compliance with this Section 7.28, during the 12
+months immediately following the Mervyn's Acquisition, all costs, income and
+debt service related to the Mervyn's Acquisition will be excluded from such
+calculation. Beginning 12 months following the Mervyn's Acquisition, all Debt
+Service Coverage Ratio calculations shall include the entire Project, including
+all income, costs and debt service related to the Mervyn's Acquisition. Upon
+Borrower's achievement of the DSCR Requirement in any quarter beginning with the
+twelve month anniversary following the Mervyn's Acquisition, Lender will release
+the funds from the Mervyn's Collateral Account to Borrower.
+
+     For purposes of compliance with this Section 7.28, during the 12 months
+immediately following a Subsequent Draw, all calculations of Debt Service
+Coverage Ratio which include an Incremental New Lease shall include a proforma
+annualized number for the income, costs and expenses of any Incremental New
+Lease that has been in effect for less than 12 months.
+
+     Borrower hereby covenants and agrees that Borrower must evidence compliance
+with the DSCR Requirement prior to Draw B or any Subsequent Draw.
+
+     7.28.1 Failure to Maintain required Debt Service Coverage Ratio. In the
+event that Borrower fails to maintain the minimum Debt Service Coverage Ratio
+pursuant to Section 7.28, Borrower shall have a period of Six (6) months to cure
+such covenant violation.
+
+     In the event that Borrower does not achieve the DSCR Requirement within six
+(6) months of the covenant violation, Borrower shall establish with Lender a
+cash collateral reserve account (the "DSC Cash Collateral Reserve"). The amount
+the DSC Cash Collateral Reserve shall be calculated by Lender as follows:
+
+     Required NOI minus actual NOI
+     "Required NOI" shall mean current Debt Service times 1.25
+
+The DSC Cash Collateral reserve shall be held by Lender as additional security
+for the Loan until such time as Borrower achieves the DSCR Requirement using
+actual NOI. For any quarter in which Borrower fails to achieve the DSCR
+Requirement, Borrower shall adjust the amount of the DSC Cash Collateral Reserve
+accordingly, to insure that such amount when added to the actual NOI would be
+sufficient to achieve the DSCR Requirement. Upon Borrower's achievement of the
+DSCR Requirement based on actual NOI, Lender shall release the funds from the
+DSC Cash Collateral reserve to Borrower.
+
+     Notwithstanding anything to the contrary contained herein, in the event
+that the Debt Service Coverage Ratio for the Project falls below 1.05x, Borrower
+shall within three (3) days of receiving notice from Lender, repay the loan in
+the aggregate amount of all Subsequent Draws outstanding and shall establish the
+DSC Cash Collateral Reserve as calculated above. Lender shall not be obligated
+to make any Subsequent Draws until Borrower achieves the DSCR Requirement for
+two consecutive quarters. Upon achieving the DSCR Requirement for two
+
+
+                                      -26-
+<PAGE>
+
+consecutive quarters, Borrower may redraw portions of the Loan repaid pursuant
+to this section subject to the conditions for Subsequent Draws set forth in
+Section 3.3(c).
+
+     7.29 Equity: Borrower shall maintain at all times cash equity invested in
+the Project of not less than the greater of (i) 35% of the total cost of the
+Project, or (ii) $20,405,000.
+
+     7.30 New Leases with any tenant for space in excess of 10,000 square shall
+be subject to Lender's approval which approval shall not be unreasonably
+withheld or delayed. Lender approval shall not be required for any new leases
+with tenants for 10,000 square feet of space or less if such new leases are: (i)
+written substantially in accordance with the standard form of lease which has
+been approved by Lender (subject to any commercially reasonable changes made in
+the course of negotiations with the applicable tenant), (ii) not be to an
+Affiliate of Borrower (iii) be on commercially reasonable terms at rental rates
+comparable to existing local market rates for similar properties, (iii) provide
+that such lease is subordinate to the Mortgage and that the lessee will attorn
+to Lender and any purchaser at a foreclosure sale and (iv) not contain any terms
+which would materially adversely affect Lender's rights under the Loan
+Documents.
+
+     Whenever Lender's approval or consent is required for any new lease or
+leasing action, Borrower shall have the right to submit a term sheet of such
+transaction to Lender for Lender's approval, such approval not to be
+unreasonably withheld, conditioned or delayed. Any such term sheet submitted to
+Lender shall set forth all material terms of the proposed transaction including,
+without limitation, identity of tenant, square footage, term, rent, rent
+credits, abatements, work allowances and tenant improvements to be constructed
+by Borrower. Lender shall use good faith efforts to respond within ten (10)
+Business Days after Lender's receipt of Borrower's written request for approval
+or consent of such term sheet. If Lender fails to respond to such request within
+ten (10) Business Days, and Borrower sends a second request containing a legend
+in bold letters stating that Lender's failure to respond within five (5)
+Business Days shall be deemed consent or approval, Lender shall be deemed to
+have approved or consented to such term sheet if Lender fails to respond to such
+second written request before the expiration of such five (5) Business Day
+period.
+
+                                  ARTICLE VIII
+
+                           CASUALTIES AND CONDEMNATION
+                           ---------------------------
+
+     8.1 Notice. In case of any material damage or destruction, taking, or
+condemnation of the Project, or any part thereof, or any interest therein or
+right accruing thereto, Borrower shall promptly give to Lender written notice
+generally describing the nature and extent of such damage, destruction or taking
+which has resulted or which may result therefrom. So long as Borrower is not in
+default, Borrower may adjust, settle and compromise any such insurance policy or
+any proposed condemnation award, but in any event, no final adjustment,
+compromise or settlement of any insurance claim or condemnation award that
+exceeds $3,000,000.00 shall be entered into without the prior written approval
+of Lender as to such settlement, adjustment or compromise thereof. Lender may
+appear in any such proceedings and negotiations and Borrower shall promptly
+deliver to Lender copies of all notices and pleadings in any such proceedings.
+Borrower will in good faith, file and prosecute all claims necessary for any
+award or payment resulting from such damage, destruction or taking. All costs
+and expenses incurred by Lender in exercising its rights under this section
+shall constitute indebtedness secured by the Mortgage.
+
+
+                                      -27-
+<PAGE>
+
+     8.2 Application of Insurance Proceeds and Condemnation Awards. (a) Upon
+occurrence of any loss or damage to all or any portion of the Project resulting
+from fire, vandalism, malicious mischief or any other casualty or physical harm
+(a "Casualty") or any exercise of the power of condemnation or eminent domain (a
+"Taking"), Lender may elect to collect, retain and apply as a Loan prepayment
+all proceeds (the "Proceeds") of any insurance policies collected or claimed as
+a result of such Casualty and all awards resulting from such Taking ("Awards")
+after deduction of all expenses of collection and settlement, including
+attorney's and adjusters' fees and charges. To the extent that the proceeds or
+awards exceed $3,000,000.00. Subject to the provisions of Section 8.1 above,
+Borrower hereby authorizes Lender, at Lender's option, to collect any losses
+under any insurance with respect to the Project which is kept, or caused to be
+kept, by Borrower, and hereby irrevocably appoints Lender as its
+attorney-in-fact, coupled with an interest, for such purposes. Any Proceeds or
+Awards remaining after payment in full of the Loan and all other sums due Lender
+hereunder shall be paid by Lender to Borrower without any allowance for interest
+thereon. Notwithstanding anything to the contrary contained herein, in the event
+that (i) no Event of Default has occurred and is continuing hereunder, (ii) the
+Proceeds or Awards, as the case may be, are sufficient to rebuild the Project
+or, if they are insufficient, as determined by Lender in its sole discretion,
+Borrower provides Lender with additional funds necessary, as determined in
+Lender's sole discretion (iii) after completion of the reconstruction, the loan
+to value ratio of the Project is satisfactory to Lender, as determined in
+Lender's sole discretion, then the Proceeds or Awards, as the case may be,
+shall, at Borrower's request, be applied towards reconstruction of the Project,
+which funds shall be disbursed pursuant to the disbursement provisions set forth
+herein.
+
+     (b) In the event Lender does not apply the Proceeds or Awards to prepayment
+of the Loan as provided for in Section 8.2(a) above or in the event such
+Proceeds or Awards, if applied, do not fully discharge the Loan, Borrower will:
+
+          (i) Proceed with diligence to make settlement (which shall be subject
+     to the approval of Lender) with insurers or with condemning authorities and
+     cause the Proceeds or Awards to be deposited with Lender, unless Lender
+     shall elect to exercise its right under the Mortgage to make such
+     settlement without the consent of Borrower.
+
+          (ii) In the event of any unreasonable delay in making settlement with
+     insurers or effecting collection of Proceeds or Awards, Borrower shall
+     deposit with Lender the full amount required to meet the obligations due
+     under the Loan, disregarding such Proceeds or Awards.
+
+          (iii) In the event the Proceeds or Award deposited with Lender are
+     insufficient to complete reconstruction of the Project, Borrower shall
+     deposit with Lender additional funds as necessary, as determined by Lender
+     in its sole discretion.
+
+          (iv) Promptly proceed with construction and restoration of the
+     Project, including the repair of all such loss or damage.
+
+
+                                      -28-
+<PAGE>
+
+All Proceeds, Awards and funds deposited by Borrower hereunder shall first be
+fully disbursed before disbursement of any further Loan Proceeds. Borrower shall
+not be entitled to any payment of or credit for interest on such Proceeds,
+Awards and funds. In the event of deposit by Borrower of the full amount
+required to complete reconstruction of the Project, as aforesaid, upon the
+subsequent receipt of Proceeds or Awards, such Proceeds or Awards, as and when
+received, may be collected and retained by Borrower.
+
+     (c) Lender shall not be obligated to see to the proper application of any
+of the Proceeds nor shall the amount so released or used be deemed a payment on
+any indebtedness evidenced by the Note or secured by any of the Loan Documents.
+In the event of foreclosure of the Mortgage or other transfer of title in lieu
+of foreclosure, all right, title and interest of Lender, in and to any insurance
+policies then in force shall pass to the purchaser or Lender, as the case may
+be.
+
+     (d) All proceeds of use and occupancy or rental value insurance shall be
+paid to Lender for the purposes of paying, to the extent available and
+necessary, in the following order: (i) insurance premiums payable with respect
+to any insurance required to be carried by Borrower hereunder; (ii) taxes,
+assessments and charges payable by Borrower under any of the Loan Documents; and
+(iii) all amounts payable on the Note, together with any and all other amounts
+evidenced or secured by any of the Loan Documents, and to the extent that such
+insurance proceeds are available to pay the items listed in clauses(i), (ii) and
+(iii), Lender shall pay such items for the account of Borrower. All such
+insurance proceeds not deemed necessary, in Lender's sole opinion, to pay the
+above items shall be paid over to Borrower.
+
+     (e) Upon failure on the part of Borrower promptly to commence or continue
+the repair or restoration of the Project after settlement of any claim with the
+insurer, Lender shall have the right to apply such Proceeds to the payment of
+any indebtedness secured by the Loan Documents, and resort to such other
+remedies available to Lender hereunder; provided, however, that nothing herein
+contained shall prevent Lender from applying at any time the whole or any part
+of such insurance proceeds to the curing of any Event of Default hereunder.
+
+                                   ARTICLE IX
+
+                       ASSIGNMENTS, SALE AND ENCUMBRANCES
+                       ----------------------------------
+
+     9.1 Lender's Right to Assign. Lender may assign, negotiate, pledge or
+otherwise hypothecate this Agreement or any of its rights and security
+hereunder, including the Note, and any of the other Loan Documents to any bank,
+participant or financial institution, and in case of such assignment, Borrower
+will accord full recognition thereto, and hereby agree that all rights and
+remedies of Lender in connection with the interest so assigned shall be
+enforceable against Borrower by such bank, participant or financial institution
+with the same force and effect and to the same extent as the same would have
+been enforceable by Lender but for such assignment.
+
+     9.2 Prohibition of Assignments and Encumbrances by Borrower. Borrower shall
+not, without the prior written consent of Lender, create, effect, consent to,
+attempt, contract for, agree to make, suffer or permit any conveyance, sale,
+assignment, transfer, lien, pledge, mortgage, security interest, encumbrance or
+alienation ("Prohibited Transfer") of all or any portion of, or any interest in,
+the Land, or the Project, whether effected directly, indirectly, voluntarily,
+
+
+                                      -29-
+<PAGE>
+
+involuntarily, or by operation of law or otherwise; provided, however, that the
+foregoing shall not apply to (i) liens securing the Loan, (ii) the lien of
+current taxes and assessments not in default, (iii) leases permitted pursuant to
+this Agreement, and (iv) the Permitted Exceptions.
+
+     Notwithstanding the foregoing, the transfer of 100% of the Glimcher
+Properties Limited Partnership's interest in Borrower to Tulsa Promenade REIT,
+LLC shall be a permitted transfer. Also the transfer of up to 50% of the
+interest of any member in Tulsa Promenade REIT, LLC or in OG Retail Holding Co.,
+LLC shall be permitted without Lender consent.
+
+                                    ARTICLE X
+
+                              DEFAULTS BY BORROWER
+                              --------------------
+
+     The occurrence of any one or more of the following shall constitute an
+"Event of Default" hereunder, and any Event of Default which may occur hereunder
+shall constitute a default under each of the other Loan Documents:
+
+     (a) A failure by Borrower to make any payment on the Note when and as the
+same becomes due, which failure continues for a period of fifteen (15) days.
+
+     (b) Any failure of Borrower for a period of thirty (30) days after written
+notice from Lender to Borrower, to observe or perform any of the covenants
+(other than payment of the Note or payments required hereunder), contained in
+this Agreement or any of the other Loan Documents; provided, that such thirty
+(30)-day period shall be extended to permit the cure of any default which by its
+nature is not reasonably susceptible to cure within said thirty (30)-day period,
+so long as Borrower promptly within said thirty (30)-day period commences its
+efforts to cure and thereafter diligently pursues the same to completion.
+
+     (c) Any failure by Borrower to repay the Loan or any portion thereof as
+required herein.
+
+     (d) The failure of Borrower to fund the DSC Cash Collateral Reserve as
+required herein.
+
+     (e) Intentionally deleted.
+
+     (f) The occurrence of a Prohibited Transfer.
+
+     (g) The existence of any collusion, fraud, dishonesty or bad faith by or
+with the acquiescence of Borrower, which in any way relates to or affects the
+Loan or the Project.
+
+     (h) If, at any time, any material representation, statement, report or
+certificate made now or hereafter by Borrower is not true and correct, or if at
+any time any material statement or representation made in the construction loan
+application or any supporting materials submitted to Lender for this Loan is not
+true and correct.
+
+     (i) If all or a substantial part of the assets of Borrower are attached,
+seized, subjected to a writ or distress warrant, or is levied upon, and such
+attachment, seizure, writ, warrant or levy is not vacated within thirty (30)
+days thereafter.
+
+
+                                      -30-
+<PAGE>
+
+     (j) If Borrower is enjoined or restrained or in any way prevented by court
+order from performing any of its obligations hereunder or under the other Loan
+Documents or conducting all or a substantial part of its business affairs.
+
+     (k) If Borrower:
+
+          (i) Shall file a voluntary petition in bankruptcy or for arrangement,
+     reorganization or other relief under any chapter of the federal bankruptcy
+     code of any similar law, state or federal, now or hereafter in effect;
+
+          (ii) Shall file an answer or other pleading in any proceedings
+     admitting insolvency, bankruptcy, or inability to pay its debts as they
+     mature;
+
+          (iii) Within sixty (60) days after the filing against it of any
+     involuntary proceedings under the federal bankruptcy code or similar law,
+     state or federal, now or hereafter in effect, such proceedings shall not
+     have been vacated;
+
+          (iv) Any order appointing a receiver, trustee or liquidator for it or
+     for all or a major part of its property or the Land shall not be vacated
+     within sixty (60) days following entry thereof;
+
+          (v) Shall be adjudicated a bankrupt;
+
+          (vi) Shall make an assignment for the benefit of creditors or shall
+     admit in writing its inability to pay its debts generally as they become
+     due or shall consent to the appointment of a receiver or trustee or
+     liquidator of all or the major part of its property, or the Land.
+
+     (l) If Borrower fails to maintain the equity required pursuant to Section
+7.29, and such covenant violation is not cured within 7 days.
+
+     (m) If Borrower defaults in the due performance under any other Loan
+Documents with Lender beyond any applicable grace period contained therein,
+including, without limitation, all agreements between Lender and the Borrower
+which give rise to Hedging Obligations.
+
+                                   ARTICLE XI
+
+                         LENDER'S REMEDIES UPON DEFAULT
+                         ------------------------------
+
+     11.1 Remedies Conferred Upon Lender. Upon the occurrence of any Event of
+Default, Lender, in addition to all remedies conferred upon Lender by law and by
+the terms of the Note, the Mortgage and the other Loan Documents, may pursue any
+one or more of the following remedies concurrently or successively, it being the
+intent hereof that none of such remedies shall be to the exclusion of any
+others:
+
+
+                                      -31-
+<PAGE>
+
+     (a) Withhold further disbursement of Loan Proceeds and terminate any or all
+of its obligations to Borrower.
+
+     (b) Declare the Note to be due and payable forthwith, without presentment,
+demand, protest or other notice of any kind, all of which are hereby expressly
+waived.
+
+     (c) In addition to any rights of set-off that Lender may have under
+applicable law, Lender may, without notice of any kind to Borrower, appropriate
+and apply to the payment of the Note or of any sums due under this Agreement,
+any and all balances, deposits, credits, accounts, certificates of deposit,
+instruments or money of Borrower then or thereafter in the possession of Lender,
+including but not limited to the Mervyn's Collateral Account, and the DSC Cash
+Collateral Account.
+
+     (d) Exercise or pursue any other remedy or cause of action permitted at law
+or at equity or under this Agreement or any other Loan Document, including but
+not limited to foreclosure of the Mortgage and enforcement of all Loan
+Documents.
+
+     11.2 Right of Lender to Make Advances to Cure Defaults. In the event that
+Borrower shall fail to perform any of its covenants or agreements herein or in
+any of the other Loan Documents contained, Lender may (but shall not be required
+to) perform any of such covenants and agreements, and any amounts so expended by
+Lender shall be deemed advanced by Lender under an obligation to do so
+regardless of the identity of the person or persons to whom said funds are
+disbursed. Loan Proceeds advanced by Lender in the exercise of its judgment that
+the same are needed to complete the Project to protect its security for the Loan
+are obligatory advances hereunder and shall constitute additional indebtedness
+payable on demand which is evidenced and secured by the Loan Documents.
+
+     11.3 Attorneys' Fees. Borrower will pay Lender's reasonable attorneys' fees
+and costs in connection with the administration and enforcement of this
+Agreement; without limiting the generality of the foregoing, if at any time or
+times hereafter the Lender employs counsel for advice or other representation
+with respect to any matter concerning Borrower, this Agreement, the Land or the
+Loan Documents or to protect, collect, lease, sell, take possession of or
+liquidate all or any portion of the Land, or to attempt to enforce or protect
+any security interest or lien or other right in any of the premises or under any
+of the Loan Documents, or to enforce any rights of the Lender or obligations of
+Borrower or any other person, firm or corporation which may be obligated to
+Lender by virtue of this Agreement or under any of the Loan Documents or any
+other agreement, instrument or document, heretofore or hereafter delivered to
+Lender in furtherance hereof, then in any such event, all of the attorneys'
+reasonable fees arising from such services, and any expenses, costs and charges
+relating thereto, shall constitute an additional indebtedness owing by Borrower
+to Lender payable on demand, and evidenced and secured by the Loan Documents.
+
+     11.4 No Waiver. No failure by Lender to exercise, or delay by Lender in
+exercising, any right, power or privilege hereunder shall operate as a waiver
+thereof, nor shall any single or partial exercise of any right, power or
+privilege hereunder preclude any other or further exercise thereof, or the
+exercise of any other right, power or privilege. The rights and remedies
+provided in this Agreement and in the Loan Documents are cumulative and not
+exclusive of each other or of any right or remedy provided by law or equity. No
+
+
+                                      -32-
+<PAGE>
+
+notice to or demand on Borrower in any case shall, in itself entitle Borrower to
+any other or further notice or demand in similar or other circumstances or
+constitute a waiver of the rights of Lender to any other or further action in
+any circumstances without notice or demand.
+
+     11.5 Availability of Remedies. All of the remedies set forth herein and/or
+provided by law or equity shall be equally available to Lender, and the choice
+by Lender of one (1) such alternative over another shall not be subject to
+question or challenge by Borrower or any other person, nor shall any such choice
+be asserted as a defense, set-off, or failure to mitigate damages in any action,
+proceeding, or counteraction by Lender to recover or seeking any other remedy
+under this Loan Agreement or any of the Loan Documents, nor shall such choice
+preclude Lender from subsequently electing to exercise a different remedy,
+except as otherwise provided by law. The parties have agreed to the alternative
+remedies hereof specified in part because they recognize that the choice of
+remedies in the event of a failure hereunder will necessarily be and should
+properly be a matter of business judgment, which the passage of time and events
+may or may not prove to have been the best choice to maximize recovery by Lender
+at the lowest cost to Borrower. It is the intention of the parties that such
+choice by Lender be given conclusive effect regardless of such subsequent
+developments. At any sale of the security or collateral for the Loan or any part
+thereof whether by foreclosure or otherwise, Lender may in its discretion
+purchase all or any part of such collateral so sold or offered for sale for its
+own account and may apply against the balance due Lender pursuant to the terms
+of the Note the amount bid therefore.
+
+                                   ARTICLE XII
+
+                                  MISCELLANEOUS
+                                  -------------
+
+     12.1 Time Is of the Essence. Lender and Borrower agree that time is of the
+essence of all of their covenants under this Agreement.
+
+     12.2 Prior Agreements. This Agreement and the other Loan Documents, and any
+other documents or instruments executed pursuant thereto or contemplated
+thereby, shall represent the entire, integrated agreement between the parties
+hereto with respect to construction and equipping of the Project not yet in
+place, and shall supersede all prior negotiations, representations, or
+agreements pertaining thereto, either oral or written, which shall survive the
+execution of this Agreement by Borrower and Lender, and the occurrence of the
+Loan Closing, and shall be included in the term "Loan Documents." This Agreement
+and any provision hereof shall not be modified, amended, waived or discharged in
+any manner other than by a written amendment executed by all parties to this
+Agreement. An action on the part of the Lender waiving a specific provision or
+requirement herein contained, shall not be construed to be a waiver of future
+application of such provision or requirement or a waiver of any other provision
+or requirement hereunder.
+
+     12.3 Disclaimer by Lender. Lender shall not be liable to any subcontractor,
+supplier, laborer, architect, engineer or any other party for services performed
+or materials supplied in connection with construction of improvements to the
+Project. Lender shall not be liable for any debts or claims accruing in favor of
+any such parties against Borrower or against the Land. The Borrower shall not be
+considered an agent of Lender for any purposes, and Lender is not a venture
+
+
+                                      -33-
+<PAGE>
+
+partner with Borrower. Lender shall not be deemed to be in privity of contract
+with any contractor, subcontractor or provider of services on or to the Land,
+nor shall any payment of funds directly to a contractor, subcontractor or
+provider of services on or to the Land, be deemed to create any third party
+beneficiary status or recognition of same by Lender unless and until Lender
+expressly assumes such status in writing. Approvals granted by Lender for any
+matters covered under this Agreement shall be narrowly construed to cover only
+the parties and facts identified in any written approval or if not in writing
+such approvals shall be solely for the benefit of Borrower.
+
+     12.4 Indemnification. To the fullest extent permitted by law, Borrower
+hereby agrees to protect, indemnify, defend and save harmless, Lender and its
+directors, officers, agents and employees from and against any and all
+liability, expense or damage of any kind or nature and from any suits, claims,
+or demands, including legal fees and expenses, arising out of this Agreement or
+in connection herewith, except to the extent such suit, claim or damage is
+caused by any act, omission or willful misconduct of Lender, its directors,
+officers, agents and authorized employees. This obligation on the part of
+Borrower shall survive the closing of the Loan, the repayment thereof and any
+cancellation of the Loan Agreement.
+
+     12.5 Captions. The captions and headings of various articles and sections
+of this Agreement and exhibits pertaining hereto are for convenience only and
+not to be considered as defining or limiting in any way the scope or intent of
+the provisions hereof.
+
+     12.6 Inconsistent Terms and Partial Invalidity. In the event of any
+inconsistency among the terms hereof (including incorporated terms), or between
+such terms and the terms of any other Loan Document, this Loan Agreement shall
+be controlling. If any provision of this Agreement, or any paragraph, sentence,
+clause, phrase, or word, or the application thereof, in any circumstances, is
+adjudicated by a court of competent jurisdiction to be invalid, the validity of
+the remainder of this Agreement shall be construed as if such invalid part were
+never included herein.
+
+     12.7 Gender and Number. Any word herein which is expressed in the masculine
+or neuter gender shall be deemed to include the masculine, feminine and neuter
+genders. Any word herein which is expressed in the singular or plural number
+shall be deemed, whenever appropriate in the context, to include the singular
+and plural.
+
+     12.8 Definitions Included in Amendments. Definitions contained in this
+Agreement which identify documents, including, without limitation, the Loan
+Documents, shall be deemed to include all amendments and supplements to such
+documents from the date hereof, and all future amendments and supplements
+thereto entered into from time to time to satisfy the requirements of this
+Agreement or otherwise with the consent of the Lender. Reference to this
+Agreement contained in any of the foregoing documents shall be deemed to include
+all amendments and supplements to this Agreement.
+
+     12.9 WAIVER OF JURY TRIAL. BORROWER AND LENDER EACH WAIVE ANY RIGHT TO A
+TRIAL BY JURY IN ANY ACTION OR PROCEEDING TO ENFORCE OR DEFEND ANY RIGHTS UNDER
+THIS AGREEMENT OR RELATING THERETO OR ARISING FROM THE BANKING RELATIONSHIP
+WHICH IS THE SUBJECT OF THIS AGREEMENT AND AGREES THAT ANY SUCH ACTION OR
+PROCEEDING SHALL BE TRIED BEFORE A COURT AND NOT BEFORE A JURY.
+
+
+                                      -34-
+<PAGE>
+
+     12.10 Notices. Except for any notice required under applicable law to be
+given in another manner, any notice, demand, request or other communication
+which any party hereto may be required or may desire to give hereunder shall be
+in writing and shall be deemed to have been properly given (i) if hand delivered
+or if sent by telecopy, effective upon receipt or (ii) if delivered by overnight
+courier service, effective on the day following delivery to such courier
+service, or (iii) if mailed by United States registered or certified mail,
+postage prepaid, return receipt requested, effective two (2) days after deposit
+in the United States mails; addressed in each case as follows:
+
+     If to Borrower:
+
+            Tulsa Promenade, LLC
+            c/o Glimcher Properties Limited Partnership
+            150 East Gay Street
+            Columbus, Ohio  43215
+            Attn:  General Counsel
+
+     If to Lender:
+
+            Charter One Bank, N.A.
+            1215 Superior Avenue
+            Cleveland, Ohio  44114
+
+or at such other address or to such other addressee as the party to be served
+with notice may have furnished in writing to the party seeking or desiring to
+serve notice as a place for the service of notice.
+
+     12.11 Office of Foreign Asset Control (OFAC) and Patriot Act 326 (PA 326)
+verification of customers.
+
+          a. PAC326. To help the government fight the funding of terrorism and
+money laundering activities, Federal law requires all financial institutions to
+obtain, verify and record information that identifies each customer who opens an
+account (including the extension of credit to a customer). Therefore, all new
+and existing customers are subject to the identity verification requirements.
+When you open an account with any entity within the Lender's family of
+companies, we require the following information for the Business: Business Name,
+Business Address, Business TIN and Business Phone Number. For the Business
+Representative (person signing for the Business), we require the following
+information: Individual's Name, Individual's Address, Identification Information
+and Date of Birth.
+
+          b. OFAC. In addition, all financial institutions must check all
+Borrowers; Collateral Owners; Guarantors; Co-signors; Receiving and Sending
+Parties; Members, Managing Members, and Trustees; and Limited Partners, Managing
+Members and Beneficiaries holding interest; against the US Department of
+Treasury's list for Specially Designated Nationals and Blocked Persons.
+
+
+                                      -35-
+<PAGE>
+
+          c. Both the PAC 326 and OFAC verifications must be completed prior to
+Closing.
+
+     14.11 Governing Law. This Agreement has been negotiated, executed and
+delivered at Cleveland, Ohio, and shall be construed and enforced in accordance
+with the laws of the State of Ohio, without reference to the choice of law or
+conflicts of law principles of that State.
+
+     14.12 Nonrecourse Except as otherwise set forth in this section, Lender's
+recourse under this Agreement, the Note, the Mortgage and the Loan Documents
+shall be limited to and satisfied from the Project and the proceeds thereof, the
+rents and all other income arising therefrom, the other assets of Borrower
+arising out of the Project which are given as collateral for the Note, and any
+other collateral given in writing to Lender as security for repayment of the
+Note, including, but not limited to the Mervyn's Collateral Account and DSC Cash
+Collateral Account (all of the foregoing are collectively referred to as the
+("Loan Collateral"). Notwithstanding the preceding sentence:
+
+          (a) Lender may, in accordance with the terms of this Agreement, the
+Note, the Mortgage or any Loan Document: (i) foreclose the lien of the Mortgage,
+(ii) take appropriate action to enforce this Agreement, the Note, the Mortgage
+and any Loan Documents to realize upon and/or protect the Loan Collateral, (iii)
+name Borrower as a party defendant in any action brought under this Agreement,
+the Note, the Mortgage or any Loan Document so long as the exercise of any
+remedy is limited to the Loan Collateral, (iv) pursue all of its rights and
+remedies against any guarantor or surety or master tenant, whether or not such
+guarantor or surety or master tenant is a partner, member or other owner of
+Borrower, (v) pursue all of its rights and remedies against Borrower under that
+certain Indemnity Agreement of even date herewith;
+
+          (b)Lender may seek damages or other monetary relief to the extent of
+actual monetary loss, or any other remedy at law or in equity against Borrower
+by reason of or in connection with (i) the failure of Borrower to pay to Lender,
+upon demand, all rents, issues and profits of the Project to which Lender is
+entitled pursuant to this Agreement, the Note, the Mortgage or the Loan
+Documents following an Event of Default, (ii) any waste of the Project or any
+willful act or omission by Borrower which damages or materially reduces the
+value of the Project, (iii) the failure to apply all rents, issues and profits
+from the Project to the payment of operating expenses, real estate taxes,
+insurance, capital repair items, and the payment of sums due and owing under
+this Agreement, the Note, the Mortgage or the Loan Documents prior to any other
+expenditure or distribution by Borrower, (iv) the failure to account for and to
+turn over security deposits (and interest required by law or agreement to be
+paid thereon) or prepaid rents following the occurrence of an Event of Default
+under this Agreement, the Note, the Mortgage or any Loan Documents, (v) the
+failure to timely pay real estate taxes or any regular or special assessments
+affecting the Project, (vi) the failure to account for and to turn over real
+estate tax accruals following the occurrence of an Event of Default under this
+Agreement, the Note, the Mortgage or any Loan Documents, (vii) the failure to
+maintain casualty and liability insurance as required under the Mortgage or the
+
+
+                                      -36-
+<PAGE>
+
+Loan Documents or to apply insurance proceeds or condemnation awards relating to
+the Project or other collateral in the manner required under applicable
+provisions of this Agreement, the Note, the Mortgage or any Loan Documents
+(viii) costs and expenses, including, without limitation, attorney's fees and
+transfer taxes, incurred by Lender in connection with the enforcement of this
+Agreement, the Note, the Mortgage or the Loan Documents or a deed-in-lieu of
+foreclosure;
+
+          (c) Borrower shall become personally liable for payment of the
+indebtedness evidenced by this Agreement, the Note and performance of all other
+obligations of Borrower under this Agreement, the Note, the Mortgage and the
+Loan Documents upon the occurrence of any of the following: (i) fraud or willful
+misrepresentation of a material fact by Borrower, any members of Borrower, in
+connection with the Note, the Mortgage or the Loan Documents or any request for
+any action or consent by Lender, (ii) a transfer of any interest in the Borrower
+or all or any portion of the Project or any interest therein in violation of the
+terms of this Agreement, the Note, the Mortgage or the Loan Documents, or (iii)
+the incurrence by Borrower of any indebtedness in violation of the terms of this
+Agreement, the Note, the Mortgage or any Loan Document (whether secured or
+unsecured, direct or contingent), other than unsecured debt or routine trade
+payables incurred in the ordinary course of business in connection with the
+operation of the Project.
+
+     In addition, Borrower shall be responsible for any costs and expenses
+incurred by Lender in connection with the collection of any amounts for which
+Borrower is personally liable under this section, including attorneys' fees and
+expenses, court costs, filing fees, and all other costs and expenses incurred in
+connection therewith.
+
+
+                 [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK --
+                      SIGNATURE PAGE TO IMMEDIATELY FOLLOW]
+
+
+                                      -37-
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties have caused these presents to be executed
+the day and year first above written.
+
+                         BORROWER:
+
+                         TULSA PROMENADE, LLC, a Delaware limited liability
+                         company
+
+                         By: GLIMCHER PROPERTIES LIMITED
+                             PARTNERSHIP, a Delaware limited
+                             partnership, its sole member
+
+                             By: GLIMCHER PROPERTIES CORPORATION,
+                                 a Delaware corporation, its general partner
+
+
+                                 By:__________________________________
+                                     George A. Schmidt
+                                     Executive Vice President
+
+
+                         LENDER:
+
+                         CHARTER ONE BANK, N.A.
+
+
+                         By:_______________________________________
+                         Name:_____________________________________
+                         Title:____________________________________
+
+
+                                      -38-
+<PAGE>
+
+                                    EXHIBIT A
+                               (Legal Description
+
+
+<PAGE>
+
+                                    EXHIBIT B
+                            Certificate of Compliance
+
+
+Charter One Bank, N.A.
+
+________________________
+
+________________________
+
+
+Re:  Loan Agreement dated as of ________ (as amended, modified, supplemented,
+     restated, or renewed, from time to time, the "Agreement"), between TULSA
+     PROMENADE, LLC, (the "Borrower"), and CHARTER ONE BANK, N.A. ("Lender").
+
+Reference is made to the Agreement. Capitalized terms used in this Certificate
+(including schedules and other attachments hereto, this "Certificate") without
+definition have the meanings specified in the Agreement.
+
+Pursuant to applicable provisions of the Agreement, the undersigned, hereby
+certifies to the Lender that the information furnished in the attached
+schedules, including, without limitation, each of the calculations listed below
+are true, correct and complete in all material respects as of the last day of
+the fiscal periods subject to the financial statements and associated covenants
+being delivered to the Lender pursuant to the Agreement together with this
+Certificate (such statements the "Financial Statements" and the periods covered
+thereby the "reporting period") and for such reporting periods.
+
+The undersigned hereby further certifies to the Lender that:
+
+1.   Compliance with Financial Covenants. As shown below, the Borrower is in
+     full compliance with the financial covenants contained in the Agreement.
+
+     A. Covenant: Debt Service Coverage Ratio of not less than 1.25: 1.0 tested
+     quarterly and prior to any Disbursement, the calculation of which is set
+     forth in Schedule A attached hereto.
+
+     Debt Service Coverage of ______ : 1.0 for period ending ________, 200___.
+
+     B. Covenant: Draw amount of no more than 65% of Incremental Value and
+     Proforma Debt Service Coverage Ratio of not less than 1.25: 1.0 prior to
+     any Subsequent Draw, the calculation of which is set forth in Schedule B
+     attached hereto.
+
+     65% of Incremental Value: $___________
+     Debt Service Coverage of ______ : 1.0
+
+     C. Covenant: Borrower Equity in the Project: The greater of (i) 35% of the
+     total cost of the Project, or (ii) $20,405,000.
+
+     Compliance? (Yes or No)                            ____________________
+
+<PAGE>
+
+2.   Tenants Giving Notice. The following tenants have given Borrower or its
+     managing agent notice of it intent to terminate or not renew it's existing
+     lease. Borrower has no knowledge of any other tenant that intends to give
+     such notice.
+
+             (i)_________________________________________________
+             (ii) _______________________________________________
+             (iii) ______________________________________________
+
+3.   Rent Roll. The undersigned hereby certifies that the rent roll attached
+     hereto as Schedule C is accurate as of the date hereof, and accurately
+     reflects the status of all leases and their expiration dates.
+
+4.   Review of Condition. The undersigned has reviewed the terms of the
+     Agreement, including, but not limited to, the representations and
+     warranties of the Borrower set forth in the Agreement and the covenants of
+     the Borrower set forth in the Agreement, and has made, or caused to be made
+     under his or her supervision, a review in reasonable detail of the
+     transactions and condition of the Borrower through the reporting periods.
+
+5.   Representations and Warranties. To the undersigned's actual knowledge, the
+     representations and warranties of the Borrower contained in the Loan
+     Documents, including those contained in the Agreement, are true and
+     accurate in all material respects as of the date hereof and were true and
+     accurate in all material respects at all times during the reporting period
+     except as expressly noted on Schedule D hereto.
+
+6.   Covenants. To the undersigned's actual knowledge, during the reporting
+     period, the Borrower observed and performed all of the respective covenants
+     and other agreements under the Agreement and the Loan Documents, and
+     satisfied each of the conditions contained therein to be observed,
+     performed or satisfied by the Borrower, except as expressly noted on
+     Schedule D hereto.
+
+7.   No Event of Default. To the undersigned's actual knowledge, no Event of
+     Default exists as of the date hereof or existed at any time during the
+     reporting period, except as expressly noted on Schedule D hereto.
+
+
+                                       -2-
+<PAGE>
+
+     IN WITNESS WHEREOF, this Certificate is executed by the undersigned this
+____ day of __________, 200__.
+
+                      BORROWER:
+
+                      TULSA PROMENADE, LLC, a Delaware limited liability
+                      company
+
+                      By: TULSA PROMENADE REIT, LLC, a Delaware
+                          limited liability company, its sole member
+
+                          By: OG RETAIL HOLDING CO., LLC, a Delaware
+                              limited liability company, its managing member
+
+                              By: GLIMCHER PROPERTIES LIMITED
+                                  PARTNERSHIP, a Delaware limited
+                                  partnership, its administering member
+
+                                  By: GLIMCHER PROPERTIES CORPORATION,
+                                      a Delaware corporation, its sole member
+
+
+                                      By:__________________________________
+                                         George A. Schmidt
+                                         Executive Vice President
+
+
+                                       -3-
+<PAGE>
+
+                                   Schedule A
+                Debt Service Coverage Ratio Quarterly Compliance
+
+                                 Tulsa Promenade
+                          Quarterly Covenant Compliance
+                              Tested as of xx/xx/xx
+                          (Trailing Twelve Month $000)
+
+
+
+
+Debt Service Coverage:
+--------------------------------------------------------------------------------
+
+        TTM Base Rents                                                         $
+        Annualized Rents from new Leases in effect < 12 months         $________
+Plus:
+        CAM Reimbursement                                              $________
+        Specialty Leasing                                              $________
+        Other Recovery/Reimbursement                                   $________
+        Percentage Rents                                               $________
+        Miscellaneous Income                                           $________
+
+Less:   Rents from Tenants Providing Notice                            $________
+
+                                Effective Gross Income                 $________
+
+Less:   TTM Cash Expenses                                              $________
+        Annualized Cash Expenses from new Leases in effect < 12 months $________
+        Minimum Management Fee (per appraisal)                         $________
+        Allowance  for Capital Expenditures (per appraisal)            $________
+                               Total Operating Expenses                $________
+
+      (1)                        NET OPERATING INCOME                  $________
+
+      (2)                            DEBT SERVICE                      $________
+
+(1) / (2)                     DEBT SERVICE COVERAGE (DSC)               ________
+
+
+Required DSC Reserve:
+--------------------------------------------------------------------------------
+
+        If DSC > 1.25x then $0; otherwise, DSC Reserve
+        equals ((2)*1.25) - (1))                                       $________
+                                                                       =========
+
+<PAGE>
+
+                                   Schedule B
+                      Subsequent Draw Compliance Worksheet
+
+                                 Tulsa Promenade
+                            Supplemental Draw Request
+                                 as of xx/xx/xx
+
+                        TTM Compliance? _________ (Y /N)
+
+
+<TABLE>
+<S>                                                                                 <C>
+I.  Incremental Value of Acceptable New Leases:
+
+                 Annualized Incremental Base Rents                                  $_________
+
+Plus:            Annualized Incremental Reimbursable Expenses                       $_________
+
+Less:            Annualized Rental Income from Expiring Leases within 90 days       $_________
+                 Annualized Incremental Operating Expenses (if applicable)          $_________
+                 Incremental Management Fee (per appraisal)                         $_________
+                 Allowance  for Incremental Capital Expenditures (per appraisal)    $_________
+
+                 Adjusted Incremental NOI                                           $_________
+
+    Divided by:  Prevailing Cap Rate (per Loan Agreement)                           $_________
+
+                 INCREMENTAL VALUE
+
+                 Subsequent Draw Amount @ 65% Incremental Value                     $_________
+
+II.  Pro-Forma Debt Service Coverage:
+
+                 Net Operating Income (per Covenant Compliance worksheet)           $_________
+Plus:            Adjusted Incremental NOI                                           $_________
+      (1)                                                 PRO-FORMA ANNUALIZED NOI
+
+III.  Projected Debt Service:
+
+                 Current Outstanding Loan Balance                                   $_________
+Plus:            Subsequent Draw Amount                                             $_________
+                                                         Proposed Aggregate Balance $_________
+
+      (2)        Projected Debt Service                                             $_________
+
+   (1) / (2)     DSCR (must > 1.25x)                                                 _________
+</TABLE>
+<PAGE>
+
+                                   Schedule C
+                                    Rent Roll
+
+
+<PAGE>
+
+                                   Schedule D
+                      Violations of Covenants or Warranties
+</TEXT>
+</DOCUMENT>

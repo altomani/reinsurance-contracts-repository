@@ -1,0 +1,1725 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>8
+<FILENAME>w20583exv10w8.txt
+<DESCRIPTION>PROPERTY THIRD & FOURTH AGREEMENT DATED JAN.1,2006
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.8
+
+                         PHILADELPHIA INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+
+                            PROPERTY THIRD AND FOURTH
+                      EXCESS OF LOSS REINSURANCE AGREEMENT
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+ARTICLE                                                                     PAGE
+-------                                                                     ----
+<S>                                                                         <C>
+I         BUSINESS COVERED (WBUS5)                                            1
+II        TERM                                                                1
+III       SPECIAL TERMINATION                                                 2
+IV        DEFINITIONS                                                         3
+             Building                                                         3
+             Declaratory Judgment Expense (WDEF305)                           3
+             Extra Contractual Obligations/Loss in Excess of Policy
+             Limits (WDEF104)                                                 4
+             Loss Adjustment Expense (WDEF307)                                4
+             Loss Occurrence (NMA 2244/BRMA 27A)                              5
+             Net Earned Premium                                               6
+             Policy                                                           6
+             Risk                                                             6
+             Terrorism                                                        7
+             Ultimate Net Loss                                                7
+V         TERRITORY (BRMA 51A)                                                8
+VI        EXCLUSIONS                                                          8
+VII       COVERAGE                                                           10
+VIII      REINSTATEMENT (WREN10)                                             11
+IX        REINSURANCE PREMIUM (WRPR14)                                       12
+X         NOTICE OF LOSS AND LOSS SETTLEMENTS                                12
+XI        AGENCY AGREEMENT (WAGE1)                                           13
+XII       SALVAGE AND SUBROGATION (WSAL1)                                    13
+XIII      ERRORS AND OMISSIONS (BRMA 14C)                                    13
+XIV       OFFSET                                                             14
+XV        CURRENCY (BRMA 12A)                                                14
+XVI       TAXES (BRMA 50C)                                                   14
+XVII      FEDERAL EXCISE TAX (BRMA 17A)                                      14
+XVIII     UNAUTHORIZED REINSURANCE (BRMA 55C)                                15
+XIX       NET RETAINED LINES (BRMA 32E)                                      16
+XX        TRIA INUREMENT                                                     17
+XXI       SPECIAL ACCEPTANCES                                                17
+XXII      MORTGAGEE REINSURANCE ENDORSEMENTS                                 18
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                                                                         <C>
+XXIII     THIRD PARTY RIGHTS (BRMA 52C MODIFIED)                             18
+XXIV      SEVERABILITY (WSEV1)                                               19
+XXV       GOVERNING LAW (BRMA 71A)                                           19
+XXVI      ACCESS TO RECORDS (BRMA 1E)                                        19
+XXVII     INSOLVENCY (WINS1)                                                 19
+XXVIII    ARBITRATION (WARB1)                                                20
+XXIX      SERVICE OF SUIT (WSOS4)                                            21
+XXX       MODE OF EXECUTION (WMOE1)                                          23
+XXXI      INTERMEDIARY (WINT8)                                               23
+
+          Exhibit A
+          Nuclear Incident Exclusion Clause - Physical Damage -
+          Reinsurance - U.S.A.
+          War Exclusion
+</TABLE>
+
+<PAGE>
+
+                            PROPERTY THIRD AND FOURTH
+                      EXCESS OF LOSS REINSURANCE AGREEMENT
+                                (the "Contract")
+
+                                     between
+
+                         PHILADELPHIA INSURANCE COMPANY
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+        And any additional company established or acquired by the Company
+                                 (the "Company")
+
+                                       and
+
+                   THE SUBSCRIBING REINSURER(S) EXECUTING THE
+                     INTERESTS AND LIABILITIES AGREEMENT(S)
+                                 ATTACHED HERETO
+                                (the "Reinsurer")
+
+                                    ARTICLE I
+
+BUSINESS COVERED (WBUS5)
+
+By this Contract the Reinsurer agrees to reinsure the excess liability of the
+Company under its Policies in force at the effective time and date hereof or
+issued or renewed at or after that time and date, and classified by the Company
+as Property and/or Inland Marine business, subject to the terms, conditions and
+limitations hereafter set forth.
+
+                                   ARTICLE II
+
+TERM
+
+A.   This Contract shall become effective at 12:01 a.m., Eastern Standard Time,
+     January 1, 2006 as respects losses occurring at or after that time and
+     date, and shall continue in effect until 12:01 a.m., Eastern Standard Time,
+     January 1, 2007.
+
+B.   Upon termination of this Contract, the entire liability of the Reinsurer
+     for losses occurring subsequent to the date of termination shall cease
+     concurrently with the date of termination of this Contract.
+
+C.   Notwithstanding the above, the Company shall have the option to elect
+     run-off coverage for Policies in force at the expiration of this Contract.
+     If the Company chooses to run off
+
+
+                                     Page 1
+
+<PAGE>
+
+     liability, the Company will notify the Reinsurer prior to January 31, 2007.
+     If run-off of liability is chosen, the Reinsurer shall continue to be
+     liable for Ultimate Net Loss incurred by the Company under all Policies in
+     force at the time and date of expiration until each Policy's next
+     anniversary, renewal or expiration, but in no event shall the Reinsurer's
+     liability continue for more than 12 months after the expiration date plus
+     odd time, not to exceed a total of 18 months. The premium for the run-off
+     coverage shall be the "Premium Rate" for the excess layer, as stated in
+     Exhibit A attached hereto, times its Net Earned Premium for the run-off
+     period for the Policies in force as of December 31, 2006.
+
+D.   If this Contract expires while a Loss Occurrence covered hereunder is in
+     progress, the Reinsurer's liability hereunder shall, subject to the other
+     terms and conditions of this Contract, be determined as if the entire Loss
+     Occurrence had occurred prior to the expiration of this Contract, provided
+     that no part of such Loss Occurrence is claimed against any renewal or
+     replacement of this Contract.
+
+                                   ARTICLE III
+
+SPECIAL TERMINATION
+
+A.   The Company may terminate this Contract at any time by the giving of 10
+     days' notice in writing to the Reinsurer upon the happening of any one of
+     the following circumstances:
+
+     1.   A State Insurance Department or other legal authority orders the
+          Reinsurer to cease writing business; or
+
+     2.   The Reinsurer has become insolvent or has been placed into liquidation
+          or receivership (whether voluntary or involuntary), or there has been
+          instituted against it proceedings for the appointment of a receiver,
+          liquidator, rehabilitator, conservator, trustee in bankruptcy or other
+          agent known by whatever name, to take possession of its assets or
+          control of its operations; or
+
+     3.   The Reinsurer's policyholders' surplus has been reduced by whichever
+          is greater, either 25% of the amount of surplus at the inception of
+          this Contract or 25% of the amount at the latest anniversary, or has
+          lost any part of, or has reduced its paid in capital; or
+
+     4.   The Reinsurer has become merged with, acquired or controlled by any
+          company, corporation or individual(s) not controlling the party's
+          operations at the inception of this Contract; or
+
+     5.   The Reinsurer has reinsured its entire liability under this Contract
+          without the terminating party's prior written consent; or
+
+     6.   The Reinsurer ceases writing new or renewal business.
+
+     7.   The Reinsurer has been assigned an A.M. Best's rating of less than
+          "A-" or a Standard & Poor's Insurer Financial Strength Rating of less
+          than "A-".
+
+
+                                     Page 2
+
+<PAGE>
+
+B.   Notwithstanding any other termination provision of this Contract, if this
+     Contract is terminated under the provisions of this Article, the Company
+     shall have the right to terminate liability for losses occurring subsequent
+     to termination of this Contract. In such event, the Reinsurer shall return
+     the unearned portion, if any, less any commission allowed thereon, of
+     premiums paid hereunder and the minimum premium provisions, if any, shall
+     be waived.
+
+C.   Additionally, the Company, at its sole discretion, may elect to commute the
+     Reinsurer's liabilities for loss and Loss Adjustment Expenses, whether
+     known and unknown, on Policies covered under this Contract. In the event
+     the Company and the Reinsurer cannot agree on the capitalized value of the
+     Reinsurer's liabilities on the Policies covered under this Contract, the
+     two parties shall mutually appoint an actuary to resolve the matter of
+     valuation. If the two parties cannot agree on the appointment of an
+     actuary, a selection process based on the ARBITRATION ARTICLE will be
+     employed. Payment by the Reinsurer of the amount ascertained will
+     constitute full and final release of the Reinsurer's liabilities hereunder.
+
+D.   The Company may request special funding for any Reinsurer's participation
+     if this Contract is terminated for reasons set forth in subparagraph A.1-7
+     above. If the Company elects to exercise its special funding option, said
+     Reinsurer will, within 30 calendar days of the date of the Company's
+     request to do so, provide the Company with a cash advance, trust agreement,
+     escrow account for the benefit of the Company, letter of credit, or a
+     combination thereof acceptable to the Company to fund the Reinsurer's share
+     of the reserves hereunder for losses (including loss and loss expense paid
+     by the Company but not recovered from the Reinsurer, loss and loss expense
+     reported and outstanding, loss and loss expenses incurred but not reported)
+     and unearned premium, as if it were an unauthorized Reinsurer and subject
+     to the UNAUTHORIZED REINSURANCE ARTICLE. This paragraph D shall not apply
+     to Reinsurers who, at the inception of this Contract, have been assigned an
+     A.M. Best's Financial Strength Rating of A+ or higher or a Standard &
+     Poor's rating of A+ or higher or to Underwriting Members of Lloyd's,
+     London.
+
+                                   ARTICLE IV
+
+DEFINITIONS
+
+A.   Building
+
+     "Building" as used herein shall mean such structure enclosed within
+     exterior walls. Exterior walls are defined as walls constructed on the
+     perimeter foundation, regardless of the number of additional structures or
+     roofs placed upon this perimeter foundation.
+
+B.   Declaratory Judgment Expense (WDEF305)
+
+     "Declaratory Judgment Expense" as used herein shall mean all expenses
+     incurred by the Company in connection with a declaratory judgment action
+     brought to determine the Company's defense and/or indemnification
+     obligations that are allocable to a specific claim subject to this
+     Contract. Declaratory Judgment Expense shall be deemed to have been
+
+
+                                     Page 3
+
+<PAGE>
+
+     incurred on the date of the original loss (if any) giving rise to the
+     declaratory judgment action.
+
+C.   Extra Contractual Obligations/Loss in Excess of Policy Limits (WDEF104)
+
+     1.   Extra Contractual Obligations
+
+          This Contract shall protect the Company for any "Extra Contractual
+          Obligations" which as used herein shall mean any punitive, exemplary,
+          compensatory or consequential damages, other than Loss in Excess of
+          Policy Limits, paid or payable by the Company as a result of an action
+          against it by its insured, its insured's assignee or a third party
+          claimant, by reason of alleged or actual negligence, fraud or bad
+          faith on the part of the Company in handling a claim under a Policy
+          subject to this Contract.
+
+          An Extra Contractual Obligation shall be deemed to have occurred on
+          the same date as the loss covered or alleged to be covered under the
+          Policy.
+
+     2.   Loss in Excess of Policy Limits
+
+          This Contract shall protect the Company for any "Loss in Excess of
+          Policy Limits" which as used herein shall mean an amount that the
+          Company would have been contractually liable to pay had it not been
+          for the limit of the original Policy as a result of an action against
+          it by its insured or its insured's assignee or a third party claimant.
+          Such loss in excess of the limit shall have been incurred because of
+          failure by the Company to settle within the Policy limit, or by reason
+          of alleged or actual negligence, fraud, or bad faith in rejecting an
+          offer of settlement or in the preparation of the defense or in the
+          trial of any action against its insured or in the preparation or
+          prosecution of an appeal consequent upon such action.
+
+     3.   This paragraph C shall not apply where an Extra Contractual Obligation
+          and/or Loss in Excess of Policy Limits has been incurred due to the
+          fraud committed by a member of the Board of Directors or a corporate
+          officer of the Company acting individually or collectively or in
+          collusion with a member of the Board of Directors or a corporate
+          officer or a partner of any other corporation or partnership.
+
+     4.   Recoveries from any form of insurance or reinsurance which protects
+          the Company against claims which are the subject matter of this
+          paragraph C shall inure to the benefit of this Contract.
+
+D.   Loss Adjustment Expense (WDEF307)
+
+     "Loss Adjustment Expense" as used herein shall mean all costs and expenses
+     allocable to a specific claim that are incurred by the Company in the
+     investigation, appraisal, adjustment, settlement, litigation, defense or
+     appeal of a specific claim, including court costs and costs of supersedeas
+     and appeal bonds, and including 1) pre-judgment interest, unless included
+     as part of the award or judgment; 2) post-judgment interest; 3) legal
+     expenses and costs incurred in connection with coverage questions and legal
+     actions connected thereto,
+
+
+                                     Page 4
+
+<PAGE>
+
+     including Declaratory Judgment Expense; and 4) a pro rata share of salaries
+     and expenses of Company field employees, and expenses of other Company
+     employees who have been temporarily diverted from their normal and
+     customary duties and assigned to the field adjustment of losses covered by
+     this Contract. Loss Adjustment Expense does not include unallocated loss
+     adjustment expense. Unallocated loss adjustment expense includes, but is
+     not limited to, salaries and expenses of employees, other than (4) above,
+     and office and other overhead expenses.
+
+E.   Loss Occurrence (NMA 2244/BRMA 27A)
+
+     1.   The term "Loss Occurrence" shall mean the sum of all individual losses
+          directly occasioned by any one disaster, accident or loss or series of
+          disasters, accidents or losses arising out of one event which occurs
+          within the area of one state of the United States or province of
+          Canada and states or provinces contiguous thereto and to one another.
+          However, the duration and extent of any one "Loss Occurrence" shall be
+          limited to all individual losses sustained by the Company occurring
+          during any period of 168 consecutive hours arising out of and directly
+          occasioned by the same event except that the term "Loss Occurrence"
+          shall be further defined as follows:
+
+          a.   As regards windstorm, hail, tornado, hurricane, cyclone,
+               including ensuing collapse and water damage, all individual
+               losses sustained by the Company occurring during any period of 72
+               consecutive hours arising out of and directly occasioned by the
+               same event. However, the event need not be limited to one state
+               or province or states or provinces contiguous thereto.
+
+          b.   As regards riot, riot attending a strike, civil commotion,
+               vandalism and malicious mischief, all individual losses sustained
+               by the Company occurring during any period of 72 consecutive
+               hours within the area of one municipality or county and the
+               municipalities or counties contiguous thereto arising out of and
+               directly occasioned by the same event. The maximum duration of 72
+               consecutive hours may be extended in respect of individual losses
+               which occur beyond such 72 consecutive hours during the continued
+               occupation of an assured's premises by strikers, provided such
+               occupation commenced during the aforesaid period.
+
+          c.   As regards earthquake (the epicenter of which need not
+               necessarily be within the territorial confines referred to in the
+               introductory portion of subparagraph 1) and fire following
+               directly occasioned by the earthquake, only those individual fire
+               losses which commence during the period of 168 consecutive hours
+               may be included in the Company's "Loss Occurrence."
+
+          d.   As regards "freeze," only individual losses directly occasioned
+               by collapse, breakage of glass and water damage (caused by
+               bursting of frozen pipes and tanks) may be included in the
+               Company's "Loss Occurrence."
+
+     2.   Except for those "Loss Occurrences" referred to in subparagraphs a and
+          b above, the Company may choose the date and time when any such period
+          of consecutive hours
+
+
+                                     Page 5
+
+<PAGE>
+
+          commences provided that it is not earlier than the date and time of
+          the occurrence of the first recorded individual loss sustained by the
+          Company arising out of that disaster, accident or loss and provided
+          that only one such period of 168 consecutive hours shall apply with
+          respect to one event.
+
+     3.   However, as respects those "Loss Occurrences" referred to in
+          subparagraphs a and b above, if the disaster, accident or loss
+          occasioned by the event is of greater duration than 72 consecutive
+          hours, then the Company may divide that disaster, accident or loss
+          into two or more "Loss Occurrences" provided no two periods overlap
+          and no individual loss is included in more than one such period and
+          provided that no period commences earlier than the date and time of
+          the occurrence of the first recorded individual loss sustained by the
+          Company arising out of that disaster, accident or loss.
+
+     4.   No individual losses occasioned by an event that would be covered by
+          72 hours clauses may be included in any "Loss Occurrence" claimed
+          under the 168 hours provision.
+
+F.   Net Earned Premium
+
+     "Net Earned Premium" as used herein is defined as gross earned premium of
+     the Company for the classes of business reinsured hereunder, less the
+     earned portion of premiums ceded by the Company for reinsurance which
+     inures to the benefit of this Contract.
+
+G.   Policy
+
+     "Policy" or "Policies" as used herein shall mean the Company's binders,
+     policies and contracts providing insurance and reinsurance on the classes
+     of business covered under this Contract.
+
+H.   Risk
+
+     "Risk" as used herein shall mean what constitutes one Risk as established
+     by the Company at the time of acceptance, provided:
+
+     1.   A building and its contents, regardless of the number of insureds or
+          Policies involved, including time element coverages, shall never be
+          considered more than one Risk.
+
+     2.   When two or more Buildings and their contents, including time element
+          coverages, are situated at the same General Location, the Company
+          shall identify on its records at the time of acceptance by the Company
+          those individual Buildings and their contents, including time element
+          coverages, that are to be considered to constitute each Risk; if such
+          identification is not made, each Building and its contents, including
+          time element coverages, shall be considered to be a separate Risk.
+
+     3.   When there are known and named extensions of coverage involving other
+          risk locations (including but not limited to suppliers extensions,
+          customer extensions and interdependencies and whether triggered by
+          physical loss at the risk location or another location) that are
+          included and formally recorded on the Company's records
+
+
+                                     Page 6
+
+<PAGE>
+
+          at the time of acceptance of the Risk, all such known and named
+          extensions of coverage shall be included in calculation of the one
+          Risk.
+
+I.   Terrorism
+
+     "Terrorism" as used herein shall mean:
+
+     1.   An activity, including the threat of an activity or any preparation
+          for an activity, that (a) causes either (i) damage to property or (ii)
+          injury to persons and (b) appears to be intended to: (i) intimidate or
+          coerce a civilian population or (ii) disrupt any segment of an economy
+          or (iii) influence the policy of a government by intimidation or
+          coercion or (iv) affect the conduct of a government by destruction,
+          assassination, kidnapping or hostage-taking or (v) advance a
+          political, religious or ideological cause; provided, however, that an
+          act of Terrorism for purposes of this definition shall not include any
+          act or threat as described above perpetrated by an official, employee
+          or agent of a foreign state acting for or on behalf of such state.
+
+     2.   Any act authorized by a governmental authority for the purpose of
+          preventing, terminating, countering or responding to any act or threat
+          of terrorism or for the purpose of preventing or minimizing the
+          consequences of any act or threat of Terrorism.
+
+     3.   An activity that involves the use, release or escape of nuclear
+          materials, or directly or indirectly results in nuclear reaction or
+          radiation or radioactive contamination, and it appears that one
+          purpose of the terrorism was to release such materials.
+
+     4.   An activity that is carried out by means of the dispersal or
+          application of pathogenic or poisonous biological or chemical
+          materials or an activity where pathogenic or poisonous biological or
+          chemical materials are released, and it appears that one purpose of
+          the terrorism was to release such materials.
+
+J.   Ultimate Net Loss
+
+     The term "Ultimate Net Loss" shall mean the actual loss, including any
+     pre-judgment interest which is included as part of the award or judgment,
+     Loss Adjustment Expense, 100% of Loss in Excess of Policy Limits, and 100%
+     of Extra Contractual Obligations, paid or to be paid by the Company on its
+     net retained liability after making deductions for all recoveries,
+     salvages, subrogations and all claims on inuring reinsurance, whether
+     collectible or not; provided, however, that in the event of the insolvency
+     of the Company, payment by the Reinsurer shall be made in accordance with
+     the provisions of the INSOLVENCY ARTICLE. Nothing herein shall be construed
+     to mean that losses under this Contract are not recoverable until the
+     Company's Ultimate Net Loss has been ascertained.
+
+
+                                     Page 7
+
+<PAGE>
+
+                                    ARTICLE V
+
+TERRITORY (BRMA 51A)
+
+The territorial limits of this Contract shall be identical with those of the
+Company's Policies.
+
+                                   ARTICLE VI
+
+EXCLUSIONS
+
+This Contract shall not apply to and specifically excludes the following:
+
+A.   Reinsurance assumed by the Company other than reinsurance of primary
+     business assumed from affiliated companies;
+
+B.   Nuclear incident per the Nuclear Incident Exclusion Clause - Physical
+     Damage - Reinsurance attached hereto;
+
+C.   Self-insurance or self-insured obligations, howsoever styled, of the
+     Company, its affiliates or subsidiaries, or any insurance wherein the
+     Company, its affiliates or subsidiaries are named as the insured party,
+     either alone or jointly with some other party, notwithstanding that no
+     legal liability may arise in respect thereof by reason of the fact that the
+     Company, its affiliates or subsidiaries, may not be obligated by law to pay
+     a claim to itself, its affiliates or subsidiaries;
+
+D.   Any loss or liability accruing to the Company directly or indirectly from
+     any insurance written by or through any pool or association including pools
+     or associations in which membership by the Company is required under any
+     statutes or regulations;
+
+E.   Any liability of the Company arising from its participation or membership
+     in any insolvency fund;
+
+F.   War per the attached "War Exclusion" attached hereto;
+
+G.   Risks written on a layered basis, whether primary or excess of loss, or
+     policies written with a deductible or franchise of more than $500,000;
+     however, this exclusion shall not apply to policies which provide a
+     percentage deductible or franchise in connection with windstorm, earthquake
+     or flood;
+
+H.   Pollution to the extent excluded in the Company's policies. Nevertheless,
+     if the insured elects to purchase any "buy back" or additional coverage
+     options, such options shall not be covered hereunder; however, this
+     exclusion shall not apply:
+
+     1.   When a judicial entity having legal jurisdiction invalidates the
+          Company's Pollution exclusion, thereby obligating the Company for
+          liability when such liability for Pollution was intended to be
+          excluded by the Company's exclusion.
+
+
+                                     Page 8
+
+<PAGE>
+
+     2.   In respect of any Policy written in a state whose insurance regulatory
+          authorities have prohibited the Company from including a Pollution
+          liability exclusion in its Policies.
+
+I.   Insurance against earthquake, except when written in conjunction with fire
+     and otherwise eligible perils;
+
+J.   Insurance on growing crops;
+
+K.   Insurance against flood, waves, tidal waves, overflow of any body of water,
+     or their spray, all whether driven by wind or not, except when written in
+     conjunction with fire and otherwise eligible perils;
+
+L.   Business classified as fidelity, however this exclusion shall not apply to
+     crime and fidelity with limits no greater than $2,000,000 when written as
+     part of a package policy;
+
+M.   Credit insurance;
+
+N.   Business classified as boiler and machinery;
+
+O.   Mortgage impairment insurance and similar kinds of insurance, howsoever
+     styled, providing coverage to an insured with respect to its mortgagee
+     interest in property or its owner interest in foreclosed property;
+
+P.   Difference in conditions insurance and similar kinds of insurance,
+     howsoever styled;
+
+Q.   Any incident that involves the use, release or escape of pathogenic or
+     poisonous biological or chemical materials or of nuclear materials, or to
+     any incident that directly or indirectly results in nuclear reaction or
+     radiation or radioactive contamination. However, this exclusion does not
+     apply to the Terrorism Annual Aggregate Limit for the excess layer as
+     stated in Exhibit A attached hereto.
+
+R.   Losses with respect to overhead transmission and distribution lines and
+     their supporting structures, other than those on or within 1,000 feet of
+     the insured premises. However, public utilities extension and/or suppliers'
+     extension and/or contingent business interruption coverage are not subject
+     to this exclusion, provided these are not part of a transmitters' or
+     distributors' policy.
+
+S.   Offshore property Risks;
+
+T.   Inland marine business with respect to the following:
+
+     1.   Cargo insurance when written as such with respect to ocean vessels;
+
+     2.   Faulty Film, tape, processing and editing insurance and cast
+          insurance;
+
+     3.   Drilling rigs for natural fuels;
+
+     4.   Furriers' customers policies;
+
+
+                                     Page 9
+
+<PAGE>
+
+     5.   Insurance on livestock under so-called "mortality policies";
+
+     6.   Mining equipment while underground;
+
+     7.   Registered mail and armored car insurance;
+
+U.   Loss of, damage to, or failure of, or consequential loss resulting
+     therewith (including but not limited to earnings and extra expense) of
+     satellites, spacecraft, and launch vehicles, including cargo and freight
+     carried therein, in all phases of operation (including but not limited to
+     pre-launch, launch, and in-orbit).
+
+V.   Mobile homes unless written as part of a commercial multiple peril policy.
+
+W.   Watercraft, other than watercraft insured under a standard homeowners
+     policy or when written as part of contents coverage under a commercial
+     multiple peril policy.
+
+If the Company is bound without knowledge of or contrary to the instructions of
+the Company's supervisory underwriting personnel, or any business falling within
+the scope of one or more of the exclusions set forth in this section, these
+exclusions, except A, B, C, D, E, F, H, J, L, M, O, shall suspend with respect
+to such business until 60 days after an underwriting supervisor of the Company
+acquires knowledge of such business.
+
+Should any judicial or regulatory entity having jurisdiction invalidate any
+exclusion in the Company's Policy that is also the subject of one or more of the
+exclusions herein, then a loss for which the Company is liable because of such
+invalidation shall not be excluded hereunder.
+
+                                   ARTICLE VII
+
+COVERAGE
+
+A.   As respects each excess layer hereunder, the Reinsurer shall be liable for
+     the Ultimate Net Loss in excess of the "Company's Retention" for the excess
+     layer, as stated in Exhibit A attached hereto, as respects each risk, each
+     loss, subject to a limit of liability to the Reinsurer equal to the
+     "Reinsurer's Limit, Each Risk, Each Loss" for the excess layer, as stated
+     in Exhibit A attached hereto. The Reinsurer's liability in respect of any
+     one Loss Occurrence shall not exceed the "Reinsurer's Limit, Each Loss
+     Occurrence" for the excess layer, as stated in Exhibit A attached hereto,
+     nor shall it exceed the "Reinsurer's Limit, All Risks, All Losses" for the
+     excess layer, as stated in Exhibit A attached hereto, in respect of all
+     losses occurring during the term of this Contract. The Reinsurer's
+     liability in respect to Terrorism losses shall not exceed the "Terrorism
+     Annual Aggregate Limit" for the excess layer, as stated in Exhibit A
+     attached hereto.
+
+B.   The Company shall maintain in force other reinsurance, recoveries under
+     which shall inure to the benefit of this Contract.
+
+
+                                     Page 10
+
+<PAGE>
+
+C.   The Company shall be permitted to carry underlying reinsurance, recoveries
+     under which shall inure solely to the benefit of the Company and be
+     entirely disregarded in applying all of the provisions of this Contract.
+
+                                  ARTICLE VIII
+
+REINSTATEMENT (WREN10)
+
+A.   As respects each excess layer hereunder, should all or any part of the
+     Reinsurer's limit of liability for the excess layer be exhausted as a
+     result of a loss, the sum so exhausted shall be reinstated from the date
+     the loss commenced.
+
+B.   Except as otherwise provided below, for each amount so reinstated for the
+     excess layer, the Company agrees to pay to the Reinsurer an additional
+     premium ("reinstatement premium") calculated in accordance with the
+     following formula which amount(s) shall be paid to the Reinsurer at the
+     time of the Reinsurer's payment of the loss.
+
+     1.   AS RESPECTS THE THIRD EXCESS LAYER
+
+          a.   The percentage of the "Reinsurer's Limit, Each Risk, Each Loss,"
+               as stated in Exhibit A, exhausted for the Third Excess Layer
+               shall be automatically reinstated without payment of any
+               "reinstatement premium" up to an additional limit of 1 times the
+               amount of the "Reinsurer's Limit, Each Risk, Each Loss," as
+               stated in Exhibit A attached hereto.
+
+          b.   For each additional reinstatement thereafter the Company agrees
+               to pay a "reinstatement premium" calculated in accordance with
+               the following formula:
+
+               (i)  The percentage of the "Reinsurer's Limit, Each Risk, Each
+                    Loss," as stated in Exhibit A, exhausted for the Third
+                    Excess Layer;
+
+               (ii) The reinsurance premium paid or payable for the Third Excess
+                    Layer for the term of this Contract.
+
+               The dollar amount resulting from the multiplication of
+               subparagraphs b.(i) and b.(ii), above, shall equal the
+               "reinstatement premium" for the excess layer. If, at the time of
+               the Reinsurer's payment of a loss hereon, the reinsurance premium
+               for the Third Excess layer as calculated under this Contract is
+               unknown, the calculation of the reinstatement premium shall be
+               based upon the deposit premium for the excess layer subject to
+               adjustment when the reinsurance premium is finally established.
+
+     2.   AS RESPECTS THE FOURTH EXCESS LAYER
+
+          For each amount so reinstated for the Fourth Excess Layer, the Company
+          agrees to pay an additional premium at the time of the Reinsurer's
+          payment of the loss calculated in accordance with the following
+          formula:
+
+
+                                     Page 11
+
+<PAGE>
+
+          a.   The percentage of the "Reinsurer's Limit, Each Risk, Each Loss"
+               for the excess layer, as stated in Exhibit A attached hereto,
+               exhausted for the loss.
+
+          b.   The reinsurance premium paid or payable for the excess layer for
+               the term of this Contract.
+
+          The dollar amount resulting from the multiplication of subparagraphs a
+          and b above shall equal the reinstatement premium for the excess
+          layer. If at the time of the Reinsurer's payment of a loss hereon, the
+          reinsurance premium Fourth Excess Layer as calculated under this
+          Contract is unknown, the calculation of the reinstatement premium
+          shall be based upon the deposit premium for the excess layer subject
+          to adjustment when the reinsurance premium is finally established.
+
+C.   Nevertheless, the Reinsurer's liability hereunder shall not exceed the
+     "Reinsurer's Limit, Each Risk, Each Loss" for the excess layer, as stated
+     in Exhibit A attached hereto, in respect of any one loss, and shall be
+     further limited to the "Reinsurer's Limit, Each Loss Occurrence" for the
+     excess layer, as stated in Exhibit A attached hereto, in respect of any one
+     Loss Occurrence, and shall be further limited to the "Reinsurer's Limit,
+     All Loss Occurrences" for the excess layer as stated in Exhibit A attached
+     hereto, in respect of all losses occurring during the term of this
+     Contract.
+
+                                   ARTICLE IX
+
+REINSURANCE PREMIUM (WRPR14)
+
+A.   As premium for the reinsurance provided hereunder for each excess layer,
+     the Company shall pay the Reinsurer the "Premium Rate" for the excess
+     layer, as stated in Exhibit A attached hereto, times its Net Earned Premium
+     for the term of this Contract.
+
+B.   The Company shall pay the Reinsurer the "Minimum and Deposit Premium" for
+     the excess layer, as stated in Exhibit A attached hereto, in "Quarterly
+     Installments," as stated in Exhibit A attached hereto, on April 1; July 1;
+     and October 1, 2006; and January 1, 2007.
+
+C.   Within 90 days after the expiration of this Contract, the Company shall
+     provide a report to the Reinsurer setting forth the premium due hereunder
+     for each excess layer, computed in accordance with paragraph A, and if the
+     premium so computed is greater than the previously paid "Minimum and
+     Deposit Premium" for the excess layer, as stated in Exhibit A attached
+     hereto, the balance shall be remitted by the Company with its report.
+
+                                    ARTICLE X
+
+NOTICE OF LOSS AND LOSS SETTLEMENTS
+
+A.   The Company shall advise the Reinsurer promptly of all losses which, in the
+     opinion of the Company, may result in a claim hereunder and of all
+     subsequent developments thereto which, in the opinion of the Company, may
+     materially affect the position of the Reinsurer.
+
+
+                                     Page 12
+
+<PAGE>
+
+B.   When so requested in writing, the Company shall afford the Reinsurer or its
+     representatives an opportunity to be associated with the Company, at the
+     expense of the Reinsurer, in the defense of any claim, suit or proceeding
+     involving this reinsurance, and the Company and the Reinsurer shall
+     cooperate in every respect in the defense of such claim, suit or
+     proceeding.
+
+C.   All loss settlements made by the Company that are within the terms and
+     conditions of the Policy or by way of compromise, and except as otherwise
+     provided in this Contract, shall be binding upon the Reinsurer. Upon
+     receipt of satisfactory proof of loss and within no more than 25 days of
+     receipt of the proof of loss, the Reinsurer agrees to pay or allow, as the
+     case may be, its share of each such settlement in accordance with this
+     Contract.
+
+D.   Ex-gratia payments shall be recoverable hereunder only where the Company,
+     through written communication prior to settlement, counsels with the
+     Reinsurer and the Reinsurer concurs, in writing, with the settlement
+     proposed by the Company.
+
+                                   ARTICLE XI
+
+AGENCY AGREEMENT (WAGE1)
+
+If more than one reinsured company is named as a party to this Contract, the
+first named company will be deemed the agent of the other reinsured companies
+for purposes of sending or receiving notices required by the terms and
+conditions of this Contract and for purposes of remitting or receiving any
+monies due any party.
+
+                                   ARTICLE XII
+
+SALVAGE AND SUBROGATION (WSAL1)
+
+The Reinsurer shall be credited with salvage or subrogation recoveries (i.e.,
+reimbursement obtained or recovery made by the Company, less Loss Adjustment
+Expense incurred in obtaining such reimbursement or making such recovery) on
+account of claims and settlements involving reinsurance hereunder. Salvage and
+subrogation recoveries thereon shall always be used to reimburse the excess
+carriers in the reverse order of their priority according to their participation
+before being used in any way to reimburse the Company for its primary loss. The
+Company hereby agrees to enforce its rights to salvage or subrogation relating
+to any loss, a part of which loss was sustained by the Reinsurer, and to
+prosecute all claims arising out of such rights.
+
+
+                                     Page 13
+
+<PAGE>
+
+                                  ARTICLE XIII
+
+ERRORS AND OMISSIONS (BRMA 14C)
+
+Any inadvertent delay, omission or error shall not be held to relieve either
+party hereto from any liability which would attach to it hereunder if such
+delay, omission or error had not been made, provided such omission or error is
+rectified upon discovery.
+
+                                   ARTICLE XIV
+
+OFFSET
+
+The Company and the Reinsurer may offset any balance, whether on account of
+premium, commission, claims or losses, Loss Adjustment Expense, salvage, or
+otherwise, due from one party to the other under the terms of this Contract or
+under any other agreement heretofore or hereafter entered into between the
+Company and the Reinsurer.
+
+                                   ARTICLE XV
+
+CURRENCY (BRMA 12A)
+
+A.   Whenever the word "Dollars" or the "$" sign appears in this Contract, they
+     shall be construed to mean United States Dollars and all transactions under
+     this Contract shall be in United States Dollars.
+
+B.   Amounts paid or received by the Company in any other currency shall be
+     converted to United States Dollars at the rate of exchange at the date such
+     transaction is entered on the books of the Company.
+
+                                   ARTICLE XVI
+
+TAXES (BRMA 50C)
+
+In consideration of the terms under which this Contract is issued, the Company
+will not claim a deduction in respect of the premium hereon when making tax
+returns, other than income or profits tax returns, to any state or territory of
+the United States of America, the District of Columbia or Canada.
+
+                                  ARTICLE XVII
+
+FEDERAL EXCISE TAX (BRMA 17A)
+
+(Applicable to those subscribing reinsurers, excepting Underwriters at Lloyd's
+London and other subscribing reinsurers exempt from Federal Excise Tax, who are
+domiciled outside the United States of America.)
+
+
+                                     Page 14
+
+<PAGE>
+
+A.   The subscribing reinsurer has agreed to allow for the purpose of paying the
+     Federal Excise Tax the applicable percentage of the premium payable hereon
+     (as imposed under Section 4371 of the Internal Revenue Code) to the extent
+     such premium is subject to the Federal Excise Tax.
+
+B.   In the event of any return of premium becoming due hereunder the
+     subscribing reinsurer will deduct the applicable percentage from the return
+     premium payable hereon and the Company or its agent should take steps to
+     recover the tax from the United States Government.
+
+                                  ARTICLE XVIII
+
+UNAUTHORIZED REINSURANCE (BRMA 55C)
+
+(Applies only to a subscribing reinsurer who does not qualify for full credit
+with any insurance regulatory authority having jurisdiction over the Company's
+reserves.)
+
+A.   As regards Policies or bonds issued by the Company coming within the scope
+     of this Contract, the Company agrees that when it shall file with the
+     insurance regulatory authority or set up on its books reserves for losses
+     covered hereunder which it shall be required by law to set up, it will
+     forward to the subscribing reinsurer a statement showing the proportion of
+     such reserves which is applicable to the subscribing reinsurer. The
+     subscribing reinsurer hereby agrees to fund such reserves in respect of
+     known outstanding losses that have been reported to the subscribing
+     reinsurer and allocated Loss Adjustment Expense relating thereto, losses
+     and allocated Loss Adjustment Expense paid by the Company but not recovered
+     from the subscribing reinsurer, plus reserves for losses incurred but not
+     reported, as shown in the statement prepared by the Company (hereinafter
+     referred to as "subscribing reinsurer's obligations") by funds withheld,
+     cash advances or a Letter of Credit. The subscribing reinsurer shall have
+     the option of determining the method of funding provided it is acceptable
+     to the insurance regulatory authorities having jurisdiction over the
+     Company's reserves.
+
+B.   When funding by a Letter of Credit, the subscribing reinsurer agrees to
+     apply for and secure timely delivery to the Company of a clean, irrevocable
+     and unconditional Letter of Credit issued by a bank and containing
+     provisions acceptable to the insurance regulatory authorities having
+     jurisdiction over the Company's reserves in an amount equal to the
+     subscribing reinsurer's proportion of said reserves. Such Letter of Credit
+     shall be issued for a period of not less than one year, and shall be
+     automatically extended for one year from its date of expiration or any
+     future expiration date unless 30 days (60 days where required by insurance
+     regulatory authorities) prior to any expiration date the issuing bank shall
+     notify the Company by certified or registered mail that the issuing bank
+     elects not to consider the Letter of Credit extended for any additional
+     period.
+
+C.   The subscribing reinsurer and Company agree that the Letters of Credit
+     provided by the subscribing reinsurer pursuant to the provisions of this
+     Contract may be drawn upon at any time, notwithstanding any other provision
+     of this Contract, and be utilized by the Company or any successor, by
+     operation of law, of the Company including, without limitation, any
+
+
+                                     Page 15
+
+<PAGE>
+
+     liquidator, rehabilitator, receiver or conservator of the Company for the
+     following purposes, unless otherwise provided for in a separate Trust
+     Agreement:
+
+     1.   To reimburse the Company for the subscribing reinsurer's obligations,
+          the payment of which is due under the terms of this Contract and which
+          has not been otherwise paid;
+
+     2.   To make refund of any sum which is in excess of the actual amount
+          required to pay the subscribing reinsurer's obligations under this
+          Contract;
+
+     3.   To fund an account with the Company for the subscribing reinsurer's
+          obligations. Such cash deposit shall be held in an interest bearing
+          account separate from the Company's other assets, and interest thereon
+          not in excess of the prime rate shall accrue to the benefit of the
+          subscribing reinsurer;
+
+     4.   To pay the subscribing reinsurer's share of any other amounts the
+          Company claims are due under this Contract.
+
+     In the event the amount drawn by the Company on any Letter of Credit is in
+     excess of the actual amount required for subparagraph 1 or 3, or in the
+     case of subparagraph 4, the actual amount determined to be due, the Company
+     shall promptly return to the subscribing reinsurer the excess amount so
+     drawn. All of the foregoing shall be applied without diminution because of
+     insolvency on the part of the Company or the subscribing reinsurer.
+
+D.   The issuing bank shall have no responsibility whatsoever in connection with
+     the propriety of withdrawals made by the Company or the disposition of
+     funds withdrawn, except to ensure that withdrawals are made only upon the
+     order of properly authorized representatives of the Company.
+
+E.   At annual intervals, or more frequently as agreed but never more frequently
+     than quarterly, the Company shall prepare a specific statement of the
+     subscribing reinsurer's obligations, for the sole purpose of amending the
+     Letter of Credit, in the following manner:
+
+     1.   If the statement shows that the subscribing reinsurer's obligations
+          exceed the balance of credit as of the statement date, the subscribing
+          reinsurer shall, within 30 days after receipt of notice of such
+          excess, secure delivery to the Company of an amendment to the Letter
+          of Credit increasing the amount of credit by the amount of such
+          difference.
+
+     2.   If, however, the statement shows that the subscribing reinsurer's
+          obligations are less than the balance of credit as of the statement
+          date, the Company shall, within 30 days after receipt of written
+          request from the subscribing reinsurer, release such excess credit by
+          agreeing to secure an amendment to the Letter of Credit reducing the
+          amount of credit available by the amount of such excess credit.
+
+
+                                     Page 16
+
+<PAGE>
+
+                                   ARTICLE XIX
+
+NET RETAINED LINES (BRMA 32E)
+
+A.   This Contract applies only to that portion of any Policy which the Company
+     retains net for its own account (prior to deduction of any underlying
+     reinsurance specifically permitted in this Contract), and in calculating
+     the amount of any loss hereunder and also in computing the amount or
+     amounts in excess of which this Contract attaches, only loss or losses in
+     respect of that portion of any Policy which the Company retains net for its
+     own account shall be included.
+
+B.   The amount of the Reinsurer's liability hereunder in respect of any loss or
+     losses shall not be increased by reason of the inability of the Company to
+     collect from any other reinsurer(s), whether specific or general, any
+     amounts which may have become due from such reinsurer(s), whether such
+     inability arises from the insolvency of such other reinsurer(s) or
+     otherwise.
+
+C.   As respects the Fourth Excess layer of this Contract, any recoveries under
+     the Third Excess layer of this Contract shall be disregarded and shall
+     inure to the sole benefit of the Company.
+
+                                   ARTICLE XX
+
+TRIA INUREMENT
+
+A.   As respects any "insured loss," as defined in the Terrorism Risk Insurance
+     Act of 2002 ("TRIA"), for which the Reinsurer makes a payment to the
+     Company under this Contract, the following provisions shall apply.
+
+B.   If the sum of
+
+     1.   Financial assistance provided under TRIA to the Company and its
+          affiliates, if any, (as "affiliate" is defined in TRIA) with respect
+          to all "insured loss" that applies to each "program year," as defined
+          in TRIA and
+
+     2.   Amounts due from all reinsurance which the Company and its affiliates,
+          if any, purchase, including but not limited to this reinsurance, all
+          other treaty reinsurance and all facultative reinsurance, and whether
+          collectible or not, under which there is a recoverable for any such
+          "insured loss"
+
+     exceeds the amount of the Company's and its affiliates', if any, gross
+     "insured loss," the excess amount shall be allocated to the Reinsurer in
+     the ratio that the Reinsurer's liability for the "insured loss" under this
+     Contract bears to the total collectible reinsurance recoverables for the
+     "insured loss" under 2 above.
+
+
+                                     Page 17
+
+<PAGE>
+
+C.   Upon receipt of payment under TRIA by the Company and its affiliates, if
+     any, the Company shall pay to or credit the Reinsurer under this Contract
+     with the Reinsurer's share of such excess amount determined in accordance
+     with the preceding paragraph.
+
+                                   ARTICLE XXI
+
+SPECIAL ACCEPTANCES
+
+A.   Business not within the terms of this Contract may be submitted to the
+     Reinsurer for special acceptance and, if accepted by the Reinsurer, shall
+     be subject to all of the terms of this Contract, except as modified by the
+     Special Acceptance.
+
+B.   Renewal of Policies, which have previously received a Special Acceptance
+     under prior Contracts, are deemed to be covered hereunder.
+
+C.   Further, should a reinsurer become party to this Contract subsequent to the
+     acceptance of any business not normally covered hereunder, that reinsurers
+     will automatically accept the special acceptances as being part of this
+     Contract.
+
+                                  ARTICLE XXII
+
+MORTGAGEE REINSURANCE ENDORSEMENTS
+
+A.   To induce a mortgagee named in a policy of the Company to accept such
+     policy, the Company and the Reinsurer may agree to name such mortgagee as a
+     third party beneficiary in a Mortgagee Reinsurance Endorsement made a part
+     of this Contract. For each such mortgagee Reinsurance Endorsement so
+     issued, the Company shall indemnify the Reinsurer for any and all
+     liability, loss, cost, or expense the Reinsurer may sustain or incur in
+     excess of its obligations under this Contract by reason of the issuance of
+     such Mortgagee Reinsurance Endorsement.
+
+B.   If the Reinsurer becomes liable to a mortgagee under any Mortgagee
+     Reinsurance Endorsement, the Reinsurer shall, to the extent of its
+     liability:
+
+     1.   Benefit pro-rata in reductions of the Company's loss by salvage,
+          subrogation, compromise, or otherwise.
+
+     2.   Be automatically subrogated to all of the mortgagee's rights against
+          the Company under the policy.
+
+     3.   Be completely discharged from its obligation to make any payment to
+          the Company under this Contract and be entitled to set off against any
+          amount due from the Reinsurer to the Company under this or any other
+          agreement for any amounts for which the Reinsurer would not be liable
+          except for the existence of such Mortgagee Reinsurance Endorsement.
+
+
+                                     Page 18
+
+<PAGE>
+
+C.   The Reinsurer shall have the right to cancel any Mortgagee Reinsurance
+     Endorsement by notice to the mortgagee.
+
+D.   Prior to the termination date, the Company shall advise the Reinsurer as to
+     which of the above options shall apply.
+
+                                  ARTICLE XXIII
+
+THIRD PARTY RIGHTS (BRMA 52C MODIFIED)
+
+Except for the provisions of the MORTGAGEE REINSURANCE ENDORSEMENTS ARTICLE,
+this Contract is solely between the Company and the Reinsurer, and in no
+instance shall any other party have any rights under this Contract except as
+expressly provided otherwise in the INSOLVENCY ARTICLE.
+
+                                  ARTICLE XXIV
+
+SEVERABILITY (WSEV1)
+
+If any provision of this Contract shall be rendered illegal or unenforceable by
+the laws or regulations of any state, such provision shall be considered void in
+such state, but this shall not affect the validity or enforceability of any
+other provision of this Contract or the enforceability of such provision in any
+other jurisdiction.
+
+                                   ARTICLE XXV
+
+GOVERNING LAW (BRMA 71A)
+
+This Contract shall be governed as to performance, administration and
+interpretation by the laws of the State of Pennsylvania exclusive of that
+state's rules with respect to conflicts of law, except as to rules with respect
+to credit for reinsurance in which case the applicable rules of all states shall
+apply.
+
+                                  ARTICLE XXVI
+
+ACCESS TO RECORDS (BRMA 1E)
+
+The Reinsurer or its designated representatives shall have access to the books
+and records of the Company on matters relating to this reinsurance at all
+reasonable times for the purpose of obtaining information concerning this
+Contract or the subject matter hereof.
+
+
+                                     Page 19
+
+<PAGE>
+
+                                  ARTICLE XXVII
+
+INSOLVENCY (WINS1)
+
+A.   In the event of the insolvency of the Company, this reinsurance shall be
+     payable directly to the Company or to its liquidator, receiver, conservator
+     or statutory successor, with reasonable provision for verification, on the
+     basis of the liability of the Company without diminution because of the
+     insolvency of the Company or because the liquidator, receiver, conservator
+     or statutory successor of the Company has failed to pay all or a portion of
+     any claim. It is agreed, however, that the liquidator, receiver,
+     conservator or statutory successor of the Company shall give written notice
+     to the Reinsurer of the pendency of a claim against the Company indicating
+     the Policy or bond reinsured which claim would involve a possible liability
+     on the part of the Reinsurer within a reasonable time after such claim is
+     filed in the conservation or liquidation proceeding or in the receivership,
+     and that during the pendency of such claim, the Reinsurer may investigate
+     such claim and interpose, at its own expense, in the proceeding where such
+     claim is to be adjudicated, any defense or defenses that it may deem
+     available to the Company or its liquidator, receiver, conservator or
+     statutory successor. The expense thus incurred by the Reinsurer shall be
+     chargeable, subject to the approval of the Court, against the Company as
+     part of the expense of conservation or liquidation to the extent of a
+     proportionate share of the benefit which may accrue to the Company solely
+     as a result of the defense undertaken by the Reinsurer.
+
+B.   Where two or more subscribing reinsurers are involved in the same claim and
+     a majority in interest elect to interpose defense to such claim, the
+     expense shall be apportioned in accordance with the terms of this Contract
+     as though such expense had been incurred by the Company.
+
+C.   It is further agreed that, in the event of the insolvency of the Company,
+     the reinsurance under this Contract shall be payable directly by the
+     Reinsurer to the Company or its liquidator, receiver, conservator, or
+     statutory successor, except as provided by Section 4118(a) of the New York
+     Insurance Law or except (1) where this Contract specifically provides
+     another payee of such reinsurance in the event of the insolvency of the
+     Company or (2) where the Reinsurer with the consent of the direct insured
+     or insureds has assumed such Policy obligations of the Company as direct
+     obligations of the Reinsurer to the payee under such Policies and in
+     substitution for the obligations of the Company to such payees.
+
+D.   In the event of the insolvency of any company or companies listed in the
+     designation of "Company" under this Contract, this Article shall apply only
+     to the insolvent company or companies.
+
+                                 ARTICLE XXVIII
+
+ARBITRATION (WARB1)
+
+A.   As a condition precedent to any right of action hereunder, any
+     irreconcilable dispute arising out of the interpretation, performance or
+     breach of this Contract, including the formation or
+
+
+                                     Page 20
+
+<PAGE>
+
+     validity thereof, whether arising before or after the expiry or termination
+     of the Contract, shall be submitted for decision to a panel of 3
+     arbitrators. Notice requesting arbitration will be in writing and sent by
+     certified mail, return receipt requested, or such reputable courier service
+     as is capable of returning proof of receipt of such notice by the recipient
+     to the party demanding arbitration.
+
+B.   One arbitrator shall be appointed by each party. If either party fails to
+     appoint its arbitrator within 30 days after being requested to do so by the
+     other party, the latter, after 10 days notice by certified mail or
+     reputable courier as provided above of its intention to do so, may appoint
+     the second arbitrator.
+
+C.   The two arbitrators shall, before instituting the hearing, appoint an
+     impartial third arbitrator who shall preside at the hearing. If the 2
+     arbitrators are unable to agree upon the third arbitrator within 30 days of
+     their appointment, the Company shall petition the American Arbitration
+     Association to appoint the third arbitrator. If the American Arbitration
+     Association fails to appoint the third arbitrator within 30 days of being
+     requested to do so, either party may request a district court judge of the
+     federal district court having jurisdiction over the geographical area in
+     which the arbitration is to take place, or if the federal court declines to
+     act, the state court having general jurisdiction in such area to select the
+     third arbitrator from a list of 6 individuals (3 named by each arbitrator
+     previously appointed). All arbitrators shall be disinterested active or
+     former senior executives of insurance or reinsurance companies or
+     Underwriters at Lloyd's, London.
+
+D.   Within 30 days after notice of appointment of all arbitrators, the panel
+     shall meet and determine timely periods for briefs, discovery procedures
+     and schedules for hearings. The panel shall be relieved of all judicial
+     formality and shall not be bound by the strict rules of procedure and
+     evidence. Unless the panel agrees otherwise, arbitration shall take place
+     in Bala Cynwyd, Pennsylvania, but the venue may be changed when deemed by
+     the panel to be in the best interest of the arbitration proceeding. Insofar
+     as the arbitration panel looks to substantive law, it shall consider the
+     law of the State of Pennsylvania. The decision of any 2 arbitrators when
+     rendered in writing shall be final and binding. The panel is empowered to
+     grant interim relief as it may deem appropriate.
+
+E.   The panel shall make its decision considering the custom and practice of
+     the applicable insurance and reinsurance business as promptly as possible
+     following the termination of the hearings. Judgment upon the award may be
+     entered in any court having jurisdiction thereof.
+
+F.   If more than one subscribing reinsurer is involved in arbitration where
+     there are common questions of law or fact and a possibility of conflicting
+     awards or inconsistent results, all such subscribing reinsurers shall
+     constitute and act as one party for purposes of this Article and
+     communications shall be made by the Company to each of the subscribing
+     reinsurers constituting the one party; provided, however, that nothing
+     therein shall impair the rights of such subscribing reinsurers to assert
+     several, rather than joint defenses or claims, nor be construed as changing
+     the liability of the subscribing reinsurers under the terms of this
+     Contract from several to joint.
+
+
+                                     Page 21
+
+<PAGE>
+
+G.   Each party shall bear the expense of its own arbitrator and shall jointly
+     and equally bear with the other party the cost of the third arbitrator. The
+     remaining costs of the arbitration shall be allocated by the panel. The
+     panel may, at its discretion, award such further costs and expenses as it
+     considers appropriate, including but not limited to attorneys fees, to the
+     extent permitted by law. However, the panel may not award any exemplary or
+     punitive damages.
+
+                                  ARTICLE XXIX
+
+SERVICE OF SUIT (WSOS4)
+
+(This Article is applicable if the subscribing reinsurer is not domiciled in the
+United States of America and/or is not authorized in any State, Territory or
+District of the United States where authorization is required by insurance
+regulatory authorities. This Article is not intended to conflict with or
+override the obligation of the parties to arbitrate their disputes in accordance
+with the ARBITRATION ARTICLE.)
+
+A.   In the event of the failure of the subscribing reinsurer to pay any amount
+     claimed to be due hereunder, the subscribing reinsurer, at the request of
+     the Company, shall submit to the jurisdiction of a court of competent
+     jurisdiction within the United States. Nothing in this Article constitutes
+     or should be understood to constitute a waiver of the subscribing
+     reinsurer's rights to commence an action in any court of competent
+     jurisdiction in the United States, to remove an action to a United States
+     District Court, or to seek a transfer of a case to another court as
+     permitted by the laws of the United States or of any state in the United
+     States. The subscribing reinsurer, once the appropriate court is selected,
+     whether such court is the one originally chosen by the Company and accepted
+     by subscribing reinsurer or is determined by removal, transfer, or
+     otherwise, as provided for above, shall comply with all requirements
+     necessary to give said court jurisdiction and, in any suit instituted
+     against it upon this Contract, shall abide by the final decision of such
+     court or of any appellate court in the event of an appeal.
+
+B.   Service of process in such suit may be made upon the agent for the service
+     of process ("agent") named below, depending on the jurisdiction where the
+     Company chooses to bring suit:
+
+     1.   If the suit is brought in the State of California, the law firm of
+          Mendes and Mount, 725 South Figueroa, 19th Floor, Los Angeles,
+          California 90017 shall be authorized and directed to accept service of
+          process on behalf of the subscribing reinsurer in any such suit;
+
+     2.   If the suit is brought in the State of New York, the law firm of
+          Mendes and Mount, 750 Seventh Avenue, New York, New York 10019 shall
+          be authorized and directed to accept service of process on behalf of
+          the subscribing reinsurer in any such suit;
+
+     3.   If the suit is brought in any state other than California or New York,
+          either of the agents described in subparagraphs 1 or 2 above shall be
+          authorized and directed to accept service of process on behalf of the
+          subscribing reinsurer in any such suit; or
+
+
+                                     Page 22
+
+<PAGE>
+
+     4.   If the subscribing reinsurer has designated an agent in the
+          subscribing reinsurer's Interests and Liabilities Agreement attached
+          hereto, then that agent shall be authorized and directed to accept
+          service of process on behalf of the subscribing reinsurer in any suit.
+          However, if an agent is designated in the subscribing reinsurer's
+          Interests and Liabilities Agreement and the agent is not located in
+          California as respects a suit brought in California or New York as
+          respects a suit brought in New York, in keeping with the laws of the
+          states of California and New York which require that service be made
+          on an agent located in the respective state if a suit is brought in
+          that state, the applicable office of Mendes and Mount stipulated in
+          subparagraphs 1 and 2 above must be used for service of suit unless
+          the provisions of paragraph C of this Article apply.
+
+C.   Further, pursuant to any statute of any state, territory or district of the
+     United States that makes provision therefor, the subscribing reinsurer
+     hereby designates the Superintendent, Commissioner or Director of
+     Insurance, or other officer specified for that purpose in the statute, or
+     his successor or successors in office, as its true and lawful attorney upon
+     whom may be served any lawful process in any action, suit or proceedings
+     instituted by or on behalf of the Company or any beneficiary hereunder
+     arising out of this Contract, and hereby designates the above-named as the
+     person to whom the said officer is authorized to mail such process or a
+     true copy thereof.
+
+                                   ARTICLE XXX
+
+MODE OF EXECUTION (WMOE1)
+
+This Contract may be executed either by an original written ink signature of
+paper documents, by an exchange of facsimile copies showing the original written
+ink signature of paper documents, or by electronic signature by either party
+employing appropriate software technology as to satisfy the parties at the time
+of execution that the version of the document agreed to by each party shall
+always be capable of authentication and satisfy the same rules of evidence as
+written signatures. The use of any one or a combination of these methods of
+execution shall constitute a legally binding and valid signing of this Contract.
+This Contract may be executed in one or more counterparts, each of which, when
+duly executed, shall be deemed an original.
+
+                                  ARTICLE XXXI
+
+INTERMEDIARY (WINT8)
+
+Willis Re Inc., 1835 Market Street, Suite 2700, Philadelphia, Pennsylvania 19103
+is hereby recognized as the intermediary negotiating this Contract and through
+whom all communications relating thereto shall be transmitted to the Company or
+the Reinsurer. However, all communications concerning accounts, claim
+information, funds and inquiries related thereto shall be transmitted to the
+Company or the Reinsurer through Willis Re Inc., 5420 Millstream Road, P.O. Box
+3000, McLeansville, North Carolina 27301-3000. Payments by the Company to Willis
+Re Inc. shall be deemed to constitute payment to the Reinsurer and payments by
+the
+
+
+                                     Page 23
+
+<PAGE>
+
+Reinsurer to Willis Re Inc. shall be deemed to constitute payment to the Company
+only to the extent that such payments are actually received by the Company.
+
+IN WITNESS WHEREOF, the Company by its duly authorized representative has
+executed this Contract as of the date specified below:
+
+Signed this 8th day of March, 2006.
+
+PHILADELPHIA INSURANCE COMPANY
+PHILADELPHIA INDEMNITY INSURANCE COMPANY
+
+
+By Christopher J. Maguire,
+   -------------------------------------
+   Executive Vice President and Chief
+   Underwriting Officer
+
+
+                                     Page 24
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                            PROPERTY THIRD AND FOURTH
+                      EXCESS OF LOSS REINSURANCE AGREEMENT
+
+                                    issued to
+
+                         PHILADELPHIA INSURANCE COMPANY
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            Bala Cynwyd, Pennsylvania
+
+<TABLE>
+<CAPTION>
+                                           93442001-006    93442002-006
+                                           Third Excess   Fourth Excess
+                                           ------------   -------------
+<S>                                        <C>            <C>
+Company's Retention                        $10,000,000     $15,000,000
+Reinsurer's Limit, Each Risk, Each Loss    $ 5,000,000     $35,000,000
+Reinsurer's Limit, Each Loss Occurrence    $10,000,000     $35,000,000
+Reinstatements                              1 free and
+                                              1 at 100%       1 at 100%
+Reinsurer's Limit, All Risks, All Losses   $15,000,000     $70,000,000
+Terrorism Annual Aggregate Limit           $ 5,000,000     $35,000,000
+Deposit Premium                            $ 1,886,000     $ 2,106,000
+Minimum Premium                            $ 1,697,400     $ 1,895,405
+Premium Rate                                      0.60%           0.67%
+</TABLE>
+
+
+                                    EXHIBIT A
+
+<PAGE>
+
+              NUCLEAR INCIDENT EXCLUSION CLAUSE - PHYSICAL DAMAGE -
+                              REINSURANCE - U.S.A.
+
+1)   This Agreement does not cover any loss or liability accruing to the
+     Reinsured, directly or indirectly, and whether as Insurer or Reinsurer,
+     from any Pool of Insurers or Reinsurers formed for the purpose of covering
+     Atomic or Nuclear Energy risks.
+
+2)   Without in any way restricting the operation of paragraph (1) of this
+     Clause, this Agreement does not cover any loss or liability accruing to the
+     Reinsured, directly or indirectly and whether as Insurer or Reinsurer, from
+     any Insurance against Physical Damage (including business interruption or
+     consequential loss arising out of such Physical Damage) to:
+
+     I.   Nuclear reactor power plants including all auxiliary property on the
+          site, or
+
+     II.  Any other nuclear reactor installation, including laboratories
+          handling radioactive materials in connection with reactor
+          installations, and "critical facilities" as such, or
+
+     III. Installations for fabricating complete fuel elements or for processing
+          substantial quantities of "special nuclear material," and for
+          reprocessing, salvaging, chemically separating, storing or disposing
+          of "spent" nuclear fuel or waste materials, or
+
+     IV.  Installations other than those listed in paragraph 2) III above using
+          substantial quantities of radioactive isotopes or other products of
+          nuclear fission.
+
+3)   Without in any way restricting the operations of paragraphs 1) and 2)
+     hereof, this Agreement does not cover any loss or liability by radioactive
+     contamination accruing to the Reinsured, directly or indirectly, and
+     whether as Insurer or Reinsurer, from any insurance on property which is on
+     the same site as a nuclear reactor power plant or other nuclear
+     installation and which normally would be insured therewith except that this
+     paragraph 3) shall not operate
+
+     a) where the Reinsured does not have knowledge of such nuclear reactor
+power plant or nuclear installation, or
+
+     b) where said insurance contains a provision excluding coverage for damage
+to property caused by or resulting from radioactive contamination, however
+caused. However, on and after 1st, January 1960, this sub-paragraph b) shall
+only apply provided the said radioactive contamination exclusion provision has
+been approved by the Government Authority having jurisdiction thereof.
+
+4)   Without in any way restricting the operations of paragraphs 1), 2) and 3)
+     hereof, this Agreement does not cover any loss or liability by radioactive
+     contamination accruing to the Reinsured, directly or indirectly, and
+     whether as Insurer or Reinsurer, when such radioactive contamination is a
+     named hazard specifically insured against.
+
+5)   It is understood and agreed that this Clause shall not extend to risks
+     using radioactive isotopes in any form where the nuclear exposure is not
+     considered by the Reinsured to be the primary hazard.
+
+6)   The term "special nuclear material" shall have the meaning given it in the
+     Atomic Energy Act of 1954, or by any law amendatory thereof.
+
+7)   Reinsured to be sole judge of what constitutes:
+
+     a) substantial quantities, and
+
+     b) the extent of installation, plant or site.
+
+NOTE: Without in any way restricting the operations of paragraph 1) hereof, it
+is understood and agreed that:
+
+     a)   all policies issued by the Reinsured on or before 31st, December 1957,
+          shall be free from the application of the other provisions of this
+          Clause until expiry date or 31st, December 1960, whichever first
+          occurs whereupon all the provisions of this Clause shall apply,
+
+     b)   with respect to any risk located in Canada policies issued by the
+          Reinsured on or before 31st, December 1958, shall be free from the
+          application of the other provisions of this Clause until expiry date
+          or 31st, December 1960, whichever first occurs whereupon all the
+          provisions of this Clause shall apply.
+
+12/12/57
+N.M.A. 1119
+BRMA 35B
+
+<PAGE>
+
+                                  WAR EXCLUSION
+
+As regards interests which at time of loss or damage are on shore, no liability
+shall attach hereto in respect of any loss or damage which is occasioned by war,
+invasion, hostilities, acts of foreign enemies, civil war, rebellion,
+insurrection, military or usurped power, or martial law or confiscation by order
+of any government or public authority.
+
+This War Exclusion Clause shall not, however, apply to interests which at time
+of loss or damage are within the territorial limits of the United States of
+America (comprising the fifty States of the Union and the District of Columbia,
+its territories and possessions, including the Commonwealth of Puerto Rico and
+including Bridges between the United States of America and Mexico provided they
+are under United States ownership), Canada, St. Pierre and Miquelon, provided
+such interests are insured under original policies, endorsements or binders
+containing a standard war or hostilities or warlike operations exclusion clause.
+
+Nevertheless, this clause shall not be construed to apply to loss or damage
+occasioned by riots, strikes, civil commotion, vandalism, malicious damage.
+
+<PAGE>
+
+                       INTERESTS AND LIABILITIES AGREEMENT
+                                (the "Agreement")
+
+                                       of
+
+                         CATLIN INSURANCE COMPANY, LTD.
+                          (the "Subscribing Reinsurer")
+
+                               with respect to the
+
+                            PROPERTY THIRD AND FOURTH
+                       EXCESS OF LOSS REINSURANCE CONTRACT
+                                (the "Contract")
+
+                                    issued to
+
+                         PHILADELPHIA INSURANCE COMPANY
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+        AND ANY ADDITIONAL COMPANY ESTABLISHED OR ACQUIRED BY THE COMPANY
+                                 (the "Company")
+
+The Subscribing Reinsurer shall have the following share(s) in the interests and
+liabilities of the "Reinsurer" as set forth in the Contract attached hereto and
+executed by the Company:
+
+     2.00% of the Property Third Excess of Loss Reinsurance Layer
+     2.00% of the Property Fourth Excess of Loss Reinsurance Layer
+
+This Agreement shall commence at 12:01 a.m., Eastern Standard Time, January 1,
+2006, and shall continue in force until 12:01 a.m., Eastern Standard Time,
+January 1, 2007.
+
+The share of the Subscribing Reinsurer in the interests and liabilities of the
+"Reinsurer" shall be several and not joint with the share of any other
+subscribing reinsurer. In no event shall the Subscribing Reinsurer participate
+in the interests and liabilities of the other subscribing reinsurers.
+
+IN WITNESS WHEREOF, the Subscribing Reinsurer by its duly authorized
+representative has executed this Agreement as of the date specified below:
+
+Signed this 28th day of March, 2006.
+
+CATLIN INSURANCE COMPANY, LTD.
+
+
+By Mark Vaughan,
+   ----------------------------------
+   Underwriter
+
+<PAGE>
+
+                       INTERESTS AND LIABILITIES AGREEMENT
+                                (the "Agreement")
+
+                                       of
+
+                          HANNOVER RUCKVERSICHERUNGS AG
+                          (the "Subscribing Reinsurer")
+
+                               with respect to the
+
+                            PROPERTY THIRD AND FOURTH
+                       EXCESS OF LOSS REINSURANCE CONTRACT
+                                (the "Contract")
+
+                                    issued to
+
+                         PHILADELPHIA INSURANCE COMPANY
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+        AND ANY ADDITIONAL COMPANY ESTABLISHED OR ACQUIRED BY THE COMPANY
+                                 (the "Company")
+
+The Subscribing Reinsurer shall have the following share(s) in the interests and
+liabilities of the "Reinsurer" as set forth in the Contract attached hereto and
+executed by the Company:
+
+     8.00% of the Property Third Excess of Loss Reinsurance Layer
+     8.00% of the Property Fourth Excess of Loss Reinsurance Layer
+
+This Agreement shall commence at 12:01 a.m., Eastern Standard Time, January 1,
+2006, and shall continue in force until 12:01 a.m., Eastern Standard Time,
+January 1, 2007.
+
+The share of the Subscribing Reinsurer in the interests and liabilities of the
+"Reinsurer" shall be several and not joint with the share of any other
+subscribing reinsurer. In no event shall the Subscribing Reinsurer participate
+in the interests and liabilities of the other subscribing reinsurers.
+
+IN WITNESS WHEREOF, the Subscribing Reinsurer by its duly authorized
+representative has executed this Agreement as of the date specified below:
+
+Signed this 5th day of April, 2006.
+
+HANNOVER RUCKVERSICHERUNGS AG
+
+
+By Harald Schlie,
+   ----------------------------------
+   Vice President
+
+<PAGE>
+
+                       INTERESTS AND LIABILITIES AGREEMENT
+                                (the "Agreement")
+
+                                       of
+
+                         UNDERWRITERS AT LLOYD'S, LONDON
+              AS SET FORTH IN THE SIGNING SCHEDULE ATTACHED HERETO
+                          (the "Subscribing Reinsurer")
+
+                               with respect to the
+
+                            PROPERTY THIRD AND FOURTH
+                       EXCESS OF LOSS REINSURANCE CONTRACT
+                                (the "Contract")
+
+                                    issued to
+
+                         PHILADELPHIA INSURANCE COMPANY
+                    PHILADELPHIA INDEMNITY INSURANCE COMPANY
+                            BALA CYNWYD, PENNSYLVANIA
+        AND ANY ADDITIONAL COMPANY ESTABLISHED OR ACQUIRED BY THE COMPANY
+                                 (the "Company")
+
+The Subscribing Reinsurer shall have the following share(s) in the interests and
+liabilities of the "Reinsurer" as set forth in the Property Third and Fourth
+Excess of Loss Reinsurance Layers of the Contract attached hereto and executed
+by the Company. The Subscribing Reinsurer's percentage share for each layer
+shall equal the sum of the final signed lines percentage share(s) for that layer
+as executed on the attached signing page(s) for Lloyd's Underwriters.
+
+This Agreement shall commence at 12:01 a.m., Eastern Standard Time, January 1,
+2006 and shall continue in force until 12:01 a.m., Eastern Standard Time,
+January 1, 2007.
+
+The share of the Subscribing Reinsurer in the interests and liabilities of the
+"Reinsurer" shall be several and not joint with the share of any other
+subscribing reinsurer. In no event shall the Subscribing Reinsurer participate
+in the interests and liabilities of the other subscribing reinsurers.
+
+In any action, suit or proceeding to enforce the Subscribing Reinsurer's
+obligations under the attached Contract, service of process may be made upon
+Mendes & Mount, 750 Seventh Avenue, New York, New York 10019.
+
+IN WITNESS WHEREOF, the Subscribing Reinsurer by its duly authorized
+representative has executed this Agreement per the attached schedule.
+
+
+Signed on behalf of Lloyds
+</TEXT>
+</DOCUMENT>

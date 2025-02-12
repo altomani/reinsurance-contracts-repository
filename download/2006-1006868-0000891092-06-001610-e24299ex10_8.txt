@@ -1,0 +1,575 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>3
+<FILENAME>e24299ex10_8.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+                                                                    Exhibit 10.8
+
+                              REINSURANCE AGREEMENT
+
+                       (herein referred to as "Agreement")
+
+                                     Between
+
+                   ALLIANZ LIFE INSURANCE COMPANY OF NEW YORK
+
+                               New York, New York
+
+                  (herein referred to as "Allianz Life of NY")
+
+                                       And
+
+                                 MDNY HEALTHCARE
+
+                               Melville, New York
+
+                         (herein referred to as "Plan")
+
+                         EFFECTIVE DATE: January 1, 2006
+
+                     REINSURANCE AGREEMENT NUMBER 17055-066
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+TITLE                                                                  ARTICLE
+Reinsurance Coverage                                                      1
+Schedule                                                                  2
+Definitions                                                               3
+Reinsurance Premium                                                       4
+Additional Limitations                                                    5
+Notice of Claims and Reimbursement                                        6
+Reports, Records and Audits                                               7
+Effective Date, Duration and Termination                                  8
+General Provisions                                                        9
+
+<PAGE>
+
+                                    ARTICLE I
+
+                              Reinsurance Coverage
+
+1.1   Insuring Clause. The Plan will cede to Allianz Life of NY and Allianz Life
+      of NY will reinsure the Percentage Payable of Eligible Expenses Incurred
+      per Member per Contract Year that exceed the applicable Attachment Point,
+      up to any applicable maximums for specified Lines of Business, subject to
+      all the terms of this Agreement. When applicable, reimbursement is based
+      on the situs of Plan and/or the date the Eligible Expenses were Incurred.
+
+1.2   Carryforward: Eligible Expenses may include expenses Incurred by a Member
+      in the last 31 days of an Agreement issued to the Plan by Allianz Life of
+      NY immediately preceding this Agreement if the applicable Attachment Point
+      was not reached with respect to that Member under that preceding
+      Agreement.
+
+
+                                       2
+<PAGE>
+
+                                    ARTICLE 2
+
+                                    Schedule
+
+2.1   LINE(S) OF BUSINESS:
+
+      A     Commercial HMO
+
+      B.    Commercial Point of Service (POS), in and out of network
+
+Self-funded employees are not covered under this Agreement, unless they are
+employees for which the Plan has risk, and they are specifically listed above as
+a Line(s) of Business.
+
+2.2   MONTHLY PREMIUM PER MEMBER:
+
+      Line(s) of Business
+      Commercial HMO              $0.21
+      Commercial POS              $0.21
+
+2.3   ATTACHMENT POINT(S) PER MEMBER:
+
+      Line(s) of Business
+      Commercial HMO          $1,000,000
+      Commercial POS          $1,000,000
+
+2.4   INDIVIDUAL LIFETIME MAXIMUM:                             $1,000,000
+
+2.5   PERCENTAGE PAYABLE                                           70%
+
+2.6   ELIGIBLE EXPENSE LIMITATIONS PER MEMBER: Eligible Expenses are limited to
+      the lesser of:
+
+      A.    the billed charges; or
+      B.    the amount paid by the Plan; or
+      C.    any other limits shown in this Agreement
+
+
+                                       3
+<PAGE>
+
+                                    ARTICLE 3
+
+                                   Definitions
+
+3.1   CAPITATED SERVICE(S): Services performed for a Member by a health care
+      provider with whom the Plan has a contract, directly or indirectly, and
+      where the contract transfers from the Plan the entire risk (without any
+      stop loss or other risk retention by the Plan) that the service may
+      generate a cost greater than the capitation payment.
+
+3.2   CONTRACT YEAR: The period that begins on the Effective Date and ends upon
+      the earlier of 12 months beyond the Effective Date or the termination of
+      this Agreement.
+
+3.3   ELIGIBLE EXPENSE(S): Expenses for health care services and supplies
+      provided to a Member that are Incurred during the Contract Year and are:
+
+      A.    Covered by the Membership Service Agreement as the sole
+            responsibility of Plan to provide to a Member; and
+
+      B.    Shown on the attached Eligible Expenses Matrix(ces) as an Eligible
+            Expense under this Agreement; and
+
+      C.    Performed by a Plan participating provider; or performed by a
+            nonparticipating provider utilized (1) due to a referral by the
+            Plan, (2) due to an emergency, (3) due to the Member being inpatient
+            confined on the date they became a Member, or (4) through the
+            out-of-network benefit of a POS product; and
+
+      D.    Not excluded under this Agreement
+
+3.4   FACILITY(IES): Any hospital, specialized medical institution, skilled
+      nursing facility or rehabilitation facility, that bills for its services
+      and supplies on form CMS-1450 or any form that replaces this form.
+
+3.5   INCURRED: The date the services or supplies to which the expense relates
+      are provided.
+
+3.6   INDIVIDUAL LIFETIME MAXIMUM: The maximum liability of Allianz Life of NY,
+      per Member combined for this Agreement and all Agreements issued to Plan
+      by Allianz Life of NY previous to this Agreement, as indicated by the
+      amount specified in the Schedule.
+
+3.7   MATERIAL CHANGE:
+
+      A.    A change or combination of changes in a Membership Service
+            Agreement, provider reimbursement levels, number of Members in a
+            Line of Business increases or decreases, or the Plan's service area,
+            that Allianz Life of NY determines would increase expected aggregate
+            reinsurance claims 5% or more; or
+
+      B.    The Plan acquires the assets of another company or foundation or
+            merges with or comes under control of another person, company or
+            foundation; or
+
+      C.    Any change in senior operating management, any fundamental change in
+            its management service contract, or any change in majority ownership
+            of the Plan.
+
+      Material Changes require notification (Article 7), and may be excluded
+      (Article 5) or result in premium changes (Article 4) or termination
+      (Article 8).
+
+3.8   MEMBER: A person or dependent enrolled by the Plan and eligible to receive
+      services under a Membership Service Agreement.
+
+3.9   MEMBERSHIP SERVICE AGREEMENT(S): Those contractual agreements between the
+      Plan and its Members for those specified Lines of Business listed in
+      Article 2, that are made a part of this Agreement
+
+
+                                       4
+<PAGE>
+
+                                    ARTICLE 4
+
+                              Reinsurance Premiums
+
+4.1   Premium Rate. The reinsurance premium payable each month is the amount per
+      Member listed in Article 2, times the number of Members enrolled in the
+      Plan for that month for each of the specified Lines of Business listed in
+      Article 2.
+
+4.2   Due Date. Premium is due to Allianz Life of NY at its office in New York,
+      New York on the first day of each month of the Contract Year.
+
+4.3   Grace Period. There is a grace period of 30 days after the due date to pay
+      the premium. If premium is not paid before the end of the grace period,
+      this Agreement automatically terminates as of the end of the period for
+      which premium has been received.
+
+4.4   Reinstatement. Allianz Life of NY may, at its discretion, reinstate this
+      Agreement upon receipt of premium after the grace period. The parties
+      agree that past reinstatements create no right or presumption of future
+      reinstatement.
+
+4.5   Signed Statement. Each premium payment must be accompanied by a statement
+      signed by an authorized representative of the Plan as to the number of
+      Members in each of the specified Lines of Business listed in Article 2,
+      and any adjustments from previous statements.
+
+4.6   Premium Rate Change. Allianz Life of NY may change premium as of the date
+      of any Material Change if Allianz Life of NY notifies the Plan of the
+      change in premium within 30 days of Allianz Life of NY being notified of
+      the Material Change.
+
+
+                                       5
+<PAGE>
+
+                                    ARTICLE 5
+
+            Additional Limitations
+
+5.1   Obligations. This is an Agreement solely between and solely benefiting the
+      Plan and Allianz Life of NY. The parties intend no benefit by this
+      Agreement to creditors, Members, or health care providers. The Plan is
+      responsible for all health care and health care expenses for Members.
+      Allianz Life of NY has no obligation to provide any service or payment,
+      directly or indirectly, to anyone but the Plan.
+
+5.2   Coordination of Benefits/Subrogation. If the Plan receives or will receive
+      any payment or reduction in expense by reason of a coordination of
+      benefits provision in the Membership Service Agreement or by any right of
+      subrogation, that payment or reduction is a reduction in Eligible
+      Expenses. If Allianz Life of NY has already paid a claim that included
+      these Eligible Expenses, the Plan will reimburse Allianz Life of NY the
+      amount of this reduction.
+
+5.3   Multiple Policies. If Plan has another Agreement insuring the same risk
+      assumed under this Agreement for these same Lines of Business, Allianz
+      Life of NY will pay only the pro rata portion of the amount otherwise
+      payable under this Agreement, subject to the Agreement maximums and
+      limitations.
+
+5.4   Additional Limitations. Allianz Life of NY is not liable to the Plan, and
+      the Plan will hold harmless and indemnify Allianz Life of NY, for the
+      following:
+
+      A.    Amounts in excess of the maximums set forth in this Agreement or
+            limitations shown in the Schedule.
+
+      B.    Professional liability or liability for any act or omission,
+            tortious or otherwise, in connection with any services for any
+            person or group of persons by the Plan or any group, entity, or
+            person employed by or contracted with the Plan.
+
+      C.    Extracontractual damages or liability of the Plan in excess of Plans
+            Membership Service Agreements.
+
+      D.    Medical expenses due to declared or undeclared war.
+
+      E.    Expenses that the Plan has not paid or Capitated Services unless
+            listed under specified Lines of Business in Article 2.
+
+      F.    Additional liability of Allianz Life of NY caused by a Material
+            Change, unless Allianz Life of NY expressly accepts the Material
+            Change.
+
+      G.    Expenses for an illness or injury for which the Member is eligible
+            for benefits from, or receives benefits from, a workers
+            compensation, occupational disease, or similar government law.
+
+      H.    Liabilities, expenses, or losses that are based upon any
+            noncompliance or violation of any Federal or State statute, rule, or
+            regulation by the Plan.
+
+      I.    Any liability arising from any benefit denial or restriction made by
+            the Plan, or arising from any product design or advertising of the
+            Plan.
+
+
+                                       6
+<PAGE>
+
+                                    ARTICLE 6
+
+                       Notice of Claims and Reimbursement
+
+6.1   Written Notice of Claim. The Plan will give Allianz Life of NY timely
+      written notice of any claim or potential reinsurance claims (those
+      exceeding or expected to exceed 75% of the applicable Attachment Point)
+      within 30 days of the Plan's knowledge of such claims. The Plan will also
+      submit a monthly update to Allianz Life of NY of changes to potential
+      reinsurance claims.
+
+6.2   Loss of Coverage. There is no reinsurance of an Eligible Expense when:
+
+      A.    Allianz Life of NY does not receive a completed "Report of Large
+            Claim" form or other form designated by or acceptable to Allianz
+            Life of NY related to the Eligible Expense, prior to 12 months after
+            the end of the Contract Year; and
+
+      B.    Allianz Life of NY does not receive the following information
+            related to the Eligible Expenses prior to 24 months after the end of
+            the Contract Year
+
+            1)    a completed claim form; and
+
+            2)    proof of eligibility; and
+
+            3)    a claim detail report (for the required fields of information,
+                  contact your claim representative).
+
+            However, this limitation does not apply to Eligible Expenses if
+            prior to 24 months after the end of the Contract Year the Plan has
+            in writing pursued a right by coordination of benefits, subrogation
+            or otherwise to recover or reduce such expenses, and has notified
+            Allianz Life of NY of such action.
+
+6.3   Claim Forms. Allianz Life of NY will furnish Plan with a supply of claim
+      forms initially, and upon request of the Plan.
+
+
+                                       7
+<PAGE>
+
+                                                            ARTICLE 7
+
+                           Reports, Records and Audits
+
+7.1   Notice of Material Change. The Plan will give written notice to Allianz
+      Life of NY of any Material Change no later than 30 days after the Material
+      Change.
+
+7.2   Notice of Supervision by the State. If the Plan is placed under
+      supervision by the state, the Plan will give written notice to Allianz
+      Life of NY within 15 days.
+
+7.3   Enrollment The Plan will keep a record of the monthly enrollment of
+      Members covered by its Membership Service Agreements and the Eligible
+      Expenses for each Member while covered under this Agreement. Such record
+      will be kept during the time this Agreement is in effect and for a three
+      (3) year period after its termination date or for the period during which
+      claims are pending, whichever is longer.
+
+7.4   Books and Records. The Plan's books, records, and Membership Service
+      Agreements will be made available to Allianz Life of NY for inspection and
+      audit at any time during normal business hours while this Agreement is in
+      effect and for a three (3) year period after its termination date or for
+      the period during which claims are pending, whichever is longer.
+
+7.5   Notice of Investigation. The Plan will give written notice to Allianz Life
+      of NY of any investigation or request for information of a material nature
+      (not including routine reports and requests), by a regulatory agency
+      regarding the conduct of the Plan. Such written notice must be provided by
+      the Plan to Allianz Life of NY within 30 days following the date the Plan
+      receives notice, written or otherwise, of such investigation or request.
+
+
+                                       8
+<PAGE>
+
+                                    ARTICLE 8
+
+                    Effective Date, Duration and Termination
+
+8.1   Effective Date. This Agreement is effective on the date indicated on the
+      face page.
+
+8.2   Termination. This Agreement terminates on the earliest of the following:
+
+      A.    Nonpayment of premium as set forth in the Reinsurance Premium
+            provisions.
+
+      B.    The date a petition is made for a declaration of receivership or
+            rehabilitation of a party, or the date a party ceases operations.
+
+      C.    The date of a Material Change if Allianz Life of NY notifies the
+            Plan of termination for this reason within 30 days of Allianz Life
+            of NY being notified of the Material Change.
+
+      D.    The end of the Contract Year.
+
+      E.    Upon the date of a material breach of this Agreement. The party
+            terminating for this reason must give the other party notice of the
+            actions or inactions that constitute the breach and 5 business days
+            to cure the breach to the satisfaction of the notifying party.
+
+8.3   Termination-of Rights. Termination of this Agreement does not affect the
+      rights and liabilities of the Plan or Allianz Life of NY arising during
+      any period when this Agreement was in effect. However, this does not
+      extend liability of Allianz Life of NY for expenses that are Incurred
+      after the termination of this Agreement.
+
+8.4   Insolvency. In the event of the insolvency of the Plan all Reinsurance
+      will be payable directly to the liquidator, receiver, or statutory
+      successor of the Plan, on the basis of the liability of Plan in this
+      Agreement without diminution due to the insolvency of the Plan.
+
+
+                                       9
+<PAGE>
+
+                                    ARTICLE 9
+
+                               General Provisions
+
+9.1   Entire Agreement. This document, any attached endorsements, any Disclosure
+      Statement and any documents incorporated by reference constitute the
+      entire Agreement between the Plan and Allianz Life of NY.
+
+9.2   Misstated Data. If information material to the underwriting of the
+      Agreement is misstated or omitted, Allianz Life of NY-may retroactively
+      adjust the premiums or coverage in accordance with the correct data.
+
+9.3   Agreement Changes. This Agreement may be amended by mutual written consent
+      of officers of the Plan and Allianz Life of NY.
+
+9.4   Assignment. This Agreement and any amounts payable under this Agreement
+      are not assignable.
+
+9.5   Waiver. Waiver of any provision of this Agreement is not a waiver of that
+      provision or other provisions at a later date.
+
+9.6   Right of Offset. Amounts owed by the parties to each other, with respect
+      to this Agreement may be offset and then only the balance will be Owed.
+      The right of offset will not be affected or diminished because of the
+      insolvency of either party.
+
+9.7   Clerical Error. If either party fails to comply with a provision of this
+      Agreement because of an error, the underlying status of this Agreement
+      will not be changed so long as the error is rectified as soon as possible
+      after discovery. Then both parties will be restored to the position they
+      would have occupied had such error not occurred. An error is an
+      inadvertent clerical mistake. It does not include errors in judgment,
+      errors that expand the definition of Membership Service Agreement or
+      reduce the effect of the limits in this Agreement, negligent acts, and
+      repetitive errors in administration, or other errors. Neither party may
+      invoke a right to rectify its error after 12 months after the end of the
+      Contract Year.
+
+9.8   Personal Information. Confidentiality:
+
+      A.    Personal Information means nonpublic personal information as
+            described in Title V of the Gramm Leach Bliley Act and protected
+            health information as described in privacy regulations of the
+            Department of Health and Human Service (HHS) that may be identified
+            with a Member and that Allianz Life of NY obtains.
+
+      B.    Allianz Life of NY may use Personal Information to underwrite and
+            perform terms of this Agreement and in other ways permitted by
+            applicable privacy laws. Allianz Life of NY will:
+
+            1)    use safeguards to prevent nonpermitted use or disclosure; and
+
+            2)    restrict access to only those employees involved in the
+                  permitted uses; and
+
+            3)    report to the Plan any nonpermitted use or disclosure of which
+                  it becomes aware; and
+
+            4)    make Personal Information and related records available as
+                  described in privacy regulations of HHS.
+
+            Allianz Life of NY may disclose Personal Information to a person
+            assisting in permitted uses if that person agrees in writing to be
+            bound to terms similar to Article 9.8.
+
+      C.    Article 9.8 does not apply if:
+
+            1)    the Personal Information is available to the public other than
+                  as a result of any disclosure by Allianz Life of NY or its
+                  representatives; or
+
+            2)    the Personal Information was available to Allianz Life of NY
+                  or its representatives on a nonconfidential basis before it
+                  was obtained for uses permitted in Article 9.8; or
+
+
+                                       10
+<PAGE>
+
+            4)    the law requires disclosure.
+
+      D.    Allianz Life of NY will destroy Personal Information, if feasible,
+            after seven years after this Agreement terminates.
+
+      E.    Allianz Life of NY agrees that money may be an inadequate remedy for
+            a breach of Article 9.8 and agrees to not object to an injunction
+            for this breach.
+
+9.9   Binding Arbitration. If any dispute arises out of or relates to this
+      Agreement or its breach, termination or validity, the parties agree that
+      first, senior management will try in good faith to settle the dispute. If
+      they do not reach a solution within 90 days, the dispute will be settled
+      by arbitration administered by the American Arbitration Association
+      ("AAA") according to its Commercial Arbitration Rules. The parties will
+      each pay the costs of its counsel, witnesses, experts and proofs The
+      parties will share the cost of the arbitration administration. The
+      arbitrator may award specific performance, rescission, or monetary damages
+      in an amount that does not include punitive or other damages in excess of
+      contractual damages.
+
+As of January 1, 2006, all the promises, terms and conditions of this Agreement
+will supersede those of Reinsurance Agreement Number 17055-036, dated January 1,
+2005.
+
+This Agreement will automatically terminate at the end of the Contract Year
+(Article 8).
+
+IN WITNESS WHEREOF, the Plan and Allianz Life of NY have, by their respective
+officers, executed and delivered this Agreement, in duplicate effective from the
+date set out on the face page of this Agreement.
+
+                                  MDNY HEALTHCARE
+                                  By:
+                                  Title:
+
+                                  ALLIANZ LIFE INSURANCE
+                                  By:
+                                  Title:
+
+                                  Printed Name
+
+                                  Printed Title Date
+
+                                  Signature for Actuarial/Underwriting approval:
+
+                                  Date of Actuarial/Underwriting approval;
+
+
+                                       11
+<PAGE>
+
+                              DISCLOSURE STATEMENT
+
+Provider/Plan Name:               MIDNY Healthcare
+
+Effective Date (proposed):        January 1, 2006 through December
+                                  31, 2006
+
+Date disclosure information is current:
+
+On an attachment, list any individual to be included under this coverage where
+the individual;
+
+1.    Has medical expenses are expected to reach or exceed 50% of the proposed
+      attachment point(s); or
+
+2.    is a potential organ transplant candidate on a waiting list; or
+
+3.    the Plan and the Member consent in writing to the disclosure; or
+
+      The attachment should list the individual's name, date of birth,
+      diagnosis, amount paid, amount pending, prognosis, and dates of service.
+
+I have inquired of all available sources to obtain any medical information on
+these individuals for this account. After review of this information, I
+represent that the Information attached to this form Is complete and accurate, I
+further understand that this information will be used to determine whether to
+issue a contract and to determine rates and terms.
+
+                                          Dated:
+                                          Attest:
+                                          Dated:
+                                          Attest:
+
+                                          Signature of Authorized Representative
+
+
+                                       12
+
+</TEXT>
+</DOCUMENT>
