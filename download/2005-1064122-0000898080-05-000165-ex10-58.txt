@@ -1,0 +1,1922 @@
+<DOCUMENT>
+<TYPE>EX-10.58
+<SEQUENCE>20
+<FILENAME>ex10-58.txt
+<DESCRIPTION>TRANSITION SERVICES AGREEMENT
+<TEXT>
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+                  TRANSITION AND INTEGRATION SERVICES AGREEMENT
+
+                                 by and between
+
+                    Security Life of Denver Insurance Company
+
+                                       and
+
+                             Scottish Re (US), Inc.
+
+                          Dated as of December 31, 2004
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+Section 1.   Definitions.......................................................1
+Section 2.   Services to be Provided...........................................3
+Section 3.   Standard of Services, Review Procedures and Penalties.............9
+Section 4.   Subcontracting...................................................11
+Section 5.   Consideration for Services; Fee Dispute Resolution...............12
+Section 6.   Term and Termination.............................................14
+Section 7.   Transition Project Management....................................18
+Section 8.   Relationships Among the Parties..................................18
+Section 9.   Compliance With and Changes to Laws and Policies.................18
+Section 10.  Inability to Perform Services; Technology Changes................19
+Section 11.  Covenants and Other Agreements...................................20
+Section 12.  Dispute Resolution...............................................21
+Section 13.  Indemnification..................................................22
+Section 14.  Ownership, Data and Security.....................................22
+Section 15.  Force Majeure....................................................23
+Section 16.  Survival.........................................................25
+Section 17.  Notices..........................................................25
+Section 18.  Binding Effect; Assignment.......................................26
+Section 19.  Execution in Counterparts........................................26
+Section 20.  Waivers and Amendments...........................................26
+Section 21.  Exhibits; Schedules..............................................26
+Section 22.  Arbitration......................................................26
+Section 23.  Governing Law and Jurisdiction...................................28
+Section 24.  Sole Agreement...................................................28
+Section 25.  Waiver of Jury Trial; Multiplied and Punitive Damages............28
+Section 26.  Confidentiality..................................................28
+Section 27.  Captions.........................................................30
+Section 28.  Severability.....................................................30
+Section 29.  No Third Party Beneficiaries.....................................30
+Section 30.  Equitable Rights.................................................30
+
+Schedules
+
+Schedule 2(a)(i)      Scheduled Services
+Schedule 2(e)         Transition Employees
+Schedule 2(g)         Retained Employees, Retained Contractors & Designated
+                      Services
+Schedule 4(a)         Current Subcontracted Services and Current Subcontractors
+Schedule 5(a)(i)      Cost of Transition Employees
+Schedule 5(a)(iii)    Hourly Rates for IT Services
+Schedule 5(a)(iv)     Loaded Costs for non-IT Transition Services
+Schedule 5(a)(v)      Cost of Retained Employees and Retained Contractors
+Schedule 5(a)(vi)     Estimated Direct Costs
+Schedule 7(a)         Transition Project Managers
+Schedule 9(c)(i)      Privacy Policies
+
+
+                                       -i-
+<PAGE>
+
+          This TRANSITION SERVICES AND INTEGRATION AGREEMENT (this "Agreement"),
+dated as of December 31, 2004 (the "Effective Date"), is entered into by and
+among Security Life of Denver Insurance Company, a Colorado corporation
+(collectively with any of its Affiliates that may provide services hereunder,
+"Provider"), and Scottish Re (US), Inc., a Delaware corporation ("Recipient")
+for itself and for the benefit of Purchaser Affiliates (collectively, the
+"Recipient Transition Group").
+
+                              W I T N E S S E T H:
+
+          WHEREAS, Provider and Security Life of Denver International Limited,
+on the one hand, and Scottish Re Group Limited and Recipient, on the other hand,
+have entered into that certain Asset Purchase Agreement, dated October 17, 2004
+(hereinafter, the "Asset Purchase Agreement"); and
+
+          WHEREAS, the execution and delivery of this Agreement is a condition
+precedent to the parties' obligation to consummate the transactions contemplated
+by the Asset Purchase Agreement.
+
+          NOW, THEREFORE, in consideration of the covenants, conditions and
+agreements set forth in this Agreement, and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties hereby agree as follows:
+
+          Section 1. Definitions. All capitalized terms used but not otherwise
+defined herein shall have the meanings ascribed to them in the Asset Purchase
+Agreement. With respect to all defined terms, whenever the singular term is
+used, the same shall include the plural, and whenever the plural is used, the
+same shall include the singular, where appropriate.
+
+          "Added Scheduled Services" shall have the meaning set forth in Section
+2(a)(i).
+
+          "Asset Purchase Agreement" shall have the meaning set forth in the
+Recitals.
+
+          "Confidential Information" shall have the meaning set forth in Section
+26.
+
+          "Current Subcontracted Services" shall have the meaning set forth in
+Section 4(a).
+
+          "Current Subcontractor" shall have the meaning set forth in Section
+4(a).
+
+          "Designated Services" shall have the meaning set forth in Section
+2(g).
+
+          "Force Majeure Events" shall have the meaning set forth in Section
+15(b).
+
+          "IT Services" means all Transition Services relating to information
+technology.
+
+          "Integration Services" means such services (i) as are required to
+transition the Business to Recipient, which may include, without limitation,
+knowledge transfer, process migration, data conversion, parallel testing and
+special project support and (ii) as mutually agreed-upon by the parties pursuant
+to Section 2(a)(iii) hereof.
+
+
+                                      -1-
+<PAGE>
+
+          "New Subcontractor" shall have the meaning set forth in Section 4(b).
+
+          "Other Party" shall have the meaning set forth in Section 6(c)(i).
+
+          "Privacy Policy" means the Provider Privacy Policy or the Recipient
+Privacy Policy, as applicable.
+
+          "Provider Indemnified Parties" shall have the meaning set forth in
+Section 13(b).
+
+          "Provider Privacy Policy" means the privacy policies of Provider,
+copies of which have been provided to Recipient.
+
+          "Recipient Indemnified Parties" shall have the meaning set forth in
+Section 13(a).
+
+          "Recipient Privacy Policy" means the privacy policies of Recipient,
+copies of which have been provided to Provider.
+
+          "Retained Contractor Retention Period" shall have the meaning set
+forth in Section 2(g).
+
+          "Retained Contractors" shall have the meaning set forth in Section
+2(g).
+
+          "Retained Employee Retention Period" shall have the meaning set forth
+in Section 2(g).
+
+          "Retained Employees" shall have the meaning set forth in Section 2(g).
+
+          "Retention Termination Date" shall have the meaning set forth in
+Section 2(g).
+
+          "Scheduled Services" means each service listed on Schedule 2(a)(i) of
+this Agreement (as such schedule may be revised from time to time upon mutual
+agreement of the parties in accordance with Section 2.1(a)(i)).
+
+          "Service Shortfall" shall have the meaning set forth in Section 3(d).
+
+          "Shortfall Notice" shall have the meaning set forth in Section 3(d).
+
+          "Special Project" means any service that Recipient requests Provider
+to provide and Provider has agreed in writing to provide pursuant to Section
+2(b) hereof, which service does not fall within (i) the scope of the Transition
+Services identified in Section 2(a) or (ii) the scope of the Designated Services
+identified pursuant to Section 2(g).
+
+          "Subcontractor" means any Current Subcontractor (as defined in and
+permitted by Section 4(a) hereof) and/or any New Subcontractor (as defined in
+and permitted by Section 4(b) hereof).
+
+          "Taxes" shall have the meaning set forth in Section 5(e).
+
+
+                                      -2-
+<PAGE>
+
+          "Technology Change" means a material change to the technology
+infrastructure or applications used to provide any Transition Service, which
+change has a material adverse impact on any Transition Service or on another
+party's technology infrastructure or applications.
+
+          "Termination Assistance" shall have the meaning set forth in Section
+6(e).
+
+          "Third Party Vendors" means those third party vendors with which
+Provider has in effect as of the Effective Date contractual arrangements to
+provide general services that may relate to the Transition Services. For the
+avoidance of doubt, no Third Party Vendors shall be deemed to be Subcontractors
+hereunder.
+
+          "Third Party Vendor Services" means the reasonable cooperation by
+Provider described in Section 2(a)(ii).
+
+          "Transition Assistance" shall have the meaning set forth in Section
+6(e).
+
+          "Transition Employees" means the employees or independent contractors
+of Provider or an Affiliate of Provider identified on Schedule 2(e) (any
+independent contractors are identified as such on Schedule 2(e)) who will serve
+Provider or an Affiliate of Provider full-time in the provision of the
+Transition Services (each such employee or independent contract is individually
+referred to herein as a "Transition Employee"). Transition Employees shall not
+include any Retained Employees or Retained Contractors.
+
+          "Transition Plan" shall have the meaning set forth in Section 6(e).
+
+          "Transition Project Managers" means the two individuals, one
+designated by Provider and one designated by Recipient, who are primarily
+responsible for administering this Agreement as described in Section 7.
+
+          "Transition Services" means the Scheduled Services, the Added
+Scheduled Services, the Integration Services, the Third Party Vendor Services
+and Transition Assistance, and, for the avoidance of doubt, does not include any
+Designated Services.
+
+          "TSA Monthly Invoice" means an invoice setting forth the fees payable
+by Recipient for all services provided hereunder, which invoice shall be
+delivered pursuant to Section 5(c) of this Agreement.
+
+          "TSA Records" shall have the meaning set forth in Section 5(f).
+
+          "Unauthorized Access" shall have the meaning set forth in Section 26.
+
+          Section 2. Services to be Provided.
+
+          (a) Transition Services.
+
+               (i) Scheduled Services. Subject to Recipient's obligations
+     pursuant to Section 2(h), and for the period of time described in Section 6
+     hereof, Provider shall provide or cause to be provided in accordance with
+     the terms hereof, to Recipient
+
+
+                                      -3-
+<PAGE>
+
+     Transition Group all Scheduled Services. In addition, for so long as the
+     Transition Services are being provided hereunder, Provider shall provide
+     Recipient with reasonable access to all available service operating manuals
+     and other relevant and existing materials reasonably required to use and
+     receive such Transition Services and copies of any supplements or updates
+     to such manuals and materials. During the period of time beginning on the
+     Effective Date and ending sixty (60) days thereafter, Schedule 2(a)(i) may
+     be amended from time to time upon the written request of Recipient to add
+     as "Scheduled Services" any services that were being provided to the
+     Business immediately prior to the Effective Date which services (A) were
+     not previously identified in a writing (including electronic mail messages)
+     between the parties as services being provided to the Business as of the
+     Closing Date and (B) can, using commercially reasonable efforts, be
+     provided to Recipient by Provider or its Affiliates (such requested
+     services that meet the criteria set forth in clauses (A) and (B) above are
+     collectively referred to herein as the "Added Scheduled Services"). For the
+     avoidance of doubt, Added Scheduled Services shall be considered Scheduled
+     Services hereunder. Provider shall have ten (10) Business Days from the
+     date of receipt of a valid request to provide an Added Scheduled Service to
+     commence the provision of such service in accordance with the terms and
+     conditions of this Agreement. At such time, Schedule 2(a)(i) shall be
+     amended to reflect the Added Scheduled Service, and the amended Schedule
+     2(a)(i) shall be initialed by the Transition Project Manager of each party
+     and attached to this Agreement.
+
+               (ii) Third Party Vendor Services. Upon Recipient's reasonable
+     written request, Provider shall cooperate with Recipient in Recipient's
+     negotiation for a direct agreement with any Third Party Vendor.
+
+               (iii) Integration Services. As soon as practicable following the
+     Effective Date, the parties shall use commercially reasonable efforts to
+     agree upon and document the terms applicable to the delivery of the
+     Integration Services, including the services descriptions, pricing,
+     specific milestones and deadlines. If Provider and Recipient fail to agree
+     upon the terms applicable to the delivery of the Integration Services
+     within ninety (90) days after the Effective Date, the parties will resolve
+     their dispute concerning the terms applicable to the delivery of such
+     Integration Services in accordance with Section 12(a). Any such dispute
+     shall be resolved taking into account (A) the nature of this Agreement, (B)
+     Recipient's business needs and obligations under this Agreement and the
+     Administrative Services Agreement and (C) Provider's capacity limitations
+     in light of its need to support its ongoing business operations and to
+     provide other Transition Services hereunder.
+
+               (iv) Failure to Provide Services or Meet Applicable Standard
+     Levels. To the extent that Provider fails to provide or fails to timely
+     provide any Transition Service as required under this Agreement or fails to
+     meet the applicable standard of service for any Transition Service as set
+     forth herein, unless such failure was caused primarily by the act or
+     omission of Recipient Transition Group, and such failure is the primary
+     cause of Recipient's inability to provide any services in accordance with
+     its obligations under the Administrative Services Agreement, Recipient
+     shall have no liability under the Administrative Services Agreement for its
+     failure to meet its obligations to provide such affected Administrative
+     Services until such time as the earlier
+
+
+                                      -4-
+<PAGE>
+
+     of the following: (A) Provider cures such failure hereunder to the extent
+     required to enable Recipient to resume providing such services in
+     accordance with its obligations under the Administrative Services
+     Agreement, or (B) Recipient, using commercially reasonable efforts, finds
+     an alternative source for such Transition Service or a work-around
+     sufficient to enable Recipient to resume providing such services in
+     accordance with its obligations under the Administrative Services
+     Agreement, the incremental costs associated with which shall be reimbursed
+     by Provider.
+
+          (b) Special Projects. If Recipient requests in writing that Provider
+provide a Special Project, which request shall include a description of the
+service(s) required to be performed in conjunction with such Special Project,
+Provider shall (i) within five (5) Business Days after the date of receipt of
+the request provide Recipient with written notice of receipt of the request and
+(ii) within ten (10) Business Days after the date of receipt of such request,
+provide Recipient with either (A) a written proposal for such Special Project,
+giving reasonable priority to other demands on Provider's resources under this
+Agreement and otherwise, or (B) written notice of its decision not to accept
+such Special Project, in which case Provider shall have no further obligation
+under this Agreement with respect to such Special Project, it being understood
+that Provider shall not be required to accept any requested Special Project and
+provide a written proposal therefor unless (x) with respect to Special Projects
+that constitute IT Services, Provider is the only reasonably-available source of
+information or expertise needed to undertake such Special Project, and such
+Special Project can be completed by Provider using commercially reasonable
+efforts and without any adverse impact on the Transition Services being provided
+or on Provider's or its Affiliates' other businesses, taking into account
+resource limitations and the other demands on the time of the individuals needed
+to undertake such Special Project in conjunction with the Transition Services
+and Provider's and its Affiliates' other businesses, and (y) with respect to any
+other Special Projects, Provider determines in good faith that it can perform
+such Special Project using commercially reasonable efforts using Transition
+Employees employed at the time Provider receives the request to perform the
+Special Project and without any adverse impact on the Transition Services being
+provided or on Provider's or its Affiliates' other businesses. For purposes of
+determining whether Provider is the only reasonably-available source of
+information or expertise under clause (x) of the foregoing sentence, it is
+specifically acknowledged and agreed that Provider will not be deemed to have
+access to or use of the Retained Employees or Retained Contractors. Each written
+proposal for a Special Project submitted by Provider pursuant to clause (ii)(A)
+above shall refer to the description provided by Recipient, include the
+estimated time and price of performing the Special Project (including any
+third-party consents necessary to perform the Special Project), and include any
+potential impact on then-existing Transition Services. If the parties agree on
+such proposal, Provider shall perform such Special Project in accordance with
+the terms of this Agreement. If the parties do not agree on such proposal within
+fifteen (15) Business Days after the date it is delivered to Recipient, Provider
+shall have no further obligation under this Agreement with respect to such
+Special Project. All work product created or delivered by Provider (alone or
+with others) pursuant to any Special Project, together with associated
+intellectual property rights, shall, unless otherwise indicated in an applicable
+Special Project proposal, be owned by Recipient, except that Recipient shall
+acquire no right thereby in confidential information or trademarks, service
+marks, or logos of Provider or its Affiliates. To the extent that Provider fails
+to provide any Special Project required to be provided by Provider under this
+Section 2(b), unless such failure was caused primarily by the act or omission of
+
+
+                                      -5-
+<PAGE>
+
+Recipient Transition Group, and such failure is the primary cause of Recipient's
+inability to provide any services in accordance with its obligations under the
+Administrative Services Agreement, Recipient shall have no liability under the
+Administrative Services Agreement for its failure to meet its obligations to
+provide such affected Administrative Services until such time as the earlier of
+the following: (A) Provider cures such failure hereunder to the extent required
+to enable Recipient to resume providing such services in accordance with its
+obligations under the Administrative Services Agreement, or (B) Recipient, using
+commercially reasonable efforts, finds an alternative source for such Special
+Project or a work-around sufficient to enable Recipient to resume providing such
+services in accordance with its obligations under the Administrative Services
+Agreement, the incremental costs associated with which shall be reimbursed by
+Provider.
+
+          (c) No Obligation to Provide Other Services. Except for the Transition
+Services, the Designated Services (as defined in Section 2(g) below), and any
+Special Projects agreed upon in accordance with Section 2(b) above, Provider
+shall have no obligation to provide any other services to Recipient pursuant to
+this Agreement.
+
+          (d) Non-Exclusivity. Nothing herein shall prevent Recipient Transition
+Group during the term of this Agreement from obtaining any of the Transition
+Services or Designated Services from any other Person or from providing any
+Transition Service or Designated Service to itself using its own facilities and
+employees; provided, however, that the foregoing shall not excuse Recipient from
+complying with the provisions regarding notice of termination set forth in
+Section 6(b) of this Agreement or from its payment obligations with respect to
+Transition Services previously rendered.
+
+          (e) Transition Employees. The parties acknowledge and agree that the
+Transition Employees are employees or independent contractors of the particular
+Seller or Affiliate of Sellers for whom such employee works, and not employees
+of Recipient. In all cases, Provider reserves the right to give direction and
+make final decisions with regard to any and all work assignments and employment
+matters. In the event of any question or conflict, the instruction of Provider
+shall be binding. During the term of this Agreement, Provider will use
+commercially reasonable efforts to (i) retain the Transition Employees to the
+extent such employees continue to be required to perform Transition Services and
+(ii) manage the number of Transition Employees so as to be commensurate with the
+level of services being provided at any time. On or about the first Business Day
+of each calendar month, the Transition Project Managers of each party shall meet
+(in person or telephonically) to discuss staffing levels, and shall consider in
+good faith each other's suggestions with respect thereto. Provider will give
+Recipient thirty (30) days notice prior to terminating any Transition Employee,
+and Recipient will have the opportunity to request that such Transition Employee
+be retained for a longer period of time (subject to the payment obligations
+described in Section 6(b) below), in which case Provider will use commercially
+reasonable efforts to retain such Transition Employee or replace such Transition
+Employee with another employee of appropriate skill and knowledge; provided,
+that in no event will Provider be obligated to retain any Transition Employee
+beyond the date that is eighteen (18) months after the Effective Date, unless
+the transition period is extended beyond such date by mutual agreement of the
+parties in accordance with Section 6(a) hereof, in which case Provider will use
+commercially reasonable efforts to retain such Transition Employee or replace
+such Transition Employee with another employee of appropriate skill and
+
+
+                                      -6-
+<PAGE>
+
+knowledge. The inability to retain any particular Transition Employee(s) shall
+not excuse Provider from its obligation to provide the Transition Services
+hereunder. Recipient may, in its reasonable discretion, provide notice to
+Provider of its determination that the number of Transition Employees performing
+a particular Transition Service is in excess of that reasonably required to
+perform such Transition Service then being performed or that such Transition
+Service is no longer required and that, therefore, one or more Transition
+Employees should be terminated. Within five (5) Business Days of such notice,
+Provider shall advise Recipient in writing (to include electronic mail
+correspondence) of the impact, if any, that the termination of such Transition
+Employee(s) would have on the Transition Services and Special Projects, if any,
+then being provided and any impact on the standard of services therefor.
+Recipient will thereafter notify Provider of its election to either (A) have
+Provider terminate one or more Transition Employees or (B) have Provider
+continue to retain one or more Transition Employees. If Recipient notifies
+Provider that it elects to have one or more Transition Employees terminated, (x)
+Recipient shall have no obligation to pay for such number of Transition
+Employees from and after the date that is thirty (30) days after the date of
+Recipient's notification to Provider and (y) from and after the date that is
+thirty (30) after the date of Recipient's notification to Provider, Provider
+shall have no liability under this Agreement for any adverse impact on the
+Transition Services and Special Projects (including but not limited to failure
+to provide or timely provide or perform the same and failure to meet required
+service levels), which adverse impact was described to Recipient in writing
+(including by electronic mail correspondence) prior to such termination. In no
+event shall any such adverse impact on the Transition Services that was
+described to Recipient in writing (including by electronic mail correspondence),
+including but not limited to failure to provide or timely provide or perform the
+same and failure to meet required service levels, resulting directly or
+indirectly from the termination of one or more Transition Employees at
+Recipient's request or direction excuse Recipient from the performance of any of
+its duties or obligations under the Administrative Services Agreement.
+
+          (f) No Requirements. Nothing in this Agreement requires Recipient
+Transition Group (or any of its successors and assigns) to request any
+particular quantity or level of any Transition Service provided under this
+Agreement.
+
+          (g) Retained Employees and Retained Contractors.
+
+               (i) Retained Employees. In lieu of utilizing the Retained
+     Employees (as defined below) to provide certain Scheduled Services,
+     Provider agrees to second the employees listed on Schedule 2(g) (the
+     "Retained Employees" and, each, a "Retained Employee") to Recipient to
+     perform such services as may be required by Recipient relating to the
+     projects and objectives described on Schedule 2(g) (collectively, the
+     "Designated Services"). During the Retained Employee Retention Period (as
+     defined below), Provider agrees to retain the Retained Employees as
+     Provider employees, and Provider will use reasonable efforts consistent
+     with past practice to preserve positive employer/employee relationships
+     with the Retained Employees but will not be required to pay any retention
+     bonuses other than those reflected on Schedule 5(a)(v) or otherwise take
+     any actions beyond what would be taken to preserve employer/employee
+     relationships with employees who are not Retained Employees. Provider is
+     not required to retain any Retained Employee who (A) voluntarily resigns
+     from employment with Provider, (B) is terminated by Provider for gross or
+     willful misconduct that causes
+
+
+                                      -7-
+<PAGE>
+
+     demonstrable and serious injury to Provider or has an adverse impact on
+     Provider's standing and reputation, (C) is terminated by Provider for
+     materially and continually failing to perform his or her duties and
+     responsibilities, or (D) becomes unable to perform the essential functions
+     of his or her position due to a disability that cannot be reasonably
+     accommodated. For purposes of this Agreement, the "Retained Employee
+     Retention Period" for each Retained Employee will begin on January 1, 2005
+     and will continue until June 30, 2006 or the Retention Termination Date (as
+     defined below) for such Retained Employee, whichever occurs earlier. During
+     the Retained Employee Retention Period, Provider will assign the Retained
+     Employees to the provision of the Designated Services. Recipient may, in
+     its reasonable discretion, provide notice to Provider of its determination
+     that the number of Retained Employees performing the Designated Services is
+     in excess of that reasonably required to perform such Designated Services
+     then being performed or that certain Designated Services are no longer
+     required and that, therefore, one or more specific Retained Employees
+     should be removed from the roster of Retained Employees. From and after the
+     date that is thirty (30) days after the date of Recipient's notification to
+     Provider that one or more Retained Employees should be removed from the
+     roster of Retained Employees (the "Retention Termination Date"), Recipient
+     shall have no obligation to pay for the Retained Employees so identified
+     and Provider shall have no liability under this Agreement to second or
+     otherwise make such Retained Employees available to Recipient pursuant to
+     this Section 2(g). Notwithstanding the foregoing, it is the intent of the
+     Parties that throughout the Retained Employee Retention Period, (x) each
+     Retained Employee engaged hereunder shall continue to be employed solely by
+     Provider, continue to report to Provider for purposes of payroll, employee
+     benefits and other administrative matters, and continue to be subject to
+     Provider's employment policies and procedures; (y) Recipient shall have no
+     authority to hire, fire, discipline or otherwise affect the employment
+     relationship of the Retained Employees with Provider, and will not in any
+     case be considered to be an employer or joint employer of such Retained
+     Employees or to assume any responsibilities or obligations of such an
+     employer; and (z) Provider will continue to be fully responsible with
+     regard to worker's compensation, unemployment compensation, payroll tax,
+     severance, and related matters with respect to all Retained Employees. The
+     foregoing shall in no way limit Recipient's obligations under Section 5 and
+     Section 13(b) with respect to the Retained Employees. The provisions of
+     this Section 2(g) shall in no way affect Provider's responsibility to
+     provide or cause to be provided the Transition Services.
+
+               (ii) Retained Contractors. During the Retained Contractor
+     Retention Period (as defined below), Provider agrees to make those
+     independent contractors listed on Schedule 2(g) (the "Retained Contractors"
+     and, each, a "Retained Contractor") available to Recipient full-time to
+     perform, at Recipient's direction, the Designated Services. During the
+     Retained Contractor Retention Period, Provider will use commercially
+     reasonable efforts to retain the Retained Contractors to the extent such
+     contractors continue to be required to perform Designated Services. Each of
+     Recipient and Provider will cooperate and use commercially reasonable
+     efforts either to (A) assign (and obtain, as necessary, the consent of each
+     Retained Contractor to the assignment of) each contract between Provider or
+     its Affiliate and any of the Retained Contractors to Recipient or (B)
+     negotiate a direct agreement between Recipient and each of the Retained
+
+
+                                      -8-
+<PAGE>
+
+     Contractors on substantially the same or better terms as those currently in
+     effect under the applicable contract between Provider or its Affiliate and
+     such Retained Contractor, as promptly as possible after the Closing Date.
+     The "Retained Contractor Retention Period" for each Retained Contractors
+     will begin on January 1, 2005 and will continue until the earliest to occur
+     of (x) June 30, 2006, (y) the date on which the contract between Provider
+     or its Affiliate and such Retained Contractor is assigned to Recipient or
+     Recipient enters into a direct agreement with such Retained Contractor, or
+     (z) the date that is thirty (30) days following the date Provider receives
+     written notification from Recipient that such Retained Contractor should be
+     removed from the roster of Retained Contractors. All benefits that inure to
+     Provider or its Affiliate under Provider's or such Affiliate's contractual
+     arrangements with any Retained Contractor shall be passed through to
+     Recipient to the extent such benefits relate to the Designated Services
+     provided by such Retained Contractor.
+
+          (h) Reasonable Assistance. As necessary in connection with the
+Transition Services and any agreed-upon Special Projects, and provided that
+Provider complies with Recipient's security procedures and privacy policies as
+then in effect, Recipient shall provide Provider with any reasonable assistance,
+including providing to Provider such information, data, access to premises,
+management decisions, access to and reasonable cooperation of any Transferred
+Employees, Retained Employees and Retained Contractors with particular skills or
+expertise, approvals and acceptances, as may be reasonably required to permit
+Provider to provide the Transition Services, Designated Services and any
+agreed-upon Special Projects hereunder.
+
+          (i) Recipient Employees. It is expressly understood that, except as
+otherwise provided herein, any services rendered by Recipient employees after
+the Effective Date shall not be considered Transition Services, and Provider
+shall not be responsible for providing the same.
+
+          (j) Access. As necessary in connection with the Transition Services,
+the Designated Services, and any agreed-upon Special Projects, and provided that
+Recipient complies with Provider's security procedures and privacy policies as
+then in effect, Provider shall give Recipient reasonable access to the servers
+and other information technology systems used to provide the Transition
+Services, the Designated Services, and any agreed-upon Special Projects; all
+requests for such access shall be made in advance by Recipient's Transition
+Project Manager to Provider's Transition Project Manager. Nothing in this
+Agreement shall require Provider to provide any third party with access to its
+systems, its computing environment or its confidential information other than on
+commercially reasonable terms regarding privacy, security, confidentiality and
+timing.
+
+          Section 3. Standard of Services, Review Procedures and Penalties.
+
+          (a) Standard of Services for Transition Services. Provider agrees that
+it shall provide the Transition Services or, if Provider is utilizing a
+Subcontractor (as permitted under Section 4 hereof), Provider shall cause such
+Subcontractor to provide such Transition Services, at least (i) with respect to
+IT Services, at the same service levels at which such services were performed
+within or for the Business immediately prior to the Effective Date or, with
+respect to any other Transition Services, using at least the same standard of
+care that Provider or
+
+
+                                      -9-
+<PAGE>
+
+a Current Subcontractor used immediately prior to the Effective Date in
+performing such services within or for the Business, (ii) in substantial
+compliance with Applicable Law, and (iii) in compliance with industry standards.
+Provider agrees (w) to provide Recipient with documentation describing with
+reasonable specificity, and pass through to Recipient Transition Group, any
+Current Subcontractor obligations to meet service levels for Current
+Subcontracted Services, and (x) to enforce all contractual provisions with such
+Current Subcontractors with respect to their obligations to meet such service
+levels or otherwise ensure that all applicable service level standards are met.
+Provider agrees (y) to provide Recipient with documentation describing with
+reasonable specificity, and to pass through to Recipient Transition Group, any
+New Subcontractor obligations to meet service levels with respect to Transition
+Services to be provided by New Subcontractors (as permitted under Section 4
+hereof), if any, and (z) to enforce all contractual provisions with such New
+Subcontractors with respect to their obligations to meet such service levels or
+otherwise ensure that all applicable service level standards are met. As of the
+Effective Date, IBM is the only Current Subcontractor that is obligated to meet
+service levels for Current Subcontracted Services, and a true and correct copy
+of such service level obligations applicable to the Current Subcontracted
+Services provided by IBM has been provided to Recipient.
+
+          (b) Change in IT Services. Provider reserves the right to make any
+changes to (i) the manner in which the IT Services are provided and (ii) the
+location from which the IT Services are provided, including any changes to
+personnel involved in the provision of such IT Services, provided that Provider
+shall not, without Recipient's prior written consent, such consent not to be
+unreasonably withheld, thereby cause any adverse change in service levels
+required hereunder or functionality being supported, or result in any additional
+costs to Recipient.
+
+          (c) Monthly Meeting. For the first twelve (12) weeks after the
+Effective Date, the Transition Project Managers of each party shall meet at
+least once weekly, or more frequently if mutually agreed upon, (in person or
+telephonically) to discuss the status of the transition, manage open issues,
+discuss any planned termination dates for particular Transition Services, and
+review service levels achieved and missed in the previous month, to the extent
+such information is available, as well as non-achievement of targets and
+corrective actions taken or planned. Thereafter, such meetings shall be held (in
+person or telephonically) on at least a monthly basis, or more frequently if
+mutually agreed upon. Once per month, during the first twelve (12) weeks after
+the Effective Date and thereafter, in advance of each such monthly meeting,
+Provider's Transition Project Manager shall provide to Recipient's Project
+Manager a written report summarizing all available current information on
+compliance with and deviation from the service levels and technology management
+standards as are applicable in accordance with the provisions of Section 3(a).
+
+          (d) Failure to Meet Standards for Services. If Recipient provides
+Provider with written notice ("Shortfall Notice") of any failure to meet the
+standards for Transition Services required by Section 3(a) hereof ("Service
+Shortfall"), as determined by Recipient in good faith, Provider shall rectify
+such failure as soon as possible using commercially reasonable efforts. Provider
+shall be responsible for all internal and out-of-pocket costs incurred by
+Recipient in curing the Service Shortfall. In addition, if such Service
+Shortfall is not cured (i) for particular Transition Services provided by IBM,
+within the time frames required by the service
+
+
+                                      -10-
+<PAGE>
+
+level obligations of IBM described in the last sentence of Section 3(a) above or
+(ii) for any other Transition Service, within the cure window for such
+Transition Service as set forth on Schedule 2(a)(i), if any, or, if no cure
+window is set forth on Schedule 2(a)(i), within a commercially reasonable time,
+then Provider shall reimburse Recipient for all incremental costs incurred by
+Recipient in procuring an alternative provider of such services (in excess of
+the costs expected to be incurred by Recipient hereunder) and confer upon
+Recipient the benefit of any applicable service level credits on amounts paid to
+Provider hereunder, which service level credits shall be determined in
+accordance with Provider's contract with IBM, as it relates to the Transition
+Services provided by IBM. Neither Provider nor its Affiliates will take any
+action to cause IBM to treat the Business, Provider or Security Life of Denver
+International Limited any less favorably under that certain Information
+Technology Services Agreement between ING North America Insurance Corporation
+and IBM dated December 16, 2003 than such entities were treated by IBM
+immediately prior to the Effective Date.
+
+          Section 4. Subcontracting.
+
+          (a) Current Subcontractors. Provider reserves the right to continue to
+subcontract the performance of those Transition Services that are being
+subcontracted immediately prior to the Effective Date ("Current Subcontracted
+Services") to such subcontractor that is not an Affiliate of Provider and that
+is providing those Current Subcontracted Services to the Business immediately
+prior to the Effective Date ("Current Subcontractor"), which Current
+Subcontracted Services shall be listed on Schedule 4(a) along with the
+applicable Current Subcontractor; provided, that Provider (i) shall remain
+primarily responsible under this Agreement for any and all obligations with
+respect to such Current Subcontracted Services as are undertaken by such Current
+Subcontractor and (ii) shall be responsible for compliance by any Current
+Subcontractor with the terms and conditions of this Agreement and for any acts
+or omissions of such Current Subcontractor, other than such acts or omissions at
+the request or direction of Recipient. Notwithstanding the foregoing, and except
+as set forth in Section 4(d) hereof, under no circumstances shall Provider have
+any liability or responsibility for any act or omission of any Current
+Subcontractor that can be characterized as a failure to adequately or
+appropriately perform any Current Subcontracted Services if the applicable
+Current Subcontracted Services otherwise meet the service level standards
+described in Section 3(a) hereof.
+
+          (b) New Subcontractors. Except in connection with a global,
+enterprise-wide or multi-business unit contracting arrangement entered into by
+Provider or its Affiliates, or as otherwise provided in Section 4(a), Provider
+may not subcontract the performance of any obligations of Provider hereunder to
+any subcontractor that is not an Affiliate of Provider without Recipient's prior
+written approval, such approval not to be unreasonably withheld or delayed.
+Provider shall notify Recipient if it does not or cannot secure the right to
+disclose to Recipient those portions of a contract between Provider (or an
+Affiliate of Provider) and such subcontractor relating to service levels and the
+remedies for failing to achieve such service levels for applicable Transition
+Service(s), and Provider's failure to obtain such approval shall be deemed a
+reasonable basis for Recipient to withhold its approval hereunder. Each such
+subcontractor approved by Recipient in accordance herewith shall be referred to
+as a "New Subcontractor." Provider (i) shall remain primarily responsible under
+this Agreement for any and all obligations undertaken by any such New
+Subcontractor and (ii) shall be responsible for compliance by any
+
+
+                                      -11-
+<PAGE>
+
+New Subcontractor with the terms and conditions of this Agreement and for any
+acts or omissions of such New Subcontractor, other than such acts or omissions
+at the request or direction of Recipient. Notwithstanding the foregoing, and
+except as set forth in Section 4(d) hereof, under no circumstances shall
+Provider have any liability or responsibility for any act or omission of any New
+Subcontractor that can be characterized as a failure to adequately or
+appropriately perform any New Subcontracted Services if the applicable New
+Subcontracted Services otherwise meet the service level standards described in
+Section 3(a) hereof. Notwithstanding the foregoing, if Recipient contracts
+directly with any subcontractor for the provision of any Transition Services,
+Provider shall have no further obligations or responsibilities with respect to
+such Transition Services, and Provider shall have no liability whatsoever for
+any acts or omissions of such subcontractor. Provider will provide reasonable
+advance notice to Recipient of any new subcontractor permitted hereunder but not
+required to be approved in advance by Recipient, and any Transition Services
+provided by any such new subcontractor will be provided on the same terms and
+conditions as such new subcontractor is contractually bound to provide any
+similar services to Provider and/or its Affiliates generally. As of the date of
+this Agreement, to Provider's Knowledge, no global, enterprise-wide or
+multi-business unit arrangement with a new subcontractor that would result in
+the provision of Transition Services by such new subcontractor is currently
+anticipated.
+
+          (c) Right to Disclose. Provider shall use commercially reasonable
+efforts to procure from IBM and each other Subcontractor the right to disclose
+to Recipient those portions of the applicable contract between Provider (or an
+Affiliate of Provider) and such Subcontractor relating to service levels for any
+Transition Service. Schedule 4(c) sets forth a list of all Current
+Subcontractors for which Provider does not have the right to disclose such
+information as of the Effective Date.
+
+          (d) Subcontractor Benefits. In addition to all other rights and
+obligations of the parties with respect to Subcontractors as set forth herein,
+all benefits that inure to Provider under Provider's contractual arrangements
+with any Subcontractors shall be passed through to Recipient to the extent such
+benefits relate to the Transition Services provided by such Subcontractor.
+
+          Section 5. Consideration for Services; Fee Dispute Resolution.
+
+          (a) Consideration for Transition Services and Designated Services. In
+full consideration for Provider (or a permitted Subcontractor) providing the
+Transition Services and Designated Services hereunder and any and all rights
+granted hereunder, Recipient shall pay to Provider and reimburse Provider for,
+each of the following:
+
+               (i) the (A) loaded cost of each Transition Employee who is an
+     employee of Provider or any of its Affiliates during the applicable
+     measurement period and (B) cost, on a pass-through basis, of each
+     Transition Employee who is an independent contractor of Provider or any of
+     its Affiliates during the applicable measurement period, as set forth on
+     Schedule 5(a)(i);
+
+               (ii) all fees and other charges, on a pass-through basis, from
+     Subcontractors relating to the Transition Services;
+
+
+                                      -12-
+<PAGE>
+
+               (iii) the cost of any Provider employees (other than Transition
+     Employees) providing IT Services, which cost will be at the hourly rates
+     set forth on Schedule 5(a)(iii);
+
+               (iv) the cost of any other Provider employees providing
+     Transition Services (other than Transition Employees and employees
+     providing IT Services), which cost will be Provider's loaded cost
+     associated with such employee, determined by Provider in accordance with
+     Schedule 5(a)(iv);
+
+               (v) the (A) loaded cost of each Retained Employee who is an
+     employee of Provider or of any of its Affiliates during the applicable
+     measurement period, and (B) cost, on a pass-through basis, of each Retained
+     Contractor who is an independent contractor of Provider or of any of its
+     Affiliates during the applicable measurement period, as set forth on
+     Schedule 5(a)(v); and
+
+               (vi) all of Provider's direct costs in connection with the
+     provision of Transition Services and Designated Services (e.g. travel
+     expenses, computer and telephone costs for Transition Employees and
+     Retained Employees, consent or additional license fees charged by third
+     party licensors in connection with Provider providing or Recipient
+     Transition Group receiving the Transition Services and the Designated
+     Services hereunder); provided, that all travel will be pre-approved by
+     Recipient and will be reimbursed in accordance with Recipient's travel
+     reimbursement guidelines provided to Provider in writing; direct costs in
+     excess of $1,000 that are not listed on Schedule 5(a)(vi) will not be
+     incurred without the prior approval of Recipient's Transition Project
+     Manager.
+
+For the avoidance of doubt, the overarching principle in the calculation of the
+consideration for the Transition Services and the Designated Services is that
+Provider will neither sustain a loss, nor earn a profit, as a result of the
+provision of such services. In no event shall Recipient be obligated to
+reimburse Provider, subject to Section 6(b)(i) hereof, for any fees, such as
+"kill fees" that would have been incurred by Provider as a result of Provider's
+decision to sell the Business.
+
+          (b) Consideration for Special Projects. Pricing for any Special
+Projects will be negotiated separately in good faith and mutually agreed to by
+the parties.
+
+          (c) Payment. Commencing with the calendar month ending January 31,
+2005, Provider shall provide Recipient with accurate TSA Monthly Invoices by the
+fifteenth (15th) day of the month following the end of each calendar month for
+(i) all Transition Services and Designated Services rendered by Provider during
+such month, and (ii) all invoices related to the Transition Services and
+Designated Services received from Subcontractors or other third parties during
+such month (the parties acknowledging that there may be a lag in the submission
+of charges from third parties relating to the provision of Transition Services
+and Designated Services and that any such lag shall not excuse Recipient from
+its obligation to timely make payment of all undisputed amounts set forth in the
+TSA Monthly Invoices, provided, that Provider uses its commercially reasonable
+efforts to obtain such Subcontractor or third party invoices). Payment of all
+undisputed amounts in each TSA Monthly Invoice shall be due and payable within
+sixty (60) days of Recipient's receipt of such TSA Monthly Invoice.
+
+          (d) Fee Dispute Resolution. If a dispute arises as to any TSA Monthly
+Invoice, the parties shall use their commercially reasonable efforts to reach an
+agreement with
+
+
+                                      -13-
+<PAGE>
+
+respect to such disputed amount. If the respective parties at Recipient and
+Provider responsible for preparing and reviewing, as the case may be, the TSA
+Monthly Invoices are unable to reach an agreement within ten (10) Business Days
+after Recipient has notified Provider that there is a fee dispute, then the
+Transition Project Managers of Recipient and Provider shall confer and use their
+commercially reasonable efforts to come to a resolution of the dispute. If the
+parties are unable to agree upon a resolution of the dispute within ten (10)
+Business Days after the Transition Project Managers of Recipient and Provider
+have conferred, then the dispute shall be settled in accordance with Section 22
+hereof.
+
+          (e) Taxes. Any local or state sales tax, transfer tax, value-added
+tax, goods and services tax or similar tax (including any such taxes that are
+required to be withheld, but excluding all other taxes including, but not
+limited to, taxes based upon or calculated by reference to income, receipts or
+capital) ("Taxes") imposed on the fees paid to Provider pursuant to this Section
+5 shall be separately stated on the relevant invoice and shall be paid by
+Recipient to Provider. Provider shall be responsible for submitting Taxes to the
+appropriate taxing authority.
+
+          (f) TSA Records. Provider shall maintain true and correct records of
+all receipts, invoices, reports and other documents relating to the Transition
+Services and Designated Services rendered hereunder (the "TSA Records") in
+accordance with its standard accounting practices and procedures, consistently
+applied, which practices and procedures are employed by Provider in its
+provision of Transition Services and Designated Services.
+
+          Section 6. Term and Termination.
+
+          (a) Period of Services. Provider hereby agrees to provide or cause to
+be provided the Transition Services and the Designated Services for the period
+of time beginning on the Effective Date and ending eighteen (18) months
+thereafter, unless such service is earlier terminated as provided herein.
+Recipient may earlier terminate this Agreement, any Transition Service provided
+hereunder, or the Designated Services in accordance with Section 6(b) below and
+either party may earlier terminate this Agreement in accordance with Section
+6(c) below. In the event that Recipient requests that Provider provide any
+Transition Service or the Designated Services beyond the eighteen (18) month
+anniversary of the Effective Date, Provider will consider such request, and the
+parties shall negotiate in good faith to determine whether they can agree on
+terms (including pricing) for the extension of the term of this Agreement with
+respect to such Transition Service or Designated Services.
+
+          (b) Termination of Individual Transition Services or Designated
+Services.
+
+               (i) Termination of Transition Services. Any specific Transition
+     Service may be terminated by Recipient in accordance with this Section 6(b)
+     or by either party in accordance with Section 6(c). The termination of any
+     particular Transition Service in accordance with this Section 6(b) shall
+     not terminate any other Transition Service or any Special Project or
+     terminate this Agreement with respect to any other Transition Service or
+     Special Project. Whenever Recipient desires to terminate a Transition
+     Service, for any reason or no reason, Recipient shall provide to Provider
+     not fewer than thirty (30) days, or such greater number of days as may be
+     designated on
+
+
+                                      -14-
+<PAGE>
+
+     Schedule 2(a)(i) with respect to any Scheduled Service, prior to the
+     proposed termination date, written notice describing the Transition Service
+     to be terminated and the termination date. Upon such termination date,
+     charges for such terminated Transition Service shall cease to accrue, but
+     Recipient shall continue to be responsible for the costs of any other
+     services being provided hereunder, including, without limitation, the cost
+     of all Transition Employees who continue to be employed following the
+     termination of such Transition Service, subject to Provider's obligation to
+     manage the number of Transition Employees as described herein. It is
+     expressly understood that so long as the required notice is given in
+     accordance with this Section 6(b), Recipient Transition Group shall have no
+     obligation to pay for any "early-termination" or "kill fee" costs or
+     expenses payable to third parties (including, without limitation,
+     Subcontractors and independent contractors) or incurred internally by
+     Provider as a result of the termination of Transition Services in
+     accordance with the terms of this Section 6(b) or the termination,
+     diminishment or other modification of services or equipment provided to
+     Provider by a third party, which costs would have been incurred by Provider
+     upon the disposition of the Business if no Transition Services were
+     provided. No such termination of any Transition Service shall in any way
+     affect Provider's obligation to provide or make available any other service
+     provided or required pursuant to this Agreement or Recipient's obligation
+     to pay for the same, all in accordance with the terms of this Agreement.
+
+               (ii) Resumed Services. During the term of this Agreement (not to
+     extend beyond eighteen (18) months, except as provided above), Recipient
+     may request that Provider resume the performance of any
+     previously-terminated Transition Service. If, using commercially reasonable
+     efforts, Provider can resume the performance of such Transition Service
+     utilizing Transition Employees who continue to be employed at the time of
+     the request, taking into account the skills and experience of such
+     Transition Employees and any other demands on the time of such Transition
+     Employees in connection with provision of other Transition Services,
+     Provider will resume the performance of such terminated Transition Service
+     within a commercially reasonable period of time not to exceed thirty (30)
+     days following the date of Recipient's request.
+
+               (iii) Termination of Designated Services. The Designated Services
+     shall terminate automatically upon the removal from the roster of Retained
+     Employees and Retained Contractors of, respectively, the last Retained
+     Employee and Retained Contractor in accordance with the provisions of
+     Section 2(g).
+
+          (c) Termination of Agreement.
+
+               (i) Either party (the "Terminating Party") may terminate this
+     Agreement (or with respect to Section 6(c)(i)(A), any particular Transition
+     Service(s)) with immediate effect by notice in writing to the other party
+     (the "Other Party") upon or at any time after the occurrence of any of the
+     following events:
+
+               (A) The Other Party is in default of any of its material
+               obligations under this Agreement, or if Provider is in default of
+               any of its material obligations with respect to any particular
+               Transition Service, and (if the breach is capable of being
+               remedied) has failed to remedy the breach
+
+
+                                      -15-
+<PAGE>
+
+               within thirty (30) days after receipt of notice in writing from
+               the Terminating Party giving the particulars of the breach;
+
+               (B) The Other Party shall commence a voluntary case or other
+               proceeding seeking liquidation, reorganization or other relief
+               with respect to itself or its debts under any bankruptcy,
+               insolvency or other similar law now or hereafter in effect, or
+               seeking the appointment of a trustee, receiver, liquidator,
+               custodian or other similar official for it or any substantial
+               part of its property, or shall consent to any such relief or to
+               the appointment of or taking possession by any such official in
+               an involuntary case or other proceeding commenced against it, or
+               shall make a general assignment for the benefit of creditors, or
+               shall fail generally to pay its debts as they become due, or
+               shall take any corporate action to authorize any of the
+               foregoing; and
+
+               (C) An involuntary case or other proceeding shall be commenced
+               against the Other Party seeking liquidation, reorganization or
+               other relief with respect to it or its debts under any
+               bankruptcy, insolvency or other similar law now or hereafter in
+               effect or seeking the appointment of a trustee, receiver,
+               liquidator, custodian or other similar official for it or any
+               substantial part of its property, and such involuntary case or
+               other proceeding shall remain undismissed and unstayed for a
+               period of sixty (60) days, or an order for relief shall be
+               entered against the Other Party.
+
+               (ii) If this Agreement is terminated by Recipient in accordance
+     with Section 6(c)(i), (iii) or (iv) hereof, or if any portion of this
+     Agreement is terminated by Recipient in accordance with Section 6(c)(i)(A)
+     or 6(c)(iii) hereof, subject to Section 25 hereof, as Recipient's sole and
+     exclusive remedy, Recipient shall be entitled to recover, and Provider
+     shall pay to Recipient, Recipient Transition Group's reasonable and actual
+     incremental costs (in excess of the costs expected to be incurred by
+     Recipient Transition Group under this Agreement) incurred in procuring
+     substitute services for a period of time following termination of the
+     Agreement (not to extend beyond the day that is eighteen (18) months after
+     the Effective Date) or such relevant portion thereof that is reasonable
+     under the circumstances until Recipient Transition Group can arrange for
+     Recipient Transition Group or a third party to commence providing the
+     terminated Transition Services and Designated Services. Subject to Section
+     25 hereof, upon payment of such incremental costs, if any, in accordance
+     with this Section 6(c)(ii), Provider shall have no further liability or
+     obligation to Recipient pursuant to this Agreement. In the event that
+     Recipient terminates the Agreement pursuant to Section 6(c)(i), (iii) or
+     (iv), and such termination is the primary cause of Recipient's inability to
+     provide any services in accordance with its obligations under the
+     Administrative Services Agreement, Recipient shall have no liability under
+     the Administrative Services Agreement for its failure to meet its
+     obligations to provide such affected services until such time as Recipient,
+     using commercially reasonable efforts, finds an alternative source for such
+     Transition Service or Designated Service or a work-around sufficient to
+     enable Recipient to resume providing such services in accordance with its
+     obligations under the
+
+
+                                      -16-
+<PAGE>
+
+     Administrative Services Agreement, the incremental costs associated with
+     which shall be reimbursed by Provider.
+
+               (iii) If Provider entirely fails to perform any particular
+     Transition Service required hereunder for a period of fifteen (15) days or
+     more for any reason other than Recipient Transition Group's failure to take
+     actions required of Recipient under this Agreement, Recipient may terminate
+     this Agreement as to such Transition Service upon written notice to
+     Provider, with termination to be effective upon receipt of such notice or
+     on such later date as Recipient may specify.
+
+               (iv) Subject to Section 10(a), if, for a period of five (5)
+     consecutive Business Days or more, Provider entirely fails to perform the
+     Transition Services required hereunder as a whole in substantially all
+     respects and to such an extent that the ability of the Recipient Transition
+     Group to continue the Business as a whole is endangered, unless such
+     failure was caused primarily by the act or omission of Recipient Transition
+     Group, Recipient may terminate this Agreement upon written notice to
+     Provider specifying a termination date.
+
+          (d) Effect of Termination; Return of Materials. As promptly as
+practicable upon termination of this Agreement, or, if applicable, upon earlier
+termination of any particular Transition Service and any related Transition
+Assistance or, if applicable, upon earlier termination of the Designated
+Services, and except as otherwise set forth in the Technology Transfer and
+License Agreement and subject to Provider's rights to retain an instance of all
+Data and a copy of all Computer Programs as described therein, (A) each party
+will return to the other party all materials and property in its possession or
+control (or the possession or control of an Affiliate) which is owned by or
+licensed to such other party or its Affiliates, and (B)(i) all materials and
+property (to the extent embodied in a tangible form) that constitute any part of
+the Transferred Assets (as defined in the Asset Purchase Agreement), which
+materials and property are no longer needed for the performance of other
+Transition Services or other Transition Assistance or Designated Services under
+this Agreement, shall be delivered to Recipient in such machine readable format
+and media as mutually agreed upon by the parties and (ii) copies of any and all
+additions or modifications made or caused to be made to the Owned
+Principally-Used Computer Programs (including, to the extent available, both
+object code and source code) by either Provider or Recipient for the benefit of
+Recipient under this Agreement shall be provided to Recipient and no copies
+thereof shall be retained by Provider.
+
+          (e) Transition Assistance. In preparation for the discontinuation of
+any Transition Service provided under this Agreement, at Recipient's request,
+Provider shall, consistent with its obligation to provide Transition Services
+hereunder and with the cooperation and assistance of Recipient, use commercially
+reasonable efforts to provide such knowledge transfer services and to take such
+steps as are reasonably required in order to facilitate a smooth and efficient
+transition and/or migration of records and responsibilities to Recipient so as
+to minimize any disruption of services ("Transition Assistance"). Recipient
+shall cooperate with Provider to allow Provider to complete the Transition
+Assistance as early as is commercially reasonable to do so. As part of the
+Transition Assistance, the parties will work together to develop a
+mutually-agreeable transition plan (the "Transition Plan") setting forth the
+respective tasks to be accomplished by each party in connection with the orderly
+transition and a schedule
+
+
+                                      -17-
+<PAGE>
+
+pursuant to which the tasks are to be completed. Such Transition Assistance
+shall be considered an additional Scheduled Service, and the fees and costs
+charged by Provider for providing the same shall be set forth in a schedule
+agreed to by the parties, or, in the absence of agreement of the parties for any
+particular service, shall be Provider's loaded costs of providing the same,
+which costs shall be in accordance with the rates and methodologies described in
+Section 5 hereof.
+
+          Section 7. Transition Project Management. Each of Provider and
+Recipient Transition Group shall appoint a Transition Project Manager. Each
+Transition Project Manager may appoint or designate in writing, directed to the
+other Transition Project Manager, a person or persons to act in his or her stead
+on day-to-day matters within various functional areas such as, by way of
+example, and not in limitation, primary contacts to deal with IT matters,
+actuarial matters or financial matters. The Transition Project Manager may serve
+as the primary contact point for his or her respective principal with respect to
+issues that may arise during the performance of this Agreement; provided, that,
+(i) except for those duties expressly assigned to the Transition Project
+Managers hereunder, neither Transition Project Manager, nor any designee of
+either Transition Project Manager, shall have the authority to bind his or her
+respective principal and (ii) neither Transition Project Manager, nor any
+designee of either Transition Project Manager, shall have the authority to
+change the terms or conditions of this Agreement. Each party's initial
+Transition Project Manager, along with his or her title and relevant contact
+information (including business address, email address, telephone number and
+facsimile number), are identified on Schedule 7(a). Any party may, by notice
+given to the other party, replace its Transition Project Manager hereunder,
+provided that notice of such change shall be effective upon receipt.
+
+          Section 8. Relationships Among the Parties. Nothing in this Agreement
+shall cause the relationship between Provider and Recipient Transition Group to
+be deemed to constitute an agency, partnership or joint venture. The terms of
+this Agreement are not intended to constitute a joint employer for any purpose
+between any of the parties and their Affiliates. Each of the parties agrees that
+the provisions of this Agreement as a whole are not intended to, and do not,
+constitute control of the other party (or any Affiliates thereof) or provide it
+with the ability to control such other party (or any Affiliates thereof), and
+each party hereto expressly disclaims any right or power under this Agreement to
+exercise any power whatsoever over the management or policies of the other (or
+any Affiliates thereof). Except as otherwise expressly set forth herein, neither
+Provider nor Recipient Transition Group shall incur any liability with respect
+to the financial obligations of the other party under this Agreement.
+
+          Section 9. Compliance With and Changes to Laws and Policies.
+
+          (a) Compliance with General Laws. Nothing in this Agreement shall
+oblige either party hereto to act in breach of the requirements of any law,
+ordinance, rule, regulation or order of any governmental entity applicable to
+it, including, but not limited to, securities and insurance laws, written policy
+statements of securities commissions, insurance and other regulatory
+authorities, and the by-laws, rules, regulations and written policy statements
+of relevant securities and self-regulatory organizations or order of any
+governmental entity concerning privacy.
+
+
+                                      -18-
+<PAGE>
+
+          (b) Regulatory Matters. Provider shall cooperate with Recipient
+Transition Group and any regulatory authorities that supervise Recipient
+Transition Group in connection with meeting any regulatory requirements
+applicable to entities that provide Transition Services to Recipient.
+
+          (c) Privacy Policies.
+
+               (i) Compliance. Recipient shall at all times remain in material
+     compliance with each Provider Privacy Policy and any other Provider
+     internal policies or guidelines provided to Recipient in writing and set
+     forth in Schedule 9(c)(i), except that Recipient shall not be bound by any
+     Privacy Promise (as referenced in Schedule 9(c)(i)) or any other promises
+     made by Provider to non-institutional customers. Provider shall at all
+     times remain in material compliance with each Recipient Privacy Policy and
+     any other Recipient internal policies or guidelines provided to Provider in
+     writing and set forth in Schedule 9(c)(i).
+
+               (ii) Amendment. During the term of this Agreement, neither
+     Provider nor Recipient will, without the prior written consent of the other
+     party (which shall not be unreasonably withheld or delayed), amend its
+     Privacy Policy except (i) (A) as would not or would not be likely to
+     materially adversely affect Provider's ability to perform the Transition
+     Services and (B) as would not or would not be likely to materially
+     adversely affect Recipient Transition Group's ability to receive and use
+     the Transition Services or (ii) as required by a change in any applicable
+     statute, law, ordinance, rule, regulation or order of any governmental
+     entity concerning privacy or (iii) as is necessary in order to provide a
+     Transition Service. Each of Provider and Recipient shall provide the other
+     party with commercially reasonable prior written notice of any change in
+     any Privacy Policy.
+
+          Section 10. Inability to Perform Services; Technology Changes.
+
+          (a) Inability to Perform Services. In the event that Provider is
+unable to perform all or any portion of the Transition Services as required by
+this Agreement, or by reason of its failure to act in accordance with Section
+2(g), all or any portion of the Designated Services, for any reason for a period
+that can reasonably be expected to exceed five (5) consecutive Business Days,
+Provider shall provide notice to Recipient of its inability to perform the
+services and shall cooperate with Recipient Transition Group in obtaining an
+alternative means of receiving such services, and the terms of Section 2(a)(iv)
+shall apply. In addition to any service level credits conferred to Recipient's
+benefit pursuant to Section 3(d) or any other remedies available under this
+Agreement, Provider shall be responsible for (i) all costs incurred in restoring
+the service and (ii) if such service is not restored within a commercially
+reasonable time, all incremental costs incurred in procuring an alternative
+provider of such services (in excess of the costs expected to be incurred by
+Recipient Transition Group for such services under this Agreement), provided, in
+either case, that such costs for which Provider is responsible shall be reduced,
+and shall become the responsibility of Recipient, to the extent that the
+inability of Provider to perform any or a portion of any Transition Service was
+caused by Recipient.
+
+
+                                      -19-
+<PAGE>
+
+          (b) Disaster Recovery. Provider shall maintain security and disaster
+recovery procedures to protect data owned by Recipient as well as Recipient's
+networks and systems utilized in providing the Transition Services, all in
+accordance with commercially reasonable practices.
+
+          (c) Technology Changes. Each party shall provide written notice to the
+other of any proposed or implemented Technology Changes that reasonably should
+be expected to (i) have a material adverse effect on the other party, (ii) have
+a material adverse effect on the functionality or performance of, or materially
+decrease the resource efficiency of, one or more Transition Services or
+Designated Services or (iii) materially increase the cost of Transition Services
+or Designated Services provided hereunder. Within ten (10) days following the
+receipt of such written notice, the Transition Project Managers of each party
+shall meet to negotiate in good faith any appropriate actions to be taken in
+light of such Technology Change. Such notice shall be given as far in advance of
+such Technology Change as is practicable. All planned network outages affecting
+Recipient shall be subject to written notice by Provider, to be given as far in
+advance of such planned network outages as is practicable. Each party shall be
+responsible for implementing all changes to its respective computing
+environment, including changes to programs, manual procedures, job control
+language statements, distribution parameters, and schedules.
+
+          Section 11. Covenants and Other Agreements.
+
+          (a) Compliance with Laws. Each party shall be responsible for
+complying with all Applicable Laws then in effect pertaining to such party's
+business and operations and its performance of this Agreement.
+
+          (b) Non-Infringement. Provider covenants that except for (i) any
+failure to receive any required third party consents and (ii) any actions taken
+at the specific request or direction of Recipient Transition Group, its
+provision of the Transition Services and Designated Services and Recipient's
+receipt of the Transition Services and Designated Services hereunder will not
+infringe any trademark, trade name, trade dress or other intellectual property
+right of any third party.
+
+          (c) Lack of Harmful Components. Provider covenants that it will
+utilize commercially available anti-virus software in accordance with industry
+standards for the purpose of preventing the introduction of any virus, disabling
+code or other such malware into Recipient's systems or data in the provision of
+the Transition Services and the Designated Services.
+
+          (d) Third-Party Contracts and Restrictions. To the extent that (i) the
+Retained Computer Programs used to provide the Transition Services or Designated
+Services include software or other technology licensed from third parties, or
+(ii) the Transition Services or Designated Services include the services of
+Third Party Vendors or are provided through permitted Subcontractors, it is
+intended and agreed that the Transition Services and Designated Services
+provided to Recipient under this Agreement shall be within the scope and on the
+terms and conditions established by the third-party licensors, vendors or
+providers. This Agreement is not intended to constitute a sublicense of any of
+the Retained Computer Programs or technology
+
+
+                                      -20-
+<PAGE>
+
+provided by third-party licensors or to create a commercial service bureau in
+favor of Recipient or the Recipient Transition Group, but instead is a services
+agreement between Provider and a former business unit of Provider. In the event
+that Provider encounters a restriction or objection from a third-party licensor,
+vendor or provider that prevents Provider, as a practical matter from providing
+any Transition Service or Designated Service as contemplated by this Agreement,
+then Provider shall so notify Recipient and the parties will confer to decide
+upon an alternative solution, which may include seeking necessary consents or
+licenses, replacing the affected resource, or adopting a work-around. Provider
+gives no assurance about whether such a restriction or objection can or may
+arise, but Provider shall be required to (x) implement an alternative means of
+providing any relevant Transition Services or (y) cooperate with the Retained
+Employees and Retained Contractors and provide reasonable assistance to
+Recipient and the Retained Employees and Retained Contractors in the
+implementation of an alternative means of providing any relevant Designated
+Services, as applicable, in each case after consulting with Recipient as
+required by the foregoing sentence. The cost of providing any relevant
+Transition Service or Designated Service through such alternative means shall be
+paid by Recipient. To the extent that Provider fails to implement such
+alternative means of providing such relevant Transition Service for reasons
+other than Recipient's refusal to pay for the same, unless such failure was
+caused primarily by the act or omission of Recipient Transition Group, and such
+failure is the primary cause of Recipient's inability to provide any services in
+accordance with its obligations under the Administrative Services Agreement,
+Recipient shall have no liability under the Administrative Services Agreement
+for its failure to meet its obligations to provide such affected services until
+such time as the earlier of the following: (A) Provider provides such
+alternative means of providing the relevant Transition Service to the extent
+required to enable Recipient to resume providing such services in accordance
+with its obligations under the Administrative Services Agreement, or (B)
+Recipient, using commercially reasonable efforts, finds an alternative source
+for the relevant Transition Service or a work-around sufficient to enable
+Recipient to resume providing such services in accordance with its obligations
+under the Administrative Services Agreement, the incremental costs associated
+with which shall be reimbursed by Provider.
+
+          Section 12. Dispute Resolution.
+
+          (a) Resolution by the Parties. If any dispute shall arise between
+Provider and Recipient Transition Group under this Agreement (excluding any
+dispute regarding the amount of any TSA Monthly Invoice, as to which the
+provisions of Section 5(d) shall apply), whether such dispute arises before or
+after the termination of this Agreement, such dispute shall be submitted for
+resolution by the parties in accordance with this Section 12(a). In the event of
+such a dispute, the party raising the problem shall submit notice thereof in
+writing to Transition Project Manager of the other party. The Transition Project
+Manager shall be provided access to the relevant notice for purposes of
+resolving the dispute. If the Transition Project Managers are unable to resolve
+the dispute within ten (10) days after the dispute has been referred to them (or
+such longer time period as the Transition Project Managers agree upon in
+writing), either party shall be free to pursue its rights and remedies hereunder
+in accordance with Section 22.
+
+          (b) Relief in Court. Nothing in this Agreement shall prevent the
+parties hereto from seeking equitable relief (including, without limitation,
+injunctive relief or specific
+
+
+                                      -21-
+<PAGE>
+
+performance as set forth in Section 30) in a court for any breach or threatened
+breach of any provision hereof.
+
+          Section 13. Indemnification.
+
+          (a) Indemnification by Provider. Provider agrees to indemnify and hold
+harmless each party in the Recipient Transition Group and their respective
+directors, officers and employees (collectively, the "Recipient Indemnified
+Parties") from any and all Losses arising out of or caused by (i) any breach by
+Provider of any obligation or covenant set forth in this Agreement or in any
+certificate or other document delivered pursuant hereto, (ii) Provider's or its
+employees' acts or omissions with respect to the Retained Employees or Retained
+Contractors, (iii) the acts or omissions of the Retained Employees or Retained
+Contractors other than such acts or omissions at the request or direction of
+Recipient Transition Group, (iv) Provider's or any of its Affiliate's
+responsibilities as employer of the Retained Employees, (v) Provider's or any of
+its Affiliate's current or former contractual arrangements with any of the
+Retained Contractors, or (vi) any successful enforcement of this indemnity.
+
+          (b) Indemnification by Recipient. Recipient agrees to indemnify and
+hold harmless Provider and its directors, officers and employees (collectively,
+the "Provider Indemnified Parties") from any and all Losses arising out of or
+caused by (i) any breach by Recipient of any obligation or covenant set forth in
+this Agreement or in any certificate or other document delivered pursuant
+hereto, (ii) Recipient's or its employees' acts or omissions with respect to the
+Retained Employees or (iii) any successful enforcement of this indemnity.
+
+          (c) Indemnification Procedures. In the event either Recipient or
+Provider shall have a claim for indemnity against the other party under the
+terms of this Agreement with respect to any third-party claim, the parties shall
+follow the procedures set forth in Section 10.3 of the Asset Purchase Agreement.
+The parties hereto shall follow the procedures set forth in Section 22 hereof
+with respect to any other claim for indemnity.
+
+          (d) Exclusive Remedy. Each party hereto expressly acknowledges that
+other than as expressly set forth herein, (i) the provisions of this Section 13
+shall be the sole and exclusive remedy for all claims, actions, damages,
+liabilities, costs and expenses caused as a result of any breach by the other
+party of any covenant set forth in this Agreement or in any certificate or other
+document delivered pursuant hereto, except that the remedies of injunction and
+specific performance shall remain available to the parties hereto, and (ii) no
+party shall be liable or responsible to any other party hereto or its Affiliates
+for punitive, incidental, consequential or multiplied damages, in accordance
+with Section 25 hereof, other than for the liable party's fraud, theft,
+embezzlement or other intentional acts or omissions of bad faith.
+
+          Section 14. Ownership, Data and Security.
+
+          (a) Ownership. Each party will, subject to the provisions of the Asset
+Purchase Agreement, the Technology Transfer and License Agreement and any
+express license granted under this Agreement, retain all rights in any Computer
+Programs, ideas, concepts, know-how, development tools, techniques or any other
+proprietary material or information that it owned or developed prior to the date
+of
+
+
+                                      -22-
+<PAGE>
+
+this Agreement, or acquires or develops after the date of this Agreement
+without reference to or use of the intellectual property or proprietary material
+or information of the other party. All work product created for or delivered to
+Recipient by Provider (alone or with others) as part of the Transition Services
+or the Designated Services, together with associated intellectual property
+rights, shall, unless otherwise indicated in a writing signed by both parties,
+be owned by Recipient, except that Recipient shall acquire no right thereby in
+confidential information or trademarks, service marks, or logos of Provider or
+its Affiliates. Notwithstanding any other provision of this Agreement, all
+general industry knowledge which either party obtains as a result of the
+performance of prescribed work may be used by either party without restriction
+unless and then only to the extent that such activity would disclose the other
+party's confidential information in violation of the confidentiality obligations
+of the parties, including pursuant to Section 26 hereof.
+
+          (b) Recipient Data. All data pertaining to Recipient or its customers
+processed by Provider or stored in Provider's systems or otherwise in Provider's
+possession or control as part of the Transition Services or the Designated
+Services shall be owned by Recipient, shall be used only to carry out this
+Agreement, and may not be disclosed to anyone except employees, agents, and
+subcontractors of Provider who have a "need to know" the same in order to
+further or facilitate the performance of the Transition Services or the
+Designated Services and who are required to respect the confidentiality thereof.
+When and as reasonably requested by Recipient (and subject to the rights of
+Provider and its Affiliates pursuant to the Technology Transfer and License
+Agreement), Provider shall return to Recipient copies of Recipient's
+information, data, and files (which information, data and files shall be
+segregated from that of Provider, at Provider's expense) in such form as
+Recipient may reasonably request. The parties agree that the confidentiality of
+all such data is governed by Section 5.7 of the Asset Purchase Agreement and the
+Confidentiality Agreement.
+
+          (c) Security. Provider shall maintain substantially the same
+safeguards as are in use with respect to Provider's data to protect against (i)
+the accidental or unauthorized deletion, destruction or alteration of Data (as
+defined in the Asset Purchase Agreement) in Provider's possession or control and
+(ii) the unauthorized access thereto. Provider shall maintain substantially the
+same safeguards which are in use with respect to Provider's software to protect
+against (x) the accidental or unauthorized deletion, destruction or alteration
+of the Owned Principally-Used Computer Programs and the Licensed Computer
+Programs in Provider's possession or control and (y) the unauthorized access
+thereto. If Recipient requests reasonable additional safeguards, Provider shall
+use commercially reasonable efforts to provide such additional safeguards at
+rates and upon terms and conditions as mutually agreed to in writing by the
+parties. Provider shall comply with all requirements of applicable regulatory
+authorities regarding data retention.
+
+          Section 15. Force Majeure.
+
+          (a) General. Subject to Section 15(b), below, neither party shall be
+liable for any failure or delay in the performance of its obligations (other
+than payment obligations) under this Agreement to the extent such failure or
+delay both:
+
+
+                                      -23-
+<PAGE>
+
+               (i) is caused by any of the following: acts of war, terrorism,
+     civil riots or rebellions; quarantines, embargoes and other similar unusual
+     governmental action; extraordinary elements of nature or acts of God; and
+
+               (ii) could not have been prevented by the non-performing party's
+     reasonable precautions or commercially accepted processes, or could not
+     reasonably be circumvented by the non-performing party through the use of
+     substitute services, alternate sources, work around plans or other means by
+     which the requirements of Recipient for services substantially similar to
+     the Transition Services hereunder would be satisfied.
+
+          (b) Definition. Events meeting both of the criteria set forth in
+subsections 15(a)(i) and 15(a)(ii) above are referred to individually and
+collectively as "Force Majeure Events." The parties expressly acknowledge that
+Force Majeure Events do not include vandalism, the regulatory acts of
+governmental agencies, labor strikes, or the non performance by third parties or
+Subcontractors relied on for the delivery of the Transition Services, unless
+such failure or non-performance by a third party or Subcontractor is itself
+caused by a Force Majeure Event.
+
+          (c) Excuse of Performance. Upon the occurrence of a Force Majeure
+Event, the non-performing party shall be excused from any further performance of
+the affected obligation(s) (other than payment obligations) for so long as such
+circumstances prevail, provided that such party continues to attempt to
+recommence performance to the greatest extent possible without delay. To the
+extent that Provider (i) fails to provide or fails to timely provide any
+Transition Service as required under this Agreement, (ii) by reason of its
+failure to act in accordance with Section 2(g), fails to timely provide all or
+any portion of the Designated Services, or (iii) fails to meet the applicable
+standard of service for any Transition Service as set forth herein as a result
+of a Force Majeure Event, unless such failure was caused primarily by the act or
+omission of Recipient Transition Group, and such failure is the primary cause of
+Recipient's inability to provide any services in accordance with its obligations
+under the Administrative Services Agreement, Recipient shall have no liability
+under the Administrative Services Agreement for its failure to meet its
+obligations to provide such affected Administrative Services until such time as
+the earlier of the following: (A) Provider cures such failure hereunder to the
+extent required to enable Recipient to resume providing such services in
+accordance with its obligations under the Administrative Services Agreement, or
+(B) Recipient, using commercially reasonable efforts, finds an alternative
+source for such Transition Service or Designated Service or a work-around
+sufficient to enable Recipient to resume providing such services in accordance
+with its obligations under the Administrative Services Agreement, the
+incremental costs associated with which shall be reimbursed by Provider.
+
+          (d) Disaster Recovery Plan. Notwithstanding any other provision of
+this Section 15, a Force Majeure Event that results in failure or substantial
+delay of the performance by Provider of its obligations under this Agreement
+shall obligate Provider, if appropriate, to implement its disaster recovery plan
+within the time periods described therein.
+
+          (e) Termination Upon Force Majeure. If a Force Majeure Event causes a
+material failure or delay in the performance of any Transition Services for more
+than thirty (30)
+
+
+                                      -24-
+<PAGE>
+
+consecutive days, Recipient may, at its option, immediately terminate this
+Agreement without liability to Provider, other than liability for payment of
+unpaid invoices or for services previously rendered.
+
+          Section 16. Survival. The provisions of Section 6(b) (Termination of
+Individual Transition Services or Designated Services), 6(c) (Termination of
+Agreement), 6(d) (Effect of Termination; Return of Materials), Section 9
+(Compliance With and Changes to Law and Policies), Section 13 (Indemnification),
+this Section 16, Section 17 (Notices), Section 20 (Waivers and Amendments),
+Section 21 (Exhibits; Schedules), Section 22 (Arbitration), Section 23
+(Governing Law and Jurisdiction), Section 25 (Waiver of Jury Trial), Section 26
+(Confidentiality), Section 27 (Captions) and Section 30 (Equitable Rights) shall
+survive the termination or expiration of this Agreement.
+
+          Section 17. Notices. Any notice, request or other communication to be
+given by any party hereunder shall be in writing and shall be delivered
+personally, sent by registered or certified mail, postage prepaid, by overnight
+courier with written confirmation of delivery. Any such notice shall be deemed
+given when so delivered personally, or if mailed, on the date shown on the
+receipt therefor, or if sent by overnight courier, on the date shown on the
+written confirmation of delivery. Such notices shall be given to the following
+address:
+
+To Provider:          Security Life of Denver Insurance Company
+                      Attention: Mark Tullis
+                      c/o ING North America Insurance Corporation
+                      5780 Powers Ferry Road NW
+                      Atlanta, GA 30327
+
+With a concurrent
+copy to:              B. Scott Burton
+                      Corporate General Counsel
+                      ING North America Insurance Corporation
+                      5780 Powers Ferry Road NW
+                      Atlanta, GA 30327
+
+                      and
+
+                      David A. Massey, Esq.
+                      Sutherland Asbill & Brennan LLP
+                      1275 Pennsylvania Ave., NW
+                      Washington, DC 20004-2415
+
+To Recipient:         Scottish Re (U.S.) Inc.
+                      13840 Ballantyne Corporate Place, Suite 500
+                      Charlotte, NC  28277
+                      Attention:  Nate Gemmiti, Esq.
+
+
+                                      -25-
+<PAGE>
+
+With a copy to:       Stephen G. Rooney, Esq.
+                      LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+                      125 West 55th Street
+                      New York, NY 10019
+
+          Section 18. Binding Effect; Assignment. This Agreement shall be
+binding upon and inure to the benefit of the parties and their respective
+successors, permitted assigns and legal representatives. Neither this Agreement,
+nor any of the rights, interests, or obligations hereunder, may be assigned in
+whole or in part, by any party without the prior written consent of the other
+parties hereto and any assignment without such consent shall be null and void;
+provided, that upon prior written notice to Provider, Recipient may assign to
+any one or more of its current or after-acquired Affiliates all or any part of
+its rights, interest or obligations under this Agreement. Notwithstanding the
+foregoing, Recipient may assign this Agreement in its entirety in connection
+with a sale of all or substantially all of the Business, without the consent of
+Provider. Notwithstanding any provision of this Agreement, it is understood for
+the avoidance of any doubt that in the event a party shall merge or consolidate
+with another Person or enter into a business combination with a third party,
+such merger, consolidation or business combination shall not be deemed to be an
+assignment and, accordingly, no consent of any Person shall be required
+hereunder.
+
+          Section 19. Execution in Counterparts. This Agreement may be executed
+by the parties hereto in separate counterparts, each of which when so executed
+and delivered shall be an original, but all such counterparts shall together
+constitute one and the same instrument. Each counterpart may consist of a number
+of copies hereof each signed by less than all, but together signed by all of the
+parties hereto. Each counterpart may be delivered by facsimile transmission,
+which transmission shall be deemed delivery of an originally executed document.
+
+          Section 20. Waivers and Amendments. Except as otherwise permitted
+herein, any modification, supplement, or amendment to this Agreement, or any
+waiver hereunder, shall be effective only if made in writing and signed by the
+designated officer of each of the parties hereto. No waiver of any provision of
+this Agreement and no consent to any default under this Agreement shall be
+effective unless the same shall be in writing and signed by or on behalf of the
+party against whom such waiver or consent is claimed. No course of dealing or
+failure of any party to strictly enforce any term, right or condition of this
+Agreement shall be construed as a waiver of such term, right or condition.
+Waiver by either party of any default by the other party shall not be deemed a
+waiver of any other default.
+
+          Section 21. Exhibits; Schedules. All exhibits and schedules
+incorporated by referenced in this Agreement shall be deemed incorporated into
+and shall become part of this Agreement.
+
+          Section 22. Arbitration
+
+          (a) Arbitration. After the Closing Date, except as otherwise set forth
+in Section 5(d) and Section 12, and except with regard to relief pursuant to
+Section 30, any dispute between Recipient and Provider with reference to the
+interpretation or performance of this Agreement, whether such dispute arises
+before or after the termination of this Agreement, shall
+
+
+                                      -26-
+<PAGE>
+
+be decided through negotiation and, if necessary, arbitration as set forth in
+this Section 22. The parties intend this Section 22 to be enforceable in
+accordance with the Federal Arbitration Act (9 U.S.C., Section 1) including any
+amendments to that Act which are subsequently adopted. In the event that either
+party refuses to submit to arbitration as required by Section 22(a), the other
+party may request the court specified in Section 23 to compel arbitration in
+accordance with the Federal Arbitration Act.
+
+          (b) Procedures. Provider and Recipient intend that any dispute between
+them arising under this Agreement be resolved without resort to any litigation.
+Accordingly, Provider and Recipient agree that they will negotiate diligently
+and in good faith to agree on a mutually satisfactory resolution of any such
+dispute; provided, however, that if any such dispute cannot be so resolved by
+them within sixty (60) calendar days (or such longer period as the parties may
+agree) after commencing such negotiations, Provider and Recipient agree that
+they will submit such dispute to arbitration in the manner specified in, and
+such arbitration proceeding will be conducted in accordance with, the Commercial
+Arbitration Rules of the American Arbitration Association.
+
+          The arbitration hearing will be before a panel of three disinterested
+arbitrators, each of whom must be a present or former officer of a life
+insurance or life reinsurance company familiar with the life reinsurance
+business, or other professionals with experience in life insurance or
+reinsurance, provided that such professionals shall not have performed services
+for either party within the previous five (5) years, and provided further that
+no arbitrator shall be a former employee of either Provider or any of its
+Affiliates. Provider and Recipient will each appoint one arbitrator by written
+notification to the other party within thirty (30) calendar days after the date
+of the mailing of the notification initiating the arbitration. These two
+arbitrators will then select the third arbitrator within sixty (60) calendar
+days after the date of the mailing of the notification initiating arbitration.
+
+          If either Provider or Recipient fails to appoint an arbitrator, or
+should the two arbitrators be unable to agree upon the choice of a third
+arbitrator, the president of the American Arbitration Association will appoint
+the necessary arbitrators within thirty (30) calendar days after the request to
+do so.
+
+          The arbitrators shall base their decision on the terms and conditions
+of this Agreement. However, if the terms and conditions of this Agreement do not
+explicitly dispose of an issue in dispute between the parties, the arbitrators
+may base their decision on the customs and practices of the life insurance and
+life reinsurance industry together with an interpretation of the law. The vote
+or approval of a majority of the arbitrators will decide any question considered
+by the arbitrators. The place of arbitration will be determined by the
+arbitrators. Each decision (including without limitation each award) of the
+arbitrators will be final and binding on all parties and will be nonappealable,
+except that (at the request of either Provider or Recipient) any award of the
+arbitrators may be confirmed (or, if appropriate, vacated) by a judgment entered
+by the court specified in Section 23. In no event may the arbitrators award
+punitive or exemplary damages, except for the liable party's fraud, theft,
+embezzlement or other intentional acts or omissions of bad faith. Each party
+will be responsible for paying (i) all fees and expenses charged by its
+respective counsel, accountants, actuaries, and other representatives in
+conjunction with such arbitration and (ii) one-half of the fees and expenses
+charged by each arbitrator.
+
+
+                                      -27-
+<PAGE>
+
+          Section 23. Governing Law and Jurisdiction. This Agreement shall be
+governed by and construed in accordance with the laws of the State of New York
+applicable to contracts entered into therein, without reference to principles of
+choice of law or conflicts of laws. Each party hereto irrevocably and
+unconditionally submits to the exclusive jurisdiction of any State or Federal
+Court sitting in New York, over any suit, action or proceeding arising out of or
+relating to this Agreement. Each party hereto agrees that service of any
+process, summons, notice or document by U.S. registered mail addressed to such
+party shall be effective service of process for any action, suit or proceeding
+brought against such party in such court. Each party hereto irrevocably and
+unconditionally waives any objection to the laying of venue of any such suit,
+action or proceeding brought in any such court and any claim that any such
+action, suit or proceeding brought in any such court has been brought in an
+inconvenient forum. Each party hereto agrees that final judgment in any such
+action, suit or proceeding brought in any such court shall be conclusive and
+binding upon such party and may be enforced in any other courts to whose
+jurisdiction such party may be subject, by suit upon such judgment.
+
+          Section 24. Sole Agreement.
+
+          (a) This Agreement may not be amended or modified in any respect
+whatsoever except by instrument in writing signed by the parties hereto. This
+Agreement, the Asset Purchase Agreement, the Related Agreements and the
+Confidentiality Agreement, including the exhibits, schedules, and other
+documents delivered pursuant hereto, constitute the entire agreement among the
+parties hereto and their respective Affiliates with respect to the subject
+matter hereof and supersede all prior negotiations, discussions, writings and
+agreements between them with respect thereto.
+
+          (b) This Agreement is a master agreement and shall be construed as a
+separate and independent agreement for each and every Transition Service
+provided under this Agreement. Any specific Transition Service may be subject to
+termination in accordance with Section 6(b)(i), 6(c)(i)(A) or 6(c)(iii). Any
+termination of this Agreement in accordance with Section 6(b)(i) or (c) with
+respect to any particular Transition Service shall not terminate the Agreement
+with respect to any other Transition Service.
+
+          Section 25. Waiver of Jury Trial; Multiplied and Punitive Damages.
+Each of the parties hereto irrevocably waives, with respect to any action filed
+by either party against the other party (but not as to any action by one party
+against the other seeking indemnification for a third party claim against the
+party initiating the action, to the extent that such damages may be recoverable
+as part of the indemnification by the indemnified party) (i) any and all right
+to trial by jury, and (ii) any right to punitive, incidental, consequential or
+multiplied damages, either pursuant to common law or statute, in any legal
+proceedings arising out of or related to this Agreement or the transactions
+contemplated hereby, except for the liable party's fraud, theft, embezzlement or
+other intentional acts or omissions of bad faith.
+
+          Section 26. Confidentiality.
+
+          (a) Confidential Information. Each party hereto shall use at least the
+same standard of care in the protection of Confidential Information of the other
+party as it uses to protect its own confidential or proprietary information;
+provided that such Confidential
+
+
+                                      -28-
+<PAGE>
+
+Information shall be protected in at least a reasonable manner. For purposes of
+this Agreement, "Confidential Information" includes all confidential or
+proprietary information and documentation of any party hereto, including the
+terms of this Agreement, including with respect to each party, all of its
+software (including source code and object code), documentation, data, its
+customer data, software and confidential information of third parties as to
+which such party owes a duty of confidentiality, financial information,
+information relating to the other party's planned or existing computer systems,
+systems architecture, computer hardware, methods of processing and operational
+methods, sales, profits, organizational restructuring, new business initiatives,
+proprietary and confidential information that describes the other party's
+insurance and financial products (including actuarial calculations, product
+designs, and how such products are administered and managed), proprietary and
+confidential information that describes the other party's product strategies or
+tax interpretations or tax positions or the treatment of any item, all reports,
+exhibits, and other documentation prepared by any of its Affiliates. Each party
+hereto shall use the Confidential Information of the other party only in
+connection with the purposes of this Agreement and shall make such Confidential
+Information available only to its employees, permitted subcontractors or agents
+having a "need to know" with respect to such purpose. Each party hereto shall
+advise its respective employees, permitted subcontractors and agents with access
+to any Confidential Information of such party's obligations under this
+Agreement. The obligations in this Section 10.12 will not restrict disclosure by
+a party pursuant to Applicable Law, or by order or request of any Government
+Authority, subject to Section 10.12(b) hereof. Confidential Information of a
+party will not be afforded the protection of this Section if such Confidential
+Information was (A) developed by the other party independently as shown by its
+written business records regularly kept, (B) rightfully obtained by the other
+party without restriction from a third party, (C) publicly available other than
+through the fault or negligence of the other party, or (D) rightfully in the
+possession of the other party and not subject to any duty of confidentiality as
+of the date of this Agreement.
+
+          (b) Compulsory Disclosure. If any party is requested or required to
+disclose Confidential Information of the other pursuant to any judicial or
+administrative process, then such receiving party shall promptly notify the
+other party to this Agreement in writing of such request or requirement. The
+party whose Confidential Information is requested or required to be disclosed
+shall either (i) promptly seek protective relief from such disclosure obligation
+or (ii) direct the receiving party to comply with such request or requirement.
+The party in receipt of Confidential Information of the other party shall
+cooperate with efforts of the other party to maintain the confidentiality of
+such information or to resist compulsory disclosure thereof, but any costs
+incurred by the receiving party shall be reimbursed by the other party, except
+for costs of the receiving party's employees. If, after a reasonable opportunity
+to seek protective relief, such relief is not obtained by the party whose
+Confidential Information is subject to discovery or disclosure, or if such party
+fails to obtain such relief, the receiving party may disclose such portion of
+such Confidential Information that such party reasonably believes, on the basis
+of advice of such party's counsel, such party is legally obligated to disclose.
+
+          (c) Unauthorized Acts. Each party hereto shall (i) notify the other
+party promptly of any unauthorized possession, use, or knowledge of any
+Confidential Information by any person which shall become known to it, any
+attempt by any person to gain possession of Confidential Information without
+authorization or any attempt to use or acquire knowledge of any Confidential
+Information without authorization (collectively, "Unauthorized Access"), (ii)
+
+
+                                      -29-
+<PAGE>
+
+promptly furnish to the other party full details of the Unauthorized Access and
+use reasonable efforts to assist the other party in investigating or preventing
+the reoccurrence of any Unauthorized Access, (iii) cooperate with the other
+party in any litigation and investigation against third parties deemed necessary
+by such party to protect its proprietary rights, and (iv) promptly take all
+steps necessary to prevent a reoccurrence of any such Unauthorized Access.
+
+          (d) Injunction. Each party hereto agrees that the breach by the other
+party of its obligations under this Section would cause significant and
+irreparable harm to the aggrieved party, which may be difficult to measure with
+certainty or to compensate through money damages. Each party hereto acknowledges
+that the aggrieved party shall be entitled, without proof of irreparable harm
+and without waiving any other right or remedy available to it, to such
+injunctive and equitable relief as may be deemed proper by a court of competent
+jurisdiction.
+
+          Section 27. Captions. The captions of this Agreement are for
+convenience of reference only and shall not define or limit any of the terms or
+provisions hereof.
+
+          Section 28. Severability. Any term or provision of this Agreement
+which is invalid or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity or
+unenforceability without rendering invalid or unenforceable the remaining terms
+and provisions of this Agreement or affecting the validity or enforceability of
+any of the terms or provisions of this Agreement in any other jurisdiction, so
+long as the economic or legal substance of the transactions contemplated hereby
+is not affected in any manner materially adverse to any party. If any provision
+of this Agreement is so broad as to be unenforceable, that provision shall be
+interpreted to be only so broad as is enforceable.
+
+          Section 29. No Third Party Beneficiaries. Except as otherwise
+expressly set forth in any provision of this Agreement, nothing in this
+Agreement is intended or shall be construed to give any Person, other than the
+parties hereto, any legal or equitable right, remedy or claim under or in
+respect of this Agreement or any provision contained herein. For the avoidance
+of doubt, nothing in this Agreement shall be construed to give any Business
+Employee, Transition Employee, Retained Employee or former employee of Provider
+or its Affiliates or any beneficiary thereof of any legal or equitable right,
+remedy or claim under or in respect of this Agreement or any provision contained
+herein.
+
+          Section 30. Equitable Rights.
+
+          (a) Non-Performance or Certain Breaches By Provider. Provider
+acknowledges and agrees that money damages would not be a sufficient remedy for
+any failure of Provider to provide the services required hereunder in compliance
+with the terms of this Agreement and that Recipient Transition Group shall be
+entitled to seek equitable relief, including, without limitation, injunction and
+specific performance, as a remedy for such non-performance or such breach by
+Provider and that Provider shall not oppose the granting of such equitable
+relief, unless such non-performance or breach was caused primarily by the act or
+omission of Recipient Transition Group.
+
+
+                                      -30-
+<PAGE>
+
+          (b) Non-Exclusive Remedy. Such remedy shall not be deemed to be the
+exclusive remedy for breach of this Agreement, but shall be in addition to the
+other remedies available to a party under this Agreement.
+
+
+
+
+                                      -31-
+<PAGE>
+
+          IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                     SECURITY LIFE OF DENVER INSURANCE
+                                     COMPANY
+
+
+                                     By:    /s/ Mark Tullis
+                                          -------------------------------------
+                                          Name: Mark Tullis
+                                          Title: President
+
+
+                                     SCOTTISH RE (U.S.), INC.
+
+
+                                     By:   /s/ Oscar Scofield
+                                          -------------------------------------
+                                          Name: Oscar Scofield
+                                          Title: CEO/ President
+
+
+
+                                      -32-
+</TEXT>
+</DOCUMENT>

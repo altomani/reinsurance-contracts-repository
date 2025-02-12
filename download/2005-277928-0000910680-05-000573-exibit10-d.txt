@@ -1,0 +1,3431 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>exibit10-d.txt
+<DESCRIPTION>EXHIBIT 10(D)
+<TEXT>
+
+Confidential Treatment has been requested for certain portions of this Agreement
+that have been  redacted in this  Exhibit.  These  portions are  indicated by an
+asterisk (*). The omitted  portions of this Agreement have been separately filed
+with the Securities and Exchange Commission.
+
+                           Product Purchase Agreement
+
+                                     between
+
+                             Verizon Services Corp.
+
+                                       and
+
+                         TII Network Technologies, Inc.
+
+
+
+
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+<PAGE>
+
+
+1.   PARTIES 1
+
+2.   TERM 1
+
+3.   DEFINITIONS 1
+
+4.   SCOPE 3
+
+5.   CUSTOMER'S OPTIONS UNDER THE AGREEMENT 3
+
+6.   SOFTWARE LICENSE 3
+
+7.   PRICE AND TERMS OF PAYMENT 3
+
+8.   PURCHASE   ORDERS;   CANCELLATION   OF  PURCHASE   ORDERS;   REVOCATION  OF
+     ACKNOWLEDGEMENT6
+
+9.   PAYMENT TERMS, BILLING 7
+
+10.  INVENTORY RETURN 7
+
+11.  RECORDS AND REPORTS 7
+
+12.  BAR CODING 8
+
+13.  ELECTRONIC PURCHASING 8
+
+14.  PRECEDENCE OF DOCUMENTS 9
+
+15.  DELIVERY 9
+
+16.  BILL OF SALE 10
+
+17.  INSPECTION AND ACCEPTANCE 11
+
+18.  PRODUCT WARRANTIES, SERVICES AND SUPPORT 11
+
+19.  INFORMATION AND INTELLECTUAL PROPERTY 18
+
+20.  CUSTOMER'S PROPERTY AND TOOLING 19
+
+21.  COMPLIANCE WITH LAWS 13
+
+22. FORCE MAJEURE 14
+
+23. ASSIGNMENT 15
+
+24. TAXES 21
+
+
+                                       i
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+25. PLANT AND WORK RULES AND RIGHT OF ACCESS 17
+
+26. INDEMNIFICATION 17
+
+27. INSURANCE 24
+
+28. INFRINGEMENT 25
+
+29. CUSTOMER LIMIT OF LIABILITY 26
+
+30. RELATIONSHIP OF PARTIES 20
+
+31. TERMINATION 21
+
+32. DISPUTE RESOLUTION 22
+
+33. NOTICES 22
+
+34   NO HAZARDOUS PRODUCT OR COMPONENTS 34
+
+35.  GOVERNMENT CONTRACT PROVISIONS 23
+
+36.  QUALITY 30
+
+37.  STANDARDIZATION 30
+
+38.  NONWAIVER 24
+
+39.  SEVERABILITY 24
+
+40   SECTION HEADINGS 24
+
+41.  SURVIVAL OF OBLIGATIONS 24
+
+42.  CHOICE OF LAW AND JURISDICTION 25
+
+43.  ENTIRE AGREEMENT 25
+
+44.  SIGNATURES 25
+
+
+                                       ii
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+
+EXHIBITS AND ATTACHMENTS
+
+EXHIBIT A: AFFILIATES VERIZON WEST (PRIOR GTE AFFILIATED COMPANIES)
+
+EXHIBIT B          COMPONENTS OF PRODUCT AND SERVICES
+
+         ATTACHMENT B-1: DETAILED DESCRIPTION OF PRODUCT AND SERVICES
+
+         ATTACHMENT B-2:  PRODUCT AND SERVICE PRICES
+
+         ATTACHMENT B-3  PRODUCT DELIVERY INTERVAL
+
+EXHIBIT C   PURCHASE FOR RESALE - LICENSE WARRANTY AND PRODUCT SUPPORT-
+            NOT APPLICABLE
+
+EXHIBIT D:  PURCHASE FOR INTERNAL USE, WARRANTY AND PRODUCT SUPPORT
+
+         ATTACHMENT D-1    WARRANTY PERIOD
+
+         ATTACHMENT D-2    PRODUCT REPAIR RATES - NOT APPLICABLE
+
+         ATTACHMENT  D-3   REPAIR PARTS PRICING - NOT APPLICABLE
+
+         ATTACHMENT D-4    SELLER'S WORKING HOUR SCHEDULE AND CONTACT
+                INFORMATION
+
+         ATTACHMENT  D-5   ON-SITE ASSISTANCE RATES
+
+         ATTACHMENT  D-6   TRAINING  TERMS AND STANDARDS
+
+         ATTACHMENT  D-7   TRAINING PRICES
+
+         ATTACHMENT  D-8   DISCLOSURE OF POTENTIAL DEFECTS
+
+EXHIBIT E:  ELECTRONIC PURCHASING
+
+         ATTACHMENT  E-1   ELECTRONIC DATA INTERCHANGE (EDI)
+
+         ATTACHMENT E-2    E-PROCUREMENT ARIBA TRANSACTIONS - NOT APPLICABLE
+
+         ATTACHMENT E-3    SELLER CIF REQUIREMENTS - NOT APPLICABLE
+
+         ATTACHMENT E-4    SELLER PUNCHOUT REQUIREMENTS - NOT APPLICABLE
+
+EXHIBIT F:  PRIMARY SELLER COMPLIANCE WITH MINORITY,  WOMAN-OWNED,
+                  DISABLED AND VIETNAMERA VETERAN BUSINESS
+                  ENTERPRISES (MWDVBE) UTILIZATION
+
+
+                                      iii
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+         ATTACHMENT F-1    MWDVBE CONTRACT COMPLIANCE
+
+EXHIBIT G: VERIZON LOGISTICS AND NETWORK SERVICES TRANSPORTATION AND ROUTING
+                INSTRUCTIONS AND REQUIREMENTS
+
+         ATTACHMENT G-1 VERIZON SHIPPING INSTRUCTIONS -  VERIZON LOGISTICS AND
+                VERIZON NETWORK SERVICES
+
+         ATTACHMENT G-2 VERIZON TRANSPORTATION ROUTING INSTRUCTION
+
+         ATTACHMENT G-3 OCEAN CONTAINER PLANNING AND LOADING PROCEDURE -
+                NOT APPLICABLE
+
+         ATTACHMENT G-4  VERIZON - SUPPLIER ROUTING INSTRUCTIONS
+
+         ATTACHMENT G-5 STATE TO STATE GRID
+
+EXHIBIT H:  QUALITY STANDARDS, PROCEDURES AND COMPLAINTS
+
+         ATACHMENT H-1 QUALITY STANDARDS, PROCEDURES AND COMPLAINTS
+
+         ATTACHMENT H-2    TL9000 REQUIREMENTS
+
+EXHIBIT I  PERFORMANCE COMPENSATION PAYMENTS - PRODUCT AVAILABILITY
+
+EXHIBIT J - BILLING VERIFICATION & AUTHORIZATION FOR PAYMENT PROCESS (BVAPP) -
+                NOT APPLICABLE
+
+EXHIBIT K  STANDARDIZATION VERIZON
+
+         ATTACHMENT K-1 STANDARDIZATION VERIZON EAST
+
+         ATTACHMENT K-2 STANDARDIZATION VERIZON WEST
+
+
+
+                                       iv
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+<PAGE>
+
+                           PRODUCT PURCHASE AGREEMENT
+
+1.       PARTIES
+
+(a)      This Product Purchase Agreement (Agreement) is made between TII Network
+         Technologies,  Inc., a Delaware corporation, with offices at 1385 Akron
+         Street, Copiague, New York 11726 ("Seller") and Verizon Services Corp.,
+         ("Customer"),  a Delaware  corporation,  with  offices at 240 East 38th
+         Street  New York,  New York  10016,  for the  benefit of itself and its
+         Affiliated  Entities  defined in this Agreement and listed at EXHIBIT A
+         hereof  entitled  "AFFILIATES:   VERIZON  WEST  (PRIOR  GTE  AFFILIATED
+         COMPANIES)",  which may be changed by Customer  upon written  notice to
+         Seller.
+
+(b)      An Affiliate  that issues an Order  hereunder  shall also be a Customer
+         and may enforce the terms and conditions of this Agreement with respect
+         to any Product or Service purchased by such Affiliate as though it were
+         a direct signatory to the Agreement.
+
+2.       TERM
+
+(a)      Effective date and Term.  This Agreement shall be effective on April 1,
+         2005 and shall  continue in effect until March 31, 2010 unless  earlier
+         terminated  or  extended.   This  Agreement   shall  be   automatically
+         terminated  unless  renewed  by the  mutual  written  agreement  of the
+         parties prior to the expiration of the term.
+
+(b)      Existing  Purchase  Orders  Continue.  The termination or expiration of
+         this Agreement  shall not affect the obligations of either party to the
+         other under  existing  Purchase  orders (POs)  issued  pursuant to this
+         Agreement  (except to the extent  orders are  terminated or modified in
+         accordance with the Section 8 hereof entitled "PURCHASE  ORDERS"),  but
+         such POs shall  continue  in effect as if this  Agreement  has not been
+         ended.
+
+3.       DEFINITIONS
+
+         The terms  defined in this  Section  shall have the  meanings set forth
+         below  whenever  they appear in this  Agreement,  unless the context in
+         which they are used clearly requires a different meaning or a different
+         definition is described for a particular Section or provision:
+
+(a)      "Affiliate"  means,  at any time, and with respect to any  corporation,
+         person or other entity, any other corporation, person or entity that at
+         such time,  directly or indirectly through one or more  intermediaries,
+         controls,  or is controlled by, or is under common  control with,  such
+         first corporation, person, or other entity. As used in this definition,
+         "Control"  means (a) the  possession,  directly or  indirectly,  of the
+         power to direct or cause the direction of the  management  and policies
+         of a corporation, person or other entity, whether through the ownership
+         of voting  securities,  or by contract or  otherwise,  or (b) direct or
+         indirect  ownership in the aggregate of twenty percent (20%) or more of
+         any  class of  voting or  equity  interests  in the other  corporation,
+         person  or  entity.   Affiliate  shall  also  include  those  companies
+         identified in EXHIBIT A hereof entitled "AFFILIATES VERIZON WEST (PRIOR
+         GTE  AFFILIATED  COMPANIES)",  which may be  changed by  Customer  upon
+         written notice.
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       1
+<PAGE>
+
+         Orders for Products or Services  under this  Agreement may be placed by
+         any Customer  Affiliate.  A Customer Affiliate that obtains or uses any
+         Product or Service  shall be entitled to all of the rights and benefits
+         afforded  to  Customer  under  this  Agreement  and  may  enforce  this
+         Agreement in its own name.
+
+(b)      "Order" means a purchase order, or other written  communication  and/or
+         electronic  transmission  that  Customer  may deliver to Seller for the
+         purchase of Product and/or Service.
+
+(c)      "Product" means all goods, supplies,  materials, parts, components, and
+         assemblies,  and  documentation  described  in  ATTACHMENT  B-1  hereof
+         entitled "DETAILED DESCRIPTION OF PRODUCTS AND SERVICES."
+
+(d)      "Specifications"  shall mean  specifications for the Product or Service
+         as set forth in an Order,  as well as Seller's  then current  published
+         specifications and user documentation,  and Customer's  requirements as
+         set forth in the exhibits  hereto or otherwise  communicated to Seller,
+         and applicable industry and government requirements.
+
+4.       SCOPE
+
+(a)      This  Agreement is for the benefit of all U. S. and foreign  Affiliates
+         of Customer. Customer may purchase for its own use, to provide services
+         to third parties, or for distribution,  Seller's Product.  Reference to
+         "Customer" shall include Affiliates.
+
+(b)      This  Agreement is  nonexclusive  and shall not be construed to require
+         Customer to purchase any  specific  amount of Product from Seller or to
+         require Customer to sell any, all or a portion of Product it orders, or
+         restrict the  purchase,  resale and/or  distribution  of Product to any
+         geographic area. This is an "as ordered" agreement.
+
+(c)      This  Agreement  does not by itself order any Product.  Customer  shall
+         order Product by submitting an Order and Seller shall fulfill the Order
+         as  specified  in Section 8 for (i) Product  listed in  ATTACHMENT  B-2
+         hereof entitled  "PRODUCT AND SERVICES  PRICES" at the prices specified
+         and (ii) other Product or Service for which Seller  accepts an Order at
+         the price as quoted to Customer in writing.
+
+(d)      In order to facilitate international purchases of Products, the parties
+         may find it convenient to enter into separate agreements between Seller
+         and Customer and/or their respective  affiliates authorized to conduct,
+         or  to  negotiate  for  the  right  to  conduct,  business  in  foreign
+         countries.  The parties agree to use their best commercially reasonable
+         efforts, to assure that the terms and conditions of any such agreements
+         are consistent with the terms and conditions of this Agreement, subject
+         to applicable requirements of local law and business practice.
+
+(e)      This is not an exclusive dealings agreement.
+
+(f)      The Product  Delivery  Interval is set forth in  ATTACHMENT  B-3 hereof
+         entitled  "PRODUCT  DELIVERY  INTERVAL"  of  EXHIBIT B hereof  entitled
+         "COMPONENTS OF PRODUCT AND SERVICES."
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       2
+<PAGE>
+
+5.       CUSTOMER'S OPTIONS UNDER THE AGREEMENT
+
+(a)      Internal  Use. If Customer  orders  Product for internal  use, then the
+         provisions  of EXHIBIT D hereof  entitled  "PURCHASE FOR INTERNAL USE -
+         WARRANTY AND PRODUCT  SUPPORT," shall apply.  Internal use includes use
+         by Customer, its Affiliates, employees, agents and subcontractors,  and
+         use whereby Customer  provides  services to third parties in the normal
+         course of its business.
+
+6.       SOFTWARE LICENSE - NOT APPLICABLE
+
+7.       PRICE AND TERMS OF PAYMENT
+
+7.1      PRICES PRODUCTS AND SERVICES
+
+(a)      Prices. Products and Services will be furnished by Seller in accordance
+         with the prices stated in ATTACHMENT B-2 hereof  entitled  "PRODUCT AND
+         SERVICE  PRICES."  All  costs  and  prices   identified   include  full
+         compliance with all terms and conditions of this Agreement. Such prices
+         shall be  applicable  to Orders  issued to  Seller by  Customer  at the
+         location and by the method agreed to by the parties.
+
+(b)      Increase  During  Term.  Seller  shall  not,  during  the  term of this
+         Agreement,  increase  the prices for PRODUCT or SERVICES  specified  in
+         ATTACHMENT B-2 hereof entitled "PRODUCT AND SERVICES PRICES."
+
+(c)      Reductions.  Price  reductions  may be initiated by Seller at any time.
+         Any price decrease shall be effective  immediately upon announcement by
+         Seller and shall  apply to all Orders that have not been  processed  by
+         Customer for payment to Seller.  In addition,  Customer  shall  receive
+         credit or refund,  at Customer's  option,  within thirty (30) days, for
+         the difference between the price paid by Customer and the reduced price
+         for all affected Products still in customer's inventory.
+
+(d)      Continuous  Improvements.  Seller and Customer shall identify areas for
+         Seller's continuous  improvement in cost, quality, and service over the
+         term of this  Agreement.  Seller shall  afford  Customer the ability to
+         realize such improvement including price reductions.
+
+(e)      New Technology  Replacement.  Customer and Seller recognize that Seller
+         may develop and market new Product ("New Technology") that are designed
+         to enhance or  replace  the  Product  provided  for in this  Agreement.
+         Seller  agrees to include  the New  Technology  as part of its  Product
+         offerings  within the terms  provided for in this  Agreement,  and at a
+         price  for   comparable,   successor,   or   substitute   features  and
+         functionality,  no greater  than the  pricing,  for Product or Purchase
+         volumes stated within this Agreement, subject to the following:
+
+         Seller
+
+                  1.       New  Technology  shall only be  furnished to Customer
+                           pursuant to a written amendment hereto and for former
+                           GTE companies in  accordance  with section 6 entitled
+                           "Product  Changes" of ATTACHMENT K-2 hereof
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+
+                                       3
+<PAGE>
+
+                           entitled  STANDARDIZATION  - VERIZON  WEST",  and for
+                           former Bell  Atlantic  companies in  accordance  with
+                           section  1   entitled   "Changes   to   Hardware   or
+                           Software/Product  Change  Notices" of ATTACHMENT  K-1
+                           hereof  entitled  "STANDARDIZATION  -  VERIZON  EAST"
+                           including  the notice  requirements  therein,  except
+                           that price reductions may be made at any time.
+
+                  2.       New  Technology  shall be priced at the same or lower
+                           price  for  comparable,   or  successor,   substitute
+                           features and  functionality,  as the replaced Product
+                           in  accordance  with the  mutual  goal of  Continuous
+                           Improvement.
+
+                  3.       In the event New Technology  will cause the Seller to
+                           incur  greater  per-unit  costs  compared  to current
+                           Product  but  will  offer   substantially   increased
+                           capacity  or  features  which will allow  Customer to
+                           reduce its total  costs or offer more  services  such
+                           that Seller  believes a price  increase is justified,
+                           then:
+
+                           3(i).    Seller  shall  provide to Customer a written
+                                    detailed  explanation of such proposed price
+                                    increase   including  a  breakdown   of  the
+                                    additional  costs  incurred by the Seller in
+                                    providing   such   Product   and  how   such
+                                    additional  features or capacity  shall help
+                                    reach the goal of Continuous Improvement.
+
+                           3(ii).   Seller shall ensure  continued  availability
+                                    of the  current  Product  during the Term at
+                                    the same or lower price as stated in EXHIBIT
+                                    B-3  hereof   entitled   "PRODUCT   DELIVERY
+                                    INTERVAL"   unless   otherwise   agreed   to
+                                    pursuant  to a  written  amendment  to  this
+                                    Agreement.
+
+                  4. All such proposed changes to ATTACHMENT B-3 hereof entitled
+                  "PRODUCT  DELIVERY  INTERVAL"  shall be subject to  Customer's
+                  written  Agreement  evidenced  by a written  amendment to this
+                  Agreement .
+
+(f)  New Technology  Additions Seller may propose the addition of New Technology
+     to ATTACHMENT  B-1 hereof  entitled  "DETAILED  DESCRIPTION  OF PRODUCT AND
+     SERVICE" which is not intended to replace or upgrade  current  PRODUCT("New
+     Technology Addition").  Seller shall provide a detailed written explanation
+     of how such New Technology  Addition will meet the joint goal of Continuous
+     Improvement.  All proposed New Technology Additions shall only be furnished
+     to Customer  pursuant to a written  Amendment to this Agreement or pursuant
+     to a separate written agreement between the parties.
+
+7.2      FIRM PRICE QUOTE - NOT APPLICABLE
+
+7.3      MOST FAVORED CUSTOMER
+
+(a)      Seller represents that all of the prices,  warranties,  benefits, terms
+         and  conditions  granted to  Customer  by Seller  hereunder  will be as
+         favorable as the prices,  warranties,  benefits,
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       4
+<PAGE>
+
+         terms and  conditions  granted to Seller's other  commercial  customers
+         under like or similar circumstances.
+
+(b)      If at any time during the term of this  Agreement,  Seller  shall offer
+         more favorable prices,  warranties,  benefits, terms, or conditions for
+         substantially the same or similar Product or Services as those provided
+         hereunder, then:
+
+                  1. Seller  shall,  within thirty (30) days after the effective
+                  date  of  such  offering,  notify  Customer  of  such  fact in
+                  accordance  with Section 33 hereof,  entitled  "NOTICES",  and
+                  offer Customer the more  favorable  offering and negotiate any
+                  additional differentiating factors; and
+
+                  2. This Agreement and all applicable Orders shall be deemed to
+                  be  automatically  amended,  effective  retroactively  to  the
+                  effective  date of the more  favorable  offering,  and  Seller
+                  shall provide the same prices, warranties, benefits, terms and
+                  conditions to Customer; and
+
+                  3.  Customer  shall  have the right to  decline  to accept the
+                  offering,  in which event such  automatic  amendment  shall be
+                  deemed to be void.
+
+(c)      Seller's  compliance  with this clause shall be subject,  at Customer's
+         option,  to independent  verification in accordance with the Section 11
+         hereof, entitled "RECORDS AND REPORT."
+
+7.4      DISTINGUISH PAYMENT AND ACCEPTANCE.
+
+         Payment by  Customer of such  invoices  does not mean or imply that the
+         Product  has been  accepted  and does  not  impair  or limit in any way
+         Customer's  full rights and  remedies  which shall be and remain as set
+         forth hereof.
+
+7.5      INVOICES FOR FIRM PRICE QUOTES - NOT APPLICABLE
+
+7.6      CRITICAL MILESTONES
+
+         Seller agrees to the schedule  attached hereto as EXHIBIT B hereof with
+         ATTACHMENTS  B-1 hereof entitled  "DETAILED  DESCRIPTION OF PRODUCT AND
+         SERVICES",  B-2 hereof entitled  "PRODUCT AND SERVICE PRICES",  and B-3
+         hereof entitled  "PRODUCT DELIVERY  INTERVAL",  which set forth certain
+         "Critical  Performance  Milestones"  which  must  occur  as part of the
+         Project and the dates by which Seller has represented  that each of the
+         products will be available to Buyer (the "Critical Performance Dates").
+         In the event Seller fails to meet a Critical  Performance  Date, Seller
+         shall be  considered  in  breach  of  contract  and  shall be liable to
+         compensate  Customer  in  accordance  with  EXHIBIT  I hereof  entitled
+         "PERFORMANCE COMPENSATION PAYMENTS."
+
+7.7      FEATURE AVAILABILITY
+
+(a)      Seller shall make any new features and  innovations in  architecture or
+         functionality in the PRODUCT,  available to Customer during the term of
+         this Agreement.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       5
+<PAGE>
+
+8.       PURCHASE  ORDERS;   CANCELLATION  OF  PURCHASE  ORDERS,  REVOCATION  OF
+         ACKNOWLEDGEMENT
+
+(a)      An Order may be mailed,  sent by facsimile  transmission  or electronic
+         data interchange  (EDI).  Prior to initiating an EDI  transaction,  the
+         parties will execute an EDI Trading  Agreement which will set forth the
+         terms and  conditions of EDI  transactions  (attached as ATTACHMENT E-1
+         hereof entitled "ELECTRONIC DATA INTERCHANGE (EDI)").
+
+(b)      Seller shall be obligated to acknowledge Orders within ten (10) days of
+         receipt, without conditioning such acknowledgement on the acceptance by
+         Customer  of any terms  inconsistent  with or in  addition to those set
+         forth in this Agreement.  Upon  acknowledgement,  the Order and related
+         acknowledgement  shall  constitute a binding  contract for the purchase
+         and sale of the applicable  Product  governed by the provisions of this
+         Agreement, as such provisions may be modified as provided herein.
+
+(c)      Seller may  enforce  each Order only  against  the  Affiliate  that has
+         submitted the Order. Default by an Affiliate shall not affect any other
+         Affiliate party to this Agreement.
+
+(d)      If an  Affiliate  shall  be in  material  breach  or  default  of  this
+         Agreement,  including,  but not limited to, timely  payment for Product
+         purchased  and such breach  shall  continue for a period of thirty (30)
+         days after receipt of Seller's written notice, then, in addition to all
+         other rights and remedies of law or equity or  otherwise,  Seller shall
+         have the right to suspend delivery of Product on outstanding  Orders or
+         revoke existing acknowledgements only with respect to such Affiliate.
+
+(e)      If Seller shall be in material breach or default of this Agreement, and
+         such  breach  shall  continue  for a period of thirty  (30) days  after
+         Seller's  receipt  of  Customer's  written  notice  thereof,  then,  in
+         addition  to  all  other  rights  and  remedies  of law  or  equity  or
+         otherwise,  Customer  shall  have the right to  immediately  cancel all
+         applicable  Orders  without any  obligation  or liability to Seller for
+         said  cancellation.  However,  if Seller  fails to tender  delivery  of
+         Product on the respective  date agreed upon or as set forth in Seller's
+         acknowledgement,  then  Customer  shall  have the right to  immediately
+         cancel all applicable Orders without further obligation or liability to
+         Seller for said cancellation with the exception of Seller's inventories
+         of Product  which are private  labeled for  Customer  and not  saleable
+         elsewhere,  or any  obligation to provide  Seller a time period to cure
+         said breach.
+
+(f)      Unless  specified  otherwise  in  an  Exhibit  or  Attachment  to  this
+         Agreement,  Customer may reschedule Orders for convenience, in whole or
+         in part, without  obligation or liability,  by providing written notice
+         to Seller at least ten (10) days before  scheduled ship date of Product
+         or date Service is to be rendered.
+
+(g)      Existing  Purchase  Orders  Continue.  The termination or expiration of
+         this Agreement  shall not affect the obligations of either party to the
+         other under  existing  Purchase  Orders (POs)  issued  pursuant to this
+         Agreement  (except to the extent  orders are  terminated or modified in
+         accordance with the Section entitled "PURCHASE  ORDERS"),  but such POs
+         shall continue in effect as if this Agreement had not been ended.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       6
+<PAGE>
+
+(h)      Change Order.  Customer may, by issuing a written document labeled as a
+         "Change  Order",  make  changes  to a PO. If any change  required  by a
+         Change  Order alters the value of the  Products  ordered,  Seller shall
+         promptly notify Customer and Seller shall adjust the price accordingly.
+         If the  amount  of  the  price  adjustment  is not  specified  in  this
+         Agreement,  then  the  amount  of any  change  in price  caused  by the
+         adjustment  may be no greater  than  Seller's  reasonable  documentable
+         increased costs and expenses. Seller shall notify Customer within three
+         (3) business  days of Seller's  receipt of a Change Order if the Change
+         Order will cause an increase in price. Customer may, at its discretion,
+         agree to the changed price or withdraw the underlying Change Order.
+
+9.       PAYMENT TERMS, BILLING
+
+(a)      Payment Due Date. Payment for Product shall be due 30 days from date of
+         receipt of goods, or receipt of an undisputed invoice, whichever occurs
+         later,  unless  payment terms more  favorable to Customer are stated on
+         Seller's  invoice and  Customer  elects to pay on such terms.  However,
+         payment shall not indicate acceptance of any Product .
+
+(b)      Disputed  Invoices,  Right of Set Off. If Customer  disputes all or any
+         portion of an invoice,  it shall be required to pay only the amount not
+         in dispute.  Customer  shall be  entitled to set off any amount  Seller
+         owes it against  amounts  payable  under  this or any other  Agreement.
+         Payment  by  Customer  shall not  result in waiver of any of its rights
+         under this Agreement. Customer shall not be obligated to pay Seller for
+         Services that are not fully and properly invoiced.
+
+(c)      Invoices For Charges Specified in an Order.  Seller shall not issue and
+         invoice for Product  prior to shipment of such  Product.  Invoices  for
+         charges  specified  in an Order  shall be  submitted  by  Seller to the
+         address  specified in the Order.  Invoices  shall  include,  but not be
+         limited to, (i) Order  number;  (ii) Order line number;  (iii)  Product
+         identification  number; (iv) ship to address;  (v) quantity shipped and
+         billed; (vi) net unit cost; and (vii) net invoice amount.
+
+10.      INVENTORY RETURN - NOT APPLICABLE
+
+         As Product is private labeled for Customer,  and therefore not saleable
+         to others, this section is not applicable.
+
+11.      RECORDS AND REPORTS
+
+(a)      Complete  Records.  Seller shall maintain complete and accurate records
+         of all invoices, all amounts billable to and payments made by Customer,
+         in accordance  with generally  accepted  accounting  practices.  Seller
+         shall retain and make  available upon request such records for a period
+         of six (6)  years  from  the  date of  final  shipment  of  Product  or
+         rendering of services covered by this Agreement.
+
+(b)      Monthly Purchase Report. When requested by Customer,  Seller shall, for
+         all Orders  placed  directly  with Seller,  provide  Customer a monthly
+         purchase  report by  ordering  location,  listing  Product  and Service
+         purchased under this  Agreement,  including  description,  part number,
+         quantities shipped, and associated list and net prices.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       7
+<PAGE>
+
+(c)      Seller agrees to provide reasonable supporting documentation concerning
+         any disputed  amount(s)  within twenty (20) days after  Customer or its
+         Affiliates provides written notification of the dispute to the Seller.
+
+(d)      Customer and Seller shall mutually agree upon the  independent  auditor
+         who, at Customer's  option,  shall audit  Seller's  records of Seller's
+         transactions with its other commercial customers (provided the identity
+         of such other commercial  customers shall not be disclosed to Customer)
+         for verification of comparable pricing and other commercial elements in
+         accordance with Section 7.3 hereof entitled "MOST FAVORED CUSTOMER" and
+         Seller's compliance with all other provisions of this Agreement. Seller
+         shall be responsible  for all  audit/verification  expenses  should the
+         audit  reveal or determine  that there is a deficiency  or violation of
+         Section 8 hereof entitled  "PURCHASE  ORDERS;  CANCELLATION OF PURCHASE
+         ORDERS;  REVOCATION OF  ACKNOWLEDGEMENT".  At Customer's  request,  the
+         independent  auditor  shall have access to the  Seller's  records,  for
+         purposes of audit during normal  business hours during the term of this
+         agreement and during the respective periods in which Seller is required
+         to maintain  such  records.  The accuracy of Seller's  billing shall be
+         determined from the results of such audits.
+
+(e)      Minority,  Woman  owned,  Disabled  and Vietnam  Era  Veteran  Business
+         Enterprises  (MWDVBE)   Utilization.   With  respect  to  the  Seller's
+         Compliance (as the Primary Seller) with Minority, Woman-owned, Disabled
+         and Vietnam  era Veteran  Business  Enterprises  (MWDVBE)  Utilization,
+         Seller must submit the Prime Seller  Quarterly  Reports as described on
+         the     website    and    submit    them    via    the    website    at
+         http://www.verizon.com/diversity/Sellers  to  Customer  on a  quarterly
+         basis thirty (30) business days  following the end of each quarter.  In
+         addition,   Seller   (as  the   Primary   Seller)   agrees  to  provide
+         opportunities  for  MWDVBE in  accordance  with  ATTACHMENT  F-1 hereof
+         entitled  "PRIMARY  SELLER  CONTRACT  COMPLIANCE",  of EXHIBIT F hereof
+         entitled  "PRIMARY  SELLER   COMPLIANCE  WITH  MINORITY,   WOMAN-OWNED,
+         DISABLED  AND  VIETNAM  ERA  VETERAN  BUSINESS   ENTERPRISES   (MWDVBE)
+         UTILIZATION"  and before  executing this Agreement,  at the Request for
+         Proposal  (RFP)  Stage  shall  answer  the  questions  set forth in the
+         document entitled "MWDVBE RFP QUESTIONNAIRE."
+
+12.      BAR CODING
+
+         Seller  agrees to comply with the standards for Bar Coding as specified
+         in  ATTACHMENT  G-1  hereof  entitled   "VERIZON   LOGISTICS   SHIPPING
+         INSTRUCTIONS", Section 6 entitled "PACKAGE LABELING INSTRUCTION.
+
+13.      ELECTRONIC PURCHASING
+
+(a)      Electronic Data Interchange. Seller agrees to participate with customer
+         in the  development  of an electronic  data  interchange  (EDI) for the
+         communication   of  purchase   orders,   acknowledgements,   subsequent
+         invoicing or other data that may be communicated  between  customer and
+         seller.  Seller further agrees to the terms and conditions as set forth
+         in ATTACHMENT E-1 hereof entitled  "ELECTRONIC DATA INTERCHANGE  (EDI),
+         of  EXHIBIT  E  hereof  entitled  "ELECTRONIC   PURCHASING",   for  the
+         transmission of such electronically communicated data.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       8
+<PAGE>
+
+14.      PRECEDENCE OF DOCUMENTS
+
+(a)      All quotations, purchase orders, acknowledgements,  and invoices issued
+         pursuant to this Agreement shall be subject to the provisions contained
+         in this  Agreement.  The terms and  conditions of this  Agreement  will
+         control over any  conflicting or  inconsistent  terms  contained in any
+         quotation,  purchase order, acknowledgement or invoice. Unless Seller's
+         rejection is  forwarded to Customer  within ten (10) days of receipt of
+         the purchase  order,  the following  provisions,  as they relate to the
+         Product ordered pursuant to a particular purchase order, can be changed
+         by language  contained in that purchase order:  (i) the quantity,  (ii)
+         shipping instructions, or (iii) delivery date.
+
+(b)      Except for the changes  enumerated in Section 14 (a) (i-iii) above,  no
+         modification  to this  Agreement or additional  terms  contained in any
+         quotation, purchase order,  acknowledgement,  or invoice shall be valid
+         without the prior written approval of the authorized representatives of
+         the parties.
+
+15.      DELIVERY
+
+(a)      Title to a Product sold  pursuant to this  Agreement  shall pass at the
+         F.O.B.  point by Seller as  described  in  Section  15(b).  Any loss or
+         damage  to a Product  prior to the  passing  of title  shall be for the
+         account  and risk of Seller and after the passing of title shall be for
+         the account and risk of Customer.
+
+(b)      Shipments of Product may be made FOB Origin,  freight  collect  ("OC").
+         When  Customer  requests  Seller to arrange the  transportation  of the
+         Product,  Seller shall ship Product  freight collect in accordance with
+         the  Shipping  and  Carrier  Routing  Instruction,  EXHIBIT  G-2 hereof
+         entitled  "  VERIZON   TRANSPORTATION  ROUTING  INSTRUCTION  ",  (which
+         Customer may revise and provide to Seller),  unless otherwise specified
+         on Customer's Order.
+
+(c)      Failure of Seller to ship Product in accordance with Customer's freight
+         routing  instructions  may result in  charge-backs to Seller for excess
+         freight charges.
+
+(d)      Unless  instructed  otherwise by  Customer,  Seller  shall,  for Orders
+         placed,  (i) see that all subordinate  documents bear Customer's  Order
+         number;  (ii) enclose a packing  list with each  shipment and when more
+         than one package is shipped,  identify the one  containing  the packing
+         list;  (iii) mark  Customer's  Order number on packages as required and
+         all shipping  papers;  (iv) render invoices  showing  Customer's  Order
+         number;  (v) render separate  invoices for each shipment or Order; (vi)
+         invoice Customer by mailing or otherwise transmitting invoices,  bills,
+         and  notices  to the  billing  address  on the  Order;  and (vii)  make
+         available a bill of lading upon  request.  If  requested  by  Customer,
+         Seller will forward shipping notices with invoices.
+
+(e)      Standard  delivery  intervals for Product shall be specified in EXHIBIT
+         B-3 hereof  entitled  "PRODUCT  DELIVERY  INTERVAL," and may be amended
+         only by a written  document signed by both parties.  Standard  delivery
+         intervals begin from the date of Seller's receipt of Customer's Order.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       9
+<PAGE>
+
+(f)      Seller shall ship Product to Customer within (i) the delivery intervals
+         specified in EXHIBIT B-3 hereof entitled  "PRODUCT DELIVERY INTERVAL ,"
+         (which  do not  include  in-transit  interval),  or (ii)  as  otherwise
+         provided by Seller to Customer in a purchase order  acknowledgement  or
+         other written means  (provided that such time period is not longer than
+         the time  period  specified  in EXHIBIT  B-3 hereof  entitled " PRODUCT
+         DELIVERY  INTERVAL,"  without Customer's written request or agreement).
+         If Seller  fails to meet a  delivery  date,  Customer  may  require  an
+         expedited delivery, with any additional costs to be borne by Seller, or
+         Customer may cancel all or part of the Order in accordance with Section
+         8 hereof entitled  "PURCHASE  ORDERS;  CANCELLATION OF PURCHASE ORDERS;
+         REVOCATION  OF  ACKNOWLEDGMENT."  If Product is delivered  ahead of the
+         delivery  date,  Customer may withhold  payment for Product until after
+         the specified  delivery  date or place Product in storage,  at Seller's
+         expense, until the specified delivery date.
+
+         In no event will Customer be liable for Premium  shipping  modes unless
+         previously  authorized.   Shipping  and  routing  instructions  may  be
+         altered,  orally or in writing,  as mutually  agreed upon by Seller and
+         Customer. If requested by Customer,  Seller agrees to substantiate such
+         charges by providing  Customer with the original freight bill or a copy
+         thereof.
+
+(g)      Product shall be packaged for shipment,  at no  additional  charge,  in
+         commercially suitable containers,  consistent with all applicable laws,
+         that provide  protection  against damage during the shipment,  handling
+         and storage of the Product in reasonably dry, unheated quarters.
+
+ (h)     Stock  Provision:  Seller  shall  maintain on its  premises,  stocks as
+         agreed to. Should  Customer's  abnormal demand deplete  Seller's safety
+         stocks, Seller shall be given an adequate period of time, not to exceed
+         90 days,  to  replenish  said  stock.  During the last  quarter of this
+         Agreement term,  Seller will be required to discontinue  production and
+         deplete  the  inventory  down to zero  unless  specifically  authorized
+         otherwise in writing by Customer.  Customer's liability will be limited
+         to the quantities of Product inventory.
+
+(i)      Forecast and  Abnormal  Demand:  Customer  shall upon request by Seller
+         make  a  reasonable   effort  to  share  with  Seller  its   forecasted
+         requirements and Customer's inventories for the Products to be provided
+         under this Agreement.  In the case of Abnormal  Demand,  which shall be
+         defined as an unforecasted  requirement or any other unforeseen  event,
+         the Seller's set delivery interval may be altered as mutually agreed by
+         both  parties.  It is  understood  that the  Seller  shall use its best
+         efforts to provide the Products in an expeditious manner as outlined in
+         section 22 (c) entitled  Extraordinary  Support.  Customer shall not be
+         liable or  obligated to Seller as a result of a failure to purchase its
+         forecasted requirements.
+
+16.      BILL OF SALE
+
+         Seller shall,  upon request and after payment by Customer,  execute and
+         deliver  to  Customer  a bill of sale or  similar  document  evidencing
+         conveyance of Product,  free and clear of all liens, security interests
+         and encumbrances.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       10
+<PAGE>
+
+17.      INSPECTION AND ACCEPTANCE
+
+(a)      All product shall be subject to inspection by Customer  after  delivery
+         to determine  conformity with Customer's order and seller's  advertised
+         or published specifications. Unless otherwise mutually agreed, Customer
+         shall have a period of ninety (90) days following arrival of product at
+         the delivery destination  specified by Customer within which to inspect
+         the  product  for  conformity  with   Customer's   order  and  seller's
+         advertised  and  published  specifications  and to provide  Seller with
+         written notice of any discrepancy or rejection. If the product is to be
+         installed  by Customer,  Customer  shall have the longer of thirty (30)
+         days following such installation or following  completion of any Seller
+         independent  testing  period within which to complete such  inspection,
+         provided that  installation  shall occur not more than thirty (30) days
+         from delivery.  Following notification by Customer, if Seller is unable
+         to or  replace  product  that  does not  conform,  in whole or in part,
+         within  twenty (20)  business days or such lesser time as is determined
+         by customer  to be  reasonable,  then  Customer  may return  product to
+         Seller,  at  Seller's  risk and  expense,  and  receive a refund of all
+         amounts  paid with respect to the  returned  product.  For such product
+         returns,  Customer  shall  notify  seller and arrange for the return of
+         product .
+
+         Inspection  or  failure to  inspect  on any  occasion  shall not affect
+         Customer's rights under the "WARRANTY"  provisions of this Agreement or
+         any  other  rights  or  remedies  available  to  Customer,  under  this
+         Agreement.
+
+(b)      Customer's  right to inspect and test does not relieve  Seller from its
+         testing,  inspection  and  quality  control  obligations.  Time used by
+         Seller to correct  nonconformities as described in (a) and for Customer
+         or Seller to retest  nonconforming  Products  shall  extend  Customer's
+         allowable time for inspection and acceptance or rejection.
+
+18.      PRODUCT WARRANTIES, SERVICES AND SUPPORT
+
+(a)      Seller shall provide  warranties  and Product,  Services and Support as
+         set forth in EXHIBIT D hereof  entitled  "PURCHASE  FOR INTERNAL USE -,
+         WARRANTY AND PRODUCT SUPPORT."
+
+(b)      Seller  warrants that it will disclose all potential or actual  product
+         defects in accordance with  ATTACHMENT D-8 hereof entitled  "DISCLOSURE
+         OF POTENTIAL DEFECTS."
+
+19.      INFORMATION AND INTELLECTUAL PROPERTY.
+
+(a)      Information  Defined.  The term  "Information"  includes:  programs and
+         related documentation;  specifications, drawings, models, technical and
+         business data and plans;  works of authorship and other creative works;
+         and ideas,  knowledge and know-how.  Information  may be transmitted in
+         writing (or other tangible form) or orally.
+
+(b)      No Seller Confidential  Information.  No Information Seller provides to
+         Customer  (even if labeled or otherwise  designated as  proprietary  or
+         confidential)  shall be  considered by Customer to be  confidential  or
+         proprietary.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       11
+<PAGE>
+
+(c)      Customer Information.  Information that Customer furnishes to Seller or
+         that Seller otherwise comes into contact with under this Agreement will
+         remain  Customer's  property.  Seller will return such  Information  to
+         Customer upon  termination  of the  Agreement or at Customer's  earlier
+         request. Unless such Information was previously known to Seller free of
+         any obligation to keep it confidential or is made public by Customer or
+         a third party  without  breach of any  agreement,  Seller will keep the
+         Information confidential and use it only in performing this Agreement.
+
+         In addition, except with Customer's separate,  advance written consent,
+         in no event  shall  Seller  (i) store  Customer  Information  regarding
+         Customer's  systems,  infrastructure or customers outside of the United
+         States, (ii) make Customer  Information  regarding  Customer's systems,
+         infrastructure or customers available to persons located outside of the
+         United  States,  (iii) access any Customer  systems from outside of the
+         United States, or (iv) make access to any Customer systems available to
+         any person who is then located outside of the United States.
+
+(d)      Work  Product.  The  entire  right,  title and  interest  in all edits,
+         original  inventions and works of authorship  created by Seller,  or on
+         Seller's  behalf,   specifically  for  Customer  hereunder,   or  using
+         Customer's proprietary Information,  shall be transferred to and vested
+         in Customer.  All such works shall be  considered  to be made for hire.
+         Seller  agrees  to  provide  documentation  and to sign  all  documents
+         prepared or supplied by Customer which Customer  believes are necessary
+         to  ensure  the  conveyance  of all such  right,  title  and  interest,
+         including  patent,   trademark  and  copyright,   to  Customer.  It  is
+         understood  and  agreed  that  Seller  shall  retain  ownership  of all
+         pre-existing  Seller's intellectual  property,  even if included in the
+         Product, and all other intellectual property not created for Customer.
+
+(e)      No Seller Licenses. Customer does not grant Seller any license, express
+         or implied,  under any patent,  copyright,  trademark,  trade secret or
+         otherwise, except for the sole purposes of Seller's performance of this
+         Agreement.
+
+(f)      Publicity And Disclosure
+
+         1.       Seller  shall  not  provide  copies  of  this  Agreement,   or
+                  otherwise  disclose the terms of this Agreement,  to any third
+                  party without the prior written consent of Customer; provided,
+                  however,   that  Seller  may,  without  obtaining   Customer's
+                  consent,  provide  copies or make  disclosures  to prospective
+                  Customers  of the business of Seller or of any  Affiliate;  or
+                  for the purpose of obtaining  third party  financing;  and any
+                  regulatory or judicial body requesting such information.
+
+         2.       Customer  will not  approve  issuance  of a press  release  to
+                  announce  this or other  agreements  in which  the  Seller  is
+                  providing  products  or services  to  Customer,  other than in
+                  exceptional   situations  where  Customer  determines  that  a
+                  release would significantly benefit Customer. The Seller shall
+                  not, without  Customer's prior written  approval,  release any
+                  advertising,   sales  promotion,   press  releases  and  other
+                  publicity  matters  relating to the Product  furnished  or the
+                  Service performed pursuant to this Agreement,  when Customer's
+                  respective  name or mark is mentioned  or language  from which
+                  the  connection  of  said  name  or mark
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       12
+<PAGE>
+
+                  may be inferred or implied.  Customer may withhold approval in
+                  its sole discretion.
+
+20.      CUSTOMER'S PROPERTY AND TOOLING
+
+(a)      Customer Ownership.  Title to and the right to immediate  possession of
+         any property, including patterns, tools, molds, jigs, dies, information
+         provided in tangible form or made for Seller's  performance  under this
+         Agreement, and any other equipment or material,  furnished to Seller or
+         paid for by Customer shall vest in Customer. Seller may not furnish any
+         articles  made  therefrom to any other party  without the prior written
+         consent  of  Customer.  Seller  shall  keep  adequate  records  of such
+         property and Seller will safely store,  protect,  preserve,  repair and
+         maintain such property at Seller's expense.
+
+(b)      Customer Disclaimer of Warranties. If Customer allows Seller to use any
+         of Customer's tools or equipment, such tools and equipment are supplied
+         to Seller  "AS-IS" with no warranties  whatsoever.  CUSTOMER  EXPRESSLY
+         DISCLAIMS ALL WARRANTIES,  INCLUDING ANY WARRANTIES OF  MERCHANTABILITY
+         AND FITNESS FOR A PARTICULAR PURPOSE. It is Seller's  responsibility to
+         inspect  the tools and  equipment  to assure that they are safe and fit
+         for their intended purposes.  Seller shall indemnify and hold Customer,
+         as well as any Customer Affiliate, harmless against any claims, demands
+         and  liabilities  that  result  from  Seller's  use of such  tools  and
+         equipment,  including,  but not  limited  to, any  claims,  demands and
+         liabilities  resulting  from defects or other failures of the tools and
+         equipment,  the inadequacy of a tool or equipment for a particular task
+         or the failure to properly use any tool or equipment.
+
+21.      COMPLIANCE WITH LAWS
+
+(a)      Seller  shall comply with the  provisions  of all  applicable  federal,
+         state,  county  and  local  laws,  ordinances,  regulations  and  codes
+         (including   procurement  of  required   permits  or  certificates)  in
+         manufacturing,   assembling,  selling  and  providing  Product  and  in
+         performing its other obligations under this Agreement,  including,  but
+         not limited to, the standards promulgated under the Occupational Safety
+         and Health Act,  Executive Order 11246, as amended,  Section 503 of the
+         Vocational  Rehabilitation  Act of 1973,  as  amended,  the Vietnam Era
+         Veterans  Readjustment  Assistance Act of 1974, the Immigration  Reform
+         and Control Act of 1986,  the Civil  Rights Acts of 1964 and 1991,  the
+         Americans with Disabilities  Act, the Age  Discrimination in Employment
+         Act,  and all rules and  regulations  relative  to these Acts and other
+         applicable  equal employment  opportunity  laws, rules and regulations,
+         which are expressly  incorporated herein by reference.  Irrespective of
+         whether  a  specification  is  furnished,   if  Product  or  containers
+         furnished  are  required  to  be  constructed,  packaged,  labeled,  or
+         registered in a prescribed manner,  Seller shall comply with applicable
+         federal,  state or local laws. Seller shall indemnify  Customer against
+         all claims, loss or damage sustained because of its noncompliance.
+
+(b)      If  any  persons  furnished  under  the  Agreement  by  Seller  have  a
+         disability  as defined  in the  Americans  with  Disabilities  Act,  42
+         U.S.C.A. 12101 et seq. (the ADA), Seller shall, where required by Title
+         I  of  the  ADA  and  at  its   sole   expense,   provide   "reasonable
+         accommodations"  that  may  be  required  under  Title  I  of  the  ADA
+         including,  but not limited
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       13
+<PAGE>
+
+         to,  "auxiliary aids and services" to make aural,  visual  materials or
+         interpreters   available  to  individuals   furnished  by  Seller  with
+         impairments so that such  individuals are able to perform the essential
+         functions of the job they are  contracted  to perform.  Seller  further
+         agrees  to  indemnify  and  defend  Customer  for  any  losses,  fines,
+         reasonable  attorney  fees, or other  penalties that may be incurred or
+         assessed  upon  Customer  due to  Seller's  failure to comply  with the
+         provisions  of the  Title  I of the ADA  with  respect  to the  persons
+         furnished by Seller.
+
+(c)      Product  furnished  shall comply,  to the extent  applicable,  with the
+         requirements  of the  Federal  Communications  Commission's  Rules  and
+         Regulations, as may be amended, including those sections concerning the
+         labeling of such Product and the  suppression of radiation to specified
+         levels.  If  the  Product  generates   interference  harmful  to  radio
+         communications,  and such Product was installed in accordance with such
+         Rules and  Regulations,  then Seller shall provide to Customer  methods
+         for  suppressing  the  interference.  If  the  interference  cannot  be
+         reasonably  suppressed,  Seller  shall  accept  return of the  Product,
+         refund to Customer the price paid for the Product and bear all expenses
+         for  removal and  shipment of such  Product.  Nothing  herein  shall be
+         deemed to diminish or otherwise  limit Seller's  obligations  under the
+         "WARRANTY"  provisions of this Agreement  herein or any other rights or
+         remedies available to Customer, whether at law or in equity.
+
+(d)      When Product  furnished under this Agreement is subject to registration
+         under  Part 68 of the  Federal  Communications  Commission's  Rules and
+         Regulations  as they may be  amended  from  time to time  ("Part  68"),
+         Seller  warrants that such Product  furnished  under this  Agreement is
+         registered  under and complies with Part 68 including,  but not limited
+         to, all  labeling  and customer  instruction  requirements  unless such
+         Product is furnished  as part of a technical  field trial or unless the
+         Product is provided  for  services not covered or exempt under Part 68.
+         Seller agrees to defend and hold Customer  harmless from any liability,
+         claim  or  demand   (including  the  costs,   expenses  and  reasonable
+         attorney's  fees on  account  thereof)  that may arise out of  Seller's
+         non-compliance  with Part 68. Customer agrees to promptly notify Seller
+         of any liability,  claim or demand against Customer for which Seller is
+         responsible  under this clause and gives  Seller full  opportunity  and
+         authority to assume the defense,  including appeals, and to settle such
+         liability,  claims and demands,  provided  that if Customer  reasonably
+         believes  that  Seller  is not  adequately  handling  such  defense  or
+         settlement,  Customer  reserves  the right to  assume  the  defense  or
+         settlement.
+
+22.      FORCE MAJEURE
+
+(a)      Force  Majeure.  Neither  party shall be  responsible  for any delay or
+         failure in performance of any part of this Agreement to the extent that
+         such  delay or  failure  is  caused  by fire,  flood,  explosion,  war,
+         embargo,  government requirement,  civil or military authority, acts of
+         God, terrorism, strikes, slowdowns,  picketing,  boycotts, or any other
+         circumstances beyond its reasonable control and not involving any fault
+         or negligence of the party affected (Condition).  If any such Condition
+         occurs,  the party delayed or unable to perform ("delayed party") shall
+         give written  notice to the other party Within five (5) business  days.
+         If such  Condition  remains at the end of thirty  (30) days,  the party
+         affected  by the  other's  delay or  inability  to  perform  ("affected
+         party") may elect to (i) terminate such purchase order or part thereof,
+         or (ii) suspend such purchase  order for
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       14
+<PAGE>
+
+         the duration of the Condition, and if Customer is the suspending party,
+         buy  elsewhere  comparable  material  to  that to be  sold  under  such
+         purchase order,  and apply to any commitment the purchase price of such
+         purchase,  and require the delayed party to resume  performance of such
+         purchase  order  once  the  Condition  ceases,  with an  option  in the
+         affected  party to extend the period of this Agreement up to the length
+         of time the Condition endured.
+
+(b)      Notices.  Unless written notice is otherwise given to the delayed party
+         by the affected  party within sixty (60) days after the affected  party
+         is notified of the Condition, (a)(ii) above shall be deemed selected.
+
+(c)      Extraordinary Support.
+
+         (1)      In addition to the provisions  for  replacement of Product set
+                  forth in EXHIBIT D hereof entitled "PURCHASE FOR INTERNAL USE,
+                  WARRANTY AND PRODUCT SUPPORT" Seller agrees,  in any event, if
+                  any natural or other  disaster or  emergency  causes an out of
+                  service  condition,  Seller shall use extraordinary  effort to
+                  locate or provide (i.e.  procure or  manufacture)  and ship to
+                  Customer  replacement Product within forty-eight (48) hours of
+                  verbal notification by Customer within the limits of available
+                  transportation.
+
+         (2)      Such  emergency  support  shall be available  twenty four (24)
+                  hours a day,  seven  (7) days a week  during  the term of this
+                  Agreement  and  for a  period  of ten  (10)  years  after  the
+                  expiration  of this  Agreement or survival of the  technology,
+                  whichever is greater.
+
+          (3)     Charges  for  replacement  Product  shall  be  at  the  prices
+                  contained  in  ATTACHMENT  B-2 hereof  entitled  "PRODUCT  AND
+                  SERVICES PRICES", for the term of this Agreement.
+
+          (4)     Extraordinary Support: Seller agrees to the extent possible to
+                  provide  extraordinary  support  (materials,  manpower,  etc.)
+                  within Seller's  resource and manpower  limitations to furnish
+                  abnormal  demand  for  Products  under this  Agreement  at the
+                  prices  listed  herein,  plus  any  additional   extraordinary
+                  support costs incurred to assist Customer in restoring service
+                  which has been disrupted  because of  catastrophic  conditions
+                  (fire, flood, etc.) Extraordinary  support shall be defined as
+                  that level of effort  required (i.e.,  including  overtime) to
+                  provide Products in a time frame that is mutually agreeable.
+
+23.      ASSIGNMENT
+
+(a)      No Seller Assignment. Seller may not assign any right or interest under
+         this  Agreement or a PO issued  pursuant to this  Agreement  (excepting
+         moneys due or to become due) or delegate  any work or other  obligation
+         owed by Seller under this Agreement without first obtaining the written
+         permission  of  Customer,   which  Customer  may  refuse  in  its  sole
+         discretion.  Any attempted assignment or delegation in contravention of
+         this section  shall be void and  ineffective.  Any  assignment of money
+         shall be void and  ineffective  to the extent that: (1) Seller fails to
+         provide Customer at least thirty (30) days prior written notice of such
+         assignment;  or (2) such
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       15
+<PAGE>
+
+         assignment attempts to impose upon Customer obligations to the assignee
+         in addition to the payment of such monies,  or preclude  Customer  from
+         dealing  solely and directly  with Seller in all matters  pertaining to
+         the  Agreement  including,  but not  limited  to,  the  negotiation  of
+         amendments or the settlement of charges due.
+
+(b)      Customer  Assignment.  Customer  may freely  assign all or part of this
+         Agreement.
+
+24.      TAXES
+
+(a)      The Seller and Customer  acknowledge  and agree that it is their mutual
+         objective and intent to legally minimize,  to the extent feasible,  the
+         aggregate  Federal,  state or local tax with respect to the products or
+         related services being purchased under this Agreement.
+
+(b)      With respect to any purchase products or services under this Agreement,
+         if any Federal, state or local tax excluding any tax levied on property
+         or income (a "Tax") is required by applicable  law to be collected from
+         Customer by Seller,  then (i) Seller will bill, as a separately  stated
+         item,  Customer for such Tax,  (ii) Customer will timely remit such Tax
+         to Seller, and (iii) Seller will timely remit such collected Tax to the
+         applicable taxing authority.
+
+(c)      If either Party is audited by a taxing authority or other  governmental
+         entity the other Party agrees to  reasonably  cooperate  with the Party
+         being  audited in order to respond to any audit  inquiries  in a proper
+         and timely  manner so that the audit and/or any  resulting  controversy
+         may be resolved expeditiously.
+
+(d)      If applicable law places the  responsibility on Seller to collect a Tax
+         from  Customer  and  Seller  fails  to do  so,  Customer  will  not  be
+         responsible  for any interest or  penalties  associated  with  Seller's
+         failure to collect such Tax.  Furthermore,  Seller shall not bill a Tax
+         to Customer on products or services under this Agreement  which are, by
+         law, not taxable.
+
+(e)      If an exemption  procedure  is  available,  such as a resale  exemption
+         certificate,  and Customer  complies with such  procedure,  then Seller
+         will not bill or collect  such Tax during the  effective  period of the
+         exemption.
+
+(f)      Customer's Purchase Order may provide Seller additional tax instruction
+         as  allowed by law  including,  but not  limited  to,  Customer's  self
+         accrual  and  payment  of  taxes,   temporary  storage,   research  and
+         development and/or other special jurisdictional exemptions.
+
+(g)      Seller will be responsible for personal property or ad valorem taxes on
+         property  owned by Seller and  Customer  will be  responsible  for such
+         taxes on property  owned by  Customer.  Each Party is  responsible  for
+         properly reporting owned property and neither Party will be responsible
+         for either  reporting or paying  personal  property or ad valorem taxes
+         owed by the other Party.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       16
+<PAGE>
+
+25.      PLANT AND WORK RULES AND RIGHT OF ACCESS
+
+(a)      The  respective  agents  and  employees  of the  parties,  while on the
+         premises of the other,  shall comply with all plant rules,  regulations
+         and company  standards for security,  including (when required by U. S.
+         government regulations) submission of satisfactory clearance from U. S.
+         Department of Defense and other federal authorities concerned.
+
+(b)      Each party shall permit  reasonable  access during normal working hours
+         to its facilities in connection with the work.  Reasonable prior notice
+         shall be given when access is required.
+
+(c)      If  Seller  is  given  access,   whether   on-site  or  through  remote
+         facilities,  to any Customer computer or electronic data storage system
+         in  order  for  Seller  to  accomplish  the  work  called  for in  this
+         Agreement,  Seller  shall  limit such  access and use solely to perform
+         work within the scope of this Agreement and shall not access or attempt
+         to access any  computer  system,  electronic  file,  software  or other
+         electronic   services  other  than  those   specifically   required  to
+         accomplish the work required under this  Agreement.  Seller shall limit
+         such access to those of its  employees  who are qualified and required,
+         subject  to  Customer  requiring  written  authorization,  to have such
+         access in connection with this Agreement, and shall strictly follow all
+         Customer's   security  rules  and  procedures  for  use  of  Customer's
+         electronic  resources.  All user  identification  numbers and passwords
+         disclosed to Seller and any information  obtained by Seller as a result
+         of Seller's  access to and use of  Customer's  computer and  electronic
+         data  storage  systems  shall be deemed to be, and shall be treated as,
+         Customer  Confidential  Information under applicable provisions of this
+         Agreement.   Seller   agrees  to   cooperate   with   Customer  in  the
+         investigation  of  any  apparent   unauthorized  access  by  Seller  to
+         Customer's  computer or electronic data storage systems or unauthorized
+         release of Confidential Information by Seller.
+
+(d)      Seller is  responsible  for  ensuring  that all of Seller's  employees,
+         agents, subcontractors or other persons furnished by Seller: (1) comply
+         with all plant rules,  regulations,  and security  procedures;  and (2)
+         work in harmony with all others working on the property of Customer and
+         its  Affiliates.  If Seller  installs  any  products on the premises of
+         Customer or its  Affiliate,  Seller shall be  responsible  for promptly
+         removing all packaging  materials and debris.  Seller may not bring any
+         toxic or  hazardous  materials  onto any  premises  of  Customer or its
+         Affiliate  without the  permission  of  Customer,  and Seller  shall be
+         responsible  for  removing  any such toxic or  hazardous  materials  in
+         accordance  with all relevant  laws,  section 34 entitled "NO HAZARDOUS
+         PRODUCTS AND COMPONENTS" and any additional requirements of Customer.
+
+26.      INDEMNIFICATION
+
+(a)      Indemnification.  Seller  shall  defend,  indemnify  and hold  harmless
+         Customer, its parents,  subsidiaries and affiliates,  and its and their
+         respective directors, officers, partners, employees, agents, successors
+         and assigns ("indemnified parties") from any claims, demands, lawsuits,
+         damages,   liabilities,   judgments  and   settlements  of  every  kind
+         ("claims")  that may be made:  (a) by anyone  for  injuries  (including
+         death) to persons or damage to property,  including theft, resulting in
+         whole or in part from the acts or
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       17
+<PAGE>
+
+         omissions of seller or those persons furnished by seller, including its
+         subcontractors  (if any);  (b) by persons  furnished  by Seller and its
+         subcontractors  (if any) under worker's  compensation  or similar acts,
+         (c) by anyone in  connection  with or based  upon  products,  services,
+         information or work provided by seller and its  subcontractors (if any)
+         or  contemplated  by this  agreement,  including  claims  regarding the
+         adequacy of any  disclosures,  instructions or warnings  related to any
+         such products or services; and (d) under any federal securities laws or
+         under any other statute,  at common law or otherwise  arising out of or
+         in  connection  with the  performance  by seller  contemplated  by this
+         agreement  or  any   information   obtained  in  connection  with  such
+         performance.  The foregoing  indemnification shall apply whether Seller
+         or an indemnified party defends such claim and whether the claim arises
+         or is alleged to arise out of the sole acts or  omissions of the Seller
+         (and/or any  subcontractor  of Seller) or out of the concurrent acts or
+         omissions  of Seller  (and/or  any  subcontractor  of  Seller)  and any
+         indemnified  parties.  Seller further agrees to bind its subcontractors
+         (if  any)  to  similarly  indemnify,   hold  harmless  and  defend  the
+         indemnified parties.
+
+(b)      No  Limitations.  The  obligations of this provision are in addition to
+         Seller's  obligation  to  provide  insurance  (pursuant  to  section 27
+         entitled  "INSURANCE"),  and shall not be limited by any  limitation on
+         the amount or type of  damages,  compensation  or  benefits  payable by
+         Seller  under  the  Worker's   Compensation   Acts,   Longshoremen  and
+         Harborworker's  Act,  Disability  Benefits  Act or any  other  employee
+         benefit act.
+
+(c)      Notices.  Customer  will  provide  Seller  with  written  notice of any
+         written claim covered by this  indemnification  and will cooperate with
+         seller in  connection  with Seller's  evaluation of such claim.  Seller
+         shall defend any indemnified party, at the indemnified party's request,
+         against any claim. Promptly after receipt of such request, Seller shall
+         assume the defense of such claim with counsel  reasonably  satisfactory
+         to the  indemnified  party.  Seller shall not settle or compromise  any
+         such claim or consent to the entry of any  judgment  without  the prior
+         written consent of each indemnified  party and without an unconditional
+         release of all claims by each  claimant or  plaintiff  in favor of each
+         indemnified party.
+
+27.      INSURANCE
+
+(a)      Limit  Requirements.  Seller  shall  secure and maintain at its expense
+         during the term of this  Agreement  (i)  Commercial  General  Liability
+         Insurance (including,  but not limited to,  premises-operations,  broad
+         form  property  damage,   products/completed  operations,   contractual
+         liability, independent contractors,  personal injury) with limits of at
+         least  $2,000,000.  combined single limit for each occurrence.  (Limits
+         may be satisfied with primary and/or excess  coverage.) (ii) Commercial
+         Automobile  Liability  with  limits  of at least  $2,000,000.  combined
+         single limit for each  occurrence.  (Limit may be reduced to $1,000,000
+         if contract does not require Seller to use vehicles to deliver products
+         or perform services.) (iii) Workers' Compensation insurance as required
+         by Statute,  and Employer's Liability insurance with limits of not less
+         than $1,000,000 per occurrence.
+
+(b)      Additional Requirements. The insurer must be licensed to do business in
+         the state in which the work is  performed  and must have  Bests  Rating
+         "AX" or better.  Seller  shall  deliver a  certificate  of insurance on
+         which VERIZON  Communications Inc., its
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       18
+<PAGE>
+
+         subsidiaries  and affiliates and named company Verizon  Services Corp.,
+         are  included  as  additional  insureds  with  reference  to (i) above.
+         Certificates  of  insurance  must be  provided  prior to any work being
+         performed and must be kept in force during the term of this  Agreement.
+         It is also agreed that Seller's policy is primary.
+
+(c)      No  Subrogation.  Seller shall waive its rights of subrogation  against
+         Customer for  Workers'  Compensation  claims.  Seller  shall,  prior to
+         rendering  such services,  furnish to the address  specified in Notices
+         provision of this Agreement,  certificates or evidence of the foregoing
+         insurance  indicating  the  amount  and  nature of such  coverage,  the
+         expiration date of each policy,  and stating that no material change or
+         cancellation  of any such policy shall be effective  unless thirty (30)
+         days' prior written notice is given to Customer.  Seller shall have the
+         option,  when  permitted  by  law,  to  self-insure  any  or all of the
+         foregoing risks.
+
+(d)      No Limitation.  Seller is responsible for determining whether the above
+         minimum insurance coverages are adequate to protect its interests.  The
+         above minimum  coverages do not  constitute  limitations  upon Seller's
+         liability.
+
+(e)      Endorsements.   The  policies   referred  to  above  shall  contain  an
+         endorsement naming Verizon as an Additional Insured and eliminating and
+         removing any  exclusion of liability  for i) injury,  including  bodily
+         injury and death,  to an  employee of the insured or of Customer or ii)
+         any obligation of the insured to indemnify,  hold  harmless,  defend or
+         otherwise make  contribution to Customer  because of damage arising out
+         of  injury,  including  bodily  injury  and death,  to an  employee  of
+         Customer.
+
+(f)      Self-Insure.   Should   Seller  elect  to   self-insure,   in  lieu  of
+         Certificates  of Insurance as stipulated  in this section  Seller shall
+         provide to Customer: (i) the self-insurance registration identification
+         number  assigned  by each  state in which  Seller  desires  to  provide
+         services  to  Customer  or  manufactures  Product;  (ii)  a  letter  of
+         certification  from  Seller's  insurance  carrier  or  self-  insurance
+         administrator that Seller is self-insured for the coverages and amounts
+         as  stipulated  in  this  Agreement,  including  that  Customer  is  an
+         additional insured and shall be indemnified and saved harmless from all
+         claims, suits, and liabilities as set forth within this Agreement;  and
+         (iii) a notification of the states in which Seller is provided coverage
+         under its self-insurance.
+
+28        INFRINGEMENT
+
+(a)      Infringement  Indemnification.  Seller shall indemnify, defend and hold
+         harmless   Customer  and  its  affiliates,   shareholders,   directors,
+         officers,  employees,  contractors,  and agents from all claims, suits,
+         demands, damages, liabilities,  expenses (including reasonable fees and
+         disbursements of counsel) judgments, settlements and penalties of every
+         kind  ("Claims")  arising  from or  relating  to any  actual or alleged
+         infringement or misappropriation of any patent,  trademark,  copyright,
+         trade  secret  or  any  actual  or  alleged   violation  of  any  other
+         intellectual  property  rights  arising from or in connection  with the
+         Products  provided  or the  Services  performed  under this  Agreement.
+         Notwithstanding  anything to the contrary  contained in this  Agreement
+         (including,   but  not   limited   to,   Section  26  hereof   entitled
+         "INDEMNIFICATION"  and  Section 27 hereof  entitled  "INSURANCE"),  the
+         provisions  of this  Section 28 hereof  entitled  "INFRINGEMENT"  shall
+         govern  the  rights  of  Customer  and  its  affiliates,  shareholders,
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       19
+<PAGE>
+
+         directors,   officers,   employees,    contractors,   and   agents   to
+         indemnification   for  Claims  of  infringement,   misappropriation  or
+         violation of intellectual property rights.
+
+(b)      Procedures.  The  procedures  set forth in Section  26 hereof  entitled
+         "INDEMNIFICATION"   shall   apply  in  the  case  of  any   claims   of
+         infringement,  misappropriation  or violation of intellectual  property
+         rights for which indemnification will be sought.
+
+         Without limitation of Section 26 hereof entitled "INDEMNIFICATION",  if
+         the sale or use of the Products or Services is enjoined,  Seller shall,
+         at Customer's option and Seller's expense, either:
+
+                  (1)      Procure for Customer the right to use the Products or
+                           Services;
+
+                  (2)      Replace the  Products or  Services  with  equivalent,
+                           non-infringing Products or Services;
+
+                  (3)      Modify  the  Products  or  Services  so  they  become
+                           non-infringing; or
+
+                  (4)      Remove  the  Products  or  Services  and  refund  the
+                           purchase     price,     including     transportation,
+                           installation, removal and other incidental charges.
+
+29.      CUSTOMER LIMITATION OF LIABILITY.
+
+         Seller agrees that neither Customer nor any Customer Affiliate shall be
+         liable for any consequential,  special, indirect, incidental,  punitive
+         or  exemplary  damages  for  any  acts or  failure  to act  under  this
+         Agreement.
+
+30.      RELATIONSHIP OF PARTIES
+
+(a)      Seller's Relationship.  In providing any Services under this Agreement,
+         Seller is  acting  solely as an  independent  contractor  and not as an
+         agent of any other party.  Persons furnished by the respective  parties
+         shall be solely the employees or agents of such parties,  respectively,
+         and shall be under the sole and exclusive direction and control of such
+         parties.  They shall not be considered employees of the other party for
+         any purpose.  Each party shall be responsible  for compliance  with all
+         laws,  rules and  regulations  involving  its  respective  employees or
+         agents,  including (but not limited to)  employment of labor,  hours of
+         labor, health and safety, working conditions and payment of wages. Each
+         party shall also be  responsible,  respectively,  for payment of taxes,
+         including federal,  state, and municipal taxes,  chargeable or assessed
+         with  respect  to its  employees  or agents,  such as social  security,
+         unemployment,  worker's compensation,  disability insurance and federal
+         and state income tax  withholding.  Neither  party  undertakes  by this
+         Agreement  or  otherwise  to  perform or  discharge  any  liability  or
+         obligation of the other party, whether regulatory or contractual, or to
+         assume any responsibility whatsoever for the conduct of the business or
+         operations of the other party.  Nothing  contained in this Agreement is
+         intended to give rise to a  partnership  or joint  venture  between the
+         parties  or  to  impose   upon  the   parties  any  of  the  duties  or
+         responsibilities of partners or joint venturers.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       20
+<PAGE>
+
+(b)      Customer's   Contractors.   Customer   reserves  the  right  to  enlist
+         contractors for engineering,  installation or maintenance services with
+         respect to Seller's Products.
+
+(c)      No  Subcontractors.  Seller shall not, without Customer's prior written
+         approval, subcontract any portion of the work to be performed hereunder
+         (for example,  including but unlimited to installation  and maintenance
+         services).
+
+31.      TERMINATION
+
+(a)      Without Cause.  Customer or Seller may terminate this Agreement without
+         cause,  effective  immediately,  upon  written  notice  to  the  other.
+         Termination shall not affect any purchase order placed, any subordinate
+         agreement executed prior to the date of termination,  or any fully paid
+         up license  granted to Customer.  Upon  termination  of this  Agreement
+         without  cause,  Customer  shall not be liable to  Seller,  either  for
+         compensation  or for  damages  of any  kind  or  character  whatsoever,
+         whether on  account  of the loss by Seller of  present  or  prospective
+         profits on sales or anticipated sales, or expenditures,  investments or
+         commitments made in connection with the  establishment,  development or
+         maintenance of Seller's  business,  or on account of any other cause or
+         thing  whatsoever  except  Customer's  liability  for  private  labeled
+         Product,  under Section 8 hereof.  The termination  shall not prejudice
+         the rights or  liabilities of the parties with respect to Product sold,
+         or any indebtedness then owing by either party to the other.
+
+(b)      For Insolvency, Court Action, or Assignment. Either party may terminate
+         this  Agreement,  effective  immediately,  without  liability  for said
+         termination,  upon  written  notice to the other  party,  if any of the
+         following events occur:
+
+                  1)       The other files a voluntary petition in bankruptcy;
+
+                  2)       The other is adjudged bankrupt;
+
+                  3)       A court  assumes  jurisdiction  of the  assets of the
+                           other under a federal reorganization act;
+
+                  4)       A trustee or receiver is appointed by a court for all
+                           or a substantial portion of the assets of the other;
+
+                  5)       The other becomes insolvent or suspends its business;
+
+                  6)       The other makes an  assignment  of its assets for the
+                           benefit of its  creditors,  except as required in the
+                           ordinary course of business;
+
+(c)      Material Breach.  Customer or Seller may terminate this Agreement for a
+         material breach or default of any of the terms, conditions or covenants
+         of this Agreement by the other,  provided that such  termination may be
+         made only  following the  expiration of a thirty (30) day period during
+         which the other party has failed to cure such breach  after having been
+         given written notice of such breach. This subsection shall not apply to
+         Customer's cancellations or Seller's revocations under Section 8 hereof
+         entitled "PURCHASE ORDERS;  CANCELLATION OF PURCHASE ORDERS; REVOCATION
+         OF ACKNOWLEDGEMENT."
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       21
+<PAGE>
+
+(d)      Termination  by Seller  for  Non-Payment:  Seller  may  terminate  this
+         Agreement,  or cancel an Order(s) for non-payment of the purchase price
+         and then only if after sixty (60) days of receipt of written  notice of
+         non-payment in accordance with Section 33 hereof,  entitled  "NOTICES",
+         Customer fails to pay such purchase  price and thereupon  Seller issues
+         its written  notice of default and Customer  fails to pay such purchase
+         price  within  ten (10)  business  days of  receipt  of such  notice of
+         default.  In no way shall  such  termination  act to impair  Customer's
+         right, title and interest to the Product purchased hereunder, and under
+         Section 19 hereof entitled "INFORMATION AND INTELLECTUAL  PROPERTY" and
+         under and Section 28 hereof entitled "INFRINGEMENT."
+
+32.      DISPUTE RESOLUTION
+
+(a)      Nature of Dispute  Resolution.  The parties  desire to resolve  certain
+         disputes,  controversies  and  claims  arising  out of  this  Agreement
+         without litigation.  Accordingly,  except in the case of (i) a dispute,
+         controversy or claim relating to a breach or alleged breach on the part
+         of either party of the  provisions of Section 19 entitled  "INFORMATION
+         AND INTELLECTUAL PROPERTY", (ii) a suit, action or proceeding to compel
+         Seller to comply with its obligations to indemnify Customer pursuant to
+         this  Agreement or (iii) a suit,  action or proceeding to compel either
+         party to comply with the  dispute  resolution  procedures  set forth in
+         this Section 32 hereof entitled "DISPUTE RESOLUTION", the parties agree
+         to use the  following  alternative  procedure as their sole remedy with
+         respect to any dispute, controversy or claim arising out of or relating
+         to this Agreement or its breach.  The term "Dispute" means any dispute,
+         controversy  or claim to be  resolved  in  accordance  with the dispute
+         resolution  procedure  specified  in this  Section  32 hereof  entitled
+         "DISPUTE RESOLUTION."
+
+(b)      Procedure.  At the written request of a party, each party shall appoint
+         a knowledgeable,  responsible  representative  to meet and negotiate in
+         good faith to resolve any Dispute  arising  under this  Agreement.  The
+         parties  intend that these  negotiations  be  conducted  by  nonlawyer,
+         business  representatives.   The  discussions  shall  be  left  to  the
+         discretion of the representatives.  Upon agreement, the representatives
+         may utilize other  alternative  dispute  resolution  procedures such as
+         mediation to assist in the negotiations. Discussions and correspondence
+         among the  representatives  for purposes of these negotiations shall be
+         treated  as   confidential   information   developed  for  purposes  of
+         settlement,  shall be exempt from discovery and  production,  and shall
+         not be  admissible  in  any  lawsuit  without  the  concurrence  of all
+         parties.  Documents identified in or provided with such communications,
+         which are not  prepared for  purposes of the  negotiations,  are not so
+         exempted and may, if otherwise  admissible,  be admitted in evidence in
+         the lawsuit.
+
+(c)      Remedies  At Law or Equity.  If the  negotiations  do not  resolve  the
+         Dispute  within  sixty (60) days of the initial  written  request,  the
+         parties may pursue their available remedies in law or equity.
+
+33.      NOTICES
+
+(a)      Notices (with the exception of price change  notifications  pursuant to
+         Section 7, Price and Terms of Payment)  concerning this Agreement shall
+         be in  writing  and  shall  be  given  or made by  means  of  telegram,
+         facsimile  transmission,  certified or registered mail, express
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       22
+<PAGE>
+
+         mail or other  overnight  delivery  service,  or hand delivery,  proper
+         postage  or  other  charges  paid  and  addressed  or  directed  to the
+         respective parties as follows. A notice that is sent by facsimile shall
+         also be sent by one of the other means set out in this subsection.
+
+         To Seller:        At Seller's address shown on the first page of this
+                           Agreement,
+                           Attention:  Vice President, Contract Administration
+
+         To Customer:      VERIZON
+         700 Hidden Ridge
+         Irving, TX  75038
+
+         Attention:  Sr. Sourcing Process Leader
+         and
+
+         to the Affiliate that placed the Order if different than Verizon
+         Services Corp.
+
+(b)      Notices for change in  ownership,  change in name of firm, or change in
+         mailing  address must be given by Seller by mailing to Customer  within
+         thirty (30) days of such change.  Notices for change in ownership  must
+         include the names of all new owners or officers,  registered  agent for
+         service of process and state of incorporation or organization.
+
+34.      NO HAZARDOUS PRODUCTS AND COMPONENTS
+
+(a)      Seller's Representations. Seller represents that each Product furnished
+         by Seller is safe for all  intended  uses,  is nontoxic and presents no
+         abnormal hazards to persons or the environment. Seller agrees to notify
+         Customer in writing and to supply an appropriate  Material  Safety Data
+         Sheet (MSDS) to Verizon Services Corp.,  Integrated  Technical Services
+         Division,  221 E 37th Street,  4th Floor,  New York,  New York 10016 as
+         well as to the ship-to  point,  if any Product or component  thereof is
+         toxic or  hazardous  under  any  Federal,  state or local law or if the
+         Product is capable of  constituting a hazard.  Seller  represents  that
+         Products  display all  reasonable  notices and warnings of  foreseeable
+         hazards.  Seller further  represents that if any Products or containers
+         would be or could be  classified  as hazardous  or otherwise  regulated
+         waste at the end of its useful  life,  Seller has  advised  Customer in
+         writing and provided Customer with proper disposal instructions.
+
+(b)      Notices.   Seller  shall  immediately   notify  Customer  by  telephone
+         (followed by written  confirmation within twenty-four hours) if Product
+         purchased or materials used fail to comply with applicable safety rules
+         or standards of the United States Consumer Product Safety Commission or
+         the Environmental Protection Agency or contain a defect that presents a
+         foreseeable  risk to the  public  health or injury to the public or the
+         environment,  whether  by  itself  or  when  used by  Customer  for its
+         intended purpose.
+
+(c)      Shipping and Routing  Instructions.  Seller shall comply with Section 7
+         entitled  "HAZARDOUS  MATERIALS  REGULATIONS  GENERAL of ATTACHMENT G-1
+         SECTION I entitled "VERIZON  SHIPPING  INSTRUCTIONS - VERIZON LOGISTICS
+         AND VERIZON NETWORK SERVICES."
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       23
+<PAGE>
+
+35.      GOVERNMENT CONTRACT PROVISIONS
+
+         If an Order contains a notation that Product or Service is intended for
+         use  under a  government  contract,  it  shall be  subject  to the then
+         current government  contract  provisions printed on or attached to such
+         Order.
+
+36.      QUALITY
+
+         Seller  shall  follow the  requirements  and  procedures  in EXHIBIT H,
+         ATTACHMENT  H-1 hereof  entitled  "QUALITY  STANDARDS,  PROCEDURES  AND
+         COMPLAINTS"  in  respect  to  Products   ordered  by  Customer.   Where
+         compliance  with the TL9000  standard is required,  Seller and Customer
+         shall follow the  requirements  and procedures in EXHIBIT H, ATTACHMENT
+         H-2 hereof entitled ""TL9000 REQUIREMENTS."
+
+37.      STANDARDIZATION
+
+(a)      In respect  to  Products  ordered  by or in behalf of the  former  Bell
+         Atlantic Affiliates,  Seller and Customer shall follow the requirements
+         and procedures  described in EXHIBIT K,  ATTACHMENT K-1 hereof entitled
+         "STANDARDIZATION VERIZON EAST."
+
+(b)      In  respect  to  Products  ordered  by or in behalf of the  former  GTE
+         Affiliates,  Seller and  Customer  shall  follow the  requirements  and
+         procedures  described  in EXHIBIT  K,  ATTACHMENT  K-2 hereof  entitled
+         "STANDARDIZATION VERIZON WEST."
+
+38.      NONWAIVER
+
+         Either  party's  failure  to  enforce  any of the  provisions  of  this
+         Agreement or any purchase order,  or to exercise any option,  shall not
+         be construed as a waiver of such  provisions,  rights,  or options,  or
+         affect the validity of this Agreement or any purchase order.
+
+39.      SEVERABILITY
+
+         If any of  the  provisions  of  this  Agreement  shall  be  invalid  or
+         unenforceable,  then  such  invalidity  or  unenforceability  shall not
+         invalidate or render  unenforceable  the entire  Agreement.  The entire
+         Agreement  shall  be  construed  as if not  containing  the  particular
+         invalid or  unenforceable  provision or provisions,  and the rights and
+         obligations  of Seller and  Customer  shall be  construed  and enforced
+         accordingly.
+
+40.      SECTION HEADINGS
+
+         The headings of the sections are inserted for convenience  only and are
+         not intended to affect the meaning or interpretation of this Agreement.
+
+41.      SURVIVAL OF OBLIGATIONS
+
+         Seller's obligations under this Agreement,  which by their nature would
+         continue  beyond the  termination,  cancellation  or expiration of this
+         Agreement,  shall survive  termination,  cancellation  or expiration of
+         this Agreement, including but not limited to, obligations to indemnify,
+         insure and maintain  confidentiality,  and  continued  availability  of
+         Product support and warranty provisions set forth in Exhibit D.
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       24
+<PAGE>
+
+42.      CHOICE OF LAW AND JURISDICTION
+
+         State Law And Forum.  The validity,  interpretation  and performance of
+         this agreement shall be governed by the procedural and substantive laws
+         of the state of New York  without  regard  to  conflicts  of laws.  All
+         actions under this  agreement  shall be brought in a court of competent
+         subject matter  jurisdiction  in the county of New York in the state of
+         New York and both parties agree to accept the personal  jurisdiction of
+         such court.  Seller also agrees to submit, at Customer's option, to the
+         jurisdiction  of any court in the  United  States  wherein an action is
+         commenced  against  Purchaser  based on a claim  for which  Seller  has
+         indemnified Purchaser hereunder.
+
+         The   application  of  the  U.  N.  Convention  on  Contracts  for  the
+         International  Sale  of  Goods  is  specifically   excluded  from  this
+         Agreement.
+
+43.      ENTIRE AGREEMENT
+
+         This Agreement  together with its exhibits and attachments  constitutes
+         the  entire   agreement   between   the   parties   and   cancels   all
+         contemporaneous  or prior  agreements,  whether  written or oral,  with
+         respect to the subject matter of this Agreement.  Except as provided in
+         Section 14 hereof  entitled  "PRECEDENCE OF  DOCUMENTS",  and Section 8
+         hereof entitled  "PURCHASE  ORDERS;  CANCELLATION  OF PURCHASE  ORDERS;
+         REVOCATION OF ACKNOWLEDGEMENT",  no modifications shall be made to this
+         Agreement unless in writing and signed by authorized representatives of
+         the parties.
+
+44.      SIGNATURES
+
+         Each party  represents that it has executed this Agreement  through its
+         authorized representative:
+
+<TABLE>
+<CAPTION>
+         CUSTOMER:                                                 SELLER:
+<S>                                                                <C>
+         Verizon Services Corp                                     TII Network Technologies, Inc.
+
+         /s/ GEORGE S. DOWELL                                      /s/ TIMOTHY J. ROACH
+         --------------------------------------------------        -------------------------------------------------
+         (Signature)                                               (Signature)
+
+          George S. Dowell                                         Timothy J. Roach
+         --------------------------------------------------        -------------------------------------------------
+         (Printed Name)                                            (Printed Name)
+
+         VP - Supply Chain Services                                President & CEO
+         --------------------------------------------------        -------------------------------------------------
+         (Title)                                                   (Title)
+
+         June 28, 2005                                             May 17, 2005
+         --------------------------------------------------        -------------------------------------------------
+         (Date) (Date)
+</TABLE>
+
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+                                       25
+<PAGE>
+
+                                    EXHIBIT A
+
+                 AFFILATES VERIZON WEST (FORMER GTE AFFILIATES)
+
+
+
+
+
+
+
+                                   Exhibit A                                   1
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+<PAGE>
+
+
+                                    EXHIBIT A
+
+                             GTE AFFILIATED ENTITIES
+
+The names of certain GTE  Affiliated  Business Units are in the process of being
+changed  as a  result  of  the  merger  of GTE  Corporation  and  Bell  Atlantic
+Corporation.  The legal entities  themselves  have not changed under the merger.
+The only  change  is  either  in the  name of the  company  or a  change  in the
+doing-business-as (d/b/a) name. For ease of reference, where not obvious as from
+a  d/b/a,  the name by which a  Verizon  company  was  formerly  known  has been
+included in parenthesis (f/k/a). That f/k/a is not part of the legal name.
+
+
+
+
+
+                                   Exhibit A                                   1
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+<PAGE>
+
+
+GENERAL ADMINISTRATION
+
+GTE Corporation
+     GTE Finance Corporation
+     GTE REinsurance Company Limited
+
+     GTE Life Insurance Company Limited
+     GTE Service Corporation, d/b/a Verizon
+
+       Services Group
+
+     GTE Shareholder Services Incorporated
+     Verizon Investment Management Corp. (f/k/a
+
+       GTE Investment Management
+     Corporation)
+     Verizon Realty Corp. (f/k/a GTE Realty Corporation)
+         GTER Incorporated
+         GTE-TCCA, Inc.
+
+SELECT SERVICES
+
+ContelVision, Inc.
+GTE Main Street Incorporated
+
+Verizon Media Ventures Inc. (f/k/a GTE
+Media Ventures
+  Incorporated)
+Verizon Select Services Inc. (f/k/a GTE Communications
+  Corporation)
+     Verizon Select Services of Virginia Inc.
+     (f/k/a GTE
+       Communications Corporation of
+     Virginia)
+
+INFORMATION SERVICES
+
+Verizon Information Services Inc. (f/k/a GTE Information
+  Services Incorporated)
+     General Telephone Directory Company
+
+     C. por A.
+
+     Verizon International Telecom Services
+     Inc. (f/k/a Telecom Services
+
+     Corporation)
+     GTE Directories (B) SDN.BHD. (Brunei)
+
+     Verizon Directories Corp. (f/k/a GTE Directories Corporation)
+         Verizon Directories Distribution
+         Corp. (f/k/a GTE Directories
+
+         Distribution Corporation)
+         Verizon Directories Sales Corp.
+         (f/k/a GTE Directories Sales Corporation)
+GTEX Corporation
+     GTE Directorios - Republica
+     Dominicana, C. por  A. GTE GmbH
+Verizon New Media Services Inc. (f/k/a GTE
+New  Media Services Incorporated)
+     GTE Yellow Pages Publishing Hungary
+     Kft
+
+INFORMATION TECHNOLOGY
+
+Verizon Data Services Inc . (f/k/a GTE Data Services  Incorporated)
+     Verizon Data Services International Inc.
+     (f/k/a GTE Data Services International Incorporated)
+     GTE Airfone of Canada Incorporated
+
+NETWORK SERVICES
+
+GTE Alaska Incorporated, d/b/a Verizon
+Alaska
+GTE Arkansas Incorporated, d/b/a Verizon Arkansas
+
+Verizon California Inc. (f/k/a) GTE California  Incorporated)
+Contel Advanced Systems, Inc.
+Verizon Florida Inc. (f/k/a GTE Florida Incorporated)
+     GTE Funding Incorporated
+
+Verizon Hawaii Inc. (f/k/a GTE Hawaiian Telephone Company Incorporated)
+     GTE Hawaiian Tel Insurance Company Incorporated
+     Verizon Hawaii International Inc. (f/k/a
+     GTE Hawaiian Tel International Incorporated)
+         GTE Far East (Services) Limited
+     The Micronesian Telecommunications Corporation
+GTE Pacifica Incorporated, d/b/a Verizon  Pacifica
+GTE Midwest Incorporated, d/b/a Verizon Midwest
+Verizon North Inc. (f/k/a GTE North
+Incorporated)
+Verizon Northwest Inc. (f/k/a GTE Northwest Incorporated)
+Verizon West Coast Inc. (f/k/a GTE West
+Coast Incorporated)
+Verizon South Inc. (f/k/a GTE South Incorporated)
+
+
+
+                                   Exhibit A                                   2
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+
+GTE Southwest Incorporated, d/b/a Verizon Southwest
+Contel of Minnesota, Inc., d/b/a Verizon Minnesota
+Contel of the South, Inc. d/b/a Verizon South Systems/
+Verizon North Systems
+
+GTE Consolidated Services Incorporated
+
+INTERNATIONAL
+
+CODETEL International Communications Incorporated
+
+GTE Anglo Holding Company Incorporated
+
+     La Compagnie de Telephone Anglo-Canadienne/Anglo-Canadian Telephone Company
+TELUS Corporation
+
+         3554864 Canada Ltd.
+Aerotech Specialties Ltd.
+ISM Information Systems Management
+(B.C.) Corporation
+Telecom Leasing Canada (TLC) Limited
+TELUS Communications (B.C.) Inc.
+TELUS Holdings Inc.
+TELUS Communications Inc.
+TELUS Enterprises Inc.
+TELUS Services Inc.
+TELUS Advanced Services Inc.
+TELUS Mobility Cellular Inc.
+TELUS Risk Management Inc.
+
+The QuebecTel Group Inc.
+DynEC Inc.
+Groupe Fortune 1000 Inc.
+Quebec-Telephone
+Quebec -Communications Inc.
+Quebec Tel Aliz. Inc.
+QuebecTel Communications Inc.
+SWAP-T Inc.
+Versalys Inc.
+
+GTE China Incorporated
+GTE International Telecommunications
+
+Services  LLC
+         GITS Branch LLC
+
+         GTE Holdings Mexico, S. de R.L. de
+         C.V.
+
+              GTE Data Services-Mexico,
+
+              S.A. de C.V. GTEDS Services-Mexico, S.A. de C.V.
+
+GTE Information Services (UK) Limited
+
+     Herold Business Data AG        Panorama Polska Sp. z o.o.
+GTE Supply do Brasil, Ltda.
+Guangzhou Guangtong-GTE Tianwei
+
+           Communications Development Company Ltd.
+
+GTE Holdings (Canada) Corporation
+     Compania Dominicana de Telefonos, C.
+
+     por A. (CODETELl)
+     Operaclora de Procesamiento de
+     Informacion y Telefonia, C. por A.
+     (OPITEL)
+
+Quality Telecommunications, C. por A.
+GTE Dominican Republic Holdings LLC
+
+GTE International Telecommunications Incorporated
+GITI Services Puerto Rico Incorporated
+GTE do Brasil Limitada
+
+     GTE PCS International Incorporated
+     GTE Venezuela Incorporated
+
+VenWorld Telecom, C.A. (Venezuela)
+Compania Anonima Nacional Telefonos de
+
+Venezuela (CANTV)
+GTE Holdings (Puerto Rico) LLC
+
+Caribe Information Investments Incorporated
+Axesa Informacion Incorporado
+Telecommunicaciones de Puerto Rico, Inc.
+
+     Celulares Telefonica Inc.
+     Datacom Caribe, Inc.
+
+     Puerto Rico Telephone Company, Inc.
+
+GTE International Telephone Incorporated
+     Informatica y Telecommunicaciones, C.
+     por A. (Dominican Republic)
+
+GTE Investments Incorporated
+
+WIRELESS PRODUCTS AND SERVICES
+
+GTE Consumer Services Incorporated
+
+GTE Wireless Incorporated
+Contel Cellular International, Inc.
+
+                                   Exhibit A                                   3
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+GT Towers Incorporated
+
+     GTE Mobile Communications
+     International Incorporated
+
+CTI Holdings, S.A.
+
+CTI Compania de Telefonos del Interior S.A. CTI Norte  Compania de Telefonos del
+Interior S.A.
+
+CTI PCS Holdings S.A.
+CTI PCS S.A.
+     GTE Mobilnet of Cleveland Incorporated
+     GTE Wireless of Ohio Incorporated
+     GTE Mobilnet of Eastern North Carolina
+     Incorporated
+     GTE Wireless of the South Incorporated
+     GTE Wireless Service Corporation
+
+GTE Airfone Incorporated
+     GTE Railfone Incorporated
+     Mexfone, S.A. de C.V.
+
+OTHER OPERATIONS
+
+Contel Federal Systems, Inc.
+GTE Telecommunications Services
+Incorporated
+
+GTE Signaling LLC
+Contel Page International, Inc.
+
+     GTE Telecom International Incorporated
+     GTE Telecom International Systems Corporation
+
+GTE Assets Incorporated
+
+GTE Enterprise Initiatives Incorporated
+
+GTE Products of Connecticut Corporation
+
+GTE Communication Systems Corporation (acting through its Verizon Logistics
+  division)
+GTE International Incorporated
+     GTE Overseas Corporation
+
+     Verizon Laboratories Inc. (f/k/a GTE
+     Laboratories Incorporated)
+
+     GTE Operations Support Incorporated
+Televac, Inc.
+
+Verizon Credit Inc. (f/k/a GTE Leasing Corporation)
+     Verizon Capital Acceptance Corp. (f/k/a
+     GTE Leasing Acceptance Corporation)
+     Kalama Grain Terminal, Inc.
+
+GTE Transfer Corporation
+Verizon Technology Corp. (f/k/a GTE
+Technology Corporation)
+BBNT Solutions LLC
+Federal Network Systems LLC
+
+GTE.Net LLC, d/b/a Verizon Internet
+Solutions
+
+
+                                   Exhibit A                                   4
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+
+<PAGE>
+
+
+
+                                    EXHIBIT B
+
+                       COMPONENTS OF PRODUCTS AND SERVICES
+
+         ATTACHMENT B-1 DETAILED DESCRIPTION OF PRODUCTS AND SERVICES
+
+         ATTACHMENT B-2 PRICES
+
+         ATTACHMENT B-3 DELIVERY INTERVAL - DOES NOT INCLUDE IN TRANSIT TIME
+
+
+
+                                       *
+
+
+
+
+                                   Exhibit B
+
+                                     NOTICE
+
+      CONFIDENTIAL - Not for use or disclosure outside Verizon except with
+                         Verizon's written permission.
+<PAGE>
+
+
+
+                                    EXHIBIT C
+
+           PURCHASE FOR RESALE - LICENSE, WARRANTY AND PRODUCT SUPPORT
+
+                                 NOT APPLICABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  EXHIBITS 3                                   1
+
+                                     NOTICE
+
+         CONFIDENTIAL - Not for use or disclosure outside Verizon except
+                              by written agreement
+
+<PAGE>
+
+
+                                    EXHIBIT D
+
+
+            PURCHASE FOR INTERNAL USE - WARRANTY AND PRODUCT SUPPORT
+
+         ATTACHMENT D-1 WARRANTY PERIOD
+
+         ATTACHMENT D-2 PRODUCT REPAIR RATES - NOT APPLICABLE
+
+         ATTACHMENT D-3 REPAIR PARTS PRICING - NOT APPLICABLE
+
+         ATTACHMENT D-4 SELLERS WORKING HOUR SCHEDULE AND CONTACT INFORMATION
+
+         ATTACHMENT D-5 ON-SIGHT ASSISTANCE RATES - NOT APPLICABLE,  Seller with
+         provide  on-Site  assistance to Customer as mutually  agreed to without
+         charge.
+
+         ATTACHMENT D-6 TRAINING TERMS AND STANDARDS
+
+         ATTACHMENT D-7 TRAINING  PRICES - NOT  APPLICABLE,  Seller with provide
+         training to Customer as mutually agreed to without charge.
+
+         ATTACHMENT D-8 DISCLOSURE OF POTENTIAL OR ACTUAL DEFECTS
+
+
+
+
+                                       *
+
+
+
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+
+<PAGE>
+
+
+                                    EXHIBIT E
+
+                              ELECTRONIC PURCHASING
+
+         ATTACHMENT E-1 ELECTRONIC DATA INTERFACE (EDI)
+
+         ATTACHMENT E-2 E-PROCUREMENT ARIBA TRANSACTIONS - NOT APPLICABLE
+
+         ATTACHMENT E-3 SELLER CIF REQUIREMENTS - NOT APPLICABLE
+
+         ATTACHMENT E-4 SELLER PUNCHOUT REQUIREMENTS - NOT APPLICABLE
+
+
+
+                                       *
+
+
+
+
+                                                                               2
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+<PAGE>
+
+
+<PAGE>
+
+
+                                    EXHIBIT F
+
+ Primary Seller Compliance with Minority, Woman-owned, Disabled and Vietnam era
+                Veteran Business Enterprises (MWDVBE) Utilization
+
+         ATTACHMENT F-1 MWDVBE CONTRACT COMPLIANCE
+
+
+                    TII is currently a reporting participant.
+
+
+
+
+                                                                               4
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+<PAGE>
+
+                                   EXHIBIT F
+
+                           PRIMARY SUPPLIER COMMITMENT
+
+           COMPLIANCE WITH MINORITY, WOMAN-OWNED, DISABLED AND VIETNAM
+                        ERA VETERAN BUSINESS ENTERPRISES
+
+                              (MWDVBE) UTILIZATION
+
+1. SUPPLIER COMMITMENT.
+
+The Primary Supplier (Seller) agrees to provide  opportunities for Certified (1)
+Suppliers  identified as Minority (2),Woman (3) -owned (4), Business Enterprises
+("MWDVBE")(5),  Disabled,  Service Disabled and Vietnam Era Veteran (6) Business
+Enterprises ("DVBE"),  (hereinafter "Diversified Suppliers") in accordance, at a
+minimum, with the terms and conditions of this Section.
+
+2. PRIMARY SUPPLIER COMMITMENTS.
+
+A. SUPPLIER DIVERSITY UTILIZATION PLAN.
+
+The Primary Supplier must submit an approved Supplier Diversity Utilization Plan
+("Plan")  within  sixty  (60) days after  execution  of this  Agreement,  if not
+already supplied in the RFP response. The Plan must include a statement that the
+Primary  Supplier will achieve  MWDVBE and PC Percent  Commitments  specified in
+this section,  and a commitment to report results utilizing the reporting method
+described below:
+
+         CONTRACT SPECIFIC REPORTING.
+
+         The  Primary  Supplier  must  relate  MWDVBE  expenditures  to specific
+         Verizon  contracts and track them by using the Contract Specific method
+         of reporting of the Prime  Supplier  MWDVBE  Quarterly  Report found on
+         line at  http://www.verizon.com/supplierdiversity.  In this  case,  the
+         Primary Supplier will also provide:
+
+         (1) A list of the name(s) and  address(s) of any Diverse  Suppliers the
+         Primary Supplier has identified to use in support of this Agreement,
+
+         (2) A  description  of the  products/services  or  scope  of work to be
+         performed by Diverse Suppliers and,
+
+         (3) The  percentage  or volume of contract work to be performed by each
+         such firm.
+
+---------------------------
+(1) Currently  certified as MWDVBE by an  authorized  certifying  body,  such as
+NMSDC,  WBENC, or other similar local,  state, or federal certifying body, among
+others.  (2)  "Minority"  is defined as a business  of which at least 51% of the
+ownership  and  control  is held by  individuals  who are  members of a minority
+group,  and of which at least  51% of the net  profits  accrue to  members  of a
+minority group.  Such persons  include,  but are not limited to Black Americans,
+Hispanic  Americans,  Asian Pacific  Americans,  Native Americans;  "Control" is
+defined as having overall  fiscal/legal  responsibility and exercising the power
+to make policy  decisions;  Asian Pacific  Americans  (persons with origins from
+Japan, China, the Philippines, Vietnam, Korea, Samoa, Guam, U.S. Trust Territory
+of the Pacific  Islands  (Republic of Palau),  the  Commonwealth of the Northern
+Mariana Islands, Laos, Cambodia (Kampuchea),  Taiwan; Burma, Thailand, Malaysia,
+Indonesia, Singapore, Brunei, Republic of the Marshall Islands, Federated States
+of Micronesia.,  Macao,  Hong Kong, Fiji,  Tonga,  Kiribati,  Tuvalu,  or Nauru;
+Subcontinent  Asian  Americans  (persons  with  origins  from  India,  Pakistan,
+Bangladesh,  Sri  Lanka,  Bhutan,  the  Maldives  Islands  or Nepal;  and Native
+Americans (American Indians, Eskimos, Aleuts, and Native Hawaiians).  Members of
+other groups designated by the U. S. Small Business Administration.
+
+(3)  "Women-owned"  is  defined  as a  business  that is at least  51% owned and
+controlled by a woman or women.  Such women's business  enterprise shall further
+be classified as either minority or non-minority women-owned business, depending
+upon the greater portion of ownership; "Owned" is defined as at least 51% of the
+business or in the case of a publicly owned business,  at least 51% of the stock
+is owned either by a minority or women;  "Control" is defined as having  overall
+fiscal/legal  responsibility  and exercising the power to make policy decisions.
+(4)  "Owned"  is  defined  as at least 51% of the  business  or in the case of a
+publicly owned business, at least 51% of the stock owned either by a minority or
+women.  Transfer of ownership or purchase of an existing  business by a minority
+(or non-minority women) from a non-minority (or non-minority male), that remains
+actively  involved  in the  operation  of the  business,  does not  qualify as a
+minority-owned   or  women-owned   business.   (5)  A  "minority   business"  or
+"women-owned  business" may be an individual  partnership,  a joint venture or a
+corporation, other than an employee of a Verizon company.
+
+(6) A business  that is at least 51% owned and  controlled by an owner or owners
+who are Veterans or Disabled  Veterans who are veterans of the military,  naval,
+or air service of the United States with a  service-connected  disability or who
+are  disabled  as  defined  by  the  Americans  With   Disabilities   Act.  This
+classification  can also  include  agencies  that  employ  51% or more  disabled
+persons.
+
+                                 ATTACHMENT F-1
+                                                                               1
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+         The  list  of  Diverse   Suppliers  by  the  Primary  Supplier  in  its
+         (Contract-Specific)  Suppler  Diversity  Utilization  Plan  form  shall
+         constitute:
+
+         o A representation  by the Primary Supplier to Verizon in regard to the
+         Diverse  Supplier(s)  that: (a) it intends to use the firm for the work
+         specified in the Supplier Diversity  Utilization Plan; (b) on the basis
+         of information  known to it and after reasonable  inquiry,  it believes
+         such Diverse Supplier(s) to be technically and financially qualified to
+         perform the work  specified,  and that the firm is available to perform
+         the work; and (c) the Diversified  Supplier(s)  identified is currently
+         certified as MWDVBE by an authorized certifying body.
+
+         o A  commitment  that the Primary  Supplier  will enter into a contract
+         with each such Diverse Supplier (or approved substitutes) in accordance
+         with its Supplier  Diversity  Utilization  Plan. o A commitment  by the
+         Primary  Supplier that it will not substitute a Diverse Supplier listed
+         in its Supplier  Diversity  Utilization Plan without notifying Verizon.
+         Unless the  Primary  Supplier  has a  reasonable  belief  that use of a
+         designated  Diverse Supplier will potentially  cause personal injury or
+         damage to  property,  or that such  Diverse  Supplier  has  engaged  in
+         illegal  or  unethical   behavior,   no   substitution(s)   of  Diverse
+         Supplier(s)  designated on the Primary Supplier's Utilization Plan Form
+         may be made without notifying  Verizon in writing,  citing the specific
+         reason(s) for substitution.
+
+B. PRIMARY SUPPLIER MWDVBE PERCENT COMMITMENT.
+
+The  Primary  Supplier  shall  engage  the  services  of  certified  Diversified
+Supplier(s)  for an amount  equivalent  to at least  "sixteen"  percent (16%) of
+dollars spent under this Agreement in 2003,  "seven-teen"  percent (17%) in 2004
+and  2005  and  eight-teen  percent  (18%)  in 2005  and  thereafter  in  MWDVBE
+utilization under the Agreement ("MWDVBE Percent Commitment").
+
+C. PRIMARY SUPPLIER COMPLIANCE; STANDARDS AND REMEDIES.
+
+I. COMPLIANCE  STANDARDS.  Verizon has the right to determine  compliance by the
+Primary  Supplier with the Supplier  Diversity  Utilization  Plan and the MWDVBE
+Percent  Commitments   (hereinafter   collectively  the  "MWDVBE   Commitments")
+established in this Section.  Verizon may determine that the Primary Supplier is
+achieving  its MWDVBE  Commitments  as set forth in this  Section  by  examining
+reports  received from the Primary  Supplier,  performing  on-site  inspections,
+conducting   progress  meetings   regarding  work  required  by  the  Agreement,
+contacting involved Diversified Supplier, or through other Verizon actions taken
+in the ordinary course of administering the Agreement.
+
+II.  QUARTERLY  COMPLIANCE  REPORTS.  "Verizon Prime Supplier  MWDVBE  Quarterly
+Reports",       shall       be       submitted       via       the       website
+http://www.verizon.com/supplierdiversity by the Primary Supplier, as required by
+this  agreement,  no later  than  thirty  (30)  days  following  the end of each
+quarter.  This document is intended to provide a reporting  mechanism to monitor
+the Primary Supplier's progress in achieving its MWDVBE Commitments as set forth
+in this Section.
+
+III.  UPDATES.  An annual update of the Primary  Supplier's  Supplier  Diversity
+Utilization  Plan will be required to ensure  compliance  with this  Agreement's
+provision  for  continuous  year  over year  improvement.  IV.  COMMITMENTS  NOT
+ACHIEVED.  In the event that the Primary Suppliers MWDVBE Commitments  hereunder
+are not achieved and the Primary  Supplier can not demonstrate to the reasonable
+satisfaction  of  Verizon  that  commercially  reasonable  efforts  were made to
+accomplish such MWDVBE Commitments, such failure shall constitute an occasion of
+default and Verizon  reserves  the right and shall have the option to invoke the
+default and  termination  provisions of this  Agreement.  Verizon in addition to
+Article(s) of this Agreement  pertaining to default and  termination  shall have
+all other  rights  and  remedies  available  at law and in equity and under this
+Agreement.  Verizon may also require that the Primary  Supplier,  upon  request,
+submit  additional   documentation   and  information   concerning  the  Primary
+Supplier's  performance in achieving its MWDVBE  Commitments and compliance with
+its Supplier Diversity Utilization Plan.
+
+V. CURE  PERIOD  FOR  COMMITMENTS  NOT  ACHIEVED.  Should the  Primary  Supplier
+continue to fail in achieving the MWDVBE  Commitments  of this  Agreement or any
+amendments  thereto  after  having been given notice of such failure to meet its
+MWDVBE Commitments, and failing to cure such
+
+
+
+                                 ATTACHMENT F-1
+                                                                               2
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+Commitments  within  thirty (30) days of receiving  such notice by achieving its
+requirements, the Primary Supplier shall be in default and no further cure shall
+be permitted.
+
+VI. SUPPLIER REPORT CARD. In addition, the Primary Supplier's ability to achieve
+its MWDVBE  Commitments  shall reflect upon and shall  contribute to the Primary
+Supplier's  overall  grade on the  Supplier  Report  Card or  other  performance
+measurement(s).
+
+
+
+
+
+
+
+
+
+
+
+                                 ATTACHMENT F-1
+                                                                               3
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+<PAGE>
+
+
+
+
+                                    EXHIBIT G
+
+        VERIZON LOGISTICS AND NETWORK SERVICES TRANSPORTATION AND ROUTING
+                          INSTRUCTIONS AND REQUIREMENTS
+
+         ATTACHMENT G-1 VERIZON SHIPPING INSTRUCTIONS - VERIZON LOGISTCS AND
+                VERIZON NETWORK SERVICES
+
+         ATTACHMENT G-2 VERIZON TRANSPORTATION ROUTING INSTRUCTION
+
+         ATTACHMENT G-3 OCEAN CONTAINER PLANNING AND LOADING PROCEDURE -
+                NOT APPLICABLE
+
+         ATTACHMENT G-4 VERIZON - SUPPLIER ROUTING INSTRUCTIONS
+
+         ATTACHMENT G-5 STATE TO STATE GRID
+
+
+
+                                       *
+
+
+
+
+
+
+
+
+
+                                    EXHIBITS
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+
+<PAGE>
+
+
+
+
+                                    EXHIBIT H
+
+                  QUALITY STANDARDS, PROCEDURES AND COMPLAINTS
+
+         ATTACHMENT H-1                 QUALITY STANDARDS AND PROCEDURES
+
+         ATTACHMENT H-2                 TL9000
+
+
+
+
+
+
+
+                                    EXHIBITS
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+
+<PAGE>
+
+
+                                    EXHIBIT H
+
+                                 ATTACHMENT H-1
+
+                  QUALITY STANDARDS, PROCEDURES AND COMPLAINTS
+
+         1.1 QUALITY COMMITMENT  Commitment to quality is a primary  requirement
+of this  Agreement  and as used  herein  shall  mean  conformance  to the terms,
+conditions and SPECIFICATIONS of this Agreement.  Customer will assure continued
+Quality  Improvement  in the Products and  Services  purchased  pursuant to this
+Agreement.  Seller will demonstrate  commitment to a Quality Improvement Process
+by providing:
+
+         1. A published  statement of its quality policy signed by an officer of
+            the company;
+         2. An  established  means  of  measuring  and  reporting customer
+            satisfaction;
+         3. A quality training and awareness program;
+         4. A continuous Quality  Improvement  Process;
+         5. An established means of monitoring  conformance to requirements for
+            Products and Services;  and
+         6. An established Product Quality Inspection Program.
+
+         1.2 QUALITY  SYSTEM  Seller shall  document,  implement  and maintain a
+quality  control,  assurance  and  improvement  system  which  assures  that the
+System(s),  Product(s)  and Services  provided to Customer meet all  performance
+standards  and  requirements,  and perform in  accordance  with  Specifications,
+including,  but not limited to those  contained  in APPENDIX A hereof,  entitled
+"Quality,   Reliability  and  Engineering  Specifications,"  together  with  the
+following:  TL 9000 Quality Management System Requirements,  Book 1 Release 3.0,
+and TL 9000 Quality Management System Measurements,  Book 2, Release 3.0. Seller
+shall be in  compliance  with all  updates  to such  performance  standards  and
+requirements,  including  all those  listed  in this  Article  hereof,  entitled
+QUALITY,  STANDARDS,  PROCEDURES,  AND  COMPLAINTS  or in any appendix  attached
+hereto, or as currently denominated by the QuEST Forum, Telcordia or Verizon.
+
+         Seller agrees to allow Customer or Customer's Agent to conduct periodic
+on-site  reviews at Seller's  Hardware  manufacturing  and Software  development
+facility(s)  to verify  compliance  with  Specifications.  Seller also agrees to
+develop corrective action plans for any quality system  deficiencies that may be
+detected  during these periodic  on-site  reviews,  and submit such plans to the
+Customer or Customer's agent within thirty (30) days after the review.  Further,
+Seller agrees to implement these  corrective  action plans within six (6) months
+after the review.
+
+         1.3 QUALITY PERFORMANCE  REPORTING SELLER agrees to provide, at no cost
+to Customer,  data  reports,  upon request by Customer,  which  demonstrate  the
+performance  of the  Seller's  Product  while in  development,  manufacture  and
+service,  and the  adherence  of the  Seller's  Product  to the  Specifications.
+Requirements  for  collecting,  calculating  and  reporting  data are defined in
+documents  listed  in  APPENDIX  A  hereof-entitled  QUALITY,   RELIABILITY  AND
+ENGINEERING SPECIFICATIONS.
+
+         All required  reports and data shall be delivered to Customer's  Seller
+Quality Management Organization at:
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+         Specialist Supply Chain Services
+         Quality Management
+         Verizon Corporate Sourcing
+         700 Hidden Ridge
+
+         Irving, TX  75038
+
+         And to Customer's Sourcing Process Organization at:
+
+         Sr. Sourcing Process Leader
+         Verizon Corporate Sourcing
+         700 Hidden Ridge
+         Irving, TX  75038
+
+         Seller agrees to render other  periodic  reports for service  affecting
+conditions or other  conditions  that affect the operations  and  administrative
+procedures of Customer of its AFFILIATES,  or as otherwise requested by Customer
+of Its AFFILIATES. All provided information shall be proprietary to Customer.
+
+         1.4 SOURCE  INSPECTION Source Inspection means that Customer shall have
+the right to conduct due diligence  inspection and testing at the Seller's,  and
+any of its  subcontractors,  facilities at any point(s) or on a continuing basis
+as Customer may deem  appropriate.  Source  Inspection  applies to all Products.
+Source  Inspection  shall be  performed  by a  Customer's  representative.  When
+requested,  Seller will furnish Customer full access to its facilities and those
+of  its  subcontractors.   Seller  will  provide  Appropriate  Documentation  To
+Demonstrate  That  the  Product  Does  Conform  to All  SPECIFICATIONS,  and the
+Seller's projected failure rate, along with the test data that substantiates the
+conformance  of Product prior to shipment.  Should  Customer give Seller written
+notice that it requires source  inspection of Product prior to shipment,  Seller
+shall notify  Customer when the Product is ready for  inspection and Customer or
+its agent shall be given  reasonable  opportunity  to inspect the Product at any
+time prior to shipment under agreed upon Quality Program  Specifications  listed
+in   APPENDIX  A  hereof   entitled   QUALITY,   RELIABILITY   AND   ENGINEERING
+SPECIFICATIONS.  Inspection  or failure to  inspect  on any  occasion  shall not
+affect Customer's rights under Article 14 hereof, entitled WARRANTY or any other
+provisions of this Agreement.
+
+         Seller shall make  available at no  additional  cost to Customer,  such
+production testing facilities, labor, data, specifications,  procedures and such
+other  documents,  and  assistance  as  necessary  for  Customer or its agent to
+perform  inspection,   as  indicated  in  APPENDIX  A  hereof-entitled  QUALITY,
+RELIABILITY  AND  ENGINEERING  SPECIFICATIONS.  In  addition,  Seller shall make
+available  to  Customer  or its agent at no  additional  charge,  data  obtained
+through  Seller's normal  routines,  which show results of Seller's  inspection,
+tests and audits of Product as specified in the Quality Program  Specifications.
+Such data shall be sufficient to demonstrate  that the Product meets all quality
+and reliability requirements.
+
+         Where Customer's  Seller Quality  Management finds received Products do
+not meet  Specifications,  the cost of inspection and testing,  replacement  and
+shipping shall be incurred by the Seller.
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+         Customer reserves the right to have the Seller inspect and test 100% of
+their Product at their cost in cases where Product does not meet SPECIFICATIONS.
+
+         1.5  PRODUCT  TESTING All Product  shipped to  Purhaser  shall  receive
+Seller  testing to  demonstrate  functionality,  quality  and  reliability.  The
+Seller's  test  environment  shall  emulate or simulate  the  Customer's  actual
+Product  application/usage  conditions  as  identified  in  the  Specifications.
+Seller's testing shall be of a sufficient  magnitude and duration to demonstrate
+full  Product  feature  functionality  in  accordance  with  Specifications.  If
+Seller's  quality  level for this  final  test  stage  does not  conform  to the
+Specifications,   then  Seller  shall  notify   Customer   immediately  of  such
+no-conformance  before Product  shipment,  and Customer will advise Seller as to
+the disposition of this Product (accept or not accept).
+
+         1.6 QUALITY  SURVEILLANCE  Seller agrees to quality system surveillance
+activities  through  Customer or its agent designated by Customer to demonstrate
+that that the  quality  system is  achieving  results  consistent  with  product
+quality,  engineering and reliability  requirements.  The scope and frequency of
+these  surveillance  activities  will  be  based  on the  Seller  achieving  and
+maintaining consistent and stable quality and reliability results.
+
+         1.7  TECHNICAL  ANALYSIS  If the  parties  agree  to  pursue  technical
+analysis activities with third parties,  Seller agrees to fund Product technical
+analysis  activities that may be required by Customer to deploy the Product,  in
+the Customer's NETWORK through Customer's or its agent's program or through test
+laboratories  approved by Customer or its agent.  Customer  may request  Product
+technical  analysis  activities  in instances  where the Seller  cannot  provide
+sufficient validation of Product performance, quality and reliability.
+
+      1.8       COMPLAINTS
+
+                  1.8.1  ENGINEERING  COMPLAINTS  The  Seller  shall  handle all
+Engineering  Complaints  (EC)  submitted by Customer in  accordance  with GR230,
+Issue  2,  as  modified  below,   together  with  such  further  and  additional
+requirements  set forth in APPENDIX A hereof entitled  Quality,  Reliability and
+Engineering Specifications.
+
+        a) Verizon recognizes (Section 2.1.R2-1, Applicable Use of
+
+        Engineering Complaints; Section 2.2. CR-2, Emergency or Special
+        Handling; Section 2.3.R2-3 Non-Applicable Uses of Engineering
+        Complaints: and Section 2.5.3. R2-9 EC Confirmation Report-EO-150)
+        as guidelines and typical examples, "NOT" as requirements or objectives:
+
+        b)  Verizon  "DOES  NOT"  recognize  (Section  2.5.4.R2-11,  EC Interim
+        Report-EO-151)  the Seller  shall notify  Verizon of a proposed  Action
+        Plan for the Complaint within 15 days of receipt.
+
+In addition the following requirements shall be adhered to:
+
+         In the event that a  Customer's  Engineering  Complaint  (EC) is marked
+"SERVICE  EMERGENCY,"  then Seller  agrees to exert effort that goes beyond that
+which is customarily  provided to resolve the EC. Such effort will be consistent
+with the level of effort the Seller  will  furnish to support  Customer  and its
+AFFILIATES  under  Exhibit D,  Warranty and Product  Support and Section 22 (c),
+entitled EXTRAORDINARY SUPPORT.
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+         Upon receipt of Customer's  EC  identified as a fire or safety  hazard,
+Seller  agrees  to  acknowledge  receipt  of  such  EC  and  to  respond  within
+twenty-four  (24) hours.  This  response  shall  include the proposed  remedy or
+proposed  corrective action to resolve the stated problem,  or the date when the
+accepted solution will be completed.
+
+         In the event the Seller  anticipates that the proposed  solution to the
+EC will exceed thirty (30) days,  and then Seller  shall,  once every two weeks,
+issue an Interim Report to Customer,  reporting  actions taken and progress made
+during the reporting period. In addition, such reports will indicate the date by
+which  Seller  anticipates  that  the  ongoing  EC  study  will be  successfully
+concluded.
+
+         Seller  shall  create and  maintain a tracking  system that records and
+summarizes  all events  surrounding  any EC submitted by Customer.  Seller shall
+also provide  Customer  with  on-going  reports at monthly  intervals as to what
+manifested the EC, what remedial  actions were made by Seller as a result of the
+Complaint  and what  was the  result  of those  remedial  actions.  The  overall
+progress  and  performance  results  shall be reviewed by Customer and Seller to
+evaluate the overall quality of the process.
+
+         Upon  Acceptance  of Seller's  resolution  by  Customer,  Seller  shall
+implement necessary changes within thirty (30) days.
+
+         In the event an EC causes Customer to incur  additional  costs,  Seller
+shall be responsible to reimburse  Customer and/or its Affiliate for such costs.
+Customer shall  substantiate  such costs and submit to Seller a claim.  for such
+costs.  Seller shall pay such claim within thirty (30) days after  resolution of
+the EC upon  which  the claim is based.  In the event  Seller  fails to pay such
+claim,  Seller shall compensate  Customer in accordance with Exhibit I, entitled
+PERFORMANCE COMPENSATION PAYMENTS.
+
+         If Customer or its Affiliate disagree with Seller on the implementation
+schedule  and/or  resolution of Complaint,  Customer or its Affiliate shall have
+the right to  escalate  the matter for  review on the  implementation  schedule,
+validity of the complaint,  and/or resolution to higher management in accordance
+with Section 32 hereof, entitled DISPUTE RESOLUTION.
+
+                  1.8.2  SELLER   QUALITY   COMPLAINTS  In  the  event  Customer
+determines that Product  furnished  hereunder does not perform in a satisfactory
+manner  or is  unsatisfactory  in other  respects,  Customer  may issue a Seller
+Quality  Complaint  (SQC) in writing to notify  Seller.  Seller shall provide an
+acknowledgment  to Customer within ten (10) days of receipt.  Within twenty (20)
+days the Seller shall provide a final report specifying, as required, the change
+in design, manufacturing process or installation and/or engineering instructions
+required to address  Customer's  SQC.  The report will include the root cause of
+the SQC,  condition  and a plan for immediate  corrective  action to correct the
+SQC, and a long-term plan to ensure continued quality Products are provided.
+
+         Nothing herein shall obviate  Seller's  obligations  (including but not
+limited to the following  EXHIBITS and/or  Sections of this Agreement  regarding
+warranty,  repair and replacement):  EXHIBIT K-2 STANDARDIZATION hereof, Exhibit
+K-1, Part B, Section 1 entitled CHANGES TO HARDWARE OR  SOFTWARE/PRODUCT  CHANGE
+NOTICES (PCNs),  and EXHIBIT D PURCHASE FOR INTERNAL USE,  LICENSE  WARRANTY AND
+PRODUCT SUPPORT.
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+         Customer's  points  of  contact  for  all  complaint   information  and
+correspondence shall be:
+
+                           Specialist Supply Chain Services
+                           Quality Management
+                           Verizon Corporate Sourcing
+                           700 Hidden Ridge
+                           Irving, TX  75038
+
+         and:
+
+                           Sr. Sourcing Process Leader
+                           Verizon Corporate Sourcing
+                           700 Hidden Ridge
+                           Irving, TX  75038
+
+         1.9  E-REPORT  CARDS  (ERC)  e-Report  Cards  may be used as a means of
+measuring the Seller's overall performance to ensure the Seller is in compliance
+with established  performance levels.  Seller shall be responsible for reporting
+performance  data in accordance  with  specific  metrics to be developed for the
+applicable  product/service.  Grades  will be  assigned  to assess the  Seller's
+performance  via the eRC  process,  and the Seller  shall be  required to meet a
+grade of "B" or above.
+
+Within an agreed upon  timeframe  after the  execution  of this  Agreement,  the
+Customer may implement the eRC process  utilizing  Seller's product  performance
+data.
+
+For any  elements of the eRC that are below a grade of "B",  the Seller shall be
+required  to  develop a  written  Corrective  Action  Plan,  within a  specified
+timeframe as stated by the Customer. If within a mutually agreed upon timeframe,
+the Corrective Action Plan has not led to an acceptable  improvement of the said
+elements (to a grade of "B" or above),  then the Customer may exercise  remedies
+as set forth in this Agreement.
+
+If, based upon the monthly data collected for the  Customer's  eRC process,  the
+Seller fails to maintain a total grade of "B" or above for three (3) consecutive
+months,  the Customer  may, in addition to other  rights  under this  Agreement,
+terminate  such as  specified  in the  TERMINATION  FOR CAUSE  provision of this
+Agreement.  The  Customer's  right to terminate this Agreement for Cause are not
+precluded by the Customer's delay in exercising its rights under this Agreement.
+
+         1.10 CONTINUOUS  QUALITY  IMPROVEMENT  PLAN Seller shall have a written
+plan for  continuously  assessing and improving the quality and  reliability  of
+Product.  Seller's Quality  Improvement  Plan (QIP) shall  incorporate and use a
+well defined and written set of metrics,  approved by Customer's  Seller Quality
+Leader  (SQL).  This  plan  will  assess  internal  development  data and  field
+performance  data  used to  improve  Seller's  performance.  Metric  collection,
+analysis  and  reporting  should be conducted  on a continual  basis.  Both file
+performance and in-process data shall be utilized.
+
+         All information,  including,  but is not limited to, plans,  procedures
+and results, in Seller's QIP shall be made available for monthly review.
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+                                   APPENDIX A
+
+               QUALITY, RELIABILITY AND ENGINEERING SPECIFICATIONS
+
+Seller shall be expected to comply with the most current  issue of the documents
+below that apply.
+
+"TL 9000 Quality Management System - Requirements Handbook, Release 3.0 and TL
+9000 Quality Management System Measurements, Release 3.0"
+
+Copies may be ordered through the American  Society for Quality by calling (800)
+248-1946.  Additional information on TL 9000 may be found on the QUEST Forum web
+site at www.questforum.org.
+
+Information and ordering  instructions for the technical references below may be
+obtained  by  contacting   Telcordia   Technologies  at  the  following  number:
+1-800-521-2673 (current charges apply).
+
+*
+<TABLE>
+<CAPTION>
+                              TECHNICAL REFERENCES
+                              --------------------
+
+Number                    Date       Title
+<S>                       <C>           <C>
+TL 9000                   3/01       TL 9000 Quality Management System - Requirements Handbook, Release 3.0
+TL 9000                   3/01       TL 9000 Quality Management System Measurements Handbook, Release 3.0
+GR-63                     10/95      Network Equipment - Building System (NEBS) Requirements: Physical Protection
+GR-78                     09/97      Generic Requirements for the Physical Design and Manufacture of Telecommunications
+                                     Products and Equipment
+
+GR-209                    09/98      Requirements for Product Change Notices
+GR-230                    12/97      Requirements for Engineering Complaints
+GR-282                    Rev 1      Software Reliability And Quality Acceptance Criteria (SRQAC), A Module Of RQGR,
+                          12/97      FR-796
+
+GR-383                    10/00      COMMON LANGUAGE(R) Equipment Codes (CLEITM Codes) - Generic Requirements for Bar Code
+                                     Labels
+
+GR-485                    02/01      Common Language(R) Equipment Codes (CLEITM Codes)- Generic Requirements for Processes
+                                     and Guidelines
+GR-929                    12/00      Reliability and Quality Measurements for Telecommunications Systems RQMS-Wire
+                                     line), A Module of RQMS, FR-929 and RQGR, FR-796
+GR-1089                   12/97      Electromagnetic Compatibility and Electrical Safety Generic Criteria for Network
+                                     Telecommunications Equipment
+GR-1315                   12/97      In-Process Quality Metrics (IPQM)
+GR-1421                   06/96      Generic Requirements for ESD Protective Circuit Packet Containers
+SR-NWT-2759               01/95      A View of Packaging, Palletization and Marking Requirements
+
+<PAGE>
+
+SR-332                    05/01      Reliability Prediction Procedure for Electronic Equipment
+TR-NWT-000357             10/93      Generic Requirements for Assuring Reliability of Components Used in
+                                     Telecommunications Equipment
+
+TR-NWT-000418             12/97      Generic Reliability Assurance Requirements For Fiber Optic Transport Systems A
+                                     Module Of RQGR, FR-796
+Replaced; (Now)
+
+GR-418
+
+TR-NWT-000840             06/00      Supplier Support Generic Requirements (SSGR), A Module of LSSGR, FR-64; OTGR,
+                                     FR-439; and TSGR, FR-440
+Replaced; (Now)
+
+GR-840
+
+TR-NWT-000870             02/91      Electrostatic Discharge Control in the Manufacture of Telecommunications Equipment
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+                            EXHIBIT H ATTACHMENT H-1
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+
+<PAGE>
+
+
+                                    EXHIBIT H
+
+                                 ATTACHMENT H-2
+
+                              TL 9000 REQUIREMENTS
+
+                     (REPRESENTATION AND WARRANTY LANGUAGE)
+
+         QUALITY SYSTEM WARRANTY:
+
+         A.  TL 9000 REPRESENTATION AND WARRANTY
+
+                  1. As used in this Section, the term:
+
+(a)      "TL 9000 Registration" is a certification of TL 9000 Compliance and
+                  indicates the successful completion of a Registration Audit by
+                  a TL  9000  Registrar,  including  the  receipt  of a TL  9000
+                  Certificate. TL 9000 Registration (i) may apply to the quality
+                  management  system for Hardware,  Software,  Services,  and/or
+                  Documentation or any combination thereof and (ii) may cover an
+                  entire  company,  a  business  unit,  facility  or a  limited,
+                  defined  product  line as  mutually  agreed by Seller  and the
+                  Registrar.  The scope of TL 9000  Registration will be clearly
+                  defined within the TL 9000  Certificate.  TL 9000 Registration
+                  lasts  for 3 years,  covers  100% of the  scope of the  entity
+                  being registered (i.e., company, organizational unit, facility
+                  or  limited,  defined  product  line)  and the TL  9000Quality
+                  Management System Requirements.
+
+(b)               "TL  9000   Certificate"   defines   the   scope  of  TL  9000
+                  Registration  and certifies that Seller's  applicable  quality
+                  management  system is TL 9000  Compliant and has  successfully
+                  completed a TL 9000 Registration Audit by a TL 9000 Registrar.
+
+(c)               "TL 9000 Registration Audit" means a planned,  independent and
+                  documented  assessment of a Seller's quality management system
+                  that is performed by a TL 9000  Registrar to determine TL 9000
+                  Compliance of such system.
+
+(d)               "TL 9000  Registrar"  means an  organization  that  meets  the
+                  requirements   established  by  the  Quality   Excellence  for
+                  Suppliers  of  Telecommunications   Leadership  Forum  ("QuEST
+                  Forum") and affirmed by the accreditation body for the purpose
+                  of administering the TL 9000 Registration process.  Registrars
+                  perform  TL  9000  Registration  Audits  under  a  contractual
+                  arrangement  with the Seller  (the  "Registration  Contract").
+                  Registrars  are  responsible  for verifying that a contracting
+                  Seller  has  implemented  a  quality  management  system  that
+                  complies  with  TL  9000  Requirements  for  as  long  as  the
+                  Registration Contract is in effect.
+
+(e)               "TL 9000 Quality Management System Requirements,"  referred to
+                  herein as "TL 9000 Requirements," mean the  telecommunications
+                  quality  system  requirements  that are common to the  design,
+                  development, production, delivery,
+
+
+
+                            EXHIBIT H ATTACHMENT H-2
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+                  installation  and  maintenance  of hardware,  software  and/or
+                  services established by the QuEST Forum. In addition to common
+                  quality  requirements,  the QuEST  Forum has also  established
+                  separate  quality  system  requirements  that are  specific to
+                  hardware, software and services,  respectively, as part of the
+                  TL  9000  Requirements.  TL  Requirements  also  include  such
+                  Requirements  as updated  or amended  from time to time by the
+                  QuEST Forum.
+
+(f)               "TL  9000  Compliant"  or  "TL  9000  Compliance"  means  that
+                  Seller's  applicable quality management system fully meets the
+                  TL 9000  Requirements  as documented by the receipt of either:
+                  (i) TL 9000 Certificate;  or (ii)TL 9000 Compliance  Statement
+                  as such terms are defined herein.
+
+(g)               "TL 9000 Compliance Statement" is an affirmative indication in
+                  writing that Seller's quality management system has met the TL
+                  9000  Requirements from any quality auditor who is independent
+                  of Seller, is certified to perform TL 9000 audits and is not a
+                  TL 9000 Registrar ("Quality Auditor").
+
+(h)               "TL 9000 Product  Category  Table" means the auditable TL 9000
+                  Requirements  (which  are  referred  to  herein as the TL 9000
+                  Quality System  Measurements)  as published in TL 9000 Quality
+                  Management System - Measurements Handbook by the QuEST Forum.
+
+                  *
+
+                  2. (a) Seller represents,  warrants and agrees that within one
+                  year from execution of this Agreement,  or sooner if possible,
+                  it will use commercially reasonable efforts to ensure that the
+                  processes it utilizes to produce Hardware, Software, Services,
+                  and/or  Documentation  or any  combination  thereof under this
+                  Agreement  will be under  quality  management  system(s)  that
+                  shall  have  undergone  TL  9000  Registration.  Seller  shall
+                  maintain  its TL  9000  Registration  for  the  term  of  this
+                  Agreement. Seller shall provide Customer written documentation
+                  of its TL 9000 Registration,  consisting of copies of Seller's
+                  TL 9000  Certificate(s)  within thirty (30) days from the date
+                  of  issuance  of  such  written   documentation   of  TL  9000
+                  Registration.
+
+                  (b) If Seller has not provided  documented  evidence of its TL
+                  9000 Registration,  i.e., the TL 9000 Certificate,  within one
+                  year,  or  sooner  if  possible,  from the  execution  of this
+                  Agreement, then, Seller shall provide Customer upon Customer's
+                  request and at no additional charge, the following for each of
+                  Seller's quality  management systems described above that have
+                  not achieved TL 9000 Registration:
+
+
+                            EXHIBIT H ATTACHMENT H-2
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+         o        A TL 9000  quality  plan  that  conforms  to the most  current
+                  versions of (i) the TL 9000  Requirements and (ii) the TL 9000
+                  Quality System Measurements.
+
+         o        The elements to be detailed in such quality plan shall include
+                  (at   minimum):   (i)  a  schedule   for   achieving  TL  9000
+                  Registration;   and  (ii)   designation  of  Seller's  quality
+                  representative and of the Seller senior executive with quality
+                  responsibility.
+
+(c)    Seller shall provide Customer upon Customer's request or on the reporting
+       basis  stated  herein  and  at  no  additional   charge,   the  following
+       information for each of Seller's  quality  management  systems  described
+       above whether such systems have achieved TL 9000 Registration or not:
+
+         (i) TL 9000 Registration Audit results, if any;
+         (ii) Quality management system review goals and objectives on an annual
+         basis;  and
+         (iii)  the TL  9000  Registration  Audit  results  for any
+         business unit that has achieved TL 9000  Registration  and received the
+         TL 9000 Certificate.
+
+(d)    Prior to  achievement of TL 9000  Registration,  Customer and Seller will
+       mutually  agree  on  the  format  for  delivery  of  quality  performance
+       measurements.  Seller shall provide Customer with these  measurements for
+       each of Seller's quality  management systems described above, which shall
+       be submitted on a quarterly  basis  (within 20 working days after the end
+       of each quarter
+
+       (e) After the achievement of TL 9000  Registration,  Seller shall provide
+       Customer  with  quality  performance  measurements  for each of  Seller's
+       quality  management  systems described above. These measurements shall be
+       submitted on a quarterly
+
+        basis in  conformance  with  the TL 9000  Quality  System  Measurements,
+       including  the TL 9000  Product  Category  Table,  as required by TL 9000
+       Registration.
+
+3. If  Seller  allows  its TL 9000  Registration  to lapse or if  Seller  is not
+compliant  with the most current TL 9000  Requirements,  Seller  agrees to allow
+Customer or Customer's  agent to conduct  periodic  on-site  reviews at Seller's
+Hardware  production/Software  development facility(s) to verify compliance with
+TL 9000 Requirements or any such other industry-wide  quality  requirements that
+replaced TL 9000. Seller also agrees to develop  corrective action plans for any
+of its quality  systems  that fail to comply with TL 9000  Requirements,  or any
+such other industry-wide quality requirements that replaced TL 9000, that may be
+detected during these periodic on-site reviews, and submit such plans in writing
+to the Customer or Customer's agent for Customer's  agreement within thirty (30)
+days after any such on-site  review.  Further,  Seller agrees to implement these
+corrective action plans within a time frame as agreed to by Customer within such
+corrective action plan.
+
+
+                            EXHIBIT H ATTACHMENT H-2
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+         B.  ORDER OF PRECEDENCE
+
+         In the  event  of  conflict  between  the TL  9000  Representation  and
+         Warranty and any corresponding term of this Agreement,  the terms of TL
+         9000 Representation and Warranty will take precedence.
+
+         C.  SUBCONTRACTORS
+
+         Seller  represents,  warrants  and  agrees  that  within  180 days from
+         execution  of this  Agreement,  or  sooner  if  possible,  it will  use
+         commercially  reasonable  efforts to ensure that the processes utilized
+         by each of its subcontractors,  if any, to produce component part(s) of
+         the  Hardware,   Software,   Services,   and/or  Documentation  or  any
+         combination  thereof  provided  under this  Agreement will all be under
+         quality  management systems that are mutually agreeable to the parties.
+         Seller  shall  monitor and audit such  quality  management  systems and
+         share the results of such  monitoring  and auditing  with Customer on a
+         quarterly  basis to the extent such  reporting  would be allowed by the
+         applicable subcontracts and in a format and on a reporting basis as are
+         mutually agreed to by the parties.
+
+         At such time that the TL 9000 Requirements for subcontractors have been
+         established,  Seller shall assure that each of its subcontractors  that
+         produce component part(s) of the Hardware,  Software,  Services, and/or
+         Documentation or any combination  thereof provided under this Agreement
+         is  performing  under  a  quality  management  system  that  is TL 9000
+         Compliant and shall provide to Customer on a quarterly  basis: (1) such
+         measurements  regarding  the quality  systems of  subcontractors  as is
+         mandated  by the TL 9000  Requirements;  (2) an  identification  of key
+         subcontractors, their respective TL 9000 Compliance status and schedule
+         for achieving TL 9000  Compliance;  and (3) the designation of Seller's
+         subcontractors' quality representative.
+
+         D. TERM OF TL 9000 REPRESENTATIONS AND WARRANTIES
+
+         The representations, warranties and remedies set forth in this Section:
+         (a) shall be in effect for the Term of this  Agreement;  and (b) are in
+         addition to any other rights or remedies  available  to Customer  under
+         this Agreement or otherwise at law or equity.  Notwithstanding anything
+         to the contrary herein,  the TL 9000  Registration  Audit results,  any
+         information  required to be disclosed  under this  Section,  and the TL
+         9000  Certificate  provided by Seller under this  Section  shall not be
+         deemed proprietary to Seller.
+
+
+                            EXHIBIT H ATTACHMENT H-2
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+
+                                    EXHIBIT I
+
+           PERFORMANCE COMPENSATION PAYMENTS PRODUCT AVAILABILITY AND
+
+                              PERFORMANCE REMEDIES
+
+
+                                       *
+
+
+
+
+
+
+                                    EXHIBIT I
+
+                                     NOTICE
+
+           CONFIDENTIAL - Not for use or disclosure outside of Verizon
+                    except with Verizon's written permission
+
+<PAGE>
+
+
+
+                                    EXHIBIT J
+
+        BILLING VERIFICATION & AUTHORIZATION FOR PAYMENT PROCESS (BVAPP)
+
+                                 NOT APPLICABLE
+
+
+
+
+
+
+
+
+
+                                   EXHIBITS 10
+
+                                     NOTICE
+
+            CONFIDENTIAL - Not for use or disclosure outside Verizon
+                          except by written agreement
+
+
+
+<PAGE>
+
+                                    EXHIBIT K
+
+                   ATTACHMENT K-1 STANDARDIZATION VERIZON EAST
+
+                   ATTACHMENT K-2 STANDARDIZATION VERIZON WEST
+
+
+
+                                       *
+
+
+
+
+
+
+
+                                   EXHIBITS 11
+
+                                     NOTICE
+
+            CONFIDENTIAL - Not for use or disclosure outside Verizon
+                    except with Verizon's written permission
+
+
+
+</TEXT>
+</DOCUMENT>

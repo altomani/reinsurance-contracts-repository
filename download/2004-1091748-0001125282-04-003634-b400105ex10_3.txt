@@ -1,0 +1,1657 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>2
+<FILENAME>b400105ex10_3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.3
+
+
+                             SELECT REINSURANCE LTD
+
+                                      AND
+
+                              PXRE REINSURANCE LTD
+
+                                      AND
+
+                            HARRINGTON TRUST LIMITED
+
+
+
+
+
+
+
+
+                   ------------------------------------------
+
+                            "THE PATRIOT 2004 TRUST"
+
+                   ------------------------------------------
+
+<PAGE>
+
+                             THE PATRIOT 2004 TRUST
+
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+CLAUSE                SUBJECT                                                                         PAGE
+------                -------                                                                         ----
+<S> <C>                                                                                                <C>
+1.   Definitions and Construction........................................................................1
+2.   Name and Proper Law.................................................................................5
+3.   Deposit of Assets into the Trust Fund...............................................................5
+4.   The Trust Fund......................................................................................6
+5.   Powers Regarding Assets and Income..................................................................6
+6.   Investment of Assets................................................................................9
+7.   Additional Powers..................................................................................10
+   Power to Manage as if Absolute Owner.................................................................10
+   Power to Receive Additions...........................................................................10
+   Power to Vote and Give Proxies.......................................................................10
+   Power to Keep Trust Fund Abroad......................................................................10
+   Power to Pay Duties..................................................................................11
+   Power to Execute Documents...........................................................................11
+   Power to Prosecute and Defend........................................................................11
+   Power to Distribute in Specie........................................................................12
+   Power to Seek Legal Advice...........................................................................12
+   Power to Appoint Investment Advisor..................................................................12
+   Power to Delegate Generally..........................................................................13
+   Power to Act Notwithstanding Personal Interest.......................................................13
+8.   Additional Rights and Duties of the Trustee........................................................13
+9.   Trustee's Remuneration.............................................................................14
+10.  Trustee's Liability and Indemnity..................................................................15
+11   Receipt of Income..................................................................................16
+12   Protection of Third Parties........................................................................16
+13.  Trustee Acting as Director etc. and Agent..........................................................16
+14.  Overseeing Management of Companies.................................................................17
+15.  Trustee's Discretion...............................................................................17
+16.  Notices............................................................................................17
+17.  Severability.......................................................................................18
+18.  Assigns............................................................................................18
+19.  Appointment and Retirement of Trustee..............................................................18
+20.  Settlor's Power to Change Proper Law and Forum.....................................................20
+21.  Counterparts.......................................................................................20
+22.  Power to Vary......................................................................................20
+23.  Termination of Trust...............................................................................21
+24.  Arbitration........................................................................................22
+25.  Irrevocable Trust Agreement........................................................................23
+26.  Representation and Warranties......................................................................23
+     FIRST SCHEDULE.....................................................................................25
+     SECOND SCHEDULE....................................................................................26
+     THIRD SCHEDULE.....................................................................................27
+     FOURTH SECHDULE....................................................................................29
+     FIFTH SECHEDULE....................................................................................31
+</TABLE>
+
+<PAGE>
+
+THIS TRUST AGREEMENT is made as of the 30th day of June 2004 AMONG SELECT
+REINSURANCE LTD, a reinsurance company incorporated under the laws of Bermuda
+(the "SETTLOR"), HARRINGTON TRUST LIMITED, a licensed trust company incorporated
+under the laws of Bermuda (the "ORIGINAL TRUSTEE") and PXRE REINSURANCE LTD, a
+reinsurance company incorporated under the laws of Bermuda (the "BENEFICIARY").
+
+W H E R E A S :
+
+(A)      The Settlor and the Beneficiary have entered into certain Reinsurance
+         Agreements in which the Settlor has reinsured the Beneficiary (the
+         "REINSURANCE AGREEMENTS") set forth in the First Schedule (as such
+         schedule may be amended from time to time); and
+
+(B)      The Settlor has agreed to secure payment of Obligations from time to
+         time owing by the Settlor to the Beneficiary under or in connection
+         with the Reinsurance Agreements in accordance with the terms provided
+         for therein; and
+
+(C)      The Beneficiary has issued the Policy in favour of the Settlor; and
+
+(D)      The Settlor desires to transfer to the Trustee the sum of money or
+         other assets specified in the Second Schedule and anticipates it will
+         transfer or otherwise place under the control of the Trustee further
+         assets by way of addition to the Trust Fund in order to secure
+         Obligations under or in connection with the Reinsurance Agreements; and
+
+(E)      The Settlor and the Beneficiary have further agreed that the Assets
+         shall be applied to secure the obligations of the Beneficiary under the
+         Policy; and
+
+(F)      The Trustee has agreed to act as trustee hereunder and to hold the
+         Trust Fund upon the terms of this Trust Agreement for the benefit of
+         the Beneficiary and the Settlor, such that the Assets of the Trust Fund
+         shall be held for the benefit of the Beneficiary while Obligations
+         remain outstanding and for the Settlor in priority to the claims of the
+         Beneficiary to the extent provided for in Section 5.7 hereof, and with
+         any Income in the Income Account held for the benefit of the Settlor;
+         and
+
+(G)      This Trust Agreement is made for the benefit of the Beneficiary and the
+         Settlor and to set forth the duties and powers of the Trustee with
+         respect to the Trust Fund.
+
+NOW THIS DEED WITNESSES as follows:
+
+1.       DEFINITIONS AND CONSTRUCTION
+
+         In this Declaration, wherever the context permits, the following
+         definitions and rules of construction shall apply:
+
+         1.1      "AFFILIATE" means, with respect to any company, a company
+                  which directly, or indirectly through one or more
+                  intermediaries, controls or is controlled by, or is under
+                  common control with, such company;
+
+<PAGE>
+
+                                      -2-
+
+
+         1.2      "ASSET" means any asset deposited in the Trust Fund (being
+                  collectively referred to as "ASSETS", but excluding amounts in
+                  or to be credited to the Income Account;
+
+         1.3      "AUTHORISED SIGNATORY" means in relation to the Trust or the
+                  Trust Fund or to matters relating thereto, any person who is
+                  identified by respectively the Beneficiary and the Settlor as
+                  an authorised signatory from time to time. A certificate of
+                  the corporate secretary of the Beneficiary or the Settlor may
+                  be received and accepted by the Trustee as conclusive evidence
+                  of, or a change of, an Authorised Signatory who may provide
+                  written or telefaxed directions or instructions on behalf of
+                  the Settlor or the Beneficiary, as the case may be, and may be
+                  considered as remaining in full force and effect until receipt
+                  by the Trustee of written notice to the contrary from the
+                  Settlor or the Beneficiary, as the case may be;
+
+         1.4      "BENEFICIARY" means PXRE Reinsurance Ltd. or its successors or
+                  assigns including in liquidation;
+
+         1.5      "BUSINESS DAY" means any week day on which business is
+                  transacted in Bermuda which is not a public holiday;
+
+         1.6      "COMPANY" means any body, incorporated or established in any
+                  part of the world, which has a legal existence independent of
+                  that of its members including partnerships and limited
+                  liability companies;
+
+         1.7      "CONTROL" (including the related terms "CONTROLLED BY" and
+                  "UNDER COMMON CONTROL WITH") means the ownership, directly or
+                  indirectly, of more than fifty percent (50%) of the voting
+                  shares of a company;
+
+         1.8      "DEED" means any instrument in writing which is signed,
+                  witnessed and dated, or otherwise validly executed in
+                  accordance with the law of the place where it is executed;
+
+         1.9      "DESIGNEE" means a person designated in a Withdrawal Notice to
+                  receive Assets on behalf of the Beneficiary;
+
+         1.10     "ELIGIBLE SECURITIES" means cash or securities of the type set
+                  forth in the Fifth Schedule (Investment Guidelines), provided
+                  that such securities comply with the liquidity and
+                  concentration limitations for hedge funds and the credit
+                  requirements for bonds set forth in the Fifth Schedule.
+
+         1.11     "EVENT OF INSOLVENCY" means an event whereby the Beneficiary,
+                  PXRE Reinsurance Company or PXRE Group Ltd. has become subject
+                  to an insolvency, liquidation, rehabilitation proceedings,
+                  administrative supervision or governmental action related to
+                  the impaired financial position of any of them;
+
+<PAGE>
+
+                                      -3-
+
+
+         1.12     "FAIR MARKET VALUE" shall mean with respect to (a) hedge
+                  funds, the most recent net asset value of the applicable
+                  interest received from or on behalf of the relevant hedge
+                  fund, (b) bonds, the mean of the bid and asked closing
+                  quotation from a broker dealer, chosen reasonably by Settlor,
+                  for the valuation date or if no such quotation is available,
+                  the last such available quotation.
+
+         1.13     "INCOME" means any interest, dividends and other income which
+                  is paid with respect to the Assets;
+
+         1.14     "INCOME ACCOUNT" means a separate account established and
+                  maintained by the Settlor at the office of the Trustee for the
+                  receipt of Income in respect of Assets in the Trust Fund;
+
+         1.15     "OBLIGATIONS" means, with respect to the Reinsurance
+                  Agreements, the Settlor's share of (i) amounts payable from
+                  time to time to the Beneficiary by the Settlor under the
+                  Reinsurance Agreements, including, without limitation,
+                  ultimate net loses, reinsurance loss adjustment expenses,
+                  profit commissions, and return premium upon cancellation, paid
+                  by the Beneficiary but not recovered from the Settlor; (ii)
+                  reserves for reinsured losses reported and outstanding; (iii)
+                  reserves for reinsured losses incurred but not reported; (iv)
+                  reserves for allocated loss adjustment expenses; (v)
+                  outstanding, commissions, return premiums, and profit
+                  commissions, owed by the Beneficiary to third parties. If, for
+                  any reason, the Trustee pays its remuneration or any other
+                  amounts to or for the account of the Trustee or an indemnified
+                  person under Clause 10 out of the Assets of the Trust Fund, or
+                  collects the same from the Settlor, the Obligations shall be
+                  reduced by such amounts, unless the payment relates to the
+                  indemnity provided by the Settlor as outlined in Clause 10.2.2
+                  of this Trust Agreement.
+
+         1.16     "PARENT" means an institution which, directly or indirectly,
+                  controls another institution;
+
+         1.17     "PERSON" includes any individual, company, unincorporated
+                  association and any person acting in a fiduciary capacity;
+
+         1.18     "POLICY" means the Financial Guarantee Insurance Policy number
+                  HB79211346 and dated February 29, 2002 which was issued by the
+                  Beneficiary to the Settlor;
+
+         1.19     "PROPER INSTRUCTIONS" means written or telefaxed directions,
+                  certificates, instructions or consents to be provided by the
+                  Settlor or the Beneficiary and signed by an Authorised
+                  Signatory of the Settlor or the Beneficiary or either of them
+                  as the case may be;
+
+<PAGE>
+
+                                      -4-
+
+
+         1.20     the "PROPER LAW OF THIS TRUST" means the law of the
+                  jurisdiction under which questions affecting the validity,
+                  construction and effect of this Declaration and each and every
+                  provision hereof are to be determined;
+
+         1.21     "SUBSIDIARY" means an institution controlled, directly or
+                  indirectly, by another institution.
+
+         1.22     the "TRUST FUND" means:
+
+                  1.22.1   the sum of money specified in the Second Schedule;
+
+                  1.22.2   all property hereafter paid, transferred to or
+                           otherwise placed under the control of and accepted by
+                           the Trustee as additions to the Trust Fund and in
+                           respect of which a memorandum signed by the Trustee
+                           shall be conclusive evidence absent manifest error;
+
+                  1.22.3   all Income which shall in accordance with the
+                           provisions of this Declaration be credited by the
+                           Trustee into the Income Account; and
+
+                  1.22.4   the money, investments and other property from time
+                           to time arising from the disposition or substitution
+                           of any of the foregoing and not distributed in
+                           accordance with the terms of this Trust Agreement;
+
+         1.23     the "TRUST PERIOD" means the period commencing on the date
+                  hereof and ending on whichever shall be the earlier of the
+                  following days:
+
+                  1.23.1   the day on which shall expire the period of one
+                           hundred years from the date hereof; and
+
+                  1.23.2   such day, if any, as (a) the Settlor and the
+                           Beneficiary may determine in accordance with the
+                           power conferred on them by Sub-Clause 23.1, or (b)
+                           the Settlor may determine in accordance with the
+                           powers conferred on it by Sub-Clause 23.2;
+
+         1.24     the "TRUSTEE" means the trustee for the time being hereof,
+                  including the Original Trustee;
+
+         1.25     "THIS TRUST" means the trust created by this Trust Agreement;
+
+         1.26     "WITHDRAWAL NOTICE" means the notice of withdrawal given by
+                  the Beneficiary to the Trustee in the form attached as the
+                  Third Schedule;
+
+<PAGE>
+
+                                      -5-
+
+
+         1.27     "WITHDRAWAL REQUEST" means the withdrawal request given by the
+                  Settlor to the Trustee in the form attached as the Fourth
+                  Schedule;
+
+         1.28     words denoting any gender shall include both the other genders
+                  where appropriate;
+
+         1.29     words denoting the singular shall include the plural and vice
+                  versa where appropriate;
+
+         1.30     the index and headings (other than those of the Schedules) in
+                  this Declaration are inserted for convenience of reference
+                  only and shall have no legal effect, nor shall they affect in
+                  any way the construction of any Clause contained herein;
+
+         1.31     any reference to a Clause, Sub-Clause or paragraph shall,
+                  unless the context precludes such a construction, be read as a
+                  reference to the particular Clause, Sub-Clause or paragraph of
+                  the Clause or Sub-Clause in which the reference occurs;
+
+2.       NAME AND PROPER LAW
+
+         2.1      This Trust shall be known as "THE PATRIOT 2004 TRUST" or by
+                  such other name as the Trustee may from time to time
+                  determine.
+
+         2.2      This Trust is established under, and (subject to Sub-Clause
+                  20.1) the Proper Law of this Trust shall be, the laws of
+                  Bermuda and the courts of Bermuda shall be the forum for the
+                  administration thereof.
+
+3.       DEPOSIT OF ASSETS INTO THE TRUST FUND
+
+         3.1      The Settlor shall establish the Trust Fund for the benefit of
+                  the Beneficiary and the Settlor and the Trustee shall
+                  administer the Trust Fund in its name as trustee for the
+                  Beneficiary and the Settlor. The Trust Fund shall be subject
+                  to withdrawal by the Beneficiary and the Settlor as provided
+                  herein.
+
+         3.2      The Settlor may transfer such assets to the Trustee, for
+                  deposit into the Trust Fund, as it may from time to time
+                  desire, provided that such assets consist solely of Eligible
+                  Securities. The Trustee shall have no responsibility
+                  whatsoever to determine whether or not such assets consist
+                  solely of Eligible Securities.
+
+         3.3      Assets other than cash shall be registered as follows in the
+                  books of the issuer or its transfer agent:
+
+<PAGE>
+
+                                      -6-
+
+
+                  "[Name of Trustee] as trustee under the Patriot 2004 Trust
+                  dated June 30, 2004."
+
+4.       THE TRUST FUND
+
+         The Trustee shall hold the Trust Fund and the income thereof UPON TRUST
+         for the Beneficiary and the Settlor to pay and apply the same in such
+         manner as set out in Clause 5 below and otherwise deal with the Trust
+         Fund in accordance with this Trust Agreement.
+
+5.       POWERS REGARDING ASSETS AND INCOME
+
+         5.1      Unless the Trustee has received Proper Instructions from the
+                  Settlor stating that there has been an Event of Insolvency or
+                  a claim under the Policy is outstanding, and subject to the
+                  applicable provisions of this Clause 5 , the Trustee shall,
+                  during the Trust Period, pay, transfer, appropriate or apply
+                  the whole or any part of the Assets of the Trust Fund to or
+                  for the benefit of the Beneficiary in such manner as the
+                  Beneficiary shall direct by a Withdrawal Notice, a copy of
+                  which shall be provided by Trustee to Settlor as soon as
+                  reasonably possible after receipt by the Trustee. Subject to
+                  the foregoing, upon receipt of a Withdrawal Notice, the
+                  Trustee shall immediately:
+
+                  (a)      take all steps that are necessary to transfer and
+                           deliver the Assets specified in the Withdrawal Notice
+                           to, or for the account of, the Beneficiary or any
+                           Designee; and
+
+                  (b)      reduce any non-cash Assets to cash as instructed by
+                           the Beneficiary.
+
+         5.2      The Beneficiary hereby covenants with the Settlor that it
+                  shall make withdrawals from the Trust Fund and use and apply
+                  any Assets withdrawn from the Trust Fund only to pay or
+                  reimburse the Beneficiary for the unpaid or unreimbursed
+                  portion of the Settlor's share of the Obligations previously
+                  paid by Beneficiary after netting any such amounts against
+                  amounts owed to the Settlor by the Beneficiary regardless of
+                  the source of such obligation and after demand on Settlor for
+                  such amount has been dishonored.
+
+         5.3      The Trustee shall have no responsibility whatsoever to
+                  determine that any Assets withdrawn from the Trust Fund
+                  pursuant to Sub-Clause 5.1 of this Trust Agreement will be
+                  used and applied in the manner contemplated by Sub-Clause 5.2.
+
+<PAGE>
+
+                                      -7-
+
+
+         5.4      When the Trustee is directed to deliver Assets against
+                  payment, delivery will be made in accordance with the
+                  procedures applicable to the Asset class, or if none are
+                  provided by the market for such Asset class, then within five
+                  (5) Business Days. Assets in the Trust Fund shall be valued
+                  according to their current fair market value.
+
+         5.5      No Assets shall be withdrawn from the Trust Fund or used in
+                  any manner for paying compensation to, or reimbursing expenses
+                  of, or indemnifying, the Trustee except for indemnification
+                  provided by the Settlor to the Trustee under Sub-Clause 10.2.2
+                  and as provided for in sub-Clause 9.3.
+
+         5.6      Notwithstanding any other provision of this Trust Agreement,
+                  all Income in respect of Assets in the Trust Fund shall be for
+                  the benefit of the Settlor and shall be deposited by the
+                  Trustee in the Income Account. The Settlor may give the
+                  Trustee Proper Instructions to deliver all or any portion of
+                  the Income Account to the Settlor or as it instructs.
+
+         5.7      Notwithstanding any provision to the contrary, if the Trustee
+                  has received Proper Instructions from the Settlor stating that
+                  there has been an Event of Insolvency or a claim under the
+                  Policy is outstanding, the Trustee shall provide a copy of
+                  such Proper Instructions to the Beneficiary forthwith and set
+                  aside such part of the Assets of the Trust Fund as is stated
+                  in the Proper Instructions to be required to settle the
+                  amounts due under the Policy or which the Settlor instructs
+                  should be set aside pending determination of the amount due
+                  under the Policy following an Event of Insolvency or a claim
+                  under the Policy, unless objected to in writing by the
+                  Beneficiary to the Settlor and Trustee within five (5)
+                  Business Days of delivery by the Trustee to the Beneficiary of
+                  the Settlor's Proper Instructions, and if so objected to, then
+                  as jointly instructed by the Settlor and the Beneficiary or as
+                  directed by an arbitration award entered in accordance with
+                  procedures set out in Clause 24 that is no longer subject to
+                  appeal. Except as provided for in Section 5.8, the Assets set
+                  aside shall not be available for a Withdrawal Request until
+                  Trustee receives joint instructions from Beneficiary and
+                  Settlor or as directed by an arbitration award entered in
+                  accordance with procedures set out in Clause 24 that is no
+                  longer subject to appeal. Pending resolution of any dispute
+                  between Beneficiary and Settlor as to the amount to be set
+                  aside, Trustee shall not reduce the Assets pursuant to a
+                  Withdrawal Notice below the amount Settlor claims should be
+                  set aside. Any Assets not subject to restraint by virtue of
+                  the foregoing provisions in Sub-Clause 5.7 shall be maintained
+                  and paid as otherwise provided for in this Trust Agreement.
+
+<PAGE>
+
+                                      -8-
+
+
+         5.8      For the purposes of Sub-Clause 5.7, it is agreed that the only
+                  matter to be determined by the Settlor and Beneficiary or by
+                  arbitration is the amount due to the Settlor under the Policy
+                  or other obligation of Beneficiary to Settlor and the amount
+                  due to the Beneficiary under the Reinsurance Agreements in
+                  respect of Obligations or other obligation of Settlor to
+                  Beneficiary. Once such amounts are determined, the following
+                  procedure shall be followed (the "Netting Procedure"). The
+                  amounts shall be netted and if the balance is due and owing to
+                  the Settlor, the Beneficiary shall pay the net amount to the
+                  Settlor as provided for in the Policy or other evidence of
+                  obligation and if the balance is due and owing to the
+                  Beneficiary, the Beneficiary may withdraw Assets from the
+                  Trust equal to the net amount due to Beneficiary and the
+                  Settlor shall pay any deficiency to the Beneficiary.
+                  Notwithstanding the foregoing, the Settlor may defer the
+                  Netting Procedure upon the occurrence of an Event of
+                  Insolvency until all amounts that may become due from
+                  Beneficiary to Settlor under the Policy, Reinsurance
+                  Agreements or otherwise are determinable.
+
+         5.9      Within ten (10) Business Days of the end of each calendar
+                  month, the Beneficiary shall provide the Settlor and Trustee
+                  with a report setting forth the amount required to be in the
+                  Trust Fund pursuant to the Reinsurance Agreements. The Settlor
+                  may object in writing to the Beneficiary's report within such
+                  ten (10) Business Days of receipt of such report and, if the
+                  Settlor and Beneficiary are unable to mutually agree to a
+                  resolution of the Settlor's objection, then such objection
+                  shall be resolved by arbitration pursuant to Clause 24.
+
+         5.10     In the event that the fair market value of the Assets exceeds
+                  the amount required to remain in the Trust Fund pursuant to
+                  the Reinsurance Agreements as determined in accordance with
+                  Sub-Clauses 5.7 and 5.9, the Trustee shall, during the Trust
+                  Period
+
+                  5.10.1   pay, transfer, appropriate or apply such part of the
+                           Assets of the Trust Fund to or for the benefit of the
+                           Settlor in such manner as the Settlor shall direct by
+                           a Withdrawal Request to the Trustee provided (i) the
+                           remaining Assets in the Trust Fund comply with the
+                           requirements of the Fifth Schedule as determined by
+                           Settlor, and (ii) after notice to the Beneficiary of
+                           the Assets to be withdrawn, Beneficiary does not
+                           object by notice to Settlor and Trustee within ten
+                           (10) Business Days of receipt of the notice to it and
+                           if objected to, then as jointly instructed by
+                           Beneficiary and Settlor or pursuant to an arbitration
+                           award under Clause 24 no longer subject to appeal;
+                           and
+
+                  5.10.2   reduce any non-cash Assets to cash as instructed by
+                           the Settlor, subject to the same provisos as in
+                           Sub-Clause 5.10.1.
+
+<PAGE>
+
+                                      -9-
+
+
+         5.11     In the event that the fair market value of the Assets is less
+                  than the amount required to be in the Trust Fund pursuant to
+                  the Reinsurance Agreements as determined in accordance with
+                  Sub-Clause 5.9, then the Settlor shall transfer Eligible
+                  Securities to the Trust Fund within fifteen (15) Business Days
+                  of receipt of Beneficiaries Clause 5.9 report, or if the
+                  Settlor objects as provided for in Sub-Clause 5.9, then within
+                  ten (10) business Days of the resolution of such objection, so
+                  that the fair market value of the Assets in the Trust Fund
+                  shall equal the amount required.
+
+         5.12     In the event that all the Obligations of the Settlor have been
+                  discharged, as jointly agreed by the Beneficiary and the
+                  Settlor, or determined in an arbitration award that is no
+                  longer subject to appeal, issued under the arbitration
+                  procedures as set out in Clause 24, the Trustee shall, subject
+                  to any lien or other right to payment of sums due to it, pay,
+                  transfer, appropriate or apply the whole or any part of the
+                  Trust Fund, to or for the benefit of the Settlor.
+
+6.       INVESTMENT OF ASSETS
+
+         6.1      Subject to Sub-Clause 6.2, the Assets shall be invested in
+                  Eligible Securities.
+
+         6.2      The Trustee shall at all times be bound by and only act upon
+                  the directions of the Settlor in the investment of the Trust
+                  Fund. The Settlor shall instruct the Trustee to invest the
+                  Trust Fund in accordance with any applicable provisions of the
+                  Reinsurance Agreements but only in securities complying with
+                  the Fifth Schedule. Trustee shall have no responsibility
+                  whatsoever to determine whether or not the investments are
+                  Eligible Securities or comply with the Reinsurance Agreements.
+
+         6.3      The Settlor shall have the power to instruct the Trustee to
+                  liquidate as well as to deliver any Assets as instructed by
+                  the Settlor provided that, except when the liquidation or
+                  delivery relates to a Withdrawal Notice or Withdrawal Request,
+                  the Trustee receives Eligible Securities of the same or
+                  greater fair market value as those delivered out, as
+                  determined by the Settlor, or such lesser fair market value
+                  which, when taking the provisions of Sub-Clause 5.10 into
+                  account, result in the fair market value of the Assets being
+                  equal to the total amount required to be in trust by the
+                  Reinsurance Agreements, all as determined by Settlor. Except
+                  for settlement in accordance with Sub-Clause 5.4, Settlor
+                  shall arrange the timing of delivery of Assets out of the
+                  Trust Fund, other than pursuant to a Withdrawal Notice or
+                  Withdrawal Request, so that with the fair market value of
+                  Assets replacing those delivered out and the fair market value
+                  of Assets in the Trust Fund is not less than the fair market
+                  value required by the Reinsurance Agreements to be in the
+                  Trust Fund.
+
+<PAGE>
+
+                                      -10-
+
+
+         6.4      The Settlor shall have the power to exercise all rights with
+                  respect to the Assets that the owner of record would have the
+                  right to exercise provided that the fair market value of the
+                  Trust Fund is not less than the total amount required by the
+                  Reinsurance Agreements by virtue of the exercise of any such
+                  rights. Trustee shall have no responsibility whatsoever to
+                  determine the fair market value of the Trust Fund.
+
+7.       ADDITIONAL POWERS
+
+         7.1      The Trustee shall, during the Trust Period and such further
+                  period (if any) as the law shall allow, have the following
+                  additional powers:
+
+                  POWER TO MANAGE AS IF ABSOLUTE OWNER
+
+                  7.1.1    subject to the other provisions of this Trust
+                           Agreement including Sub-Clauses 6.2-6.4, power to
+                           effect any transaction concerning or affecting any
+                           part of the Trust Fund or any other property
+                           whatsoever, if the Trustee considers the transaction
+                           is for the benefit of the Trust Fund or of the
+                           Beneficiary or the Settlor or any of them, as if the
+                           Trustee were an absolute owner beneficially entitled
+                           to the Trust Fund;
+
+                  POWER TO RECEIVE ADDITIONS
+
+                  7.1.2    power to receive any property as an addition to the
+                           Trust Fund;
+
+                  POWER TO VOTE AND GIVE PROXIES
+
+                  7.1.3    with respect to any investments constituting the
+                           whole or part of the Trust Fund, the Trustee shall
+                           forward all annual and interim company reports and
+                           all proxies and proxy materials relating to the
+                           Assets to the Settlor who shall have the full and
+                           unqualified right to vote in respect of such Assets;
+
+                  POWER TO KEEP TRUST FUND ABROAD
+
+                  7.1.4    (a) power to keep the whole or any part of the Trust
+                           Fund either within or outside Bermuda and, if the
+                           Trustee think fit, to hold in any part of the world
+                           all or any securities or other property in bearer
+                           form or in the names of the Trustee or in the name of
+                           some other appointed nominee without disclosing the
+                           fiduciary relationship, with power to remunerate such
+                           nominee, provided the Trustee acts in a prudent
+                           manner in holding assets in the name of a third party
+                           or outside Bermuda and such action by the Trustee
+                           will not subject the Assets of the Trust Fund, the
+                           Settlor or the Beneficiary to any form of taxation,
+                           duties or other governmental charges in any
+                           jurisdiction.
+
+<PAGE>
+
+                                      -11-
+
+
+                           (b) Unless consented to by the Settlor, if the
+                           Trustee voluntarily moves the Assets from where such
+                           Assets were originally domiciled when contributed to
+                           the Trust Fund by the Settlor, then any resulting
+                           duties, fees, taxes or other governmental charges
+                           shall be for the account of the Trustee and paid
+                           directly by the Trustee or restored by the Trustee to
+                           the Trust Fund if paid therefrom. Additionally, if
+                           the voluntary movement of such Assets by the Trustee
+                           allows them to be attached or levied upon in any
+                           dispute, the reduction in Assets shall be restored by
+                           the Trustee. This provision 7.1.4 (b) shall
+                           additionally apply to Sub-Clause 7.1.5 below;
+
+                  POWER TO PAY DUTIES
+
+                  7.1.5    in the event of any duties, fees, taxes or other
+                           governmental charges whatsoever becoming payable in
+                           any part of the world in respect of the Trust Fund or
+                           any part thereof in any circumstances whatsoever,
+                           power to pay all such duties, fees, taxes or other
+                           governmental charges out of the Trust Fund or the
+                           income thereof, not less than seven (7) Business Days
+                           after notice of the intention to pay is given to
+                           Settlor and Beneficiary by Trustee, with discretion
+                           otherwise as to the time and manner in which the said
+                           duties, fees, taxes or other governmental charges
+                           shall be paid and the Trustee may pay such duties,
+                           fees, taxes or other governmental charges
+                           notwithstanding that the same shall not be
+                           recoverable from the Trustee, except in circumstances
+                           covered by Sub-Clause 7.1.4(b), or from the
+                           Beneficiary, or that the payment shall not be to the
+                           advantage of the Beneficiary;
+
+                  POWER TO EXECUTE DOCUMENTS
+
+                  7.1.6    subject to Sub-Clauses 6.2-6.4, power to make,
+                           execute and deliver deeds, assignments, transfers,
+                           and other instruments, sealed and unsealed but only
+                           to carry out its liquidation and delivery obligations
+                           hereunder;
+
+                  POWER TO PROSECUTE AND DEFEND
+
+                  7.1.7    subject to Sub-Clauses 6.2-6.4, power to institute,
+                           prosecute and defend any suits or actions or other
+                           proceedings affecting the Trustee in respect of the
+                           Trust or the Trust Fund and to compromise any such
+                           matter of difference or to submit such matter to
+                           arbitration and to compromise or compound any debt
+                           owing to the Trustee or any other claims in respect
+                           of the Trust or the Trust Fund and to adjust any
+                           disputes in relation to such debts or claims against
+                           them as such Trustee upon evidence that to the
+                           Trustee shall seem sufficient;
+
+<PAGE>
+
+                                      -12-
+
+
+                  POWER TO DISTRIBUTE IN SPECIE
+
+                  7.1.8    subject to the applicable provisions of Clause 5,
+                           power to make any distribution of the Assets of the
+                           Trust Fund pursuant to the trusts hereof in cash or
+                           in kind or partly in cash and partly in kind;
+
+                  POWER TO SEEK LEGAL ADVICE
+
+                  7.1.9    power, at the expense of the Beneficiary, to seek the
+                           opinion or advice of legal counsel concerning any
+                           question arising under this Trust Agreement or on any
+                           matter in any way relating to the Trust Fund or the
+                           duties of the Trustee in connection with this Trust
+                           and the Trustee shall not be liable for any action
+                           taken in good faith pursuant to or otherwise in
+                           accordance with the opinion or advice of such
+                           counsel;
+
+                  POWER TO APPOINT INVESTMENT ADVISOR
+
+                  7.1.10   at the written direction of the Settlor only, power
+                           to engage the services of such investment counsel,
+                           advisor or manager (the "INVESTMENT ADVISOR") as the
+                           Settlor may from time to time designate (including an
+                           advisor already acting for Settlor) and that is not
+                           objected to by the Trustee in the exercise of
+                           reasonable judgment (including any Trustee or any
+                           Parent, Subsidiary or Affiliate of a corporate
+                           Trustee) in order to obtain advice on the investment
+                           and reinvestment of the Trust Fund and to delegate to
+                           the Investment Advisor, without being liable for any
+                           consequential loss, discretion to manage the
+                           investments comprised in the Trust Fund or any part
+                           thereof and to make such changes therein and to deal
+                           in such manner therewith as the Investment Advisor
+                           may from time to time think fit if such power was
+                           approved in advance by the Settlor and, for that
+                           purpose, to deposit with or transfer into the name or
+                           under the control of the Investment Advisor all or
+                           any of the investments comprised in the Trust Fund.
+                           The Investment Advisor by its duly authorized person
+                           may on behalf of the Settlor issue to the Trustee any
+                           Proper Instructions regarding the Assets that the
+                           Settlor may issue. If an Investment Advisor is used,
+                           such Investment Advisor shall be remunerated
+                           separately by the Settlor with its own funds and the
+                           Assets shall not be used for such remuneration;
+
+<PAGE>
+
+                                      -13-
+
+
+                  7.1.11   the Trustee shall not be required to enquire into nor
+                           be in any manner responsible for any change in the
+                           legal status of the Investment Advisor, whether
+                           resulting from the death of any director thereof or
+                           its reorganisation, incorporation, merger,
+                           consolidation or otherwise;
+
+                  7.1.12   subject to the Trustee's standard of care set forth
+                           in Sub-Clause 8.7, the Trustee shall not be liable
+                           for any action taken or not taken by the Investment
+                           Advisor or for any action taken by the Trustee
+                           pursuant to or otherwise in accordance with the
+                           advice of the Investment Advisor, howsoever
+                           communicated;
+
+                  POWER TO DELEGATE GENERALLY
+
+                  7.1.13   subject to prior approval of the Beneficiary and
+                           Settlor, power to delegate to any person at any time
+                           for any period and in any manner and upon any terms
+                           whatever, the execution or exercise of the trusts,
+                           powers and discretions (or any one or more of them)
+                           imposed or conferred on the Trustee by this Trust
+                           Agreement or by law or otherwise, and, subject to the
+                           Trustee's standard of care set forth in Sub-Clause
+                           8.7, the Trustee shall not be liable for any acts or
+                           defaults of any such delegate or any loss to the
+                           Trust Fund resulting therefrom;
+
+                  POWER TO ACT NOTWITHSTANDING PERSONAL INTEREST
+
+                  7.1.14   subject to the other provisions of the Trust
+                           Agreement, power to enter into any transaction
+                           concerning the Trust Fund (a) notwithstanding that
+                           the Trustee may be interested in the transaction
+                           other than as a Trustee and (b) without being liable
+                           to account for any reasonable incidental profit;
+
+8.       ADDITIONAL RIGHTS AND DUTIES OF THE TRUSTEE
+
+         8.1      The Trustee shall notify the Settlor and the Beneficiary in
+                  writing within five (5) Business Days following each deposit
+                  to, or withdrawal from, the Trust Fund.
+
+         8.2      Before accepting any Asset for deposit to the Trust Fund, the
+                  Trustee shall determine that such Asset is in such form that
+                  the Trustee upon direction by the Beneficiary or the Settlor
+                  in accordance with this Trust Agreement may, whenever
+                  necessary, negotiate such Asset in accordance with the terms
+                  of this Trust Agreement without consent or signature from the
+                  Settlor or any other person or entity other than the Trustee.
+
+<PAGE>
+
+                                      -14-
+
+
+         8.3      The Trustee may deposit any Assets in the Trust Fund in a
+                  book-entry account maintained at the Federal Reserve Bank of
+                  New York or in any other book entry system approved by Settlor
+                  or in United States' Depository Trust Company or any other
+                  depository approved by the Settlor. Assets may be held in the
+                  name of any Affiliate of Trustee acting as nominee of Trustee
+                  approved by Settlor and Beneficiary or in the name of a
+                  nominee of any approved depository.
+
+         8.4      The Trustee shall accept and open all mail directed to the
+                  Settlor or the Beneficiary in care of the Trustee and
+                  thereafter promptly provide the same to the addressee.
+
+         8.5      The Trustee shall furnish to the Settlor and the Beneficiary a
+                  statement of all Assets in the Trust Fund upon the inception
+                  of the Trust Fund and at the end of each calendar quarter
+                  thereafter within thirty (30) calendar days after the end of
+                  such calendar quarter.
+
+         8.6      Upon the request of the Settlor or the Beneficiary, the
+                  Trustee shall promptly permit the Settlor or the Beneficiary,
+                  their respective agents, employees or independent auditors to
+                  examine, audit, excerpt, transcribe and copy, during the
+                  Trustee's normal business hours, any books, documents, papers
+                  and records relating to the Trust Fund or the Assets.
+
+         8.7      The duties and obligations of the Trustee shall only be such
+                  as are specifically set forth in this Trust Agreement, as it
+                  may from time to time be amended, and no implied duties or
+                  obligations shall be read into this Trust Agreement against
+                  the Trustee. The Trustee shall be liable only for its own
+                  gross negligence, wilful misconduct, dishonesty or fraud.
+
+         8.8      No provision of this Trust Agreement shall require the Trustee
+                  to take any action which, in the Trustee's reasonable
+                  judgment, would result in any violation of this Trust
+                  Agreement or any applicable provision of law.
+
+9.       TRUSTEE'S REMUNERATION
+
+         9.1      The Trustee shall be entitled to remuneration from the
+                  Beneficiary for its services in such amount and at such times
+                  as may from time to time be agreed between the Trustee and the
+                  Beneficiary or, in default of agreement, in accordance with
+                  its published terms and conditions from time to time in force.
+
+<PAGE>
+
+                                      -15-
+
+
+         9.2      The Beneficiary shall pay or reimburse the Trustee for all of
+                  the Trustee's reasonable expenses and disbursements in
+                  connection with its duties under this Trust Agreement
+                  (including reasonable attorney's fees and expenses), except
+                  any such expense or disbursement as may arise from the
+                  Trustee's negligence, wilful misconduct, dishonesty or fraud.
+
+         9.3      In the event of the failure of the Beneficiary to satisfy its
+                  obligations under Sub-Clauses 9.1 or 9.2, the Settlor shall
+                  pay to Trustee the amounts due under Sub-Clauses 9.1 or 9.2,
+                  and upon Settlor's failure to do so, the Trustee may obtain
+                  such amounts from the Trust Fund.
+
+10.      TRUSTEE'S LIABILITY AND INDEMNITY
+
+         10.1     The Beneficiary and the Settlor shall jointly and severally
+                  indemnify the Trustee and each of its directors, officers,
+                  employees and authorised agents (each an "Indemnified Person")
+                  for, and hold each Indemnified Person harmless against, any
+                  loss, liability, costs or expenses (including reasonable
+                  attorney's fees and expenses), incurred without gross
+                  negligence (negligence in a claim related to its
+                  representation in Sub-Clause 26.1), wilful misconduct,
+                  dishonesty or fraud on the part of the Indemnified Person as
+                  provided for herein, arising out of or in connection with the
+                  performance of the Indemnified Person's obligations under and
+                  in accordance with the provisions of the Trust Agreement,
+                  including any loss, liability, costs or expenses arising out
+                  of or in connection with the status of the Trustee and its
+                  authorized nominee as the holder of record of the Assets. The
+                  Settlor and the Beneficiary acknowledge that the foregoing
+                  indemnities shall survive the resignation of the Trustee or
+                  the termination of this Trust Agreement.
+
+         10.2
+
+                  10.2.1   Notwithstanding the provisions of Sub-Clause 10.1, no
+                           Indemnified Person shall make a claim against the
+                           Settlor under this indemnity provision unless a claim
+                           for indemnity has been made to Beneficiary containing
+                           such details as a person acting in a reasonable and
+                           commercial manner as to the indemnity claim would
+                           require to act on such claim and Beneficiary has not
+                           acted on such claim in 30 days of its receipt or such
+                           shorter period as is reasonable under the
+                           circumstances, or has denied such claim in such
+                           period.
+
+<PAGE>
+
+                                      -16-
+
+
+                  10.2.2   Notwithstanding the provisions of Sub-Clause 10.2.1,
+                           if the Settlor is the cause of the loss, liability,
+                           cost or expense for which indemnity is sought under
+                           Sub-Clause 10.1, then the Settlor shall be liable for
+                           such indemnity and in seeking indemnity, each
+                           Indemnified Person shall follow the procedure in
+                           10.2.1 as to substantiating the claim substituting
+                           Settlor for Beneficiary and if the Settlor has not
+                           acted on such claim in the 30-day period provided for
+                           in Sub-Clause 10.1, the indemnified party may apply
+                           to Trustee to satisfy such claim from the Trust Fund;
+                           and if Trustee is the indemnified party, it may pay
+                           its claim from the Trust Fund.
+
+         10.3     No Trustee shall be bound to take any proceedings against a
+                  former trustee hereof for any breach or alleged breach of
+                  trust committed or suffered by such former trustee.
+
+         10.4     The Trustee shall not be liable for acting upon any written
+                  Proper Instructions or written confirmation which the Trustee
+                  believes in good faith to be genuine and to be signed by the
+                  proper party.
+
+11.      RECEIPT OF INCOME
+
+         Unless the Trustee in its discretion shall otherwise determine, all
+         Income received by the Trustee shall be treated for all purposes hereof
+         as Income at the date of receipt, irrespective of the period in
+         relation to which such Income shall have been earned.
+
+12.      PROTECTION OF THIRD PARTIES
+
+         12.1     No person dealing with the Trustee and no purchaser on any
+                  sale made by the Trustee shall be concerned to enquire into
+                  the propriety or validity of any act of the Trustee or to see
+                  to the application of any money paid or property transferred
+                  to or upon the order of the Trustee;
+
+         12.2     No company any of whose securities are comprised in the Trust
+                  Fund and no purchaser or person dealing with any person
+                  purporting to act under any delegation of authority from any
+                  Trustee shall be required to ascertain or enquire whether a
+                  case exists in which such delegation is permitted or whether
+                  such delegated authority is still subsisting;
+
+         12.3     When anything is dependent upon the fair market value of any
+                  property or the existence of any fact, the certificate of the
+                  Trustee as to such fair market value or fact shall be
+                  conclusive in favour of anyone acting thereon in good faith.
+
+<PAGE>
+
+                                      -17-
+
+
+13.      TRUSTEE ACTING AS DIRECTOR ETC. AND AGENT
+
+         Any Trustee and, in particular, any corporate Trustee and any Parent,
+         Subsidiary or Affiliate of such corporate Trustee may be appointed by
+         the Trustee, subject to any requirements of this Trust Agreement, to
+         undertake and transact any business or to do any act requiring to be
+         transacted or done in the execution of the Trust hereof (in particular,
+         without prejudice to the generality of the foregoing, in exercise by
+         the Trustee of the powers contained in Sub-Clause 7.1.10) and, in any
+         such case, shall be entitled to charge and be paid and to retain for
+         its own account all usual professional and other fees and commissions
+         normally paid for such services in the ordinary course of business.
+
+14.      OVERSEEING MANAGEMENT OF COMPANIES
+
+         The Trustee shall have no duty to interfere in the management or
+         conduct of the business of any company or to inform itself as to the
+         state or prospects of the company whose securities comprise the whole
+         or part of the Trust Fund. At the request and expense of the Settlor,
+         the Trustee shall cooperate with the Settlor in obtaining information
+         regarding Assets in the Trust Fund.
+
+15.      TRUSTEE'S DISCRETION
+
+         Except as otherwise expressly herein mentioned, every discretion or
+         power hereby conferred upon the Trustee shall be an absolute and
+         unfettered discretion or power and the Trustee shall not be obliged to
+         give to Beneficiary or Settlor any reason or justification for the
+         exercise or non-exercise of any such discretion or power and no Trustee
+         shall be held liable for any loss or damage occurring as a result of
+         its exercise or non-exercise of any such discretion or power subject to
+         the standard of care in Sub-Clause 8.7.
+
+16.      NOTICES
+
+         Unless otherwise provided in this Trust Agreement, all notices,
+         directions, requests, demands, acknowledgements and other
+         communications required or permitted to be given or made under the
+         terms hereof shall be in writing and shall be deemed to have been duly
+         delivered, given or made when received if delivered personally, by
+         facsimile, telex, telegraph, telecopier, e-mail or by recognised major
+         overnight courier service (fees prepaid), and if addressed as follows:
+
+                  If to the Settlor:
+
+                  Select Reinsurance Ltd
+                  Victoria Hall, 3rd Floor
+                  Victoria Street
+                  Hamilton HM11
+                  Bermuda
+                  Attention: President or Treasurer
+                  Facsimile: 441 296-8459
+                  e-mail: bkizer@selre.com
+
+<PAGE>
+
+                                      -18-
+
+
+                  If to the Trustee:
+
+                  Harrington Trust Limited
+                  Argyle House
+                  41a Cedar Avenue
+                  Hamilton HM 12
+                  Bermuda
+                  Attention: Managing Director
+                  Facsimile: 441 296-9825
+                  e-mail: jharper@htl.bm
+
+
+         If to the Beneficiary:
+
+                  PXRE Reinsurance Ltd
+                  110 Pitts Bay Road
+                  Pembroke HM 08
+                  Bermuda
+
+                  Attention: Chief Financial Officer
+                  Facsimile: 441 296-6162
+                  e-mail: bob_myron@pxregroup.com
+
+         Each party may from time to time designate a different address for
+         notices, directions, requests, demands, acknowledgements and other
+         communications by giving written notice of such change to the other
+         parties.
+
+17.      SEVERABILITY
+
+         In the event that any provision of this Trust Agreement shall be
+         declared invalid or unenforceable by any regulatory body or court
+         having jurisdiction, such invalidity or unenforceability shall affect
+         the validity or enforceability of the portions of this Trust Agreement
+         so determined only in such jurisdiction and in such jurisdiction such
+         determination shall not affect the validity or enforceability of the
+         remaining portions of this Trust Agreement. To the extent such
+         invalidity or unenforceability adversely affects Beneficiary or
+         Settlor, the affected party may seek arbitration under Clause 24 to
+         obtain relief determined by such arbitration to be appropriate under
+         the circumstances.
+
+<PAGE>
+
+                                      -19-
+
+
+18.      ASSIGNS
+
+         Neither the Beneficiary nor the Settlor may assign this Trust Agreement
+         nor any of its rights or obligations hereunder without the prior
+         consent of the other party and the Trustee.
+
+19.      APPOINTMENT AND RETIREMENT OF TRUSTEE
+
+         19.1     The Trustee may resign at any time by giving not less than
+                  ninety (90) calendar days written notice of such resignation
+                  to the Beneficiary and to the Settlor. The Trustee may be
+                  removed by the Settlor's and Beneficiary's joint agreement
+                  (with any dispute between the Beneficiary and Settlor being
+                  resolved under the arbitration procedures as set out in Clause
+                  24) and delivery of not less than ninety (90) calendar days
+                  written notice of such removal to the Trustee (which may be
+                  shortened by the Settlor and Beneficiary if the Trustee has
+                  violated the standard of care set forth in Clause 8.7 or any
+                  of its representations or warranties are, when made, or
+                  become, untrue); such resignation, subject to the provisions
+                  of Clause 19.3 below, or removal, shall become effective on or
+                  after the notice period upon:
+
+                  (a)      the appointment of a successor trustee by the Settlor
+                           and the Beneficiary (with any dispute being resolved
+                           under the arbitration procedures as set out in Clause
+                           24),
+
+                  (b)      the acceptance of such appointment by the successor
+                           Trustee, and
+
+                  (c)      the transfer of all Assets in the Trust Fund to such
+                           successor Trustee in accordance with Sub-Clause 19.2.
+
+         19.2     Any successor Trustee shall be a duly licensed trust company
+                  and shall not be a Parent, Subsidiary or an Affiliate of
+                  either the Settlor or the Beneficiary. The successor Trustee
+                  shall succeed and become vested with all the rights, powers,
+                  privileges and duties of the resigning or removed Trustee, and
+                  the resigning or removed Trustee shall be discharged from any
+                  future duties and obligations under this Trust Agreement, but
+                  the resigning or removed Trustee shall continue after such
+                  resignation or removal to be entitled to the benefits of the
+                  indemnities provided herein for the Trustee and subject to any
+                  liability provided for herein while acting as Trustee
+                  hereunder.
+
+<PAGE>
+
+                                      -20-
+
+
+         19.3     If the Trustee has sought to resign in accordance with the
+                  procedures outlined in Sub-Clause 19.1 above and the Settlor
+                  and Beneficiary have not appointed a successor trustee within
+                  120 days of the Trustee's notice, the Trustee shall have the
+                  power to apply to the Supreme Court of Bermuda to be relieved
+                  of its responsibilities and to have the Assets of the Trust
+                  Fund paid into court and the Income Account delivered to
+                  Settlor or as it instructs. Upon approval by the court, the
+                  resigning Trustee shall be discharged from any future duties
+                  and obligations under this Trust Agreement, but the resigning
+                  Trustee shall continue after such resignation to be entitled
+                  to the benefits of the indemnities provided for herein for the
+                  Trustee and subject to any liability provided for herein while
+                  acting as Trustee hereunder.
+
+         19.4     Acts and deeds done or executed for the proper vesting of the
+                  Trust Fund in a new Trustee shall be done and executed by the
+                  retiring Trustee at the expense of the Beneficiary.
+
+20.      SETTLOR'S POWER TO CHANGE PROPER LAW AND FORUM
+
+         20.1     The Settlor, with the written consent of the Beneficiary, may,
+                  at any time and from time to time by deed, change the Proper
+                  Law of this Trust to the law of some other jurisdiction in any
+                  part of the world and, as from the date of such deed, the law
+                  of the jurisdiction named therein shall be the Proper Law of
+                  this Trust and the courts of that jurisdiction shall be the
+                  forum for the administration thereof, but subject to the
+                  powers conferred by this Sub-Clause 20.1 and until any further
+                  change is made hereunder, provided that, notwithstanding
+                  anything herein contained, the Settlor shall not exercise such
+                  power in any way which might directly or indirectly result in
+                  this Trust becoming according to the law applicable thereto
+                  illegal, void or voidable or which might change the beneficial
+                  interests hereunder.
+
+         20.2     So often as any change of the Proper Law of this Trust shall
+                  be made pursuant to the provisions of Sub-Clause 20.1, the
+                  Trustee may at any time, either then or thereafter, by deed
+                  make such alterations and additions to the trusts, powers and
+                  provisions hereof as the Trustee may consider necessary or
+                  desirable to ensure that, so far as may be possible, the
+                  trusts, powers and provisions hereof shall, mutatis mutandis,
+                  be as valid and effective as they were immediately prior to
+                  such change.
+
+21.      COUNTERPARTS
+
+         This Trust Agreement may be executed by facsimile and in any number of
+         counterparts, each of which when so executed and delivered shall
+         constitute an original, but such counterparts together shall constitute
+         but one and the same Trust Agreement.
+
+<PAGE>
+
+                                      -21-
+
+
+22.      POWER TO VARY
+
+         Settlor and Beneficiary may, at any time and from time to time, by deed
+         supplemental hereto, amend in whole or in part any or all of the
+         provisions of this Trust Agreement whether to cure any ambiguity or to
+         cure, correct or supplement any provision contained herein or in any
+         supplemental deed or deeds or otherwise; provided that any such
+         modification that alters or increases the duties or obligations of the
+         Trustee or diminishes its rights shall not be binding upon the Trustee
+         unless such modification has been accepted by the Trustee in writing.
+
+23.      TERMINATION OF TRUST
+
+         23.1     The Trust Fund and this Trust Agreement, except for the
+                  indemnities provided herein and the liability of the Trustee
+                  for negligence or gross negligence (as applicable), wilful
+                  misconduct, dishonesty or fraud, may be terminated, except as
+                  provided in Clause 23.2, only after the Settlor and the
+                  Beneficiary have given the Trustee written notice of their
+                  joint intention to terminate the Trust (the "NOTICE OF
+                  INTENTION") (with any dispute between Settlor and Beneficiary
+                  being resolved under the Arbitration procedures as outlined in
+                  Clause 24 and any order therefrom no longer being subject to
+                  appeal). The Notice of Intention shall specify the date on
+                  which the notifying Party intends the Trust to terminate which
+                  shall be not less than 30 nor more than 45 calendar days after
+                  the date of the Notice of Intention (the "PROPOSED DATE").
+
+         23.2     The Settlor alone may terminate this Trust Agreement without
+                  diminishing the right of the Trustee to indemnity or the
+                  Trustee's obligation for past conduct when the Settlor is no
+                  longer required to secure its obligations under and in
+                  accordance with the terms of the Reinsurance Agreements on
+                  notice to the Beneficiary and the Trustee of the Termination
+                  Date which shall not be less than 30 nor more than 45 calendar
+                  days from the date of such notice , unless objected to by
+                  Beneficiary within ten (10) Business Days of receipt of such
+                  notice, in which event such termination shall be on such date
+                  as is jointly agreed by Settlor and Beneficiary, or as
+                  determined under the Arbitration provisions in Clause 24 with
+                  any order therefrom no longer being subject to appeal. Such
+                  arbitration award shall also grant Settlor and its
+                  shareholders such damages as they establish were caused by the
+                  wrongful delay by Beneficiary in the termination of the Trust
+                  provided Beneficiary's objection was not reasonable under the
+                  circumstances.
+
+         23.3     On the Termination Date, the Trustee shall transfer to the
+                  Settlor any Assets remaining in the Trust Fund, at which time
+                  all liability of the Trustee with respect to such Assets shall
+                  cease, except for the Trustee's liability for negligence or
+                  gross negligence (as applicable), wilful misconduct,
+                  dishonesty or fraud with respect thereto.
+
+<PAGE>
+
+                                      -22-
+
+
+24.      ARBITRATION
+
+         24.1     All matters of difference between the Beneficiary and Settlor
+                  arising under, out of or in connection with this Trust
+                  Agreement, shall be referred to an arbitration tribunal in the
+                  manner hereinafter set out.
+
+         24.2     Unless the parties to the arbitration appoint a sole
+                  arbitrator within 14 calendar days of one receiving a written
+                  request from the other for arbitration, the claimant (the
+                  party requesting arbitration) shall appoint his arbitrator and
+                  give written notice hereof to the respondent. Within 30
+                  calendar days of receiving such notice, the respondent shall
+                  appoint his arbitrator and give written notice thereof to the
+                  claimant, failing which the claimant may apply to the
+                  appointor hereafter named to nominate an arbitrator on behalf
+                  of the respondent.
+
+         24.3     Before they enter upon a reference, the two arbitrators shall
+                  appoint a third arbitrator. Should they fail to appoint such a
+                  third arbitrator within 30 calendar days of the appointment of
+                  the respondent's arbitrator, then either of them or either of
+                  the parties may apply to the appointor for the appointment of
+                  the third arbitrator. The three arbitrators shall decide by
+                  majority. The third arbitrator shall also act as chairman of
+                  the tribunal.
+
+         24.4     Unless the parties otherwise agree the arbitration tribunal
+                  shall consist of persons (including those who have retired)
+                  with not less than ten years' experience of insurance or
+                  reinsurance as persons engaged in the industry itself or as
+                  lawyers or other professional advisers, not then or in the
+                  preceding five years engaging in or employed or otherwise
+                  associated with entities engaging in any business with any of
+                  the parties, not related to any employee or agent of any of
+                  the parties and not otherwise having any interest in the
+                  outcome of the arbitration.
+
+         24.5     The arbitration tribunal shall, so far as is permissible under
+                  the law and practice of the place of arbitration, have power
+                  to fix all procedural rules for the holding of the arbitration
+                  including discretionary power to make orders as to any matters
+                  which it may consider proper in the circumstances of the case
+                  with regard to pleadings, discovery, inspection of the
+                  documents, examination of witnesses and any other matter
+                  whatsoever relating to the conduct of the arbitration and may
+                  receive and act upon such evidence whether oral or written
+                  strictly admissible or not as it shall in its discretion think
+                  fit.
+
+         24.6     The appointor shall be the Chairman for the time being of
+                  Arias (UK) or if he is unavailable or it is inappropriate for
+                  him to act for any reason, such persons as may be nominated by
+                  the Committee of Arias (UK). If for any reason such persons
+                  decline or are unable to act, then the appointor shall be the
+                  nominating committee of the Chartered Institute of
+                  Arbitrators, Bermuda Branch.
+
+<PAGE>
+
+                                      -23-
+
+
+         24.7     The place of arbitration shall be in Bermuda, unless the
+                  Beneficiary and Settlor agree otherwise.
+
+         24.8     The arbitration shall be carried out under the law of Bermuda
+                  and shall be an international commercial arbitration subject
+                  to the provisions of the International Conciliation and
+                  Arbitration Act 1993.
+
+         24.9     The arbitral award shall be in writing, shall state reasons
+                  for the award, and be final and binding on the parties.
+                  Judgment on the award may be entered by any court having
+                  jurisdiction thereof or having jurisdiction over the parties
+                  or their assets or the Assets of the Trust Fund.
+
+         24.10    Each party shall bear the expense of its own arbitrator and
+                  shall jointly and equally bear with the other party the cost
+                  of the third arbitrator. The remaining costs of the
+                  arbitration shall be allocated by the panel. The panel may, at
+                  its discretion, award such further costs and expenses as it
+                  considers appropriate, including but not limited to attorneys
+                  fees, to the extent permitted by law. However, the panel may
+                  not award any exemplary or punitive damages.
+
+25.      IRREVOCABLE TRUST AGREEMENT
+
+         This Trust Agreement is irrevocable and cannot be varied except in the
+         limited circumstances provided in this Trust.
+
+26.      REPRESENTATION AND WARRANTIES
+
+         26.1     Each of the parties hereto expressly severally warrants and
+                  represents to each of the other parties hereto that it is a
+                  corporation in good standing in its respective place of
+                  domicile; that the execution, giving effect to and performance
+                  of its obligations under this Agreement is fully authorized by
+                  it; that the person executing this Agreement has the necessary
+                  and appropriate authority to do so; that this Agreement
+                  constitutes a valid and binding obligation of it; that there
+                  are no existing or pending agreements, transactions or
+                  negotiations to which it is a party that would render this
+                  Agreement or any part thereof void, avoidable or
+                  unenforceable; that there is no authorization, consent or
+                  approval of any government or regulatory entity which is
+                  required to make this Agreement valid and binding upon it;
+                  that no order has been made or petition presented or other
+                  step taken for it to be wound up or for the appointment of a
+                  liquidator, provisional liquidator, receiver, administrator or
+                  other like office holder under the laws of any jurisdiction
+                  whatsoever; and that the execution, giving effect to and
+                  performance of its obligations under, this Agreement does not
+                  contravene or fail to comply with any court or other order
+                  binding upon it or a direction given by any governmental
+                  authority having regulatory authority over it.
+
+<PAGE>
+
+                                      -24-
+
+
+         26.2     Trustee warrants and represents that it is organized and
+                  operated in such manner so that no person other than the
+                  Beneficiary and Settlor can obtain any part of the Trust Fund
+                  by virtue of a claim against Trustee or any person for whom
+                  Trustee acts in a fiduciary capacity other than Beneficiary
+                  and Settlor. Trustee shall be liable for breach of this
+                  provision under a standard of care of negligence rather than
+                  gross negligence.
+
+         26.3     Beneficiary and Settlor confirm that the language used to
+                  define Obligations in Sub-Clause 1.15 is the language used to
+                  set forth the obligations under the Reinsurance Agreements.
+
+IN WITNESS WHEREOF the parties hereto have caused their Common Seals to be
+hereunto affixed as of the day and year first above written.
+
+<PAGE>
+
+                                      -25-
+
+
+                                 FIRST SCHEDULE
+
+    Obligations relating to business ceded in the calendar year 2003 by PXRE
+  Reinsurance Ltd. under the Amended and Restated Facultative Obligatory Quota
+              Share Retrocessional Agreement dated October 1, 1997
+
+        Tower/Legion Aggregate Excess of Loss Retrocessional Reinsurance
+                         Agreement dated June 29, 2001
+
+  Amlin Specific Retrocessional Quota Share Agreement dated February 24, 2004
+
+     $30MM XS $280MM Excess of Loss Reinsurance Treaty dated April 23, 2004
+
+<PAGE>
+
+                                      -26-
+
+
+                                SECOND SCHEDULE
+
+                      Ten United States Dollars (U.S.$10)
+
+<PAGE>
+
+                                      -27-
+
+
+                                 THIRD SCHEDULE
+
+                               WITHDRAWAL NOTICE
+
+To:               Harrington Trust Limited
+                  Argyle House
+                  41a Cedar Avenue
+                  Hamilton HM 12
+                  Bermuda
+                  Attention: Managing Director
+
+THE UNDERSIGNED, PXRE Reinsurance Ltd, hereby notifies Harrington Trust Limited,
+as trustee pursuant to the Trust Agreement, dated [ ] 2004, among Select
+Reinsurance Ltd., Harrington Trust Limited, as trustee, and the undersigned,
+(the "TRUST AGREEMENT, capitalised terms not otherwise defined herein are used
+with the meaning given in the Trust Agreement), as follows:
+
+1        The Trustee is hereby requested to withdraw from the Trust Fund the
+         following Assets.
+
+                        [specify Assets to be withdrawn]
+
+2(a)     The Trustee is hereby requested to deliver the cash Assets described in
+         paragraph 1 hereof by wire transfer in immediately available funds for
+         the account of the undersigned (Account No. _____________)
+
+2(b)     (i)      The Trustee is hereby requested to deliver non-cash Assets by
+                  liquidating or redeeming the applicable assets and delivering
+                  the cash proceeds as in (a) above.
+
+         (ii)     The Trustee is hereby requested to transfer the non-cash
+                  Assets as instructed below:
+
+         [cross-out the inapplicable sub-paragraph or specify the Assets for
+         each]
+
+IN WITNESS THEREOF, the duly authorized undersigned has caused this Withdrawal
+Notice to be duly executed as of this _______ day of _______________________.
+
+
+                                             PXRE REINSURANCE LTD.
+
+
+                                             By
+                                                --------------------------------
+                                                Name:
+                                                Title
+
+<PAGE>
+
+                                      -28-
+
+
+                                FOURTH SCHEDULE
+
+                               WITHDRAWAL REQUEST
+
+To:               Harrington Trust Limited
+                  Argyle House
+                  41a Cedar Avenue
+                  Hamilton HM 12
+                  Bermuda
+                  Attention: Managing Director
+
+THE UNDERSIGNED, Select Reinsurance Ltd, hereby notifies Harrington Trust
+Limited, as trustee pursuant to the Trust Agreement, dated [ ] 2004, among the
+undersigned, Harrington Trust Limited, as trustee, and PXRE Reinsurance Ltd.,
+(the "TRUST AGREEMENT, capitalised terms not otherwise defined herein are used
+with the meaning given in the Trust Agreement), as follows:
+
+1        The Trustee is hereby requested to withdraw from the Trust Fund the
+         following Assets.
+
+                        [specify Assets to be withdrawn]
+
+2(a)     The Trustee is hereby requested to deliver the cash Assets described in
+         paragraph 1 hereof by wire transfer in immediately available funds for
+         the account of the undersigned (Account No. _____________)
+
+2(b)     (i)      The Trustee is hereby requested to deliver non-cash Assets by
+                  liquidating or redeeming the applicable assets and delivering
+                  the cash proceeds as in (a) above.
+
+         (ii)     The Trustee is hereby requested to transfer the non-cash
+                  assets as instructed below:
+
+         [cross-out the inapplicable sub-paragraph or specify the Assets for
+         each]
+
+IN WITNESS THEREOF, the duly undersigned has caused this Withdrawal Request to
+be duly executed as of this _______ day of _______________________.
+
+
+                                             SELECT REINSURANCE LTD.
+
+
+                                             By
+                                                --------------------------------
+                                                Name:
+                                                Title
+
+<PAGE>
+
+                                      -29-
+
+
+                                 FIFTH SCHEDULE
+
+                              INVESTMENT GUIDLINES
+
+A.       Hedge Funds, subject to the following:
+
+         1.       No more than 20% of the net asset value of all hedge fund
+                  shall be in any single fund in the aggregate.
+
+         2.       In the case of "Fund of Funds", manager concentration will not
+                  exceed 20% of any such Fund of Funds net asset value and any
+                  Fund with less than two years of history will not exceed 15%.
+                  Mariner Partners, L.P. is deemed to be a "Fund of Funds" for
+                  this calculation. Any amount of Mariner Partners or Mariner
+                  Select or their international counterparts will be deemed to
+                  meet all guideline rules.
+
+         3.       No more than 40% of hedge funds net asset value will be
+                  concentrated in any one strategy, including fund of funds on a
+                  look-through basis. Strategies include, but are not limited
+                  to, Statistical Equity Arbitrage, Risk Arbitrage, Distressed
+                  Securities, Distressed Debt, Mutual Fund Switching Fixed
+                  Income Arbitrage, Long Volatility, Diversified Fixed Income
+                  Arbitrage, Diversified, Capital Structure Arbitrage,
+                  Diversified Market Neutral Equity, Long/Short Equity, Index
+                  Addition/Deletion, Discretionary Market Neutral Equity,
+                  Mortgage Backed Security Arbitrage.
+
+         4.       Any fund, the net asset value of which is greater than twice
+                  the limit specified in 1 above, shall be reduced to not more
+                  than the limit as soon as practicable, consistent with
+                  applicable redemption provisions.
+
+         5.       Any strategy concentrations in excess of the limit specified
+                  in 3 above shall be reduced to not more than the limit as soon
+                  as practicable consistent with applicable redemption
+                  provisions.
+
+         6.       Exceptions to Limitations A 1-3, above can be made so long as
+                  the sum of all such exceptions does not exceed 5% of Assets
+                  allocated to hedge funds.
+
+         7.       No more than 25% of Assets shall be in mortgage or
+                  asset-backed securities.
+
+         8.       No funds may be included that invests primarily in emerging
+                  market debt, Reg-D securities or uncovered short option
+                  positions.
+
+         9.       No fund may be included (other than funds transferred from the
+                  former Patriot Trust) unless managed by a Mariner entity or
+                  unless Mariner, a Mariner-related entity (including a Mariner
+                  sponsored fund) or Select Re is also an investor, or unless
+                  otherwise agreed to by Beneficiary.
+
+<PAGE>
+
+                                      -30-
+
+
+         10.      Settlor shall monitor compliance with guidelines and
+                  limitations monthly.
+
+B.       Bonds and other debt instruments ("Bonds")
+
+         1.       Any Bonds shall be investment grade with a minimum rating of
+                  not less than AA by S&P or Aa by Moody's.
+
+         2.       The Bonds of any single issuer may not exceed 20% in par value
+                  of the Bonds portfolio; provided that Bonds of or guaranteed
+                  as to principal and interest by the United States or Bonds of
+                  its agencies and Government Sponsored Enterprises shall not be
+                  subject to this limitation.
+
+         3.       Bonds of issuers not organized in any jurisdiction within the
+                  United States its possessions and territories shall not exceed
+                  20% in par value of the Bonds portfolio.
+
+<PAGE>
+
+                                      -31-
+
+
+THE COMMON SEAL of the SETTLOR          )
+was hereunto affixed in the             )
+presence of:-  /s/ Brant L. Kizer       )
+                                        )
+                                        )
+               /s/ Cindy Miller         )
+                   Secretary
+
+
+THE COMMON SEAL of the ORIGINAL         )
+TRUSTEE was hereunto affixed in the     )
+presence of:-  /s/ John C. Harper       )
+                                        )
+               /s/ Winette Phillips     )
+                                        )
+
+
+THE COMMON SEAL of the                  )
+BENEFICIARY was hereunto affixed in the )
+presence of:-  /s/ Robert P. Myron      )
+                                        )
+               /s/ I.S. Outerbridge     )
+               /s/ David J. Doyle       )
+
+
+</TEXT>
+</DOCUMENT>

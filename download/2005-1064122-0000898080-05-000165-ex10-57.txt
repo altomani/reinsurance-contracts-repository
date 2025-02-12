@@ -1,0 +1,859 @@
+<DOCUMENT>
+<TYPE>EX-10.57
+<SEQUENCE>19
+<FILENAME>ex10-57.txt
+<DESCRIPTION>LICENSE AGREEMENT
+<TEXT>
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+                    TECHNOLOGY TRANSFER AND LICENSE AGREEMENT
+
+                                 by and between
+
+                    Security Life of Denver Insurance Company
+
+                     ING North America Insurance Corporation
+
+                                       and
+
+                            Scottish Re (U.S.), Inc.
+
+                          Dated as of December 31, 2004
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+
+Section 1.  Definitions........................................................2
+Section 2.  Owned Principally-Used Computer Programs...........................2
+Section 3.  Owned Generally Used Programs......................................4
+Section 4.  Licensed Computer Programs.........................................4
+Section 5.  Data and Databases.................................................5
+Section 6.  Recapture of Retroceded Business...................................5
+Section 7.  Improvements.......................................................6
+Section 8.  Further Actions....................................................7
+Section 9.  Representations and Warranties.....................................7
+Section 10. Indemnity..........................................................8
+Section 11. Arbitration........................................................9
+Section 12. Delivery By Sellers...............................................10
+Section 13. Other Computer Programs...........................................10
+Section 14. Equitable Rights..................................................11
+Section 15. Term..............................................................11
+Section 16. Miscellaneous.....................................................11
+
+
+
+Schedules
+
+Schedule 4     Assumed Computer Programs
+Schedule 7     Improvements
+Schedule 13    Approved Desktop Software
+
+     This TECHNOLOGY TRANSFER AND LICENSE AGREEMENT (this "Agreement"), dated as
+of December 31, 2004 (the "Effective Date"), is entered into by and between
+Security Life of Denver Insurance Company, an insurance company formed and doing
+business under the laws of the state of Colorado and maintaining its principal
+offices at 1290 Broadway, Denver, CO 80203, ING North America Insurance
+Corporation, a corporation formed and doing business under the laws of the state
+of Delaware and maintaining its principal offices at 5780 Powers Ferry Road NW,
+Atlanta, GA 30327 ("Sellers") and Scottish Re (U.S.), Inc. an insurance company
+formed and doing business under the laws of the state of Delaware and
+maintaining its principal offices at 13840 Ballantyne Corporate Place, Suite 500
+Charlotte, NC 28277 ("Purchaser").
+
+                              W I T N E S S E T H:
+
+     WHEREAS, Security Life of Denver Insurance Company and Security Life of
+Denver International Limited, on the one hand, and Scottish Re Group Limited and
+Scottish Re (U.S.), Inc., on the other hand, have entered into that certain
+Asset Purchase Agreement, dated October 17, 2004 (hereinafter, the "Asset
+Purchase Agreement; and
+
+
+                                       i
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+     WHEREAS, the execution and delivery of this Agreement is a condition
+precedent to the parties' obligation to consummate the transactions contemplated
+by the Asset Purchase Agreement;
+
+     NOW, THEREFORE, in consideration of the representations, warranties,
+covenants, conditions and agreements set forth in this Agreement, and other good
+and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereby agree as follows:
+
+     Section 1. Definitions. All capitalized terms used but not defined herein
+shall have the meanings ascribed to them in the Asset Purchase Agreement.
+
+     Section 2. Owned Principally-Used Computer Programs.
+
+     (a) Subject to the retention of certain rights by Sellers pursuant to
+Sections 2(a)(iii) and 2(b) below, Sellers hereby sell, assign, transfer and
+convey to Purchaser all of Sellers' right, title and interest in and to the
+Owned Principally-Used Computer Programs, as set forth in Schedule 3.13(a) of
+the Asset Purchase Agreement, and any Improvements (as defined herein) as they
+exist as of the Closing.
+
+          (i) The foregoing sale, assignment, transfer and conveyance in Section
+          2(a) expressly excludes the following SAGE components as enumerated on
+          said Schedule 3.13(a) to the Asset Purchase Agreement: (A) IMR
+          Framework Tools of CGI Information Systems & Management Consultants,
+          Inc. ("CGI") and e-WAM tools from Wyde Corporation ("Wyde") (together,
+          the "SAGE Tools"), which SAGE Tools shall be deemed Assumed Computer
+          Programs as described in Section 4 hereof, and (B) those portions of
+          SAGE created prior to September 15, 2002 owned by CGI (the "Licensed
+          SAGE Portions" and, together with the SAGE Tools, the "CGI SAGE
+          Components"), which Licensed SAGE Portions shall not be deemed Assumed
+          Computer Programs hereunder, as to which Sellers have rights under
+          certain licenses as set forth on Schedule 1.1(a) to the Asset Purchase
+          Agreement, as amended (the "CGI Licenses").
+
+          (ii) Each of the Sellers hereby assigns to Purchaser (A) all of its
+          rights and benefits in, and to the use of, the CGI SAGE Components,
+          together with any and all related documentation and supporting
+          material, howsoever derived and (B) all of its rights in the CGI
+          Licenses.
+
+          (iii) Purchaser acknowledges that Sellers may retain rights from CGI
+          and Wyde with respect to use of the CGI SAGE Components or may enter
+          into a new license with CGI or Wyde with respect to use of the CGI
+          SAGE Components. In either event, Sellers agree that (A) neither the
+          rights retained by Sellers (or any one of them) nor any new license
+          with respect to the use of the CGI SAGE Components shall diminish or
+          otherwise derogate from rights granted to Purchaser hereunder or under
+          the Asset Purchase Agreement to use the CGI SAGE Components in the
+          same manner as used by or for Sellers prior to the Closing Date and
+          (B) Sellers will not take any action (including without limitation
+
+
+                                     Page 2
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+          breaching the CGI Licenses) that will diminish or otherwise derogate
+          from rights granted to Purchaser hereunder or under the Asset Purchase
+          Agreement to use the CGI SAGE Components in the same manner as used by
+          or for Sellers prior to the Closing Date.
+
+     (b) Sellers hereby retain, and Purchaser hereby grants to Sellers, a
+worldwide, fully paid up, royalty-free, perpetual, non-exclusive license to use,
+execute, reproduce, display, perform, sublicense, distribute solely within
+Sellers and their Affiliates, modify, and create derivative works of (to include
+any revision, modification, translation, abridgment, condensation, expansion or
+compilation) the Owned Principally-Used Computer Programs (excluding the CGI
+SAGE Components) solely for (i) internal use by Sellers and any Affiliate of
+Sellers and (ii) use in connection with providing services to Purchaser pursuant
+to the Transition Services Agreement (the "Sellers' License"). In no event shall
+Sellers (or any of their Affiliates or successors) sublicense, distribute or
+display the Owned Principally-Used Computer Programs or any significant portion
+thereof (other than the SAGE Tools) to any third parties, other than consultants
+who are assisting Sellers, any Affiliate of Sellers or any successor of Sellers,
+in connection with the relevant Computer Programs, provided that such
+consultants have executed written confidentiality agreements containing
+limitations on use and disclosure substantially similar to those in the
+Confidentiality Agreement. Purchaser shall have no duty hereunder to deliver
+software or documentation to Sellers in support of this grant of Sellers'
+License; provided, that upon the reasonable request of Sellers, at Sellers'
+expense, Purchaser shall provide Sellers with a copy of any of the Owned
+Principally-Used Computer Programs as the same existed on the Effective Date.
+
+     (c) Purchaser hereby disclaims any and all liability with respect to the
+Owned Principally-Used Computer Programs licensed to Sellers under the Sellers'
+License, including without limitation liability arising out of or resulting from
+any representations or warranties as to the Owned Principally-Used Computer
+Programs, including without limitations any representations or warranties that
+the Owned Principally-Used Computer Programs will be uninterrupted or error free
+or will operate in combination with any other software programs or data. The
+Sellers' License for the Computer Programs described in Section 2(b) above is
+provided "AS IS" as of the Closing Date. Purchaser expressly disclaims all
+representations or warranties as to the Computer Programs licensed to Sellers
+under the Sellers' License, including without limitation representations or
+warranties that the Computer Programs licensed pursuant to such Sellers' License
+will be uninterrupted or error free or will operate in combination with any
+other software programs or data.
+
+     (d) Sellers covenant to Purchaser that, at and after the Closing Date,
+Sellers (and their Affiliates and successors) shall exercise any license that
+they have in the Licensed SAGE Portions (whether such license is independently
+obtained from CGI or otherwise retained in accordance with Section 2(a)(iii))
+solely for (i) internal use by Sellers and any Affiliate and (ii) use in
+connection with providing services to Purchaser pursuant to the Transition
+Services Agreement. In no event shall Sellers (or any of their Affiliates or
+successors) sublicense, distribute or display SAGE, or any component thereof
+(including Licensed SAGE Portions), to third parties, other than consultants who
+are assisting Sellers or any Affiliate or successors of Sellers in connection
+with the relevant Computer Programs, provided that such consultants have
+
+
+                                     Page 3
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+executed written confidentiality agreements containing limitations on use and
+disclosure substantially similar to those in the Confidentiality Agreement.
+
+     (e) Sellers shall promptly notify Purchaser if Sellers learn of or receive
+notice that any third party is infringing any of the Owned Principally-Used
+Programs or any Implemented Improvements (as defined in Section 7(b) of this
+Agreement) licensed hereunder, if any, and shall provide reasonable cooperation
+to Purchaser, at Purchaser's expense, in the investigation and prosecution
+(either civil or criminal) of any claims related thereto.
+
+     Section 3. Owned Generally Used Programs.
+
+     (a) Sellers hereby grant to Purchaser a worldwide, royalty-free, fully paid
+up, non-exclusive, perpetual, irrevocable, unrestricted license to use, execute,
+reproduce, display, perform, sublicense, distribute, modify, and create
+derivative works of (to include any revision, modification, translation,
+abridgement, condensation, expansion or compilation) the Owned Generally-Used
+Computer Programs, if any.
+
+     (b) Sellers shall retain ownership of and unrestricted rights in the Owned
+Generally-Used Computer Programs, if any, subject to the license to Purchaser
+granted in Section 3(a).
+
+     Section 4. Licensed Computer Programs.
+
+     (a) Sellers represent and warrant, as of the Closing, that (i) the
+applicable Seller or Affiliate of Sellers is licensee of each of the Licensed
+Computer Programs, as set forth in Schedule 3.13.(c) of the Asset Purchase
+Agreement and (ii) they have obtained the consent of each licensor of the
+Licensed Computer Programs to permit Sellers to assign the relevant Licensed
+Computer Program License to Purchaser or its designee. Those Licensed Computer
+Programs for which sufficient consents have been obtained by Sellers to assign
+the licenses for such Licensed Computer Programs are hereby duly assigned to
+Purchaser and shall be termed herein "Assumed Computer Programs" and are set
+forth on Schedule 4 hereto. Purchaser hereby assumes and agrees to perform, and
+shall be bound by all of the obligations of, and restrictions on the "licensee"
+under, each of the Licensed Computer Program Licenses relating to the Assumed
+Computer Programs.
+
+     (b) Purchaser acknowledges that, to the extent permitted by each Assumed
+Computer Program license agreement or pursuant to a written consent from the
+applicable "licensor," Sellers will retain the right to access, use and execute
+the Assumed Computer Programs, subject to the following limitations:
+
+          (i) Purchaser hereby disclaims any and all liability with respect to
+          the Assumed Computer Programs that are the subject of such rights
+          retained by Sellers, including without limitation liability arising
+          out of or resulting from any representations or warranties as to the
+          Assumed Computer Programs that are the subject of such rights retained
+          by Sellers hereunder, including without limitations any
+          representations or warranties that the Assumed Computer Programs will
+          be uninterrupted or error free or will operate in combination with any
+          other software programs or data.
+
+
+                                     Page 4
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+          (ii) Sellers shall abide by the terms of each applicable Assumed
+          Computer Program license.
+
+          (iii) Purchaser shall not incur any incremental charge by reason of
+          Sellers' use of any Assumed Computer Program.
+
+          (iv) Sellers shall be fully liable for any and all breaches of the
+          Licensed Computer Program Licenses relating to the Assumed Computer
+          Programs attributable to the acts or omissions of Sellers, except for
+          any such acts or omissions of Sellers related to the performance of
+          the Transition Services (as defined in the Transition Services
+          Agreement) taken at the request or direction of Purchaser, for which
+          Purchaser shall be solely liable.
+
+Purchaser shall have no duty hereunder to deliver software or documentation to
+Sellers in support of Sellers' retained rights; provided, that upon the
+reasonable request of Sellers, at Sellers' expense, Purchaser shall provide
+Sellers with a copy of the same as it existed on the Effective Date.
+
+Section 5. Data and Databases.
+
+     (a) Subject to Section 5(b) below, Sellers hereby sell, assign, transfer
+and convey to Purchaser all of Sellers' right, title and interest in and to the
+Databases and Data.
+
+     (b) The foregoing sale, assignment, transfer and conveyance in Section 5(a)
+is subject to the Sellers' right to retain a single instance of the Data and the
+Databases as they exist as of the Closing Date. With respect to any Data the use
+of which is subject to a contract or license assigned by Sellers to Purchaser
+pursuant to the Asset Purchase Agreement, Sellers shall only retain such Data to
+the extent such retention is permitted by such contract or license. Sellers
+shall retain any such instance of the Data and Databases solely (i) for internal
+use by Sellers and each Affiliate of Sellers and (ii) to provide services to
+Purchaser and its Affiliates under the terms of the Transition Services
+Agreement. In no event shall Sellers (or any of their Affiliates or successors)
+sublicense, distribute or display the Data or Databases to any third parties,
+other than consultants who are assisting Sellers, any Affiliate of Sellers or
+any successor of Sellers, in connection with the relevant Data or Databases,
+provided that such consultants have executed written confidentiality agreements
+containing limitations on use and disclosure substantially similar to those in
+the Confidentiality Agreement. Except as set forth in the Asset Purchase
+Agreement or pursuant to Section 6 below, Purchaser shall have no duty hereunder
+to deliver all or any part of the Data or any Database; provided, that upon the
+reasonable request of Sellers, at Sellers' expense, Purchaser shall provide
+Sellers with a copy of the same as it existed on the Effective Date.
+
+Section 6. Recapture of Retroceded Business.
+
+     (a) Purchaser shall maintain the Data and Databases which continue to be
+relevant to the Business (including any additions, deletions and modifications
+thereto) (i) in a manner consistent with Purchaser's then-current practices in
+maintaining other data relevant to the Business, (ii) in a manner substantially
+in accordance with industry standards and (iii) in a
+
+
+                                     Page 5
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+manner that permits its segregation from other data unrelated to the Business
+for purposes of transitioning the Business to Sellers in accordance with Section
+6(c) hereof in the event that Sellers terminate the Administrative Services
+Agreement in connection with a recapture of the Covered Insurance Contracts
+pursuant to the Reinsurance Agreements. Purchaser shall take such other actions
+as may reasonably be necessary from time to time to ensure that the Data and
+Databases are preserved so that they may be available for purposes of
+transitioning the Business to Sellers in accordance with Section 6(c) hereof in
+the event of such a recapture of the Business.
+
+     (b) Purchaser shall comply with all Legal Requirements, and those
+regulatory and contractual requirements of Sellers and their Affiliates
+applicable to the Business immediately prior to the Closing, with regard to
+confidential information included in the Data or Databases, for so long as the
+retroceded business remains subject to recapture by Sellers.
+
+     (c) In the event Sellers terminate the Administrative Services Agreement in
+connection with a recapture of the Covered Insurance Contracts pursuant to the
+Reinsurance Agreements, and subject to any third party restrictions and any
+required third party consents, Purchaser shall grant to Sellers such licenses to
+current versions of all computer programs (including any Computer Programs),
+databases (including any Databases) and data (including any Data) solely for the
+purpose of, and only to the extent necessary for, administering the Business
+during the period of such recapture. Purchaser and Sellers shall cooperate in
+any transition of the Business from Purchaser to Sellers in the event of such
+recapture, and Purchaser shall share equally all costs of soliciting and
+securing any necessary consents from third parties with interests in the
+relevant computer programs (including any Computer Programs), databases
+(including any Databases) and data (including any Data).
+
+     Section 7. Improvements.
+
+     (a) Schedule 7 hereto lists certain projects undertaken by Sellers prior to
+October 17, 2004 to improve or enhance the performance or utility of certain
+Computer Programs for which there is demonstrable work product that is
+identified by Sellers to Purchaser on Schedule 7 (collectively, "Improvements").
+Purchaser may elect, in its sole discretion and for its benefit, to continue to
+develop one or more Improvements. In no event shall any modifications to the
+Computer Programs made by or on behalf of Purchaser that are not identified on
+Schedule 7 and for which there is not demonstrable work product prior to October
+17, 2004 be deemed "Improvements."
+
+     (b) If, within the one year period following the date hereof, Purchaser
+completes any such Improvement (with completion being deemed to occur upon the
+commencement of the use of any such Improvement in a production environment) (an
+"Implemented Improvement"), Purchaser shall (i) provide Sellers with a copy of
+such Implemented Improvement in machine readable form, on media in use by
+Purchaser at the time, and (ii) grant a license for such Implemented Improvement
+to Sellers on the same terms as set forth in Sections 2(b) and 2(c) above and
+subject to the conditions of 2(e); provided, however, that in no event shall
+Purchaser be required to provide such a copy or such a license if Purchaser's
+licenses with third parties would prohibit (either implicitly or explicitly)
+Purchaser from providing such a copy or such a license. This section 7(b) shall
+not (A) bind any third party purchaser or assignee of the Computer Programs to
+which the Improvements relate, unless such purchaser or assignee is an
+
+
+                                     Page 6
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+Affiliate of Purchaser, or (B) encumber Purchaser's right to sell, assign,
+transfer or otherwise convey the same to any third party that is not an
+Affiliate of Purchaser.
+
+     Section 8. Further Actions. At the reasonable request of either party from
+time to time, the other party shall use commercially reasonable efforts to
+deliver such materials or copies, execute and deliver such documents, take such
+actions, make such statements, or deliver or file such materials, or to cause
+any Affiliate of such party to do the same, as may be necessary to record,
+perfect, establish, memorialize or enforce any disposition of property
+documented herein.
+
+     Section 9. Representations and Warranties.
+
+     (a) Sellers hereby represent and warrant as follows:
+
+          (i) The Owned Generally-Used Computer Programs, if any, and the Owned
+          Principally-Used Computer Programs materially comply with their
+          written specifications (if any) and do not contain back doors, Trojan
+          horses, viruses, worms, drop dead devices, time bombs, malware or
+          spyware, or other software routines or hardware components designed to
+          permit unauthorized access, or to disable or erase software, hardware
+          or data, or to perform similar other actions;
+
+          (ii) Sellers have the authority and any and all necessary consents
+          (copies of which have been provided to Purchaser) to assign to
+          Purchaser the CGI Licenses and Sellers rights in the CGI SAGE
+          Components;
+
+          (iii) Sellers have the authority and any and all necessary consents
+          (copies of which have been provided to Purchaser) to assign to
+          Purchaser hereunder the licenses for the Assumed Computer Programs;
+
+          (iv) All Data and the Databases are owned or legally possessed by
+          Sellers, and Sellers have authority to transfer their rights in and to
+          the Data and the Databases and the use thereof to Purchaser on the
+          terms described herein;
+
+          (v) Sellers (A) have all rights necessary to (x) use, execute,
+          reproduce, display, perform, sublicense, create derivative works of
+          (to include any revision, modification, translation, abridgment,
+          condensation, expansion or compilation) or otherwise exercise rights
+          in SAGE as it exists as of the Closing, as Sellers have historically
+          done in the Business, (y) access and use the SAGE source code, as
+          Sellers have historically accessed and used the same in the Business
+          and (z) modify or create derivative works from (to include any
+          revision, modification, translation, abridgment, condensation,
+          expansion or compilation) SAGE as Sellers have historically done in
+          the Business and (B) have not violated any of the CGI Licenses by
+          virtue of the modifications made to SAGE by Sellers or access to or
+          use of SAGE source code by Sellers prior to the Closing; and
+
+          (vi) Purchaser's continued exercise of the rights described in Section
+          9(a)(v) following the Closing shall not violate any right or infringe
+          any intellectual property rights of any third party.
+
+
+                                     Page 7
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+     (b) Except as expressly set forth herein or in the Asset Purchase
+Agreement, NEITHER PARTY MAKES OR RECEIVES ANY WARRANTIES, EXPRESS, IMPLIED, OR
+STATUTORY CONCERNING THE OWNED PRINCIPALLY-USED COMPUTER PROGRAMS, OWNED
+GENERALLY-USED COMPUTER PROGRAMS, LICENSED COMPUTER PROGRAMS, DATA AND
+DATABASES, INCLUDING, WITHOUT LIMITATION, ALL WARRANTIES OF TITLE,
+MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
+
+     Section 10. Indemnity.
+
+     (a) Indemnification by Sellers. Sellers agree to indemnify and hold
+harmless Purchaser and each of its directors, officers, employees, agents,
+representatives and Affiliates (and the directors, officers, employees,
+representatives and agents of such Affiliates) from any and all Losses to the
+extent they result from (i) third party claims arising out of or caused by any
+breach of any of the representations and warranties set forth herein or (ii)
+claims by CGI, Wyde or either of their successors arising out of or based upon
+Sellers' or any Affiliates' of Sellers use or possession of the CGI SAGE
+Components, (iii) third party claims arising out of or based upon (A) the
+delivery by Purchaser of copies of any of the Computer Programs, Data or
+Databases to Sellers, upon Sellers' request, in accordance with the terms of
+this Agreement, or (B) Sellers' failure to remove any operating system software
+or system or application software right-to-use licenses from the Transferred
+Assets as required by Section 13 hereof, or (iv) any successful enforcement of
+this indemnity.
+
+     (b) Indemnification by Purchaser. Purchaser agrees to indemnify and hold
+harmless Sellers and each of their directors, officers, employees, agents,
+representatives and Affiliates (and the directors, officers, employees,
+representatives and agents of such Affiliates) from any and all Losses to the
+extent they result from (i) third party claims arising out of or caused by any
+breach of any of Purchaser's obligations under Section 6 hereof, (ii) third
+party claims arising out of or resulting from any access or use of the Approved
+Desktop Software (as defined in Section 13 hereof) by (A) Purchaser, its
+Affiliates or their respective employees, agents and representatives or (B)
+Sellers or any Affiliate or Subcontractor of Sellers, to the extent that such
+access or use of the Approved Desktop Software is in connection with the
+provision of any Transition Services or any Special Project hereunder, or (iii)
+any successful enforcement of this indemnity.
+
+     (c) Indemnification Procedures. In the event either Purchaser or Sellers
+shall have a claim for indemnity against the other party under the terms of this
+Agreement with respect to a third-party claim, the parties shall follow the
+procedures set forth in Section 10.3 of the Asset Purchase Agreement. The
+parties hereto shall follow the procedures set forth in Section 11 hereof with
+respect to any other claim for indemnity.
+
+     (d) Limitations on Indemnification. Any indemnification obligation of
+Sellers hereunder shall be in accordance with the terms and conditions
+applicable to breaches of representations and warranties set forth in Article X
+of the Asset Purchase Agreement, including, without limitation, Sections 10.4
+and 10.5 of the Asset Purchase Agreement. For the avoidance of doubt, the dollar
+limitations set forth in Section 10.4(c) of the Asset Purchase Agreement shall
+
+
+                                     Page 8
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+be applied to any breaches of representations or warranties in this Agreement as
+though such representations and warranties had been set forth in the Asset
+Purchase Agreement.
+
+     Section 11. Arbitration.
+
+     (a) Arbitration. After the Closing Date, except with regard to the relief
+set forth in Section 14, any dispute between Purchaser and Sellers with
+reference to the interpretation or performance of this Agreement, whether such
+dispute arises before or after the termination of this Agreement, shall be
+decided through negotiation and, if necessary, arbitration as set forth in this
+Section 11. The parties intend this Section 11 to be enforceable in accordance
+with the Federal Arbitration Act (9 U.S.C., Section 1) including any amendments
+to that Act which are subsequently adopted. In the event that either party
+refuses to submit to arbitration as required by Section 11(a), the other party
+may request the court specified in Section 16(f) to compel arbitration in
+accordance with the Federal Arbitration Act.
+
+     (b) Procedures. Sellers and Purchaser intend that any dispute between them
+arising under this Agreement be resolved without resort to any litigation.
+Accordingly, Sellers and Purchaser agree that they will negotiate diligently and
+in good faith to agree on a mutually satisfactory resolution of any such
+dispute; provided, however, that if any such dispute cannot be so resolved by
+them within sixty (60) calendar days (or such longer period as the parties may
+agree) after commencing such negotiations, Sellers and Purchaser agree that they
+will submit such dispute to arbitration in the manner specified in, and such
+arbitration proceeding will be conducted in accordance with, the Commercial
+Arbitration Rules of the American Arbitration Association.
+
+     The arbitration hearing will be before a panel of three disinterested
+arbitrators, each of whom must be a present or former officer of a life
+insurance or life reinsurance company familiar with the life reinsurance
+business, or other professionals with experience in life insurance or
+reinsurance, provided that such professionals shall not have performed services
+for either party within the previous five (5) years, and provided further that
+no arbitrator shall be a former employee of either Seller or any of its
+Affiliates. Sellers and Purchaser will each appoint one arbitrator by written
+notification to the other party within thirty (30) calendar days after the date
+of the mailing of the notification initiating the arbitration. These two
+arbitrators will then select the third arbitrator within sixty (60) calendar
+days after the date of the mailing of the notification initiating arbitration.
+
+     If either Sellers or Purchaser fails to appoint an arbitrator, or should
+the two arbitrators be unable to agree upon the choice of a third arbitrator,
+the president of the American Arbitration Association will appoint the necessary
+arbitrators within thirty (30) calendar days after the request to do so.
+
+     The arbitrators shall base their decision on the terms and conditions of
+this Agreement. However, if the terms and conditions of this Agreement do not
+explicitly dispose of an issue in dispute between the parties, the arbitrators
+may base their decision on the customs and practices of the life insurance and
+life reinsurance industry together with an interpretation of the law. The vote
+or approval of a majority of the arbitrators will decide any question considered
+by the arbitrators. The place of arbitration will be determined by the
+arbitrators. Each decision
+
+
+                                     Page 9
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+(including without limitation each award) of the arbitrators will be final and
+binding on all parties and will be nonappealable, except that (at the request of
+either Sellers or Purchaser) any award of the arbitrators may be confirmed (or,
+if appropriate, vacated) by a judgment entered by the court specified in Section
+16(f). In no event may the arbitrators award punitive or exemplary damages,
+except for the liable party's fraud, theft, embezzlement or other intentional
+acts or omissions of bad faith. Each party will be responsible for paying (i)
+all fees and expenses charged by its respective counsel, accountants, actuaries,
+and other representatives in conjunction with such arbitration and (ii) one-half
+of the fees and expenses charged by each arbitrator.
+
+     Section 12. Delivery By Sellers.
+
+     (a) All materials conveyed or licensed to Purchaser under or pursuant to
+this Agreement or the Asset Purchase Agreement, whether Computer Programs, Data
+or Databases, shall be segregated from Sellers' other materials in all material
+respects, at Sellers' expense, and delivered by Sellers to Purchaser (in
+machine-readable form, where applicable) as promptly as practicable (i) upon
+request by Purchaser, (ii) if not earlier requested, upon the date of
+termination or expiration of the Transition Services Agreement.
+
+     (b) All Computer Programs, Data and Databases sold, assigned, transferred
+or conveyed to Purchaser under or pursuant to this Agreement or the Asset
+Purchase Agreement, or which are owned by Sellers or any Affiliate of Sellers
+and licensed to Purchaser under or pursuant to this Agreement or the Asset
+Purchase Agreement, shall be segregated from Sellers' other computer programs,
+data and databases in all material respects, at Sellers' expense, and delivered
+by Sellers (in machine-readable form) together with any available historical
+records thereof. With regard to Owned Principally-Used Computer Programs, such
+delivery shall include (i) all available source code (if available, as annotated
+by or for Sellers for their use or the use of any third party) and (ii) all
+available user and administrator documentation (as prepared by or for Sellers
+for their use or the use of any third party).
+
+     (c) All third party-owned Computer Programs, Data and Databases licensed,
+sublicensed or as to which a license agreement is assigned to Purchaser under
+this Agreement or the Asset Purchase Agreement, or pursuant to either, shall be
+segregated from Sellers' other computer programs, data and databases in all
+material respects and provided to Purchaser (in machine-readable form, where
+applicable) together with a copy of all available ancillary third party
+materials.
+
+     Section 13. Other Computer Programs. Purchaser acknowledges and agrees that
+Sellers are not providing any operating system software or system or application
+software right-to-use licenses with certain computers used by the Transferred
+Employees, any such software and licenses being Purchaser's sole responsibility
+to obtain. Purchaser further acknowledges, agrees and is notified that, to the
+extent any hardware constituting part of the Transferred Assets contains any
+software, other than the software and related components described on Schedule
+13 hereto (such software and related components contained in or residing on the
+computers used by the Transferred Employees being collectively referred to
+herein as the "Approved Desktop Software"), Sellers shall remove such software
+as promptly as possible using commercially reasonable efforts. Purchaser shall
+provide Sellers with such reasonable cooperation and access (for as long as
+reasonably necessary) as Sellers may request for the purpose removing such
+
+
+                                    Page 10
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+software from the Transferred Assets, including, without limitation, access to
+and reasonable cooperation of any Transferred Employees with particular skills
+or expertise.
+
+     Section 14. Equitable Rights. The parties acknowledge and agree that money
+damages would not be a sufficient remedy for any failure of either party to
+timely deliver materials sold, assigned or licensed to the other party,
+including, without limitation, any such failure upon Sellers' termination of the
+Administrative Services Agreement in connection with a recapture of the Covered
+Insurance Contracts pursuant to the Reinsurance Agreements, under or pursuant to
+this Agreement or the APA, and that each party shall be entitled to seek
+equitable relief, including, without limitation, injunction and specific
+performance, as a remedy for such breach by the other party and that the
+breaching party shall not oppose the granting of such equitable relief, unless
+such non-performance or breach was caused directly or indirectly by the act or
+omission of the party seeking such equitable relief. Such remedy shall not be
+deemed to be the exclusive remedy for breach of this Agreement, but shall be in
+addition to the other remedies available to a party under this Agreement.
+
+     Section 15. Term. This Agreement shall become effective on the Effective
+Date and shall remain in force in perpetuity (or for the longest period
+permitted by law).
+
+     Section 16. Miscellaneous.
+
+     (a) Notices. Any notice, request or other communication to be given by any
+party hereunder shall be in writing and shall be delivered personally, sent by
+registered or certified mail, postage prepaid, or by overnight courier with
+written confirmation of delivery. Any such notice shall be deemed given when so
+delivered personally, or if mailed, on the date shown on the receipt therefor,
+or if sent by overnight courier, on the date shown on the written confirmation
+of delivery. Such notices shall be given to the following address:
+
+To Sellers:                        Security Life of Denver Insurance Company
+                                   Security Life of Denver International Limited
+                                   Attention: Mark Tullis
+                                   c/o ING North America Insurance Corporation
+                                   780 Powers Ferry Road NW
+                                   Atlanta, GA 30327
+
+With a concurrent copy to:         B. Scott Burton
+                                   Corporate General Counsel
+                                   ING North America Insurance Corporation
+                                   5780 Powers Ferry Road NW
+                                   Atlanta, GA 30327
+And
+                                   David A. Massey, Esq.
+                                   Sutherland Asbill & Brennan LLP
+                                   1275 Pennsylvania Ave., NW
+                                   Washington, DC 20004-2415
+
+
+                                    Page 11
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+To Purchaser:                      Scottish Re (U.S.) Inc.
+                                   13840 Ballantyne Corporate Place, Suite 500
+                                   Charlotte, NC  28277
+                                   Attention: Nate Gemmiti, Esq.
+
+With a copy to:                    Stephen G. Rooney, Esq.
+                                   LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+                                   125 West 55th Street
+                                   New York, NY 10019
+
+     (b) Entire Agreement. This Agreement may not be amended or modified in any
+respect whatsoever except by instrument in writing signed by the parties hereto.
+This Agreement, the Asset Purchase Agreement, the Related Agreements, the
+Confidentiality Agreement, and the other documents delivered pursuant hereto and
+thereto constitute the entire agreement among the parties hereto and their
+respective Affiliates with respect to the subject matter hereof and supersede
+all prior negotiations, discussions, writings and agreements between them with
+respect thereto.
+
+     (c) Successors and Assigns. The rights and obligations of the parties under
+this Agreement shall not be subject to assignment, and any attempted assignment
+shall be invalid ab initio; provided, that the foregoing shall not be construed
+to limit in any way Purchaser's rights to assign the Computer Programs, Data,
+Databases and related agreements and materials conveyed, transferred, assigned
+or licensed to Purchaser hereunder. The terms of this Agreement shall be binding
+upon and inure to the benefit of and be enforceable by and against the
+successors of the parties hereto.
+
+     (d) Captions. The captions of this Agreement are for convenience of
+reference only and shall not define or limit any of the terms or provisions
+hereof.
+
+     (e) Waivers and Amendments. Except as otherwise permitted herein, any
+modification, supplement, or amendment to this Agreement, or any waiver
+hereunder, shall be effective only if made in writing and signed by the
+designated officer of each of the parties hereto. No waiver of any provisions of
+this Agreement and no consent to any default under this Agreement shall be
+effective unless the same shall be in writing and signed by or on behalf of the
+party against whom such waiver or consent is claimed. No course of dealing or
+failure of any party to strictly enforce any term, right or condition of this
+Agreement shall be construed as a waiver of such term, right or condition.
+Waiver by either party of any default by the other party shall not be deemed a
+waiver of any other default.
+
+     (f) Governing Law and Jurisdiction. This Agreement shall be governed by and
+construed in accordance with the laws of the State of New York applicable to
+contract entered into therein, without reference to principles of choice of law
+or conflicts of laws. Each party hereto irrevocably and unconditionally submits
+to the exclusive jurisdiction of any State or Federal Court sitting in New York,
+over any suit, action or proceeding arising out of or relating
+
+
+                                    Page 12
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+to this Agreement. Each party hereto agrees that service of any process,
+summons, notice or document by U.S. registered mail addressed to such party at
+the address(es) set forth in Section 16(a) hereof shall be effective service of
+process for any action, suit or proceeding brought against such party in such
+court. Each party hereto irrevocably and unconditionally waives any objection to
+the laying of venue of any such suit, action or proceeding brought in any such
+court and any claim that any such action, suit or proceeding brought in any such
+court has been brought in an inconvenient forum. Each party hereto agrees that
+final judgment in any such action, suit or proceeding brought in any such court
+shall be conclusive and binding upon such party and may be enforced in any other
+courts to whose jurisdiction such party may be subject, by suit upon such
+judgment.
+
+     (g) No Third Party Beneficiaries. Except as otherwise expressly set forth
+in any provision of this Agreement, nothing in this Agreement is intended or
+shall be construed to give any Person, other than the parties hereto, any legal
+or equitable right, remedy or claim under or in respect of this Agreement or any
+provision contained herein.
+
+     (h) Execution in Counterparts. This Agreement may be executed by the
+parties hereto in separate counterparts, each of which when so executed and
+delivered shall be an original, but all such counterparts shall together
+constitute one and the same instrument. Each counterpart may consist of a number
+of copies hereof each signed by less than all, but together signed by all of the
+parties hereto. Each counterpart may be delivered by facsimile transmission,
+which transmission shall be deemed delivery of an originally executed document.
+
+     (i) Severability. Any term or provision of this Agreement which is invalid
+or unenforceable in any jurisdiction shall, as to that jurisdiction, be
+ineffective to the extent of such invalidity or unenforceability without
+rendering invalid or unenforceable the remaining terms and provisions of this
+Agreement or affecting the validity or enforceability of any of the terms or
+provisions of this Agreement in any other jurisdiction, so long as the economic
+or legal substance of the transactions contemplated hereby is not affected in
+any manner materially adverse to any party. If any provision of this Agreement
+is so broad as to be unenforceable, that provision shall be interpreted to be
+only as broad as is enforceable.
+
+     (j) Waiver of Jury Trial; Multiplied and Punitive Damages. Each of the
+parties hereto irrevocably waives, with respect to any first party action filed
+by the other party (but not as to any action by one party against the other
+seeking indemnification for a third party claim against the party initiating the
+action, to the extent that such damages may be recoverable as part of the
+indemnification by the indemnified party) (i) any and all right to trial by
+jury, and (ii) any right to punitive, incidental, consequential or multiplied
+damages, either pursuant to common law or statute, in any legal proceedings
+arising out of or related to this Agreement or the transactions contemplated
+hereby, except for the liable party's fraud, theft, embezzlement or other
+intentional acts or omissions of bad faith.
+
+
+                                    Page 13
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties have, by their duly authorized
+representatives, executed and delivered this Agreement as of the Effective Date.
+
+SECURITY LIFE OF DENVER                  ING NORTH AMERICA INSURANCE CORPORATION
+INSURANCE COMPANY
+
+By: /s/ Mark Tullis                      By: /s/ David Pendergrass
+    -------------------------------          -------------------------------
+Print: Mark Tullis                       Print: David Pendergrass
+       ----------------------------             ----------------------------
+Title: President                         Title: Vice President
+       ----------------------------             ----------------------------
+Date: December 31, 2004                  Date: December 31, 2004
+      -----------------------------            -----------------------------
+
+                                         SCOTTISH RE (U.S.), INC.
+
+
+                                         By: /s/ Oscar Scofield
+                                             -----------------------------
+                                         Print: Oscar Scofield
+                                                --------------------------
+                                         Title: CEO/ President
+                                                --------------------------
+                                         Date: December 31, 2004
+                                               ---------------------------
+
+
+                                    Page 14
+
+--------------------------------------------------------------------------------
+</TEXT>
+</DOCUMENT>

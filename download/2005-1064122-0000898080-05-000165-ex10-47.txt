@@ -1,0 +1,1272 @@
+<DOCUMENT>
+<TYPE>EX-10.47
+<SEQUENCE>9
+<FILENAME>ex10-47.txt
+<DESCRIPTION>COINSURANCE/MODIFIED COINSURANCE AGREEMENT
+<TEXT>
+
+
+
+
+
+================================================================================
+
+
+
+                   COINSURANCE/MODIFIED COINSURANCE AGREEMENT
+
+
+                                     between
+
+
+                    SECURITY LIFE OF DENVER INSURANCE COMPANY
+
+
+                          (referred to as the Company)
+
+
+                                       and
+
+
+                            SCOTTISH RE (U.S.), INC.
+
+
+                         (referred to as the Reinsurer)
+
+
+                        Effective Date: December 31, 2004
+
+
+
+================================================================================
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+
+
+ARTICLE I              DEFINITIONS.............................................1
+     Section 1.1.      Definitions.............................................1
+
+ARTICLE II             BASIS OF COINSURANCE AND BUSINESS COINSURED.............4
+     Section 2.1.      Coinsurance/Modified Coinsurance........................4
+     Section 2.2.      Reinsurance Coverage....................................4
+     Section 2.3.      Reserves................................................4
+     Section 2.4.      Insurance Contract and Reserve Assumption Changes.......5
+
+ARTICLE III            TRANSFER OF ASSETS; ACCOUNTING; ADMINISTRATION..........5
+     Section 3.1.      Payments by the Company.................................5
+     Section 3.2.      Settlement..............................................6
+     Section 3.3.      Delayed Payments........................................6
+     Section 3.4.      Offset and Recoupment Rights............................6
+     Section 3.5.      Administration..........................................7
+     Section 3.6       Certain Reports.........................................7
+
+ARTICLE IV             REINSURANCE CREDIT; SECURITY............................7
+     Section 4.1.      Licenses................................................7
+     Section 4.2.      Security................................................7
+     Section 4.3.      SLD Reserve Trust Agreement.............................8
+     Section 4.4.      Investment of Trust Assets..............................8
+     Section 4.5.      Deposit of Assets.......................................8
+     Section 4.6.      Adjustment of Security and Withdrawals..................8
+     Section 4.7.      Withdrawals by the Company..............................9
+     Section 4.8.      Assets in Trust of the Company..........................9
+     Section 4.9.      Compliance by the Company...............................9
+     Section 4.10.     Reports................................................10
+
+ARTICLE V              OVERSIGHTS; COOPERATION; REGULATORY MATTERS............10
+     Section 5.1.      Oversights.............................................10
+     Section 5.2.      Cooperation............................................10
+     Section 5.3.      Regulatory Matters.....................................10
+
+ARTICLE VI             DAC TAX................................................10
+     Section 6.1.      Election...............................................10
+
+ARTICLE VII            ARBITRATION............................................12
+     Section 7.1.      Arbitration............................................12
+     Section 7.2.      Arbitration Procedure..................................12
+
+ARTICLE VIII           INSOLVENCY.............................................13
+     Section 8.1.      Insolvency of the Company..............................13
+
+
+                                       i
+
+
+<PAGE>
+
+ARTICLE IX             DURATION; RECAPTURE....................................14
+     Section 9.1.      Duration...............................................14
+     Section 9.2.      Survival...............................................14
+     Section 9.3.      Recapture..............................................14
+     Section 9.4.      Recapture Payments.....................................14
+
+ARTICLE X              INDEMNIFICATION........................................15
+     Section 10.1.     Reinsurer's Obligation to Indemnify....................15
+     Section 10.2.     Company's Obligation to Indemnify......................15
+     Section 10.3.     Certain Definitions and Procedures.....................15
+
+ARTICLE XI             MISCELLANEOUS..........................................15
+     Section 11.1.     Notices................................................15
+     Section 11.2.     Entire Agreement.......................................16
+     Section 11.3.     Captions...............................................16
+     Section 11.4.     Governing Law and Jurisdiction.........................16
+     Section 11.5.     No Third Party Beneficiaries...........................17
+     Section 11.6.     Expenses...............................................17
+     Section 11.7.     Counterparts...........................................17
+     Section 11.8.     Severability...........................................17
+     Section 11.9.     Waiver of Jury Trial; Multiplied and Punitive Damages..17
+     Section 11.10.    Treatment of Confidential Information..................18
+     Section 11.11.    Assignment.............................................18
+     Section 11.12.    Service of Process.....................................18
+
+ARTICLE XII            REPRESENTATIONS, WARRANTIES AND COVENANTS..............19
+     Section 12.1.     Representations, Warranties, and Covenants of the
+                       Reinsurer..............................................19
+
+
+                                       ii
+
+<PAGE>
+
+
+                   COINSURANCE/MODIFIED COINSURANCE AGREEMENT
+
+          THIS COINSURANCE/MODIFIED COINSURANCE AGREEMENT (the "Agreement"), is
+     made and entered into as of December 31, 2004 (the "Effective Date") by and
+     between Security Life of Denver Insurance Company, a Colorado-domiciled
+     life insurance company (the "Company") and Scottish Re (U.S.), Inc., a
+     Delaware-domiciled life insurance company (the "Reinsurer").
+
+          WHEREAS, the Company, Security Life of Denver International Limited, a
+     Bermuda insurance company ("SLDI" and, together with the Company, the
+     "Sellers"), and Scottish Re Group Limited ("Purchaser"), the indirect
+     parent corporation of Reinsurer, Newco and the Reinsurer, have entered into
+     an Asset Purchase Agreement, dated as of October 17, 2004 (the "Asset
+     Purchase Agreement"), pursuant to which the Sellers have agreed to sell,
+     and the Purchaser has agreed to purchase, the individual life reinsurance
+     business and certain assets of Sellers;
+
+          WHEREAS, as contemplated by the Asset Purchase Agreement, the Company
+     wishes to retrocede to the Reinsurer, and the Reinsurer wishes to indemnity
+     reinsure, on a one-hundred percent (100%) coinsurance/modified coinsurance
+     basis, the Covered Insurance Contracts (as hereinafter defined); and
+
+          WHEREAS, the Company wishes the Reinsurer to perform, or cause the
+     performance of, certain administrative functions on behalf of the Company
+     with respect to the Covered Insurance Contracts, and the Company and the
+     Reinsurer have entered into an Administrative Services Agreement of even
+     date herewith (the "Administrative Services Agreement") pursuant to which
+     the Reinsurer shall provide, or cause the provision of, such administrative
+     services;
+
+          NOW, THEREFORE, in consideration of the mutual and several promises
+     and undertakings herein contained, and for other good and valuable
+     consideration, the receipt and adequacy of which are hereby acknowledged,
+     the Company and the Reinsurer agree as follows:
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+          Section 1.1. Definitions. Any capitalized term used but not defined
+herein shall have the meaning set forth in the Asset Purchase Agreement. The
+following terms shall have the respective meanings set forth below throughout
+this Agreement:
+
+          "Administrative Services Agreement" has the meaning set forth in the
+preamble.
+
+          "Affiliated Reinsurer" has the meaning set forth in the definition of
+"Triggering Event".
+
+          "Agreement" has the meaning set forth in the preamble.
+
+          "Asset Purchase Agreement" has the meaning set forth in the preamble.
+
+
+<PAGE>
+
+          "Commissioner" means the Insurance Commissioner of the State of
+Colorado.
+
+          "Company" has the meaning set forth in the preamble.
+
+          "Company Indemnified Parties" has the meaning set forth in Section
+10.1 of this Agreement.
+
+          "Confidential Information" means all documents and information
+concerning one party, any of its Affiliates, the Reinsured Liabilities or the
+Covered Insurance Contracts, including any information relating to any person
+insured directly or indirectly under the Covered Insurance Contracts, furnished
+to the other party or such other party's Affiliates or representatives in
+connection with this Agreement or the transactions contemplated hereby, except
+that Confidential Information shall not include information which: (a) at the
+time of disclosure or thereafter is generally available to and known by the
+public other than by way of a wrongful disclosure by a party hereto or by any
+representative of a party hereto; (b) was available on a nonconfidential basis
+from a source other than the parties hereto or their representatives, provided
+that such source is not and was not bound by a confidentiality agreement with a
+party hereto; or (c) was independently developed without violating any
+obligations under this Agreement and without the use of any Confidential
+Information.
+
+          "Confidentiality Agreement" means that certain confidentiality
+agreement dated May 4, 2004 by and between ING and Purchaser.
+
+          "Covered Insurance Contracts" means (i) all Insurance Contracts that
+are reinsurance agreements under which the reinsurance is assumed by the Company
+on a coinsurance/modified coinsurance basis or on a modified coinsurance basis,
+as listed on Schedule 1.1(a); and (ii) all Post-Closing Insurance Contracts. The
+parties agree to update Schedule 1.1(a) from time to time to reflect Covered
+Insurance Contracts entered into in accordance with the terms of this Agreement
+or discovered after the Effective Date.
+
+          "Effective Date" means the effective date shown in the preamble of
+this Agreement.
+
+          "Eligible Assets" has the meaning set forth in Section 4.4 of this
+Agreement.
+
+          "Excess Amount" has the meaning set forth in Section 9.4 of this
+Agreement.
+
+          "Independent Accountant" has the meaning set forth in 6.1(f) of this
+Agreement.
+
+          "Post-Closing Insurance Contracts" has the meaning set forth in
+Section 2.2 of this Agreement.
+
+          "Premiums" means premiums, considerations, deposits and similar
+receipts with respect to the Covered Insurance Contracts.
+
+          "Recapture Date" has the meaning set forth in Section 9.3 of this
+Agreement.
+
+          "Reinsurer" has the meaning set forth in the preamble.
+
+
+                                       2
+
+<PAGE>
+
+          "Reinsurer Indemnified Parties" has the meaning set forth in Section
+10.2 of this Agreement.
+
+          "Required Balance" has the meaning set forth in Section 4.3 of this
+Agreement.
+
+          "Reserves" means the aggregate amount of reserves required to be
+maintained by the Company with respect to the Covered Insurance Contracts in
+accordance with SAP.
+
+          "SAP" means the statutory accounting practices prescribed or permitted
+by the insurance department of the State of Colorado.
+
+          "Scottish Annuity & Life" means Scottish Annuity & Life Insurance
+Company (Cayman) Ltd., a company organized under the laws of the Cayman Islands.
+
+          "Scottish Re Group" means Scottish Re Group Limited, a holding company
+organized under the laws of the Cayman Islands.
+
+          "Shortfall Amount" has the meaning set forth in Section 9.4 of this
+Agreement.
+
+          "Triggering Event" means any of the following occurrences:
+
+          (i) the existence of an insolvency, rehabilitation, conservation or
+     comparable proceeding by or against the Reinsurer or any Affiliate of
+     Reinsurer that at the time in question is reinsuring any of the Business
+     (an "Affiliated Reinsurer"), Scottish Annuity & Life or Scottish Re Group;
+
+          (ii) the risk based capital (under applicable Delaware Insurance Law
+     requirements), calculated quarterly, of the Reinsurer or any Affiliated
+     Reinsurer domiciled in the United States falls below 125% of the Company
+     Action Level RBC, and is not increased to at least 125% within thirty (30)
+     calendar days after the date upon which the Reinsurer is required to
+     provide to the Company the report pursuant to Section 3.5 of this Agreement
+     that would reflect such deficiency;
+
+          (iii) the capital adequacy ratio (as currently calculated for Standard
+     & Poor's as set forth on Schedule 1.1(b)), calculated quarterly, of
+     consolidated Scottish Re Group or consolidated Scottish Annuity & Life
+     falls below 100%, and is not increased to at least 100% within thirty (30)
+     calendar days after the date upon which the Reinsurer is required to
+     provide to the Company the report pursuant to Section 3.6 of this Agreement
+     that would reflect such deficiency;
+
+          (iv) there has been a material breach of any Reinsurance Agreement by
+     the Reinsurer or an Affiliated Reinsurer, including, without limitation,
+     failure to fund any trust as required, and such breach has not been cured
+     within 30 days after notice; or
+
+          (v) there has been a termination or amendment to any keepwell
+     agreement described in Section 5.26 of the Asset Purchase Agreement without
+     the Company's prior written consent, which consent shall not be
+     unreasonably withheld.
+
+
+                                       3
+
+<PAGE>
+
+          "Termination Date" means the date on which this Agreement is
+terminated in accordance with the terms and conditions of Article IX hereof.
+
+          "UCC" means the New York Uniform Commercial Code.
+
+                                   ARTICLE II
+                   BASIS OF COINSURANCE AND BUSINESS COINSURED
+
+          Section 2.1. Coinsurance/Modified Coinsurance.
+
+          (a) Subject to the terms and conditions of this Agreement, the Company
+hereby cedes on a coinsurance/modified coinsurance basis to the Reinsurer as of
+the Effective Date, and the Reinsurer hereby accepts and agrees to assume and
+indemnity reinsure on a coinsurance/modified coinsurance basis as of the
+Effective Date, one hundred percent (100%) of all Reinsured Liabilities arising
+under or relating to the Covered Insurance Contracts. This Agreement is an
+agreement for indemnity reinsurance solely between the Company and the Reinsurer
+and shall not create any legal relationship whatsoever between the Reinsurer and
+any Person other than the Company. The reinsurance effected under this Agreement
+shall be maintained in force, without reduction, unless such reinsurance is
+terminated or reduced as provided herein.
+
+          (b) On and after the Effective Date, the Reinsurer will have the
+responsibility for paying to or on behalf of the Company, as and when due, all
+Reinsured Liabilities arising under or attributable to the Covered Insurance
+Contracts.
+
+          Section 2.2. Reinsurance Coverage. In no event shall the reinsurance
+provided hereunder with respect to a particular Covered Insurance Contract be in
+force and binding unless such Covered Insurance Contract is in force and binding
+as of the Effective Date; provided, however, that the Covered Insurance
+Contracts reinsured hereunder shall include (a) all lapsed or surrendered
+insurance contracts subject to the reinsurance hereunder, that are Covered
+Insurance Contracts reinstated in accordance with their terms on and after the
+Effective Date; (b) all final Insurance Contracts that are on a modified
+coinsurance or coinsurance/modified coinsurance basis and were under negotiation
+or otherwise in process on the Effective Date and that are entered into by the
+Company at the request of the Reinsurer, during the period commencing on the
+Effective Date and ending on the 120th day following the Effective Date (the
+"Post-Closing Insurance Contracts"); and (c) all Unexecuted Assumed Reinsurance
+Contracts of the Company on a modified coinsurance or coinsurance/modified
+coinsurance basis. Upon the reinstatement of any lapsed or surrendered Covered
+Insurance Contract, or the execution of any Post-Closing Insurance Contract,
+such reinstated Covered Insurance Contract or Post-Closing Insurance Contract
+shall be automatically reinsured hereunder, when, and to the extent that, the
+Company is liable under such reinstated Covered Insurance Contract or
+Post-Closing Insurance Contract.
+
+          Section 2.3. Reserves. On and after the Effective Date, the Reinsurer
+shall establish and maintain as a liability on its statutory financial
+statements, Reserves for the Covered Insurance Contracts ceded hereunder,
+calculated consistent with (a) the reserve requirements, SAP and actuarial
+principles applicable to the Company under Colorado Law; and
+
+
+                                       4
+
+<PAGE>
+
+(b) otherwise in accordance with any valuation bases and methods of determining
+Reserves that may be provided in the Covered Insurance Contracts. The Reinsurer
+shall provide the Company, no later than forty-five (45) calendar days after the
+end of each calendar year, with copies of all actuarial opinions and actuarial
+memoranda and all reserve evaluations pertaining to the Reserves for the Covered
+Insurance Contracts, including, without limitation, any actuarial opinions and
+reserve evaluations performed by independent actuaries, auditors or other
+outside consultants. The Company agrees that the Reserves that it establishes
+and maintains on its statutory financial statements filed with the State of
+Colorado with respect to the Covered Insurance Contracts shall be consistent
+with the Reserves established by the Reinsurer; provided, however, that the
+Company may, at its own cost at any time, upon reasonable notice to the
+Reinsurer following the Effective Date, examine the Books and Records, and any
+other books and records that would have been included in the Books and Records
+had they been in existence on the Effective Date, maintained by the Reinsurer in
+accordance with the terms of this Agreement, and review the Reinsurer's reserve
+procedures. If as a result of such examination the Company believes that the
+Reserves are not consistent with the requirements of clauses (a) and (b) of the
+first sentence of this Section 2.3 in all material respects, the Reinsurer
+shall, at the Company's request and expense, obtain and deliver to the Company
+an actuarial opinion as to the adequacy of the Reserves for the Covered
+Insurance Contracts, produced by an independent actuary reasonably acceptable to
+the Company. In the event that the actuarial opinion so rendered reasonably
+indicates a material inadequacy in the Reserves for the Covered Insurance
+Contracts or in the Reinsurer's reserve procedures, the Reinsurer shall promptly
+adjust the amount of the Reserves for the Covered Insurance Contracts and
+implement appropriate changes to its reserve procedures so as to avoid
+inadequacies in future periods; provided, however, the Reinsurer shall have the
+right to contest the findings of such actuarial opinion in accordance with the
+provisions of Article VII.
+
+          Section 2.4. Insurance Contract and Reserve Assumption Changes. The
+Company shall not change (a) the terms and conditions of any Covered Insurance
+Contracts or (b) the assumptions and methods used to establish the Reserves
+attributable to the Covered Insurance Contracts, except as required by
+Applicable Law, and the Company shall notify the Reinsurer promptly upon
+becoming aware of the requirement to effect any such change and provide the
+Reinsurer the opportunity to contest such requirement.
+
+                                  ARTICLE III
+                 TRANSFER OF ASSETS; ACCOUNTING; ADMINISTRATION
+
+          Section 3.1. Payments by the Company.
+
+          (a) As consideration for the Reinsurer's agreement to provide
+reinsurance pursuant to the Reinsurance Agreements between the Company and the
+Reinsurer, the Company is transferring, on the Effective Date, to the Reinsurer,
+the SLD Reserve Trust Account and the SLD Security Trust Account, as
+appropriate, as an initial reinsurance premium, the Transferred Statutory
+Assets, Investment Assets and cash having a value determined in accordance with
+Section 2.4(c) of the Asset Purchase Agreement.
+
+          (b) The Reinsurer shall be entitled prior to the Recapture Date, as
+additional reinsurance premium, to payment of amounts equal to Premiums received
+by the Company on
+
+
+                                       5
+<PAGE>
+
+and after the Effective Date that are attributable to the Covered Insurance
+Contracts; provided, however, that following the occurrence of a Triggering
+Event, the Company shall be entitled to retain such amounts as funds withheld
+under this Agreement, provided further, however, that such funds may be used by
+the Company as set forth in Section 4.7 of this Agreement, and any amount
+remaining upon termination of this Agreement pursuant to Section 9.1, other than
+as a result of a recapture, shall be paid to the Reinsurer. Any funds withheld
+pursuant to this Section 3.1(b) shall be credited against the Required Balance.
+For the avoidance of doubt, the parties acknowledge and agree that the Company
+retains all right, title and interest to all Premiums and other amounts received
+with respect to the Covered Insurance Contracts, subject to its contractual
+obligations under this Agreement to pay corresponding amounts over to the
+Reinsurer in accordance with Section 3.2 hereof.
+
+          (c) To the extent that the Company recovers amounts from any third
+party relating to the Business attributable to the Covered Insurance Contracts
+(including, without limitation, Premiums in arrears from a policyholder or
+ceding company with respect to a reinstated Covered Insurance Contract,
+litigation recoveries, premium and reinsurance recoverables), the Company shall
+transfer such amounts to the Reinsurer and provide the Reinsurer with any
+pertinent information that the Company may have relating thereto in accordance
+with Section 3.2 hereof.
+
+          Section 3.2. Settlement. During the term of this Agreement, a
+settlement amount between the Company and the Reinsurer as of the last day of
+any relevant accounting period shall be calculated according to the terms of the
+Covered Insurance Contracts as if the Reinsurer was in the Company's position
+under each Covered Insurance Contract and the Company was in the ceding
+company's position under each such Covered Insurance Contract. In connection
+with the quarterly accounting pursuant to the Administrative Services Agreement,
+(i) the Company will pay to the Reinsurer any net amounts the Company receives
+from the ceding companies under the Covered Insurance Contracts, including
+without limitation any modified coinsurance reserve adjustment, and (ii) the
+Reinsurer will pay to the Company any net amount the Company is obligated to pay
+to the ceding companies under the Covered Insurance Contracts, including without
+limitation any modified coinsurance reserve adjustment.
+
+          Section 3.3. Delayed Payments. If there is a delayed settlement of any
+payment due hereunder, interest will accrue on such payment at the 180-Day
+Treasury Rate then in effect until settlement is made. For purposes of this
+Section 3.3, a payment will be considered overdue, and such interest will begin
+to accrue, on the first day immediately following the date such payment is due.
+For greater clarity, (i) a payment shall be deemed to be due hereunder on the
+last date on which such payment may be timely made under the applicable
+provision, and (ii) interest will not accrue on any payment due the Reinsurer
+hereunder unless the delayed settlement thereof was caused by the Company.
+
+          Section 3.4. Offset and Recoupment Rights. Any debits or credits
+incurred on and after the Effective Date in favor of or against either the
+Company or Reinsurer with respect to this Agreement or any other reinsurance
+agreements or trust agreements that constitute Related Agreements or otherwise
+are deemed mutual debits or credits, as the case may be, shall be set off and
+recouped, and only the net balance shall be allowed or paid. This Section 3.4
+shall
+
+
+                                       6
+<PAGE>
+
+apply notwithstanding the existence of any insolvency, rehabilitation,
+conservatorship or comparable proceeding by or against the Company or the
+Reinsurer.
+
+          Section 3.5. Administration. The Reinsurer will administer, or cause
+the administration of, the Covered Insurance Contracts and provide quarterly
+accountings with respect thereto to the Company in accordance with the
+Administrative Services Agreement. All reports, remittances and payments due to
+or from a party hereto shall be made in accordance with the procedures set forth
+in the Administrative Services Agreement.
+
+          Section 3.6 Certain Reports. (a) Not later than sixty (60) calendar
+days after the end of each calendar year, and forty-five (45) days after the end
+of any calendar quarter other than the quarter ending on December 31, the
+Reinsurer shall provide to the Company a calculation of (x) the risk based
+capital of the Reinsurer and each other entity identified in Clause (ii) of the
+definition of the Triggering Event, and (y) the capital adequacy ratio
+calculated as set forth on Schedule 1.1(b) of the entities identified in Clause
+(iii) of the definition of Triggering Event. Each such calculation shall include
+reasonable supporting detail.
+
+          (b) The Reinsurer shall also provide written notice of the occurrence
+of any Triggering Event within two (2) Business Days after its occurrence. The
+Company may, at its own expense, review Reinsurer's or an Affiliated Reinsurer's
+books and records to the extent reasonably necessary to confirm the calculations
+provided by Reinsurer pursuant to this Section 3.6(a). In addition, Reinsurer
+shall cooperate fully with the Company and promptly respond to the Company's
+reasonable inquiries from time to time concerning the determination of whether a
+Triggering Event has occurred.
+
+                                   ARTICLE IV
+                          REINSURANCE CREDIT; SECURITY
+
+          Section 4.1. Licenses. At all times during the term of this Agreement,
+the Reinsurer shall hold and maintain all licenses and authorizations required
+under Applicable Law or otherwise take all action that may be necessary (i) so
+that the Company shall receive full reserve credits for reinsurance ceded on a
+coinsurance basis under this Agreement in the statutory financial statement
+filed with the Commissioner, and in statutory financial statements required to
+be filed with regulatory authority(ies) in such other jurisdictions in which the
+Company must file such statements, and (ii) to perform its obligations
+hereunder.
+
+          Section 4.2. Security. In accordance with the Asset Purchase
+Agreement, the Reinsurer, as grantor, is creating the SLD Reserve Trust Account
+with a trustee approved by the Company, naming the Company as sole beneficiary
+thereof. The SLD Reserve Trust Account shall initially be funded with Investment
+Assets and cash transferred from the Company. In accordance with the SLD Reserve
+Trust Agreement, the Reinsurer hereby pledges the assets in the SLD Trust
+Account, including its residual interest therein, to perfect a first priority
+security interest in favor of the Company under Article 9 of the UCC. During the
+term of the SLD Reserve Trust Agreement, the Reinsurer shall not, and shall
+direct that the trustee shall not, grant or cause to be created in favor of any
+third person any security interest whatsoever in any of the assets in the SLD
+Trust Accounts or in the residual interest therein.
+
+
+                                       7
+<PAGE>
+
+          Section 4.3. SLD Reserve Trust Agreement. The trustee shall hold
+assets in the SLD Reserve Trust Account pursuant to the terms of the SLD Reserve
+Trust Agreement. The SLD Reserve Trust Account shall be established and
+maintained in compliance with all requirements of Colorado Insurance Laws and
+Regulations or any successor provision and all other applicable laws governing
+the Company's right to take financial statement credit for reinsurance under
+this Agreement. The parties hereto acknowledge and agree that the provisions of
+this Article IV are intended to provide the Company with such credit. In the
+event that the Company is not permitted to take such credit for reinsurance
+because any provision of this Agreement is determined not to comply with
+Colorado Insurance Laws and Regulations or other Applicable Law, the parties
+hereto agree to reasonably cooperate to amend this Agreement to provide such
+credit. The fair market value of assets in the SLD Reserve Trust Account shall
+be not less than the amount required (determined pursuant to SAP) in order for
+the Company to receive full statutory reserve credit for the retrocession of the
+Insurance Contracts which the Company has ceded hereunder and on a coinsurance
+basis under the other Reinsurance Agreements between the Company and the
+Reinsurer (the "Required Balance").
+
+          Section 4.4. Investment of Trust Assets. The assets held in the SLD
+Reserve Trust Account shall be valued at their fair market value as of the date
+as of which such assets are required to be valued. The assets that may be held
+in the SLD Reserve Trust Account (the "Eligible Assets") shall consist of cash,
+certificates of deposit issued by a U.S. bank and payable in U.S. dollars and
+investments of the type permitted by Colorado Insurance Law; provided, that (i)
+each such investment that is a security is issued by an institution that is not
+the Reinsurer, the Company or an Affiliate of either party, and (ii) such
+investments comply with the requirements specified by the Eligible Asset
+Guidelines as set forth on Schedule 4.4.
+
+          Section 4.5. Deposit of Assets. Prior to depositing assets in the SLD
+Reserve Trust Account, Reinsurer will execute assignments or endorsements in
+blank, or transfer legal title to the trustee of all shares, obligations or any
+other assets requiring assignments, in order that the Company, or the trustee
+upon the direction of the Company, may whenever necessary negotiate these assets
+without the consent or signature from the Reinsurer or any other entity.
+
+          Section 4.6. Adjustment of Security and Withdrawals. The Reinsurer
+shall maintain Eligible Assets in the SLD Reserve Trust Account with an
+aggregate fair market value at least equal the Required Balance. The amount of
+assets held in the SLD Reserve Trust Account shall be adjusted following the end
+of each calendar quarter.
+
+          (a) If the aggregate fair market value of the Eligible Assets held in
+the SLD Reserve Trust Account at the end of any calendar quarter is less than
+the Required Balance, the Reinsurer shall, no later than 15 calendar days
+following delivery of the reserve report included in the quarterly report
+provided pursuant to the Administrative Services Agreement, transfer additional
+Eligible Assets to the SLD Reserve Trust Account so that the aggregate fair
+market value of the Eligible Assets held in the SLD Reserve Trust Account is not
+less than the Required Balance.
+
+          (b) If the aggregate fair market value of the Eligible Assets in the
+SLD Reserve Trust Account at the end of any calendar quarter exceeds 102% of the
+Required Balance, then the Reinsurer shall have the right to seek approval
+(which shall not be
+
+
+                                       8
+<PAGE>
+
+unreasonably or arbitrarily withheld) from the Company to withdraw the excess.
+For the purposes of the foregoing sentence, in the event that a Triggering Event
+has occurred, the parties acknowledge and agree that it shall not be
+unreasonable for the Company to withhold its consent to any such withdrawal.
+
+          Section 4.7. Withdrawals by the Company. The Company may withdraw the
+assets held in the SLD Reserve Trust Account at any time and from time to time,
+notwithstanding any other provisions of this Agreement, and assets withdrawn
+from such SLD Reserve Trust Account shall be utilized and applied by the Company
+(or any successor by operation of law of the Company, including, but not limited
+to, any liquidator, rehabilitator, receiver or conservator of the Company),
+without diminution because of insolvency on the part of the Company or the
+Reinsurer; provided however, that following any such withdrawal the Company (or
+any successor by operation of law of the Company, including, but not limited to,
+any liquidator, rehabilitator, receiver or conservator of the Company) may only
+apply such assets for one or more of the following purposes:
+
+          (a) to pay, or reimburse the Company for payment of, Premiums received
+by Reinsurer hereunder which are to be returned to policyholders or ceding
+companies because of cancellations of Covered Insurance Contracts reinsured
+hereunder and any other "Covered Insurance Contracts" under any other
+Reinsurance Agreements between the Company and the Reinsurer that are reinsured
+on a coinsurance basis;
+
+          (b) to pay, or reimburse the Company for payment of, surrenders,
+benefits, losses or other amounts payable pursuant to the provisions of the
+Covered Insurance Contracts reinsured hereunder and any other "Covered Insurance
+Contracts" under any other Reinsurance Agreements between the Company and the
+Reinsurer that are reinsured on a coinsurance basis; and
+
+          (c) to fund an account with the Company in an amount no less than the
+deduction, for reinsurance ceded, from the Company's liabilities for the
+reserves to be maintained with respect to the Covered Insurance Contracts
+reinsured hereunder and any other "Covered Insurance Contracts" under any other
+Reinsurance Agreements between the Company and the Reinsurer that are reinsured
+on a coinsurance basis.
+
+          Section 4.8. Assets in Trust of the Company. Any assets deposited into
+an account of the Company (or any successor by operation of law of the Company,
+including, but not limited to, any liquidator, rehabilitator, receiver or
+conservator of the Company) pursuant to Section 4.7(c), and any interest or
+other earnings thereon shall be held by the Company (or any successor by
+operation of law of the Company, including, but not limited to, any liquidator,
+rehabilitator, receiver or conservator of the Company) in trust for the benefit
+of the Reinsurer, subject to the Company's right to apply such assets to amounts
+due and payable by the Reinsurer to the Company under this Agreement, and shall
+at all times be maintained, separate and apart from any assets of the Company,
+for the sole purpose of funding the payments and reimbursements described in
+Sections 4.7(a) through (c), inclusive, of this Article IV.
+
+          Section 4.9. Compliance by the Company. The Company (or any successor
+by operation of law of the Company, including, but not limited to, any
+liquidator, rehabilitator,
+
+
+                                       9
+<PAGE>
+
+receiver or conservator of the Company) shall ensure that any assets held in
+trust pursuant to Section 4.7(c) comply with the provisions of Sections 4.4,
+4.7(a) and 4.7(b) in accordance with its fiduciary obligations as trustee with
+respect to such amounts.
+
+          Section 4.10. Reports. At the Company's request, the Reinsurer shall
+provide the Company with its annual and quarterly statutory financial statements
+filed with state insurance regulators and a copy of its audited statutory
+financial statements along with the audit report thereon.
+
+                                   ARTICLE V
+                   OVERSIGHTS; COOPERATION; REGULATORY MATTERS
+
+          Section 5.1. Oversights. Inadvertent delays, errors or omissions made
+in connection with this Agreement or any transaction hereunder shall not relieve
+either party from any liability which would have attached had such delay, error
+or omission not occurred, provided always that such error or omission is
+rectified as soon as possible after discovery, and provided, further, that the
+party making such error or omission or responsible for such delay shall be
+responsible for any additional liability which attaches as a result. If (a) the
+failure of either party to comply with any provision of this Agreement is
+unintentional or the result of a misunderstanding or oversight and (b) such
+failure to comply is promptly rectified, both parties shall be restored as
+closely as possible to the positions they would have occupied if no error or
+oversight had occurred.
+
+          Section 5.2. Cooperation. Each party hereto shall cooperate fully with
+the other in all reasonable respects in order to accomplish the objectives of
+this Agreement.
+
+          Section 5.3. Regulatory Matters. If the Company or the Reinsurer
+receives notice of, or otherwise becomes aware of, any regulatory inquiry,
+investigation or proceeding relating to the Covered Insurance Contracts, the
+Company or the Reinsurer, as applicable, shall promptly notify the other party
+thereof, whereupon the parties shall cooperate in good faith and use their
+respective commercially reasonable efforts to resolve such matter in a mutually
+satisfactory manner, in light of all the relevant business, regulatory and legal
+facts and circumstances.
+
+                                   ARTICLE VI
+                                     DAC TAX
+
+          Section 6.1. Election.
+
+          (a) All uncapitalized terms used herein shall have the meanings set
+forth in the regulations under Section 848 of the Code.
+
+          (b) Each of the Company and the Reinsurer acknowledges that it is
+subject to taxation under Subchapter L of the Code and hereby makes the election
+contemplated by Section 1.848-2(g)(8) of the Treasury Regulations with respect
+to this Agreement. Each of the Company and the Reinsurer (i) agrees that such
+election is effective for the taxable year of each party that includes the
+Effective Date and for all subsequent years during which this Agreement remains
+in effect and (ii) warrants that it will take no action to revoke the election.
+
+
+                                       10
+<PAGE>
+
+          (c) Pursuant to Section 1.848-2(g)(8) of the Treasury Regulations,
+each of the Company and the Reinsurer hereby agrees (i) to attach a schedule to
+its federal income tax return for its first taxable year ending on or after the
+Effective Date that identifies this Agreement as a reinsurance agreement for
+which the joint election under Section 1.848-2(g)(8) has been made, (ii) that
+the party with net positive consideration for this Agreement for each taxable
+year will capitalize its specified policy acquisition expenses with respect to
+this Agreement without regard to the general deductions limitation of Section
+848(c)(1) of the Code, and (iii) to exchange information pertaining to the
+amount of net consideration under this Agreement each year to ensure consistency
+or as otherwise required by the Internal Revenue Service. The Reinsurer shall
+prepare and execute duplicate copies of the schedule described in the preceding
+sentence as soon as practicable after the Effective Date and submit them to the
+Company for execution. The Company shall execute the copies and return one of
+them to the Reinsurer within thirty (30) calendar days of the receipt of such
+copies.
+
+          (d) The Company shall submit a schedule to the Reinsurer by May 1 of
+each year of its calculation of the net consideration under this Agreement for
+the preceding taxable year. This schedule of calculations shall be accompanied
+by a statement signed by an authorized representative of the Company stating
+that the Company shall report such net consideration in its federal income tax
+return for the preceding taxable year.
+
+          (e) The Reinsurer may contest such calculation by providing an
+alternative calculation to the Company in writing within thirty (30) calendar
+days after the date on which the Reinsurer receives the Company's calculation.
+If the Reinsurer does not so notify the Company, the Reinsurer shall report the
+net consideration under this Agreement as determined by the Company in the
+Reinsurer's federal income tax return for the preceding taxable year.
+
+          (f) If Reinsurer contests the Company's calculation of the net
+consideration under this Agreement, the parties shall act in good faith to reach
+an agreement as to the correct amount of net consideration within thirty (30)
+calendar days after the date on which the Reinsurer submits its alternative
+calculation. If Reinsurer and the Company reach an agreement as to the amount of
+net consideration under this Agreement, each party shall report such amount in
+its federal income tax return for the preceding taxable year.
+
+          If, during such period, Reinsurer and the Company are unable to reach
+an agreement, they shall promptly thereafter cause Deloitte & Touche USA LLP
+(the "Independent Accountants") to promptly review (which review shall commence
+no later than five (5) calendar days after the selection of the Independent
+Accountants) this Agreement and the calculations of Reinsurer and the Company
+for the purpose of calculating the net consideration under this Agreement. In
+making such calculation, the Independent Accountants shall consider only those
+items or amounts in the Company's calculation as to which the Reinsurer has
+disagreed.
+
+          The Independent Accountants shall deliver to Reinsurer and the
+Company, as promptly as practicable (but no later than thirty (30) calendar days
+after the commencement of their review), a report setting forth such
+calculation, which calculation shall result in a net consideration between the
+amount thereof shown in the Company's calculation delivered pursuant to Section
+6.1(d) and the amount thereof shown in Reinsurer's calculation delivered
+pursuant to Section 6.1(e). Such report shall be final and binding upon
+Reinsurer and the
+
+
+                                       11
+<PAGE>
+
+Company. The fees, costs and expenses of the Independent Accountants shall be
+borne (i) by the Company if the difference between the net consideration as
+calculated by the Independent Accountants and the Company's calculation
+delivered pursuant to Section 6.1(d) is greater than the difference between the
+net consideration as calculated by the Independent Accountants and Reinsurer's
+calculation delivered pursuant to Section 6.1(e), (ii) by the Reinsurer if the
+first such difference is less than the second such difference, and (iii)
+otherwise equally by Reinsurer and the Company.
+
+                                   ARTICLE VII
+                                   ARBITRATION
+
+          Section 7.1. Arbitration.
+
+          (a) After the Closing Date, any dispute between the parties with
+respect to the calculation of amounts that are to be calculated, reported, or
+that may be audited pursuant to this Agreement (other than disputes relating to:
+(i) the SLD Closing Statement and the assets to be transferred to the Reinsurer,
+the SLD Reserve Trust Account and the SLD Security Trust Account pursuant to
+Article II of the Asset Purchase Agreement, which shall be resolved in
+accordance with the Asset Purchase Agreement; (ii) calculations relating to DAC
+tax, which shall be resolved in accordance with Article VI hereof, or (iii)
+matters relating to whether a Triggering Event has occurred), shall be decided
+through negotiation and, if necessary, arbitration as set forth in Section 7.2.
+
+          (b) The parties intend this Section 7.1 to be enforceable in
+accordance with the Federal Arbitration Act (9 U.S.C., Section 1) including any
+amendments to that Act which are subsequently adopted. In the event that either
+party refuses to submit to arbitration as required by Section 7.1(a), the other
+party may request the court specified in Section 11.5 to compel arbitration in
+accordance with the Federal Arbitration Act.
+
+          Section 7.2. Arbitration Procedure.
+
+     The Company and Reinsurer intend that any dispute between them arising
+under this Agreement (excluding those disputes identified in Section 7.1(a)) be
+resolved without resort to any litigation. Accordingly, the Company and
+Reinsurer agree that they will negotiate diligently and in good faith to agree
+on a mutually satisfactory resolution of any such dispute; provided, however,
+that if any such dispute cannot be so resolved by them within sixty (60)
+calendar days (or such longer period as the parties may agree) after commencing
+such negotiations, the Company and Reinsurer agree that they will submit such
+dispute to arbitration in the manner specified in, and such arbitration
+proceeding will be conducted in accordance with, the Supplementary Rules for the
+Resolution of Intra-Industry U.S. Reinsurance and Insurance Disputes of the
+American Arbitration Association.
+
+     The arbitration hearing will be before a panel of three disinterested
+arbitrators, each of whom must be a present or former officer of a life
+insurance or life reinsurance company familiar with the life reinsurance
+business, or other professionals with experience in life insurance or
+reinsurance, provided that such professionals shall not have performed services
+for either party within the previous five (5) years, and provided further that
+no arbitrator shall be a former
+
+
+                                       12
+<PAGE>
+
+employee of the Company or any of its Affiliates. The Company and Reinsurer will
+each appoint one arbitrator by written notification to the other party within
+thirty (30) calendar days after the date of the mailing of the notification
+initiating the arbitration. These two arbitrators will then select the third
+arbitrator within sixty (60) calendar days after the date of the mailing of the
+notification initiating arbitration.
+
+     If either the Company or Reinsurer fails to appoint an arbitrator, or
+should the two arbitrators be unable to agree upon the choice of a third
+arbitrator, the president of the American Arbitration Association will appoint
+the necessary arbitrators within thirty (30) calendar days after the request to
+do so.
+
+     The arbitrators shall base their decision on the terms and conditions of
+this Agreement. However, if the terms and conditions of this Agreement do not
+explicitly dispose of an issue in dispute between the parties, the arbitrators
+may base their decision on the customs and practices of the life insurance and
+life reinsurance industry together with an interpretation of the law. The vote
+or approval of a majority of the arbitrators will decide any question considered
+by the arbitrators. The place of arbitration will be determined by the
+arbitrators. Each decision (including without limitation each award) of the
+arbitrators will be final and binding on all parties and will be nonappealable,
+except that (at the request of either the Company or Reinsurer) any award of the
+arbitrators may be confirmed (or, if appropriate, vacated) by a judgment entered
+by the court specified in Section 11.4. No such award or judgment will bear
+interest except as provided in Section 3.2. In no event may the arbitrators
+award punitive or exemplary damages. Each party will be responsible for paying
+(a) all fees and expenses charged by its respective counsel, accountants,
+actuaries, and other representatives in conjunction with such arbitration and
+(b) one-half of the fees and expenses charged by each arbitrator.
+
+                                  ARTICLE VIII
+                                   INSOLVENCY
+
+          Section 8.1. Insolvency of the Company. In the event of the insolvency
+of the Company, all coinsurance made, ceded, renewed or otherwise becoming
+effective under this Agreement shall be payable by the Reinsurer directly to the
+Company or to its statutory liquidator, receiver or statutory successor on the
+basis of the liability of the Company under the Covered Insurance Contracts
+without diminution because of the insolvency of the Company. It is understood,
+however, that in the event of the insolvency of the Company, the liquidator,
+receiver or statutory successor of the Company shall give written notice of the
+pendency of a claim against the Company on a Covered Insurance Contract within a
+reasonable period of time after such claim is filed in the insolvency
+proceedings and that during the pendency of such claim the Reinsurer may
+investigate such claim and interpose, at its own expense, in the proceeding
+where such claim is to be adjudicated, any defense or defenses which it may deem
+available to the Company or its liquidator, receiver or statutory successor. It
+is further understood that the expense thus incurred by the Reinsurer shall be
+chargeable, subject to court approval, against the Company as part of the
+expense of liquidation to the extent of a proportionate share of the benefit
+which may accrue to the Company solely as a result of the defense undertaken by
+the Reinsurer.
+
+
+                                       13
+<PAGE>
+
+                                   ARTICLE IX
+                               DURATION; RECAPTURE
+
+          Section 9.1. Duration. This Agreement shall continue in force until
+such time as (i) the Company's liability with respect to all Covered Insurance
+Contracts reinsured hereunder is terminated in accordance with their respective
+terms, or the Company has elected to recapture the reinsurance of Covered
+Insurance Contracts following the occurrence of a Triggering Event, and (ii) the
+Company has received payments which discharge such liability in full in
+accordance with the provisions of this Agreement. In no event shall the
+interpretation of this Section 9.1 imply any unilateral right of the Reinsurer
+to terminate this Agreement; provided, however, that in the event that the
+Company fails to timely pay any material amount due the Reinsurer hereunder, and
+such amount remains unpaid for thirty (30) days, the Reinsurer shall have the
+right to terminate reinsurance hereunder provided, however, that the Reinsurer
+shall have provided to the Colorado Insurance Commissioner ninety (90) calendar
+days written notice prior to such termination. In such case, the provisions of
+Section 9.3 shall apply as if the Termination Date were a Recapture Date and the
+Reinsurer shall be relieved of all liability under this Agreement to make future
+payments to the Company.
+
+          Section 9.2. Survival. Notwithstanding the other provisions of this
+Article IX, the terms and conditions of Articles I, VI and X and the provisions
+of Sections 11.1, 11.4, 11.6, 11.9 and 11.10 shall remain in full force and
+effect after the Termination Date.
+
+          Section 9.3. Recapture. Upon the occurrence of a Triggering Event, the
+Company shall have the right to recapture all, and not less than all, of the
+reinsurance ceded under this Agreement, by providing the Reinsurer with written
+notice of its intent to effect recapture. Recapture of the Covered Insurance
+Contracts shall be effective on the tenth (10th) day following the day on which
+the Company has provided the Reinsurer with such notice (the "Recapture Date").
+
+          Section 9.4. Recapture Payments. On the Recapture Date, the Company
+shall be entitled to withdraw an amount equal to a portion of the Required
+Balance attributable to the Covered Insurance Contracts reinsured hereunder from
+the SLD Reserve Trust as consideration for assumption by the Company of the
+Reinsured Liabilities under the recaptured Covered Insurance Contracts. In the
+event that the fair market value of the assets in the SLD Reserve Trust exceeds
+the Required Balance (the "Excess Amount"), and the fair market value of the
+assets in the SLD Security Trust Account is less than the amount required by
+Exhibit A to the SLD Security Trust Agreement on the Recapture Date (the
+"Shortfall Amount"), the Company shall also be permitted to withdraw such Excess
+Amount equal to the pro-rata portion of the Shortfall Amount attributable to the
+Covered Insurance Contracts reinsured hereunder. In addition, the Company shall
+be entitled to withdraw a portion of the remaining balance in the SLD Security
+Trust Account attributable to the Covered Insurance Contracts reinsured
+hereunder less any amounts owed to the Reinsurer under this Agreement as of the
+Recapture Date.
+
+
+                                       14
+<PAGE>
+
+                                    ARTICLE X
+                                 INDEMNIFICATION
+
+          Section 10.1. Reinsurer's Obligation to Indemnify. The Reinsurer
+hereby agrees to indemnify, defend and hold harmless the Company and its
+Affiliates and their respective directors, officers and employees (collectively,
+the "Company Indemnified Parties") from and against all losses, liabilities,
+claims, expenses (including reasonable attorneys' fees and expenses) and damages
+reasonably and actually incurred by the Company to the extent arising from (i)
+any breach of the representations, warranties, and covenants of the Reinsurer
+contained in this Agreement, except to the extent that such losses, liabilities,
+claims, expenses (including reasonable attorneys' fees and expenses) and damages
+are attributable to acts or omissions of a person who is a director, officer,
+employee, agent, representative, successor, or permitted assign of the Company
+or any of its Affiliates, unless such person is acting at the direction or
+request of the Reinsurer, and (ii) any successful enforcement of this indemnity.
+
+          Section 10.2. Company's Obligation to Indemnify. The Company hereby
+agrees to indemnify, defend and hold harmless the Reinsurer and its Affiliates
+and their respective directors, officers and employees (collectively, the
+"Reinsurer Indemnified Parties") from and against all losses, liabilities,
+claims, expenses (including reasonable attorneys' fees and expenses) and damages
+reasonably and actually incurred by the Reinsurer to the extent arising from (i)
+any breach of the representations, warranties and covenants of the Company
+contained in this Agreement, except to the extent that such losses, liabilities,
+claims, expenses (including reasonable attorneys' fees and expenses) and damages
+are attributable to acts or omissions of a person who is a director, officer,
+employee (other than in such employee's capacity as an employee of the Company),
+agent, representative, successor, or permitted assign of the Reinsurer or any of
+its Affiliates, and (ii) any successful enforcement of this indemnity.
+
+          Section 10.3. Certain Definitions and Procedures. In the event either
+the Reinsurer or the Company shall have a claim for indemnity against the other
+party under the terms of this Agreement, the parties shall follow the procedures
+set forth in Article X of the Asset Purchase Agreement.
+
+                                   ARTICLE XI
+                                  MISCELLANEOUS
+
+          Section 11.1. Notices. Any notice, request or other communication to
+be given by any party hereunder shall be in writing and shall be delivered
+personally, sent by registered or certified, postage prepaid, or by overnight
+courier with written confirmation of delivery. Any such notice shall be deemed
+given when so delivered personally, or if mailed, on the date shown on the
+receipt therefor, or if sent by overnight courier, on the date shown on the
+written confirmation of delivery. Such notices shall be given to the following
+address:
+
+
+                                       15
+<PAGE>
+
+To Company:             Security Life of Denver Insurance Company
+                        Attention: President
+                        c/o ING North America Insurance Corporation
+                        5780 Powers Ferry Road NW
+                        Atlanta, GA 30327
+
+With a concurrent
+copy to:                B. Scott Burton
+                        Corporate General Counsel
+                        ING North America Insurance Corporation
+                        5780 Powers Ferry Road NW
+                        Atlanta, GA 30327
+
+                        and
+
+                        David A. Massey, Esq.
+                        Sutherland Asbill & Brennan LLP
+                        1275 Pennsylvania Ave., NW
+                        Washington, DC 20004-2415
+
+
+To Reinsurer:           Scottish Re (U.S), Inc.
+                        13840 Ballantyne Corporate Place, Suite 500
+                        Charlotte, NC  28277
+                        Attention:  General Counsel
+
+
+With a copy to:         Stephen G. Rooney, Esq.
+                        LeBoeuf, Lamb, Greene & MacRae, LLP
+                        125 W. 55th Street
+                        New York, NY 10019
+
+
+          Section 11.2. Entire Agreement. This Agreement may not be amended or
+modified in any respect whatsoever except by instrument in writing signed by the
+parties hereto. This Agreement, the Asset Purchase Agreement, the other Related
+Agreements and the Confidentiality Agreement, and other documents delivered
+pursuant hereto, constitute the entire agreement between the parties hereto with
+respect to the subject matter hereof and supersede all prior agreements
+understanding negotiations, discussions, whether oral or written, of the parties
+and there are no general or specific warranties, representations or other
+agreements by or among the parties in connection with the entering into of this
+Agreement or the subject matter hereof except as specifically set forth or
+contemplated herein.
+
+          Section 11.3. Captions. The captions of this Agreement are for
+convenience of reference only and shall not define or limit any of the terms or
+provisions hereof.
+
+          Section 11.4. Governing Law and Jurisdiction. This Agreement shall be
+governed by and construed in accordance with the laws of the State of Colorado
+applicable to
+
+
+                                       16
+<PAGE>
+
+contracts entered into therein, without reference to principles of choice of law
+or conflicts of laws. Each party hereto irrevocably and unconditionally submits
+to the exclusive jurisdiction of any State or Federal Court sitting in Colorado,
+over any suit, action or proceeding arising out of or relating to this
+Agreement. Each party hereto agrees that service of any process, summons, notice
+or document by U.S. registered mail addressed to such party shall be effective
+service of process for any action, suit or proceeding brought against such party
+in such court. Each party hereto irrevocably and unconditionally waives any
+objection to the laying of venue of any such suit, action or proceeding brought
+in any such court and any claim that any such action, suit or proceeding brought
+in any such court has been brought in an inconvenient forum. Each party hereto
+agrees that final judgment in any such action, suit or proceeding brought in any
+such court shall be conclusive and binding upon such party and may be enforced
+in any other courts to whose jurisdiction such party may be subject, by suit
+upon such judgment.
+
+          Section 11.5. No Third Party Beneficiaries. Except as otherwise
+expressly set forth in any provision of this Agreement, nothing in this
+Agreement is intended or shall be construed to give any Person, other than the
+parties hereto, any legal or equitable right, remedy or claim under or in
+respect of this Agreement or any provision contained herein.
+
+          Section 11.6. Expenses. Except as otherwise provided herein, the
+parties hereto shall each bear their respective expenses incurred in connection
+with the negotiation, preparation, execution, and performance of this Agreement
+and the transactions contemplated hereby, including, without limitation, all
+fees and expenses of counsel, actuaries and other representatives.
+
+          Section 11.7. Counterparts. This Agreement may be executed by the
+parties hereto in separate counterparts, each of which when so executed and
+delivered shall be an original, but all such counterparts shall together
+constitute one and the same instrument. Each counterpart may consist of a number
+of copies hereof each signed by less than all, but together signed by all of the
+parties hereto. Each counterpart may be delivered by facsimile transmission,
+which transmission shall be deemed delivery of an originally executed document.
+
+          Section 11.8. Severability. Any term or provision of this Agreement
+which is invalid or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity or
+unenforceability without rendering invalid or unenforceable the remaining terms
+and provisions of this Agreement or affecting the validity or enforceability of
+any of the terms or provisions of this Agreement in any other jurisdiction, so
+long as the economic or legal substance of the transactions contemplated hereby
+is not affected in any manner materially adverse to any party. If any provision
+of this Agreement is so broad as to be unenforceable, that provision shall be
+interpreted to be only so broad as is enforceable.
+
+          Section 11.9. Waiver of Jury Trial; Multiplied and Punitive Damages.
+Each of the parties hereto irrevocably waives, with respect to any first party
+action filed by the other party (but not as to any action by one party against
+the other seeking indemnification for a third party claim against the party
+initiating the action, to the extent that such damages may be recoverable as
+part of the indemnification by the indemnified party) (i) any and all right to
+trial by jury, and (ii) any right to punitive, incidental, consequential or
+multiplied damages, either
+
+
+                                       17
+<PAGE>
+
+pursuant to common law or statute, in any legal proceedings arising out of or
+related to this Agreement or the transactions contemplated hereby.
+
+          Section 11.10. Treatment of Confidential Information.
+
+          (a) The parties agree that, other than as contemplated by this
+Agreement and to the extent permitted or required to implement the transactions
+contemplated by this Agreement, the parties will keep confidential and will not
+use or disclose the other party's Confidential Information and the terms and
+conditions of this Agreement, including, without limitation, the exhibits and
+schedules hereto, except as otherwise required by Applicable Law or any order or
+ruling of any state insurance regulatory authority, the Securities and Exchange
+Commission or any other Governmental Authority.
+
+          (b) The confidentiality obligations contained in this Agreement or in
+any other agreement between the parties hereto, as they relate to the
+reinsurance hereunder, shall not apply to the federal tax structure or federal
+tax treatment of this Agreement and each party hereto may disclose to any and
+all persons, without limitation of any kind, the federal tax structure and
+federal tax treatment of this Agreement; provided, that such disclosure may not
+be made until the earliest of (x) the date of the public announcement of
+discussions relating to this Agreement, (y) the date of the public announcement
+of this Agreement, or (z) the date of the execution of this Agreement. The
+preceding sentence is intended to cause this Agreement to be treated as not
+having been offered under conditions of confidentiality for purposes of Section
+1.6011-4(b)(3) (or any successor provision) of the Treasury Regulations
+promulgated under Section 6011 of the Internal Revenue Code of 1986, as amended,
+and shall be construed in a manner consistent with such purpose. Subject to the
+provision with respect to disclosure in the first sentence of this subsection
+(b), each party hereto acknowledges that it has no proprietary or exclusive
+rights to the federal tax structure of this Agreement or any federal tax matter
+or federal tax idea related to this Agreement.
+
+          Section 11.11. Assignment. No party hereto may assign this Agreement
+or any of its obligations hereunder without the prior written consent of the
+other parties; provided, however, that this Agreement shall inure to the benefit
+of and bind those who, by operation of law, become successors to the parties,
+including, without limitation, any liquidator, rehabilitator, receiver or
+conservator and any successor, merged or consolidated entity. The Reinsurer
+shall be entitled to assign its administrative duties hereunder without the
+prior written consent of the Company, unless the person or entity to whom such
+duties are to be assigned is not, at the time of such assignment, a subsidiary
+of the Reinsurer, in which event the Reinsurer shall obtain the prior written
+consent of the Company, such consent not to be unreasonably withheld.
+
+          Section 11.12. Service of Process. The Reinsurer hereby designates The
+Corporation Trust Company as its true and lawful attorney upon whom may be
+served any lawful process in any action, suit or proceeding instituted by or on
+behalf of the Company. The Company hereby designates the Commissioner as its
+true and lawful attorney upon whom may be served any lawful process in any
+action, suit or proceeding instituted by or on behalf of the Reinsurer.
+
+
+                                       18
+<PAGE>
+
+                                   ARTICLE XII
+                    REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+          Section 12.1. Representations, Warranties, and Covenants of the
+Reinsurer. For purposes of perfecting the security interest in the SLD Reserve
+Trust Account and the SLD Security Trust Account, the Reinsurer hereby
+represents and warrants to the Company, and covenants for the benefit of the
+Company, as follows:
+
+          (a) The Reinsurer is (and, for the past five years, has been) a stock
+insurance company organized under the laws of Delaware. From October 1999 to
+January 2000, the chief executive office of the Reinsurer within the meaning of
+section 9-307 of the UCC was located in Aurora, Colorado and thereafter the
+chief executive office of the Reinsurer, within the meaning of section 9-307 of
+the UCC, has been (and, immediately following the date hereof, will be) located
+in Charlotte, North Carolina. The Reinsurer shall not change its jurisdiction of
+organization or its chief executive office (within the meaning of section 9-307
+of the UCC), except upon thirty (30) calendar days' prior written notice to the
+Company. In the event that the Reinsurer changes its jurisdiction of
+organization or the location of its chief executive office, it will only change
+to a jurisdiction of organization or change the location of its chief executive
+office to a jurisdiction in the United States. The Reinsurer's true corporate
+name, as reflected in its organization documents of record in the State of
+Delaware, is (and, for the past five years, has been) that set forth in the
+preamble hereto.
+
+          (b) The Reinsurer owns and will own its interest in the assets in the
+SLD Reserve Trust Account and the SLD Security Trust Account free and clear of
+any security interest in, or lien or adverse claim on, such assets. From and
+after the date hereof, the Reinsurer will not authorize the filing of any other
+financing statement with respect to any asset in the SLD Reserve Trust Account
+or the SLD Security Trust Account, nor authorize the granting of "control" (as
+defined in the UCC) over any of such asset to any Person other than the Company.
+From and after the date hereof, the Reinsurer will not grant any further
+security interest in, or lien on, the assets in the SLD Reserve Trust Account or
+the SLD Security Trust Account.
+
+          (c) The Reinsurer will do, execute or otherwise authenticate,
+acknowledge and deliver, or cause to be done, executed or otherwise
+authenticated, acknowledged and delivered, such instruments of transfer or other
+records, and take such other steps or actions, as the Company may reasonably
+deem necessary to create, perfect or preserve the security interest granted to
+the Company by Section 4.2 hereof and under the SLD Security Trust Agreement or
+to ensure that such security interest remains prior to any and all other
+security interests, liens or other interests of any other Person; and the
+Reinsurer hereby authorizes the Company, in the Reinsurer's name or otherwise,
+to take, or cause to be taken, any of the foregoing steps or actions upon any
+failure by the Reinsurer to comply with any written request of the Company in
+respect of any matter subject to this Section 12.1(c).
+
+                [The rest of this page intentionally left blank.]
+
+
+                                       19
+<PAGE>
+
+          IN WITNESS WHEREOF, the parties hereto have caused this Agreement to
+be executed effective December 31, 2004.
+
+
+                                       SECURITY LIFE OF DENVER INSURANCE COMPANY
+
+                                       By: /s/ Mark Tullis
+                                          --------------------------------------
+                                       Name: Mark Tullis
+                                       Title: President
+
+
+
+                                       SCOTTISH RE (U.S.), INC.
+
+
+                                       By: /s/ Oscar Scofield
+                                          --------------------------------------
+                                       Name: Oscar Scofield
+                                       Title: CEO/ President
+
+
+
+                                       20
+
+</TEXT>
+</DOCUMENT>

@@ -145,7 +145,7 @@ def process_year(api, year):
 
 def main():
     api = load_config()
-    for year in range(2002, 2004):
+    for year in range(2004, 2006):
         print(f"Processing year: {year}")
         df = process_year(api, year)
         print("-" * 40)

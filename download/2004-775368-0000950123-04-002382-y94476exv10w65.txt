@@ -1,0 +1,2483 @@
+<DOCUMENT>
+<TYPE>EX-10.65
+<SEQUENCE>3
+<FILENAME>y94476exv10w65.txt
+<DESCRIPTION>STOCK PURCHASE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                   Exhibit 10.65
+
+
+                            STOCK PURCHASE AGREEMENT
+
+                                  by and among
+
+                        ALLEGHANY INSURANCE HOLDINGS LLC,
+
+                               AEGIS HOLDING INC.
+
+                                       and
+
+                            ASSOCIATED ELECTRIC & GAS
+                           INSURANCE SERVICES LIMITED
+
+                          Dated as of January 30, 2004
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                                <C>
+ARTICLE I DEFINITIONS...........................................................   1
+
+     1.1      "2003 Filing Fees"................................................   1
+     1.2      "2004 Filing Fees"................................................   1
+     1.3      "Affiliate" or "Affiliated".......................................   2
+     1.4      "Agreement".......................................................   2
+     1.5      "Assignment"......................................................   2
+     1.6      "Assumption Agreements"...........................................   2
+     1.7      "Bankruptcy Exception"............................................   2
+     1.8      "Business Day"....................................................   2
+     1.9      "Closing" and "Closing Date"......................................   2
+     1.10     "Closing Date Balance Sheet"......................................   2
+     1.11     "Closing Date Shareholder's Equity"...............................   2
+     1.12     "Closing Date Statement of Assets"................................   2
+     1.13     "COBRA"...........................................................   3
+     1.14     "Code"............................................................   3
+     1.15     "Commutation Agreement"...........................................   3
+     1.16     "Company".........................................................   3
+     1.17     "Company Agreements"..............................................   3
+     1.18     "Company Reinsurance Agreements"..................................   3
+     1.19     "Confidential Information"........................................   3
+     1.20     "Delaware Commissioner"...........................................   3
+     1.21     "Documents".......................................................   3
+     1.22     "Employee Benefit Plan"...........................................   3
+     1.23     "ERISA"...........................................................   3
+     1.24     "ERISA Affiliate".................................................   4
+     1.25     "Exhibit".........................................................   4
+     1.26     "Filing Fees".....................................................   4
+     1.27     "GEMICO Agreement"................................................   4
+     1.28     "Governmental Entity".............................................   4
+     1.29     "Indemnification Event"...........................................   4
+     1.30     "Indemnitor"......................................................   4
+     1.31     "Insurance Permit"................................................   4
+     1.32     "Liens or Restrictions"...........................................   4
+     1.33     "Material Adverse Effect".........................................   4
+     1.34     "Multiemployer Plan"..............................................   4
+     1.35     "Parent"..........................................................   4
+     1.36     "Parent Reinsurance Agreement"....................................   4
+     1.37     "PBGC"............................................................   4
+     1.38     "Permit"..........................................................   5
+     1.39     "Person"..........................................................   5
+     1.40     "Post-Closing Period".............................................   5
+     1.41     "Pre-Closing Period"..............................................   5
+     1.42     "Property"........................................................   5
+     1.43     "Purchase Price"..................................................   5
+</TABLE>
+
+                                       i
+<PAGE>
+
+<TABLE>
+<S>                                                                               <C>
+     1.44     "Purchaser".......................................................   5
+     1.45     "Purchaser Indemnitees"...........................................   5
+     1.46     "Purchaser Losses"................................................   5
+     1.47     "Purchaser's Knowledge"...........................................   5
+     1.48     "Schedule"........................................................   5
+     1.49     "Seller"..........................................................   5
+     1.50     "Seller Acquisition Agreement"....................................   5
+     1.51     "Seller Group"....................................................   5
+     1.52     "Seller Indemnitees"..............................................   5
+     1.53     "Seller Losses"...................................................   5
+     1.54     "Seller's Knowledge"..............................................   6
+     1.55     "Statutory Accounting Principles".................................   6
+     1.56     "Statutory Financial Statements"..................................   6
+     1.57     "Stock"...........................................................   6
+     1.58     "Straddle Period".................................................   6
+     1.59     "Subsidiary"......................................................   6
+     1.60     "Tax" or "Taxes"..................................................   6
+     1.61     "Taxing Authority"................................................   6
+     1.62     "Tax Claim".......................................................   6
+     1.63     "Tax Return"......................................................   7
+     1.64     "Transfer Taxes"..................................................   7
+     1.65     "Transferee"......................................................   7
+
+ARTICLE II PURCHASE OF STOCK....................................................   7
+
+     2.1      Purchase and Sale.................................................   7
+     2.2      The Purchase Price................................................   7
+     2.3      Closing...........................................................   7
+     2.4      Transfer of Stock.................................................   7
+
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF SELLER AND PARENT.................   8
+
+     3.1      Organization and Standing.........................................   8
+     3.2      Authorization of Agreement........................................   8
+     3.3      Capital Stock of the Company......................................   9
+     3.4      Interests in Securities of the Company............................   9
+     3.5      Financial Statements..............................................   9
+     3.6      Subsidiaries......................................................  10
+     3.7      Tax Returns and Reports...........................................  10
+     3.8      Required Filings..................................................  10
+     3.9      No Breach of Statute or Contract; Governmental Authorizations.....  11
+     3.10     No Litigation or Adverse Events...................................  12
+     3.11     Bank Accounts.....................................................  12
+     3.12     Form of Capital and Surplus.......................................  12
+     3.13     Liabilities.......................................................  12
+     3.14     Contracts.........................................................  12
+     3.15     Employee Matters..................................................  14
+     3.16     Powers of Attorney................................................  14
+</TABLE>
+
+                                       ii
+<PAGE>
+
+<TABLE>
+<S>                                                                               <C>
+     3.17     Accuracy of Documents.............................................  14
+     3.18     Brokers and Finders...............................................  14
+     3.19     Insurance Business................................................  15
+     3.20     Assets and Properties.............................................  15
+
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF PURCHASER..........................  15
+
+     4.1      Organization and Standing.........................................  15
+     4.2      Authorization of Agreement........................................  15
+     4.3      No Breach of Statute or Contract; Governmental Authorizations.....  15
+     4.4      Investment Intent.................................................  16
+     4.5      No Litigation.....................................................  16
+     4.6      Brokers and Finders...............................................  16
+
+ARTICLE V CONDUCT AND TRANSACTIONS PRIOR TO CLOSING; COVENANTS; INDEMNITIES.....  16
+
+     5.1      Investigations; Operation of the Business of the Company..........  16
+     5.2      Pending or Threatened Litigation or Action........................  18
+     5.3      Tax Audits; Tax Returns...........................................  19
+     5.4      Indemnifications, Assumptions of Liability and Related Matters....  21
+     5.5      Closing Date Statement of Assets and Closing Date Balance Sheet...  27
+     5.6      Transfer Taxes....................................................  27
+     5.7      Conduct of Business by Purchaser..................................  28
+     5.8      Change of Name....................................................  28
+     5.9      Disclosure of Confidential Information............................  28
+     5.10     Compliance with Delaware Insurance Laws...........................  28
+     5.11     Notification of Changes...........................................  28
+     5.12     Acquisition Proposals.............................................  28
+     5.13     Assignment........................................................  29
+     5.14     Commutation Agreement.............................................  29
+     5.15     Payment of Brokers' or Finders' Fees..............................  29
+     5.16     Preparation of Statutory Financial Statements.....................  29
+
+ARTICLE VI CONDITIONS TO CLOSING; ABANDONMENT OF THE TRANSACTION................  29
+
+     6.1      Conditions to the Obligations of Purchaser........................  29
+     6.2      Conditions to the Obligations of Parent and Seller................  33
+     6.3      Termination of Agreement and Abandonment of Transactions..........  34
+
+ARTICLE VII TERMINATION OF OBLIGATIONS AND WAIVER OF CONDITIONS;
+                    PAYMENT OF EXPENSES.........................................  34
+
+ARTICLE VIII GENERAL............................................................  35
+
+     8.1      Amendment and Waiver..............................................  35
+     8.2      Integrated Contract...............................................  35
+     8.3      Publicity.........................................................  35
+     8.4      Governing Law.....................................................  36
+</TABLE>
+
+                                      iii
+<PAGE>
+
+<TABLE>
+<S>                                                                               <C>
+     8.5      Jurisdiction......................................................  36
+     8.6      Notices...........................................................  36
+     8.7      No Assignment.....................................................  38
+     8.8      Headings..........................................................  38
+     8.9      Counterparts......................................................  38
+     8.10     Severability......................................................  38
+     8.11     Third Parties.....................................................  38
+     8.12     Further Assurances................................................  38
+</TABLE>
+
+Schedule 3.1(b)    -   Insurance Permits and Jurisdictions
+Schedule 3.1(c)    -   Officers and Directors/Articles and Bylaws
+Schedule 3.7       -   Tax Matters
+Schedule 3.8(b)    -   2003 Filing Fees
+Schedule 3.9(b)    -   Governmental Approvals/Litigation
+Schedule 3.11      -   Bank Accounts
+Schedule 3.12      -   Capital and Surplus
+Schedule 3.13      -   Liabilities
+Schedule 3.14(a)   -   Contracts and Commitments to be Terminated at Closing
+Schedule 3.16      -   Powers of Attorney
+
+
+Exhibit A          -   Assignment
+Exhibit B          -   Form of Opinion of LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+Exhibit C          -   Form of Opinion of Appleby Spurling & Kempe
+
+                                       iv
+<PAGE>
+
+                            STOCK PURCHASE AGREEMENT
+
+                  This Stock Purchase Agreement, dated as of January 30, 2004,
+is by and among Alleghany Insurance Holdings LLC, a Delaware limited liability
+company ("Purchaser"), Aegis Holding Inc., a Delaware corporation ("Seller"),
+and Associated Electric & Gas Insurance Services Limited, a mutual insurance
+company organized under the laws of Bermuda and the sole stockholder of Seller
+("Parent").
+
+                                    RECITALS:
+
+                  WHEREAS, Seller owns 3,500,000 shares, constituting all of the
+issued and outstanding shares, of common stock, par value $1.00 per share (the
+"Stock"), of U.S. Aegis Energy Insurance Company, a stock insurance company
+organized under the laws of Delaware (the "Company");
+
+                  WHEREAS, prior to the Closing (as defined below), pursuant to
+the Commutation Agreement (as defined below), Parent and Company will fully
+settle, commute and discharge any and all of their respective obligations and
+liabilities under the Company Reinsurance Agreements (as defined below) and
+under the Parent Reinsurance Agreement (as defined below) and exchange mutual
+releases relating thereto; and
+
+                  WHEREAS, prior to the Closing, pursuant to the Assignment (as
+defined below), all of the rights, obligations and liabilities of the Company
+under the Company Reinsurance Agreements and under the Parent Reinsurance
+Agreement will be transferred to and assumed by Parent;
+
+                  WHEREAS, as of the Closing, the Company will have no
+liabilities or obligations whatsoever based on or arising out of any act,
+omission or event occurring prior to the Closing that are not fully indemnified
+by Parent pursuant to this Agreement; and
+
+                  WHEREAS, Purchaser desires to purchase and Seller desires to
+sell the Stock upon the terms and conditions set forth herein.
+
+                  NOW, THEREFORE, in consideration of the foregoing premises and
+the mutual agreements contained herein, intending to be legally bound hereby,
+the parties hereto agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+                  As used herein, the terms below shall have the following
+meanings, except as otherwise expressly provided or unless the context otherwise
+requires:
+
+                  1.1      "2003 Filing Fees" shall have the meaning set forth
+in Section 3.8(b).
+
+                  1.2      "2004 Filing Fees" shall have the meaning set forth
+in Section 5.5(b).
+
+<PAGE>
+
+                  1.3      "Affiliate" or "Affiliated" shall mean with respect
+to any Person, any Person directly or indirectly controlling, controlled by, or
+under direct or indirect common control with, such Person. A Person will be
+deemed to control a Person if such Person possesses, directly or indirectly, the
+power to direct or cause the direction of the management and policies of such
+Person, whether through the ownership of voting securities, by contract or
+otherwise.
+
+                  1.4      "Agreement" shall refer to this Stock Purchase
+Agreement together with all Exhibits and Schedules hereto, as the same may be
+amended from time to time.
+
+                  1.5      "Assignment" shall refer to the Transfer and
+Assumption Agreement to be entered into by and between Parent and the Company
+and made effective on or prior to the Closing pursuant to which the Company will
+transfer to Parent, and Parent will assume, all of the rights, obligations and
+liabilities of the Company pursuant to the Company Reinsurance Agreements and
+the Parent Reinsurance Agreement. The Assignment shall be in the form attached
+hereto as Exhibit A (with such changes thereto as may be approved by Purchaser).
+
+                  1.6      "Assumption Agreements" shall have the meaning set
+forth in Section 3.14(b)(i).
+
+                  1.7      "Bankruptcy Exception" shall refer, in respect of any
+agreement, contract or commitment, to any limitation thereon imposed by any
+bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or
+similar law affecting creditors' rights and remedies generally and, with respect
+to the enforceability thereof, by general principles of equity, including
+principles of commercial reasonableness, good faith and fair dealing (regardless
+of whether enforcement is sought in a proceeding at law or in equity).
+
+                  1.8      "Business Day" shall mean a Monday, Tuesday,
+Wednesday, Thursday or Friday on which banking institutions in the State of New
+York are not authorized or obligated by applicable law to close.
+
+                  1.9      "Closing" and "Closing Date" shall have the
+respective meanings set forth in Section 2.3.
+
+                  1.10     "Closing Date Balance Sheet" shall mean a balance
+sheet of the Company as at the Closing Date setting forth all assets of the
+Company from the Closing Date Statement of Assets and setting forth all
+liabilities of the Company determined in accordance with Statutory Accounting
+Principles, provided that the Closing Date Balance Sheet shall give effect to
+the treatment of 2004 Filing Fees as provided in Section 5.5(b).
+
+                  1.11     "Closing Date Shareholder's Equity" shall mean total
+assets (valued in accordance with the provisions of Section 5.5, but excluding
+any deferred Tax Assets) less total liabilities (determined in accordance with
+Statutory Accounting Principles, and excluding any liability for Taxes) of the
+Company as set forth on the Closing Date Balance Sheet.
+
+                  1.12     "Closing Date Statement of Assets" shall refer to the
+statement of assets of the Company as of the Closing Date prepared in accordance
+with the provisions of Section 5.5.
+
+                                       2
+<PAGE>
+
+                  1.13     "COBRA" shall mean the Consolidated Omnibus Budget
+Reconciliation Act of 1985, as amended.
+
+                  1.14     "Code" shall mean the Internal Revenue Code of 1986,
+as amended, and the Treasury Regulations promulgated thereunder.
+
+                  1.15     "Commutation Agreement" shall refer to the
+Commutation Agreement and Release by and between Parent and Company, dated
+December 31, 2003.
+
+                  1.16     "Company" shall have the meaning set forth in the
+recitals hereto.
+
+                  1.17     "Company Agreements" shall have the meaning set forth
+in Section 3.14(a).
+
+                  1.18     "Company Reinsurance Agreements" shall refer
+collectively to the following reinsurance agreements: the Standard Lines
+Aggregate Excess of Loss Reinsurance Agreement between Parent and the Company
+(as reinsurer), dated as of January 1, 1996, as amended through Amendment No. 7
+thereto dated January 1, 2003; and the Property Quota Share Reinsurance
+Agreement between Parent and the Company (as reinsurer), dated as of April 1,
+1996, as amended through Amendment No. 4 thereto dated January 1, 2000.
+
+                  1.19     "Confidential Information" shall mean all Documents
+and information concerning Parent, Seller or the Company furnished to Purchaser
+in connection with this Agreement and any Documents or compilations prepared by
+or for Purchaser which contain, reflect or are based upon such information.
+
+                  1.20     "Delaware Commissioner" shall mean the Insurance
+Commissioner of the Delaware Department of Insurance.
+
+                  1.21     "Documents" shall refer to any books, records, files,
+papers, tapes, microfilms and any other documents.
+
+                  1.22     "Employee Benefit Plan" shall mean any "employee
+benefit plan" (as such term is defined in section 3(3) of ERISA), and any other
+retirement, pension, profit-sharing, thrift, savings, target benefit, employee
+stock ownership, cash or deferred, deferred or incentive compensation, bonus,
+stay bonus, stock option, employee stock purchase, phantom stock, stock
+appreciation, change in control, retention compensation, medical, dental,
+vision, psychiatric or other counseling, employee assistance, tuition
+reimbursement, vacation, holiday, sick pay, disability, salary continuation,
+termination allowance, severance, employee relocation, death benefit, survivor
+income, dependent care assistance, legal assistance or fringe benefit (cash or
+noncash) plan, program, policy, practice or arrangement, or any cafeteria plan
+under Section 125 of the Code, in which any current or former officer, director,
+independent contractor or employee of the Company or any ERISA Affiliate has
+ever participated, or as to which the Company or any ERISA Affiliate has ever
+had any present or contingent obligation, including any obligation to make
+contributions.
+
+                  1.23     "ERISA" shall mean the Employee Retirement Income
+Security Act of 1974, as amended, and the regulations promulgated thereunder.
+
+                                       3
+<PAGE>
+
+                  1.24     "ERISA Affiliate" shall refer to any entity required
+to be aggregated with the Company as a single employer under Section 414(b),
+(c), (m) or (o) of the Code.
+
+                  1.25     "Exhibit" shall refer to each of several written
+Exhibits to this Agreement, each of which is incorporated into and made a part
+of this Agreement for all purposes.
+
+                  1.26     "Filing Fees" shall have the meaning set forth in
+Section 3.8(b).
+
+                  1.27     "GEMICO Agreement" shall have the meaning set forth
+in Section 3.14(b)(ii).
+
+                  1.28     "Governmental Entity" shall mean any federal, state,
+local or foreign government, political subdivision, legislature, court, agency,
+department, bureau, commission or other governmental or regulatory authority,
+body or instrumentality, including any insurance or securities regulatory
+authority.
+
+                  1.29     "Indemnification Event" shall refer to any action,
+proceeding or claim for which a Person is entitled to indemnification under this
+Agreement.
+
+                  1.30     "Indemnitor" shall refer to the indemnifying Person
+with respect to the occurrence of an Indemnification Event.
+
+                  1.31     "Insurance Permit" shall mean any Permit in any
+jurisdiction to issue, underwrite, assume, place, sell or otherwise transact the
+business of insurance.
+
+                  1.32     "Liens or Restrictions" shall refer to any lien,
+pledge, mortgage, security interest, charge, adverse claim or other encumbrance
+of any kind.
+
+                  1.33     "Material Adverse Effect" shall mean any material
+adverse effect on the business, operations, financial condition, results of
+operations or prospects of the Company.
+
+                  1.34     "Multiemployer Plan" shall have the meaning ascribed
+to such term by Section 4001(a)(3) of ERISA.
+
+                  1.35     "Parent" shall have the meaning set forth in the
+preamble.
+
+                  1.36     "Parent Reinsurance Agreement" means the Reinsurance
+Agreement, dated as of January 1, 1996, as amended through Amendment No. 7
+thereto dated January 1, 2003, between the Company and Parent (as reinsurer).
+
+                  1.37     "PBGC" shall mean the Pension Benefit Guaranty
+Corporation.
+
+                                       4
+<PAGE>
+
+                  1.38     "Permit" shall refer to any federal, state, local or
+other governmental consent, license, permit, grant or authorization which is
+held by the Company in a particular jurisdiction immediately prior to the
+Closing Date.
+
+                  1.39     "Person" shall mean any individual, corporation,
+partnership, limited liability company, joint venture, association, joint stock
+company, mutual company, trust, unincorporated organization or Governmental
+Entity or agency thereof.
+
+                  1.40     "Post-Closing Period" shall refer to a taxable period
+of the Company beginning after the Closing Date.
+
+                  1.41     "Pre-Closing Period" shall refer to a taxable period
+of the Company ending on or prior to the Closing Date.
+
+                  1.42     "Property" shall mean any real, personal or mixed
+property, whether tangible or intangible.
+
+                  1.43     "Purchase Price" shall have the meaning set forth in
+Section 2.2.
+
+                  1.44     "Purchaser" shall have the meaning set forth in the
+preamble.
+
+                  1.45     "Purchaser Indemnitees" shall have the meaning set
+forth in Section 5.4(c).
+
+                  1.46     "Purchaser Losses" shall have the meaning set forth
+in Section 5.4(c).
+
+                  1.47     "Purchaser's Knowledge" shall refer to the actual
+knowledge of (i) individuals who, at the time of execution of this Agreement,
+perform such functions or hold such positions with Purchaser as would reasonably
+be expected to require them to be aware of the information in question and (ii)
+officers of Purchaser holding the position of Vice President or higher.
+
+                  1.48     "Schedule" shall refer to each of several written
+Schedules to this Agreement, each of which is incorporated into and made a part
+of this Agreement for all purposes.
+
+                  1.49     "Seller" shall have the meaning set forth in the
+preamble.
+
+                  1.50     "Seller Acquisition Agreement" shall mean the Stock
+Purchase Agreement by and between Seller and Consolidated Insurance Group of
+America, Inc., dated as of December 22, 1995.
+
+                  1.51     "Seller Group" shall have the meaning set forth in
+Section 3.7(a).
+
+                  1.52     "Seller Indemnitees" shall have the meaning set forth
+in Section 5.4(d).
+
+                  1.53     "Seller Losses" shall have the meaning set forth in
+Section 5.4(d).
+
+                                       5
+<PAGE>
+
+                  1.54     "Seller's Knowledge" shall refer to the actual
+knowledge of (i) individuals who, at the time of execution of this Agreement,
+perform such functions or hold such positions with Seller, Parent or the Company
+(prior to the Closing) as would reasonably be expected to require them to be
+aware of the information in question and (ii) officers of Seller, Parent or the
+Company holding the position of Vice President or higher (prior to the Closing).
+
+                  1.55     "Statutory Accounting Principles" shall mean the
+statutory accounting practices prescribed or permitted by the Delaware
+Commissioner.
+
+                  1.56     "Statutory Financial Statements" shall mean the
+Annual Statements and the Quarterly Statements of the Condition and Affairs of
+the Company filed with the Delaware Insurance Department, in each case including
+all exhibits, interrogatories, notes and schedules thereto and any actuarial
+opinion, affirmation or certification or other supporting documentation filed in
+connection therewith.
+
+                  1.57     "Stock" shall have the meaning set forth in the first
+recital of this Agreement.
+
+                  1.58     "Straddle Period" shall refer to a taxable period of
+the Company beginning before and ending after the Closing Date.
+
+                  1.59     "Subsidiary" shall mean, with respect to any Person,
+any corporation, partnership, limited liability company, joint venture or other
+entity in which such Person (i) owns, directly or indirectly, 50% or more of the
+outstanding voting securities, equity interests, profits interest or capital
+interest, (ii) is entitled to elect at least a majority of the board of
+directors or similar governing body, or (iii) in the case of a limited
+partnership or limited liability company, is a general partner or managing
+member, respectively.
+
+                  1.60     "Tax" or "Taxes" shall mean all federal, state,
+county, municipal, foreign and other income, profits, windfall profits, gains,
+gross receipts, net worth, premium, value added, ad valorem, sales, use, excise,
+stamp, transfer, franchise, withholding, payroll, employment, occupation,
+workers' compensation, disability, severance, unemployment insurance, social
+security and property taxes, and all other taxes, levies, fees, imposts, duties
+and charges of any kind whatsoever, together with any interest, penalties and
+additions thereto imposed by any Taxing Authority, including all amounts imposed
+as a result of being a member of an affiliated or combined group.
+
+                  1.61     "Taxing Authority" shall refer to any Governmental
+Entity responsible for the administration or collection of Taxes.
+
+                  1.62     "Tax Claim" shall have the meaning set forth in
+Section 5.3(h).
+
+                  1.63     "Tax Return" shall mean all returns, reports,
+elections, estimates, declarations, information statements and other forms and
+documents (including all schedules, exhibits, and other attachments thereto and
+any supplements or amendments thereof) relating to, and required to be filed or
+maintained in connection with the calculation, determination, assessment or
+collection of, any Taxes (including estimated Taxes).
+
+                                       6
+<PAGE>
+
+                  1.64     "Transfer Taxes" shall have the meaning set forth in
+Section 5.6.
+
+                  1.65     "Transferee" shall have the meaning set forth in
+Section 2.4.
+
+                                   ARTICLE II
+
+                                PURCHASE OF STOCK
+
+                  2.1      Purchase and Sale. Upon the terms and subject to the
+conditions of this Agreement, at the Closing, Purchaser shall purchase from
+Seller, and Seller shall sell to Purchaser, all of the Stock.
+
+                  2.2      The Purchase Price. The price Purchaser shall pay for
+the Stock shall be an amount equal to the sum of the following:
+
+                  (a)      Three Million Three Hundred Thousand Dollars
+($3,300,000.00),
+
+                  (b)      plus the Closing Date Shareholder's Equity, as
+determined in accordance with Section 5.5 (such sum, the "Purchase Price").
+
+                  2.3      Closing. The closing of the purchase and sale of the
+Stock pursuant to this Agreement (the "Closing") shall take place at the offices
+of Dewey Ballantine LLP, 1301 Avenue of the Americas, New York, New York at
+10:00 a.m. New York time on the third business day following the satisfaction or
+waiver of all conditions to the obligations of the parties to consummate the
+transaction contemplated hereby (other than conditions with respect to actions
+the parties will take at the Closing itself) (the "Closing Date"), or such other
+place, times or dates as the parties hereto agree in writing. At the Closing:
+
+                  (a)      Seller shall deliver to Purchaser a certificate or
+certificates representing the Stock duly endorsed to Purchaser or accompanied by
+duly executed stock powers so as to transfer and assign to Purchaser good and
+valid title to the Stock free and clear of all Liens or Restrictions and to
+constitute Purchaser the sole beneficial and record stockholder of the Company;
+
+                  (b)      Purchaser shall pay to Seller the Purchase Price by
+wire transfer of immediately available funds to an account designated in writing
+by Seller on or before the Closing; and
+
+                  (c)      Seller shall deliver to Purchaser (i) fully executed
+originals of the Assignment and the Commutation Agreement and (ii) fully
+executed originals, or copies certified by Seller, of the Assumption Agreements
+and the GEMICO Agreement.
+
+                  2.4      Transfer of Stock. Seller hereby acknowledges and
+agrees that, subsequent to the Closing, Purchaser shall have the right to
+transfer, exchange or contribute the Stock to any direct or indirect majority
+owned or wholly owned Subsidiary of the Purchaser ("Transferee").
+
+                                       7
+<PAGE>
+
+                                   ARTICLE III
+
+               REPRESENTATIONS AND WARRANTIES OF SELLER AND PARENT
+
+Seller and Parent, jointly and severally, hereby represent and warrant to
+Purchaser, as of the date of this Agreement (except if another date is specified
+in the representation or warranty) and as of the Closing Date, as follows:
+
+                  3.1      Organization and Standing.
+
+                  (a)      Each of Seller, Parent and the Company is duly
+organized, validly existing and in good standing under the laws of its
+respective jurisdiction, and each of Seller, Parent and the Company has all
+requisite power and authority to own, lease and operate its assets and
+Properties (including, without limitation, the Stock) and to conduct its
+business as currently being conducted. The Company is duly qualified, licensed
+to conduct business, and is in good standing in each jurisdiction set forth in
+Schedule 3.1(b), except as noted thereon.
+
+                  (b)      Schedule 3.1(b) is an accurate and complete list of
+each Insurance Permit held by the Company and sets forth the scheduled
+expiration date of each such Insurance Permit. True, correct and complete copies
+of all of such Insurance Permits (as of a recent date) are attached to Schedule
+3.1(b). Except as limited by state statute generally applicable to all companies
+of a similar type as the Company or as set forth in such Schedule, the Company's
+authority to write the lines and classes of insurance set forth on such Schedule
+is unrestricted and the Company is not a party to any agreement or arrangement
+with any regulatory official or agency limiting or restricting the Company's
+ability to make full use of the Insurance Permits. Except as set forth in
+Schedule 3.1(b), each such Insurance Permit is currently in good standing, and,
+other than as set forth in Schedule 3.1(b), no Insurance Permit has been
+withdrawn, modified, restricted or conditioned in any respect by a state
+insurance regulatory authority, and no application for an Insurance Permit filed
+by the Company within the last 12 months has been denied or withdrawn. No event
+has occurred that, with or without notice or lapse of time or both, could
+reasonably be expected to result in the revocation, suspension, lapse or
+limitation of any Insurance Permit. The Company is not transacting and has not
+transacted any insurance business in any jurisdiction requiring an Insurance
+Permit or qualification in which it did not possess such Insurance Permit or
+qualification.
+
+                  (c)      Schedule 3.1(c) identifies each director and
+executive officer of the Company as currently in effect and contains true and
+correct copies of the Company's Certificate of Incorporation and the By-laws,
+including all amendments thereto through, and as in effect on, the date hereof.
+
+                  3.2      Authorization of Agreement. Each of Seller and Parent
+has all requisite power to execute and deliver this Agreement and perform its
+obligations under this Agreement, and the execution, delivery and performance of
+this Agreement and the consummation of the transactions contemplated by this
+Agreement have been duly authorized and approved by all necessary action on the
+part of each of Seller and Parent. Each of Parent and the Company has the
+requisite power to execute and deliver the Assignment and the Commutation
+Agreement and to perform its obligations thereunder, and the execution, delivery
+and performance of the
+
+                                       8
+<PAGE>
+
+Assignment and the Commutation Agreement and the consummation of the
+transactions contemplated thereby have been duly authorized by all necessary
+requisite action on the part of each of Parent and the Company. This Agreement
+has been duly executed and delivered by each of Seller and Parent and is the
+valid and binding obligation of each of Seller and Parent enforceable against
+each of them in accordance with its terms, subject to the Bankruptcy Exception.
+Prior to the Closing Date, the Assignment and the Commutation Agreement will
+have been duly authorized, executed and delivered by each of Parent and the
+Company, and, on the Closing Date, each of the Assignment and the Commutation
+Agreement will be the valid and binding obligations of each of Parent and the
+Company enforceable against each of them in accordance with its terms, subject
+to the Bankruptcy Exception.
+
+                  3.3      Capital Stock of the Company. The authorized capital
+stock of the Company consists of 10,000,000 shares of common stock, $1.00 par
+value per share, of which only the Stock (consisting of 3,500,000 shares of such
+common stock) is issued and outstanding. All issued and outstanding shares of
+Stock are duly authorized, validly issued and fully paid and non-assessable.
+Seller is the lawful owner, beneficially and of record, of all of the Stock and
+has good and valid title to the Stock, free and clear of all Liens or
+Restrictions, voting trusts or other voting agreements, contracts, calls,
+commitments of any kind, including any such agreement, arrangement, commitment
+or understanding restricting or otherwise relating to the voting, dividend
+rights or dispositions of the Stock. Upon consummation of the transactions
+contemplated by this Agreement, Purchaser will acquire record and beneficial
+ownership of the Stock, free and clear of any Liens or Restrictions, voting
+trusts or other voting agreements, contracts, calls, commitments of any kind,
+including any such agreement, arrangement, commitment or understanding
+restricting or otherwise relating to the voting, dividend rights or dispositions
+of the Stock.
+
+                  3.4      Interests in Securities of the Company. There are no
+outstanding options, convertible securities, warrants or other rights to
+subscribe for or purchase from Seller or the Company, and there are no plans,
+contracts or commitments for the granting by Seller or the Company of rights to
+acquire: (i) any capital stock or other ownership interests in the Company
+including the Stock; or (ii) any securities convertible into or exchangeable for
+any such capital stock or ownership interests in the Company.
+
+                  3.5      Financial Statements. Seller has delivered to
+Purchaser true, correct and complete copies of the Statutory Financial
+Statements of the Company for the year ended December 31, 2002 and for the
+quarterly periods ended March 31, June 30 and September 30, 2003. Such Statutory
+Financial Statements fairly represent the financial position and the results of
+operations of the Company as of the dates and for the periods to which such
+financial statements relate in accordance with Statutory Accounting Principles.
+Except as disclosed on such Statutory Financial Statements or in the notes
+thereto, there has not been any change in the business, financial condition or
+results of operations of the Company during the last 12 months that has had, or
+could reasonably be expected to have, a Material Adverse Effect. Seller has
+heretofore delivered to Purchaser true, correct and complete copies of the
+Statutory Financial Statements of the Company for each of the years ended
+December 31, 1997, 1998, 1999, 2000 and 2001.
+
+                                       9
+<PAGE>
+
+                  3.6      Subsidiaries. The Company does not own, either of
+record or beneficially, any direct or indirect equity interest or any right
+(contingent or otherwise) to acquire the same in any other Person.
+
+                  3.7      Tax Returns and Reports.
+
+                  (a)      Seller is the common parent of an affiliated group of
+corporations (within the meaning of section 1504(a) of the Code) (such group,
+the "Seller Group") that files a consolidated federal income Tax Return. For all
+periods during which it has owned the Company, Seller has properly included (or,
+with respect to the taxable year ending on the Closing Date, will properly
+include) the Company in its consolidated federal income Tax Return as a member
+of the Seller Group.
+
+                  (b)      Other than as set forth on Schedule 3.7, (i) the
+Company has filed (or joined in the filing of) when due all material Tax Returns
+required to be filed by or with respect to the Company, including Tax Returns of
+the Seller Group and of any other consolidated, combined, unitary or other
+affiliated group of which the Company is a member, and all Taxes shown to be due
+on such Tax Returns have been timely paid; (ii) all such Tax Returns were true,
+correct and complete in all respects; (iii) there is no action, suit,
+proceeding, investigation, audit or claim now pending against, or with respect
+to, the Company in respect of any Tax or assessment, nor is any claim for
+additional Tax or assessment being asserted by any Taxing Authority; (iv) no
+claim has been asserted in writing by any Taxing Authority in a jurisdiction in
+which the Company does not currently file a Tax Return that it is or may be
+subject to Tax by such jurisdiction; (v) the Company is not a party to any
+agreement, whether written or unwritten, providing for the payment of Taxes,
+payment for Tax losses, entitlement to refunds or similar Tax matters; (vi) the
+Company has withheld and remitted to its applicable Taxing Authorities all Taxes
+required to be withheld in connection with any material amounts paid or owing to
+any employee, creditor, attorney, independent contractor or other Person; (vii)
+neither Seller nor the Company has made, changed or revoked, or permitted to be
+made, changed or revoked, any material election or method of accounting with
+respect to material Taxes affecting or relating to the Company, or entered into,
+or permitted to be entered into, any closing or other agreement or settlement
+with respect to Taxes affecting or relating to the Company; (viii) no ruling
+with respect to Taxes has been requested by or on behalf of the Company or by
+Seller with respect to any transaction involving the Company that could affect
+the liability of the Company for Taxes for any period after the Closing; (ix)
+the Company has no liability for the Taxes of any Person (other than pursuant to
+Treasury Regulation Section 1.1502-6, or any analogous state, local or foreign
+law or regulation) as a transferee or successor, by contract or otherwise; (x)
+the statutes of limitations for Tax years of the Company have closed for all
+years ending prior to January 1, 2000; (xi) the Seller is not a "foreign person"
+within the meaning of Section 1445(f)(2) of the Code.
+
+                  3.8      Required Filings.
+
+                  (a)      All statements, reports, forms or other information
+required to be filed with respect to the Company have been or will be timely
+filed, and all required regulatory approvals in respect thereof are in full
+force and effect, except for any such information or regulatory approvals that
+if not made or obtained would not reasonably be expected, individually
+
+                                       10
+<PAGE>
+
+or in the aggregate, to have a Material Adverse Effect. All such regulatory
+filings were true and correct in all material respects when filed and were in
+compliance with applicable laws, and no deficiencies have been asserted by any
+such Governmental Entity with respect to such regulatory filings that have not
+been satisfied.
+
+                  (b)      Schedule 3.8(b) sets forth: (i) all amounts paid by
+the Company as annual statement filing fees, license renewal fees, examination
+fees, membership fees or dues to state guaranty associations and joint
+underwriting associations, minimum required state insurance premium taxes (i.e.
+those imposed without regard to the amount of premiums written) and other taxes,
+fees or assessments required to be paid by the Company in order to maintain its
+Insurance Permits in good standing (collectively, "Filing Fees") for the year
+ending December 31, 2003 (the "2003 Filing Fees"); and (ii) the dates on which
+such 2003 Filing Fees were due. To Seller's Knowledge, no Filing Fees were due
+for such period other than as shown on said Schedule 3.8(b).
+
+                  3.9      No Breach of Statute or Contract; Governmental
+Authorizations.
+
+                  (a)      Neither the execution and delivery of this Agreement
+by Parent or Seller, nor the execution and delivery of the Assignment and the
+Commutation Agreement by Parent and the Company, nor performance by any of them
+of any of their obligations hereunder or thereunder will (x) conflict with, or
+result in a breach of, any of the terms, conditions or provisions of: (i) the
+certificate of incorporation or by-laws (or comparable organizational documents)
+of Seller, Parent or the Company; (ii) subject to receipt of approvals referred
+to in Section 3.9(b), any judgment, order, injunction, decree or ruling of any
+court or governmental authority, domestic or foreign, or any law, statute or
+regulation, to which Seller, Parent or the Company is subject; or (iii) any
+agreement, contract or commitment to which Seller, Parent or the Company is a
+party or is subject, except, in the case of clauses (ii) and (iii) only, for
+such conflicts or breaches that (A) would not be reasonably expected to have a
+Material Adverse Effect, (B) would not materially impair the ability of Parent
+or Seller to execute, deliver and perform its obligations under this Agreement,
+(C) would not materially impair the ability of Parent or the Company to execute,
+deliver and perform its obligations under the Assignment and the Commutation
+Agreement, and (D) would not impair the validity of any Insurance Permit, or (y)
+result in the creation or imposition of any Lien or Restriction on any of the
+Properties or assets of the Company.
+
+                  (b)      To Seller's Knowledge, except as set forth in
+Schedule 3.9(b), there are no governmental approvals, consents, licenses, orders
+or registrations required to be obtained, made or given to permit the
+consummation of the transactions contemplated by this Agreement, except for (i)
+approval by the Delaware Commissioner with respect to the change in control of
+the Company and (ii) approvals by the insurance department of any other
+jurisdiction asserting regulatory authority over the transactions contemplated
+by this Agreement which are required by applicable law, regulation or rule to be
+obtained by Purchaser.
+
+                  (c)      The Company is in compliance with all applicable
+laws, statutes, ordinances, orders, rules and regulations promulgated, and
+judgments entered, by any federal, foreign or local court or governmental
+authority relating to the operation, conduct or ownership
+
+                                       11
+<PAGE>
+
+of the Property or business of the Company, except for any such failure to
+comply that would not reasonably be expected, individually or in the aggregate,
+to have a Material Adverse Effect.
+
+                  (d)      None of Seller, Parent or the Company has received
+any notice of, nor to Seller's Knowledge is there, any violation of any
+applicable law, statute, ordinance, order, rule or regulation promulgated, or
+judgment entered, by any federal, foreign, state or local court or governmental
+authority relating to the operation, conduct or ownership of the business of the
+Company other than a violation which has been resolved and for which no sanction
+is pending.
+
+                  (e)      Except as disclosed on Schedule 3.1(b), no proceeding
+is pending nor, to Seller's Knowledge, is any proceeding threatened in which any
+Person is seeking to revoke or deny the renewal of any Insurance Permit.
+
+                  3.10     No Litigation or Adverse Events. Other than (i)
+applications filed with state insurance departments by Purchaser, (ii)
+applications requesting approval of the change in control of the Company
+pursuant to this Agreement, and (iii) as set forth on Schedule 3.9(b), there are
+no actions, suits or administrative, arbitration or other proceedings or
+governmental investigations (including counterclaims) pending or, to Seller's
+Knowledge, threatened against the Company. None of Seller, Parent or the Company
+has received any written notice of, nor to Seller's Knowledge is there, any
+claim or assertion of liability on the part of the Company.
+
+                  3.11     Bank Accounts. Schedule 3.11 sets forth a list of all
+bank accounts maintained by the Company together with the addresses of the banks
+at which such accounts are maintained and the contact persons for the Company
+thereat.
+
+                  3.12     Form of Capital and Surplus. The Company's capital
+and surplus consist only of (i) cash and cash equivalents, (ii) fixed income
+securities traded in a recognized public market and (iii) bonds on deposit with
+certain states as required to obtain licenses in those states. Schedule 3.12
+sets forth a description of the items constituting the Company's capital and
+surplus, including the values thereof, valued as of January 28, 2004 in
+accordance with the valuation methods to be used in the preparation of the
+Closing Date Statement of Assets, as set forth in Section 5.5 of this Agreement.
+
+                  3.13     Liabilities. The Company has no liabilities, losses
+or claims (contract or otherwise) other than those set forth in the Statutory
+Financial Statements of the Company for the period ended December 31, 2002 and
+for the quarterly periods ended March 31, June 30 and September 30, 2003, or as
+set forth in Schedule 3.13; and at the Closing, the Company will have no
+liabilities or obligations other than those set forth in Schedule 3.13.
+
+                  3.14     Contracts.
+
+                  (a)      To the Seller's Knowledge, the Company Reinsurance
+Agreements, the Parent Reinsurance Agreement, the Assumption Agreements and the
+GEMICO Agreement (collectively, the "Company Agreements") constitute all of the
+contracts and commitments by which the Company is bound or to which the Company
+is subject, and there are no other contracts or commitments to which the Company
+is now a party or by which the Company or its assets are or may be bound or to
+which the Company or its assets are or may be subject, other than (i) contracts
+and commitments identified on Schedule 3.14(a) that will be terminated on or
+
+                                       12
+<PAGE>
+
+prior to the Closing except as indicated on such Schedule and (ii) this
+Agreement. The Company Agreements are valid and binding agreements of the
+Company and, to the Seller's Knowledge, each of the other parties thereto,
+enforceable against each of them in accordance with their terms, subject to the
+Bankruptcy Exception. To the Seller's Knowledge, on the Closing Date, the
+Assignment, the Commutation Agreement, the Assumption Agreements and the GEMICO
+Agreement will constitute all of the contracts and commitments by which the
+Company or its assets are or may be bound or to which the Company or its assets
+are or may be subject, and there will be no other contracts or commitments to
+which the Company is a party or by which the Company or its assets are or may be
+bound or to which the Company or its assets are or may be subject, other than
+this Agreement.
+
+                  (b)      Seller represents and warrants to Purchaser that the
+intent of the agreements set forth below was to render the Company devoid of any
+liabilities or obligations, including, but not limited to, any liabilities or
+obligations under insurance policies or reinsurance agreements written by the
+Company.
+
+                  (i)      With respect to (a) the Assumption Agreement, dated
+                           as of April 1, 1995, by and between the Company (then
+                           named Peninsula Property and Casualty Company) and
+                           American Bankers Insurance Company of Florida and (b)
+                           the Assumption Agreement, dated as of June 28, 1995,
+                           by and between the Company and Wesco Insurance
+                           Company (each agreement hereinafter referred to
+                           individually as an "Assumption Agreement" and
+                           collectively as the "Assumption Agreements"), Seller
+                           hereby represents and warrants to Purchaser, based on
+                           representations in the Seller Acquisition Agreement
+                           and to the Seller's Knowledge, that (1) the Company
+                           had, at the time such Assumption Agreement was
+                           executed and delivered, full corporate power and
+                           authority to execute, deliver and perform its
+                           obligations under such Assumption Agreement and the
+                           other documents executed or required to be executed
+                           in connection therewith; (2) each Assumption
+                           Agreement and the other documents required to be
+                           executed and delivered in connection therewith were
+                           duly authorized, executed and delivered by the
+                           Company; (3) each Assumption Agreement and the other
+                           documents required to be executed and delivered in
+                           connection therewith were the legal, valid and
+                           binding obligations of the Company, enforceable in
+                           accordance with its terms, subject to the Bankruptcy
+                           Exception; (4) all consents, approvals,
+                           authorizations and orders necessary to permit the
+                           transactions contemplated by each Assumption
+                           Agreement have been obtained; (5) all notices to
+                           direct policyholders required to effect valid and
+                           binding novations of the insurance policies which are
+                           the subject of each Assumption Agreement have been
+                           sent; (6) each Assumption Agreement and the other
+                           documents required to be executed and delivered in
+                           connection therewith are valid and continuing
+                           obligations of the parties thereto, (7) no party to
+                           such agreements has given notice of termination or
+                           taken any action inconsistent with the continuance of
+                           such agreements, and (8) the execution, delivery and
+                           performance of this Agreement will not affect the
+                           enforceability of such agreements against the parties
+                           thereto.
+
+                                       13
+<PAGE>
+
+                  (ii)     With respect to the Assumption Agreement, dated as of
+                           December 30, 1993, by and between the Company (then
+                           named General Electric Guaranty Insurance
+                           Corporation) and General Electric Mortgage Insurance
+                           Corporation (the "GEMICO Agreement"), Seller hereby
+                           represents and warrants to Purchaser that, to
+                           Seller's Knowledge, (a) the GEMICO Agreement and the
+                           other documents required to be executed and delivered
+                           in connection therewith are valid and continuing
+                           obligations of the parties thereto, (b) no party to
+                           such agreements has given notice of termination or
+                           taken any action inconsistent with the continuance of
+                           such agreements and (c) the execution, delivery and
+                           performance of this Agreement will not affect the
+                           enforceability of such agreements against the parties
+                           thereto.
+
+                  3.15     Employee Matters. The Company (i) does not have, and
+since the time that Seller acquired the Company the Company has not had, any
+employees or independent contractors (including independent insurance agents),
+(ii) is not a party to or obligated under, and does not have any liabilities or
+obligations with respect to, any employment, consulting or agency contract with
+any Person, including any former employee or former independent contractor
+(including a former independent sales agent), and (iii) does not otherwise have
+any liabilities or obligations with respect to any current or former employee or
+independent contractor (including any current or former independent sales
+agent). At the Closing, the Company will not have any liabilities or obligations
+to any current or former officers or directors of the Company. Since December
+30, 1993, the Company has not maintained, contributed to or been obligated to
+contribute to any Employee Benefit Plan. The Company is not a party to or
+otherwise obligated under any collective bargaining agreement. Seller
+acknowledges that Purchaser is assuming no liability or responsibility with
+respect to benefits payable or any other obligation owed under any Employee
+Benefit Plan, or for any insurance agent arrangements which may have existed
+prior to the date hereof (including any commissions or fees owed in connection
+therewith).
+
+                  3.16     Powers of Attorney. Other than as set forth in
+Schedule 3.16 and other than any powers of attorney granted to insurance
+commissioners in connection with state licensing matters, all powers of attorney
+granted by the Company have expired or been revoked prior to the date hereof.
+
+                  3.17     Accuracy of Documents. All minute books and stock
+records of the Company and all other Documents delivered by Seller or the
+Company to Purchaser in connection with the transactions contemplated hereby are
+complete and accurate in all material respects. All corporate books and records
+of the Company are maintained in compliance in all material respects with all
+applicable statutes, including requirements as to their location.
+
+                  3.18     Brokers and Finders. Except for Merger & Acquisition
+Services, Inc., no broker, finder or investment banker is entitled to any fee or
+commission in connection with the transactions contemplated hereby based upon
+arrangements made by or on behalf of Parent, Seller or the Company.
+
+                                       14
+<PAGE>
+
+                  3.19     Insurance Business. Since December 22, 1995, the
+Company has not engaged in any business of insurance or reinsurance other than
+the business transacted pursuant to the Company Reinsurance Agreements and the
+Parent Reinsurance Agreement, all of which will be commuted and the parties
+thereto released pursuant to the Commutation Agreement. To Seller's Knowledge
+and based on representations in the Seller Acquisition Agreement, during the
+period from December 30, 1993 until December 22, 1995, the Company did not write
+any business other than business which was assumptively reinsured under the
+Assumption Agreements.
+
+                  3.20     Assets and Properties.
+
+                  (a)      The Company owns and has good and marketable title to
+all of its assets and Properties, free from any Liens or Restrictions (other
+than any escrowed amounts or other deposits made with state insurance
+commissioners).
+
+                  (b)      On the Closing Date, the Company will not own any
+assets or Properties, except (i) its corporate charter and the Insurance Permits
+set forth on Schedule 3.1(b), (ii) the assets set forth on the Closing Date
+Statement of Assets, and (iii) the contractual rights of the Company pursuant to
+the Assignment, the Commutation Agreement, the Assumption Agreements and the
+GEMICO Agreement.
+
+                                   ARTICLE IV
+
+                   REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+Purchaser represents and warrants to Seller and Parent, as of the date of this
+Agreement (except if another date is specified in the representation or
+warranty) and as of the Closing Date, as follows:
+
+                  4.1      Organization and Standing. Purchaser is a limited
+liability company duly organized, validly existing and in good standing under
+the laws of the State of Delaware, and Purchaser has all requisite power and
+authority to execute and deliver this Agreement and perform its obligations
+under this Agreement.
+
+                  4.2      Authorization of Agreement. Purchaser has the
+corporate power to execute and deliver this Agreement and perform its
+obligations under this Agreement, and the execution, delivery and performance of
+this Agreement and the consummation of the transactions contemplated by this
+Agreement have been duly authorized and approved by all necessary corporate
+action on the part of Purchaser. This Agreement has been duly executed and
+delivered by Purchaser and is the valid and binding obligation of Purchaser
+enforceable against it in accordance with its terms, subject to the Bankruptcy
+Exception.
+
+                  4.3      No Breach of Statute or Contract; Governmental
+Authorizations.
+
+                  (a)      Neither the execution and delivery by Purchaser of
+this Agreement nor performance by Purchaser of its obligations hereunder will
+conflict with, or result in a breach of, any of the terms, conditions or
+provisions of: (i) the Restated Certificate of Incorporation or
+
+                                       15
+<PAGE>
+
+By-laws of Purchaser; (ii) subject to receipt of approvals referred to in
+Section 4.3(b), any judgment, order, injunction, decree or ruling of any court
+or governmental authority, domestic or foreign, or any law, statute or
+regulation, to which Purchaser is subject; or (iii) any agreement, contract or
+commitment to which Purchaser is a party or is subject, except, in the case of
+clauses (ii) and (iii) only, for such conflicts or breaches which would not
+materially impair the ability of Purchaser to execute, deliver and perform its
+obligations under this Agreement.
+
+                  (b)      To Purchaser's Knowledge, except for (i) the approval
+by the Delaware Commissioner with respect to the change in control of the
+Company and (ii) any approvals by the insurance department of any other
+jurisdiction asserting regulatory authority over the transactions contemplated
+by this Agreement which are required by applicable law, regulation or rule to be
+obtained by Seller, there are no governmental approvals required to permit the
+consummation of the transactions contemplated by this Agreement.
+
+                  4.4      Investment Intent. Purchaser represents and warrants
+that (i) subject to the provisions of Section 2.4 hereof, Purchaser is acquiring
+the Stock for its own account, for investment purposes only and not with a view
+to the resale, distribution or other disposition thereof or any part thereof or
+any interest therein, and (ii) Purchaser has such knowledge of and experience in
+financial and business matters as to be capable of evaluating the merits and
+risks of its prospective investment in the Company as contemplated by this
+Agreement. Purchaser acknowledges that the Stock will not be registered under
+the Securities Act of 1933, as amended, or under any state securities law and,
+therefore, may not be sold by Purchaser except pursuant to an effective
+registration statement under such Securities Act or an exemption from
+registration thereunder and pursuant to registration or qualification under any
+applicable state securities law or exemption therefrom.
+
+                  4.5      No Litigation. There are no actions, suits or
+administrative, arbitration or other proceedings or governmental investigations
+(including counterclaims) pending or, to Purchaser's Knowledge, threatened in
+writing to restrain, prohibit or otherwise challenge the performance by
+Purchaser of the transactions contemplated by this Agreement.
+
+                  4.6      Brokers and Finders. Except for Merger & Acquisition
+Services, Inc., no broker, finder or investment banker is entitled to any fee or
+commission in connection with the transactions contemplated hereby based upon
+arrangements made by or on behalf of Purchaser.
+
+                                    ARTICLE V
+
+                        CONDUCT AND TRANSACTIONS PRIOR TO
+                         CLOSING; COVENANTS; INDEMNITIES
+
+                  5.1      Investigations; Operation of the Business of the
+Company. Between the date of this Agreement and the Closing:
+
+                  (a)      (i) Upon receipt of reasonable notice, Seller and
+         Parent will give, or cause to be given, to Purchaser or Purchaser's
+         representatives and agents, reasonable access to the books, records and
+         officers of the Company and, to the extent that the same pertain to the
+         Company, the books and records of Seller and Parent, and Seller and
+
+                                       16
+<PAGE>
+
+         Parent will cause the officers and employees of Seller and Parent and
+         of the Company to furnish to Purchaser upon reasonable prior notice
+         such financial data and other information with respect to the assets
+         and the conduct of the business of the Company as Purchaser shall from
+         time to time reasonably request; provided, however, that any such
+         investigation shall be conducted during normal business hours and in
+         such manner so as not to interfere unreasonably with the operation of
+         the business of Seller, Parent or the Company.
+
+                  (ii)     Until the Closing Date, Purchaser shall hold any
+         Confidential Information in confidence unless and until such time as
+         such information otherwise becomes publicly available, and, in the
+         event of the termination of this Agreement, upon request by Seller,
+         shall deliver to Seller all such Confidential Information so obtained
+         by Purchaser; provided, however, that notwithstanding anything to the
+         contrary contained in this Agreement, the parties hereto (and each
+         employee, representative, or other agent of the parties) may disclose
+         to any and all persons, without limitation of any kind, the Tax
+         treatment and any facts that may be relevant to the Tax structure of
+         the transaction, beginning on the earliest of (i) the date of the
+         public announcement of discussions relating to the transaction, (ii)
+         the date of public announcement of the transaction, or (iii) the date
+         of the execution of this Agreement (with or without conditions) to
+         enter into the transaction, provided, however, that neither party (nor
+         any employee, representative or other agent thereof) may disclose any
+         information that is not necessary to understanding the Tax treatment
+         and any facts that may be relevant to the Tax structure of the
+         transaction (including the identity of the parties and any information
+         that could lead another to determine the identity of the parties), or
+         any other information to the extent that such disclosure could result
+         in a violation of any federal or state securities law.
+
+                  (iii)    Notwithstanding any other provision of this
+         Agreement, the covenants of Purchaser set forth in this Section 5.1(a)
+         shall survive the cancellation, abandonment or termination of this
+         Agreement.
+
+                  (b)      Each of Seller, Parent and Purchaser agrees that it
+will promptly make or cause to be made any filing or submission required to be
+made by it or on its behalf or on behalf of the Company with the Delaware
+Commissioner and with the insurance department or similar regulatory authority
+of any other jurisdiction asserting regulatory authority over the transactions
+contemplated by this Agreement.
+
+                  (c)      Seller, Parent and Purchaser shall cooperate in using
+all reasonable efforts to cause the conditions to the Closing hereunder to be
+satisfied as soon as practicable including, without limitation, obtaining the
+consents, approvals and authorizations necessary for the Closing. For purposes
+of this Agreement, the covenant of the parties to use their "reasonable best
+efforts" shall not require any party to incur any unreasonable expenses.
+
+                  (d)      Except as otherwise provided for by the terms of this
+Agreement, without the prior written consent of Purchaser, Seller and Parent
+will not permit the Company to: (i) issue or sell, or commit to issue or sell,
+any shares of its capital stock; (ii) grant or commit to grant any options,
+warrants or rights to subscribe for, purchase, or otherwise acquire any shares
+of its capital stock; (iii) issue or commit to issue any securities convertible
+into or exchangeable for
+
+                                       17
+<PAGE>
+
+shares of its capital stock; (iv) either declare, set aside, pay or commit to
+pay any dividend or other distribution with respect to its capital stock or
+transfer any asset for any other purpose; (v) directly or indirectly redeem,
+purchase or otherwise acquire or dispose of, or commit to acquire or dispose of,
+any shares of its capital stock; (vi) effect a split, modification or
+reclassification of its capital stock or a recapitalization of the Company;
+(vii) change the Certificate of Incorporation or By-laws of the Company; (viii)
+make, or agree to make, any borrowings or any guarantee, or agree to guarantee,
+the borrowings of any other Person; (ix) enter into or become party to any
+contract or commitment other than the Assignment and the Commutation Agreement;
+(x) write any new insurance or reinsurance business or engage in any business
+except as may be specifically contemplated in this Agreement; (xi) take any
+action that would cause the Company to incur any liability whatsoever not fully
+indemnified hereby or that would have the effect of impairing the value of the
+assets or the validity of any Insurance Permit; (xii) enter into any new
+employment, severance or consulting contracts or otherwise hire any new
+employees; (xiii) subject any of its Properties or assets to any Liens or
+Restrictions; or (xiv) except as set forth herein, take any action not in the
+ordinary course of the Company's business or which would be inconsistent with
+delivering to Purchaser a corporation as otherwise contemplated in this
+Agreement. Further, after preparation and delivery of the Closing Date Statement
+of Assets and the Closing Date Balance Sheet, without the prior written consent
+of Purchaser, Seller and Parent shall not, nor shall Seller or Parent permit the
+Company to, take any action which would cause or require any changes to the
+information set forth in the Closing Date Statement of Assets or the Closing
+Date Balance Sheet, or which would cause the sale or disposition of any assets
+reflected in the Closing Date Statement of Assets.
+
+                  (e)      Except as specifically consented to in writing by
+Purchaser, Seller and Parent shall not, and shall not permit the Company to,
+take any action or omit to take action that would result in a breach of any
+representation or warranty of Seller or Parent contained in this Agreement.
+
+                  (f)      Except as otherwise contemplated by this Agreement or
+specifically consented to in writing by Purchaser, from the date of this
+Agreement through the Closing Date, Seller and Parent shall cause the Company to
+(i) conduct its business only in the ordinary course consistent with past and
+current practices, (ii) comply in all material respects with all applicable
+laws, (iii) preserve and maintain in full force and effect the Insurance Permits
+and (iv) perform in all material respects its obligations under all contracts
+and commitments to which it is a party or by which it is bound.
+
+                  (g)      Purchaser covenants to use reasonable efforts to file
+as promptly as practicable the Statement Regarding the Acquisition of Control of
+or the Merger with a Domestic Insurer (Form A) with the Delaware Commissioner.
+
+                  5.2      Pending or Threatened Litigation or Action. Between
+the date of this Agreement and the Closing Date, Seller and Parent, on the one
+hand, and Purchaser, on the other hand, shall each inform the other, promptly
+upon any party's obtaining knowledge thereof, of any pending or threatened
+litigation or action by any regulatory authority which could reasonably be
+anticipated (i) to prohibit or restrain or impair the consummation of the
+transactions contemplated by this Agreement or the performance by Seller, Parent
+or Purchaser of their respective obligations under this Agreement, (ii) to have
+a Material Adverse Effect or (iii) to
+
+                                       18
+<PAGE>
+
+have the effect of impairing the value of the assets to be transferred at the
+Closing or the validity of any Insurance Permit.
+
+                  5.3      Tax Audits; Tax Returns.
+
+                  (a)      Seller shall file or cause to be filed when due all
+Tax Returns that are required to be filed for any Pre-Closing Period by or with
+respect to the Company and Seller shall remit (or cause to be remitted) any
+Taxes due in respect of such Tax Returns. All such Tax Returns will be prepared
+in a manner consistent with the past practice of Seller and the Company.
+
+                  (b)      Purchaser shall file or cause to be filed when due
+all Tax Returns that are required to be filed for any Post-Closing Period or any
+Straddle Period by or with respect to the Company and, subject to Section 5.4(a)
+hereof, Purchaser shall remit (or cause to be remitted) any Taxes due in respect
+of such Tax Returns.
+
+                  (c)      Purchaser shall cause the Company to prepare in a
+manner consistent with past practice of the Company and to deliver to Seller all
+relevant Tax information relating to the Company reasonably required to permit
+Seller to file or cause to be filed when due all Tax Returns required to be
+filed or caused to be filed by Seller pursuant to Section 5.3(a) of this
+Agreement.
+
+                  (d)      Purchaser and the Company will provide Seller (and
+its attorneys, accountants and agents) with the right, at reasonable times, upon
+reasonable notice, to have access to, copy and use, any records or information
+that are reasonably available to the Company and that Seller deems in its
+reasonable discretion relevant for the preparation of any Tax Returns, any audit
+or other examination by any Taxing Authority, the filing of any claim for a
+refund of Tax or for the allowance of any Tax credit, or any judicial or
+administrative proceedings relating to liability for Taxes of the Company for
+taxable periods ending on or prior to the Closing Date. Purchaser shall be
+reimbursed by Seller or Parent for all reasonable out-of-pocket expenses
+incurred by Purchaser in connection with providing such information. Any
+information obtained pursuant to this Section 5.3(d) shall be held in strict
+confidence and shall be used solely in connection with the reason for which it
+was requested.
+
+                  (e)      In the case of any income or premium Tax Return for
+any Straddle Period, Purchaser shall provide Seller with copies of the completed
+Tax Return for such taxable period and a schedule apportioning the Tax shown on
+such Tax Return as between Seller and Purchaser and specifying the amount due to
+or from Seller (all computed in accordance with Section 5.4(a) hereof), together
+with such related work papers and other documents as Seller shall reasonably
+request, no later than forty-five (45) days before the due date for the filing
+of such Tax Return. Seller and its authorized representatives shall have the
+right to review the Tax Return and schedule received from Purchaser pursuant to
+the terms of this Section 5.3(e). Seller and Purchaser agree to consult each
+other and resolve in good faith any issues arising under the terms of this
+Section 5.3(e) as a result of the review of any such Tax Return and schedule
+received from Purchaser and the amount of Tax, if any, due from Seller shall be
+paid by Seller to Purchaser no later than two (2) days prior to the date of
+filing of such Tax Return or the amount
+
+                                       19
+<PAGE>
+
+of Tax due, if any, from Purchaser to Seller shall be paid by Purchaser to
+Seller no later than three (3) days after the date of filing of such Tax Return.
+
+                  (f)      Seller shall cause any Tax sharing agreement or
+similar arrangement with respect to Taxes involving the Company, on the one
+hand, and Seller, or any Affiliates of Seller, on the other hand, to be
+terminated effective as of the Closing Date, so that to the extent any such
+agreement or arrangement relates to the Company after the Closing Date, none of
+the Company, Seller, nor its Affiliates shall have any obligation thereunder to
+the other, whether to make payment or otherwise, under any such agreement or
+arrangement for any past, present or future period.
+
+                  (g)      Except as otherwise expressly contemplated by this
+Agreement, from the date hereof to and including the Closing Date, Seller,
+without the prior written consent of Purchaser will not permit the Company to
+directly or indirectly (i) make, change or revoke, or permit to be made, changed
+or revoked, any election or method of accounting, with respect to Taxes
+affecting the Company for Post-Closing Tax Periods, (ii) enter into, or permit
+to be entered into, any closing or other agreement or settlement with respect to
+Taxes of the Company affecting or relating to Post-Closing Tax Periods, or (iii)
+enter into any transaction or series of transactions other than in the ordinary
+course of business, or take any position on any Tax Return for any taxable
+period (or portion thereof) ending on or prior to the Closing Date that would
+have the effect of increasing the Company's tax liability for any taxable period
+(or portion thereof) beginning after the Closing Date.
+
+                  (h)      If (i) Seller receives a written notice from any
+Taxing Authority proposing an audit or other examination of a Tax Return of the
+Company for any Pre-Closing Period or (ii) a claim is made or threatened in
+writing by any Taxing Authority that, if successful, may result in an indemnity
+payment under Section 5.4(a) hereof (each a "Tax Claim"), Purchaser shall
+promptly notify Seller in writing stating the nature and basis of such Tax
+Claim, and the amount thereof, to the extent known. Failure to give such notice
+shall not relieve Seller from any liability that it may have on account of this
+indemnification or otherwise, unless and to the extent that Seller is materially
+adversely prejudiced thereby. Seller will have the right, upon notification to
+Purchaser within thirty (30) days of the date Purchaser notified Seller of such
+Tax Claim, to assume at its own expense the control of any audit or other
+defense of any Tax Claim with its own counsel. If Seller elects not to control
+any audit or other defense of a Tax Claim, Purchaser shall have the authority to
+settle without Seller's consent such Tax Claim. Seller's right to control a Tax
+Claim will be limited to issues in respect of which amounts in dispute would be
+paid by Seller or for which Seller would be liable pursuant to Section 5.4(a)
+hereof. Purchaser shall cooperate in good faith with Seller in contesting any
+Tax Claim, which cooperation shall include providing records and information
+that are reasonably available to the Company and relevant to such Tax Claim. All
+reasonable out-of-pocket expenses of Purchaser related to such cooperation shall
+be borne by Seller. Notwithstanding the foregoing: (i) Seller shall not have the
+right to control any issue involved in a Tax Claim unless Seller first
+acknowledges in writing its obligation to fully indemnify Purchaser for the
+Taxes asserted in connection with such issue; (ii) no settlement or disposition
+of any Tax Claim shall be made without Purchaser's prior written consent (which
+consent shall not be unreasonably withheld); and (iii) Purchaser and Seller
+shall jointly control all proceedings involving any claims for Taxes
+
+                                       20
+<PAGE>
+
+assessed in respect of a Straddle Period, and each party shall bear its own
+out-of-pocket costs and expenses relating to such claims.
+
+                  (i)      Seller, Purchaser and the Company agree that for all
+income Tax purposes, the taxable period of the Company shall be terminated as of
+the close of business on the date of the Closing in accordance with Treasury
+Regulations Section 1.1502-76(b)(1) (other than transactions properly allocable
+thereunder to the portion of the day after the Closing shall occur) and items of
+income, gain, loss, deduction or credit shall be apportioned based upon a
+closing of the books for Tax purposes in accordance with Treasury Regulation
+Section 1.1502-76(b). No elections shall be made under either Treasury
+Regulation Section 1.1502-76(b)(2)(ii) (relating to ratable allocation of a
+year's items) or Treasury Regulation Section 1.1502-76(b)(2)(iii) (to ratably
+allocate the items for the month which includes the Closing Date). Seller,
+Purchaser and the Company further agree to file all Tax Returns, handle the
+contest of any audit and otherwise act for all Tax purposes consistent with the
+provisions of this Section 5.3(i).
+
+                  5.4      Indemnifications, Assumptions of Liability and
+Related Matters.
+
+                  (a)      Subject to the provisions of Sections 5.4(e), (f) and
+(g) and 5.5(b) hereof, Parent and Seller, jointly and severally, shall pay and
+shall indemnify and hold harmless Purchaser, Transferee and the Company from:
+(i) all liability of the Company for Taxes (other than any Tax constituting a
+part of the 2004 Filing Fees) assessed in respect of, and all costs and expenses
+of Tax audits or the preparation of Tax Returns for, all Pre-Closing Periods,
+and the Seller's portion of any Straddle Period; (ii) all liability resulting by
+reason of the several liability of the Company pursuant to Treasury Regulation
+Section 1.1502-6 or any analogous state, local or foreign law or regulation or
+by reason of the Company having been a member of an affiliated, consolidated,
+combined or unitary group of which the Company was a member on or prior to the
+Closing Date; (iii) all liability of the Company in respect of Taxes of any
+other Person or entity pursuant to any agreement or contract, whether written or
+unwritten, entered into on or before the Closing Date, or as a transferor or
+successor, by contract or otherwise; and (iv) all liability arising as a result
+of a breach of the representations provided in Section 3.7 hereof, or the
+failure of Seller to perform its obligations pursuant to Section 5.3 or Section
+5.6 hereof. In the case of any Straddle Period, Parent and Seller shall be
+solely responsible for all Taxes (other than any Tax constituting a part of the
+2004 Filing Fees) of the Company (and that portion of the Company's costs for
+the preparation of each such Tax Return and Tax Audits) attributable to the
+portion of the period ending on, and that includes, the Closing Date, and
+Purchaser shall be solely responsible and shall indemnify Seller for all Taxes
+imposed on the income or operations of the Company and attributable to the
+portion of the period beginning after the Closing Date. For purposes of this
+Agreement, the portion of any Tax (other than any Tax constituting a part of the
+2004 Filing Fees) that is attributable to the portion of a Straddle Period up to
+and including the Closing Date shall be (i) in the case of a Tax that is not
+based on gross or net income, premiums, sales or gross receipts (including real
+property taxes), the total amount of such Tax for the period in question
+multiplied by a fraction, the numerator of which is the number of days in the
+Straddle Period through and including the Closing Date, and the denominator of
+which is the total number of days in such Straddle Period, and (ii) in the case
+of any Tax that is based on any of gross income, premiums, sales or gross
+receipts, the Tax that would be due with respect to the portion of the Straddle
+Period through and including the Closing Date, if such portion of the Straddle
+Period were a separate taxable period, except that exemptions, allowances,
+deductions,
+
+                                       21
+<PAGE>
+
+credits or graduated rates that are calculated or applied on an annual basis
+(such as the deduction for depreciation or capital allowances) shall be
+apportioned on the basis of the gross income, premiums, sales or gross receipts
+for each such period, or if not based upon such gross income, premiums, sales or
+gross receipts, then on a per diem basis.
+
+                  (b)      Subject to the provisions of Sections 5.4(e) and (g)
+hereof, from and after the Closing Date, Parent shall indemnify and hold
+harmless Purchaser, Transferee and the Company from and against any and all
+losses, claims, damages, liabilities, guaranty fund assessment or similar
+obligation, costs, expenses (together with reasonable attorneys' fees and all
+costs and expenses of enforcing such right of indemnification against Parent),
+Taxes and penalties, if any, arising out of or based upon the employment of any
+individual or entity or arising with respect to or out of any Employee Benefit
+Plan including, without limitation, any liability: (i) to the PBGC or any other
+person under Title IV of ERISA; (ii) with respect to a Multiemployer Plan under
+Title IV of ERISA; (iii) with respect to any notice and benefit continuation
+requirements of COBRA; (iv) with respect to any noncompliance with ERISA or any
+other applicable laws, or with the terms of the Employee Benefit Plan; (v) any
+excise tax imposed under Sections 4971 through 4980F of the Code; (vi) with
+respect to any failure to make any contribution to the Employee Benefit Plan;
+and (vii) with respect to any suit, proceeding or claim which is brought against
+the Company, its officers or directors, any Employee Benefit Plan or any
+fiduciary or former fiduciary of any Employee Benefit Plan; provided, however,
+that Parent's obligation to indemnify Purchaser, Transferee and the Company
+pursuant to the provisions of this Section 5.4(b) shall not apply to any loss,
+claim, damage, liability, guaranty fund assessment or similar obligation, cost
+or expense (together with reasonable attorneys' fees and all costs and expenses
+of enforcing such right of indemnification) which (A) relates to any individual
+or entity that was not employed by, and performed no services for, the Company
+prior to the Closing Date; (B) is based upon or arose out of an act taken by or
+omission by the Company, Transferee or Purchaser with respect to an event
+occurring after the Closing Date which event has no connection, directly or
+indirectly, with any Employee Benefit Plan or employment arrangement for which
+the Company had (prior to the Closing Date), or a pre-Closing ERISA Affiliate
+had, an obligation or potential obligation; or (C) is based upon or arose out of
+any employee benefit plan which was not maintained by the Company or a
+pre-Closing ERISA Affiliate prior to the Closing Date, or with respect to which
+neither the Company nor any pre-Closing ERISA Affiliate had any obligations
+which arose before the Closing Date. Purchaser shall indemnify and hold harmless
+Seller to the same extent as Parent's indemnity of Purchaser set forth in this
+Section 5.4(b) with respect to the matters described in clauses (A), (B) and (C)
+of this proviso.
+
+                  (c)      Subject to the provisions of Sections 5.4(e), (f) and
+(g) and 5.5(b) hereof, from and after the Closing Date, Parent shall indemnify
+and hold harmless Purchaser, Transferee and the Company and their respective
+directors, officers and employees (collectively, the "Purchaser Indemnitees")
+from and against any and all losses, claims, damages, liabilities, guaranty fund
+assessments or similar obligations, costs, expenses (including reasonable
+attorneys' fees and all costs and expenses of enforcing such right of
+indemnification against Parent) and penalties, if any (collectively, the
+"Purchaser Losses"), arising out of, based upon or with respect to: (i) any
+breach of or failure by Seller, Parent or any of their respective Affiliates to
+perform or comply with any of the covenants, agreements or undertakings to be
+performed or complied with by any of them under the Company Reinsurance
+Agreements, the Parent
+
+                                       22
+<PAGE>
+
+Reinsurance Agreement, the Assignment or the Commutation Agreement; (ii) any
+breach of or failure by Seller, Parent or any of their respective Affiliates to
+perform or comply with any of the covenants, agreements or undertakings to be
+performed or complied with by any of them under this Agreement; (iii) any breach
+of any representation or warranty made by Seller or Parent in this Agreement or
+in any certificate, instrument or other documentation delivered pursuant hereto;
+and (iv) any liability of the Company (whether known or unknown at the time of
+execution of this Agreement) based on or arising out of any act, omission or
+event occurring prior to the Closing.
+
+                  (d)      Subject to the provisions of Sections 5.4(e), (f) and
+(g) hereof, from and after the Closing Date, Purchaser shall indemnify and hold
+harmless Parent and Seller and their respective directors, officers and
+employees (collectively, the "Seller Indemnitees") from and against any and all
+losses, claims, damages, liabilities, guaranty fund assessments or similar
+obligations, costs, expenses (including reasonable attorneys' fees and all costs
+and expenses of enforcing such right of indemnification against Purchaser) and
+penalties, if any (collectively, the "Seller Losses"), arising out of, based
+upon or with respect to: (i) any breach of or failure by Purchaser to perform or
+comply with any of the covenants, agreements or undertakings to be performed or
+complied with by Purchaser under this Agreement; (ii) any breach of any
+representation or warranty made by Purchaser in this Agreement; (iii) any
+liability of the Company (other than any liability for which Parent is obligated
+to indemnify Purchaser, Transferee and the Company under this Section 5.4) based
+on or arising out of any act, omission or event occurring after the Closing; and
+(iv) all liability of the Company for Taxes assessed in respect of all taxable
+periods beginning after the Closing Date.
+
+                  (e)      For the purposes of administering the indemnification
+provisions of this Section 5.4 (except for any Tax Claim subject to Section
+5.3(h) hereof), the following procedures shall apply from and after the Closing
+Date:
+
+                  (i)      An indemnified party shall notify the Indemnitor of
+         any Indemnification Event reasonably promptly following (A) the receipt
+         of notice by the indemnified party of the commencement of any action or
+         proceeding, (B) such indemnified party becoming aware of the assertion
+         of any claim against such indemnified party, or (C) the discovery by
+         such indemnified party of any loss giving rise to indemnity pursuant to
+         this Section 5.4. Such notification shall indicate whether such
+         indemnified party is requesting indemnification with respect to such
+         Indemnification Event and the amount of indemnification initially
+         anticipated. The failure to notify the Indemnitor of any
+         Indemnification Event shall not relieve the Indemnitor of its indemnity
+         obligation, unless and to the extent that the Indemnitor is materially
+         and actually prejudiced thereby.
+
+                  (ii)     After notification is given as required by Section
+         5.4(e)(i) of this Agreement, the Indemnitor shall be entitled (but is
+         not obligated) to assume the defense or settlement of any such action
+         or proceeding, or to participate in any negotiations or proceedings to
+         settle or otherwise eliminate any claim. Any indemnified party is
+         hereby authorized prior to the date on which it receives written notice
+         from the Indemnitor that the Indemnitor intends to assume the defense,
+         settlement or other disposition of such action or proceeding, to file
+         any motion, answer or other pleading and to take such other
+
+                                       23
+<PAGE>
+
+         action which the indemnified party shall reasonably deem necessary to
+         protect its interest or that of the Indemnitor until the date on which
+         the indemnified party receives such notice from the Indemnitor,
+         provided that, prior to filing such motion, answer or other pleading or
+         taking such other action, the indemnified party shall have made
+         reasonable efforts to consult with the Indemnitor. If the Indemnitor
+         fails to confirm in writing within one month of the date of the
+         notification referred to above that the Indemnitor will assume the
+         defense, the indemnified party may engage counsel to defend, settle or
+         otherwise dispose of such action or proceeding, and in such event the
+         indemnified party shall pursue the defense or settlement of any such
+         action or proceeding in good faith and the Indemnitor shall remain
+         liable and responsible for all losses in connection therewith,
+         including the indemnified party's costs, attorneys' fees and expenses,
+         all as and when incurred by such indemnified party.
+
+                  (iii)    In cases where the Indemnitor has assumed the defense
+         or settlement with respect to an Indemnification Event, the Indemnitor
+         shall be entitled to assume such defense or settlement with counsel of
+         its own choosing, provided that (except with respect to Tax audits
+         subject to the provisions of Section 5.3(h) of this Agreement): (A) the
+         indemnified party (and its counsel) shall be entitled to continue to
+         participate at its own cost in any such action or proceeding or in any
+         negotiations or proceedings to settle or otherwise eliminate any claim
+         for which indemnification is being sought (it being understood that the
+         Indemnitor shall be entitled to make all final determinations with
+         respect to the defense or (subject to clause (B) hereof) settlement of
+         such action, proceeding or claim); and (B) unless the settlement of an
+         action, proceeding or claim involves only the payment of dollar damages
+         (all of which are to be paid by the Indemnitor), the Indemnitor shall
+         not be entitled to settle, compromise, decline to appeal, or otherwise
+         dispose of any such action, proceeding or claim without the consent or
+         agreement of the indemnified party (which consent will not be
+         unreasonably withheld or delayed).
+
+                  (iv)     In any case where an Indemnitor shall have assumed
+         the defense or settlement of any action, proceeding or claim and the
+         indemnified party is entitled to continue to participate in such
+         action, proceeding or claim, and shall have elected to do so, it shall
+         do so at its own expense. In no event shall an Indemnitor be liable to
+         any indemnified party for the cost of employing or using in-house legal
+         counsel regardless of whether such Indemnitor has, or has not, assumed
+         the defense or settlement of such action, proceeding or claim.
+
+                  (v)      In the event indemnification is requested, the
+         Indemnitor, its representatives and agents shall have reasonable access
+         to the books, records and other Documents of the indemnified party or
+         parties seeking such indemnification to the extent reasonably requested
+         by the Indemnitor in connection with the Indemnitor's defense or
+         settlement of any action, proceeding or claim; provided, however, that
+         such access shall be provided upon reasonable prior notice, during
+         normal business hours and in such manner as not to interfere
+         unreasonably with the operation of the business of the indemnified
+         party or parties and shall only take place in the presence of a
+         representative of the indemnified party or parties unless otherwise so
+         agreed; and provided, further, that the indemnified party shall not be
+         required to disclose any information with respect to
+
+                                       24
+<PAGE>
+
+         itself or any of its Affiliates (or former Affiliates), other than the
+         Company, and shall not be required to participate in the defense of any
+         action, proceeding or claim to be indemnified under this Agreement
+         (except as otherwise expressly set forth in this Agreement), unless
+         such disclosure or participation is required or reasonably necessary in
+         the defense of any action, proceeding or claim to be indemnified under
+         this Agreement, in which case the indemnified party shall be fully
+         reimbursed for the reasonable costs of such participation.
+
+                  (vi)     From the date of this Agreement, each party agrees
+         that, except as provided below, it shall retain all Documents with
+         respect to all material matters pertaining to the Company (except to
+         the extent that such Documents in the possession of Seller at the
+         Closing and relating to the Company may be transferred at the Closing
+         to the possession of Purchaser or the Company). Before disposing of or
+         otherwise destroying any such Documents, the possessor thereof shall
+         give reasonable notice to such effect and deliver to the other party,
+         at the other party's expense and upon its request, a copy of any such
+         Documents. In addition, each party to this Agreement agrees to use its
+         best efforts to cause its employees (and in the case of Purchaser, the
+         employees of the Company) to cooperate with and assist the other party
+         in connection with any claim, action or proceeding for which indemnity
+         is sought under this Agreement or with respect to which either party
+         has elected to participate in the defense.
+
+                  (vii)    Following payment by an indemnified party of any
+         amount for which it is entitled to indemnity, the indemnified party may
+         demand in writing that the Indemnitor reimburse the indemnified party
+         for such payment. Such written demand shall set forth the basis and
+         amount of such payment in reasonable detail and include a copy of any
+         supporting invoice, demand(s) against which payment(s) were made and
+         all supporting documentation. If reimbursement is not made by the
+         Indemnitor within 30 calendar days of receipt by the Indemnitor of such
+         demand for which the parties agree the Indemnitor is liable, interest
+         shall thereafter accrue and be payable on the amount to which the
+         indemnified party is entitled at a rate equal to 6% per annum until
+         paid; provided however, if the Indemnitor disputes the amount demanded
+         or the basis for indemnification or disputes that the party seeking
+         indemnification is entitled thereto, and fails to pay all amounts due
+         within 30 days after a final determination is made in favor of the
+         indemnified party, interest shall be payable from and after the 31st
+         day after such final determination at a rate equal to 10% per annum. If
+         an amount paid by the Indemnitor pursuant to this Section 5.4 is
+         finally determined not to have been due from the Indemnitor, the
+         indemnified party shall return the amount so paid together with
+         interest at a rate of 6% per annum from the date payment was made by
+         the Indemnitor until the 30th day after such final determination, and
+         at a rate of 10% per annum thereafter, until the date such payment is
+         received by the Indemnitor.
+
+                  (f)      (i)     Notwithstanding anything in this Agreement to
+         the contrary, for purposes of the indemnification provisions set forth
+         in this Article V, all Material Adverse Effect, materiality and
+         correlative qualifications included in any of the representations and
+         warranties contained in this Agreement shall be disregarded (including
+         for purposes of determining whether a breach has occurred and for
+         purposes of
+
+                                       25
+<PAGE>
+
+
+         determining the amount of Purchaser Losses or Seller Losses, as the
+         case may be, associated with a breach).
+
+                  (ii)     Subject to Section 5.4(f)(iii) below, Parent shall
+         not be required to make any indemnification payment pursuant to Section
+         5.4(c)(iii) for any breach of any of the representations or warranties
+         made by Seller or Parent until such time as the total amount of the
+         Purchaser Losses (including the Purchaser Losses arising from such
+         breach and all other Purchaser Losses arising from any other breaches
+         of the same representation or warranty or any other representation or
+         warranty) that have been suffered or incurred by the Purchaser
+         Indemnitees exceeds $50,000 in the aggregate. At such time as the total
+         amount of such Purchaser Losses exceeds $50,000 in the aggregate, the
+         Purchaser Indemnitees shall be entitled to be indemnified against the
+         full amount of such Purchaser Losses (and not merely the portion of
+         such Purchaser Losses exceeding $50,000).
+
+                  (iii)    The limitation on Parent's indemnification
+         obligations that is set forth in Section 5.4(f)(ii) above shall not
+         apply to any breach of any of the representation and warranties set
+         forth in Section 3.3 (Capital Stock of the Company), Section 3.4
+         (Interests in Securities of the Company), Section 3.7 (Tax Returns and
+         Reports), Section 3.12 (Form of Capital and Surplus), Section 3.15
+         (Employee Matters) and Section 3.18 (Brokers and Finders).
+
+                  (iv)     Subject to Section 5.4(f)(v) below, Purchaser shall
+         not be required to make any indemnification payment pursuant to Section
+         5.4(d)(ii) for any breach of any of the representations or warranties
+         made by Purchaser until such time as the total amount of the Seller
+         Losses (including the Seller Losses arising from such breach and all
+         other Seller Losses arising from any other breaches of the same
+         representation or warranty or any other representation or warranty)
+         that have been suffered or incurred by the Seller Indemnitees exceeds
+         $50,000 in the aggregate. At such time as the total amount of such
+         Seller Losses exceeds $50,000 in the aggregate, the Seller Indemnitees
+         shall be entitled to be indemnified against the full amount of such
+         Seller Losses (and not merely the portion of such Seller Losses
+         exceeding $50,000).
+
+                  (v)      The limitation on Purchaser's indemnification
+         obligations that is set forth in Section 5.4(f)(iv) above shall not
+         apply to any breach of the representations and warranties set forth in
+         Section 4.6 (Brokers and Finders).
+
+                  (g)      All representations, warranties and covenants,
+including without limitation any indemnity obligations, of the parties hereto
+which are contained in this Agreement, together with the certificates delivered
+pursuant hereto, shall survive the Closing and remain operative and in full
+force and effect, regardless of any investigation heretofore or hereafter made
+by or on behalf of the parties hereto, except that the representations and
+warranties set forth in Section 3.7 shall survive the Closing and remain in full
+force and effect only until thirty (30) days following the expiration of the
+applicable statutes of limitation.
+
+                                       26
+<PAGE>
+
+                  5.5      Closing Date Statement of Assets and Closing Date
+Balance Sheet.
+
+                  (a)      Seller and Purchaser shall cooperate in the
+preparation of the Closing Date Statement of Assets. The Closing Date Statement
+of Assets shall be prepared as of the close of business on the business day
+immediately prior to the Closing Date and shall set forth the value of all
+tangible assets of the Company (other than deferred Tax assets). Assets included
+on the Closing Date Statement of Assets shall be valued as follows: (i) cash and
+cash equivalents shall be valued at face value and (ii) investment securities
+traded in a recognized public market shall be valued at their closing composite
+price as reported by Bloomberg LP or, if such values are not reported by
+Bloomberg LP, for the preceding business day as reported by the Wall Street
+Journal (if there is no closing price, then the average bid and asked prices
+shall be used); provided, however, that if the investment security is quoted
+only on a yield or discount rate basis, then such security shall be valued at
+the price calculated in accordance with generally accepted financial practice
+for the mean of the quoted bid and asked yield or rate. Seller shall prepare the
+Closing Date Balance Sheet reflecting the Closing Date Shareholder's Equity
+based upon the Closing Date Statement of Assets, and shall deliver the Closing
+Date Statement of Assets and the Closing Date Balance Sheet reflecting the
+Closing Date Shareholder's Equity to Purchaser no later than 6:00 p.m. on the
+business day immediately prior to the Closing Date.
+
+                  (b)      The parties agree that Filing Fees for the year
+ending December 31, 2004 ("2004 Filing Fees") shall be allocated between the
+Seller and Purchaser in accordance with this Section 5.5(b) and that such
+allocation shall be binding on the parties for purposes of calculating the
+Purchase Price regardless of the actual amount of the 2004 Filing Fees and
+regardless of when such 2004 Filing Fees are actually paid. First, the parties
+hereto stipulate and agree that the total amount used to calculate 2004 Filing
+Fees for purposes of this Section 5.5(b) shall be the aggregate amount of 2003
+Filing fees as shown on Schedule 3.8(b). Next, it is agreed that one-fourth of
+such Filing Fee shall be chargeable to the Seller and three-fourths of such
+Filing Fees shall be chargeable to the Purchaser as follows: From the amount
+equal to one-fourth of the 2004 Filing Fees shall be deducted all amounts
+actually paid by the Company prior to the Closing Date. If the resulting balance
+is less than zero, such negative balance shall considered a prepaid expense and
+shall be shown as an asset on the Closing Date Balance Sheet. If the resulting
+balance is positive, such amount shall be shown as an accrued unpaid expense on
+the Closing Date Balance Sheet. No other accrued unpaid or prepaid expense shall
+be shown on the Closing Date Balance Sheet for 2004 Filing Fees. The foregoing
+adjustments shall constitute complete settlement and discharge amount the
+parties with respect to the 2004 Filing Fees and the indemnification obligation
+set forth in Section 5.4 shall not apply with regard to any 2004 Filing Fees,
+provided, nothing in this Section 5.5(b) shall relieve Seller from any
+obligation as otherwise set froth in this Agreement resulting from a breach of
+the representations and warranties set forth in Section 3.8(b).
+
+                  5.6      Transfer Taxes. Seller shall cause all appropriate
+stock transfer Tax stamps to be affixed to the certificate or certificates
+representing the Stock. Seller, the Company and Purchaser shall cooperate in the
+preparation, execution and filing of all returns, applications or other
+documents regarding any real property transfer, transfer gains or other similar
+transfer Taxes that become payable in connection with the sale of the Stock
+(other than the stock transfer taxes mentioned above) pursuant to this Agreement
+(collectively, "Transfer Taxes"). Any Transfer Taxes shown as due on such
+returns shall be borne equally by Seller and Purchaser.
+
+                                       27
+<PAGE>
+
+                  5.7      Conduct of Business by Purchaser. Purchaser covenants
+that it shall not, and it shall not permit the Company to, take any action that
+would cause the Company to incur any liability whatsoever until the day
+following the Closing Date including, without limitation, the commencement of
+operations by the Company, the hiring of employees or insurance agents for the
+Company, the writing of any insurance business by the Company or engaging in any
+reinsurance or other business by the Company, amending or modifying any
+governing document of the Company or the taking of any other action whatsoever
+which obligates the Company to act or omit to act.
+
+                  5.8      Change of Name. As promptly as practicable after the
+Closing, the Company shall change its name so that the Company does not have the
+word "Aegis" in its name, and the Company shall cease using the word "Aegis" in
+any of its business dealings.
+
+                  5.9      Disclosure of Confidential Information. Seller shall
+not, and shall cause its Affiliates and its and their respective officers and
+directors not to, disclose any Confidential Information after the date hereof to
+any third party, unless compelled to disclose by judicial or administrative
+process or, in the opinion of its counsel, by other requirements of law. It is
+acknowledged and agreed that unauthorized use of any Confidential Information
+would cause irreparable injury constituting the proper subject of injunctive
+relief and specific performance, in addition to providing Purchaser an action
+for damages.
+
+                  5.10     Compliance with Delaware Insurance Laws. During the
+period from the date hereof to the Closing Date, Seller shall, or shall cause
+the Company to, comply with all of the requirements of Delaware insurance laws.
+
+                  5.11     Notification of Changes.
+
+                  (a)      Seller and/or Parent, as the case may be, shall,
+after the first notice or occurrence thereof but not later than the Closing
+Date, promptly notify Purchaser in writing of any event or the existence of any
+state of facts that would (i) make any of its representations and warranties in
+this Agreement untrue or (ii) reasonably be likely to constitute a Material
+Adverse Effect.
+
+                  (b)      Purchaser shall, after the first notice or occurrence
+thereof but not later than the Closing Date, promptly notify Seller in writing
+of any event or the existence of any state of facts that would (i) make any of
+its representations and warranties in this Agreement untrue or (ii) materially
+impair the ability of Purchaser to execute, deliver and perform its obligations
+under this Agreement.
+
+                  5.12     Acquisition Proposals. From the date hereof through
+the Closing Date, neither Seller nor Parent shall, nor shall Seller or Parent
+permit any of their respective Affiliates or any of the officers, directors,
+employees, representative or agents of Seller, Parent or any of such Affiliates,
+directly or indirectly, to solicit, initiate or participate in any way in
+discussions or negotiations with, or provide any information or assistance to,
+or enter into any agreement with, any person or group of persons (other than
+Purchaser) concerning any acquisition of a substantial equity interest in, or in
+a merger, consolidation, liquidation, dissolution, or disposition of assets of
+the Company, or any disposition of any of the securities of the Company (other
+than sales of
+
+                                       28
+<PAGE>
+
+investment securities in its investment portfolio with the prior written consent
+of Purchaser) (each, an "Acquisition Proposal"), or assist or participate in,
+facilitate or encourage any effort or attempt by any other person to do or seek
+to do any of the foregoing. Seller and/or Parent, as the case may be, shall
+promptly communicate to Purchaser the terms of any Acquisition Proposal which it
+or any such other person may receive.
+
+                  5.13     Assignment. On or prior to the Closing Date, Parent
+shall, and shall cause the Company to, execute and deliver the Assignment.
+
+                  5.14     Commutation Agreement. On or prior to the Closing
+Date, Parent shall, and shall cause the Company to, execute and deliver the
+Commutation Agreement.
+
+                  5.15     Payment of Brokers' or Finders' Fees. At the Closing,
+(i) Purchaser will pay the finder's fee due to Merger & Acquisition Services,
+Inc., and (ii) Seller will reimburse Purchaser for one-half of the finder's fee
+payable to Merger & Acquisition Services, Inc.; provided, however, that the
+amount of such reimbursement payment by Seller shall not exceed $50,000.
+
+                  5.16     Preparation of Statutory Financial Statements. With
+respect to any period ending on or prior to the Closing Date for which Statutory
+Financial Statements are required to be filed, Seller shall prepare, on a basis
+consistent with past practices, all Statutory Financial Statements of the
+Company, and Seller shall promptly provide to Purchaser, at least fifteen (15)
+business days prior to the due date, including any extensions, for the filing
+thereof, such Statutory Financial Statements together with such other
+information reasonably relevant to such Statutory Financial Statements,
+including schedules and work papers. Following receipt of any Statutory
+Financial Statements prepared by Seller, Purchaser shall promptly notify Seller
+if it disputes any of the information contained in such Statutory Financial
+Statements. The parties shall cooperate to promptly resolve any such dispute.
+During a transitional period not to exceed six months following the Closing
+Date, Seller shall provide Purchaser with such assistance in the preparation of
+Statutory Financial Statements of the Company as may reasonably be requested by
+Purchaser or the Company.
+
+                                   ARTICLE VI
+
+              CONDITIONS TO CLOSING; ABANDONMENT OF THE TRANSACTION
+
+                  6.1      Conditions to the Obligations of Purchaser. Except to
+the extent waived by Purchaser in writing, the obligations of Purchaser to
+consummate the transactions contemplated herein and to purchase the Stock shall
+be subject to the satisfaction of each of the following conditions:
+
+                  (a)      The representations and warranties made by each of
+Seller and Parent contained in this Agreement shall be true and correct in all
+material respects at and as of the Closing, as if and to the same effect as
+though made at and as of the Closing Date. Each of Seller and Parent shall have
+performed all of its obligations and complied in all material respects with all
+covenants and conditions required by this Agreement to be performed or complied
+with by it at or prior to the Closing. Each of Seller and Parent shall have
+delivered to Purchaser a
+
+                                       29
+<PAGE>
+
+certificate, in form and substance satisfactory to Purchaser, dated the date of
+the Closing and signed on its behalf by its Chairman, a Vice Chairman, its
+President, Vice President, Controller or Treasurer, in his or her respective
+representative capacity, and not individually, to all such effects and
+certifying to the satisfaction of the conditions to be performed by Seller,
+Parent, or the Company (prior to the Closing) set forth in this Section 6.1.
+
+                  (b)      No action or proceeding shall have been instituted
+and remain pending before a court or other governmental body (foreign or
+domestic) to restrain, prohibit or otherwise challenge the transactions
+contemplated by this Agreement, the sale of the Stock to Purchaser or the
+performance of the material obligations of the parties to this Agreement; nor
+shall any governmental agency or body have notified any party to this Agreement
+or the Company that the consummation of the transactions contemplated by this
+Agreement would constitute a violation of the laws of the United States (or in
+the case of Parent, the laws of Bermuda) or the laws of the State of Delaware to
+which Purchaser or the Company is subject and that it intends to commence
+proceedings to restrain consummation of such transactions, to force divestiture
+if such transactions are consummated or to materially modify the terms or the
+results of such transactions, unless such agency or body shall have withdrawn
+such notice prior to the Closing Date.
+
+                  (c)      All authorizations, consents and approvals of the
+Delaware Commissioner required to be obtained in order to permit the
+consummation by Seller of the transactions contemplated by this Agreement shall
+have been obtained.
+
+                  (d)      Parent and the Company shall have entered into the
+Assignment, a fully executed original of which shall have been delivered to
+Purchaser.
+
+                  (e)      Parent and the Company shall have entered into the
+Commutation Agreement, a fully executed original of which shall have been
+delivered to Purchaser.
+
+                  (f)      Purchaser shall have received from LeBoeuf, Lamb,
+Greene & MacRae, LLP, an opinion addressed to Purchaser dated the Closing Date
+and substantially in the form attached as Exhibit B hereto. In addition,
+Purchaser shall have received from Appleby Spurling & Kempe an opinion addressed
+to Purchaser dated the Closing Date as to matters of Bermuda law with regard to
+Parent and substantially in the from of Exhibit C hereto. Purchaser shall also
+have received an opinion of in-house counsel to Seller dated the Closing Date,
+in form and substance reasonably satisfactory to Purchaser, as to matters of
+corporate laws of the State of Delaware with regard to Seller and as to matters
+of corporate and insurance laws of the State of Delaware with regard to the
+Company, which opinion shall be to the effect that:
+
+                  (i)      Each of Seller and the Company is duly organized,
+         validly existing and in good standing under the laws of its respective
+         jurisdiction;
+
+                  (ii)     the Company is duly qualified as a foreign
+         corporation and is in good standing in each jurisdiction set forth in
+         Schedule 3.1(b), except as noted in such Schedule;
+
+                                       30
+<PAGE>
+
+                  (iii)    the authorized capital stock of the Company consists
+         of 10,000,000 shares of common stock, $1.00 par value per share,
+         3,500,000 shares of which have been duly authorized and validly issued
+         and are outstanding and are fully paid and non-assessable;
+
+                  (iv)     to the knowledge of such counsel after due inquiry,
+         except for this Agreement, the Company is not a party to or bound by
+         any outstanding convertible or exchangeable securities or any option,
+         warrant or other document granting the right to subscribe for or
+         purchase from Seller or the Company, or any plans, contracts or
+         commitments providing for the issuance of, or granting of rights to
+         acquire, any capital stock or other ownership interests in the Company,
+         including the Stock, or any securities convertible into or exchangeable
+         for any such capital stock or ownership interests in the Company;
+
+                  (v)      all of the Stock is owned of record and, to the
+         knowledge of such counsel after due inquiry, beneficially by Seller,
+         and upon the transfer of the Stock to Purchaser pursuant to the terms
+         hereof, Purchaser will be vested with good and valid title thereto,
+         free and clear of all liens, claims and encumbrances, assuming that
+         Purchaser acquires the Stock without notice of any adverse claim;
+
+                  (vi)     (A) Seller has all requisite corporate power and
+         authority to execute, deliver and perform its obligations under this
+         Agreement, (B) all action required on the part of Seller to authorize
+         the execution, delivery and performance of this Agreement has been
+         taken, and (C) Seller has the power to perform its obligations
+         hereunder;
+
+                  (vii)    (A) the Company has all requisite corporate power and
+         authority to execute, deliver and perform its obligations under the
+         Assignment and the Commutation Agreement, (B) all actions required on
+         the part of the Company to authorize the execution, delivery, and
+         performance of the Assignment and of the Commutation Agreement have
+         been taken, and (C) the Company has the power to perform its
+         obligations thereunder;
+
+                  (viii)   this Agreement has been duly executed and delivered
+         by Seller and constitutes the valid and binding obligation of Seller,
+         enforceable against Seller in accordance with its terms, subject to the
+         Bankruptcy Exception;
+
+                  (ix)     each of the Assignment and the Commutation Agreement
+         has been duly executed and delivered by the Company and constitutes the
+         valid and binding obligation of the Company, enforceable against the
+         Company in accordance with its terms, subject to the Bankruptcy
+         Exception;
+
+                  (x)      the Commutation Agreement fully extinguishes all
+         liabilities and obligations of the Company pursuant to the Company
+         Reinsurance Agreements and the Parent Reinsurance Agreement;
+
+                  (xi)     there are no actions, suits or administrative,
+         arbitration or other proceedings pending or, to the knowledge of such
+         counsel, threatened, against or affecting Seller or the Company at law
+         or in equity, or before or by any federal, state, or
+
+                                       31
+<PAGE>
+
+         other government department, commission, court, board, bureau, agency
+         or instrumentality;
+
+                  (xii)    to the best knowledge of counsel, all authorizations,
+         consents and approvals of all governmental agencies and authorities of
+         the United States, of any state or any local jurisdiction required in
+         order to permit consummation by Seller of the transactions contemplated
+         by this Agreement have been obtained;
+
+                  (xiii)   neither the execution and delivery by Seller of this
+         Agreement, nor the execution and delivery of the Assignment and the
+         Commutation Agreement by the Company, nor the compliance by any of them
+         with the terms and provisions hereof and thereof will (x) conflict
+         with, or result in a breach of, any of the terms, conditions or
+         provisions of: (A) the articles of incorporation or by-laws (or
+         comparable organizational documents) of Seller or the Company, (B) any
+         statute, law, regulation, and, to the best knowledge of such counsel,
+         any judgment, order, injunction, decree or ruling of any Governmental
+         Entity to which Seller or the Company is subject, or (C) any agreement,
+         contract or commitment to which Seller or the Company is a party or is
+         subject, except in the case of clauses (B) and (C) only, for such
+         conflicts or breaches that (1) would not have a Material Adverse
+         Effect, (2) would not materially impair the ability of Seller to
+         execute, deliver or perform its obligations under this Agreement, (3)
+         would not materially impair the ability of the Company to execute,
+         deliver and perform its obligations under the Assignment or the
+         Commutation Agreement, and (4) would not impair the validity of any
+         Insurance Permit or (y) result in the creation or imposition of any
+         Lien or Restriction on any of the Properties or assets of the Company;
+         and
+
+                  (xiv)    such counsel is not aware of any facts (other than
+         the pending change in control of the Company or the current limited
+         business activity of the Company) that could result in the Insurance
+         Permits listed on Schedule 3.1(b) not to be in full force and effect.
+
+In rendering such opinion, such counsel may rely, to the extent such counsel
+deems such reliance necessary or appropriate: (A) upon opinions of local counsel
+as to matters of law other than that of the federal laws of the United States
+(provided such local counsel's opinions are received from counsel reasonably
+satisfactory to Purchaser and its counsel and are addressed to Purchaser) and
+(B) as to matters of fact, upon certificates of state officials and of any
+officer or officers of Seller or the Company, provided in all such cases that
+the extent of any such reliance is specified in such opinion.
+
+                  (g)      Purchaser shall have received copies of all Insurance
+Permits identified on Schedule 3.1(b), certified by Seller as being in full
+force and effect.
+
+                  (h)      At the Closing, Seller shall deliver to Purchaser
+resignations of all officers and directors of the Company, effective upon the
+Closing.
+
+                  (i)      Purchaser shall have received fully executed
+originals of the Company Agreements, or copies thereof certified by Seller.
+
+                  (j)      All contracts listed on Schedule 3.14(a) shall have
+been terminated.
+
+                                       32
+<PAGE>
+
+                  (k)      Purchaser shall have received a certificate of Seller
+satisfying the requirements of Treasury Regulation Section 1.1445-2(b)(2).
+
+                  6.2      Conditions to the Obligations of Parent and Seller.
+Except to the extent waived by Parent and Seller in writing, the obligations of
+Parent and Seller to consummate the transactions contemplated herein and to sell
+the Stock shall be subject to the satisfaction of each of the following
+conditions:
+
+                  (a)      The representations and warranties of Purchaser
+contained in this Agreement shall be true and correct in all material respects
+at and as of the Closing, as if and to the same effect as though made at and as
+of the Closing Date. Purchaser shall have performed all of its obligations and
+complied in all material respects with all covenants and conditions required by
+this Agreement to be performed or complied with by it at or prior to the
+Closing. Purchaser shall have delivered to Seller certificates of Purchaser, in
+form and substance satisfactory to Seller, dated the date of the Closing and
+signed on behalf of Purchaser by its President or a Vice President in his or her
+respective representative capacity, and not individually, to all such effects
+and certifying to the satisfaction of the conditions to be performed by
+Purchaser set forth in this Section 6.2.
+
+                  (b)      No action or proceeding shall have been instituted
+and remain pending before a court or other governmental body (domestic or
+foreign) to restrain, prohibit or otherwise challenge the transactions
+contemplated by this Agreement, the sale of the Stock by Seller or the
+performance of the material obligations of the parties to this Agreement; nor
+shall any governmental agency or body have notified either party to this
+Agreement or the Company that the consummation of the transactions contemplated
+by this Agreement would constitute a violation of the laws of the United States
+(or, in the case of Parent, the laws of Bermuda) or the laws of the State of
+Delaware to which Seller or the Company is subject and that it intends to
+commence proceedings to restrain the consummation of such transactions, to force
+divestiture if such transactions are consummated, or to materially modify the
+terms or the results of such transactions, unless such agency or body shall have
+withdrawn such notice prior to the Closing Date.
+
+                  (c)      All authorizations, consents and approvals of the
+Delaware Commissioner required to be obtained in order to permit the
+consummation of the transactions contemplated by this Agreement shall have been
+obtained.
+
+                  (d)      Seller shall have received from counsel(s) to
+Purchaser, which counsel shall be reasonably satisfactory to Seller and Parent,
+one or more opinions, dated the date of the Closing, in form and substance
+reasonably satisfactory to Seller and Parent, which opinions shall address the
+laws of the State of Delaware and taken together shall be to the effect that:
+
+                  (i)      Purchaser is a limited liability company duly
+         organized, validly existing and in good standing under the laws of the
+         State of Delaware;
+
+                  (ii)     all action required on the part of Purchaser to
+         authorize the execution, delivery and performance of this Agreement by
+         Purchaser has been taken, and Purchaser has the power to perform its
+         obligations hereunder; and
+
+                                       33
+<PAGE>
+
+                  (iii)    this Agreement has been duly executed and delivered
+         by Purchaser and constitutes the valid and binding obligation of
+         Purchaser, enforceable against Purchaser in accordance with its terms,
+         subject to the Bankruptcy Exception.
+
+In rendering such opinions such counsel may rely, to the extent such counsel
+deems such reliance necessary or appropriate: (A) upon opinions of local counsel
+as to matters of law other than that of the federal laws of the United States
+(provided such local counsel's opinions are received from counsel reasonably
+satisfactory to Seller and Parent and to counsel to Seller and Parent and are
+addressed to Seller and Parent); and (B) as to matters of fact, upon
+certificates of state officials and of any officer or officers of Purchaser,
+provided in all such cases the extent of any such reliance is specified in such
+opinion.
+
+                  (e)      At the Closing, Purchaser shall elect successor
+directors for resigning directors of the Company, and such successor directors
+shall elect successor officers of the Company.
+
+                  6.3      Termination of Agreement and Abandonment of
+Transactions. Notwithstanding anything in this Agreement to the contrary, this
+Agreement and the transactions contemplated hereby may be terminated in any of
+the following ways at any time before the Closing and in no other manner:
+
+                  (a)      By mutual written consent of Parent, Seller and
+Purchaser executed on behalf of each by its respective president, any vice
+president, or chief financial officer;
+
+                  (b)      By Purchaser, if the conditions set forth in Section
+6.1 shall not have been met on or before April 30, 2004; or
+
+                  (c)      By Parent and Seller, if the conditions set forth in
+Section 6.2 shall not have been met on or before April 30, 2004.
+
+                  In the event of termination of this Agreement pursuant hereto,
+no party hereto shall have any liability or obligation to any other party hereto
+in respect of this Agreement, except that the provisions of Section 5.1(a)(ii),
+Article VII and Section 8.3 shall survive any such termination, and except that
+nothing herein shall relieve any party from liability for any breach of any of
+its covenants or agreements or willful breach of its representations and
+warranties contained in this Agreement prior to termination of this Agreement or
+any obligations hereunder.
+
+                                  ARTICLE VII
+
+                      TERMINATION OF OBLIGATIONS AND WAIVER
+                       OF CONDITIONS; PAYMENT OF EXPENSES
+
+                  In the event that this Agreement shall be terminated pursuant
+to Section 6.3(a) of this Agreement, all further obligations of the parties
+under this Agreement shall terminate without further liability of either Parent
+and Seller, on the one hand, or Purchaser, on the other hand, to the other, and
+each party will pay all of its own costs and expenses incident to the
+negotiation and preparation of this Agreement and to its performance of, and
+compliance with,
+
+                                       34
+<PAGE>
+
+all agreements and conditions contained in this Agreement on its part to be
+performed or complied with, including the fees, expenses and disbursements of
+counsel, provided that the obligations of the parties under Section 8.3 and the
+obligations of Purchaser under Section 5.1(a)(ii) shall survive any such
+termination. Termination of this Agreement pursuant to Section 6.3(b) or Section
+6.3(c) shall be without prejudice to the rights and remedies available to each
+of Parent and Seller, on the one hand, or Purchaser, on the other hand, under
+applicable law, including the right to recover all expenses, costs and other
+damages, but no party shall be entitled to incidental or consequential damages
+including loss of anticipated profits. If any of the conditions specified in
+Section 6.1 have not been satisfied, Purchaser may, nevertheless, at its
+election waive such conditions in writing and proceed with the transactions
+contemplated by this Agreement. If any of the conditions specified in Section
+6.2 have not been satisfied, Parent and Seller may, nevertheless, at their
+election waive such conditions in writing and proceed with the transactions
+contemplated by this Agreement. In the event that the transactions contemplated
+by this Agreement are consummated, each party will pay all of its own costs and
+expenses in connection therewith.
+
+                                  ARTICLE VIII
+
+                                     GENERAL
+
+                  8.1      Amendment and Waiver. This Agreement may not be
+amended, modified or supplemented except upon execution and delivery of a
+written agreement executed by the parties hereto. Any of the terms, covenants,
+representations, warranties or conditions hereof may be waived in writing at any
+time by or on behalf of the party which is entitled to the benefits thereof. Any
+waiver of any of the provisions of this Agreement by any party hereto shall be
+binding only if set forth in an instrument in writing signed on behalf of such
+party. No failure to enforce any provision of this Agreement shall be deemed to
+or shall constitute a waiver of such provision, and no waiver of any of the
+provisions of this Agreement shall be deemed to or shall constitute a waiver of
+any other provision hereof (whether or not similar) nor shall such waiver
+constitute a continuing waiver.
+
+                  8.2      Integrated Contract. This Agreement and the Schedules
+and Exhibits to this Agreement (which constitute part of this Agreement) and the
+other documents and writings referred to herein or delivered pursuant hereto
+(including, without limitation, the Company Agreements, the Assignment and the
+Commutation Agreement) contain the entire understanding of the parties with
+respect to the subject matter hereof and thereof and supersede all prior
+agreements and understandings, both written and oral, between the parties with
+respect to the subject matter hereof and thereof. This Agreement shall be
+binding upon and shall inure to the benefit of the parties hereto and their
+respective successors and permitted assigns.
+
+                  8.3      Publicity. From the date hereof until the Closing
+Date, the parties will consult with each other and will mutually agree by
+written consent upon any publication or press release of any nature with respect
+to this Agreement or the transactions contemplated hereby (such agreement not to
+be unreasonably withheld) and shall not issue any such publication or press
+release prior to such consultation and agreement, except as may be required by
+applicable law or by obligations pursuant to any listing agreement with any
+securities exchange or any securities exchange regulation, in which case the
+party proposing to issue such publication or
+
+                                       35
+<PAGE>
+
+press release shall use reasonable efforts to consult in good faith with the
+other party before issuing any such publication or press release.
+
+                  8.4      Governing Law. This Agreement and the legal relations
+between the parties shall be governed by and construed in accordance with the
+laws of the State of New York, without regard to the principles regarding the
+choice of law.
+
+                  8.5      Jurisdiction. (a) The parties hereto hereby consent
+and agree that they shall commence any action with respect to any claims or
+disputes between or among the parties hereto pertaining to this Agreement, the
+Company Agreements, the Assignment or the Commutation Agreement or to any matter
+arising out of or related to such agreements in the United States District Court
+for the Southern District of New York, so long as the action falls within the
+subject matter jurisdiction of such court; in the event any such action shall be
+determined by the court to be outside its subject matter jurisdiction, then the
+parties agree to commence any such action in the state courts of New York
+located in New York County. The parties hereto expressly submit and consent in
+advance to such jurisdiction in any action or suit commenced in any such court,
+and hereby waive any objection which it may have based upon lack of personal
+jurisdiction, improper venue or forum non conveniens and hereby consent to the
+granting for such legal or equitable relief as is deemed appropriate by such
+court. Each party hereto irrevocably consents to the service of process by
+registered or certified mail, postage prepaid, to it at its address given
+pursuant to Section 8.6 hereof. Subject to the foregoing, nothing in this
+Agreement shall be deemed or operate to affect the right of Purchaser, Seller or
+Parent to serve legal process in any other manner permitted by law, or to
+preclude the enforcement by Purchaser, Seller or Parent of any judgment or order
+obtained in the forum specified in this subsection or the taking of any action
+under this Agreement, the Company Agreements, the Assignment or the Commutation
+Agreement to enforce the same in any other appropriate forum or jurisdiction.
+
+                  (b)      To the extent that Purchaser, Seller or Parent has or
+may hereafter acquire any immunity from the jurisdiction of any court or from
+any legal process (whether through service or notice, attachment prior to
+judgment, attachment in aid of execution, execution or otherwise) with respect
+to such party or such party's property, Purchaser, Seller and Parent hereby
+irrevocably waive such immunity in respect of their respective obligations under
+this Agreement, the Company Agreements, the Assignment and the Commutation
+Agreement.
+
+                  8.6      Notices. All notices, requests, claims, demands and
+other communications required or permitted under this Agreement shall be in
+writing and sufficiently given, upon receipt or three days after deposit in the
+United States mail (registered or certified, postage prepaid, return receipt
+requested) or by telex, facsimile or other written form of electronic
+communication, to the respective parties as follows:
+
+                                       36
+<PAGE>
+
+                  If to Parent, to:
+
+                  Associated Electric & Gas Insurance Services Limited
+                  c/o AEGIS Insurance Services, Inc.
+                  10 Exchange Place
+                  13th Floor
+                  Jersey City, New Jersey  07302
+                  Attn:  Mary Ellen Lenahan, Esq.
+                  Facsimile:  (201) 521-9548
+
+                  with a copy to:
+
+                  LeBoeuf, Lamb, Greene & MacRae, LLP
+                  125 W. 55th Street
+                  New York, New York 10019
+                  Attn:  John S. Pruitt, Esq.
+                  Facsimile:  (212) 424-8500
+
+                  If to Seller, to:
+
+                  Aegis Holding Inc.
+                  c/o AEGIS Insurance Services, Inc.
+                  10 Exchange Place, 13th Floor
+                  Jersey City, New Jersey 07302
+                  Attn:  Mary Ellen Lenahan, Esq.
+                  Facsimile:  (201) 521-9548
+
+                  with a copy to:
+
+                  LeBoeuf, Lamb, Greene & MacRae, LLP
+                  125 W. 55th Street
+                  New York, New York 10019
+                  Attn:  John S. Pruitt, Esq.
+                  Facsimile:  (212) 424-8500
+
+                  If to Purchaser, to:
+
+                  Alleghany Insurance Holdings LLC
+                  375 Park Avenue
+                  New York, New York  10152
+                  Attn:  Robert M. Hart, Esq.
+                  Facsimile:  (212) 759-3295
+
+                                       37
+<PAGE>
+
+                  with a copy to:
+
+                  Dewey Ballantine LLP
+                  1301 Avenue of the Americas
+                  New York, New York  10019
+                  Attn:  Aileen C. Meehan, Esq.
+                  Facsimile:  (212) 259-6333
+
+or to such other address or person as either party hereto may, from time to
+time, designate in a written notice given in like manner (except that a notice
+of change of address shall not be deemed to have been given until received by
+the addressee).
+
+                  8.7      No Assignment. Neither this Agreement nor any rights,
+interests or obligations hereunder may be assigned by any party hereto without
+the prior written consent of all other parties party hereto; provided, however,
+that Purchaser may assign its rights, interests and obligations hereunder to a
+wholly or majority owned subsidiary of Purchaser without the prior written
+consent of Seller or Parent. Any permitted assignment by Purchaser (including
+any assignment permitted by the proviso to the preceding sentence) shall not
+release Purchaser from its obligations and responsibilities hereunder.
+
+                  8.8      Headings. The headings contained in this Agreement
+are for reference only and shall not affect in any way the meaning or
+interpretation of this Agreement.
+
+                  8.9      Counterparts. This Agreement may be executed in one
+or more counterparts, all of which shall be considered one and the same
+agreement and each of which shall be deemed an original.
+
+                  8.10     Severability. Any provision of this Agreement which
+is invalid, illegal or unenforceable in any jurisdiction shall, as to that
+jurisdiction, be ineffective to the extent of such invalidity, illegality or
+unenforceability, without affecting in any way the remaining provisions hereof
+in such jurisdiction or rendering that or any other provision of this Agreement
+invalid, illegal or unenforceable in any other jurisdiction.
+
+                  8.11     Third Parties. Nothing herein expressed or implied is
+intended or shall be construed to confer upon or give to any Person, other than
+the parties hereto, any rights or remedies under or by reason of this Agreement,
+except as provided in Section 5.4 hereof.
+
+                  8.12     Further Assurances. Each of Seller and Parent, on the
+one hand, and Purchaser, on the other hand, will, whenever and as often as
+reasonably requested to do so by the other party or its successors, do any and
+all such other and further acts, and execute, acknowledge and deliver any and
+all such other and further assignments, transfers and instruments of further
+assurances, approvals and consents as are necessary or proper in order to
+complete, ensure and perfect the transactions contemplated by this Agreement.
+
+                                       38
+<PAGE>
+
+                  IN WITNESS WHEREOF, each of the parties hereto has caused this
+Agreement to be executed on its behalf by its officers or representatives
+thereunto duly authorized, all as of the day and year first above written.
+
+
+                                    (Purchaser) ALLEGHANY INSURANCE HOLDINGS LLC
+
+
+                                                By: /s/ James P. Slattery
+                                                    ----------------------------
+                                                Name:  James P. Slattery
+                                                Title: President
+
+
+                                    (Seller)    AEGIS HOLDING INC.
+
+                                                By: /s/ John J. Denman Jr.
+                                                    ----------------------------
+                                                Name:  John J. Denman Jr.
+                                                Title: Controller
+
+                                    (Parent)    ASSOCIATED ELECTRIC & GAS
+                                                INSURANCE SERVICES LIMITED
+
+
+                                                By: /s/ John J. Denman Jr.
+                                                -------------------------------
+                                                Name:  John J. Denman Jr.
+                                                Title: Controller and Treasurer
+
+                                       39
+
+</TEXT>
+</DOCUMENT>

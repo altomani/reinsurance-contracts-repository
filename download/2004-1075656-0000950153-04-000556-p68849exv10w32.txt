@@ -1,0 +1,2246 @@
+<DOCUMENT>
+<TYPE>EX-10.32
+<SEQUENCE>3
+<FILENAME>p68849exv10w32.txt
+<DESCRIPTION>EX-10.32
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.32
+
+
+                            ASSET PURCHASE AGREEMENT
+
+                                  BY AND AMONG
+
+                             INVISION WIRELESS, LLC
+
+                                       AND
+
+                             INVISION SOFTWARE INC.
+
+                              TOGETHER AS "SELLER"
+
+                                       AND
+
+                           MOBILITY ELECTRONICS, INC.
+
+                                   AS "BUYER"
+
+
+
+
+                                   Dated as of
+
+                                November 14, 2003
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                           PAGE
+<S>                                                                        <C>
+ARTICLE I DEFINITIONS........................................................1
+
+
+ARTICLE II PURCHASE AND SALE OF ASSETS.......................................1
+
+
+ARTICLE III CLOSING..........................................................1
+
+
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF SELLER..........................1
+
+
+ARTICLE V REPRESENTATIONS AND WARRANTIES OF BUYER............................1
+
+
+ARTICLE VI COVENANTS OF SELLER AND BUYER.....................................1
+
+
+ARTICLE VII CONDITIONS PRECEDENT.............................................1
+
+
+ARTICLE VIII CONDUCT OF SELLER AND BUYER PENDING THE CLOSING.................1
+
+
+ARTICLE IX ACTIONS BY SELLER AND BUYER AFTER THE CLOSING.....................1
+
+
+ARTICLE X TERMINATION........................................................1
+
+
+ARTICLE XI MISCELLANEOUS.....................................................1
+</TABLE>
+
+
+                                       i
+<PAGE>
+
+
+                                    EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit
+<S>         <C>
+    A       Form of Bill of Sale
+
+    B       Form of Assignment of Contract Rights
+
+    C       Form of Assumption of Contract Rights
+
+    D       Consulting Agreement with Joseph Spiteri
+
+    E       Employment Agreement with Herbert Feinstein
+</TABLE>
+
+
+                                    SCHEDULES
+
+
+Schedule 1.17           Equipment
+Schedule 1.18.12        Other Excluded Assets
+Schedule 2.4.1.3        Non-Symbol Branded Cradles
+Schedule 4.1            Ownership
+Schedule 4.3            Changes
+Schedule 4.5.2          Assumed Contracts
+Schedule 4.6            Permits and Consents
+Schedule 4.8            Financial Statements and Non-GAAP Items
+Schedule 4.10           Litigation
+Schedule 4.15           Intellectual Property Assets
+Schedule 4.17           Customers
+Schedule 4.18           Warranties
+Schedule 4.19           Liabilities
+
+
+<PAGE>
+
+
+                            ASSET PURCHASE AGREEMENT
+
+      This Asset Purchase Agreement ("Agreement"), dated as of November 14,
+2003, is by and among Mobility Electronics, Inc., a Delaware corporation
+("Buyer") and InVision Wireless, LLC, a New York limited liability company,
+("InVision Wireless") and InVision Software Inc. a New York corporation
+("InVision Software," and together with InVision Wireless, collectively referred
+to herein as "Seller").
+
+                                    RECITALS
+
+      A. Seller owns certain assets which it uses in its conduct of the Business
+(as defined below).
+
+      B. Buyer desires to purchase from Seller, and Seller desires to sell to
+Buyer, such assets as more specifically identified below and in Schedules
+attached hereto, upon the terms and subject to the conditions of this Agreement.
+
+                                    AGREEMENT
+
+      NOW THEREFORE, in consideration of the mutual covenants and promises
+contained herein and for other good and valuable consideration, the receipt and
+adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+      1.1 Defined Terms. As used herein, the terms below shall have the
+following meanings. Any of such terms, unless the context otherwise requires,
+may be used in the singular or plural, depending upon the reference.
+
+      1.2 "Affiliate" shall have the meaning set forth in the Securities
+Exchange Act of 1934, as amended, and the rules and regulations thereunder.
+
+      1.3 "Ancillary Agreements" shall mean the Bill of Sale, Assignment of
+Contract Rights, and Assumption of Contract Rights between Buyer and Seller, and
+the Consulting Agreement between Joseph Spiteri and Buyer, and the Employment
+Agreement between Herbert Feinstein and Buyer, executed as of the Closing Date.
+
+      1.4 "Assets" shall mean all of the right, title and interest of Seller in
+and to the business, properties, assets and rights of any kind, whether tangible
+or intangible, and constituting, or used or useful in connection with, or
+related to, the Business, including without limitation all of Seller's right,
+title and interest in the following (but not including, in any case, the
+Excluded Assets):
+
+            1.4.1 all rights of Seller under the Assumed Contracts listed on
+Schedule 4.5.2;
+
+            1.4.2 all Equipment related to the Business;
+
+<PAGE>
+
+            1.4.3 all Books and Records related to the Business;
+
+            1.4.4 all Intellectual Property Assets related to the Business;
+
+            1.4.5 to the extent transferable, all Permits related to the
+Business;
+
+            1.4.6 all current software related to the Business;
+
+            1.4.7 all available sales literature, promotional literature,
+customer, supplier and distributor lists, display units and purchasing records
+related to the Business;
+
+            1.4.8 those rights under or pursuant to warranties, representations
+and guarantees made by suppliers and dealers in connection with the Assets or
+services furnished to Seller pertaining to the Business or affecting the Assets,
+to the extent such warranties, representations and guarantees (i) are not
+required by Seller to fulfill its obligations under this Agreement and (ii) are
+assignable; and
+
+            1.4.9 except as may relate to Excluded Assets, all claims, causes of
+action, choices in action, rights of recovery and rights of set-off of any kind,
+against any person or entity, including without limitation any liens, security
+interests, pledges or other rights to payment or to enforce payment in
+connection with products delivered by Seller in connection with the Business on
+or prior to the Closing Date.
+
+      1.5 "Balance Sheet" shall mean the balance sheet of InVision Wireless
+dated as of the date hereof, together with the notes thereon.
+
+      1.6 "Books and Records" shall mean (a) all records and lists of Seller
+pertaining to the Assets, (b) all records and lists which pertain to the
+Business, customers of the Business, suppliers of the Business, or personnel of
+Seller working in connection with the Business, (c) all product, business and
+marketing plans of Seller, and (d) all books, ledgers, trial balances, files,
+reports, plans, drawings and operating records of every kind maintained by
+Seller relating to the Assets, but excluding the originals of Seller's minute
+books, stock books, tax returns and accounting ledgers (provided that Buyer will
+be provided copies of tax returns and accounting records if it so requests).
+
+      1.7 "Business" shall mean Seller's hardware business, including, but not
+limited to, all direct and indirect sales of hardware to Symbol or to Symbol's
+customers.
+
+      1.8 "Cash Equivalents" shall mean (i) marketable direct obligations issued
+by the United States Government or any state or any political subdivision
+thereof maturing within one year from the date of acquisition thereof; (ii)
+commercial paper maturing no more than 270 days from the date of creation
+thereof; (iii) certificates of deposit or bankers' acceptances maturing within
+one year from the date of acquisition thereof; and (iv) investments in money
+market funds which invest substantially all their assets in securities of the
+types described in clauses (i) through (iii) above.
+
+      1.9 "Closing" or "Closing Date" shall mean December 1, 2003, or such other
+date as Buyer and Seller shall mutually agree upon.
+
+
+                                       2
+<PAGE>
+
+      1.10 "Closing Balance Sheet" shall mean the Balance Sheet of InVision
+Wireless dated as of the Closing Date.
+
+      1.11 "Closing Financial Statements" shall mean the Closing Balance Sheet
+and the income statement of InVision Wireless dated as of the Closing Date.
+
+      1.12 "Code" shall mean the Internal Revenue Code of 1986, as amended, and
+the rules and regulations thereunder.
+
+      1.13 "Consent" shall mean any consent, approval, authorization, waiver,
+permit, grant, franchise, concession, agreement, license, exemption or order of,
+registration, certificate, declaration or filing with, or report or notice to,
+any person or entity, including but not limited to any governmental authority.
+
+      1.14 "Contract" shall mean any agreement, contract, note, loan, evidence
+of indebtedness, purchase, order, letter of credit, franchise agreement,
+undertaking, covenant not to compete, employment agreement, license, instrument,
+obligation or commitment to which Seller is a party or is bound and which
+relates to the Business or the Assets, whether oral or written.
+
+      1.15 "Damages" shall mean any and all claims, damages, costs, losses
+(including without limitation diminution in value), Taxes, liabilities,
+judgments, penalties, fines, obligations, lawsuits, deficiencies, demands and
+expenses (whether or not arising out of third-party claims), including without
+limitation interest, penalties, costs of mitigation, losses in connection with
+any environmental law (including without limitation any clean-up or remedial
+action), lost profits and other losses resulting from any shutdown or
+curtailment of operations, damages to the environment, attorneys' fees, experts'
+fees and all amounts paid in investigation, defense or settlement of any of the
+foregoing.
+
+      1.16 "Encumbrance" shall mean any claim, lien, pledge, option, charge,
+easement, security interest, deed of trust, mortgage, right-of-way,
+encroachment, building or use restriction, conditional sales agreement,
+encumbrance or other right of third parties, whether voluntarily incurred or
+arising by operation of law, and includes, without limitation, any agreement to
+give any of the foregoing in the future, and any contingent sale or other title
+retention agreement or lease in the nature thereof.
+
+      1.17 "Equipment" shall mean the engineering and manufacturing equipment of
+Seller exclusively used to test or manufacture products produced in connection
+with the Business and all tools, supplies, equipment, machinery, signs and other
+tangible personal property owned by Seller and used in connection with the
+Business, including without limitation all items listed on Schedule 1.17 (but
+not including any Excluded Assets).
+
+      1.18 "Excluded Assets," notwithstanding any other provision of this
+Agreement, shall mean the following assets of Seller which are not to be
+acquired by Buyer hereunder:
+
+            1.18.1 all cash and Cash Equivalents held by Seller (including bank
+accounts);
+
+            1.18.2 Buyer's name, Website, email address, telephone and facsimile
+numbers currently used in the Business;
+
+
+                                       3
+<PAGE>
+
+            1.18.3 all accounts receivable listed on the Closing Balance Sheet;
+
+            1.18.4 prepayments or prepaid expenses (including all prepaid
+insurance premiums and prepaid taxes) of Seller;
+
+            1.18.5 all Permits, to the extent not transferable;
+
+            1.18.6 the Real Property;
+
+            1.18.7 all claims, causes of action, choices in action, rights of
+recovery and rights of set-off of any kind against any person or entity arising
+out of or relating to the Assets to the extent directly related to the Excluded
+Liabilities or to the Excluded Assets;
+
+            1.18.8 all Contracts other than the Assumed Contracts;
+
+            1.18.9 the Purchase Price received by Seller in connection with this
+Agreement;
+
+            1.18.10 all contract software work produced by Seller that is
+unrelated to the Business;
+
+            1.18.11 all Inventory relating to the Business;
+
+            1.18.12 certain other assets listed on Schedule 1.18.12.
+
+      1.19 "Facility" shall mean the offices, maintenance and storage
+facilities, warehouses, improvements, other structures, and all real property
+and related facilities which are used in the conduct of the Business, and which
+is located at 110 Lake Avenue South, Suite 35, Nesconset, New York 11767.
+
+      1.20 "Financial Statements" shall mean the Year-End Financial Statements,
+the Balance Sheet and the Closing Financial Statements.
+
+      1.21 "Intellectual Property" shall mean any and all United States and
+foreign: (a) patents (including reexaminations, design patents, industrial
+designs and utility models) and patent applications (including docketed patent
+disclosures awaiting filing, provisional applications, reissues, divisions,
+continuations, continuations-in-part and extensions), patent disclosures
+awaiting filing determination, inventions and improvements thereto; (b)
+trademarks, service marks, trade names, trade dress, logos, business and product
+names, slogans, and registrations and applications for registration thereof; (c)
+copyrights (including software) and registrations thereof; (d) inventions,
+processes, designs, formulae, trade secrets, know-how, industrial models,
+confidential and technical information, manufacturing, engineering and technical
+drawings, product specifications and confidential business information; (e) mask
+work and other rights and registrations thereof; (f) intellectual property
+rights similar to any of the foregoing; (g) copies and tangible embodiments
+thereof (in whatever form or medium, including electronic media).
+
+      1.22 "Inventory" shall mean all of Seller's finished goods, accessory
+goods and raw materials inventory, and all of Seller's new and/or usable repair
+or replacement parts, supplies,
+
+
+                                       4
+<PAGE>
+
+and packaging items and similar items with respect to the Business, in each
+case, wherever the same may be located.
+
+      1.23 "Material Adverse Effect" or "Material Adverse Change" shall mean
+with respect to the Business or the Assets any significant and substantial
+adverse effect or change in the condition (financial or other), business,
+results of operations, prospects, assets, liabilities or operations of the
+Business and/or the Assets or on the ability of Seller to consummate the
+transactions contemplated hereby, or any event or condition which would, with
+the passage of time, constitute a "Material Adverse Effect" or "Material Adverse
+Change.
+
+      1.24 "Mobility Shares" shall mean the Closing Shares and the Earnout
+Shares.
+
+      1.25 "Permits" shall mean all licenses, permits, franchises, approvals,
+authorizations, consents or orders of, or filings with, any governmental
+authority, whether foreign, federal, state or local, or any other person,
+necessary or desirable for the past, present or anticipated conduct of, or
+relating to the operation of, the Business.
+
+      1.26 "Real Property" shall mean all real property either owned, leased, or
+used by Seller which is used in the conduct of the Business, including without
+limitation all rights, easements and privileges appertaining or relating
+thereto, all buildings, fixtures, and improvements located thereon and all
+Facilities thereon, if any.
+
+      1.27 "Representative" shall mean any officer, director, principal,
+attorney, agent, employee or other representative.
+
+      1.28 "Symbol" shall mean Symbol Technologies, Inc., a Delaware
+corporation.
+
+      1.29 "Tax" shall mean any federal, state, local, foreign or other tax,
+levy, impost, fee, assessment, custom duty, or other government charge,
+including without limitation income, estimated income, business, occupation,
+franchise, property, payroll, personal property, sales, transfer, use,
+employment, commercial rent, occupancy, franchise or withholding taxes, and any
+premium, including without limitation interest, penalties and additions in
+connection therewith.
+
+      1.30 "Warranties" shall mean standard and customary warranties provided by
+Seller in connection with products sold by Seller in connection with the
+Business, as set forth on Schedule 4.18.
+
+      1.31 "Year-End Financial Statements" shall mean the balance sheets and
+income statements of InVision Wireless dated as of InVision Wireless' fiscal
+years ended 2001 and 2002.
+
+      1.32 Other Defined Terms. The following terms shall have the meanings
+defined for such terms in the Sections set forth below:
+
+<TABLE>
+<CAPTION>
+Term                                      Section
+----                                      -------
+<S>                                       <C>
+Actions                                   4.10
+Asset Acquisition Statements Under 1060   2.4.2
+</TABLE>
+
+
+                                       5
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+Term                                      Section
+----                                      -------
+<S>                                       <C>
+Assumed Contracts                         4.5.2
+Assumed Liabilities                       2.2
+Assumption of Contract Rights             3.2.2
+Claim                                     9.4.4
+Claim Notice                              9.4.4
+Closing Shares                            2.4.1.1
+Commission                                4.20.2
+Damages                                   9.4.7
+Earnout Period                            2.4.1.2
+Earnout Shares                            2.4.1.2
+Excluded Liabilities                      2.3
+Indemnifiable Events                      9.4.1
+Intellectual Property Assets              4.15.1
+InVision License                          6.1
+Net Revenue                               2.4.1.2
+Purchase Price                            2.4.1
+Quarterly Cash Payment                    2.4.1.3
+Securities Act                            4.20.2
+SEC Documents                             5.7
+Selling Expenses                          6.3.1.6
+Set-Off Notice                            9.4.5
+Software Programs                         6.1
+</TABLE>
+
+
+                                   ARTICLE II
+
+                           PURCHASE AND SALE OF ASSETS
+
+      2.1 Transfer of Assets. Upon the terms and subject to the conditions
+contained herein, at the Closing, Seller will sell, convey, transfer, assign and
+deliver to Buyer free and clear of any Encumbrance (other than Assumed
+Liabilities), and Buyer will acquire from Seller, the Assets.
+
+      2.2 Assumption of Liabilities. Upon the terms and subject to the
+conditions contained herein, at the Closing, Buyer shall assume and thereafter
+pay, perform or discharge, as the case may be, all obligations and liabilities
+accruing, arising out of, or relating to events or occurrences happening after
+the Closing Date under the Assumed Contracts listed on Schedule 4.5.2, but not
+including any obligation or liability for any breach of any Contract occurring
+on or prior to the Closing Date (the "Assumed Liabilities").
+
+      2.3 Excluded Liabilities. Notwithstanding any other provision of this
+Agreement, except for the Assumed Liabilities expressly specified in Section
+2.2, Buyer shall not assume, or otherwise be responsible for, any of Seller's
+liabilities or obligations, whether actual or contingent, matured or un-matured,
+liquidated or un-liquidated, known or unknown, or related or unrelated to the
+Business or the Assets, whether arising out of occurrences prior to, at or after
+the date hereof (collectively, "Excluded Liabilities"), which Excluded
+Liabilities include, without limitation:
+
+
+                                       6
+<PAGE>
+
+            2.3.1 any liability or obligation to or in respect of any employees
+or former employees of Seller including without limitation (i) any employment
+agreement, whether or not written, between Seller and any person, (ii) any
+liability under any employee plan at any time maintained, contributed to or
+required to be contributed to by or with respect to Seller or under which Seller
+may incur liability, or any contributions, benefits or liabilities therefor, or
+any liability with respect to Seller's withdrawal or partial withdrawal from or
+termination of any employee plan and (iii) any claim of an unfair labor
+practice, or any claim under any state unemployment compensation or worker's
+compensation law or regulation or under any federal or state employment
+discrimination law or regulation, which shall have been asserted on or prior to
+the Closing Date or is based on acts or omissions which occurred on or prior to
+the Closing Date;
+
+            2.3.2 any liability or obligation of Seller in respect of any Tax;
+
+            2.3.3 any liability arising from service and dealer work performed;
+
+            2.3.4 any liability arising from any injury to or death of any
+person or damage to or destruction of any property, whether based on negligence,
+breach of warranty, strict liability, enterprise liability or any other legal or
+equitable theory arising from defects in products sold or services performed by
+or on behalf of Seller or any other person or entity on or prior to the Closing
+Date, or arising from any other cause, including without limitation any
+liabilities arising (on a date of occurrence basis or otherwise) on or prior to
+the Closing Date relating to the use or misuse of Equipment;
+
+            2.3.5 any liability or obligation of Seller arising out of or
+related to any Action against Seller or any Action which adversely affects the
+Assets and which shall have been asserted on or prior to the Closing Date or to
+the extent the basis of which shall have arisen on or prior to the Closing Date;
+
+            2.3.6 any liability or obligation of Seller resulting from entering
+into, performing its obligations pursuant to or consummating the transactions
+contemplated by, this Agreement (including without limitation any liability or
+obligation of Seller pursuant to Article VIII hereof);
+
+            2.3.7 any liability or obligation related to the Facilities;
+
+            2.3.8 any liability or obligation arising out of any environmental
+law;
+
+            2.3.9 any liability or obligation arising under or related to any
+lease relating to the Real Property; and
+
+            2.3.10 any outstanding debt obligations of Seller.
+
+      2.4 Purchase Price.
+
+            2.4.1 Purchase Price. Upon the terms and subject to the conditions
+set forth herein, Buyer shall pay to InVision Wireless, in consideration for the
+Assets, the following (the "Purchase Price"):
+
+
+                                       7
+<PAGE>
+
+                  2.4.1.1 on the Closing Date, Buyer shall issue to InVision
+Wireless Seventy Thousand (70,000) shares of Mobility's common stock, $0.01 par
+value per share (the "Closing Shares");
+
+                  2.4.1.2 for a period of thirty-six months following the
+Closing Date, Buyer shall issue to InVision Wireless, up to a maximum aggregate
+of One Hundred and Fifty Thousand (150,000) shares of Mobility's common stock,
+$0.01 par value per share (the "Earnout Shares") at the rate of Fifteen Thousand
+(15,000) Earnout Shares for each $10 million in Net Revenue (as defined below)
+received by Buyer from Symbol during the first thirty-six (36) months after the
+Closing Date (the "Earnout Period"). "Net Revenue" shall mean gross revenue
+minus discounts from selling price and actual product returns as determined by
+Buyer in accordance with generally accepted accounting principles. The Earnout
+Shares will be issued to InVision Wireless within sixty (60) days after each
+such goal is achieved; and
+
+                  2.4.1.3 for a period of three (3) years following the Closing
+Date, Buyer will pay InVision Wireless a quarterly cash payment (the "Quarterly
+Cash Payment") equal to fifteen percent (15%) of the Net Revenue generated by
+Buyer from sales of non-Symbol branded cradles set forth on Schedule 2.4.1.3
+attached hereto , but not to exceed fifty percent (50%) of Buyer's gross margin
+on such products (all as determined by Buyer in accordance with generally
+accepted accounting principles). The Quarterly Cash Payment shall be paid to
+InVision Wireless within forty-five (45) days following the last day of each
+fiscal quarter of Buyer during such three (3) year period.
+
+            2.4.2 Allocation of Purchase Price. The Purchase Price shall be
+allocated among the Assets in the manner required by Section 1060 of the Code
+and regulations thereunder. Buyer and Seller agree to each prepare and file on a
+timely basis with the Internal Revenue Service substantially identical initial
+and supplemental Internal Revenue Service Forms 8594 "Asset Acquisition
+Statements Under Section 1060."
+
+      2.5 Personal Property Taxes. Seller's prorated share of the personal
+property taxes shall be payable notwithstanding the fact that such tax may
+become payable after the Closing Date. Accordingly, Seller will be responsible
+for paying its prorated share of the 2003 personal property taxes in amounts
+required by law when such taxes become due and payable.
+
+      2.6 Closing Costs; Transfer Taxes and Fees. Seller shall be responsible
+for paying (i) any documentary and transfer taxes and any sales, use or other
+taxes imposed by reason of the transfers of Assets provided hereunder and any
+deficiency, interest or penalty asserted with respect thereto and (ii) all costs
+of obtaining the transfer of existing Permits which may be lawfully transferred,
+(iii) all fees and costs of recording or filing all applicable conveyancing
+instruments described in Section 3.1, and (iv) all fees and costs of recording
+or filing all UCC termination statements and other releases of Encumbrances.
+
+      2.7 Risk of Loss. All risk of loss with respect to the Assets and Business
+of Seller on or before the Closing Date shall remain the sole risk of Seller.
+
+                                  ARTICLE III
+
+
+                                       8
+<PAGE>
+
+                                     CLOSING
+
+      3.1 Conveyances at Closing by Seller. To effect the sale and transfer
+referred to in Section 2.1 hereof and subject to satisfaction or waiver by
+Seller of the conditions set forth in Section 7.2 hereof, at Closing, Seller
+agrees to execute and deliver to Buyer, or file with such governmental
+authorities as may be appropriate:
+
+            3.1.1 one or more bills of sale, each in the form of Exhibit A
+attached hereto, conveying in the aggregate all of Seller's owned personal
+property included in the Assets, free and clear of all Encumbrances;
+
+            3.1.2 subject to Section 7.1.6, Assignments of Contract Rights, in
+the form of Exhibit B attached hereto, with respect to the Assumed Contracts;
+
+            3.1.3 assignments of Intellectual Property Assets, in recordable
+form to the extent necessary to assign such rights, each in a form acceptable to
+Buyer;
+
+            3.1.4 subject to Section 7.1.6, all Permits and any other third
+party consents required for the valid transfer of the Assets as contemplated by
+this Agreement;
+
+            3.1.5 the Closing Financial Statements;
+
+            3.1.6 the certificates and other documents described in Article VII
+hereof;
+
+            3.1.7 all documents necessary to release the Assets from all
+Encumbrances;
+
+            3.1.8 resolutions adopted by Seller's board of directors and, to the
+extent necessary, shareholders approving this Agreement, certified by the
+secretary of Seller;
+
+            3.1.9 a certificate from the Secretary of State of the State of New
+York as to Seller's good standing as of the date of the Closing; and
+
+            3.1.10 such other instruments as shall be reasonably requested by
+Buyer to vest in Buyer title in and to the Assets in accordance with the
+provisions hereof, all of which instruments including those specifically listed
+above shall be in form and substance acceptable to Seller and its counsel.
+
+      3.2 Conveyances at Closing by Buyer. To effect the assumption of
+liabilities referred to in Section 2.2 hereof and the payment obligations set
+forth in Section 2.4 hereof, subject to satisfaction or waiver by Buyer of the
+conditions set forth in Section 7.1 hereof, at Closing, Buyer agrees to execute
+and deliver to InVision Wireless, or file with such governmental authorities as
+may be appropriate:
+
+            3.2.1 the Closing Shares pursuant to Section 2.4.1.1 hereof;
+
+            3.2.2 an Assumption of Contract Rights, in the form attached hereto
+as Exhibit C (the "Assumption of Contract Rights"), with respect to the Assumed
+Contracts;
+
+
+                                       9
+<PAGE>
+
+            3.2.3 the certificates and other documents described in Article VII
+hereof;
+
+            3.2.4 a certificate from the Secretary of State of the State of
+Delaware as to Buyer's good standing as of the date of the Closing; and
+
+            3.2.5 such other instruments as shall be reasonably requested by
+Seller in accordance with the provisions hereof, all of which instruments
+including those specifically listed above shall be in the form and substance
+reasonably acceptable to Buyer and its counsel.
+
+                                   ARTICLE IV
+
+                    REPRESENTATIONS AND WARRANTIES OF SELLER
+
+      Each Seller hereby jointly and severally represents and warrants to Buyer
+as follows, which representations and warranties as of the dates of delivery of
+the respective Schedules and as of the Closing Date shall be true and correct:
+
+      4.1 Organization of Seller. InVision Wireless is a limited liability
+company duly organized, validly existing and in good standing under the laws of
+the State of New York. Copies of the Articles of Organization and Operating
+Agreement, and all amendments thereto, heretofore delivered to Buyer are
+accurate and complete as of the date hereof. InVision Software is a corporation
+duly organized, validly existing and in good standing under the laws of the
+State of New York. Copies of the Certificate of Incorporation and Bylaws of
+InVision Software, and all amendments thereto, heretofore delivered to Buyer are
+accurate and complete as of the date hereof. Other than as listed on Schedule
+4.1, Seller has no direct or indirect stock or other equity or ownership
+interest (whether controlling or not) in any corporation, association,
+partnership, joint venture or other entity which engages in a business
+substantially similar to the Business.
+
+      4.2 Authorization. Seller has all requisite corporate power and authority,
+and has taken all corporate action necessary, to own, lease and operate the
+Assets, to conduct the Business as it is presently being conducted, to execute
+and deliver this Agreement and each Ancillary Agreement to which it will be a
+party, to consummate the transactions contemplated hereby and to perform its
+obligations hereunder. This Agreement has been duly executed and delivered by
+Seller and is a legal, valid and binding obligation of Seller enforceable
+against it in accordance with its terms. Following their execution and delivery
+by Seller and the other parties thereto each of the Ancillary Agreements and
+other documents delivered by Seller at Closing will be a legal, valid and
+binding obligation of Seller, enforceable against it in accordance with their
+terms.
+
+      4.3 No Changes to the Assets. Other than as set forth on Schedule 4.3,
+since the date of the Balance Sheet:
+
+            4.3.1 there has been no actual or threatened adverse change in the
+financial condition or results of operation, the Business or the Assets or any
+event, condition or state of facts, in either case that is, or would result in a
+Material Adverse Change in the Assets or the Business or the prospects for the
+Business, including without limitation the loss of any material customers;
+
+
+                                       10
+<PAGE>
+
+            4.3.2 there has not been any sale or other disposition, except in
+the ordinary course of Seller's Business, of any of the assets of the Business,
+or any Encumbrance placed on the Assets;
+
+            4.3.3 Seller has operated the Business in the ordinary course
+consistent with Seller's past practice so as to preserve the Business intact,
+and to preserve the Business and the goodwill of Seller's suppliers, customers,
+distributors and others having business relations with it;
+
+            4.3.4 Seller has not changed its accounting methods or practices
+(including any change in depreciation or amortization policies or rates) or
+revalued any of its assets.
+
+      4.4 Assets. Seller has good and marketable fee simple title to the Assets
+and upon the consummation of the transactions contemplated hereby will transfer
+to Buyer good and marketable title to all of the Assets, free and clear of any
+Encumbrances, except for any Encumbrance that Buyer, in its sole discretion,
+specifically accepts in writing. The Assets constitute all assets necessary for
+the conduct of the Business as presently conducted.
+
+      4.5 Contracts and Commitments.
+
+            4.5.1 Contracts. Seller has heretofore provided to Buyer a complete
+and accurate list of all Contracts of the following categories:
+
+                  4.5.1.1 Contracts not made in the ordinary course of Seller's
+conduct of the Business;
+
+                  4.5.1.2 Licenses for Intellectual Property used in connection
+with the Business;
+
+                  4.5.1.3 Distribution, dealer, franchise, license, sales or
+commission contracts related to the Assets or the Business;
+
+                  4.5.1.4 Contracts involving expenditures or liabilities,
+actual or potential, in excess of $10,000 or otherwise material to the Business
+or the Assets, and not cancelable (without liability) within 30 calendar days;
+
+                  4.5.1.5 Contracts or commitments relating to commission
+arrangements with others related to the Assets;
+
+                  4.5.1.6 Promissory notes, loans, agreements, and evidences of
+indebtedness relating to an obligation to pay money where Seller shall be the
+borrower, lender or guarantor thereunder or whereby any Assets are pledged to
+secure such obligation;
+
+                  4.5.1.7 Leases of personal property related to the Assets; and
+
+                  4.5.1.8 Contracts containing covenants limiting the freedom of
+Seller or any officer, director or shareholder of Seller to engage in any line
+of business or compete with any person to the extent related to the Assets or
+the Business.
+
+
+                                       11
+<PAGE>
+
+            4.5.2 Assumed Contracts. All of the Contracts which will be assumed
+by Buyer (the "Assumed Contracts") are listed on Schedule 4.5.2 and are valid
+and in full force and effect. Seller has duly performed all of its obligations
+under the Assumed Contracts to the extent those obligations to perform have
+accrued, and no violation of, or default or breach under any Assumed Contracts
+by Seller or, to Seller's knowledge, any other party has occurred and neither
+Seller nor, to Seller's knowledge, any other party has repudiated any provisions
+thereof.
+
+      4.6 Permits and Consents. Seller has all Permits required to conduct the
+Business, except where the failure to obtain such Permits would not have a
+Material Adverse Effect on the Assets or the Business. All Permits of Seller
+related to the Business are valid and in full force and effect and are listed on
+Schedule 4.6. Except as disclosed on Schedule 4.6, no notice to, declaration,
+filing or registration with, or authorization, or Consent or approval of, or
+Permit from, any governmental or regulatory body or authority, or any other
+person or entity, is required to be made or obtained by Seller in connection
+with the execution, delivery or performance of this Agreement and the
+consummation of the transactions contemplated hereby, except where the failure
+to comply with such requirement would not have a Material Adverse Effect on the
+Assets or the consummation of the transactions contemplated hereby. Schedule 4.6
+sets forth all Consents required for the assignment by Seller to Buyer of the
+Assumed Contracts. All of the Assumed Contracts will be enforceable by Buyer
+after the Closing to the same extent as if the transactions contemplated by this
+Agreement had not been consummated.
+
+      4.7 No Conflict or Violation. After giving effect to Consents and lien
+releases that have been obtained from third parties or will be so obtained prior
+to the Closing Date, neither the execution and delivery of this Agreement by
+Seller, nor the consummation of the transactions contemplated hereby, nor
+compliance by Seller with any of the provisions hereof, will (a) violate or
+conflict with any provision of the Certificate of Incorporation or Bylaws of
+Seller, (b) violate, conflict with, or result in a breach of any provision of,
+or constitute a default (or an event which, with notice or lapse of time or
+both, would constitute a default) under, or result in the termination of, or
+accelerate the performance required by, or result in a right of termination or
+acceleration under, or result in the creation of any Encumbrance upon any of the
+Assets under, any of the terms, conditions or provisions of any Contract,
+Permit, agreement, or other instrument or obligation (i) to which Seller is a
+party or (ii) by which the Assets are bound, (c) violate, except where such
+violation would not, individually or in the aggregate, have a Material Adverse
+Effect on the Assets or the Business, any statute, rule, regulation, ordinance,
+code, order, judgment, ruling, writ, injunction, decree or award or (d) impose
+any Encumbrance, restriction or charge on the Assets or the Business.
+
+      4.8 Financial Statements. Attached hereto as Schedule 4.8 are the
+Financial Statements of InVision Wireless. The Financial Statements (a) are in
+accordance with the underlying books and records of Seller, (b) have been
+prepared in accordance with generally accepted accounting principles
+consistently applied throughout the periods covered thereby (except as otherwise
+described in Schedule 4.8) and (c) fairly and accurately present the assets,
+liabilities (including all reserves) and financial position of InVision Wireless
+as of the respective dates thereof and the results of operations and changes in
+cash flows for the periods then ended (subject, in the case of interim Financial
+Statements, to normal year-end adjustments). At the respective dates of the
+Financial Statements, there were no liabilities of InVision Wireless, which, in
+accordance with generally accepted accounting principles, should have been shown
+or
+
+
+                                       12
+<PAGE>
+
+reflected in the Financial Statements or the notes thereto, which are not shown
+or reflected in the Financial Statements or the notes thereto.
+
+      4.9 Books and Records. Seller has made and kept (and given Buyer access
+to) Books and Records and accounts, which, in reasonable detail, accurately and
+fairly reflect the activities of Seller in connection with the Business. A copy
+of the minute book of Seller has been previously delivered to Buyer. The copies
+of the stock book records of Seller previously delivered to Buyer are true,
+correct and complete, and accurately reflect all transactions effected in
+Seller's stock through and including the date hereof.
+
+      4.10 Litigation. Except as set forth on Schedule 4.10, there is no action,
+order, writ, injunction, judgment or decree outstanding or any claim, suit,
+litigation, proceeding, labor dispute, arbitral action, governmental audit or
+investigation (collectively, "Actions") pending, or to the best knowledge of
+Seller, threatened or anticipated (a) against, related to or affecting Seller,
+the Business or the Assets or (b) seeking to delay, limit or enjoin the
+transactions contemplated by this Agreement. Seller is not in default with
+respect to or subject to any judgment, order, writ, injunction or decree of any
+court or governmental agency, and there are no unsatisfied judgments against
+Seller, the Business or the Assets.
+
+      4.11 Labor Matters. Seller is not a party to any labor agreement with
+respect to its employees with any labor organization, union, group or
+association and there are no employee unions (nor any other similar labor or
+employee organizations) under local statutes, custom or practice. Seller has not
+experienced any attempt by organized labor or its representatives to make Seller
+conform to demands of organized labor relating to its employees or to enter into
+a binding agreement with organized labor that would cover the employees of
+Seller.
+
+      4.12 Compliance with Law. Seller, the conduct of the Business and the
+operation of the Facilities have not violated and are in compliance with all
+laws, statutes, ordinances, regulations, rules and orders of any foreign,
+federal, state or local government and any other governmental department or
+agency, and any judgment, decision, decree or order of any court or governmental
+agency, department or authority, including without limitation environmental
+laws, relating to the Assets, Facilities or Business or operations of Seller,
+except where the violation or failure to comply, individually or in the
+aggregate, would not have a Material Adverse Effect on the Facilities, the
+Assets or the Business. Seller and the conduct of the Business and the operation
+of the Facilities are in conformity with all energy, public utility, zoning,
+building and health codes, regulations and ordinances, OSHA and environmental
+laws and all other foreign, federal, state, and local governmental and
+regulatory requirements, except where any nonconformity would not have a
+Material Adverse Effect on the Facilities, the Assets or the Business. Seller
+has not received any notice to the effect that, or otherwise been advised that,
+it is not in compliance with any such statutes, regulations, rules, judgments,
+decrees, orders, ordinances or other laws, and Seller has no reason to
+anticipate that any existing circumstances are likely to result in violations of
+any of the foregoing, which non-compliance or violation could, in any one case
+or in the aggregate, have a Material Adverse Effect on the Facilities, the
+Assets or the Business.
+
+      4.13 No Brokers. Neither Seller nor any of its respective officers,
+directors, employees, shareholders or Affiliates has employed or made any
+agreement with any broker,
+
+
+                                       13
+<PAGE>
+
+finder or similar agent or any person or firm which will result in an obligation
+to pay any finder's fee, brokerage fees or commission or similar payment in
+connection with the transactions contemplated hereby.
+
+      4.14 No Other Agreements to Sell the Assets. Neither Seller nor any of its
+respective officers, directors, shareholders or Affiliates have any commitment
+or legal obligation, absolute or contingent, to any other person or firm other
+than the Buyer to sell, assign, transfer or effect a sale of any of the Assets
+(other than inventory in the ordinary course of business), or to effect a
+liquidation, dissolution or other reorganization of Seller.
+
+      4.15 Intellectual Property.
+
+            4.15.1 Intellectual Property. Schedule 4.15 contains a complete and
+correct list and a brief description, of all Intellectual Property in which
+Seller has any interest whatsoever and that is primarily related to, used in,
+held for use in connection with, or necessary for the conduct of, or otherwise
+material to, the Business (the "Intellectual Property Assets"). The Intellectual
+Property Assets listed in Schedule 4.15 are all those used by Seller in
+connection with the Business and are identified as "owned" and "licensed"
+Intellectual Property Assets.
+
+            4.15.2 Royalties and Licenses. Except as set forth on Schedule 4.15,
+no person has a right to receive a royalty or similar payment in respect of any
+Intellectual Property Assets. Except as set forth on Schedule 4.15, Seller has
+no licenses granted, sold or otherwise transferred by or to it or other
+agreements to which it is a party, relating in whole or in part to any of the
+Intellectual Property Assets.
+
+            4.15.3 Ownership and Protection of Intellectual Property. As
+applicable, Seller owns or has the right to use pursuant to license, sublicense,
+agreement, or permission all Intellectual Property Assets free from any
+Encumbrances, and as to the owned Intellectual Property Assets, free from any
+requirement of any past, present, or future royalty payments, license fees,
+charges or other payments, or conditions or restrictions whatsoever. None of the
+owned Intellectual Property Assets are involved in any pending or to the best
+knowledge of Seller, threatened litigation, none of the licensed Intellectual
+Property Assets are involved in any pending or, to the best knowledge of Seller,
+threatened litigation involving Seller and, to the best of Seller's knowledge,
+none of the licensed Intellectual Property Assets are involved in any pending or
+threatened litigation involving parties other than Seller. Seller has not
+received any notice of invalidity or infringement of any rights of others with
+respect to such Intellectual Property Assets. To the best of Seller's knowledge
+after reasonable investigation, the conduct of the Business does not infringe or
+otherwise conflict with any rights of any other firm, corporation, association
+or person in respect of any Intellectual Property. To the best knowledge of
+Seller after reasonable investigation, none of the owned Intellectual Property
+Assets are being infringed or otherwise used or available for use by any other
+firm, corporation, association or person. Seller has taken all reasonable and
+prudent steps to protect the owned Intellectual Property Assets from
+infringement by any other firm, corporation, association or person. Seller's use
+of the Intellectual Property Assets is not, to the best of Seller's knowledge
+after reasonable investigation, infringing upon or otherwise violating the
+rights of any third party in or to such Intellectual Property Assets, nor, to
+the best of Seller's knowledge after reasonable investigation, has such
+infringement been alleged by any third party. All of the Intellectual Property
+Assets are
+
+
+                                       14
+<PAGE>
+
+valid and enforceable rights of Seller, and the owned Intellectual Property
+Assets, will be quit-claimed to Buyer and will not cease to be valid and in full
+force and effect by reason of the execution, delivery and performance of this
+Agreement or the consummation of the transactions contemplated by this
+Agreement.
+
+      4.16 Tax Matters.
+
+            4.16.1 Filing of Tax Returns. Seller has timely filed with the
+appropriate taxing authorities all returns (including without limitation
+information returns and other material information) in respect of Taxes required
+to be filed through the date hereof and will timely file any such returns
+required to be filed on or prior to the Closing Date. The returns and other
+information filed are complete and accurate in all material respects. Neither
+Seller, nor any group of which Seller now or was a member, has requested any
+extension of time within which to file returns (including without limitation
+information returns) in respect of any taxes.
+
+            4.16.2 Payment of Taxes. All Taxes, in respect of periods beginning
+before the Closing Date, have been timely paid, or will be timely paid, or an
+adequate reserve has been established therefor, as set forth in the Financial
+Statements, and Seller does not have any liability for Taxes in excess of the
+amounts so paid or reserves so established. There are no liens for Taxes (other
+than as could be asserted for current Taxes not yet due and payable) on the
+Assets.
+
+            4.16.3 Audits, Investigations or Claims. There are no pending or, to
+the best of Seller's knowledge, threatened audits, investigations or claims for
+or relating to any material additional liability in respect of Taxes, and there
+are no matters under discussion with any governmental authorities with respect
+to Taxes that in the reasonable judgment of Seller, or its counsel, is likely to
+result in a material additional liability for Taxes. Seller has not been
+notified that any taxing authority intends to audit a return for any period. No
+extension of a statute of limitations relating to Taxes is in effect with
+respect to Seller.
+
+            4.16.4 No Withholding. The transaction contemplated herein is not
+subject to the tax withholding provisions of Section 3406 of the Code, or of
+Subchapter A of Chapter 3 of the Code or of any other provision of law.
+
+      4.17 Customers. Seller has previously provided to Buyer true and correct
+lists of (a) the names and addresses of all domestic customers of the Business
+that ordered products, goods, or services from Seller during the twelve (12)
+month period ended as of the date of the date of the Balance Sheet, and (b) the
+amount for which each such customer was invoiced during such period related to
+the Business. Except as set forth in Schedule 4.17, Seller has received no
+notice and Seller has no reason to believe that any customer of Seller (i) has
+ceased, or will cease, to use the products, goods, or services of Seller which
+relate to the Business, (ii) has substantially reduced, or will substantially
+reduce, the use of products, goods, or services of Seller which relate to the
+Business or (iii) has sought, or is seeking, to reduce the price it will pay for
+products, goods or services of Seller, which relate to the Business, including
+in each case after the consummation of the transactions contemplated hereby. To
+the best of Seller's knowledge, no customer of Seller with respect to the
+Business has otherwise threatened to take any action described in the preceding
+sentence as a result of the consummation of the transactions contemplated by
+this Agreement.
+
+
+                                       15
+<PAGE>
+
+      4.18 Warranties. Except as set forth in Schedule 4.18, (a) there are no
+warranties, express or implied, written or oral, with respect to the products of
+the Business and (b) other than as have occurred in the ordinary course of
+Seller's business, there are no pending or threatened claims with respect to any
+such warranty, and (c) Seller has not, and to the best knowledge of Seller,
+neither Buyer nor any of its affiliates will have, any liability, after the
+Closing with respect to any such warranty, whether known or unknown, absolute,
+accrued, contingent or otherwise and whether due or to become due, other than
+customary returns in the ordinary course of the Business which are reserved
+against in accordance with generally accepted accounting principles in the most
+recent Financial Statements of Seller. Other than as disclosed in writing to
+Buyer, Seller has received no material complaints from customers relating to the
+Business.
+
+      4.19 Liabilities. Except as set forth on Schedule 4.19, Seller has no
+liabilities or obligations with respect to the Business or the Assets to be
+transferred (absolute, accrued, contingent or otherwise) except (i) liabilities
+which are reflected on the Balance Sheet or which are not required under
+generally accepted accounting principles to be reflected on the Balance Sheet,
+(ii) liabilities incurred in the ordinary course of the business and consistent
+with past practice since the date of the Balance Sheet, and (iii) liabilities
+arising under the Contracts previously furnished to Buyer.
+
+      4.20 Securities Law Matters.
+
+            4.20.1 InVision Wireless confirms that it is acquiring the Mobility
+Shares for its own account as principal, for investment purposes only, and not
+with a view to, or for, resale or distribution thereof, and no other person has
+or will have a direct or indirect beneficial interest in the Mobility Shares.
+
+            4.20.2 InVision Wireless understands that the offering and sale of
+the Mobility Shares is intended to a be a transaction by an issuer not involving
+any public offering exempt from registration under the Securities Act of 1933
+(the "Securities Act") by virtue of Section 4(2) of the Securities Act and the
+rules and regulations of the Securities and Exchange Commission (the
+"Commission") thereunder;
+
+            4.20.3 InVision Wireless represents that it is an "accredited
+investor" as such term is defined in Rule 501 under the Securities Act;
+
+            4.20.4 InVision Wireless understands and acknowledges that there are
+substantial risks of loss of investment involved in an investment in the
+Mobility Shares, and that the investment in the Mobility Shares is an illiquid
+investment subject to transfer restrictions, and InVision Wireless represents
+and warrants that it has the financial ability to bear the economic risk of such
+investment;
+
+            4.20.5 InVision Wireless has such knowledge and experience in
+financial and business matters, including investments of the type represented by
+the Mobility Shares, as to be capable of evaluating the merits of investment
+therein;
+
+            4.20.6 InVision Wireless has been furnished with a copy of the most
+recent periodic reports filed by Buyer with the Commission and any document
+requested by InVision
+
+
+                                       16
+<PAGE>
+
+Wireless, and InVision Wireless has carefully read and understands such
+materials and has evaluated the risks of an acquisition of the Mobility Shares;
+
+            4.20.7 InVision Wireless has been given the opportunity to ask
+questions of, and receive answers from, Representatives of Buyer in order for it
+to evaluate the merits and risks of investment in the Mobility Shares;
+
+            4.20.8 InVision Wireless has not been furnished with or relied upon
+any oral or written representation, warranty or information in connection with
+the offering of the Mobility Shares except as set forth in this Agreement.
+
+            4.20.9 The instruments evidencing the Mobility Shares shall bear a
+restrictive legend in substantially the following form: "The securities
+represented by this certificate have not been registered under the Securities
+Act of 1933, as amended (the "Act"). These securities have been acquired for
+investment and not with a view to distribution or resale, and may not be sold,
+offered for sale, pledged or hypothecated in the absence of an effective
+registration statement for such shares under the Act or an opinion of counsel
+satisfactory in form and content to the issuer that such registration is not
+required under such Act."
+
+      4.21 Disclosure. Neither this Agreement nor any of the Schedules or
+Exhibits hereto contains or shall contain when delivered at Closing any untrue
+statement of a material fact or shall omit to state a material fact necessary to
+make the statements contained herein or therein, in light of the circumstances
+in which they were made, not misleading; and there is no fact with respect to
+the Business which has not been disclosed to Buyer which Materially Adversely
+Affects or could reasonably be anticipated to Materially Adversely Affect the
+Assets being transferred, financial condition or results of operations,
+customer, employee or supplier relations, business condition or prospects of
+Seller.
+
+                                    ARTICLE V
+
+                     REPRESENTATIONS AND WARRANTIES OF BUYER
+
+      Buyer hereby represents and warrants to Seller as follows, which
+representations and warranties are, and as of the Closing Date shall be, true
+and correct:
+
+      5.1 Organization of Buyer. Buyer is a corporation duly organized, validly
+existing and in good standing under the laws of the State of Delaware.
+
+      5.2 Authorization. Buyer has all requisite corporate power and authority,
+and has taken all corporate action necessary, to execute and deliver this
+Agreement and each Ancillary Agreement to which it will be a party, to
+consummate the transactions contemplated hereby and to perform its obligations
+hereunder. This Agreement has been duly executed and delivered by Buyer and is a
+legal, valid and binding obligation of Buyer enforceable against it in
+accordance with its terms. Following their execution and delivery by Buyer and
+the other parties thereto each of the Ancillary Agreements and other documents
+delivered by Buyer at Closing will be a legal, valid and binding obligation of
+Buyer, enforceable against it in accordance with their terms.
+
+
+                                       17
+<PAGE>
+
+      5.3 No Conflict or Violation. Neither the execution, delivery or
+performance of this Agreement or the Ancillary Agreements nor the consummation
+of the transactions contemplated hereby or thereby, nor compliance by Buyer with
+any of the provisions hereof or thereof, will (a) violate or conflict with any
+provision of the Certificate of Incorporation or Bylaws of Buyer, or (b) violate
+any statute, rule, regulation, ordinance, code, order, judgment, ruling, writ,
+injunction, decree or award binding upon Buyer.
+
+      5.4 Consents and Approvals. No notice to, declaration, filing or
+registration with, or authorization, Consent or approval of, or permit from, any
+governmental or regulatory body or authority, or any other person or entity, is
+required to be made or obtained by Buyer in connection with the execution,
+delivery and performance of this Agreement or the Ancillary Agreements and the
+consummation of the transactions contemplated hereby or thereby, except (a) as
+may be required by Buyer to operate the Business after the Closing, or (b) as
+has been obtained on or prior to the date hereof.
+
+      5.5 No Brokers. Neither Buyer nor any of its respective officers,
+directors, employees, shareholders, or Affiliates has employed or made any
+agreement with any broker, finder, or similar agent or any person or firm which
+will result in an obligation to pay any finder's fee, brokerage fees, or
+commission or similar payment in connection with the transactions contemplated
+hereby.
+
+      5.6 Mobility Shares. The Mobility Shares to be issued pursuant to this
+Agreement, when issued and delivered in accordance with the terms of this
+Agreement, will be duly authorized, validly issued, fully paid, and
+nonassessable and free of preemptive rights.
+
+      5.7 SEC Information Furnished Concerning Buyer. For the period from
+January 1, 2003 to the date hereof, Buyer has filed with the Commission those
+filings and reports required pursuant to the Securities and Exchange Act of 1934
+(the "SEC Documents"). The audited consolidated financial statements for the
+year ended December 31, 2002, contained within the SEC Documents have been
+prepared in accordance with generally accepted accounting principles
+consistently applied (except as may be otherwise noted therein) and fairly
+present the consolidated financial position of Buyer and its subsidiaries as of
+such date and the consolidated results of operations of Buyer and its
+subsidiaries for the year then ended. To Buyer's knowledge, as of their
+respective dates, the SEC Documents, including, but not limited to, the
+financial statements contained therein, did not contain any untrue statement of
+a material fact or omit to state a material fact necessary in order to make the
+statements made therein, in the light of the circumstances under which they were
+made, not misleading.
+
+                                   ARTICLE VI
+
+                          COVENANTS OF SELLER AND BUYER
+
+      Buyer and Seller each covenant with the other as follows:
+
+      6.1 License and Software Upgrades. As of, and following, the Closing Date,
+InVision Software grants to Buyer a perpetual, irrevocable, transferable,
+worldwide, fully sub-licensable, royalty-free license to use, reproduce,
+license, market and distribute (a) the software programs designed, sold and
+supported by InVision Software in connection with the Business,
+
+
+                                       18
+<PAGE>
+
+including without limitation the "eConnect" software program (the "Software
+Programs"); and (b) the "eConnect" and "InVision" trademarks and tradenames
+(subsections (a) and (b) referred to herein as the "InVision License");
+provided, however, that notwithstanding the foregoing, the InVision License
+shall not permit the Buyer to sell the "eConnect" software program to Symbol,
+either alone or embedded in hardware cradles, in such a way that interferes with
+the licensing revenue that InVision Software currently receives directly from
+Symbol. In addition, following the Closing Date, InVision Software will provide
+to Buyer, at InVision Software's expense, ongoing software upgrades and
+maintenance for the Software Programs, and Buyer will have the right to the
+object code for the Software Programs. In connection with the InVision License,
+InVision Software represents and warrants that it owns or has license rights to
+all Intellectual Property in the Software Programs, and that it is authorized,
+empowered, and able, on behalf of itself and its direct and indirect Affiliates
+having an interest in the Software Programs, to enter into and fully perform its
+obligations under this Agreement, including without limitation, the granting of
+all rights set forth herein.
+
+      6.2 Further Assurances. Upon the terms and subject to the conditions
+contained herein, each of the parties hereto agrees, both before and after the
+Closing, (i) to use all reasonable efforts to take, or cause to be taken, all
+actions and to do, or cause to be done, all things necessary, proper or
+advisable to consummate and make effective the transactions contemplated by this
+Agreement, (ii) to execute any documents, instruments or conveyances of any kind
+which may be reasonably necessary or advisable to carry out any of the
+transactions contemplated hereunder, and (iii) to cooperate with each other in
+connection with the foregoing, including using their respective best efforts (A)
+to obtain all necessary waivers, Consents and approvals from other parties to
+the Contracts to be assumed by Buyer; provided, however, that Buyer shall not be
+required to make any payments, commence litigation or agree to modifications of
+the terms thereof in order to obtain any such waivers, Consents or approvals,
+(B) to obtain all necessary Permits as are required to be obtained under any
+federal, state, local or foreign law or regulations, (C) to effect all necessary
+registrations and filings, including without limitation submissions of
+information requested by governmental authorities, and (D) to fulfill all
+conditions to this Agreement.
+
+      6.3 Registration Rights for Closing Shares.
+
+            6.3.1 Registration Procedures and Expenses. As soon as reasonably
+possible following the Closing Date, Buyer will use its best efforts to effect
+the registration under the Securities Act for resale of the Closing Shares
+issued to InVision Wireless on the Closing Date, by performing the following:
+
+                  6.3.1.1 Buyer shalluse its best efforts to prepare and file
+with the Commission a registration statement with respect to the resale of the
+Closing Shares by Invision Wireless, and shall use its best efforts to cause
+such registration statement to become and remain effective for the lesser of a
+period of one (1) year or until InVision Wireless is free to resell the Closing
+Shares without restriction or limitation pursuant to Rule 144(k) of the
+Securities Act.
+
+                  6.3.1.2 Buyer shall use its best efforts to register or
+qualify the Closing Shares for sale in such states as InVision Wireless shall
+reasonably designate and to keep such
+
+
+                                       19
+<PAGE>
+
+registration or qualification in effect for so long as the registration
+statement filed under the Securities Act remains in effect.
+
+                  6.3.1.3 Buyer shall prepare and file with the Commission such
+amendments and supplements to such registration statement and the prospectus
+used in connection therewith as may be necessary to update and keep such
+registration statement effective and to comply with the provisions of the
+Securities Act with respect to the sale of all securities covered by such
+registration statement.
+
+                  6.3.1.4 Buyer shall notify InVision Wireless upon discovery
+that the prospectus included in such registration statement, as then in effect,
+includes an untrue statement of a material fact or omits to state any material
+fact required to be stated therein or necessary to make the statements therein
+not misleading, in the light of the circumstances under which they were made,
+and at the request of InVision Wireless promptly prepare and furnish to each of
+them a reasonable number of copies of a supplement to or an amendment of such
+prospectus as may be necessary so that such prospectus will not include an
+untrue statement of a material fact or omit to state a material fact required to
+be stated therein or necessary to make the statements therein not misleading in
+light of the circumstances under which they were made; provided that, after such
+notification and until such supplement or amendment has been so delivered,
+InVision Wireless will not deliver or otherwise use the original prospectus.
+
+                  6.3.1.5 Buyer shall cause to be furnished to InVision Wireless
+copies of such registration statement and of each amendment and supplement
+thereto (in each case including all exhibits) and such number of copies of the
+preliminary and final prospectuses and any other prospectus filed under Rule 424
+of the Securities Act as InVision Wireless may reasonably request in order to
+facilitate the sale of the Closing Shares. InVision Wireless will comply with
+all prospectus delivery requirements under the Securities Act. It will be a
+condition to Buyer's obligations to effect registration of the Closing Shares
+that InVision Wireless provide Buyer with all material facts including, without
+limitation, furnishing such certificates and questionnaires as may be required
+by Buyer concerning the Closing Shares to be registered which are reasonably
+required for Buyer to complete and file the registration statement or in the
+prospectus or are otherwise required in connection with the offering.
+
+                  6.3.1.6 InVision Wireless shall pay for all selling
+commissions applicable to the sales of the Closing Shares and all fees and
+disbursements of counsel for InVision Wireless (the "Selling Expenses").
+
+            6.3.2 Indemnification Relating to Registration Rights.
+
+                  6.3.2.1 Buyer will indemnify and hold harmless InVision
+Wireless and each person, if any, who controls InVision Wireless within the
+meaning of the Securities Act, for, from and against any and all losses,
+damages, liabilities, costs and expenses to which InVision Wireless or any such
+controlling person may become subject under the Securities Act, any state
+securities laws, or otherwise, insofar as such losses, claims, damages,
+liabilities, costs or expenses are caused by a failure to comply with such laws
+or by any untrue statement or alleged untrue statement of any material fact
+contained in a registration statement under which the Closing Shares are
+registered, any prospectus contained therein or any amendment or supplement
+thereto, or arise out of or based upon the omission or alleged omission to state
+
+
+                                       20
+<PAGE>
+
+therein a material fact required to be stated therein or necessary to make the
+statements therein, in light of the circumstances under which they were made,
+not misleading; provided, however, that, Buyer will not be liable in any such
+case to the extent that any such loss, claim, damage, liability, cost or expense
+arises out of or is based upon an untrue statement or alleged untrue statement
+or omission or alleged omission so made in conformity with information furnished
+by or on behalf of InVision Wireless or such controlling person in writing
+specifically for use in the preparation thereof.
+
+                  6.3.2.2 Seller will indemnify and hold harmless Buyer and each
+person, if any, who controls Buyer within the meaning of the Securities Act,
+from and against any and all losses, damages, liabilities, costs and expenses to
+which Buyer or any such controlling person may become subject under the
+Securities Act or otherwise, insofar as such losses, damages, liabilities, costs
+or expenses are caused by any untrue statement or alleged untrue statement of
+any material fact contained in a registration statement under which the Closing
+Shares are registered, any prospectus contained therein or any amendment or
+supplement thereto, or arise out of or are based upon the omission or alleged
+omission to state therein, in light of the circumstances under which they were
+made, not misleading, to the extent that such untrue statement or alleged untrue
+statement or omission or alleged omission was so made in reliance upon and in
+strict conformity with written information furnished by or on behalf of InVision
+Wireless specifically for use in the preparation thereof.
+
+                  6.3.2.3 Promptly after receipt by an indemnified party
+pursuant to the provisions of paragraphs 6.3.2.1 and 6.3.2.2 of this provision
+of notice of the commencement of any action involving the subject matter of the
+foregoing indemnity provisions, such indemnified party will, if a claim thereof
+is to be made against the indemnifying party pursuant to the provisions of said
+paragraphs 6.3.2.1 and 6.3.2.2, promptly notify the indemnifying party of the
+commencement thereof; but the omission to so notify the indemnifying party will
+not relieve it from any liability which it may have hereunder unless the
+indemnifying party has been materially prejudiced thereby nor will such failure
+to so notify the indemnifying party relieve it from any liability which it may
+have to any indemnified party otherwise than hereunder. In case such action is
+brought against any indemnified party and it notifies the indemnifying party of
+the commencement thereof, the indemnifying party shall have the right to
+participate in, and, to the extent that it may wish, jointly with any other
+indemnifying party similarly notified, to assume the defense thereof, with
+counsel satisfactory to such indemnified party; provided, however, if the
+defendants in any action include both the indemnified party and the indemnifying
+party and the indemnified parties have defenses or may have defenses additional
+to or different than the indemnifying parties, or there is a conflict of
+interest which would prevent counsel for the indemnifying party from also
+representing the indemnified party, the indemnified party or parties shall have
+the right to select separate counsel to participate in the defense of such
+action on behalf of such indemnified party or parties. After notice from the
+indemnifying party to such indemnified party will not be liable to such
+indemnified party pursuant to the provisions of said paragraph 6.3.2.1 or
+6.3.2.2 for any legal or other expense subsequently incurred by such indemnified
+party in connection with the defense thereof other than reasonable costs of
+investigation, unless (i) the indemnified party shall have employed counsel in
+accordance with the provisions of the preceding sentence, (ii) the indemnifying
+party shall not have employed counsel satisfactory to the indemnified party to
+represent the indemnified party within a reasonable time after the notice of the
+commencement of the action or (iii) the indemnifying
+
+
+                                       21
+<PAGE>
+
+party has authorized the employment of counsel for the indemnified party at the
+expense of the indemnifying party.
+
+                                   ARTICLE VII
+
+                              CONDITIONS PRECEDENT
+
+      7.1 Conditions to Obligations of Buyer. The obligations of Buyer to
+consummate the transactions contemplated hereby shall be subject to the
+fulfillment (or waiver by Buyer, in its sole discretion) on or prior to the
+Closing Date of the following additional conditions, which Seller agrees to use
+reasonable good faith efforts to cause to be fulfilled:
+
+            7.1.1 Representations, Performance. All representations and
+warranties of Seller contained in this Agreement shall be true and correct in
+all respects at and as of the date hereof, and shall be true and correct in all
+respects on and as of the Closing Date with the same effect as though made on
+and as of the Closing Date.
+
+            7.1.2 Performance of Covenants and Conditions. Seller shall have
+duly performed and complied with all agreements and conditions required by this
+Agreement to be performed or complied with by it prior to or on the Closing
+Date.
+
+            7.1.3 Officer's Certificate. Seller shall have delivered to Buyer a
+duly authorized, properly executed certificate, dated the Closing Date in which
+the President of Seller shall certify that he has no reason to believe that the
+conditions set forth in Sections 7.1.1 and 7.1.2 have not been fulfilled.
+
+            7.1.4 Secretary's Certificate. Seller shall have furnished to Buyer
+(i) a copy of the text of the resolutions by which the Board of Directors of
+Seller have approved this Agreement and the Ancillary Agreements, (ii) certified
+copies of the Seller's Articles of Incorporation, (iii) a copy of Seller's
+Bylaws, and (iv) a certificate executed on behalf of the Seller by its corporate
+secretary certifying to Buyer that such resolutions are true, correct and
+complete, were duly adopted and have not been amended or rescinded, and that
+prior to the Closing, the Articles of Incorporation and Bylaws of Seller have
+not been amended or rescinded.
+
+            7.1.5 Consents. Seller shall have obtained and shall have delivered
+to Buyer copies of (i) all governmental approvals required to be obtained by
+Seller in connection with the execution and delivery of this Agreement and the
+consummation of the transactions contemplated hereby and (ii) all Consents
+(including, without limitation, all Consents set forth on Schedule 4.6),
+necessary to be obtained in order to consummate the transactions contemplated by
+this Agreement.
+
+            7.1.6 Consulting Agreement. Buyer shall have received the signed
+Consulting Agreement between Buyer and Joseph Spiteri substantially in the form
+attached hereto as Exhibit D.
+
+            7.1.7 Employment Agreement. Buyer shall have received the signed
+Employment Agreement between Buyer and Herbert Feinstein substantially in the
+form attached hereto as Exhibit E.
+
+
+                                       22
+<PAGE>
+
+            7.1.8 Closing Financial Statements. Buyer shall have received the
+Closing Financial Statements.
+
+            7.1.9 No Material Adverse Effect. No event, occurrence, fact,
+condition, change, development or effect shall have occurred, exist or come to
+exist since the date of the Balance Sheet that, individually or in the
+aggregate, has constituted or resulted in, or could reasonably be expected to
+constitute or result in, a Material Adverse Effect.
+
+            7.1.10 Corporate, Other Proceedings. All corporate and other
+proceedings of Seller in connection with this Agreement and the transactions
+contemplated hereby, and all documents and instruments incident thereto, shall
+be reasonably satisfactory in substance and form to Buyer and its counsel, and
+Buyer and its counsel shall have received all such documents and instruments, or
+copies thereof, certified if requested, as may be reasonably requested.
+
+            7.1.11 No Proceedings or Litigation. No Action by any governmental
+authority or other person shall have been instituted or threatened which
+questions the validity or legality of the transactions contemplated hereby and
+which could reasonably be expected to damage Buyer materially if the
+transactions contemplated hereby are consummated, including without limitation
+any Material Adverse Effect on the right or ability of Buyer to own, operate,
+possess or transfer the Assets after the Closing. There shall not be any
+statute, rule or regulation that makes the purchase and sale of the Business or
+the Assets contemplated hereby illegal or otherwise prohibited.
+
+            7.1.12 Conveyancing Documents; Release of Encumbrances. Seller shall
+have executed and delivered each of the documents described in Article III
+hereof so as to effect the transfer and assignment to Buyer of all right, title
+and interest in and to the Assets and Seller shall have filed (where necessary)
+and delivered to Buyer all documents necessary to release the Assets from all
+Encumbrances, which documents shall be in a form reasonably satisfactory to
+Buyer and its counsel.
+
+            7.1.13 Tax Clearance Certificate. Seller shall have provided to
+Buyer a clearance certificate or similar document(s) that may be required by any
+state taxing authority in order to relieve Buyer of any obligation to withhold
+any portion of the Purchase Price.
+
+            7.1.14 Permits. Buyer shall have obtained or been granted the right
+to use all Permits necessary to its operation of the Business
+
+            7.1.15 Due Diligence Review. Buyer and its Representatives shall
+have conducted a due diligence review of Seller's Books and Records, Financial
+Statements, and other records and accounts of the Business, and in the sole
+discretion of Buyer, Buyer shall be satisfied with such review. Such review
+shall have no effect whatsoever on the liability of Seller to Buyer under this
+Agreement or otherwise for breach of any representations, warranties, or
+covenants of Seller or hereunder. Seller shall have also delivered to Buyer all
+Schedules to be supplied hereunder at least two (2) business days prior to
+Closing, which shall be satisfactory to Buyer.
+
+      7.2 Conditions to Obligations of Seller. The obligations of Seller to
+consummate the transactions contemplated hereby shall be subject to the
+fulfillment (or waiver by Seller, in its
+
+
+                                       23
+<PAGE>
+
+sole discretion) on or prior to the Closing Date of the following additional
+conditions, which Buyer agrees to use reasonable good faith efforts to cause to
+be fulfilled.
+
+            7.2.1 Representations, Performance. All representations and
+warranties of Buyer contained in this Agreement shall be true and correct in all
+respects at and as of the date hereof, and shall be repeated and shall be true
+and correct in all respects on and as of the Closing Date with the same effect
+as though made on and as of the Closing Date.
+
+            7.2.2 Performance of Covenants and Conditions. Buyer shall have duly
+performed and complied with all agreements and conditions required by this
+Agreement to be performed or complied with by it prior to or on the Closing
+Date.
+
+            7.2.3 Officer's Certificate. Buyer shall have delivered to Seller a
+duly authorized, properly executed certificate, dated the Closing Date in which
+the Chief Executive Officer of Buyer shall certify that he has no reason to
+believe that the conditions set forth in Sections 7.2.1 and 7.2.2 have not been
+fulfilled.
+
+            7.2.4 Secretary's Certificate. Buyer shall have furnished to Seller
+(i) a copy of the text of the resolutions by which the Board of Directors of
+Buyer have approved this Agreement and the Ancillary Agreements, (ii) certified
+copies of Buyer's Certificate of Incorporation, as amended, (iii) a copy of
+Buyer's Bylaws, and (iv) a certificate executed on behalf of Buyer by its
+corporate secretary certifying to Seller that such resolutions are true, correct
+and complete, were duly adopted and have not been amended or rescinded, and that
+prior to the Closing, the Certificate of Incorporation and Bylaws of Buyer have
+not been amended or rescinded.
+
+            7.2.5 Corporate, Other Proceedings. All corporate and other
+proceedings of Buyer in connection with this Agreement and the transactions
+contemplated hereby, and all documents and instruments incident thereto, shall
+be reasonably satisfactory in substance and form to Seller and its counsel, and
+Seller and its counsel shall have received all such documents and instruments,
+or copies thereof, certified if requested, as may be reasonably requested.
+
+            7.2.6 No Proceedings or Litigation. No Action by any governmental
+authority or other person shall have been instituted or threatened which
+questions the validity or legality of the transactions contemplated hereby.
+There shall not be any statute, rule or regulation that makes the purchase and
+sale of the Business or the Assets contemplated hereby illegal or otherwise
+prohibited.
+
+            7.2.7 Conveyances. Buyer shall have delivered, or cause to be
+delivered, to Seller items or documents identified in Article III hereof.
+
+                                  ARTICLE VIII
+
+                 CONDUCT OF SELLER AND BUYER PENDING THE CLOSING
+
+      8.1 Seller Covenants. Seller hereby covenants and agrees that from the
+date hereof to the Closing Date:
+
+
+                                       24
+<PAGE>
+
+            8.1.1 Conduct of Business Pending the Closing. Except as
+specifically contemplated in this Agreement or as disclosed in any Schedule
+hereto, the Business of Seller shall be conducted only in, and Seller shall take
+no action except in, the ordinary course, on an arm's length basis, and in
+accordance with all applicable laws, rules, and regulations and past custom and
+practice, including, without limitation, making any loans or any cash payments,
+or transferring any other assets or properties of Seller to any employee,
+officer, shareholder, or director of Seller; and Seller will not, directly or
+indirectly, do or permit to occur any of the following:
+
+                  8.1.1.1 Cancel or terminate or permit to be canceled or
+terminated its current insurance (or reinsurance) policies or permit any of the
+coverage thereunder to lapse, unless simultaneous with such termination,
+cancellation, or lapse, replacement policies providing coverage equal to or
+greater than the coverage under the canceled, terminated, or lapsed policies are
+in full force and effect;
+
+                  8.1.1.2 Default under any material contract, agreement,
+commitment, or undertaking;
+
+                  8.1.1.3 Knowingly violate or fail to comply with any laws
+applicable to it or the Business;
+
+                  8.1.1.4 Commit any act or permit the occurrence of any event
+or the existence of any condition of the type described in Section 4.3 hereof;
+
+                  8.1.1.5 Except in the ordinary course of business consistent
+with historical practices, enter into or modify any employment, severance, or
+similar agreements or arrangements with, or grant any bonuses, salary increases,
+or severance or termination pay to, any officers, directors, employees, or
+consultants, or adopt or amend any bonus, profit sharing, compensation, stock
+option, pension, retirement, deferred compensation, employment, or other benefit
+plan, trust, fund, or group arrangement for the benefit or welfare of any
+officers, directors, or employees;
+
+                  8.1.1.6 Directly or indirectly enter into or modify any
+contract, agreement, or understanding or enter into any transaction not in the
+ordinary course of business;
+
+                  8.1.1.7 Cancel, without full payment, any note, loan, or other
+obligation owing to Seller relating to the Business except in the ordinary
+course of business;
+
+                  8.1.1.8 Acquire (by merger, exchange, consolidation,
+acquisition of stock or assets, or otherwise) any corporation, partnership,
+joint venture, or other business organization or division or material assets
+thereof;
+
+                  8.1.1.9 Issue any additional shares of capital stock or permit
+the transfer of any outstanding shares of Seller's capital stock or declare any
+dividends or distributions;
+
+                  8.1.1.10 Issue or create any warrants, obligations,
+subscriptions, options, convertible securities, or other commitments under which
+any additional shares of its capital
+
+
+                                       25
+<PAGE>
+
+
+stock might be directly or indirectly authorized, issued, or transferred from
+treasury, or incur any indebtedness for borrowed money or issue any debt
+securities except the borrowing of working capital in the ordinary course of
+business and consistent with past practice;
+
+                  8.1.1.11 Pay any obligation or liability, fixed or contingent,
+except in the ordinary course of business;
+
+                  8.1.1.12 Waive or compromise any right or claim, other than as
+required to resolve any pending or threatened litigation disclosed in the
+Schedules attached hereto;
+
+                  8.1.1.13 Agree to do any of the actions described in the
+preceding clauses 8.1.1.1 through 8.1.1.12
+
+            8.1.2 Business Relationships. Seller will exercise its best efforts
+to preserve intact its business organization and goodwill, keep available the
+services of its officers and employees as a group, and maintain satisfactory
+relationships with suppliers, distributors, customers, and others having
+business relationships with it.
+
+            8.1.3 Notification of Certain Matters. Seller shall (i) confer on a
+regular basis with Representatives of Buyer and report operational matters and
+the general status of ongoing operations, (ii) notify Buyer of any Material
+Adverse Change in the normal course of its business and of any governmental or
+third party complaints, investigations, or hearings (or communications
+indicating that the same may be contemplated); and (iii) promptly notify Buyer
+if Seller shall discover that any representation or warranty made by it in this
+Agreement was when made, or has subsequently become, untrue.
+
+            8.1.4 Transfer of Permits. Seller will use its best efforts to
+assist Buyer to effect the assignment or other transfer of Permits from Seller
+to Buyer as of or as soon as practicable after the Closing Date.
+
+            8.1.5 Closing. Seller shall use its best efforts to cause the
+conditions specified in Article VII hereof to be satisfied at or prior to the
+Closing Date.
+
+      8.2 No Negotiations. Seller shall not, directly or indirectly, through any
+officer, director, agent, or otherwise, solicit, initiate, or encourage
+submission of any proposal or offer from any person or entity (including any of
+its or their officers or employees) relating to any liquidation, dissolution,
+recapitalization, merger, consolidation, or acquisition or purchase of all or a
+material portion of the assets of, or any equity interest in, Seller or other
+similar transaction or business combination involving Seller, or participate in
+any negotiations regarding, or furnish to any other person any information with
+respect to, or otherwise cooperate in any way with, or assist, participate in,
+facilitate, or encourage, any effort or attempt by any other person or entity to
+do or seek any of the foregoing. Seller shall promptly notify Buyer if any such
+proposal or offer, or any inquiry from or contact with any person with respect
+thereto, is made and shall promptly provide Buyer with such information
+regarding such proposal, offer, inquiry, or contact as Buyer may request.
+
+      8.3 Public Announcements. The parties hereto shall not issue any press
+release or public announcement, including announcements by any party for general
+reception by or
+
+
+                                       26
+<PAGE>
+
+dissemination to employees, agents, or customers, with respect to this Agreement
+and the other transactions contemplated by this Agreement without the prior
+written consent of the other parties hereto (which consent shall not be withheld
+unreasonably); provided, however, that Buyer may make any disclosure of
+announcement of information, it is obligated to make pursuant to applicable law
+or regulation, including any applicable law or regulation of the Nasdaq National
+Market or any other national securities exchange, as applicable.
+
+      8.4 Confidentiality. Each party hereto, and its officers, directors,
+agents, and affiliates, will hold in strict confidence, and will not divulge,
+communicate, use to the detriment of any other party hereto or for the benefit
+of any other person or persons, or misuse in any way, any financial information
+or other data obtained in connection with this Agreement, including, without
+limitation, any confidential information or trade secrets of such other party,
+personnel information, secret processes, know how, customer lists, formulas, or
+other technical data; and if the transactions contemplated by this Agreement are
+not consummated, each party hereto, and its officers, directors, agents and
+Affiliates, will return to each other party all such data an information,
+including without limitation, work sheets, test reports, manuals, lists,
+memoranda, and other documents prepared by or made available in connection with
+this transaction (and all copies of same). The parties hereto may disclose such
+information to their respective attorneys, accountants and other agents so long
+as they agree to keep such information confidential. Notwithstanding the
+foregoing, confidential information shall not include any information which a
+party can demonstrate: (i) was already in such party's possession prior to
+negotiations related to this transaction; (ii) is or becomes publicly and openly
+known and in the public domain through no fault of such party; or (iii) is
+received by such party in a non-confidential manner from a third party having
+the right to disclose such information.
+
+                                   ARTICLE IX
+
+                  ACTIONS BY SELLER AND BUYER AFTER THE CLOSING
+
+      9.1 Non-Competition and Non-Solicitation.
+
+            9.1.1 Non-Competition. For a period of five (5) years from the
+Closing Date, Seller agrees that it will not, and will not permit any of its
+Affiliates, either alone or in conjunction with any third party, directly or
+indirectly to compete with the Business anywhere throughout the world.
+
+            9.1.2 Non-Solicitation of Employees. For a period of five (5) years
+from the Closing Date, Seller agrees that it will not, and will not permit any
+of its Affiliates, either alone or in conjunction with any other third party,
+directly or indirectly to, go into business with any employee of Buyer or
+solicit, induce, or recruit any employee of Buyer to leave the employ of Buyer.
+For the purpose of this Section 9.1, Buyer employee means any employee of the
+Buyer or any of its subsidiaries, or any of Buyer's Affiliates as of, or
+immediately prior to the date hereof or during this five (5) year
+non-solicitation period.
+
+            9.1.3 Non-Solicitation of Customers. For a period of five (5) years
+from the Closing Date, Seller agrees that it will not, and will not permit any
+of its Affiliates, either alone or in conjunction with any other third party,
+directly or indirectly to, call on, solicit, take away, accept as a client or
+customer, or attempt to call on, solicit, take away, or accept as a client or
+customer, any third party that was a client, customer, or prospective client or
+customer of the
+
+
+                                       27
+<PAGE>
+
+Business, as of, or immediately prior to the Closing Date or during this five
+(5) year non-solicitation period.
+
+            9.1.4 Acknowledgement as to Reasonableness of Restrictions. Seller
+hereby expressly agrees and acknowledges that:
+
+                  9.1.4.1 the Business is conducted throughout the world, and
+that competition with and against such business interests would be harmful to
+the Buyer;
+
+                  9.1.4.2 the covenants contained in this Section 9.1 are
+reasonable as to time and geographical area and do not place any unreasonable
+burden upon Seller or any of its Affiliates;
+
+                  9.1.4.3 the parties have entered into the covenants contained
+herein in connection with and as a condition precedent to the consummation of
+the Agreement, pursuant to which Buyer has acquired the Business; the
+agreements, actions, covenants, and promises contained herein are intended to
+protect and ensure the value of the Business, including its goodwill, which
+actions, covenants, and promises are a material consideration to Buyer in
+connection with the Agreement; and this Agreement shall be interpreted,
+construed, and/or enforced as a covenant given in connection with the sale of a
+business and its goodwill, notwithstanding any employment by Buyer of any
+Affiliate of Seller following the Closing; and
+
+                  9.1.4.4 Seller and its Affiliates understand and hereby agree
+to each and every term and condition contained in this Section 9.1.
+
+            9.1.5 Remedies; Enforceability. Seller and its Affiliates recognize
+and acknowledge that irreparable damage will result to Buyer in the event of a
+breach of the provisions of this Section 9.1, and, accordingly, in the event of
+such a breach, Buyer will be entitled, in addition to any other legal or
+equitable damages and remedies to which it may be entitled or which may be
+available, to seek an injunction to restrain the violation thereof. If any
+provision of this Section 9.1 shall be adjudicated by a court of competent
+jurisdiction to be invalid or unenforceable because of the scope, duration, or
+area of its applicability, the court making such determination will have the
+power to modify such scope, duration, or area, or all of them and such provision
+will then be applicable in such modified form.
+
+      9.2 Books and Records; Payment of Liabilities.
+
+            9.2.1 Books and Records. Each party agrees that it will cooperate
+with and make available to the other party, during normal business hours, all
+Books and Records, information and employees (without substantial disruption of
+employment) retained and remaining in existence after the Closing which are
+necessary or useful in connection with any tax inquiry, audit, investigation or
+dispute, any litigation or investigation or any other matter related to the
+Business or the Assets requiring any such Books and Records, information or
+employees for any reasonable business purpose.
+
+            9.2.2 Cooperation and Records Retention. Seller and Buyer shall (i)
+each provide the other with such assistance as may reasonably be requested by
+any of them in connection with the preparation of any return, audit, or other
+examination by any taxing
+
+
+                                       28
+<PAGE>
+
+authority or judicial or administrative proceedings relating to liability for
+Taxes, (ii) each retain and provide the other with any records or other
+information that may be relevant to such return, audit or examination,
+proceeding or determination, and (iii) each provide the other with any final
+determination of any such audit or examination, proceeding, or determination
+that affects any amount required to be shown on any tax return of the other for
+any period. Without limiting the generality of the foregoing, Buyer and Seller
+shall each retain, until the applicable statutes of limitations (including any
+extensions) have expired, copies of all tax returns, supporting work schedules,
+and other records or information, in a timely manner, as and that may be
+relevant to such returns for all tax periods or portions thereof ending on or
+before the Closing Date and shall not destroy or otherwise dispose of any such
+records without first providing the other party with a reasonable opportunity to
+review and copy the same.
+
+            9.2.3 Payment of Liabilities. Following the Closing Date, Seller
+shall pay promptly, in a timely manner, as and when due all of the debts and
+liabilities of Seller relating to the Business, which are not Assumed
+Liabilities, including without limitation any accounts payable and any liability
+of Seller for Taxes.
+
+      9.3 Survival of Representations, Etc. All statements contained in any
+certificate, schedule, exhibit, instrument or conveyance delivered by or on
+behalf of the parties pursuant to this Agreement or in connection with the
+transactions contemplated hereby shall be deemed to be representations and
+warranties by the parties hereunder. The representations and warranties of
+Seller and Buyer contained herein and all claims and causes of action with
+respect thereto (other than the provisions of Sections 4.4, 4.16 and this
+Section 9.3, and all claims and causes of action with respect thereto) shall
+survive for a period of three (3) years from the Closing Date, except that the
+representations and warranties in Section 4.4 shall survive forever. The
+representations and warranties in Section 4.16 shall survive until the
+expiration of the applicable statute of limitations (with extensions) with
+respect to the matters addressed in such section. The termination of the
+representations and warranties provided herein shall not affect the rights of a
+party in respect of any Claim made by such party in a writing received by the
+other party prior to the expiration of the applicable survival period provided
+herein.
+
+      9.4 Indemnifications.
+
+            9.4.1 By Seller. Regardless of Seller's knowledge of the existence
+of an Indemnifiable Event (as defined below), Seller shall indemnify, defend,
+save and hold harmless Buyer, its Affiliates and subsidiaries, and their
+respective Representatives, from and against any and all Damages incurred in
+connection with, arising out of, resulting from or incident to (i) any breach of
+any representation or warranty, or the inaccuracy of any representation or
+warranty, made by Seller in or pursuant to this Agreement (it being understood
+and agreed that, notwithstanding anything to the contrary contained in this
+Agreement, to determine if there had been an inaccuracy or breach of a
+representation or warranty of the Seller and the losses arising from such
+inaccuracy or breach, such representation or warranty shall be read as if it
+were not qualified by materiality, including, without limitation, qualifications
+indicating accuracy in all material respects, or accuracy except to the extent
+the inaccuracy will not have a Material Adverse Effect); (ii) any breach of any
+covenant or agreement made by Seller in or pursuant to this Agreement; (iii) any
+Excluded Liability; (iv) any liability imposed upon Buyer by reason of Buyer's
+status as transferee of the Business or the Assets except to the extent such
+liability arises
+
+
+                                       29
+<PAGE>
+
+out of or results from Buyer's operation of the Business after the Closing Date;
+(v) any liability arising under any environmental law on account of the conduct
+of Seller or prior owners or users of the Facilities or other persons, or on
+account of the operation of the Business or the Facilities, or related to any
+environmental condition (collectively, the "Indemnifiable Events").
+
+            9.4.2 By Buyer. Buyer shall indemnify, defend, save and hold
+harmless Seller, its Affiliates and its Representatives from and against any and
+all Damages incurred in connection with, arising out of, resulting from or
+incident to (i) any breach of any representation or warranty, or the inaccuracy
+of any representation or warranty, made by Buyer in or pursuant to this
+Agreement (it being understood and agreed that, notwithstanding anything to the
+contrary contained in this Agreement, to determine if there had been an
+inaccuracy or breach of a representation or warranty of the Buyer and the losses
+arising from such inaccuracy or breach, such representation or warranty shall be
+read as if it were not qualified by materiality, including, without limitation,
+qualifications indicating accuracy in all material respects, or accuracy except
+to the extent the inaccuracy will not have a Material Adverse Effect); (ii) any
+breach of any covenant or agreement made by Buyer in or pursuant to this
+Agreement; or (iii) any Assumed Liability insofar as such Assumed Liability
+arises from and after the Closing.
+
+            9.4.3 Cooperation. The indemnified party shall cooperate in all
+reasonable respects with the indemnifying party and such party's attorneys in
+the investigation, trial and defense of such lawsuit or action and any appeal
+arising therefrom; provided, however, that the indemnified party may, at its own
+cost, participate in the investigation, trial and defense of such lawsuit or
+action and any appeal arising therefrom. The parties shall cooperate with each
+other in any notifications to insurers.
+
+            9.4.4 Defense of Claims. If a claim for Damages (a "Claim") is to be
+made by a party entitled to indemnification hereunder against the indemnifying
+party, the party claiming such indemnification shall, subject to Section 9.3,
+give written notice (a "Claim Notice") to the indemnifying party as soon as
+practicable after the party entitled to indemnification becomes aware of any
+fact, condition or event which may give rise to Damages for which
+indemnification may be sought under this Section 9.4. If any lawsuit or
+enforcement action is filed against any party entitled to the benefit of
+indemnity hereunder, written notice thereof shall be given to the indemnifying
+party as promptly as practicable (and in any event within fifteen (15) calendar
+days after the service of the citation or summons). The failure of any
+indemnified party to give timely notice hereunder shall not affect rights to
+indemnification hereunder, except to the extent that the indemnifying party
+demonstrates actual damage caused by such failure. After such notice, if the
+indemnifying party shall acknowledge in writing to the indemnified party that
+the indemnifying party shall be obligated under the terms of its indemnity
+hereunder in connection with such lawsuit or action, then the indemnifying party
+shall be entitled, if it so elects, (i) to take control of the defense and
+investigation of such lawsuit or action, (ii) to employ and engage attorneys of
+its own choice (which shall be reasonably acceptable to the indemnified party)
+to handle and defend the same, at the indemnifying party's cost, risk and
+expense unless the named parties to such action or proceeding include both the
+indemnifying party and the indemnified party and the indemnified party has been
+advised in writing by counsel that there may be one or more legal defenses
+available to such indemnified party that are different from or additional to
+those available to the indemnifying party, and (iii) to compromise or settle
+such claim, which compromise or settlement shall be made only with the written
+consent of the indemnified party,
+
+
+                                       30
+<PAGE>
+
+such consent not to be unreasonably withheld; provided, however, if the
+remediation or resolution of any such Claim is reasonably expected to have a
+Material Adverse Effect on the indemnified party's business operations, then,
+notwithstanding the foregoing, the indemnified party shall be entitled to
+control such remediation or resolution, including without limitation to take
+control of the defense and investigation of such lawsuit or action, to employ
+and engage attorneys of its own choice to handle and defend the same, at the
+indemnifying party's cost, risk and expense, and to compromise or settle such
+Claim. If the indemnifying party fails to assume the defense of such claim
+within fifteen (15) calendar days after receipt of the Claim Notice, the
+indemnified party against which such claim has been asserted will (upon
+delivering notice to such effect to the indemnifying party) have the right to
+undertake, at the indemnifying party's cost and expense, the defense, compromise
+or settlement of such claim on behalf of and for the account and risk of the
+indemnifying party. In the event the indemnified party assumes the defense of
+the claim, the indemnified party will keep the indemnifying party reasonably
+informed of the progress of any such defense, compromise or settlement. The
+indemnifying party shall be liable for any settlement of any action effected
+pursuant to and in accordance with this Section 9.4 and for any final judgment
+(subject to any right of appeal), and the indemnifying party agrees to indemnify
+and hold harmless an indemnified party from and against any Damages by reason of
+such settlement or judgment.
+
+            9.4.5 Buyer's Right of Offset. Anything in this Agreement to the
+contrary notwithstanding, Buyer may withhold and set off any amount as to which
+Seller is obligated to indemnify Buyer pursuant to Section 9.4 herein, against
+any Earnout Shares that have not been delivered to Seller. In order to exercise
+its rights under this Section 9.4.5, Buyer must deliver written notice of such
+exercise (a "Set-Off Notice") to Seller setting out in reasonable detail the
+grounds on which Buyer is claiming such set-off, including (i) the factual basis
+of Buyer's claim against Seller, (ii) the provisions of this Agreement, if any,
+to which such claim applies or in respect of which such claim is made, and (iii)
+Buyer's reasonable estimate of the dollar value of such claim, if such an
+estimate is determinable. Buyer and Seller will meet or correspond as soon as
+reasonably practicable after delivery by Buyer of a Set-Off Notice and will use
+reasonable efforts to negotiate a settlement or other resolution of Buyer's
+claim. If Buyer and Seller are unable to resolve Buyer's claim, the Parties will
+use reasonable efforts to negotiate an agreed-upon Set-Off amount. If Buyer and
+Seller are unable to determine the Set-Off amount within thirty (30) days after
+delivery to Seller of the applicable Set-Off Notice, Buyer may proceed to set
+off any amounts determined by Buyer in good faith. For purposes of determining
+the number of shares that Buyer may set-off in connection with its rights
+pursuant to this Section 9.4.5, the value of the Earnout Shares shall be based
+on the average reported closing price of Buyer's common stock on the Nasdaq
+National Market, or such other national securities exchange as applicable, as
+reflected in the Western Edition of the Wall Street Journal for the fifteen (15)
+trading days immediately preceding, but not including, the date of the Set-Off
+Notice.
+
+            9.4.6 Limitations. Neither Buyer nor Seller shall be liable to the
+other under this Section 9.4 for any Damages until the amount otherwise due the
+party being indemnified exceeds $10,000 in the aggregate, in which case such
+indemnifying party will be liable to the indemnified party for all such amounts,
+including the first $10,000. Notwithstanding the preceding sentence, this
+limitation shall not apply with respect to Excluded Liabilities, Damages arising
+out of a breach of a representation or warranty contained in Sections 4.4 or
+4.16, the
+
+
+                                       31
+<PAGE>
+
+covenants contained in Section 9.2.3 or any Damages arising out of fraud or
+intentional misrepresentation. Buyer shall give Seller prompt notice of any
+Damages that might apply toward the first $10,000.
+
+            9.4.7 Liability and Remedies, etc. Nothing herein shall relieve
+either party of any liability to make any payment expressly required to be made
+by such party pursuant to this Agreement. The term "Damages" as used in this
+Section 9.4 is not limited to matters asserted by third parties against Seller
+or Buyer, but includes Damages incurred or sustained by Seller or Buyer in the
+absence of third party claims. Payments by Buyer of amounts for which Buyer is
+indemnified hereunder, and payments by Seller of amounts for which Seller is
+indemnified, shall not be a condition precedent to recovery. Seller's obligation
+to indemnify Buyer, and Buyer's obligation to indemnify Seller, shall not limit
+any other rights, including without limitation rights of contribution which
+either party may have under statute or common law. Buyer and Seller agree and
+acknowledge that offset against the Earnout Shares shall not be Buyer's
+exclusive method of receiving indemnification from Seller pursuant to Section
+9.4; rather, Buyer will have all other remedies provided by law or in this
+Agreement.
+
+      9.5 Taxes. Subject to Section 2.6, Seller shall pay, or cause to be paid,
+when due all Taxes for which Seller is or may be liable or that are or may
+become payable with respect to all taxable periods ending on or prior to the
+Closing Date. Buyer shall pay, or cause to be paid, when due all Taxes for which
+Buyer is or may be liable or that are or may become payable with respect to all
+taxable periods ending after the Closing Date.
+
+      9.6 Further Action. After the Closing, Seller shall take all actions
+reasonably necessary to effect the conveyance of the Assets to Buyer free and
+clear of all Encumbrances.
+
+      9.7 Depletion of Existing Inventory. Notwithstanding anything herein to
+the contrary, Seller shall be permitted to sell, and retain the proceeds from
+the sale of, any Inventory existing as of the Closing Date and located at
+Seller's Facility; provided, however, that Seller shall retain and indemnify
+Buyer with respect to any liabilities relating to such Inventory or the sale of
+such Inventory following the Closing Date. Seller shall promptly notify Buyer of
+each sale effected by Seller pursuant to this Section 9.7.
+
+                                    ARTICLE X
+
+                                   TERMINATION
+
+      10.1 Termination. This Agreement will terminate upon the occurrence of any
+of the following events:
+
+            10.1.1 Upon the written agreement of Seller and Buyer; or
+
+            10.1.2 At such time as Seller or Buyer provides written notice to
+the other party if the transactions contemplated hereby shall not have been
+consummated pursuant hereto by 5:00 p.m. Phoenix, Arizona time on December 1,
+2003, unless such date shall be extended by the mutual written consent of Seller
+and Buyer; or
+
+            10.1.3 At such time as Buyer provides written notice to Seller if
+(i) the representations and warranties of Seller shall not have been true and
+correct in all material
+
+
+                                       32
+<PAGE>
+
+respects as of the date when made, (ii) if any of the conditions set forth in
+Section 7.1 shall not have been, or if it becomes apparent that any of such
+conditions will not be, fulfilled by 5:00 p.m. Phoenix, Arizona time on December
+1, 2003, or (iii) if Seller violates the provisions of Section 8.2 herein; or
+
+            10.1.4 At such time as Seller provides written notice to Buyer if
+(i) the representations and warranties of Buyer shall not have been true and
+correct in all material respects as of the date when made or (ii) if any of the
+conditions set forth in Section 7.2 shall not have been, or if it becomes
+apparent that any of such conditions will not be fulfilled by 5:00 p.m. Phoenix,
+Arizona time on December 1, 2003.
+
+      10.2 Effect of Termination. In the event of the termination of this
+Agreement pursuant to the provisions of Section 10.1, this Agreement shall
+become void and have no effect, without any liability to any person or entity in
+respect hereof or of the transactions contemplated hereby on the part of any
+party hereto, or any of its directors, officers, employees, agents, consultants,
+representatives, advisers, stockholders or affiliates; provided, however, that
+in the event this Agreement is terminated by Buyer pursuant to Section
+10.1.4(iii), Seller shall pay to Buyer, a termination fee in the amount of
+$100,000.
+
+                                   ARTICLE XI
+
+                                  MISCELLANEOUS
+
+      11.1 Assignment. Neither this Agreement nor any of the rights or
+obligations hereunder may be assigned by any party without the prior written
+consent of the other parties; except that Buyer may, without such consent,
+assign all such rights to any lender as collateral security and assign all such
+rights and obligations to a wholly-owned subsidiary (or a partnership or other
+entity controlled by Buyer) or subsidiaries of Buyer or to a successor in
+interest to Buyer which shall assume all obligations and liabilities of Buyer
+under this Agreement. Subject to the foregoing, this Agreement shall be binding
+upon and inure to the benefit of the parties hereto and their respective
+successors and permitted assigns, and no other person shall have any right,
+benefit or obligation under this Agreement as a third party beneficiary or
+otherwise.
+
+      11.2 Notices. All notices, requests, demands and other communications
+which are required or may be given under this Agreement shall be in writing and
+shall be deemed to have been duly given when received if personally delivered;
+when transmitted if transmitted by telecopy, electronic or digital transmission
+method; the day after it is sent, if sent for next day delivery to a domestic
+address by recognized overnight delivery service (e.g., Federal Express); and
+upon receipt, if sent by certified or registered mail, return receipt requested.
+In each case notice shall be sent to:
+
+      If to Seller, addressed to:
+
+      InVision Wireless, LLC
+      InVision Software Inc.
+      110 Lake Avenue South, Suite 35
+      Nesconsent, NY 11767
+      Attn: Joseph Spiteri
+
+
+                                       33
+<PAGE>
+
+      If to Buyer, addressed to:
+
+      Mobility Electronics, Inc.
+      17800 N. Perimeter Dr., Suite 200
+      Scottsdale, AZ 85255
+      Attn: Charles R. Mollo
+
+      or to such other place and with such other copies as either party may
+designate as to itself by written notice to the others.
+
+      11.3 Choice of Law. This Agreement shall be construed, interpreted and the
+rights of the parties determined in accordance with the laws of the State of
+Arizona (without reference to the choice of law provisions thereof), except with
+respect to matters of law concerning the internal corporate affairs of any
+corporate entity which is a party to or the subject of this Agreement, and as to
+those matters the law of the jurisdiction under which the respective entity
+derives its powers shall govern.
+
+      11.4 Entire Agreement; Amendments and Waivers. This Agreement, together
+with all exhibits and schedules hereto, constitutes the entire agreement among
+the parties pertaining to the subject matter hereof and supersedes all prior
+agreements, understandings, negotiations and discussions, whether oral or
+written, of the parties. This Agreement may not be amended except by an
+instrument in writing signed on behalf of each of the parties hereto. No
+amendment, supplement, modification or waiver of this Agreement shall be binding
+unless executed in writing by the party to be bound thereby. No waiver of any of
+the provisions of this Agreement shall be deemed or shall constitute a waiver of
+any other provision hereof (whether or not similar), nor shall such waiver
+constitute a continuing waiver unless otherwise expressly provided.
+
+      11.5 Multiple Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+      11.6 Expenses. Except as otherwise specified in this Agreement, each party
+hereto shall pay its own legal, accounting, out-of-pocket and other expenses
+incident to this Agreement and to any action taken by such party in preparation
+for carrying this Agreement into effect.
+
+      11.7 Invalidity. In the event that any one or more of the provisions
+contained in this Agreement or in any other instrument referred to herein,
+shall, for any reason, be held to be invalid, illegal or unenforceable in any
+respect, then to the maximum extent permitted by law, such invalidity,
+illegality or unenforceability shall not affect any other provision of this
+Agreement or any other such instrument.
+
+      11.8 Titles. The titles, captions or headings of the Articles, Sections
+and subsections herein are inserted for convenience of reference only and are
+not intended to be a part of or to affect the meaning or interpretation of this
+Agreement.
+
+      11.9 Cumulative Remedies. All rights and remedies of either party hereto
+are cumulative of each other and of every other right or remedy such party may
+otherwise have at
+
+
+                                       34
+<PAGE>
+
+law or in equity, and the exercise of one or more rights or remedies shall not
+prejudice or impair the concurrent or subsequent exercise of other rights or
+remedies.
+
+      11.10 Arbitration. Any controversy arising after the Closing out of or
+relating to this Agreement (including, without limitation, pursuant to Section
+2.4 or 9.4) or relating to the breach hereof, shall be settled by arbitration
+conducted in the State of Arizona in accordance with the Commercial Arbitration
+Rules of the American Arbitration Association then in effect (except as
+otherwise expressly provided in this Agreement). The award rendered by the
+arbitrator(s) shall be final and judgment upon the award rendered by the
+arbitrator(s) may be entered upon it in any court having jurisdiction thereof.
+The arbitrator(s) shall possess the powers to issue mandatory orders and
+restraining orders in connection with such arbitration. The expenses of the
+arbitration shall be borne by the losing party unless otherwise allocated by the
+arbitrator(s). The agreement to arbitrate shall be specifically enforceable
+under the prevailing arbitration law. During the continuance of any arbitration
+proceedings, the parties shall continue to perform their respective obligations
+under this Agreement.
+
+      11.11 Consideration. InVision Software acknowledges and agrees that the it
+has received adequate consideration in return for entering into this Agreement,
+and combined with the consideration to be received by InVision Wireless, such
+consideration is adequate and sufficient for InVision Software to execute and
+perform all of its obligations pursuant to this Agreement.
+
+              [THE REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+                                       35
+<PAGE>
+
+
+      IN WITNESS WHEREOF, the parties hereto have executed or caused this
+Agreement to be duly executed on their respective behalf, by their respective
+officers thereunto duly authorized, all as of the day and year first above
+written.
+
+                                    MOBILITY ELECTRONICS, INC.
+
+
+                                    By:__________________________________
+
+                                    Name:________________________________
+
+                                    Its:_________________________________
+
+
+
+                                    INVISION WIRELESS, LLC
+
+
+                                    By:__________________________________
+
+                                    Name:________________________________
+
+                                    Its:_________________________________
+
+
+                                    INVISION SOFTWARE INC.
+
+
+                                    By:__________________________________
+
+                                    Name:________________________________
+
+                                    Its:_________________________________
+
+
+                                       36
+
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,908 @@
+<DOCUMENT>
+<TYPE>EX-10.48
+<SEQUENCE>10
+<FILENAME>ex10-48.txt
+<DESCRIPTION>RETROCESSION AGREEMENT
+<TEXT>
+
+
+                             RETROCESSION AGREEMENT
+
+                                (the "Agreement")
+
+                                     between
+
+                            SCOTTISH RE (U.S.), INC.
+
+                            Charlotte, North Carolina
+
+                                (the "Reinsurer")
+
+                                       and
+
+                    SECURITY LIFE OF DENVER INSURANCE COMPANY
+
+                            (the "Retrocessionaire")
+
+
+
+                  This Agreement is effective December 31, 2004
+
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+
+ARTICLE I  SCOPE OF REINSURANCE................................................1
+ARTICLE II  LIABILITY..........................................................3
+ARTICLE III  PREMIUMS..........................................................3
+ARTICLE IV  RESERVES...........................................................4
+ARTICLE V  REDUCTIONS, TERMINATION AND OTHER RETROCESSIONAL COVERAGE...........4
+ARTICLE VI  CLAIMS.............................................................5
+ARTICLE VII  RECAPTURE.........................................................6
+ARTICLE VIII  GENERAL PROVISIONS...............................................6
+ARTICLE IX  TERMINAL ACCOUNTING AND SETTLEMENT.................................9
+ARTICLE X  CONFIDENTIALITY....................................................10
+ARTICLE XI  INSOLVENCY........................................................11
+ARTICLE XII  ARBITRATION......................................................11
+ARTICLE XIII  DAC TAX.........................................................13
+ARTICLE XIV  DURATION.........................................................14
+ARTICLE XV  EXECUTION.........................................................15
+
+
+Schedule A   Covered Individuals
+Schedule B   Reinsurance Premiums, Reporting  and Settlement Procedures
+
+
+<PAGE>
+
+
+THIS RETROCESSION AGREEMENT (this "Agreement"), is made and entered into as of
+December 31, 2004 (the "Effective Date") by and between Security Life of Denver
+Insurance Company, a Colorado-domiciled life insurance company (the
+"Retrocessionaire") and Scottish Re (U.S.), Inc., a Delaware-domiciled life
+insurance company (the "Reinsurer").
+
+WHEREAS, the Retrocessionaire, Security Life of Denver International Limited, a
+Bermuda insurance company ("SLDI" and, together with the Retrocessionaire, the
+"Sellers"), and Scottish Re Group Limited (the "Purchaser"), the indirect parent
+corporation of the Reinsurer, Newco and the Reinsurer, have entered into an
+Asset Purchase Agreement, dated as of October 17, 2004 (the "Asset Purchase
+Agreement"), pursuant to which the Sellers have agreed to sell, and the
+Purchaser has agreed to purchase, the individual life reinsurance business and
+certain assets of Sellers; and
+
+WHEREAS, as contemplated by the Asset Purchase Agreement, the Reinsurer and the
+Retrocessionaire have entered into a Coinsurance Agreement, and a
+Coinsurance/Modified Coinsurance Agreement, each dated December 31, 2004 (the
+"Reinsurance Agreements"), for the reinsurance on a 100% indemnity reinsurance
+basis of the Insurance Contracts described therein (collectively, the "Covered
+Insurance Contracts"); and
+
+WHEREAS, as further contemplated by the Asset Purchase Agreement, the Reinsurer
+wishes to retrocede to the Retrocessionaire, and the Retrocessionaire wishes to
+reinsure, on a yearly renewable term basis, a portion of the mortality risks
+with respect to the individuals identified on Schedule A attached hereto, as
+finalized in accordance with Section 1.2(b) (the "Covered Individuals") under
+the Covered Insurance Contracts;
+
+NOW, THEREFORE, in consideration of the mutual and several promises and
+undertakings herein contained, and for other good and valuable consideration,
+the receipt and adequacy of which are hereby acknowledged, the Retrocessionaire
+and the Reinsurer agree as follows:
+
+                                   ARTICLE I
+
+                              SCOPE OF REINSURANCE
+
+1.1.  Policies Reinsured. As of the Effective Date, the Retrocessionaire hereby
+      indemnifies the Reinsurer, according to the terms and conditions of this
+      Agreement, for the Excess Mortality Risks (as defined below).
+
+1.2.  Coverage and Exclusions.
+
+      (a) Only "Excess Mortality Risk" (as defined in the following sentence)
+      with respect to any Covered Individual is reinsured under this Agreement.
+      "Excess Mortality Risk" means death benefits payable by the Reinsurer with
+      respect to any Covered Individual which (i) are ceded to the Reinsurer by
+      the Retrocessionaire under a Covered Insurance Contract and (ii) together
+      with other risks retained by the Reinsurer with respect to such Covered
+      Individual prior to the Effective Date under other reinsurance agreements
+      would cause the amount of the Reinsurer's retained risk with respect to
+      such Covered Individual to exceed $2,000,000 (the "Reinsurer Net
+      Retention"). In calculating whether any risk with respect to any Covered
+      Individual constitutes an Excess Mortality Risk, the parties
+
+
+                                       1
+
+<PAGE>
+
+      shall take into consideration retrocessions of risk to third parties (by
+      either the Reinsurer or the Retrocessionaire), which shall be taken into
+      account for this purpose without regard to actual collection. For example,
+      a policy insuring the life of a Covered Individual that pays a death
+      benefit of $5,000,000 will only be deemed to have Excess Mortality Risk of
+      $1,000,000 if $2,000,000 of the risk under that policy has already been
+      retroceded (by either the Reinsurer or the Retrocessionaire) to a third
+      party.
+
+      (b) The parties agree that no later than June 30, 2005, they will, using
+      the complete data shown on the Sage System at that time, mutually identify
+      in good faith the individuals that would have been included on Schedule A
+      if all data with respect to cessions to and retrocessions by the
+      Retrocessionaire through the Effective Date had been input into the Sage
+      System as of the Effective Date. An individual will be included on
+      Schedule A only if (i) there is Excess Mortality Risk with respect to such
+      individual and (ii) there is no capacity for additional risk in the
+      retrocession market with respect to such individual. Any dispute as to
+      whether there is no capacity in the retrocession market with respect to a
+      particular individual will be resolved by determining whether, at the time
+      in question, the capacity in the retrocession market for additional risk
+      with respect to such individual is comparable as a practical matter to the
+      capacity in the retrocession market for additional risk on the individuals
+      identified on Schedule A as of the Effective Date. The Reinsurer shall
+      provide to the Retrocessionaire reasonable documentation demonstrating the
+      absence of such retrocessional capacity with respect to any individual the
+      Reinsurer believes should be included on the revised Schedule A. Any
+      individuals included on the revised Schedule A pursuant to this Section
+      1.2(b) will thereafter be deemed Covered Individuals for all purposes of
+      this Agreement, and any individuals not included on the revised Schedule A
+      pursuant to this Section 1.2(b) will thereafter not be deemed Covered
+      Individuals without regard to whether they were included on Schedule A on
+      the Effective Date. For the avoidance of doubt, it is acknowledged and
+      understood that if an individual for whom there would be Excess Mortality
+      Risk had such individual been determined to be a Covered Individual dies
+      after the Closing Date, and prior to the time of such individual's death
+      the parties have not made a final determination as to whether such
+      individual is a Covered Individual pursuant to the first sentence of this
+      clause (b), such individual will be deemed to be a Covered Individual
+      includable on Schedule A.
+
+1.3.  Plan of Reinsurance. Reinsurance under this Agreement shall be on a
+      yearly-renewable term basis.
+
+1.4.  No Third Party Beneficiary. This Agreement is an indemnity reinsurance
+      agreement solely between the Retrocessionaire and the Reinsurer, and the
+      performance of the obligations of each party under this Agreement shall be
+      rendered solely to the other party. In no instance shall anyone other than
+      the Retrocessionaire or the Reinsurer have any rights under this
+      Agreement.
+
+
+                                       2
+<PAGE>
+
+                                   ARTICLE II
+
+                                    LIABILITY
+
+2.1.  Liability. The liability of the Retrocessionaire for the Excess Mortality
+      Risks reinsured hereunder shall commence simultaneously with that of the
+      Reinsurer, but in no event prior to the Effective Date of this Agreement.
+      The reinsurance under this Agreement with respect to any Covered
+      Individual shall remain in force without reduction as long as the
+      liability of the Reinsurer with respect to such Covered Individual under
+      the Covered Insurance Contracts remains in force without reduction, unless
+      the reinsurance provided herein is terminated, reduced or recaptured as
+      provided herein. The Retrocessionaire's liability on any business
+      reinsured hereunder shall terminate simultaneously with that of the
+      Reinsurer.
+
+                                  ARTICLE III
+
+                                    PREMIUMS
+
+3.1.  Premiums. Reinsurance premiums for coverage under this Agreement are shown
+      in Schedule B. The Retrocessionaire shall be entitled to change such
+      premiums no more frequently than annually by providing written notice of
+      such change to the Reinsurer not later than sixty (60) calendar days prior
+      to the end of any calendar year, with the specified changes to be
+      effective as of January 1 of the following year. Any increase in such
+      premiums shall not be in a percentage greater than the percentage increase
+      in the market rates for similar retrocessions (taking into account the
+      nature of the underlying risks, the level of the risk being retroceded,
+      and any other factors appropriate to ensure reasonable comparability)
+      since the time that the then-effective premiums became effective (a
+      "Permitted Increase"). Any dispute as to whether any increase in premiums
+      constitutes a Permitted Increase shall be referred to a mutually agreeable
+      actuarial consulting firm, but the increases shall be effective and shall
+      be paid by the Reinsurer unless and until such actuarial consulting firm
+      determines that the increase did not constitute a Permitted Increase, in
+      which case the parties shall make appropriate retroactive adjustments to
+      reflect an increase deemed by the actuarial consulting firm to be a
+      Permitted Increase and shall apply that Permitted Increase thereafter.
+
+3.2.  Payment of Premiums. Reinsurance premiums are payable in accordance with
+      the settlement procedures specified in Schedule B.
+
+3.3.  Delayed Payment. All amounts due and payable by the Reinsurer to the
+      Retrocessionaire under this Agreement shall be paid in accordance with the
+      settlement procedures specified in Schedule B. Net reinsurance premiums or
+      net death benefits which remain unpaid for more than thirty (30) days from
+      the remit date set forth in Schedule B will incur interest from the end of
+      the reporting period. Interest will be calculated using the 13-week
+      Treasury Bill rate reported in the "Money Rates" section of the Wall
+      Street Journal for the last business day of the month of that reporting
+      period
+
+
+                                       3
+<PAGE>
+
+3.4.  Failure to Pay Premiums. The payment of reinsurance premiums is a
+      condition precedent to the liability of the Retrocessionaire for
+      reinsurance covered under this Agreement. In the event that reinsurance
+      premiums are not paid within forty-five (45) days of the remit date, the
+      Retrocessionaire will have the right to terminate the reinsurance
+      hereunder. If the Retrocessionaire elects to exercise its right of
+      termination, it will give the Reinsurer thirty (30) days notice of its
+      intention to terminate said reinsurance. Such notice will be sent by
+      certified mail. If all reinsurance premiums in arrears, including any
+      which may become in arrears during the thirty (30) day period and any
+      interest thereon, are not paid before the expiration of said period, the
+      Retrocessionaire will be relieved of all liability under this Agreement as
+      of the last date on which premiums have been paid. This Agreement may be
+      reinstated within sixty (60) days of the date of the termination, and upon
+      payment of all reinsurance premiums in arrears including any interest
+      accrued thereon.
+
+                                   ARTICLE IV
+
+                                    RESERVES
+
+4.1.  Reserve Credit. The parties intend that the Reinsurer will receive
+      statutory reserve credit in the State of Delaware and in all the states in
+      which the Reinsurer must file its statutory financial statements for the
+      insurance risks ceded to the Retrocessionaire. The Retrocessionaire agrees
+      that it will take commercially reasonable steps to provide the Reinsurer
+      with the basis upon which to take such credit, including, if necessary,
+      establishing a trust account for this purpose.
+
+
+                                   ARTICLE V
+
+            REDUCTIONS, TERMINATION AND OTHER RETROCESSIONAL COVERAGE
+
+5.1.  Reductions and Terminations. In the event of the reduction or termination
+      of the amount of the risk covered by the Covered Insurance Contracts with
+      respect to any Covered Individual, the Reinsurer will reduce or terminate
+      the reinsurance on that life, effective on the same date. The
+      Retrocessionaire will refund any unearned reinsurance premiums with
+      respect to such reduction or termination.
+
+5.2.  Other Retrocessional Coverage. On and after the Effective Date, the
+      Reinsurer agrees to use commercially reasonable efforts to obtain
+      retrocessional coverage on the Excess Mortality Risk to be effective as of
+      the Effective Date, or as soon as reasonably possible thereafter, from
+      third party reinsurers at rates and terms that are, within the reasonable
+      discretion of the Reinsurer, commercially reasonable.
+
+
+                                       4
+<PAGE>
+
+                                   ARTICLE VI
+
+                                     CLAIMS
+
+6.1.  Claims. Claims covered under this Agreement include only death benefits
+      payable with respect to Excess Mortality Risks. The Retrocessionaire will
+      accept the decision of the Reinsurer on payment of a claim with respect to
+      any Covered Individual under a Covered Insurance Contract; provided that
+      the Reinsurer shall adjudicate such claim in good faith.
+
+6.2.  Notice. The Reinsurer will provide the Retrocessionaire with a summary of
+      claims received with respect to the Covered Individuals under the Covered
+      Insurance Contracts no less frequently than on a quarterly basis.
+
+6.3.  Proofs of Loss. Upon request, the Reinsurer will promptly provide to the
+      Retrocessionaire the proper claim proofs, including a copy of the proof of
+      payment by the Reinsurer and a copy of the insured's death certificate.
+      For contested claims, the Reinsurer will also send to the
+      Retrocessionaire, upon request, a copy of all underwriting papers and
+      investigation reports.
+
+6.4.  Liability. The Reinsurer's contractual liability for claims on policies
+      reinsured under this Agreement is binding on the Retrocessionaire;
+      provided, however, for contested claims, the Reinsurer will consult with
+      the Retrocessionaire.
+
+      The total reinsurance recoverable by the Reinsurer from all
+      retrocessionaires will not exceed the Reinsurer's total liability with
+      respect to the Covered Individuals. The maximum reinsurance death benefit
+      payable to the Reinsurer under this Agreement with respect to any Covered
+      Individual is the Excess Mortality Risk specifically reinsured with the
+      Retrocessionaire. The Retrocessionaire will also pay its proportionate
+      share of interest payable by the Reinsurer with respect to death benefits.
+
+6.5.  Settlement. The Retrocessionaire will pay the reinsured death benefits in
+      a single sum in accordance with the settlement procedures set forth in
+      Schedule B.
+
+6.6.  Misrepresentation or Suicide. If the Reinsurer is obligated to return
+      premiums as a result of misrepresentation or suicide of any Covered
+      Individual under a Covered Insurance Contract, the Retrocessionaire will
+      refund to the Reinsurer all reinsurance premiums received with respect to
+      such Covered Individual in lieu of any other form of reinsurance benefit
+      payable under this Agreement.
+
+6.7.  Misstatement. In the event of an increase in the amount of the Reinsurer's
+      liability with respect to any Covered Individual under a Covered Insurance
+      Contract due to a misstatement of age or sex, the Retrocessionaire's
+      liability will increase automatically. Reinsurance premiums will be
+      adjusted from the inception of the policy, and any difference will be
+      settled without interest.
+
+6.8.  Reinsurance Conditions. The reinsurance provided hereunder is subject to
+      the same limitations and conditions as the terms and limitations in the
+      Covered Insurance Contracts except as otherwise provided herein.
+
+
+                                       5
+<PAGE>
+
+6.9.  Extra-Contractual Damages. The Retrocessionaire will not participate in
+      Punitive or Compensatory Damages or Statutory Penalties that are awarded
+      or imposed with respect to any Covered Individual under a Covered
+      Insurance Contract.
+
+For purposes of this Article the following definitions will apply:
+
+"Compensatory Damages" are those amounts awarded to compensate for the actual
+damages sustained, and are not awarded as a penalty, nor fixed in amount by
+statute;
+
+"Punitive Damages" are those damages awarded as a penalty, the amount of which
+is neither governed nor fixed by statute;
+
+"Statutory Penalties" are those amounts awarded as a penalty, but are fixed in
+amount by statute.
+
+                                  ARTICLE VII
+
+                                    RECAPTURE
+
+7.1.  Recapture. Upon sixty (60) days advance written notice to the
+      Retrocessionaire, the Reinsurer may recapture liabilities ceded under this
+      Agreement. If the Reinsurer increases the Reinsurer Net Retention, the
+      Excess Mortality Risks reinsured under this Agreement will be
+      correspondingly reduced. The Reinsurer will effectuate the recapture
+      required by the preceding sentence prior to recapturing any risk ceded to
+      any other retrocessionaire with respect to the Covered Individuals.
+
+                                  ARTICLE VIII
+
+                               GENERAL PROVISIONS
+
+8.1.  Currency. All payments under this Agreement will be made in United States
+      currency. All amounts expressed in this Agreement and in any reports
+      produced by either the Reinsurer or the Retrocessionaire will be expressed
+      in United States currency.
+
+8.2.  Any debits or credits incurred on and after the Effective Date in favor of
+      or against either the Reinsurer or Retrocessionaire with respect to this
+      Agreement or any other reinsurance agreements or trust agreements that
+      constitute Related Agreements (as such term is defined in the Asset
+      Purchase Agreement) or otherwise are deemed mutual debits or credits, as
+      the case may be, and shall be set off and recouped, and only the net
+      balance shall be allowed or paid. This Section 8.2 shall apply
+      notwithstanding the existence of any insolvency, rehabilitation,
+      conservatorship or comparable proceeding by or against the Reinsurer or
+      the Retrocessionaire.
+
+8.3.  Premium Tax. The Retrocessionaire will not reimburse the Reinsurer for
+      premium taxes.
+
+8.4.  Consent to Jurisdiction. Each party hereto irrevocably and unconditionally
+      submits to the exclusive jurisdiction of any State or Federal Court
+      sitting in Delaware, over any suit, action or proceeding arising out of or
+      relating to this Agreement. Each party hereto agrees that service of any
+      process, summons, notice or document by U.S. registered mail
+
+
+                                       6
+<PAGE>
+
+      addressed to such party shall be effective service of process for any
+      action, suit or proceeding brought against such party in such court. Each
+      party hereto irrevocably and unconditionally waives any objection to the
+      laying of venue of any such suit, action or proceeding brought in any such
+      court and any claim that any such action, suit or proceeding brought in
+      any such court has been brought in an inconvenient forum. Each party
+      hereto agrees that final judgment in any such action, suit or proceeding
+      brought in any such court shall be conclusive and binding upon such party
+      and may be enforced in any other courts to whose jurisdiction such party
+      may be subject, by suit upon such judgment.
+
+8.5.  Errors and Oversights. Inadvertent delays, errors or omissions made in
+      connection with this Agreement or any transaction hereunder shall not
+      relieve either party from any liability which would have attached had such
+      delay, error or omission not occurred, provided always that such error or
+      omission is rectified as soon as possible after discovery, and provided,
+      further, that the party making such error or omission or responsible for
+      such delay shall be responsible for any additional liability which
+      attaches as a result. If (a) the failure of either party to comply with
+      any provision of this Agreement is unintentional or the result of a
+      misunderstanding or oversight and (b) such failure to comply is promptly
+      rectified, both parties shall be restored as closely as possible to the
+      positions they would have occupied if no error or oversight had occurred.
+
+8.6.  Inspection of Records. Upon reasonable notice, the Reinsurer or the
+      Retrocessionaire (or their respective duly authorized representatives)
+      may, at the expense of the requesting party, inspect the original papers
+      and any and all other books or documents relating to or affecting
+      reinsurance under this Agreement during normal business hours at the home
+      office of the other.
+
+8.7.  Amendments; Entire Agreement. This Agreement may not be amended or
+      modified in any respect whatsoever except by instrument in writing signed
+      by the parties hereto. This Agreement, the Asset Purchase Agreement, the
+      other Related Agreements (as such term is defined in the Asset Purchase
+      Agreement and that certain confidentiality agreement dated May 4, 2004 by
+      and between ING America Insurance Holdings, Inc. and Scottish Re Group
+      Limited and other documents delivered pursuant hereto, constitute the
+      entire agreement between the parties hereto with respect to the subject
+      matter hereof and supersede all prior agreements understanding
+      negotiations, discussions, whether oral or written, of the parties and
+      there are no general or specific warranties, representations or other
+      agreements by or among the parties in connection with the entering into of
+      this Agreement or the subject matter hereof except as specifically set
+      forth or contemplated herein.
+
+8.8.  Assignment. This Agreement may not be assigned by either party without the
+      written consent of the other. This Agreement is binding on the parties and
+      their respective successors and permitted assignees.
+
+8.9.  Notices. Any notice, request or other communication to be given by any
+      party hereunder shall be in writing and shall be delivered personally,
+      sent by registered or certified, postage prepaid, or by overnight courier
+      with written confirmation of delivery. Any such
+
+
+                                       7
+<PAGE>
+
+      notice shall be deemed given when so delivered personally, or if mailed,
+      on the date shown on the receipt therefor, or if sent by overnight
+      courier, on the date shown on the written confirmation of delivery. Such
+      notices shall be given to the following address:
+
+          if to the Retrocessionaire:
+
+                  Security Life of Denver Insurance Company
+                  Attention: President
+                  c/o ING North America Insurance Corporation
+                  5780 Powers Ferry Road NW
+                  Atlanta, GA 30327
+
+          with a copy to:
+                  B. Scott Burton
+                  Corporate General Counsel
+                  ING North America Insurance Corporation
+                  5780 Powers Ferry Road NW
+                  Atlanta, GA 30327
+
+          and
+                  David A. Massey, Esq.
+                  Sutherland Asbill & Brennan LLP
+                  1275 Pennsylvania Ave., NW
+                  Washington, DC 20004-2415
+
+
+          if to the Reinsurer:
+
+          Scottish Re (U.S.), Inc.
+                  13840 Ballantyne Corporate Place, Suite 500
+                  Charlotte, NC 28277
+                  Attention:  General Counsel
+
+          with a copy to:
+                  Scottish Re Group Limited
+                  Crown House, Third Floor
+                  4 Par-la-Ville Road
+                  Hamilton, HM 12
+                  BERMUDA
+                  Attention: General Counsel
+
+          and a copy to:
+                  LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+                  125 West 55th Street
+                  New York, NY  10005
+                  Attention:  Stephen G. Rooney
+
+
+                                       8
+<PAGE>
+
+      Either party hereto may change the names or addresses where notice is to
+      be given by providing notice to the other party of such change in
+      accordance with this Section 8.9.
+
+8.10. Governing Law and Construction. This Agreement shall be governed by and
+      construed in accordance with the laws of the State of Delaware applicable
+      to contracts entered into therein, without reference to principles of
+      choice of law or conflicts of laws. This Agreement is a freely negotiated
+      contract between the Reinsurer and the Retrocessionaire and will not be
+      construed against either party because such party drafted this Agreement.
+
+8.11. Severability. Any term or provision of this Agreement which is invalid or
+      unenforceable in any jurisdiction shall, as to that jurisdiction, be
+      ineffective to the extent of such invalidity or unenforceability without
+      rendering invalid or unenforceable the remaining terms and provisions of
+      this Agreement or affecting the validity or enforceability of any of the
+      terms or provisions of this Agreement in any other jurisdiction, so long
+      as the economic or legal substance of the transactions contemplated hereby
+      is not affected in any manner materially adverse to any party. If any
+      provision of this Agreement is so broad as to be unenforceable, that
+      provision shall be interpreted to be only so broad as is enforceable.
+
+8.12. Captions and Schedules. The captions of this Agreement are for convenience
+      of reference only and shall not define or limit any of the terms or
+      provisions hereof. The schedules attached hereto are a part of this
+      Agreement.
+
+8.13. Counterparts. This Agreement may be executed by the parties hereto in
+      separate counterparts, each of which when so executed and delivered shall
+      be an original, but all such counterparts shall together constitute one
+      and the same instrument. Each counterpart may consist of a number of
+      copies hereof each signed by less than all, but together signed by all of
+      the parties hereto. Each counterpart may be delivered by facsimile
+      transmission, which transmission shall be deemed delivery of an originally
+      executed document.
+
+
+                                   ARTICLE IX
+
+                       TERMINAL ACCOUNTING AND SETTLEMENT
+
+9.1.  Terminal Accounting. In the event that all of the reinsurance under this
+      Agreement is terminated, a terminal accounting and settlement shall take
+      place.
+
+9.2.  Date of Termination. The effective date of termination shall be the end of
+      the accounting period in which termination is effective. The terminal
+      accounting date shall be the effective date of termination or such other
+      date as shall be mutually agreed to in writing.
+
+9.3.  Settlement. The terminal accounting and settlement shall consist of the
+      settlements as provided in Schedule B, computed as of the terminal
+      accounting date.
+
+
+                                       9
+<PAGE>
+
+      If the calculation of the terminal accounting and settlement produces an
+      amount due the Reinsurer, such amount shall be paid by the
+      Retrocessionaire to the Reinsurer.
+
+      If the calculation of the terminal accounting and settlement produces an
+      amount due the Retrocessionaire, such amount shall be paid by the
+      Reinsurer to the Retrocessionaire.
+
+9.4.  Supplementary Accounting and Settlement. In the event that, subsequent to
+      the terminal accounting and settlement as above provided, a change is made
+      with respect to any amount taken into account pursuant to Schedule B, a
+      supplementary accounting shall take place. Any amount owed to the
+      Reinsurer or from the Reinsurer by reason of such supplementary accounting
+      shall be paid promptly upon the completion thereof.
+
+                                    ARTICLE X
+
+                                 CONFIDENTIALITY
+
+      The parties agree that, other than as contemplated by this Agreement and
+      to the extent permitted or required to implement the transactions
+      contemplated by this Agreement, the parties will keep confidential and
+      will not use or disclose the other party's Confidential Information and
+      the terms and conditions of this Agreement, including, without limitation,
+      the exhibits and schedules hereto, except as otherwise required by
+      Applicable Law or any order or ruling of any state insurance regulatory
+      authority, the Securities and Exchange Commission or any other
+      Governmental Authority. The confidentiality obligations contained in this
+      Agreement or in any other agreement between the parties hereto, as they
+      relate to the reinsurance hereunder, shall not apply to the federal tax
+      structure or federal tax treatment of this Agreement and each party hereto
+      may disclose to any and all persons, without limitation of any kind, the
+      federal tax structure and federal tax treatment of this Agreement;
+      provided, that such disclosure may not be made until the earliest of (x)
+      the date of the public announcement of discussions relating to this
+      Agreement, (y) the date of the public announcement of this Agreement, or
+      (z) the date of the execution of this Agreement. The preceding sentence is
+      intended to cause this Agreement to be treated as not having been offered
+      under conditions of confidentiality for purposes of Section 1.6011-4(b)(3)
+      (or any successor provision) of the Treasury Regulations promulgated under
+      Section 6011 of the Internal Revenue Code of 1986, as amended, and shall
+      be construed in a manner consistent with such purpose. Subject to the
+      provision with respect to disclosure in the first sentence of this
+      subsection (b), each party hereto acknowledges that it has no proprietary
+      or exclusive rights to the federal tax structure of this Agreement or any
+      federal tax matter or federal tax idea related to this Agreement.
+
+      For purposes of this Article X, "Confidential Information" shall mean all
+      documents and information concerning one party, any of its Affiliates, the
+      Excess Mortality Risks, the Covered Individuals or the Covered Insurance
+      Contracts, including any information relating to any person insured
+      directly or indirectly under the Covered Insurance Contracts, furnished to
+      the other party or such other party's Affiliates or representatives in
+      connection with this Agreement or the transactions contemplated hereby,
+      except that Confidential Information shall not include information which:
+      (a) at the time of
+
+
+                                       10
+<PAGE>
+
+      disclosure or thereafter is generally available to and known by the public
+      other than by way of a wrongful disclosure by a party hereto or by any
+      representative of a party hereto; (b) was available on a nonconfidential
+      basis from a source other than the parties hereto or their
+      representatives, provided that such source is not and was not bound by a
+      confidentiality agreement with a party hereto; or (c) was independently
+      developed without violating any obligations under this Agreement and
+      without the use of any Confidential Information.
+
+                                   ARTICLE XI
+
+                                   INSOLVENCY
+
+11.1. Insolvency of the Reinsurer. In the event of the insolvency of the
+      Reinsurer, all reinsurance made, ceded, renewed or otherwise becoming
+      effective under this Agreement shall be payable by the Retrocessionaire
+      directly to the Reinsurer or to its statutory liquidator, receiver or
+      statutory successor on the basis of the liability of the Reinsurer with
+      respect to the Covered Individuals under the Covered Insurance Contracts
+      without diminution because of the insolvency of the Reinsurer. It is
+      understood, however, that in the event of the insolvency of the Reinsurer,
+      the liquidator, receiver or statutory successor of the Reinsurer shall
+      give written notice of the pendency of a claim against the Reinsurer with
+      respect to a Covered Individual under a Covered Insurance Contract within
+      a reasonable period of time after such claim is filed in the insolvency
+      proceedings and that during the pendency of such claim the
+      Retrocessionaire may investigate such claim and interpose, at its own
+      expense, in the proceeding where such claim is to be adjudicated, any
+      defense or defenses which it may deem available to the Reinsurer or its
+      liquidator, receiver or statutory successor. It is further understood that
+      the expense thus incurred by the Retrocessionaire shall be chargeable,
+      subject to court approval, against the Reinsurer as part of the expense of
+      liquidation to the extent of a proportionate share of the benefit which
+      may accrue to the Reinsurer solely as a result of the defense undertaken
+      by the Retrocessionaire.
+
+11.2. Insolvency of the Retrocessionaire. In the event of the insolvency of the
+      Retrocessionaire, the Reinsurer may, upon giving thirty (30) days written
+      notice to the Retrocessionaire, its liquidator, receiver or statutory
+      successor, recapture all of the business reinsured under this Agreement.
+
+                                  ARTICLE XII
+
+                                   ARBITRATION
+
+12.1. Arbitration.
+
+          (a) After the Closing Date, any dispute between the parties with
+respect to the calculation of amounts that are to be calculated, reported, or
+that may be audited pursuant to this Agreement (other than disputes relating to:
+(i) the SLD Closing Statement and the assets to be transferred to the Reinsurer,
+the SLD Reserve Trust Account and the SLD Security Trust Account pursuant to
+Article II of the Asset Purchase Agreement, which shall be resolved in
+
+
+                                       11
+<PAGE>
+
+accordance with the Asset Purchase Agreement; (ii) calculations relating to DAC
+tax, which shall be resolved in accordance with Article XIII hereof, or (iii)
+matters relating to whether a Triggering Event (as defined in each Reinsurance
+Agreement) has occurred), shall be decided through negotiation and, if
+necessary, arbitration as set forth in Section 12.2.
+
+          (b) The parties intend this Section 12.1 to be enforceable in
+accordance with the Federal Arbitration Act (9 U.S.C., Section 1) including any
+amendments to that Act which are subsequently adopted. In the event that either
+party refuses to submit to arbitration as required by Section 7.01(a), the other
+party may request the court specified in Section 8.4 to compel arbitration in
+accordance with the Federal Arbitration Act.
+
+12.2. Arbitration Procedure.
+
+          (a) The Reinsurer and Retrocessionaire intend that any dispute between
+them arising under this Agreement (excluding those disputes identified in
+Section 12.1(a)) be resolved without resort to any litigation. Accordingly, the
+Reinsurer and Retrocessionaire agree that they will negotiate diligently and in
+good faith to agree on a mutually satisfactory resolution of any such dispute;
+provided, however, that if any such dispute cannot be so resolved by them within
+sixty (60) calendar days (or such longer period as the parties may agree) after
+commencing such negotiations, the Reinsurer and Retrocessionaire agree that they
+will submit such dispute to arbitration in the manner specified in, and such
+arbitration proceeding will be conducted in accordance with, the Commercial
+Arbitration Rules of the American Arbitration Association.
+
+          (b) The arbitration hearing will be before a panel of three
+disinterested arbitrators, each of whom must be a present or former officer of a
+life insurance or life reinsurance company familiar with the life reinsurance
+business, or other professionals with experience in life insurance or
+reinsurance, provided that such professionals shall not have performed services
+for either party within the previous five (5) years, and provided further that
+no arbitrator shall be a former employee of the Reinsurer or any of its
+Affiliates. The Reinsurer and Retrocessionaire will each appoint one arbitrator
+by written notification to the other party within thirty (30) calendar days
+after the date of the mailing of the notification initiating the arbitration.
+These two arbitrators will then select the third arbitrator within sixty (60)
+calendar days after the date of the mailing of the notification initiating
+arbitration.
+
+          (c) If either the Reinsurer or Retrocessionaire fails to appoint an
+arbitrator, or should the two arbitrators be unable to agree upon the choice of
+a third arbitrator, the president of the American Arbitration Association will
+appoint the necessary arbitrators within thirty (30) calendar days after the
+request to do so.
+
+          (d) The arbitrators shall base their decision on the terms and
+conditions of this Agreement. However, if the terms and conditions of this
+Agreement do not explicitly dispose of an issue in dispute between the parties,
+the arbitrators may base their decision on the customs and practices of the life
+insurance and life reinsurance industry together with an interpretation of the
+law. The vote or approval of a majority of the arbitrators will decide any
+question considered by the arbitrators. The place of arbitration will be
+determined by the arbitrators. Each decision (including without limitation each
+award) of the arbitrators will be final and binding on all parties and will be
+nonappealable, except that (at the request of either the Reinsurer or
+
+
+                                       12
+<PAGE>
+
+Retrocessionaire) any award of the arbitrators may be confirmed (or, if
+appropriate, vacated) by a judgment entered by the court specified in Section
+8.4. No such award or judgment will bear interest except as provided in Section
+3.3. In no event may the arbitrators award punitive or exemplary damages. Each
+party will be responsible for paying (a) all fees and expenses charged by its
+respective counsel, accountants, actuaries, and other representatives in
+conjunction with such arbitration and (b) one-half of the fees and expenses
+charged by each arbitrator.
+
+                                  ARTICLE XIII
+
+                                     DAC TAX
+
+13.1. Election.
+
+          (a) All uncapitalized terms used herein shall have the meanings set
+forth in the regulations under Section 848 of the Code.
+
+          (b) Each of the Reinsurer and the Retrocessionaire acknowledges that
+it is subject to taxation under Subchapter L of the Code and hereby makes the
+election contemplated by Section 1.848-2(g)(8) of the Treasury Regulations with
+respect to this Agreement. Each of the Reinsurer and the Retrocessionaire (i)
+agrees that such election is effective for the taxable year of each party that
+includes the Effective Date and for all subsequent years during which this
+Agreement remains in effect and (ii) warrants that it will take no action to
+revoke the election.
+
+          (c) Pursuant to Section 1.848-2(g)(8) of the Treasury Regulations,
+each of the Reinsurer and the Retrocessionaire hereby agrees (i) to attach a
+schedule to its federal income tax return for its first taxable year ending on
+or after the Effective Date that identifies this Agreement as a reinsurance
+agreement for which the joint election under Section 1.848-2(g)(8) has been
+made, (ii) that the party with net positive consideration for this Agreement for
+each taxable year will capitalize its specified policy acquisition expenses with
+respect to this Agreement without regard to the general deductions limitation of
+Section 848(c)(1) of the Code, and (iii) to exchange information pertaining to
+the amount of net consideration under this Agreement each year to ensure
+consistency or as otherwise required by the Internal Revenue Service. The
+Retrocessionaire shall prepare and execute duplicate copies of the schedule
+described in the preceding sentence as soon as practicable after the Effective
+Date and submit them to the Reinsurer for execution. The Reinsurer shall execute
+the copies and return one of them to the Retrocessionaire within thirty (30)
+calendar days of the receipt of such copies.
+
+          (d) The Reinsurer shall submit a schedule to the Retrocessionaire by
+May 1 of each year of its calculation of the net consideration under this
+Agreement for the preceding taxable year. This schedule of calculations shall be
+accompanied by a statement signed by an authorized representative of the
+Reinsurer stating that the Reinsurer shall report such net consideration in its
+federal income tax return for the preceding taxable year.
+
+          (e) The Retrocessionaire may contest such calculation by providing an
+alternative calculation to the Reinsurer in writing within thirty (30) calendar
+days after the date on which the Retrocessionaire receives the Reinsurer's
+calculation. If the Retrocessionaire does not so notify the Reinsurer, the
+Retrocessionaire shall report the net consideration under this
+
+
+                                       13
+<PAGE>
+
+Agreement as determined by the Reinsurer in the Retrocessionaire's federal
+income tax return for the preceding taxable year.
+
+          (f) If Retrocessionaire contests the Reinsurer's calculation of the
+net consideration under this Agreement, the parties shall act in good faith to
+reach an agreement as to the correct amount of net consideration within thirty
+(30) calendar days after the date on which the Retrocessionaire submits its
+alternative calculation. If Retrocessionaire and the Reinsurer reach an
+agreement as to the amount of net consideration under this Agreement, each party
+shall report such amount in its federal income tax return for the preceding
+taxable year.
+
+          If, during such period, Retrocessionaire and the Reinsurer are unable
+to reach an agreement, they shall promptly thereafter cause Deloitte & Touche
+USA LLP (the "Independent Accountants") to promptly review (which review shall
+commence no later than five (5) calendar days after the selection of the
+Independent Accountants) this Agreement and the calculations of Retrocessionaire
+and the Reinsurer for the purpose of calculating the net consideration under
+this Agreement. In making such calculation, the Independent Accountants shall
+consider only those items or amounts in the Reinsurer's calculation as to which
+the Retrocessionaire has disagreed.
+
+          The Independent Accountants shall deliver to Retrocessionaire and the
+Reinsurer, as promptly as practicable (but no later than thirty (30) calendar
+days after the commencement of their review), a report setting forth such
+calculation, which calculation shall result in a net consideration between the
+amount thereof shown in the Reinsurer's calculation delivered pursuant to
+Section 13.1(d) and the amount thereof shown in Retrocessionaire's calculation
+delivered pursuant to Section 13.1(e). Such report shall be final and binding
+upon Retrocessionaire and the Reinsurer. The fees, costs and expenses of the
+Independent Accountants shall be borne (i) by the Reinsurer if the difference
+between the net consideration as calculated by the Independent Accountants and
+the Reinsurer's calculation delivered pursuant to Section 13.1(d) is greater
+than the difference between the net consideration as calculated by the
+Independent Accountants and Retrocessionaire's calculation delivered pursuant to
+Section 13.1(e), (ii) by the Retrocessionaire if the first such difference is
+less than the second such difference, and (iii) otherwise equally by
+Retrocessionaire and the Reinsurer.
+
+
+
+                                  ARTICLE XIV
+
+                                    DURATION
+
+14.1. Duration. Except as otherwise provided herein, this Agreement shall be
+      unlimited in duration. The obligations of the Retrocessionaire under this
+      Agreement shall terminate at such time as there is no Excess Mortality
+      Risk on a Covered Individual (taking into account the then current
+      Reinsurer Net Retention), and all amount due the parties hereunder have
+      been settled.
+
+14.2. Survival. Notwithstanding the other provision of this Article, the terms
+      and conditions of Articles VI, VIII, X and XII shall remain in full force
+      and effect after the termination of this Agreement.
+
+
+                                       14
+<PAGE>
+
+
+                                   ARTICLE XV
+
+                                    EXECUTION
+
+      IN WITNESS OF THE ABOVE, this Agreement is signed in duplicate on the
+dates indicated to be effective as of December 31, 2004.
+
+      SCOTTISH RE (U.S.), INC.
+
+      By:      /s/ Oscar Scofield
+               --------------------------------------------
+      Title:   CEO/ President
+               --------------------------------------------
+      Date:    December 31, 2004
+               --------------------------------------------
+
+
+      SECURITY LIFE OF DENVER INSURANCE COMPANY
+
+      By:      /s/ Mark Tullis
+               --------------------------------------------
+      Title:   Mark Tullis, President
+               --------------------------------------------
+      Date:    December 31, 2004
+               --------------------------------------------
+
+                                       15
+</TEXT>
+</DOCUMENT>

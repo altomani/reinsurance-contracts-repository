@@ -1,0 +1,1219 @@
+<DOCUMENT>
+<TYPE>EX-10.51
+<SEQUENCE>13
+<FILENAME>ex10-51.txt
+<DESCRIPTION>SECURITY TRUST AGREEMENT
+<TEXT>
+                            SECURITY TRUST AGREEMENT
+
+                                   Dated as of
+
+                                December 31, 2004
+
+                                  by and among
+
+                            Scottish Re (U.S.), Inc.
+
+                                   as Grantor,
+
+                    Security Life of Denver Insurance Company
+
+                                 as Beneficiary,
+
+                              The Bank of New York
+
+                                 as Trustee, and
+
+                              The Bank of New York
+
+                           as Securities Intermediary
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+                                                                            Page
+
+Section 1.   Deposit of Assets to the Security Trust Account...................2
+Section 2.   Withdrawal of Assets by Beneficiary from the Security Trust
+               Account.........................................................4
+Section 3.   Withdrawal of Assets by Grantor from the Security Trust Account...5
+Section 4.   Procedure for Withdrawals of Assets; Certain Covenants............6
+Section 5.   Redemption, Investment and Substitution of Assets.................7
+Section 6.   The Income Account................................................8
+Section 7.   Right to Vote Assets..............................................8
+Section 8.   Additional Rights and Duties of the Trustee and the Securities
+               Intermediary....................................................8
+Section 9.   The Trustee's Compensation, Expenses and Indemnification.........11
+Section 10.  Resignation of the Trustee.......................................12
+Section 11.  Termination of the Security Trust Account........................12
+Section 12.  Definitions......................................................13
+Section 13.  Governing Law....................................................17
+Section 14.  Successors and Assigns...........................................17
+Section 15.  Severability.....................................................17
+Section 16.  Entire Agreement.................................................17
+Section 17.  Amendments.......................................................17
+Section 18.  Notices, etc.....................................................18
+Section 19.  Headings.........................................................19
+Section 20.  Counterparts.....................................................19
+
+EXHIBITS
+
+    A        Security Trust Schedule
+    B        Investment Policies
+    C        SLDI Capital Adequacy Ratio Calculation
+    D        Grantor Capital Adequacy Ratio Calculation
+
+
+                                      i
+
+<PAGE>
+
+
+                            SECURITY TRUST AGREEMENT
+
+     SECURITY TRUST AGREEMENT, dated as of December 31, 2004 (the "Agreement"),
+by and among Scottish Re (U.S.), Inc., an insurance company organized and
+existing under the laws of and domiciled in the State of Delaware (hereinafter
+the "Grantor"), Security Life of Denver Insurance Company, a stock insurance
+company organized and existing under the laws of and domiciled in the State of
+Colorado (such insurer and its successors by operation of law, including,
+without limitation, any liquidator, rehabilitator, receiver or conservator
+thereof, being hereinafter referred to as the "Beneficiary"), The Bank of New
+York, a New York banking corporation as trustee and as secured party, for the
+benefit of the Beneficiary (such bank, in its capacity as trustee and as secured
+party, being referred to as the "Trustee"), and The Bank of New York, a New York
+banking corporation as trustee and as secured party, for the benefit of the
+Beneficiary (such bank, in its capacity as securities intermediary, being
+referred to as the "Securities Intermediary").
+
+                                   WITNESSETH:
+
+     WHEREAS, the Grantor, the Beneficiary, Security Life of Denver
+International Limited, a Bermuda insurance company ("SLDI" and, together with
+the Beneficiary, the "Sellers"), and Scottish Re Group Limited ("Purchaser"),
+the indirect parent corporation of the Grantor, and Newco, a Bermuda insurance
+company, have entered into an Asset Purchase Agreement, dated as of October 17,
+2004 (the "Asset Purchase Agreement"), pursuant to which Sellers have agreed to
+sell, and the Purchaser has agreed to purchase, the individual life reinsurance
+business and certain assets of Sellers; and
+
+     WHEREAS, the Grantor and the Beneficiary have entered into one or more
+Reinsurance Agreements, dated as of the date hereof, whereby the Grantor, as
+reinsurer, has agreed to reinsure specified business of the Beneficiary as
+ceding insurer (hereinafter referred to as the "Reinsurance Agreements"); and
+
+     WHEREAS, pursuant to the terms of the Asset Purchase Agreement and the
+Reinsurance Agreements, the Beneficiary is required to pay the Grantor the
+amount of $160,000,000 (the "Security Amount"); and
+
+     WHEREAS, the Grantor desires to establish with the Trustee a trust account
+(the "Security Trust Account") and transfer to the Trustee for deposit in the
+Security Trust Account cash and other Assets in an amount equal to the Security
+Amount in order to secure and to fund the obligation of Grantor (i) to make
+payments in connection with a recapture of the business subject to the
+Reinsurance Agreements after the occurrence of a Triggering Event up to an
+amount equal to the Security Amount, and (ii) to fund the Reserve Trust Account
+under certain circumstances; and
+
+     WHEREAS, the Trustee has agreed to act as Trustee hereunder and, in
+accordance with the terms hereof, to hold cash or other Assets in trust in the
+Security Trust Account on the terms herein set forth.
+
+
+<PAGE>
+
+     NOW, THEREFORE, for and in consideration of the premises and for other good
+and valuable consideration, the receipt of which is hereby acknowledged, the
+parties hereby agree as follows:
+
+Section 1. Deposit of Assets to the Security Trust Account.
+
+     (a) Concurrently with the execution and delivery of this Agreement, the
+Grantor hereby establishes a Security Trust Account and the Trustee hereby
+accepts the Security Trust Account herein created and declared upon the terms
+provided herein and shall administer the Security Trust Account as Trustee, and
+with respect to the security interest granted in Section 1(f) hereof, and as
+secured party for the exclusive benefit of the Beneficiary. The Grantor shall
+establish and the Trustee shall maintain the Security Trust Account as a
+securities account at The Bank of New York as Securities Intermediary with
+regard to the Security Trust Account. The Trustee shall be the entitlement
+holder with respect to the Security Trust Account. The Security Trust Account
+shall be subject to withdrawal by the Beneficiary and the Grantor as provided
+herein. The Trustee and its lawfully appointed successors are authorized and
+shall have power to receive such cash and other securities and property as the
+Grantor transfers to or vests in the Trustee or places under the Trustee's
+possession and control, and to hold, invest, reinvest, manage and dispose of the
+same for the uses and purposes and in the manner and according to the provisions
+hereinafter set forth. All such trusteed assets at all times shall be maintained
+as a trust account, separate and distinct from all other assets of the Trustee,
+and shall be continuously maintained by the Trustee.
+
+     (b) Pursuant to Section 3.1(a) of the Reinsurance Agreement, the Grantor
+shall transfer to the Trustee, for deposit to the Security Trust Account, on the
+date hereof, cash and such other assets as may be designated by the Grantor in
+an amount equal to the Security Amount (all such assets actually received in the
+Security Trust Account and proceeds thereof are herein referred to individually
+as an "Asset" and collectively as the "Assets").
+
+     (c) If, at the end of a calendar quarter, the fair market value of the
+Assets in the Security Trust Account is less than the required amount as
+specified on Exhibit A hereto (the "Required Amount") for the next calendar
+quarter, other than as a result of withdrawals pursuant Section 3(c) or (d), the
+Grantor shall transfer cash or other assets to the Security Trust Account in an
+amount equal to such deficiency. If, as a result of any withdrawal pursuant to
+Section 3(d) the fair market value of the Assets in the Security Trust Account
+falls below the Required Amount, the Grantor shall not have the right to
+withdraw (i) any asset from the Security Trust Account, or (ii) any amount in
+the Income Account, in each case until such time as the fair market value of the
+Assets in the Security Trust Account following such withdrawal equals the
+Required Amount.
+
+     (d) The Grantor hereby represents, warrants and covenants (i) that any
+Assets transferred to the Trustee for deposit to the Security Trust Account will
+be in such form that the Beneficiary may, upon satisfaction of the conditions
+set forth in Section 2, and the Trustee, upon written direction by the
+Beneficiary may, negotiate any such Assets without consent or signature from the
+Grantor or any Person other than a Depository (as such term is hereinafter
+defined) in accordance with the terms of this Agreement; and (ii) that all
+Assets transferred to the Trustee for
+
+
+                                       2
+<PAGE>
+
+deposit to the Security Trust Account will consist only of cash (United States
+legal tender) and Eligible Securities (as hereinafter defined).
+
+     (e) All Assets in the Security Trust Account shall be valued at their
+current fair market value in U.S. dollars as determined by the Trustee in its
+sole discretion exercised in a reasonable manner as described below. Within ten
+(10) Business Days after the end of each month the Trustee shall send to the
+Beneficiary and the Grantor a written report regarding the valuation of the
+Assets at the end of such month (the "Valuation Report"). Each report shall
+include a fair market value valuation of all Assets in the Security Trust
+Account in accordance with the asset prices provided by the market makers or
+such other appropriate independent sources of valuation as recommended in
+writing to the Trustee by the Grantor's investment manager or, in their absence,
+by an independent nationally recognized pricing service to which the Trustee
+subscribes in the normal conduct of its business (e.g., Interactive Data,
+Merrill Lynch, Bloomberg, Lehman Brothers Inc., etc.). The Trustee shall not be
+liable for incorrect fair market value of Assets caused by the use of inaccurate
+or erroneous prices provided by such pricing services or sources. If the price
+is not available as set forth above, the Trustee can obtain the price by
+retaining, at the expense of the Grantor and pursuant to the written
+recommendation of the Grantor's investment manager, a major independent
+securities valuation firm to appraise the value of such Assets. If the Grantor
+or the Beneficiary disputes the fair market value of the Assets in the Security
+Trust Account as set forth in the Valuation Report, then within ten Business
+Days following receipt of the Valuation Report, the Grantor or the Beneficiary,
+as the case may be, will notify the other party of its dispute regarding the
+valuation (the "Valuation Dispute Notice"). The Valuation Dispute Notice shall
+contain sufficient information to support the disputing party's valuation. The
+Trustee shall not be a party to any dispute between the Grantor and Beneficiary
+relating to the valuation of Assets set forth in the Valuation Report, but shall
+be provided with a copy of any Valuation Dispute Notice delivered by the Grantor
+or Beneficiary under this provision. The non-disputing party has five Business
+Days from the receipt of the Valuation Dispute Notice to agree with the
+disputing party's valuation or provide its own reasonable valuation of the
+specific Assets in dispute (the "Asset Response"). During no more than four
+Business Days after the Asset Response, the parties to the dispute will continue
+to work to resolve the disagreement, failing which they shall disclose to each
+other their final and last best proposal ("Proposal" as hereinafter defined) no
+later than the end of such four Business Day period. For purposes hereof, a
+"Proposal" of a party to the dispute shall consist of the valuation correction
+and related information supporting the valuation correction. If no resolution of
+disagreements is reached on or prior to the Business Day following such four
+Business Days, the parties to the dispute will on such next following Business
+Day submit their final and last best Proposal (previously disclosed to the other
+party as provided above) to arbitration by a major independent securities
+valuation firm, the identity of which shall be mutually agreed, and the parties
+to the dispute will abide by the result of such arbitration, which arbitration
+process shall require the arbitrator to select one of the two final and last
+best Proposals and to render its opinion regarding the reasonableness of the
+parties' actions for purposes of the next sentence. The cost of such arbitration
+shall be borne by the party who delivered the Valuation Dispute Notice if it
+rejects a reasonable Asset Response and otherwise the cost shall be shared
+equally by the Beneficiary and Grantor. To the extent feasible, and at the joint
+written direction of the Grantor and the Beneficiary, the Trustee shall adopt
+the valuation methodology underlying the valuation adopted in arbitration or
+agreed to by the Beneficiary and the Grantor.
+
+
+                                       3
+<PAGE>
+
+     Pending resolution of any dispute with respect to valuation of Assets, the
+Grantor and Beneficiary will continue to follow the requirements of this
+Agreement based on the Trustee's Valuation Report as submitted. Upon resolution
+of any dispute regarding the valuation, the Trustee will take the action
+hereunder that it would otherwise have been required to take, if any.
+
+     (f) In order to secure the timely and complete payment and performance of
+each and all of the Grantor's Obligations, the Grantor hereby grants to the
+Trustee as agent of and as secured party for the exclusive benefit of the
+Beneficiary, a security interest in the Grantor's right, title and interest in
+the Security Trust Account and the Assets (including without limitation any
+residual interest therein). The Trustee, as entitlement holder for the benefit
+of the Beneficiary of all rights associated with the Assets and the Security
+Trust Account, shall have control (as defined in the UCC) of the Assets and
+Security Trust Account for the purpose of perfecting the interest granted hereby
+and shall issue entitlement orders to the Securities Intermediary as instructed
+by the Grantor and the Beneficiary in accordance with the terms of this
+Agreement. The Grantor hereby authorizes the Beneficiary to file or to instruct
+the Trustee to file UCC-1 Financing Statements with respect to the Security
+Trust Account and the Assets for which such a financing statement is
+appropriate, and hereby appoints the Beneficiary as attorney-in-fact for the
+purpose of signing Grantor's name on any such financing statements. The Trustee
+shall, at the written direction of the Beneficiary, file the completed UCC-1
+Financing Statements delivered to the Trustee by the Beneficiary with respect to
+the Security Trust Account and the Assets.
+
+     (g) The Required Amount shown on Exhibit A shall proportionately be
+adjusted from time to time to reflect any adjustment pursuant to Section 2.5(h)
+or 2.5(j) of the Asset Purchase Agreement, any Excess Withdrawal Amount and any
+Reserve Withdrawal Amount (but not any withdrawal pursuant to Section 3(a), (d)
+or (e)). For the avoidance of doubt, the proportionate adjustment to the
+Required Amount described in the immediately preceding sentence shall be
+determined by the Grantor and the Beneficiary as follows: the Required Amount
+for each quarter beginning with the quarter in which such adjustment is effected
+shall be decreased by the same percentage that the then current Assets in the
+Security Trust Account are decreased as a result of any of the withdrawals or
+adjustments described in the immediately preceding sentence.
+
+Section 2. Withdrawal of Assets by Beneficiary from the Security Trust Account.
+
+     The Beneficiary shall have the right to direct the Trustee to withdraw
+Assets from the Security Trust Account (i) to fund a recapture payment pursuant
+to the terms of the Reinsurance Agreements following the occurrence of a
+Triggering Event, or (ii) to fund any shortfalls in the Reserve Trust Account
+following the occurrence of a Triggering Event, by providing a notice (the
+"Beneficiary's Withdrawal Notice") to the Trustee, with a copy to the Grantor.
+The Beneficiary's Withdrawal Notice shall specify the amount of Assets to be
+withdrawn and the reason for the withdrawal and shall be signed by an authorized
+signatory of the Beneficiary. Such Beneficiary's Withdrawal Notice shall be
+effective, and shall be honored by the Trustee, on the tenth (10th) Business Day
+after receipt by the Trustee. The Trustee shall deliver such Assets or the
+proceeds thereof to (i) the Beneficiary, if such Assets or proceeds are being
+withdrawn to fund a recapture payment, or (ii) the Reserve Trust Account, if
+such Assets or proceeds are being withdrawn to fund a shortfall in the Reserve
+Trust Account.
+
+
+                                       4
+<PAGE>
+
+Section 3. Withdrawal of Assets by Grantor from the Security Trust Account.
+
+     (a) Prior to the occurrence of a Triggering Event, the Grantor shall have
+the right to direct the Trustee to withdraw such Assets or amounts from the
+Security Trust Account at the end of each calendar quarter that are in excess of
+the Required Amount for the next calendar quarter as specified on Exhibit A, by
+providing a notice (the "Grantor's Withdrawal Notice") to the Trustee, with a
+copy to the Beneficiary. The Grantor's Withdrawal Notice shall specify the
+amount or Assets to be withdrawn and shall be signed by an authorized signatory
+of the Grantor. Such Grantor's Withdrawal Notice shall be effective, and shall
+be honored by the Trustee, on the tenth (10th) Business Day after receipt by the
+Trustee. The Trustee shall deliver such amount or Assets or the proceeds thereof
+to the Grantor. After such time as the Beneficiary has provided the Trustee with
+notice that a Triggering Event has occurred (a "Triggering Event Notice"), the
+Trustee will not honor any Grantor's Withdrawal Notice until such time as the
+Beneficiary provides the Trustee with notice that such Triggering Event has been
+cured.
+
+     (b) Prior to the occurrence of a Triggering Event, Grantor shall have the
+right to direct the Trustee to withdraw excess amounts ("Excess Withdrawal
+Amounts") from the Security Trust Account in proportion to the reduction of the
+Excess Reserve Amount as defined in Section 5.24 of the Asset Purchase Agreement
+(i) upon implementation of any Purchaser Facility in accordance with Section
+5.24 of the Asset Purchase Agreement, or (ii) upon novation of the Insurance
+Contracts, by providing written notice to the Trustee of such withdrawal (an
+"Excess Withdrawal Notice"), with a copy to the Beneficiary. For avoidance of
+doubt, the proportion referred to in the immediately preceding sentence shall be
+determined as follows: the then current balance in the Security Trust Account
+may be withdrawn pursuant to this Section 3(b) in the same percentage as the
+then-current Excess Reserve Amount is decreased as a result of the
+implementation of a Purchaser Facility or novations, as the case may be. The
+Excess Withdrawal Notice shall specify the Excess Withdrawal Amount, shall be
+signed by an authorized signatory of the Grantor and shall be deemed to have
+been approved, unless the Beneficiary shall indicate in writing to the Grantor
+and the Trustee that it desires to contest the Grantor's representations within
+ten (10) Business Days following the receipt of the Excess Withdrawal Notice.
+Unless contested by the Beneficiary, the Trustee shall deliver the Excess
+Withdrawal Amount to the Grantor.
+
+     (c) In the event that the Reserves required under the Reinsurance
+Agreements are materially increased as a result of a required change in
+assumptions or methodology, the Grantor shall have the right to direct the
+Trustee to withdraw an amount equal to such increase (the "Reserve Withdrawal
+Amount") by providing a notice (the "Reserve Withdrawal Notice") to the Trustee,
+with a copy to the Beneficiary. The Reserve Withdrawal Notice shall specify the
+Reserve Withdrawal Amount and shall be signed by an authorized signatory of the
+Grantor; provided that no such withdrawal is permitted without the Beneficiary's
+consent, which consent shall not be unreasonably withheld. Any amounts withdrawn
+by the Grantor pursuant to this Section 3(c) from the Security Trust Account
+shall be deposited directly into the Reserve Trust Account.
+
+     (d) Upon the occurrence of a Triggering Event other than a Triggering Event
+resulting from any event described in clause (iv) or (v) of the definition of
+the Triggering Event, the Grantor shall have the right to direct the Trustee to
+withdraw such Assets or amounts from
+
+
+                                       5
+<PAGE>
+
+the Security Trust Account to fund any shortfall in the Reserve Trust Account by
+providing a notice to the Trustee of such withdrawal (a "Reserve Trust Shortfall
+Notice"), with a copy to the Beneficiary. The Reserve Trust Shortfall Notice
+shall specify the amount or Assets to be withdrawn and shall be signed by an
+authorized signatory of the Grantor. Such Reserve Trust Shortfall Notice shall
+be effective, and shall be honored by the Trustee, on the tenth (10th) Business
+Day after receipt by the Trustee. The Trustee shall deliver such amount of
+Assets or the proceeds thereof to the Reserve Trust Account.
+
+     (e) Upon the occurrence of an ING Event, the Grantor shall have the right
+to direct the Trustee to withdraw all Assets or amounts from the Security Trust
+Account by providing a notice to the Trustee (an "ING Event Notice"), with a
+copy to the Beneficiary. The ING Event Notice shall specify the amount or Assets
+to be withdrawn and shall be signed by an authorized signatory of the Grantor.
+Such ING Event Notice shall be effective, and shall be honored by the Trustee,
+on the tenth (10th) Business Day after receipt by the Trustee. The Trustee shall
+deliver such amount of Assets or the proceeds thereof to the Grantor.
+
+Section 4. Procedure for Withdrawals of Assets; Certain Covenants.
+
+     (a) Following receipt from the Beneficiary or the Grantor (as the case may
+be) of a Beneficiary's or Grantor's Withdrawal Notice, a Reserve Withdrawal
+Notice, an Excess Withdrawal Notice, a Reserve Trust Shortfall Notice or an ING
+Event Notice, and in accordance with Sections 2 and 3 as applicable, and
+provided that with respect to withdrawals pursuant to Sections 3(a) and (b), the
+Trustee has not received a Triggering Event Notice, the Trustee shall promptly
+take any and all steps necessary to transfer, absolutely and unequivocally, all
+right, title and interest to the Assets or amounts specified in such
+Beneficiary's Withdrawal Notice, Grantor's Withdrawal Notice, Reserve Withdrawal
+Notice, Excess Withdrawal Notice, Reserve Trust Shortfall Notice or ING Event
+Notice and shall deliver such Assets or amounts as specified in such
+Beneficiary's Withdrawal Notice, Grantor's Withdrawal Notice, Reserve Withdrawal
+Notice, Excess Withdrawal Notice, Reserve Trust Shortfall Notice or ING Event
+Notice. The Trustee shall be protected in relying conclusively upon any written
+demand, instruction, direction, acknowledgment, statement, notice, resolution,
+request, consent, order, certificate, report, appraisal, opinion, telegram,
+cablegram, facsimile, radiogram, letter, or other communication (collectively,
+"Communications") of the Beneficiary or the Grantor for any such withdrawal that
+on its face conforms to requirements of this Agreement. The Beneficiary or the
+Grantor, as the case may be, shall execute a receipt evidencing the delivery of
+Assets or amounts when required in the normal and customary transaction of the
+business of banking.
+
+     (b) Subject to Section 5 of this Agreement, in the absence of a
+Beneficiary's or Grantor's Withdrawal Notice, Reserve Withdrawal Notice, Excess
+Withdrawal Notice, Reserve Trust Shortfall Notice or ING Event Notice, the
+Trustee shall allow no substitutions or withdrawals of any Asset from the
+Security Trust Account.
+
+     (c) Without limiting any other provision of this Agreement, the Trustee
+shall have no responsibility whatsoever to determine that any Assets withdrawn
+from the Security Trust Account pursuant to Sections 2 or 3 will be used and
+applied in the manner contemplated by this Agreement.
+
+
+                                       6
+<PAGE>
+
+     (d) Subject to the terms of this Agreement, at the time any amount becomes
+payable or Asset becomes transferable by the Trustee from the Security Trust
+Account, such payment or transfer shall be effected in accordance with the
+written instructions contained in a Beneficiary's Withdrawal Notice, Grantor's
+Withdrawal Notice, Reserve Withdrawal Notice, Excess Withdrawal Notice, Reserve
+Trust Shortfall Notice or ING Event Notice. If no such instructions from the
+Grantor or the Beneficiary are received by the Trustee at least one full
+Business Day prior to the time set for such payment or transfer, such payment or
+transfer shall be effected as follows: (i) first from any cash in the Security
+Trust Account; (ii) then, from the proceeds of the sale by the Trustee of any or
+all of the debt obligations in the Security Trust Account (commencing with those
+obligations closest in maturity to the date in question); (iii) then, from any
+other Assets in the Security Trust Account.
+
+     (e) Not later than sixty (60) calendar days after the end of each calendar
+year, and forty-five (45) days after the end of any calendar quarter other than
+any quarter ending on December 31, the Beneficiary shall provide to the Grantor
+a calculation of (x) the risk based capital of the Beneficiary, and (y) the
+capital adequacy ratio of SLDI calculated as set forth on Exhibit C. Each such
+calculation shall include reasonable supporting detail. The Beneficiary shall
+also provide written notice of the occurrence of any ING Event within two (2)
+Business Days after its occurrence. The Grantor may, at its own expense, review
+the books and records of the Beneficiary or SLDI to confirm the calculations
+provided by the Beneficiary pursuant to this Section 4(e). In addition, the
+Beneficiary shall cooperate fully with the Grantor and promptly respond to the
+Grantor's inquiries form time to time concerning the determination of whether an
+ING Event has occurred.
+
+Section 5. Redemption, Investment and Substitution of Assets.
+
+     (a) The Trustee shall surrender for payment all maturing Assets and all
+Assets called for redemption and deposit the proceeds of any such payment to the
+Security Trust Account.
+
+     (b) From time to time the Grantor may direct the Trustee in writing (an
+"Investment Order") to invest or reinvest cash or Eligible Securities held in
+the Security Trust Account in accordance with the Investment Policies set forth
+in Exhibit B. The Grantor agrees that all investments and substitutions of
+securities referred to in this paragraph (b) of this Section 5 shall be and
+remain in compliance with the relevant limitations of the applicable insurance
+laws and the Investment Policies set forth in Exhibit B. The Trustee shall have
+no responsibility whatsoever to determine that any Assets in the Security Trust
+Account are or continue to be Eligible Securities. The Trustee, based upon
+Investment Orders from the Grantor or its designee, shall execute Investment
+Orders and settle securities transactions by itself or by means of an agent or
+broker retained by the Grantor. The Trustee shall not be responsible for any
+act, error or omission, or for the solvency, of any investment manager, agent or
+broker unless such act, error or omission is the result, in whole or in part, of
+the Trustee's gross negligence, willful misconduct or lack of good faith. The
+Trustee shall not be responsible for any Loss (as herein defined) suffered by
+the Beneficiary or the Grantor due to the insolvency of the investment manager,
+agent or broker.
+
+     (c) The Trustee shall not be liable for any loss, liability, claim or
+damage paid or incurred ("Loss") by the Security Trust Account from any
+investment, reinvestment, liquidation
+
+
+                                       7
+<PAGE>
+
+or substitution pursuant to the terms of this Agreement other than a Loss due to
+the Trustee's own negligence, gross negligence, willful misconduct or lack of
+good faith. Without limiting any other provision herein, the Trustee shall not
+be liable for any Loss due to changes in market rates or penalties for early
+redemption or any other fees, taxes or changes.
+
+Section 6. The Income Account.
+
+     All payments of interest and dividends in respect to Assets in the Security
+Trust Account shall be deposited by the Trustee in a separate custody ledger
+income account (the "Income Account") within the Security Trust Account
+established and maintained by the Grantor at an office of the Trustee in New
+York City. Any interest, dividend or other income automatically credited on the
+payment date to the Income Account which is not subsequently received by the
+Trustee shall be reimbursed by the Grantor to the Trustee and the Trustee may
+debit the Income Account for this purpose. Pursuant to Section 9(a), the Trustee
+shall have the right to deduct its compensation and expenses from the Income
+Account, to the extent due and owing; except as provided in the final sentence
+of Section 1(c), the balance of the Income Account shall be payable to the
+Grantor at the end of each calendar month.
+
+Section 7. Right to Vote Assets.
+
+     The Trustee will transmit to the Grantor and or its designee upon receipt,
+and will instruct any entities authorized to hold Assets in accordance with the
+terms hereof to transmit to the Grantor upon receipt, all financial reports,
+stockholder communications, notices, proxies and proxy soliciting materials
+received from issuers of Assets, and all information relating to exchange or
+tender offers received from offerors with respect to such Assets. The Grantor
+and/or its designee shall have the full unqualified right to vote and execute
+consents and to exercise any and all proprietary rights not inconsistent with
+this Agreement with respect to any securities or other property forming a part
+of the Security Trust Account.
+
+Section 8. Additional Rights and Duties of the Trustee and the Securities
+Intermediary.
+
+     (a) The Trustee shall, concurrent with delivery of each monthly Valuation
+Report, deliver a summary of account activity for the month just ended to the
+Grantor and the Beneficiary.
+
+     (b) Before accepting any Asset for deposit to the Security Trust Account,
+the Trustee shall determine that such Asset is in such form that the Beneficiary
+whenever necessary may, or the Trustee upon written direction by the Beneficiary
+may, negotiate such Asset without consent or signature from the Grantor or any
+other Person, other than a Depository and the Trustee in accordance with the
+terms of this Agreement.
+
+     (c) The Trustee may deposit any Assets in the Security Trust Account in a
+book-entry account maintained at a Federal Reserve Bank or in depositories such
+as The Depository Trust Company, the Participants Trust Company, Cedel, and
+Euroclear (the Federal Reserve Bank and such other depositories being referred
+to herein as "Depositories"). Assets may be held in the name of a nominee
+maintained by the Trustee or by any such Depositories.
+
+
+                                       8
+<PAGE>
+
+     (d) The Trustee shall accept and may open all mail directed to the Grantor
+or the Beneficiary in care of the Trustee. The Trustee shall forward all mail to
+the addressee whether or not opened.
+
+     (e) The Trustee shall keep full and complete records of the administration
+of the Security Trust Account. Upon the reasonable written request of the
+Grantor or the Beneficiary, the Trustee shall promptly permit the Grantor or the
+Beneficiary, their respective agents, employees or independent auditors to
+examine, audit, excerpt, transcribe and copy, at their own expense, during the
+Trustee's normal business hours any books, documents, papers and records
+relating to the Security Trust Account or the Assets.
+
+     (f) The Trustee is authorized to follow and rely conclusively upon all
+Communications (including, without limitation, Investment Orders, Excess
+Withdrawal Notices, Reserve Withdrawal Notices, Beneficiary's Withdrawal
+Notices, Grantor's Withdrawal Notices, Reserve Trust Shortfall Notices, ING
+Event Notices and Termination Notices), given by officers, agents and/or
+employees named in letters and incumbency certificates furnished to the Trustee
+from time to time by the Grantor or the Beneficiary and by attorneys-in-fact
+acting under written authority furnished to the Trustee by the Grantor or the
+Beneficiary (collectively "Instructions") including Instructions given by letter
+or facsimile transmission or electronic media, if the Trustee reasonably
+believes such Instructions to be genuine and to have been signed, sent or
+presented by the proper party or parties. The Trustee shall not incur any
+liability to anyone resulting from actions taken by the Trustee in reliance in
+good faith on such Instructions. The Trustee shall not incur any liability in
+executing Instructions prior to receipt by it of (i) notice of the revocation of
+the written authority of the individual(s) named therein or (ii) notice from any
+officer, agent or employee of the Grantor or the Beneficiary named in a letter
+or incumbency certificate delivered hereunder prior to receipt by it of a more
+current certificate.
+
+     (g) The duties and obligations of the Trustee shall only be such as are
+specifically set forth in this Agreement, as it may from time to time be amended
+in accordance with the terms hereof, and no implied duties or obligations shall
+be read into this Agreement against the Trustee. The Trustee shall be liable
+only for its own negligence, gross negligence, willful misconduct or bad faith.
+In no event shall the Trustee be liable (i) for acting in accordance with or
+relying upon any instruction, notice, demand, certificate or document
+contemplated by and given in accordance with this Agreement from the Grantor or
+the Beneficiary, (ii) for any consequential, punitive or special damages, (iii)
+for the acts or omissions of its nominees, unless the Trustee chose such person
+without due care, or (iv) for an amount in excess of the value of the Assets,
+valued as of the most recent valuation report.
+
+     (h) No provision of this Agreement shall require the Trustee to take any
+action which, in the Trustee's reasonable judgment, would result in any
+violation of this Agreement or any provision of law.
+
+     (i) The Trustee may confer with counsel of its selection in relation to
+matters arising under this Agreement and shall, upon demand, be indemnified and
+held harmless from and against any and all Losses by the Grantor hereunder for
+any actions taken, omitted or suffered by it in connection with this Agreement
+or under any transaction contemplated hereby in good faith without gross
+negligence or willful misconduct and in accordance with opinion of such counsel.
+
+
+                                       9
+<PAGE>
+
+The opinion of such law firm shall be full and complete authority and protection
+for the Trustee with respect to any action taken, suffered or omitted by it in
+good faith and in accordance with the opinion of such law firm.
+
+     (j) Subject to the requirement of good faith, reasonableness and the lack
+of gross negligence or willful misconduct, the Trustee shall be protected in
+acting upon any Communications (including, without limitation, any Investment
+Order or Instructions) reasonably believed by the Trustee to be genuine and to
+have been signed, sent or presented by the proper party or parties. All notices
+to the Trustee (unless otherwise provided therein) shall be deemed to be
+effective when actually received by a responsible officer of the Trustee.
+
+     (k) Whenever, in the administration of the Security Trust Account created
+by this Agreement, the Trustee shall reasonably deem it necessary or desirable
+that a matter be proved or established prior to taking, suffering or omitting
+any action thereunder, subject to the requirement of reasonableness, good faith
+and lack of gross negligence and willful misconduct, such matter (unless other
+evidence in respect thereof be herein specifically prescribed) may be deemed to
+be conclusively proved and established by a statement or certificate signed by
+or on behalf of the Grantor and/or the Beneficiary and delivered to the Trustee
+and such certificate shall be full warrant to the Trustee for any action taken,
+suffered or omitted by it on reliance thereon, subject to this paragraph, but in
+its discretion exercised in a reasonable manner, the Trustee may in lieu thereof
+accept other evidence of the fact or matter or may require such other or
+additional evidence as it may deem reasonable.
+
+     (l) Except when otherwise expressly provided in this Agreement and subject
+to the requirement of reasonableness, good faith and lack of negligence or
+willful misconduct, any Communications (including, without limitation, any
+Investment Order or Instructions) to be delivered or furnished by the Grantor or
+the Beneficiary shall be sufficient to be delivered or furnished in the name of
+the Grantor or the Beneficiary by such officer or officers of the Grantor or the
+Beneficiary as may be designated in a certificate, resolution or letter of
+advice by such party. Written notice of such designation by the Grantor or the
+Beneficiary shall be filed with the Trustee. The Trustee shall be protected in
+acting upon any Communications (including, without limitation, any Investment
+Order or Instruction) made by such officer or agent of the Grantor or the
+Beneficiary with respect to the authority conferred on it.
+
+     (m) Notwithstanding anything to the contrary provided herein, the Trustee
+is not responsible for any Losses resulting from reasons or causes beyond its
+control, including without limitation, nationalization, expropriation, currency
+restrictions, acts of war, terrorism, insurrection, revolution, civil unrest,
+riots or strikes, nuclear fusion or fission or acts of God.
+
+     (n) The Parties acknowledge that nothing in this Agreement shall obligate
+the Trustee to extend credit, grant financial accommodation or otherwise advance
+moneys for the purpose of making any payments or part thereof or otherwise
+carrying out any Instructions, including, without limitation, any Investment
+Order.
+
+     (o) In the event of any reasonable ambiguity or uncertainty hereunder or in
+any notice, instruction or other communication received by the Trustee
+hereunder, the Trustee may, in its reasonable discretion, refrain from taking
+any action other than retain possession of the
+
+
+                                       10
+<PAGE>
+
+Assets, unless the Trustee receives written instructions, signed by the Grantor
+and the Beneficiary, which eliminate such ambiguity or uncertainty. In the event
+of any dispute between or conflicting claims by or among the Grantor and the
+Beneficiary and/or any other person or entity with respect to any Assets, the
+Trustee shall be entitled, in its reasonable discretion, to refuse to comply
+with any and all claims, demands or instructions with respect to such Assets, so
+long as such dispute or conflict shall continue, and the Trustee shall not be or
+become liable in any way for such failure or refusal to comply with such
+conflicting claims, demands or instructions. The Trustee shall be entitled to
+refuse to act until, in its reasonable discretion, either (i) such conflicting
+or adverse claims or demands shall have been determined by a final order,
+judgment or decree of a court of competent jurisdiction, which order, judgment
+or decree is not subject to appeal, or settled by agreement between the
+conflicting parties as evidenced in a writing satisfactory to the Trustee or
+(ii) the Trustee shall have received security or an indemnity satisfactory to it
+sufficient to hold it harmless from and against any and all Losses which it may
+incur by reason of so acting. The Trustee may, in addition, elect, in its
+reasonable discretion, to commence an interpleader action or seek other judicial
+relief or orders as it may deem, in its sole discretion, if necessary. The costs
+and expenses (including reasonable attorney's fees and expenses) incurred in
+connection with such proceeding shall be paid by, and shall be deemed an
+obligation of, the Grantor.
+
+     (p) The Trustee may execute any of the trusts or powers hereunder or
+perform any duties hereunder either directly or by or through agents or
+attorneys, provided that the Trustee shall not be responsible for any misconduct
+or negligence on the part of any agent or attorney appointed with due care by it
+hereunder.
+
+     (q) The Securities Intermediary agrees that it will comply with entitlement
+orders issued by the Trustee in accordance with the terms of this Agreement, and
+that such compliance is not subject to any conditions, qualifications or further
+consents. The Securities Intermediary will not comply with entitlement orders
+issued by any other Person.
+
+     (r) The Securities Intermediary hereby waives any right of counterclaim,
+bankers lien, liens or perfection rights as securities intermediary with respect
+to the Assets, the proceeds thereof and the Security Trust Account.
+
+Section 9. The Trustee's Compensation, Expenses and Indemnification.
+
+     (a) The Grantor, upon receipt of an invoice from the Trustee to the Grantor
+and without offset to the Beneficiary's interest, (i) shall pay the Trustee, as
+compensation for its services under this Agreement, a fee computed at rates
+determined by the Trustee from time to time and communicated in writing to the
+Grantor and (ii) shall pay or reimburse the Trustee for all of the Trustee's
+expenses and disbursements in connection with its duties under this Agreement
+(including reasonable attorneys' fees and expenses and reasonable accounting and
+consulting fees and expenses), except any such expense or disbursement as may
+arise from the Trustee's negligence, willful misconduct or lack of good faith.
+The Trustee shall be entitled to deduct its compensation and expenses from
+payments of dividends and interest in respect of the Assets held in the Income
+Account as provided in Section 6 of this Agreement.
+
+
+                                       11
+<PAGE>
+
+     (b) The Grantor hereby indemnifies the Trustee for, and holds it harmless
+against, any Losses (including reasonable attorneys' fees and expenses and
+reasonable consulting and accountants' fees and expenses) incurred or paid
+(other than as a result of the Trustee's gross negligence, willful misconduct or
+lack of good faith), arising out of or in connection with the performance of its
+duties and obligations under this Agreement, including without limitation any
+Loss arising out of or in connection with the status of the Trustee in
+connection with the performance of its duties and any nominee as the holder of
+record of any or all of the Assets. The Grantor hereby acknowledges that the
+foregoing indemnities shall survive the resignation of the Trustee or the
+termination of this Agreement.
+
+     (c) No Assets shall be withdrawn from the Security Trust Account or used in
+any manner for paying compensation to, or reimbursement or indemnification of,
+the Trustee.
+
+     (d) The Trustee hereby waives any and all rights of offset, counterclaim
+and recoupment against the Beneficiary and Security Trust Account, and waives
+any lien (statutory or otherwise) that it may assert against the Security Trust
+Account.
+
+Section 10. Resignation of the Trustee.
+
+     (a) The Trustee may resign at any time by giving not less than ninety (90)
+days' written notice thereof to the Beneficiary and to the Grantor, such
+resignation to become effective on the acceptance of appointment by a successor
+trustee and the transfer to such successor trustee of all Assets in the Security
+Trust Account in accordance with paragraph (b) of this Section 10. The Grantor
+and the Beneficiary jointly also may remove the Trustee at any time, without
+assigning any reason therefor, on fifteen (15) days' prior written notice
+thereof to the Trustee.
+
+     (b) Upon receipt of the Trustee's notice of resignation or notice to the
+Trustee of removal, the Grantor and the Beneficiary shall promptly appoint a
+successor trustee. Any successor trustee shall be a bank that is a member of the
+Federal Reserve System or chartered in the State of New York and shall not be a
+parent, a subsidiary or an affiliate of the Grantor or the Beneficiary. If a
+successor Trustee has not accepted such appointment within thirty (30) days
+after the notice of resignation or removal, the Trustee may, in its sole
+discretion, apply at the expense of the Grantor to a court of competent
+jurisdiction for the appointment of a successor Trustee or for other appropriate
+relief. The costs and expenses (including reasonable attorneys' fees and
+expenses) incurred by the Trustee in connection with such proceeding shall be
+paid by, and be deemed an obligation of, the Grantor. Upon the acceptance of the
+appointment as trustee hereunder by a successor trustee, such successor trustee
+shall succeed to and become vested with all the rights, powers, privileges and
+duties of the Trustee, and the Trustee shall be discharged from any future
+duties and obligations under this Agreement, but the Trustee shall continue
+after its resignation to be entitled to the benefits of the indemnities provided
+herein for a Trustee.
+
+Section 11. Termination of the Security Trust Account.
+
+     (a) The Security Trust Account and this Agreement, except for the
+indemnities provided herein, which shall survive termination, may be terminated
+by the Grantor, other than pursuant to an order of a court having jurisdiction,
+upon the occurrence of any of the following events: (i) the release of all ING
+Facilities pursuant to implementation of one or more Purchaser
+
+
+                                       12
+<PAGE>
+
+Facilities under Section 5.24 of the Asset Purchase Agreement or upon the
+novation of all Insurance Contracts or (ii) the depletion of all amounts and
+Assets in the Security Trust Account. To effect termination of the Security
+Trust Account, the Grantor shall give the Trustee written notice of its
+intention to terminate the Security Trust Account (the "Notice of Intention"),
+and (ii) the Trustee shall give the Beneficiary the written notice specified in
+paragraph (b) of this Section 11. The Notice of Intention shall specify the date
+on which the Grantor intends the Security Trust Account to terminate (the
+"Proposed Date").
+
+     (b) Within ten (10) Business Days following receipt by the Trustee of the
+Notice of Intention, the Trustee shall give written notification (the
+"Termination Notice") to the Beneficiary and the Grantor of the date (the
+"Termination Date") on which the Security Trust Account shall terminate. The
+Termination Date shall be (a) the Proposed Date (or if not a Business Day, the
+next Business Day thereafter), if the Proposed Date is at least five (5) days
+subsequent to the date the Termination Notice is given; or (b) five (5) days
+subsequent to the date the Termination Notice is given (or if not a Business
+Day, the next Business Day thereafter), if the Proposed Date is less than five
+(5) days subsequent to the date the Termination Notice is given.
+
+     (c) On the Termination Date, after satisfaction of any outstanding
+Withdrawal Notices, or deduction of amounts required to satisfy any outstanding
+disputed Withdrawal Notices, and upon receipt of certification of the
+Beneficiary that the Grantor has no further obligation to maintain the Security
+Trust Account the Trustee shall transfer any Assets remaining in the Security
+Trust Account to the Grantor, at which time all duties and obligations of the
+Trustee with respect to such Assets shall cease.
+
+Section 12. Definitions.
+
+     Any capitalized term used but not defined herein shall have the meaning set
+forth in the Asset Purchase Agreement. Except as the context shall otherwise
+require, the following terms shall have the following meanings for all purposes
+of this Agreement (the definitions to be applicable to both the singular and the
+plural forms of each term defined if both such forms of such term are used in
+this Agreement):
+
+     The term "Agreement" shall mean this Security Trust Agreement by and among
+Grantor, Beneficiary, the Bank of New York as Trustee and the Bank of New York
+as Securities Intermediary.
+
+     The term "Asset Purchase Agreement" shall have the meaning set forth in the
+preamble.
+
+     The term "Asset Response" shall have the meaning specified in Section 1(e).
+
+     The term "Assets" shall have the meaning specified in Section 1(b).
+
+     The term "Beneficiary" shall mean Security Life of Denver Insurance
+Company.
+
+     The term "Beneficiary's Withdrawal Notice" shall have the meaning specified
+in Section 2.
+
+
+                                       13
+<PAGE>
+
+     The term "Business Day" shall mean any day on which the offices of the
+Trustee in New York are open for business and shall refer to a full business
+day.
+
+     The term "Communications" shall have the meaning specified in Section 4(a).
+
+     The term "Depositories" shall have the meaning specified in Section 8(c).
+
+     The term "Eligible Securities" shall mean and include any and all
+securities and other investments that are permitted under applicable insurance
+law as admitted assets in the preparation of the annual statement filed by the
+Grantor, other than real estate and foreign investments, and permitted pursuant
+to the Investment Policies attached hereto as Exhibit B.
+
+     The term "Excess Withdrawal Amounts" shall have the meaning specified in
+Section 3(b).
+
+     The term "Excess Withdrawal Notice" shall have the meaning specified in
+Section 3(b).
+
+     The term "Grantor" shall mean Scottish Re (U.S.), Inc.
+
+     The term "Grantor's Withdrawal Notice" shall have the meaning specified in
+Section 3(a).
+
+     The term "Income Account" shall have the meaning specified in Section 6.
+
+     The term "ING Event" shall mean any of the following occurrences:
+
+     (i) the existence of an insolvency, rehabilitation, conservation or
+     comparable proceeding by or against the Beneficiary, SLDI, or ING Groep
+     N.V., a corporation organized in the Netherlands that is the indirect
+     parent corporation of ING, the Beneficiary and SLDI, or any Person in the
+     direct chain of ownership between ING Groep N.V. and the Beneficiary and
+     SLDI;
+
+     (ii) the risk based capital (under applicable Colorado Insurance Law
+     requirements), calculated quarterly, of the Beneficiary falls below 125%
+     Company Action Level RBC, and is not increased to at least 125% within
+     thirty (30) calendar days after the date upon which the Beneficiary is
+     required to provide to the Grantor the report pursuant to Section 4(e) of
+     this Agreement that would reflect such deficiency;
+
+     (iii) the capital adequacy ratio (as currently calculated for Standard &
+     Poor's as set forth on Exhibit C), calculated quarterly, of SLDI falls
+     below 100%, and is not increased to at least 100% within thirty (30)
+     calendar days after the date upon which the Beneficiary is required to
+     provide to the Grantor the report pursuant to Section 4(e) of this
+     Agreement that would reflect such deficiency;
+
+     (iv) there has been a material breach of any "Reinsurance Agreement" (as
+     defined in the Asset Purchase Agreement) by the Beneficiary or SLDI,
+     including, without limitation, failure to pay material premiums to the
+     Grantor or any Affiliate of Grantor, and such breach has not been cured
+     within thirty (30) days after notice.
+
+
+                                       14
+<PAGE>
+
+     The term "ING Event Notice" shall have the meaning specified in Section
+3(e).
+
+     The term "Instructions" shall have the meaning specified in Section 8(f).
+
+     The term "Investment Orders" shall have the meaning specified in Section
+5(b).
+
+     The term "Loss" shall have the meaning specified in Section 5(c).
+
+     The term "Notice of Intention" shall have the meaning specified in Section
+11(a).
+
+     The term "Obligations" shall mean, with respect to the Reinsurance
+Agreements, any and all amounts due and payable to the Beneficiary as defined
+and explicitly set forth in the Reinsurance Agreements.
+
+     The term "Person" shall mean and include an individual, a corporation, a
+limited liability company, a partnership, an association, a trust, an
+unincorporated organization or a government or political subdivision thereof.
+
+     The term "Proposal" shall have the meaning specified in Section 1(e).
+
+     The term "Proposed Date" shall have the meaning specified in Section 11(a).
+
+     The term "Purchaser" shall have the meaning specified in the preamble.
+
+     The term "Reinsurance Agreements" shall mean the Reinsurance Agreements,
+dated as of the date hereof, by and between the Grantor and the Beneficiary,
+whereby the Grantor, as reinsurer, has agreed to reinsure a certain book of the
+reinsurance business of the Beneficiary as ceding insurer.
+
+     The term "Required Amount" shall have the meaning specified in Section
+1(c).
+
+     The term "Reserve Trust Account" shall mean the trust account established
+pursuant to the Reserve Trust Agreement.
+
+     The term "Reserve Trust Agreement" shall mean the Reserve Trust Agreement,
+dated the date hereof by and among the Grantor, the Beneficiary, The Bank of New
+York, as Trustee and The Bank of New York, as Securities Intermediary.
+
+     The term "Reserve Trust Shortfall Notice" shall have the meaning specified
+in Section 3(d).
+
+     The term "Reserve Withdrawal Amount" shall have the meaning specified in
+Section 3(c).
+
+     The term "Reserve Withdrawal Notice" shall have the meaning specified in
+Section 3(c).
+
+     The term "Scottish Annuity & Life" means Scottish Annuity & Life Insurance
+Company (Cayman) Ltd., a company organized under the laws of the Cayman Islands.
+
+
+                                       15
+<PAGE>
+
+     The term "Scottish Re Group" means Scottish Re Group Limited, a holding
+company organized under the laws of the Cayman Islands.
+
+     The term "Security Amount" shall have the meaning specified in the
+preamble.
+
+     The term "Security Trust Account" shall mean the trust account established
+pursuant to this Agreement.
+
+     The term "Securities Intermediary" shall mean The Bank of New York.
+
+     The term "Sellers" shall have the meaning specified in the preamble.
+
+     The term "SLDI" shall have the meaning specified in the preamble.
+
+     The term "Termination Date" shall have the meaning specified in Section
+11(b).
+
+     The term "Termination Notice" shall have the meaning specified in Section
+11(b).
+
+     The term "Triggering Event" shall mean any of the following occurrences:
+
+     (i) the existence of an insolvency, rehabilitation, conservation or
+     comparable proceeding by or against the Grantor or any Affiliate of Grantor
+     that at the time in question is reinsuring any of the Business (an
+     "Affiliated Reinsurer"), Scottish Annuity & Life or Scottish Re Group or
+     any Person in the direct chain of ownership between the Grantor or any
+     Affiliated Reinsurer and Scottish Re Group;
+
+     (ii) the risk based capital (under applicable Delaware Insurance Law
+     requirements), calculated quarterly, of the Grantor or any Affiliated
+     Reinsurer domiciled in the United States falls below 125% Company Action
+     Level RBC, and is not increased to at least 125% within thirty (30)
+     calendar days after the date upon which the Grantor is required to provide
+     to the Beneficiary a report pursuant to any Reinsurance Agreement that
+     would reflect such deficiency;
+
+     (iii) the capital adequacy ratio (as currently calculated for Standard &
+     Poor's as set forth on Exhibit D), calculated quarterly, of consolidated
+     Scottish Re Group or consolidated Scottish Annuity & Life falls below 100%,
+     and is not increased to at least 100% within thirty (30) calendar days
+     after the date upon which the Reinsurer is required to provide to the
+     Company a report pursuant to any Reinsurance Agreement that would reflect
+     such deficiency;
+
+     (iv) there has been a material breach of any "Reinsurance Agreement" (as
+     such term is defined in the Asset Purchase Agreement) by the Grantor or any
+     Affiliated Reinsurer of the Grantor, including, without limitation, failure
+     to fund any trust as required, and such breach has not been cured within
+     thirty (30) days after notice; or
+
+     (v) there has been a termination or amendment to any keepwell agreement
+     described in Section 5.26 of the Asset Purchase Agreement without the
+     Beneficiary's prior written consent, which consent shall not be
+     unreasonably withheld.
+
+
+                                       16
+<PAGE>
+
+     The term "Triggering Event Notice" shall have the meaning specified in
+Section 3(a).
+
+     The term "Trustee" shall mean The Bank of New York.
+
+     The term "UCC" shall mean the New York Uniform Commercial Code.
+
+     The term "Valuation Dispute Notice" shall have the meaning specified in
+Section 1(e).
+
+     The term "Valuation Report" shall have the meaning specified in Section
+1(e).
+
+     The term "Withdrawal Notice" shall mean either a Grantor's Withdrawal
+Notice or a Beneficiary's Withdrawal Notice.
+
+Section 13. Governing Law.
+
+     This Agreement shall be governed by and construed in accordance with the
+internal laws of the State of New York; provided that perfection issues with
+respect to Article 9 of the UCC may give effect to applicable choice or conflict
+of law rules set forth in Article 9 of the UCC.
+
+Section 14. Successors and Assigns.
+
+     No Party may assign this Agreement or any of its obligations hereunder
+without the prior written consent of the other Parties; provided, however, that
+this Agreement shall inure to the benefit of and bind those who, by operation of
+law, become successors to the Parties, including, without limitation, any
+liquidator, rehabilitator, receiver or conservator and any successor, merged or
+consolidated entity; and provided, further, that, in the case of the Trustee,
+the successor trustee is eligible to be a trustee under the terms hereof.
+
+Section 15. Severability.
+
+     In the event that any provision of this Agreement shall be declared invalid
+or unenforceable by a court having jurisdiction, such invalidity or
+unenforceability shall not affect the validity or enforceability of the
+remaining portions of this Agreement.
+
+Section 16. Entire Agreement.
+
+     This Agreement constitutes the entire agreement among the parties hereto,
+and there are no understandings or agreements, conditions or qualifications
+regarding the obligations of the Trustee and the Securities Intermediary which
+are not fully expressed in this Agreement.
+
+Section 17. Amendments.
+
+     This Agreement may be modified or otherwise amended, and the observance of
+any term of this Agreement may be waived, only if such modification, amendment
+or waiver is in writing and signed by all of the Parties.
+
+
+                                       17
+<PAGE>
+
+Section 18. Notices, etc.
+
+     Unless otherwise provided in this Agreement, all Communications (including,
+without limitation, any Investment Orders or Instructions) required or permitted
+to be given or made under the terms hereof shall be in writing and shall be
+deemed to have been duly given or made (a) (i) when delivered personally, (ii)
+when made or given by telecopier, or (iii) in the case of International Priority
+Mail (Federal Express), upon the expiration of three days after any
+Communication shall have been deposited in International Priority Mail (Federal
+Express) for transmission or upon receipt thereof, whichever shall first occur
+and (b) when addressed as follows:
+
+          To the Grantor:
+                 Scottish Re (U.S.), Inc.
+                 13840 Ballantyne Corporate Place, Suite 500
+                 Charlotte, NC 28277
+                 Attention:  Nathan Gemmiti
+
+          with a copy to:
+                 Scottish Re Group Limited
+                 Crown House, Third Floor
+                 4 Par-la-Ville Road
+                 Hamilton, HM 12
+                 BERMUDA
+                 Attention: Paul Goldean
+
+          and a copy to:
+                 LeBoeuf, Lamb, Greene & MacRae, L.L.P.
+                 125 West 55th Street
+                 New York, NY  10005
+                 Attention:  Stephen G. Rooney
+
+          To the Beneficiary:
+
+                 Security Life of Denver Insurance Company
+                 Attention: Mark Tullis
+                 c/o ING North America Insurance Corporation
+                 5780 Powers Ferry Road NW
+                 Atlanta, GA 30327
+
+          with a copy to:
+
+                 B. Scott Burton
+                 Corporate General Counsel
+                 ING North America Insurance Corporation
+                 5780 Powers Ferry Road NW
+                 Atlanta, GA  30327
+
+          and
+
+
+                                       18
+<PAGE>
+
+                 David A. Massey, Esq.
+                 Sutherland Asbill & Brennan LLP
+                 1275 Pennsylvania Ave., NW
+                 Washington, DC 20004-2415
+
+          If to the Trustee:
+                 The Bank of New York
+                 101 Barclay Street, Floor 21 West
+                 New York, NY  10286
+                 Attention:  Insurance Trust and Escrow Unit
+
+          If to the Securities Intermediary:
+                 The Bank of New York
+                 101 Barclay Street, Floor 21 West
+                 New York, NY  10286
+                 Attention:  Insurance Trust and Escrow Unit
+
+
+Each party may from time to time designate a different address for
+Communications (including, without limitation, Investment Orders) by giving
+written notice of such change to the other parties. All Communications relating
+to the Beneficiary's approval of the Grantor's authorization to substitute
+Assets and to the termination of the Security Trust Account shall be in writing.
+
+Section 19. Headings.
+
+     The headings of the sections and the Table of Contents have been inserted
+for convenience of reference only, and shall not be deemed to constitute a part
+of this Agreement.
+
+Section 20. Counterparts.
+
+     This Agreement may be executed in any number of counterparts, each of which
+when so executed and delivered shall constitute an original, but such
+counterparts together shall constitute one and the same Agreement.
+
+
+                                       19
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed and delivered by their respective officers thereunto duly authorized as
+of the date first above written.
+
+                                   SECURITY LIFE OF DENVER INSURANCE
+                                   COMPANY
+
+
+                                   By:    /s/ Mark Tullis
+                                        --------------------------------------
+                                        Name: Mark Tullis
+                                        Title: President
+
+
+                                   SCOTTISH RE (U.S.), INC.
+
+
+                                   By:   /s/ Oscar Scofield
+                                        --------------------------------------
+                                        Name: Oscar Scofield
+                                        Title: CEO/ President
+
+
+                                   THE BANK OF NEW YORK, AS SECURED
+                                   PARTY AND TRUSTEE
+
+
+                                   By:   /s/ Robert W. Rich
+                                        ---------------------------------------
+                                        Name: Robert W. Rich
+                                        Title: Vice President
+
+
+                                   THE BANK OF NEW YORK, AS SECURITIES
+                                   INTERMEDIARY
+
+
+                                   By:   /s/ Robert W. Rich
+                                        ---------------------------------------
+                                        Name: Robert W. Rich
+                                        Title: Vice President
+
+</TEXT>
+</DOCUMENT>
