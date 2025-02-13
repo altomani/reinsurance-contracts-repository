@@ -1,0 +1,3123 @@
+<DOCUMENT>
+<TYPE>EX-10.9
+<SEQUENCE>3
+<FILENAME>gex10_9-25483.txt
+<DESCRIPTION>EX-10.9
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.9
+
+================================================================================
+
+
+
+
+                            ASSET PURCHASE AGREEMENT
+
+
+
+                                  by and among
+
+
+
+                      ACCEPTANCE INSURANCE COMPANIES INC.
+                          ACCEPTANCE INSURANCE COMPANY
+                       AMERICAN GROWERS INSURANCE COMPANY
+                           AMERICAN AGRISURANCE, INC.
+
+
+
+                                      and
+
+
+
+                               GORAN CAPITAL INC.
+                        SYMONS INTERNATIONAL GROUP, INC.
+                               IGF HOLDINGS, INC.
+                             IGF INSURANCE COMPANY
+
+
+
+
+
+                               Dated May 23, 2001
+
+
+
+
+================================================================================
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                   ARTICLE I
+
+DEFINITIONS
+
+                                   ARTICLE II
+
+                       TRANSFER AND ACQUISITION OF ASSETS
+
+SECTION 2.01.   TRANSFER AND ACQUISITION......................................18
+SECTION 2.02.   PAYMENTS AND REIMBURSEMENTS...................................19
+SECTION 2.03.   PLACE AND DATE OF CLOSING.....................................25
+SECTION 2.04.   TRANSACTIONS TO BE EFFECTED AT THE CLOSING....................25
+
+                                  ARTICLE III
+
+           REPRESENTATIONS AND WARRANTIES OF SELLERS AND SHAREHOLDERS
+
+SECTION 3.01.   ORGANIZATION, STANDING AND AUTHORITY..........................26
+SECTION 3.02.   AUTHORIZATION.................................................26
+SECTION 3.03.   NO CONFLICT OR VIOLATION, ETC.................................27
+SECTION 3.04.   NO UNDISCLOSED LIABILITIES....................................28
+SECTION 3.05.   CONTRACTS.....................................................28
+SECTION 3.06.   TITLE TO ASSETS...............................................29
+SECTION 3.07.   LITIGATION; ORDERS............................................29
+SECTION 3.08.   COMPLIANCE WITH LAWS..........................................29
+SECTION 3.09.   EMPLOYEE MATTERS..............................................30
+SECTION 3.10.   BROKERS.......................................................31
+SECTION 3.11.   REINSURANCE CONTRACTS.........................................31
+SECTION 3.12.   COMPLIANCE DISPUTES...........................................31
+SECTION 3.13.   COMPUTER SOFTWARE.............................................32
+SECTION 3.14.   DATABASE......................................................32
+SECTION 3.15.   TAXES.........................................................32
+SECTION 3.16.   CONDITION OF TANGIBLE ASSETS..................................33
+SECTION 3.17.   INTELLECTUAL PROPERTY, COMPUTER SOFTWARE AND DATABASE.........33
+SECTION 3.18.   INSURANCE AGENTS..............................................34
+SECTION 3.19.   LICENSES......................................................35
+SECTION 3.20.   FINANCIAL STATEMENTS..........................................35
+SECTION 3.21.   DISCLOSURE....................................................36
+SECTION 3.22.   ABSENCE OF CERTAIN CHANGES....................................37
+SECTION 3.23.   INSURANCE CONTRACTS...........................................37
+SECTION 3.24.   OFFICE PREMISES...............................................38
+SECTION 3.25.   SOLVENCY......................................................39
+SECTION 3.26.   RESERVES......................................................39
+
+                                   ARTICLE IV
+
+                REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+<PAGE>
+
+SECTION 4.01.   ORGANIZATION, STANDING AND AUTHORITY..........................40
+SECTION 4.02.   AUTHORIZATION.................................................40
+SECTION 4.03.   NO CONFLICT OR VIOLATION, ETC.................................41
+SECTION 4.04.   BROKERS.......................................................42
+SECTION 4.05.   GAAP FINANCIAL STATEMENTS.....................................42
+SECTION 4.06.   DISCLOSURE....................................................43
+SECTION 4.07.   ABSENCE OF CERTAIN CHANGES....................................43
+
+                                   ARTICLE V
+
+                                OTHER AGREEMENTS
+
+SECTION 5.01.   CONDUCT OF BUSINESS...........................................43
+SECTION 5.02.   ACCESS TO INFORMATION; ASSISTANCE; CONFIDENTIALITY; RENEWAL
+                BUSINESS......................................................46
+SECTION 5.03.   COMMERCIALLY REASONABLE EFFORTS...............................47
+SECTION 5.04.   CONSENTS, APPROVALS AND FILINGS...............................47
+SECTION 5.05.   NOTIFICATIONS.................................................49
+SECTION 5.06.   FURTHER ASSURANCES............................................49
+SECTION 5.07.   EXPENSES......................................................50
+SECTION 5.08.   EMPLOYEES AND EMPLOYEE BENEFITS...............................50
+SECTION 5.09.   DISCLOSURE SCHEDULES..........................................52
+SECTION 5.10.   NOTICE OF BREACH..............................................52
+SECTION 5.11.   UPDATE OF DISCLOSURE SCHEDULES................................52
+SECTION 5.12.   REAL ESTATE LEASES............................................53
+SECTION 5.13.   REINSURANCE OBLIGATIONS AND NOTICES OF CANCELLATION...........53
+SECTION 5.14.   COMPUTER SOFTWARE.............................................54
+SECTION 5.15.   NO SOLICITATION...............................................54
+SECTION 5.16.   POST-CLOSING ACCESS TO BOOKS AND RECORDS AND USE OF GENERAL
+                LEDGER INFORMATION............................................55
+SECTION 5.17.   EXCLUSIVE LICENSE AGREEMENT...................................56
+SECTION 5.18.   DEVELOPMENTAL PRODUCTS........................................56
+SECTION 5.19.   NONCOMPETITION AGREEMENTS.....................................57
+SECTION 5.20.   WAIVER OF RIGHT OF FIRST REFUSAL..............................57
+SECTION 5.21.   IGF'S CONTINUED ACCESS TO KEY EMPLOYEES.......................58
+
+                                   ARTICLE VI
+
+            CONDITIONS PRECEDENT TO THE OBLIGATIONS OF THE PURCHASER
+
+SECTION 6.01.   OTHER AGREEMENTS..............................................58
+SECTION 6.02.   OTHER DOCUMENTS...............................................59
+SECTION 6.03.   REPRESENTATIONS AND COVENANTS.................................59
+SECTION 6.04.   NO MATERIAL ADVERSE CHANGE....................................60
+SECTION 6.05.   SECRETARY'S CERTIFICATE.......................................60
+SECTION 6.06.   ..............................................................60
+SECTION 6.07.   Consents and Approvals........................................63
+
+
+                                       ii
+<PAGE>
+
+SECTION 6.08.   NO INJUNCTIONS OR RESTRAINTS..................................63
+
+                                  ARTICLE VII
+
+             CONDITIONS PRECEDENT TO THE OBLIGATIONS OF THE SELLERS
+
+SECTION 7.01.   REPRESENTATIONS AND COVENANTS.................................64
+SECTION 7.02.   NO MATERIAL ADVERSE CHANGE....................................65
+SECTION 7.03.   SECRETARY'S CERTIFICATE.......................................65
+SECTION 7.04.   LEGAL OPINION.................................................65
+SECTION 7.05.   OTHER DOCUMENTS...............................................67
+SECTION 7.06.   OTHER AGREEMENTS..............................................67
+SECTION 7.07.   CONSENTS AND APPROVALS........................................67
+SECTION 7.08.   NO INJUNCTIONS OR RESTRAINTS..................................68
+
+                                  ARTICLE VIII
+
+SURVIVAL OF REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+                                   ARTICLE IX
+
+                                INDEMNIFICATION
+
+SECTION 9.01.   GENERAL INDEMNIFICATION OBLIGATION OF SELLERS.................69
+SECTION 9.02.   GENERAL INDEMNIFICATION OBLIGATION OF PURCHASER...............70
+SECTION 9.03.   METHOD OF ASSERTING CLAIMS, ETC...............................71
+SECTION 9.04.   PAYMENT ......................................................73
+SECTION 9.05.   LIMITATIONS ON INDEMNIFICATION................................74
+SECTION 9.06.   JOINT LIABILITY OF SHAREHOLDERS IN RESPECT OF DIVIDENDS.......75
+
+                                   ARTICLE X
+
+                          TERMINATION PRIOR TO CLOSING
+
+SECTION 10.01.  TERMINATION...................................................76
+SECTION 10.02.  EFFECT OF TERMINATION.........................................77
+
+                                   ARTICLE XI
+
+                               GENERAL PROVISIONS
+
+SECTION 11.01.  PUBLICITY.....................................................77
+SECTION 11.02.  DOLLAR REFERENCES.............................................78
+SECTION 11.03.  NOTICES.......................................................78
+SECTION 11.04.  ENTIRE AGREEMENT..............................................78
+SECTION 11.05.  WAIVERS AND AMENDMENTS........................................79
+SECTION 11.06.  GOVERNING LAW; CHOICE OF FORUM................................79
+SECTION 11.07.  BINDING EFFECT; ASSIGNMENT....................................80
+
+
+                                      iii
+<PAGE>
+
+SECTION 11.08.  INTERPRETATION................................................80
+SECTION 11.09.  NO THIRD-PARTY BENEFICIARIES..................................81
+SECTION 11.10.  COUNTERPARTS..................................................81
+SECTION 11.11.  EXHIBITS AND SCHEDULES........................................81
+SECTION 11.12.  HEADINGS......................................................82
+Exhibit A    Aquaculture SRA Assignment and Assumption Agreement
+Exhibit B    Assignment and Assumption Agreement
+Exhibit C    Bill of Sale and General Assignment
+Exhibit D    Acceptance/Granite Re Retrocession Agreement
+Exhibit E    IGF/Acceptance Retrocession Agreement
+Exhibit F    Granite Re Treaty Reinsurance Contract
+Exhibit G    License Agreement
+Exhibit H    Management and Services Agreement
+Exhibit I    Consulting and Noncompetition Agreement
+Exhibit J    Noncompetition Agreement
+Exhibit K    Retention and Noncompetition Agreement
+Exhibit L    IGF/Acceptance Quota Share Reinsurance Agreement
+Exhibit M    SRA Assignment and Assumption Agreement
+Exhibit N    Real Estate Leases
+Schedule 1.01       Excluded Assets
+Schedule 3.03       Conflicts or Violations
+Schedule 3.04       Liabilities
+Schedule 3.05A      Insurance Contracts
+Schedule 3.05B      Other Assigned and Assumed Contracts
+Schedule 3.06       Liens
+Schedule 3.07       Litigation
+Schedule 3.08       Compliance with Laws
+Schedule 3.11       Reinsurance Contracts
+Schedule 3.12A      List of Requests for Additional Information by RMA
+Schedule 3.12B      List of Market Conduct Enforcement or Market Conduct
+                    Regulations Communication
+Schedule 3.13       Computer Software Programs
+Schedule 3.16       Furniture, Fixtures and Equipment
+Schedule 3.18       Insurance Agents
+Schedule 3.19       List of Licenses, Permits, Authorizations and Consents
+Schedule 3.20(a)    Sellers GAAP Statements
+Schedule 3.20(b)    SAP Statements
+Schedule 3.22       Changes
+Schedule 3.24       Office Locations
+Schedule 4.03       Conflicts or Violations
+Schedule 4.05       Purchaser GAAP Statements
+Schedule 4.07       Changes
+Schedule 5.08       List of Employees and Employee Benefits
+Schedule 5.19(b)    Purchasers List of Business Employees
+
+                                       iv
+<PAGE>
+
+                            ASSET PURCHASE AGREEMENT
+
+      THIS ASSET PURCHASE AGREEMENT (this "Agreement"), dated May 23, 2001, is
+entered into by and among ACCEPTANCE INSURANCE COMPANIES INC., a Delaware
+corporation ("AICI") for itself and on behalf of ACCEPTANCE INSURANCE COMPANY, a
+Nebraska insurance corporation ("AIC"), AMERICAN GROWERS INSURANCE COMPANY, a
+Nebraska insurance corporation ("AGIC") and AMERICAN AGRISURANCE, INC., an Iowa
+corporation ("AMAG") (AICI, AIC, AGIC and AMAG are referred to herein
+collectively as "Purchaser"), and GORAN CAPITAL INC., a Canadian corporation
+("Goran"), SYMONS INTERNATIONAL GROUP, INC., an Indiana corporation ("SIG"), IGF
+HOLDINGS, INC., an Indiana corporation ("IGFH") and IGF INSURANCE COMPANY, an
+Indiana insurance corporation ("IGF") (Goran and SIG are referred to
+collectively in this Agreement as "Shareholders," and IGFH and IGF are referred
+to collectively in this Agreement as "Sellers").
+
+      WHEREAS, Sellers are entities engaged in the business of providing various
+types of property and casualty insurance and other services; and
+
+      WHEREAS, upon the terms and subject to the conditions of this Agreement,
+Sellers desire to sell, and Purchaser desires to acquire certain assets
+associated with a portion of the business of Sellers, and in connection
+therewith Purchaser is willing to assume those certain liabilities of Sellers
+which are identified specifically in this Agreement;
+
+      NOW, THEREFORE, for and in consideration of the mutual covenants and
+agreements set forth in this Agreement, and for other good and valuable
+consideration the receipt and sufficiency of which Purchaser and Sellers hereby
+acknowledge, Purchaser and Sellers hereby agree as follows:
+
+<PAGE>
+
+                                   ARTICLE I
+
+                                  DEFINITIONS
+
+      Whenever used in this Agreement the following terms shall have the
+respective meanings set forth below:
+
+      "A&O" means all administrative and operating reimbursement, and all loss
+adjustment expense reimbursement, associated with premiums on MPCI policies
+payable by the FCIC with respect to the Business.
+
+      "ACCEPTANCE/GRANITE RE RETROCESSION AGREEMENT" means the
+Acceptance/Granite Re Retrocession Agreement in the form of Exhibit D hereto.
+
+      "ACCOUNTING PRINCIPLES" means United States generally accepted accounting
+principles consistently applied.
+
+      "ACTION" shall mean any action, suit, arbitration, legal or administrative
+proceeding pending or, to the knowledge of Sellers contemplated or threatened,
+by or against or affecting any of Sellers and related to the Business or the
+Transferred Assets which, individually or in the aggregate, could reasonably be
+expected to have a Sellers Material Adverse Effect if decided adversely to any
+of Sellers, including but not limited to the Actions identified in Schedule
+3.07.
+
+      "ACTUAL 2001 MPCI AGENT COMMISSION" means the aggregate of Purchaser's (i)
+reimbursement to Sellers of all Advance MPCI Commission, (ii) commission
+payments to Agents with respect to Insurance Contracts and pursuant to an
+Assigned and Assumed Contract listed on Schedule 3.05B and (iii) actual costs
+for travel, gifts, awards and other performance incentives Purchaser provides to
+Agents, based on or resulting from written representations or
+
+
+                                       2
+<PAGE>
+
+agreements of Sellers or Shareholders with such Agents made prior to Closing,
+and on the basis of actual Fall Premium and actual Spring Premium written by
+Agents, including incentive commission payable in 2002 arising from Agents'
+written commission schedules, amendments and addendums to such commission
+schedules, advance commission agreements, whether or not such advances are
+earned; PROVIDED, HOWEVER, that no amount paid to any Agent shall be included in
+more than one of clause (i), (ii) and (iii) above.
+
+      "ADMINISTRATIVE FEES" means those per policy administrative fees payable
+by policyholders for MPCI Policies and required to be remitted to FCIC.
+
+      "ADVANCE MPCI COMMISSION" shall mean that portion of the Actual 2001 MPCI
+Agent Commission actually paid to Agents by Sellers before Closing pursuant to
+Assigned and Assumed Contracts listed on Schedule 3.05B.
+
+      "ADVANCE OTHER COMMISSION" means that portion of commissions with respect
+to Crop Hail Policies actually paid to Agents by Sellers before Closing pursuant
+to an Assigned and Assumed Contract listed on Schedule 3.05B.
+
+      "AFFILIATE" means, with respect to any Person, at the time in question,
+any other Person controlling, controlled by or under common control with such
+Person. For purposes of the foregoing, "control," including the terms
+"controlling," "controlled by" and "under common control with," means the
+possession, direct or indirect, of the power to direct or cause the direction of
+the management and policies of a Person, whether through the ownership of voting
+securities, by contract or otherwise.
+
+
+                                       3
+<PAGE>
+
+      "AGENT" or "AGENTS" means any or all Persons properly appointed with
+respect to the Insurance Contracts, and required to be licensed by a
+Governmental Entity, who submitted to IGF on behalf of an agricultural producer
+applications for insurance written as part of the Business at any time after
+January 1, 1996; provided, however, that the use of the capitalized term "Agent"
+in this Agreement is limited to this meaning only, and does not mean or refer to
+"agent" in any other sense.
+
+      "AGENT LOANS" means IGF's loans to Agents that are evidenced by notes or
+loan agreements, to the extent that principal or interest due to Sellers in
+respect thereof is unpaid on the Closing Date; provided, however, that Agent
+Loans shall not include those loans that Purchaser, in its sole discretion,
+elects not to purchase on the Closing Date.
+
+      "ANCILLARY AGREEMENTS" means, collectively, the Crop Hail Retrocession
+Agreement, the Crop Hail Quota Share Agreement, the Acceptance/Granite Re
+Retrocession Agreement, the Aquaculture Assignment and Assumption Agreement, the
+SRA Assignment and Assumption Agreement, the Bill of Sale and General
+Assignment, the Assignment and Assumption Agreement, the Granite Re Treaty, the
+Noncompetition Agreement, the Retention and Noncompetition Agreements, the
+leases and lease assignments to be entered into pursuant to Section 5.12 of this
+Agreement, the License Agreement and the Management and Services Agreement.
+
+      AQUACULTURE SRA ASSIGNMENT AND ASSUMPTION AGREEMENT" means the Aquaculture
+SRA Assignment and Assumption Agreement in the form of Exhibit A hereto.
+
+
+                                       4
+<PAGE>
+
+      "ASSIGNABLE LICENSED SOFTWARE" means the Licensed Software as to which (a)
+no consent to the assignment thereof is required, or (b) consent to the
+assignment thereof has been obtained on or prior to the Closing Date.
+
+      "ASSIGNED AND ASSUMED CONTRACTS" means all contracts and other agreements
+(i) listed on Schedule 3.05A or Schedule 3.05B designated as Assigned and
+Assumed Contracts; (ii) identified in the Assignment and Assumption Agreement
+and (iii) other contracts that, although they relate to Transferred Assets and
+are therefore Assigned and Assumed Contracts, are not required to be
+individually scheduled on Schedule 3.05B because they relate to the purchase or
+lease of equipment, materials, supplies or other real or personal property
+involving amounts not in excess of $10,000, or they relate to the performance of
+services over a period of not more than thirty days and involving an amount not
+in excess of $10,000.
+
+      "ASSIGNMENT AND ASSUMPTION AGREEMENT" means the Assignment and Assumption
+Agreement in the form of Exhibit B hereto.
+
+      "ASSUMED EMPLOYEE LIABILITIES" means the obligations of Purchasers created
+by applicable law to provide any benefit to any Transferred Employees.
+
+      "ASSUMED LIABILITIES" means only those liabilities and obligations of
+Sellers with respect to (i) the Insurance Contracts, (ii) the Assigned and
+Assumed Contracts, (iii) agent commissions associated with 2001 MPCI and Crop
+Hail Policies, including Actual 2001 MPCI Agent Commission, (iv) the leases and
+lease assignments to be entered into pursuant to Section 5.12 hereof, to the
+extent the same are unpaid or unperformed on or after the Closing Date, (v) the
+SRA Assignment and Assumption Agreement, (vi) the Assignment and Assumption
+Agreement, (vii) the Aquaculture SRA Assignment and Assumption Agreement and
+(viii) the Crop Hail
+
+                                       5
+<PAGE>
+
+Retrocession Agreement. Without limiting the generality of the preceding
+sentence, and notwithstanding anything in this Agreement or any of the Ancillary
+Agreements to the contrary, the Assumed Liabilities shall not include any
+Excluded Liability.
+
+      "BENEFIT PLANS" shall mean all plans, funds, programs, policies,
+arrangements, practices, customs and understandings providing benefits of
+economic value to any Business Employee, or present beneficiary, dependent or
+assignee of any such employee other than regular salary, wages or commissions
+paid substantially concurrently with the performance of the services for which
+paid. Without limitation, the term "Benefit Plan" includes all employee welfare
+benefit plans within the meaning of Section 3(1) of the Employee Retirement
+Income Security Act of 1974, as amended ("ERISA"), and all employee pension
+benefit plans within the meaning of Section 3(2) of ERISA.
+
+      "BILL OF SALE AND GENERAL ASSIGNMENT" means the Bill of Sale and General
+Assignment substantially in the form of Exhibit C hereto.
+
+      "BOOKS AND RECORDS" means the originals or copies of all records
+(including computer generated, recorded or stored records) relating primarily to
+the Business, in the care, custody or control of the Sellers, including customer
+lists, policy information, applications for insurance, insurance contract forms,
+claim records, sales records, underwriting records, financial records, tax
+records (provided, however, that state and federal income tax returns and such
+papers related thereto shall be excluded), personnel records related to
+Transferred Employees, actual and draft filings with any Governmental Entity and
+regulatory and compliance records in the possession or control of any of
+Sellers, including but not limited to the Database and all other forms of
+recorded, computer generated or stored information relating primarily to the
+Business; provided,
+
+
+                                       6
+<PAGE>
+
+however, if any such records contain information that does not relate to the
+Business such information which does not relate to the Business shall not
+constitute "Books and Records."
+
+      "BUSINESS" means the evaluation, management and transfer of agricultural
+production risks through insurance, reinsurance and otherwise as formerly or
+presently conducted, or as previously or presently planned or under
+consideration, by any of Sellers or any of the Business Employees, or utilizing
+any of the Transferred Assets, including, without limitation, the business known
+as "Geo Ag", except to the extent primarily related to any Excluded Liability.
+
+      "BUSINESS DAY" means any day other than Saturday, Sunday or a day on which
+banking institutions in the State of Iowa are permitted or obligated by law to
+be closed.
+
+      "BUSINESS EMPLOYEES" shall mean all Persons employed by any of Sellers,
+whether permanent or temporary, full time or part time, under contract or
+otherwise, as of the date of this Agreement or thereafter until the Closing
+Date.
+
+      "CLAIM NOTICE" shall mean a written notice specifying the nature and
+amount of a claim or demand for which any Person seeks indemnification under
+Section 9.03 hereof.
+
+      "CLOSING" means the execution and delivery of the Ancillary Agreements and
+payment of all funds required to be paid upon Closing by Article II of this
+Agreement.
+
+      "CLOSING DATE" shall mean a date which is the earlier of five business
+days after the date on which the last consent, approval, authorization or
+declaration required to be obtained from any Governmental Entity pursuant to
+this Agreement is made or obtained, or a date which is mutually agreeable to
+Sellers and Purchasers.
+
+
+                                       7
+<PAGE>
+
+      "COBRA" shall mean Part 6 of Subtitle B of Title I of ERISA or, as
+applicable, Section 4980B of the Code.
+
+      "CODE" means the Internal Revenue Code of 1986, as amended.
+
+      "CONFIDENTIALITY AGREEMENT" means the Confidential Information Agreement,
+accepted by AICI effective December 22, 2000, between SIG and AICI.
+
+      "CROP HAIL CROP YEAr" means the one-year period beginning January 1 of any
+year and continuing through and including December 31 of that year.
+
+      "CROP HAIL POLICIES" shall mean contracts of insurance for agricultural
+production risks, including but not limited to hail and named perils, which are
+not reinsured by FCIC.
+
+      "CROP HAIL QUOTA SHARE AGREEMENT" means the IGF/Acceptance Quota Share
+Reinsurance Agreement in the form of Exhibit L hereto.
+
+      "CROP HAIL RETROCESSION AGREEMENT" means the IGF/Acceptance Retrocession
+Agreement in the form of Exhibit E hereto.
+
+      "DATABASE" shall mean all records, data, files, input materials, reports
+or forms related to the Business, prepared or utilized by Sellers for claim,
+processing, accounting, risk management or other purposes, including but not
+limited to actual production history, individual unit loss history by crop and
+other data related to the Business.
+
+      "ERISA" shall mean the Employee Retirement Income Security Act of 1974 as
+amended.
+
+      "EXCLUDED ASSETS" shall mean (i) all of the capital stock of IGFH and of
+IGF; (ii) the Agent Loans specified by Purchasers that they elect not to
+purchase, in their sole discretion, at
+
+
+                                       8
+<PAGE>
+
+Closing; (iii) all rights of Sellers to any recovery in conjunction with
+litigation or proceedings arising from changes in the FCIC regulations with
+respect to prevented planting effective for the 1996 crop year; (iv) all amounts
+due to Sellers under Section 2.02(h); (v) all of the capital stock of North
+American Crop Underwriters, Inc.; (vi) all of the equity ownership interests of
+Geo Ag Plus, LLC and (vii) the other assets listed in Schedule 1.01.
+
+      "EXCLUDED LIABILITY" means all Liabilities of every kind whatsoever
+arising from or related to acts or events occurring prior to the Closing Date of
+any of Sellers or any other Person (other than Purchaser), whether or not known,
+asserted or complete prior to the Closing Date, other than the Assumed
+Liabilities. Without limiting the generality of the preceding sentence, and
+except as otherwise provided in this Agreement or any of the Ancillary
+Agreements, the Excluded Liabilities shall include: (i) any Liabilities arising
+from or related to any Excluded Litigation, Orders or Sellers Benefit Plans;
+(ii) any indemnification obligations of any of Sellers or any other Person, to
+any officer, director, accountant, financial adviser, underwriter, attorney or
+to any other Person whether or not related to the Business or to any Transferred
+Asset; (iii) any obligation of Sellers for Taxes with respect to the Business
+for all periods ending on or before the Closing Date; (iv) any obligation or
+liability of any of Sellers arising from one or more of Sellers' failure to
+perform on or before the Closing Date any of the Assigned and Assumed Contracts
+or any other contract or agreement, including this Agreement, any of the
+Ancillary Agreements or any contract or agreement of any of Sellers relating in
+any way to any transaction contemplated by this Agreement; (v) any expense or
+obligation of Sellers of any kind incurred in connection with any sale or act
+contemplated by this Agreement, (vi) any liability or obligation of any Person
+to any of the Business Employees under any Benefit Plans or otherwise, other
+than the Assumed Employee Liabilities; (vii) any liability or obligation of any
+of Sellers or
+
+
+                                       9
+<PAGE>
+
+any other Person arising from or resulting from noncompliance prior to the
+Closing Date with any federal, state, local or foreign laws, regulations,
+orders, or administrative or judicial determinations; (viii) any liability or
+obligation of any of Sellers or any other Person resulting from any employment
+practices applicable to Sellers' employees at any time prior to the Closing
+Date; (ix) any fines, penalties or liabilities imposed at any time before or
+after the Closing Date on any of Sellers or any other Person by any Governmental
+Entity arising from or related to acts or events with respect to the Business,
+the Transferred Assets or otherwise occurring on or before the Closing Date; or
+(x) any brokerage or finder's fee payable by Sellers or any other Person other
+than Purchaser in connection with any transaction contemplated by this
+Agreement.
+
+      "EXCLUDED LITIGATION" means (a) any present or future action, suit,
+arbitration or legal or administrative proceeding, and any present or future
+criminal, regulatory or administrative actions or investigations by any
+Governmental Entity, which relate to the Business, any Transferred Asset or any
+Transferred Employee and to the extent arising from or relating to acts, events
+or occurrences prior to Closing, and (b) any Action identified in Schedule 3.07
+and designated as Excluded Litigation.
+
+      "FALL PREMIUM" means all premium arising from or related to 2001 MPCI
+Policies, whether paid by an agricultural producer or by FCIC, which is the
+basis for or otherwise associated with the A&O FCIC pays to Sellers before
+Closing.
+
+      "FCIC" means the Federal Crop Insurance Corporation.
+
+      "FEDERAL CROP INSURANCE PROGRAM" means the program of agricultural
+production insurance established by the Federal Crop Insurance Act, the
+Agricultural Risk Protection Act of 2000 and all related legislation.
+
+
+                                       10
+<PAGE>
+
+      "GOVERNMENTAL ENTITY" shall mean any of the United States, any state and
+any court or governmental or regulatory authority or agency, domestic or
+foreign.
+
+      "GRANITE RE" means Granite Reinsurance Company, Ltd., a Barbados
+corporation.
+
+      "GRANITE RE TREATY" means the reinsurance contract in the form of Exhibit
+F hereto.
+
+      "INDEMNIFIED PURCHASER PARTY" shall mean Purchasers, their Affiliates and
+all of their respective successor and assigns.
+
+      "INDEMNIFIED SELLER PARTY" shall mean Sellers and Shareholders, their
+Affiliates and all of their respective successors and assigns.
+
+      "INSURANCE CONTRACTS" means all contracts of insurance accepted and in
+force on the Closing Date which are either MPCI Policies written or assumed by
+IGF with respect to the 2001 MPCI Crop Year, or Crop Hail Policies written or
+assumed by IGF during the 2001 Crop Hail Year or any Named Peril Crop Year
+beginning on or after July 1, 2000.
+
+      "INSURANCE LIABILITIES" means all Liabilities arising under or in
+connection with the Insurance Contracts to the extent unpaid or unperformed on
+or before the Closing Date.
+
+      "INTANGIBLE ASSETS" means all of Sellers' intangible assets primarily used
+in or obtained for use in the Business.
+
+      "INTELLECTUAL PROPERTY" means all patents, trade names, trademarks,
+service marks (excluding the corporate and trade names "IGF"), copyrights and
+applications for any of them, the Database and all proprietary information,
+confidential information, loss histories, trade
+
+
+                                       11
+<PAGE>
+
+secrets, customer lists, expertise, experience, systems and processes with
+respect to the Business owned by or licensed to any of Sellers.
+
+      "KNOWLEDGE OF SELLERS" or "SELLERS' KNOWLEDGE" means actual knowledge or
+knowledge of any of Alan Symons, Douglas Symons, Dennis Daggett, Jim Petersen,
+Doug Burns, Mike Jones, John Sheeley or Brian Donohue.
+
+      "LIABILITIES" shall mean Liens, debts, liabilities, commitments or
+obligations of any kind, character or nature whatsoever, whether known or
+unknown, choate or inchoate, secured or unsecured, accrued, fixed, absolute,
+contingent or otherwise, and whether due on or before the Closing Date or to
+become due arising from or relating to the Business or to any Transferred Asset
+including, but not limited to, those identified on Schedule 3.04.
+
+      "LICENSE AGREEMENT" means the License Agreement in the form of Exhibit G
+hereto.
+
+      "LICENSED SOFTWARE" shall mean all computer software programs of any kind
+whatsoever licensed to any of Sellers or their Affiliates by any third party and
+used in the ordinary conduct of the Business by Sellers at any time during the
+twelve months prior to the date of this Agreement that is designated on Schedule
+3.13 for transfer to Purchaser as a Transferred Asset.
+
+      "LIEN" means any pledge, claim, lien, charge, mortgage, encumbrance,
+security interest of any nature, option, right of first refusal, warrant, or
+restriction of any kind, including any restriction on use, voting, transfer,
+alienation, receipt of income or exercise of any other attribute of ownership;
+provided that this definition of "Lien" shall not include: (i) liens for current
+Taxes and assessments not yet due and payable, including, without limitation,
+liens for nondelinquent ad valorem Taxes and nondelinquent statutory liens
+arising other than by reason of any default
+
+
+                                       12
+<PAGE>
+
+on the part of Sellers, (ii) such liens, minor imperfections of title or
+easements on real property, leasehold estates or personalty as do not in any
+material respect detract from the value thereof and do not in any material
+respect interfere with the present use of the property subject thereto, and
+(iii) materialmens, mechanics, workmens, repairmens, employees, carriers,
+warehousemens and other like liens arising in the ordinary course of business or
+relating to any construction, rebuilding or repair of any property leased
+pursuant to any lease agreement, so long as any such lien does not materially
+impair the value of such leased property.
+
+      "MANAGEMENT AND SERVICES AGREEMENT" means the Management and Services
+Agreement in the form of Exhibit H hereto.
+
+      "MPCI CROP YEAR" means the one-year period beginning July 1 of any year
+and continuing through and including June 30 of the immediately following year.
+
+      "MPCI POLICIES" shall mean contracts of insurance reinsured by FCIC.
+
+      "NAMED PERIL CROP YEAR" means any policy period other than a Crop Hail
+Year that is specified in the declarations of any Crop Hail Policy.
+
+      "NONCOMPETITION AGREEMENT" shall mean (i) the Consulting and
+Noncompetition Agreements in the form of Exhibit I to be executed by each of
+Goran Capital Inc. and Symons International Group, Inc., and (ii) the
+Noncompetition Agreements in the forms of Exhibit J to be executed by each of
+Sellers, North American Crop Underwriters, Inc., Geo Ag Plus, LLC, Alan G.
+Symons, Douglas H. Symons and G. Gordon Symons, as the case may be, and AICI
+pursuant to this Agreement.
+
+
+                                       13
+<PAGE>
+
+      "NOTICE PERIOD" shall mean the twenty (20) days immediately following
+personal delivery or receipt of a registered or certified mailing of a Claim
+Notice.
+
+      "ORDER" shall mean any judgment, decree, injunction or order of any
+Governmental Entity or arbitrator outstanding on or before the Closing Date
+against any Person having, or which reasonably could be expected to have,
+individually or in the aggregate, a Sellers Material Adverse Effect.
+
+      "OWNED SOFTWARE" shall mean each computer software program owned by any of
+Sellers, or owned by any of Sellers' Affiliates and used in the operation of
+Business that is designated in Schedule 3.13 for transfer to Purchaser as a
+Transferred Asset.
+
+      "PERSON" means any individual, corporation, partnership, firm, joint
+venture, association, limited liability company, limited liability partnership,
+joint-stock company, trust, unincorporated organization, governmental, judicial
+or regulatory body, business unit, division or other entity.
+
+      "PURCHASER GAAP STATEMENTS" has the meaning set forth in Section 4.05.
+
+      "PURCHASER MATERIAL ADVERSE EFFECT" means a material adverse effect on the
+business, financial condition or results of operations of AICI, taken as a
+whole.
+
+      "REINSURANCE CONTRACTS" means all reinsurance contracts with respect to
+the Business, whether ceded or assumed, to which IGF was a party at any time on
+or after December 31, 1999 and was in force on or after such date and prior to
+Closing.
+
+
+                                       14
+<PAGE>
+
+      "REPRESENTATIVE" means any officer, director, employee, attorney,
+financial advisor, agent or other representative of a Person or those of any of
+its subsidiaries or Affiliates.
+
+      "RETENTION AND NONCOMPETITION AGREEMENT" means the Retention and
+Noncompetition Agreement in the form of Exhibit K hereto.
+
+      "RMA" means the Risk Management Agency, a division of the United States
+Department of Agriculture responsible for administering the FCIC and the Federal
+Crop Insurance Program.
+
+      "SAP" means Statutory Accounting Principles prescribed or permitted by the
+Indiana Department of Insurance.
+
+      "SAP STATEMENTS" has the meaning set forth in Section 3.20(b).
+
+      "SEC REPORTS" means the financial statements of any Purchaser included in
+a registration statement or report filed with the Securities and Exchange
+Commission since December 31, 1998 under the federal securities laws.
+
+      "SELLERS ACTUAL 2001 MPCI EXPENSE" means the sum determined pursuant to
+Section 2.02(f) of this Agreement.
+
+      "SELLERS ESTIMATED 2001 MPCI EXPENSE" means the aggregate amount paid to
+Sellers by Purchaser pursuant to Sections 2.02(c) and 2.02(e) of this Agreement.
+
+      "SELLERS GAAP STATEMENTS" has the meaning set forth in Section 3.20(a).
+
+      "SELLERS MATERIAL ADVERSE EFFECT" means a material adverse effect on the
+Business or the financial condition, operations or results of operations of the
+Business taken as a whole that would make impracticable the Purchaser's conduct
+of the Business substantially as it is being
+
+
+                                       15
+<PAGE>
+
+conducted on the date of this Agreement, including but not limited to any event
+or series of events that cause the reasonably foreseeable premium from MPCI
+Policies for the MPCI Crop Year beginning July 1, 2000 or July 1, 2001 to be
+less than Two Hundred Ten Million Dollars ($210,000,000); provided, however, to
+the extent such effect results from any of the following, such effect shall not
+be considered a Sellers Material Adverse Effect: (i) general conditions
+applicable to the economy of the United States, including changes in the
+interest rates; (ii) changes in insurance laws or regulations; or (iii)
+conditions generally affecting the crop insurance or reinsurance industries in
+the United States.
+
+      "SPRING PREMIUM" means all premiums arising from or related to 2001 MPCI
+Policies that is not Fall Premium.
+
+      "SPRING PREMIUM A&O" means the A&O payable to Purchasers under the SRA
+with respect to Spring Premium.
+
+      "SRA" means the Standard Reinsurance Agreements in effect as of the date
+of this Agreement by and between the FCIC and IGF.
+
+      "SRA ASSIGNMENT AND ASSUMPTION AGREEMENT" means the SRA Assignment and
+Assumption Agreement in the form of Exhibit M hereto.
+
+      "TANGIBLE ASSETS" means all furniture, fixtures, equipment, supplies and
+other tangible personal property of each of Sellers used primarily in the
+Business, whether or not identified on Schedule 3.16, and excluding Excluded
+Assets.
+
+      "TAX" (including, with correlative meaning, the terms "Taxes" and
+"Taxable") shall mean all federal, state, local and foreign income, profits,
+franchise, gross receipts, environmental,
+
+
+                                       16
+<PAGE>
+
+customs duty, capital stock, severances, premium, stamp, payroll, sales,
+employment, unemployment, disability, use, property, withholding, excise,
+production, value added, occupancy and other taxes, duties or assessments of any
+nature whatsoever, together with all interest, penalties and additions imposed
+with respect to such amounts and any interest in respect to such penalties and
+additions.
+
+      "TRANSFER DOCUMENTS" means this Agreement, the Ancillary Agreements and
+such other documents and instruments consistent with this Agreement as Purchaser
+may reasonably request, which complete, perfect and evidence Sellers' immediate
+and unconditional sale and transfer to Purchasers of each of Sellers' respective
+rights, titles and interests in and to the Transferred Assets and the Business.
+
+      "TRANSFERRED ASSETS" means each of Sellers' respective rights, titles and
+interests in and to the Business, including but not limited to Advance MPCI
+Commission, Advance Other Commission, Agent Loans, Assignable Licensed Software,
+the Assigned and Assumed Contracts, all sums due or to become due to Sellers in
+respect of any of the Assigned and Assumed Contracts pursuant to this Agreement,
+the Tangible Assets, the SRA, the Aquaculture SRA, the Books and Records, the
+Database, the Insurance Contracts, the Intangible Assets, the Intellectual
+Property, the Licensed Software, the Owned Software, all 2001 MPCI Premium
+except for Fall Premium paid before Closing, all A&O, except (i) A&O paid by
+FCIC and received by IGF before Closing and (ii) all A&O reimbursed to IGF under
+Section 2.02(h), the Tangible Assets and all other assets referred to in any of
+the Transfer Documents; provided, however, that the Transferred Assets shall not
+include any of the foregoing to the extent that they (i) are terminated,
+transferred or otherwise disposed of as permitted by Section 5.01 hereof between
+the date of this Agreement and the Closing Date or (ii) constitute Excluded
+Assets.
+
+
+                                       17
+<PAGE>
+
+      "TRANSFERRED EMPLOYEES" shall mean all Business Employees who are employed
+by Purchaser as of 12:01 p.m., Central time on the day following the Closing
+Date.
+
+      "2001 CROP HAIL YEAR" means the one-year period beginning on January 1,
+2001 through and including December 31, 2001.
+
+      "2001 MPCI CROP YEAR" means the one-year period beginning on July 1, 2000,
+through and including June 30, 2001.
+
+      "2001 MPCI POLICIES" means the Sellers' MPCI Policies written for the 2001
+MPCI Crop Year.
+
+      "2001 MPCI PREMIUM" means the total aggregate amount of the Fall Premium
+and the Spring Premium.
+
+                                   ARTICLE II
+
+                       TRANSFER AND ACQUISITION OF ASSETS
+
+      SECTION 2.01. TRANSFER AND ACQUISITION.
+
+            (a) Upon the terms and subject to the conditions of this Agreement,
+      on the Closing Date, each of Sellers shall sell, convey, transfer, assign
+      and deliver to Purchaser, and Purchaser shall purchase, receive, assume
+      and accept from each of Sellers all of the Transferred Assets and
+      Purchaser shall have exclusive use of the Transferred Assets on and after
+      the Closing Date. All sales, assignments and transfers of the Transferred
+      Assets shall be effected by the Transfer Documents.
+
+
+                                       18
+<PAGE>
+
+            (b) Upon the terms and subject to the conditions of this Agreement,
+      on the Closing Date, Sellers shall assign and Purchaser shall assume the
+      Assumed Liabilities pursuant to this Agreement and the Assignment and
+      Assumption Agreement and IGF shall cede and Purchaser shall reinsure the
+      Sellers' Insurance Liabilities pursuant to the Crop Hail Retrocession
+      Agreement, the SRA Assignment and Assumption Agreement and the Aquaculture
+      SRA Assignment and Assumption Agreement. Notwithstanding anything in this
+      Agreement or the Ancillary Agreements to the contrary, Purchaser shall not
+      assume and shall not at any time hereafter, including on or after the
+      Closing Date, become obligated to pay, perform, satisfy or discharge any
+      Liability of Sellers, other than the Assumed Liabilities, including but
+      not limited to any Excluded Liability.
+
+            (c) Any transfer or sales tax imposed in connection with the
+      transfer, sale, assumption or recording of the Transferred Assets to be
+      transferred pursuant to Section 2.01(a), or the Assumed Liabilities to be
+      assumed pursuant to Section 2.01(b), or in connection with any transfer of
+      cash or delivery of any property under any provision of Section 2.02,
+      shall be paid equally by Purchaser and Sellers.
+
+      SECTION 2.02. PAYMENTS AND REIMBURSEMENTS.
+
+            (a) Subject to the terms and conditions of this Agreement and the
+      Ancillary Agreements, in consideration of the sale, assignment and
+      transfer under Section 2.01 hereof, at Closing Purchaser shall accept from
+      Sellers the Assumed Liabilities and the Transferred Assets and shall:
+
+                  (i) pay Nine Million Nine-Hundred Thousand Dollars
+            ($9,900,000) to IGF by wire transfer of immediately available funds,
+            to an account designated in
+
+
+                                       19
+<PAGE>
+
+            writing by Sellers to Purchaser no later than two Business Days
+            prior to the Closing Date;
+
+                  (ii) pay Two Million Five-Hundred Thousand Dollars
+            ($2,500,000) to IGF by wire transfer in immediately available funds,
+            to an account designated in writing by Sellers to Purchaser no later
+            than two Business Days prior to the Closing Date, for and in
+            consideration of all furniture, fixtures and equipment and Owned
+            Software sold by IGF to Purchaser pursuant to this Agreement;
+
+                  (iii) reimburse IGF by wire transfer in immediately available
+            funds, to an account designated in writing by Sellers to Purchaser
+            no later than two Business Days prior to the Closing Date, the
+            aggregate of all Advance MPCI Commission and Advance Other
+            Commission in the amounts certified by IGF on the Closing Date; and
+
+                  (iv) pay IGF by wire transfer in immediately available funds,
+            to an account designated in writing by Sellers to Purchaser no later
+            than two Business Days prior to the Closing Date an amount equal to
+            the aggregate amount of all principal and interest due to Sellers
+            unpaid on the Closing Date with respect to all Agent Loans that
+            Purchaser, in its sole discretion, elects to purchase on the Closing
+            Date.
+
+            (b) Purchaser will remit to FCIC all 2001 MPCI Premium and
+      Administrative Fees paid after Closing, and Sellers will remit to FCIC all
+      2001 MPCI Premium and Administrative Fees paid before Closing. Sellers
+      will retain all A&O paid by FCIC and
+
+
+                                       20
+<PAGE>
+
+      received by Sellers before Closing. On or before June 30, 2001, Purchasers
+      will pay IGF an amount equal to three percent (3%) of the estimated Fall
+      Premium.
+
+            (c) Purchaser agrees to (i) reimburse IGF for the pro rata portion
+      of the 2001 A&O which IGF earned before the Closing Date based upon the
+      formulas contained in SECTIONS 2.02(C), 2.02(D), 2.03(E), 2.02(F) AND
+      2.02(G) of this Agreement and, (ii) from such 2001 A & O reimbursement,
+      pay on behalf of IGF the Actual 2001 MPCI Agent Commission in excess of
+      Advance MPCI Commission to the Agents entitled thereto. On or before
+      September 15, 2001 Purchaser will determine and will advise Sellers of the
+      aggregate Spring Premium A&O received by Purchasers as of September 10,
+      2001. Purchasers will remit to IGF by wire transfer in immediately
+      available funds to an account designated in writing by Sellers an amount
+      equal to:
+
+                  (i) The aggregate Spring Premium A&O received by Purchasers as
+            of September 10, 2001; plus,
+
+                  (ii) Six percent (6%) of the aggregate Spring Premium that was
+            the basis for calculating the aggregate Spring Premium A&O received
+            by Purchasers as of September 10, 2001; plus,
+
+                  (iii) All portions of the Actual 2001 MPCI Agent Commission in
+            excess of Advance MPCI Commission, if any, actually paid to Agents
+            by Sellers before Closing pursuant to Assigned and Assumed Contracts
+            identified in Schedule 3.05B; minus,
+
+
+                                       21
+<PAGE>
+
+                  (iv) Eighteen and Eight-Tenths Percent (18.8%) of the
+            aggregate Spring Premium that was the basis for calculating the
+            aggregate Spring Premium A&O received by Purchasers as of September
+            10, 2001; minus,
+
+                  (v) Eighteen and Eight-Tenths Percent (18.8%) of the estimated
+            Fall Premium; minus,
+
+                  (vi) Six Million Five Hundred Thousand Dollars ($6,500,000).
+
+            (d) On or before November 15, 2001, Purchaser will determine and
+      will advise Sellers of the actual Spring Premium received or receivable by
+      Purchasers as of November 1, 2001, the Fall Premium received by Purchaser
+      as of November 1, 2001, and the A&O with respect to Fall Premium, if any,
+      received by Purchaser after the Closing Date and on or before November 1,
+      2001, and will make the following calculation:
+
+                  (i) The aggregate Spring Premium A&O received by Purchasers as
+            of November 1, 2001; plus,
+
+                  (ii) Six percent (6%) of the Spring Premium received or
+            receivable by Purchasers as of November 1, 2001; plus,
+
+                  (iii) All portions of the Actual 2001 MPCI Agent Commission in
+            excess of Advance MPCI Commission, if any, actually paid to Agents
+            by Sellers before Closing pursuant to Assigned and Assumed Contracts
+            identified in Schedule 3.05B; plus
+
+                  (iv) Three percent (3%) of the Fall Premium; plus,
+
+
+                                       22
+<PAGE>
+
+                  (v) The A&O with respect to Fall Premium, if any, received by
+            Purchaser after the Closing Date; minus,
+
+                  (vi) Eighteen and Eight-Tenths (18.8%) of the Spring Premium
+            received or receivable by Purchasers as of November 1, 2001; minus,
+
+                  (vii) Eighteen and Eight-Tenths Percent (18.8%) of the Fall
+            Premium; minus,
+
+                  (viii) Six Million Five Hundred Thousand Dollars ($6,500,000);
+            minus
+
+                  (ix) All payments previously made to Sellers by Purchaser
+            pursuant to Sections 2.02(b) and 2.02(c) of this Agreement.
+
+            (e) If the amount calculated pursuant to Sections 2.02(d)(i) through
+      2.02(d)(viii) is greater than the amount stated in Section 2.02(d)(ix),
+      Purchasers shall remit the difference to IGF. If the amount calculated
+      pursuant to Sections 2.02(d)(i) through 2.02(d)(viii) is less than the
+      amount stated in Section 2.02(d)(ix), IGF shall remit the difference to
+      Purchasers.
+
+            (f) On or before August 15, 2002, Purchasers will determine and will
+      advise Sellers of the actual Spring Premium, the actual Fall Premium and
+      the Actual 2001 MPCI Agent Commission, and will make the following
+      calculation:
+
+                  (i) The Spring Premium A&O received by Purchasers; plus,
+
+                  (ii) Six percent (6%) of the Spring Premium; plus,
+
+                  (iii) Three percent (3%) of the Fall Premium; plus,
+
+
+                                       23
+<PAGE>
+
+                  (iv) All portions of the Actual 2001 MPCI Agent Commission in
+            excess of Advance MPCI Commission, if any, actually paid to Agents
+            by Sellers before Closing pursuant to Assigned and Assumed Contracts
+            identified in Schedule 3.05B; plus,
+
+                  (v) The A&O, if any, with respect to Fall Premium received by
+            Purchaser after the Closing Date; minus,
+
+                  (vi) Two and One-Half Percent (2.5%) of the Spring Premium;
+            minus,
+
+                  (vii) Two and One-Half Percent (2.5%) of the Fall Premium;
+            minus,
+
+                  (viii) The Actual 2001 MPCI Agent Commission; minus,
+
+                  (ix) Six Million Five Hundred Thousand Dollars ($6,500,000).
+
+            (g) If Sellers Actual 2001 MPCI Expense is greater than Sellers
+      Estimated MPCI Expense, then Purchasers will remit the amount of the
+      difference to IGF on or before September 15, 2002. If Sellers Actual 2001
+      MPCI Expense is less than Sellers Estimated MPCI Expense, then IGF will
+      remit the amount of the difference to Purchasers on or before September
+      15, 2002.
+
+            (h) Not later than thirty (30) days following the end of any
+      calendar quarter beginning after the Closing Date during which Purchaser
+      receives any premium, A&O, underwriting gain, or any other interest
+      arising from or related to MPCI policies previously insured by Sellers
+      with respect to Crop Years prior to the 2001 MPCI Crop Year, Purchaser
+      will remit the entire amount received during that calendar quarter to
+
+
+                                       24
+<PAGE>
+
+      Sellers; provided, however, that Purchaser may deduct from such payment an
+      amount equal to any amount RMA has determined to be due to FCIC as a
+      result of any act, error or omission of Sellers prior to the Closing Date.
+
+      SECTION 2.03. PLACE AND DATE OF CLOSING. The Closing shall take place at
+the offices of AMAG in Council Bluffs, Iowa at 10:00 a.m., Central time on the
+Closing Date.
+
+      SECTION 2.04. TRANSACTIONS TO BE EFFECTED AT THE CLOSING.
+
+            (a) At the Closing, Sellers and Shareholders shall execute (where
+      appropriate), and Goran shall cause Granite Re to execute where
+      appropriate, and deliver to Purchaser the Ancillary Agreements and such
+      other agreements, instruments and documents as are required by this
+      Agreement to be delivered by Sellers at the Closing.
+
+            (b) At the Closing, Purchaser shall execute and deliver to Sellers,
+      Shareholders and Granite Re (as appropriate) the Ancillary Agreements and
+      such other agreements, instruments and documents as are required by this
+      Agreement to be delivered by Purchaser at the Closing.
+
+                                   ARTICLE III
+
+           REPRESENTATIONS AND WARRANTIES OF SELLERS AND SHAREHOLDERS
+
+      Within six days following the execution of this Agreement the Sellers
+shall deliver to Purchaser a letter designated as the disclosure letter (the
+"Disclosure Letter"), with all references to "Schedule" in the Disclosure Letter
+to coordinate with the particular section number hereof. Upon the delivery of
+the Disclosure Letter to Purchaser, Purchaser shall have a period of 48 hours
+thereafter to terminate this Agreement in its sole and absolute discretion.
+Sellers and
+
+
+                                       25
+<PAGE>
+
+Shareholders jointly and severally hereby represent and warrant to Purchaser
+that the following statements are true and correct as of the date of this
+Agreement or such other time as may be specified in such statements.
+
+      SECTION 3.01. ORGANIZATION, STANDING AND AUTHORITY. Each Seller is duly
+organized, validly existing and in good standing under the laws of the
+jurisdiction of its incorporation and has the requisite corporate power and
+authority to carry on the operations of the Business as they are now being
+conducted and to own, use, transfer and sell the assets, rights, benefits and
+obligations being transferred to Purchaser pursuant to this Agreement and the
+Ancillary Agreements.
+
+      SECTION 3.02. AUTHORIZATION. Each Seller has the requisite power and
+authority to execute, deliver and perform its obligations under this Agreement
+and under each of the Ancillary Agreements. The execution and delivery by each
+Seller of this Agreement and the Ancillary Agreements either executed or to be
+executed by it, and the performance by each Seller of its obligations hereunder
+and thereunder, have been duly authorized by all necessary action on the part of
+each Seller. This Agreement and each Ancillary Agreement executed on the date of
+this Agreement has been duly executed and delivered by each Seller and, subject
+to the due execution and delivery hereof by Purchaser, is a valid and binding
+obligation of each Seller, enforceable against each Seller in accordance with
+its terms, except as enforceability may be limited by bankruptcy and other
+similar laws relating to or affecting creditors' rights generally. As of the
+Closing Date, the Ancillary Agreement(s) to be executed and delivered by each
+Seller on such Closing Date will have been duly executed and delivered by each
+such Seller and, subject to the due execution and delivery of such agreements by
+Purchaser, the Ancillary Agreement(s) to be executed by each Seller shall be the
+valid and binding obligation of such
+
+
+                                       26
+<PAGE>
+
+Seller, enforceable against such Seller in accordance with its terms, except as
+enforceability may be limited by bankruptcy and other similar laws relating to
+or affecting creditors' rights generally.
+
+      SECTION 3.03. NO CONFLICT OR VIOLATION, ETC. Except as disclosed in
+Schedule 3.03, the execution and delivery by each Seller of this Agreement and
+of the Ancillary Agreements to which it is a party do not, and the consummation
+by each Seller of the transactions contemplated by this Agreement and by such
+Ancillary Agreements and compliance with the provisions hereof and thereof will
+not, (a) conflict with any of the provisions of the Articles of Incorporation,
+Bylaws or other charter documents of such Seller, (b) subject to the matters
+referred to in the next sentence, conflict with, result in a breach of or
+default (with or without notice or lapse of time, or both) under, give rise to a
+right of termination, cancellation or acceleration of any obligation or loss of
+a benefit under, require the consent of any person under, or result in the
+creation of any Lien on any property or asset of such Seller under, any
+indenture or other agreement, permit, franchise, license or other instrument or
+undertaking to which such Seller is a party or by which such Seller or any of
+its assets is bound or affected, or (c) subject to the matters referred to in
+the next sentence, contravene any statute, law, ordinance, rule, regulation,
+order, judgment, injunction, decree, determination or award applicable to such
+Seller or any of its properties or assets. No consent, approval or authorization
+of, or declaration or filing with, or notice to, any Governmental Entity is
+required to be obtained or made by or with respect to any Seller, in connection
+with the execution and delivery of this Agreement by such Seller or the
+consummation by such Seller of the transactions contemplated hereby, except for
+the particular filings, notices, consents, approvals, authorizations and
+declarations set forth in Schedule 3.03.
+
+
+                                       27
+<PAGE>
+
+      SECTION 3.04. NO UNDISCLOSED LIABILITIES. There are no Liabilities except
+as described in Schedule 3.04 or reflected on the most recent balance sheets
+included in the GAAP Statements or SAP Statements identified in Section 3.20, or
+incurred by the Sellers in the ordinary course of business since the date of the
+most recent balance sheet included in the GAAP Statements.
+
+      SECTION 3.05. CONTRACTS. Schedule 3.05A contains a complete and correct
+list of all Insurance Contracts in force on the date hereof. Schedule 3.05B
+contains a complete and correct list of all contracts, agreements and
+commitments of every kind whatsoever to which any of Sellers or Sellers'
+Affiliates are a party as of the date hereof which relate to the Business or the
+Transferred Assets, or the material breach, immediate termination or
+cancellation of which reasonably would be expected to disrupt or interfere with
+the normal operations of the Business, except only (i) contracts, agreements and
+commitments that relate to an asset that is not a Transferred Asset and
+Reinsurance Contracts listed on Schedule 3.11 and (ii) contracts, agreements and
+commitments that, although they relate to Transferred Assets and are therefore
+Assigned and Assumed Contracts, are not required to be individually scheduled on
+Schedule 3.05B because they relate to the purchase or lease of equipment,
+materials, supplies or other real or personal property involving amounts not in
+excess of $10,000, or they relate to the performance of services over a period
+of not more than thirty days and involving an amount not in excess of $10,000.
+There are no written representations or agreements between Sellers or
+Shareholders with Agents regarding Actual 2001 MPCI Agent Commissions except as
+set forth in Schedule 3.05B. Each of the contracts, agreements and commitments
+listed on Schedule 3.05A and Schedule 3.05B is in full force and effect and is
+the valid and binding obligation of each party thereto, except as the
+enforceability of any thereof may be limited by bankruptcy and other similar
+laws relating to or affecting creditors' rights generally. Except as
+
+
+                                       28
+<PAGE>
+
+specifically set forth in Schedule 3.05B, none of Sellers, or to the Knowledge
+of Sellers, no other Person is (or, with the giving of notice or the lapse of
+time or both, will be) in violation or breach of or default under any of the
+contracts, agreements or commitments listed on Schedule 3.05B.
+
+      SECTION 3.06. TITLE TO ASSETS. Sellers have good and valid title to all of
+the Business and Transferred Assets, free and clear of all Liens, except for
+Liens disclosed in Schedule 3.06. At the Closing, Purchaser will acquire the
+Transferred Assets for its exclusive use free and clear of all Liens, except for
+any Liens arising from acts of Purchaser or any of its Affiliates. As of the
+Closing Date Shareholders shall have no right, title or interest in the
+Transferred Assets. Notwithstanding the foregoing, neither Sellers nor
+Shareholders have made any independent inquiries regarding Intangible Assets or
+Intellectual Property that is derived from or related to the personal efforts,
+expertise or experience of any of the Business Employees. Neither Shareholders
+nor Sellers make any representation or warranty that any of them have any right,
+title or interest in Intangible Assets or Intellectual Property that is derived
+from or related to the personal efforts, expertise or experience of any of the
+Business Employees; however, Sellers shall convey whatever right, title or
+interest, if any, any of them may have in such assets or property to Purchaser
+pursuant to this Agreement and the Ancillary Agreements.
+
+      SECTION 3.07. LITIGATION; ORDERS. Except as disclosed in Schedule 3.07,
+there are no Actions or Orders.
+
+      SECTION 3.08. COMPLIANCE WITH LAWS. Except where such violation or failure
+to comply would not individually or in the aggregate result in a Sellers
+Material Adverse Effect or except as disclosed in Schedule 3.08, each Seller has
+complied, and is in compliance, with all applicable statutes, laws, ordinances,
+rules, regulations and orders of any Governmental Entity,
+
+
+                                       29
+<PAGE>
+
+and none of Sellers have received any notice or other communication whether oral
+or written from any Governmental Entity, arbitrator or any other Person
+regarding any such actual or alleged violation or failure to comply.
+
+      SECTION 3.09. EMPLOYEE MATTERS.
+
+            (a) Sellers have not directly or indirectly acted in any manner or
+      incurred any obligation or liability with respect to any Business
+      Employee, employment matter or Benefit Plan which has or could give rise
+      to any Liens on any of the Transferred Assets, or which could result in
+      any liability to or obligation of Purchaser, whether arising out of the
+      establishment, operation, administration or termination of such employment
+      matter or Benefit Plan or any transaction contemplated by this Agreement.
+
+            (b) Sellers will timely provide all notices and any continuation of
+      health benefit coverage (including, without limitation, medical and dental
+      coverage) required to be provided to Business Employees, Persons who
+      previously were Business Employees or the beneficiaries or dependents of
+      any of them, under COBRA to the extent such notices and continuation of
+      health benefit coverage are required to be provided by reason of the
+      events occurring prior to or on the Closing Date or by reason of the
+      transactions contemplated by this Agreement. Sellers will continue the
+      health benefit coverage required by COBRA.
+
+            (c) Each Retention and Noncompetition Agreement that is included as
+      an Assigned and Assumed Contract is in full force and effect, is validly
+      executed and is the valid and binding obligation of each party thereto.
+      Each individual identified in each agreement is an employee of the Sellers
+      as of the date of this Agreement.
+
+
+                                       30
+<PAGE>
+
+      SECTION 3.10. BROKERS. No broker, investment banker, financial advisor or
+other Person is entitled to any broker's, finder's, financial advisor's or other
+similar fee or commission in connection with the transactions contemplated by
+this Agreement based upon any contract, agreement, understanding or arrangement
+made by or on behalf of Sellers.
+
+      SECTION 3.11. REINSURANCE CONTRACTS. Schedule 3.11 sets forth a complete
+and accurate list of all Reinsurance Contracts. Sellers are not in default as to
+any provision in any Reinsurance Contract and to the Knowledge of Sellers no
+other party to any Reinsurance Contract is in default as to any provision
+thereof. On the Closing Date and immediately before Closing, Sellers will not be
+a party to any Reinsurance Contracts.
+
+      SECTION 3.12. COMPLIANCE DISPUTES. Schedule 3.12A sets forth a complete
+and accurate list of all requests by RMA for additional information regarding
+MPCI Policies which have not resulted in a final, nonappealable determination by
+RMA as of the date of this Agreement regarding whether the MPCI Policies
+complied with FCIC requirements. Schedule 3.12B sets forth a complete and
+accurate list of all market conduct enforcement or market conduct regulatory
+communications (including complaints, notices and directives) received by any of
+Sellers with respect to the Business from any state insurance regulatory
+authority or Government Entity other than RMA since January 1, 2000.
+
+      SECTION 3.13. COMPUTER SOFTWARE.
+
+            (a) Schedule 3.13 hereto contains a true and complete listing of all
+      computer software programs used and necessary in the conduct of the
+      Business at any time since January 1, 2000. Schedule 3.13 hereto also
+      identifies whether each such computer
+
+
+                                       31
+<PAGE>
+
+      software program is Owned Software or Licensed Software and whether each
+      such program will be transferred to Purchaser at Closing as a Transferred
+      Asset.
+
+            (b) On the Closing Date, Purchaser will have, pursuant to an
+      assignment of all of the rights to the Owned Software and the Assignable
+      Licensed Software, the right to use the Assignable Licensed Software
+      generally in the same manner and to the same extent as the software was
+      used by Sellers prior to the Closing Date and ownership of the Owned
+      Software, both free and clear of any royalty or other similar payment
+      obligations or Lien except to the extent being paid by Sellers.
+
+      SECTION 3.14. DATABASE. Subject to Closing and from and after the Closing
+Date, the Database will be for the exclusive use of Purchaser and Sellers will
+no longer possess any interest, title, Lien or right to use the Database,
+subject to Section 5.16 of this Agreement.
+
+      SECTION 3.15. TAXES.
+
+            (a)(i) There are no Liens for Taxes imposed upon any of the
+      Transferred Assets that were imposed in connection with any failure (or
+      alleged failure) of any Seller to pay any Tax; (ii) each of Sellers has
+      complied (and until the Closing Date will comply) in all material respects
+      with the provisions of the Code relating to the payment and withholding of
+      Taxes, including without limitation the withholding and reporting
+      requirements under Sections 1441 through 1464, 3401 through 3406, and 6041
+      and 6049 of the Code, as well as similar provisions under any other laws;
+      and (iii) none of the Transferred Liabilities of any of Sellers is
+      "corporate acquisition indebtedness" within the meaning of Section 279(b)
+      of the Code.
+
+
+                                       32
+<PAGE>
+
+            (b) Sellers have withheld from their employees and other payees (and
+      timely paid to the appropriate Governmental Entity) all amounts required
+      by the Tax withholding provisions of applicable federal, state, local and
+      foreign laws (including, without limitation, income, social security and
+      employment Tax withholding for all types of compensation, and withholding
+      from payments to non-United States persons) for all periods through the
+      date hereof.
+
+      SECTION 3.16. CONDITION OF TANGIBLE ASSETS. All Tangible Assets which are
+included in the Transferred Assets are in good operating condition and repair,
+subject only to normal wear and maintenance and obsolescence, are useable in the
+regular and ordinary course of the Business. No Person other than Sellers owns
+any of the Tangible Assets necessary to the operation of the Business, except
+for leased items identified as such on Schedule 3.16, and subject to a contract
+or agreement listed on Schedule 3.05B.
+
+      SECTION 3.17. INTELLECTUAL PROPERTY, COMPUTER SOFTWARE AND DATABASE.
+Except to the extent that any exceptions to the following representations and
+warranties does not have a material adverse effect individually or in the
+aggregate:
+
+            (a) Sellers own or lawfully possess sufficient legal rights to all
+      the Database, Owned Software, Licensed Software and all other Intellectual
+      Property as are actually used by Sellers in the conduct of the Business as
+      currently conducted.
+
+            (b) With respect to the Business, none of Sellers is using any
+      confidential information, patents, copyrights, trademarks, service marks,
+      trade names, trade secrets, licenses, computer software, computer
+      software, databases and other proprietary rights and processes of any
+      other Person without such Person's permission.
+
+
+                                       33
+<PAGE>
+
+            (c) None of Sellers has violated, or has received any written or
+      oral communications alleging that any such Seller has violated or, by
+      conducting the Business would violate, any patents or copyrights of any
+      other Person. With respect to the Business, none of Sellers has knowledge
+      (i) that any Intellectual Property used by Sellers in the Business is the
+      subject of any application for any form of protection or exclusive rights
+      by any Person other than Sellers, or (ii) that any of the Intellectual
+      Property, Owned Software, Licensed Software or Database has been legally
+      declared unprotected, non-proprietary or non-exclusive or is the subject
+      of any pending or threatened Action for opposition, cancellation or a
+      declaration of invalidity or is infringed by the activities of another.
+
+            (d) With respect to the Business, Sellers have the right, subject to
+      Section 3.13(b), to use free and clear of any interference by others all
+      of the Intellectual Property, Owned Software, Licensed Software and
+      Database.
+
+      SECTION 3.18. INSURANCE AGENTS. Schedule 3.18 contains, to Sellers'
+Knowledge, true, complete and accurate information as of the date of this
+Agreement regarding all Agents including their names, addresses, telephone
+numbers, electronic mail addresses and gross premiums written for or on behalf
+of Sellers by line of business for each of 1999, 2000 and 2001. Since January 1,
+2001, no Agents have terminated any agency contract or other agreement with
+Sellers, cancelled or relinquished their appointment by IGF, given Sellers
+notice of their intent to terminate any of their contracts or other agreements
+with any of Sellers or Sellers' Affiliates, materially breached any contract or
+other agreement with Sellers or taken any action which would, with the passage
+of time, result in termination of any of the Agent's contracts or other
+agreements with any of Sellers or Sellers' Affiliates except as set forth in
+Schedule 3.18. Except
+
+
+                                       34
+<PAGE>
+
+as set forth in Schedule 3.18, each Agent who produced any portion of the 2001
+MPCI Premium recorded in the Database prior to the date of this Agreement was
+duly appointed by IGF and, to Sellers' Knowledge, held all licenses required in
+the states in which such 2001 MPCI Premium was produced.
+
+      SECTION 3.19. LICENSES. Schedule 3.19 is a complete list of all licenses,
+permits, authorizations and consents provided or issued to any of Sellers by any
+Governmental Entity and necessary for the conduct of the Business or full
+utilization of the Transferred Assets.
+
+      SECTION 3.20. FINANCIAL STATEMENTS.
+
+            (a) GAAP STATEMENTS. Schedule 3.20(a) includes the unaudited balance
+      sheet of IGFH at December 31, 2000, the unaudited income statements of
+      IGFH for the years ended December 31, 1998, 1999 and 2000 and on the
+      Closing Date will include the unaudited balance sheet and income statement
+      of IGFH for the three-month period ended March 31, 2001 (the "Sellers GAAP
+      Statements"). The Sellers GAAP Statements are in accordance with the Books
+      and Records, have been prepared in accordance with Accounting Principles
+      (except with respect to the omission of footnotes) applied on a consistent
+      basis throughout the periods covered by such statements, and on the
+      Closing Date will fairly present the financial position of IGFH at the
+      date of the respective balance sheets and the results of the operation of
+      IGFH for the periods covered by the respective income statements included
+      in the Sellers GAAP Statements.
+
+            (b) SAP STATEMENTS. Schedule 3.20(b) includes the unaudited
+      statutory statement for IGF at December 31, 2000, the unaudited statutory
+      statement for IGF as of March 31, 2001 and the audited statutory
+      statements of IGF for the years ended
+
+
+                                       35
+<PAGE>
+
+      December 31, 1998 and 1999 (the "SAP Statements"). The SAP Statements were
+      prepared in accordance with statutory accounting practices (except with
+      respect to the omission of footnotes) prescribed or permitted by the
+      Indiana Department of Insurance, present fairly the admitted assets,
+      liabilities, capital and surplus of IGF and the results of its operations
+      for each of the periods then ended in conformity with accounting practices
+      prescribed or permitted by the Indiana Department of Insurance; provided,
+      however, the parties agree and acknowledge that there are no statutory
+      accounting practices prescribed by the National Association of Insurance
+      Commissioners with respect to revenues from crop insurance.
+
+      SECTION 3.21. DISCLOSURE. No representation or warranty of Sellers in this
+Agreement, nor any certificate, schedule, exhibit or written information
+furnished to or to be furnished by Sellers pursuant to this Agreement or the
+Ancillary Agreements, or any document or certificate delivered to Purchaser by
+or on behalf of Sellers pursuant to this Agreement or the Ancillary Agreements,
+contains or will contain, on the date of such statement, certificate, schedule,
+exhibit or document, any untrue statement of material fact, or omits or will
+omit, on such date, a material fact necessary to make the statements contained
+therein, in light of the circumstances in which they are made, not misleading.
+
+      SECTION 3.22. ABSENCE OF CERTAIN CHANGES. Except as set forth on Schedule
+3.22, since December 31, 2000 Sellers have not in connection with the Business,
+(i) suffered any change constituting a Sellers Material Adverse Effect, (ii)
+materially changed the accounting principles, operations, practices or methods
+utilized with respect to the Business, or (iii) taken any action of the type
+described in Section 5.01 of this Agreement.
+
+
+                                       36
+<PAGE>
+
+      SECTION 3.23. INSURANCE CONTRACTS.
+
+            (a) All insurance policy benefits payable by Sellers under the
+      Insurance Contracts pursuant to claims which have been filed with any of
+      them have, in all material respects, been paid in accordance with the
+      terms of the Insurance Contracts and applicable provisions of state law
+      and the Federal Crop Insurance Programs under which they arose, are being
+      processed in the ordinary course of Sellers' business or are in dispute
+      under circumstances which Sellers believe constitute a reasonable basis to
+      contest payment;
+
+            (b) The underwriting standards utilized and ratings applied with
+      respect to the Business by Sellers and by any other entity that is a party
+      to or bound by any Reinsurance Contracts, including the MPCI Quota Share
+      Contract effective July 1, 1997 issued to Continental Casualty Company by
+      IGF and the MPCI Quota Share Agreement effective July 1, 1997 issued to
+      IGF by Continental Casualty Company, conform in all material respects to
+      industry accepted practices and the standards and ratings required
+      pursuant to the terms of such respective Reinsurance Contracts;
+
+            (c) Except as set forth in Schedule 3.18, each Agent, at the time
+      such Agent wrote, sold or produced any MPCI Policies or any Crop Hail
+      Policies for IGF, was duly appointed by IGF and, to Sellers' Knowledge,
+      was duly licensed as an insurance agent (for the type of business written,
+      sold or produced by such Agent) in the particular jurisdiction in which
+      such Agent wrote, sold or produced such business;
+
+            (d) To Sellers' Knowledge, no Agent has violated (or with or without
+      notice or lapse of time or both, would have violated) any term or
+      provision of any law,
+
+
+                                       37
+<PAGE>
+
+      regulation or any writ, judgment, decree, injunction or similar order
+      applicable to the writing, sale or production of the Business, except
+      where such violation would not have a material adverse effect on the
+      Business;
+
+            (e) All Insurance Contracts have been issued, to the extent required
+      under applicable law, on forms approved by the FCIC or the insurance
+      regulatory authority of the state where issued or, to the extent required
+      by applicable law, have been filed with and not objected to by such
+      authority within the period provided for objections; and any premium rates
+      with respect to the Business required to be filed with or approved by
+      insurance regulatory authorities have been so filed or approved and
+      premiums charged conform thereto in all material respects.
+
+      SECTION 3.24. OFFICE PREMISES. Schedule 3.24 identifies each location
+utilized by Sellers as a primary work site for any Business Employees, and the
+number of Business Employees for which that location is the Business Employees'
+primary work site. The square footage of each identified location actually
+utilized by Sellers as of the date of this Agreement for conducting the
+Business, and if leased the name and address of the owner's representative, and
+the terms and conditions of Sellers' current lease also are set forth in
+Schedule 3.24.
+
+      SECTION 3.25. SOLVENCY. Each of IGF and IGFH are solvent as of the date of
+this Agreement, and none will be rendered insolvent by the execution and
+performance of this Agreement or any of the Ancillary Agreements or the
+consummation of the transactions contemplated by this Agreement or any of the
+Ancillary Agreements. No action has been taken by or on behalf of any of the
+Sellers for the termination, winding up, liquidation or dissolution of any of
+them or to make any assignment for the benefit of creditors. None of the Sellers
+is unable
+
+
+                                       38
+<PAGE>
+
+to pay its debts as they mature. None of the Sellers has filed a petition in
+voluntary liquidation or bankruptcy or under other similar laws or has commenced
+any case or proceeding under applicable insolvency or bankruptcy laws or other
+similar laws. None of the Sellers has consented to the appointment of a
+receiver, administrator, custodian, liquidator or trustee of all or any part of
+the assets of any of the Sellers. None of the Sellers has taken any corporate
+action for the purpose of effecting any of the foregoing. No order or decree has
+been rendered by any Governmental Entity with respect to any of the Sellers
+regarding any of the foregoing. None of the Sellers has been adjudicated as
+bankrupt or insolvent. No petition for any proceeding in bankruptcy, liquidation
+or insolvency or for the reorganization or readjustment of indebtedness has been
+filed with respect to any of the Sellers. No case or proceeding has been
+commenced under any applicable bankruptcy or insolvency laws against any of the
+Sellers. No receiver, administrator, custodian, liquidator or trustee has been
+appointed for any of the Sellers or any part of the assets of any of the
+Sellers.
+
+      SECTION 3.26. RESERVES. Notwithstanding any other provision of this
+Agreement to the contrary, Sellers make no representation or warranty that its
+reserves for losses and loss adjustment expenses or uncollectible reinsurance
+with respect to the Insurance Contracts or the Reinsurance Contracts are
+adequate or sufficient.
+
+                                   ARTICLE IV
+
+                REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+
+      Purchasers jointly and severally hereby represent and warrant to Sellers
+and Shareholders that the following statements are true and correct as of the
+date hereof or such other times, and will be true and correct or such other time
+as may be specified in such statements.
+
+
+                                       39
+<PAGE>
+
+      SECTION 4.01. ORGANIZATION, STANDING AND AUTHORITY. Each of AICI, AIC,
+AGIC and AMAG is duly organized, validly existing and in good standing under the
+laws of the state of its organization and has the requisite corporate power and
+authority to carry on the operations of its business as they are now being
+conducted.
+
+      SECTION 4.02. AUTHORIZATION. Each of AICI, AIC, AGIC and AMAG has the
+requisite corporate power and authority to execute, deliver and perform its
+obligations under this Agreement or under each of the Ancillary Agreements to be
+executed by it, as the case may be. The execution and delivery by each of AICI,
+AIC, AGIC and AMAG of this Agreement and of the Ancillary Agreements executed
+and to be executed by it, and the performance by each of AICI, AIC, AGIC and
+AMAG of its obligations hereunder and thereunder, have been duly authorized by
+all necessary corporate action on the part of each of AICI, AIC, AGIC and AMAG
+and its shareholders. This Agreement and each of the Ancillary Agreements
+executed on the date of this Agreement has been duly executed and delivered by
+AICI on behalf of itself and each of AIC, AGIC and AMAG and, subject to the due
+execution and delivery hereof by Sellers, is a valid and binding obligation of
+each of AICI, AIC, AGIC and AMAG, enforceable against each of AICI, AIC, AGIC
+and AMAG in accordance with its terms, except as enforceability may be limited
+by bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and
+other similar laws relating to or affecting creditors rights generally and by
+general equitable principles (regardless of whether such enforceability is
+considered in a proceeding in equity or at law). As of the Closing Date, each
+Ancillary Agreement executed and delivered by each of AICI, AIC, AGIC and AMAG
+will have been duly executed and delivered by each of AICI, AIC, AGIC and AMAG
+and, subject to the due execution and delivery of such agreements by Sellers,
+each Ancillary Agreement executed by each of AICI, AIC, AGIC and AMAG is a valid
+and binding
+
+
+                                       40
+<PAGE>
+
+obligation of them, enforceable against them in accordance with its terms,
+except as enforceability may be limited by bankruptcy, insolvency, fraudulent
+transfer, reorganization, moratorium and other similar laws relating to or
+affecting creditors' rights generally and by general equitable principles
+(regardless of whether such enforceability is considered in a proceeding in
+equity or at law).
+
+      SECTION 4.03. NO CONFLICT OR VIOLATION, ETC. Except as disclosed in
+Schedule 4.03, the execution and delivery by Purchaser of this Agreement and the
+Ancillary Agreements to which it is a party do not, and the consummation by
+Purchaser of the transactions contemplated by this Agreement and of such
+Ancillary Agreements and compliance with the provisions hereof and thereof will
+not, (a) conflict with any of the provisions of any Articles of Incorporation or
+Bylaws or other charter documents of Purchaser, (b) subject to the matters
+referred to in the next sentence, conflict with, result in a breach of or
+default (with or without notice or lapse of time, or both) under, give rise to a
+right of termination, cancellation or acceleration of any obligation or loss of
+a benefit under, require the consent of any person under, or result in the
+creation of any Lien on any property or asset of Purchaser under, any indenture
+or other agreement, permit, franchise, license or other instrument or
+undertaking to which such Seller is a party or by which Purchaser or any of its
+assets is bound or affected, or (c) subject to the matters referred to in the
+next sentence, contravene any statute, law, ordinance, rule, regulation, order,
+judgment, injunction, decree, determination or award applicable to Purchaser or
+any of its properties or assets. No consent, approval or authorization of, or
+declaration or filing with, or notice to, any Governmental Entity is required to
+be obtained or made by or with respect to any of the Purchasers, in connection
+with the execution and delivery of this Agreement by such Purchaser or the
+consummation by Purchaser of the transactions contemplated hereby, except for
+(i) the
+
+
+                                       41
+<PAGE>
+
+particular filings, notices, consents, approvals, authorizations and
+declarations set forth in Schedule 4.03.
+
+      SECTION 4.04. BROKERS. No broker, investment banker, financial advisor or
+other person is entitled to any broker's, finder's, financial advisor's or other
+similar fee or commission in connection with the transactions contemplated by
+this Agreement based upon any contract, agreement, understanding or arrangement
+made by or on behalf of Purchaser or any Affiliate of Purchaser.
+
+      SECTION 4.05. GAAP FINANCIAL STATEMENTS. Schedule 4.05 includes the
+balance sheet of each Purchaser at December 31, 2000, and the income statements
+of each Purchaser for the years ended December 31, 1998, 1999 and 2000, and
+Schedule 4.05 is deemed to include the SEC Reports filed with the Securities and
+Exchange Commission on the date of this Agreement and on the Closing Date will
+be deemed to include the SEC Reports filed with the Securities and Exchange
+Commission on the Closing Date (the "Purchaser GAAP Statements"). The Purchaser
+GAAP Statements are in accordance with the books and records of Purchaser, have
+been prepared in accordance with Accounting Principles (except with respect to
+the omission of footnotes as to any unaudited Purchaser GAAP Statements) applied
+on a consistent basis throughout the periods covered by such statements, and on
+the Closing Date will fairly present the financial position of each such
+Purchaser at the most recent balance sheet date included in such Purchaser GAAP
+Statements and the results of the operation of such Purchaser for the periods
+covered by such Purchaser GAAP Statements.
+
+      SECTION 4.06. DISCLOSURE. No representation or warranty of Purchasers in
+this Agreement, nor any certificate, schedule, exhibit or written information
+furnished to or to be
+
+
+                                       42
+<PAGE>
+
+furnished by Purchasers pursuant to this Agreement or the Ancillary Agreements,
+or any document or certificate delivered to Sellers by or on behalf of
+Purchasers pursuant to this Agreement or the Ancillary Agreements, including the
+SEC Reports, contains or will contain, on the date of such statement,
+certificate, schedule, exhibit, document or SEC Report, any untrue statement of
+material fact, or omits or will omit, on such date, a material fact necessary to
+make the statements contained therein, in light of the circumstances in which
+they are made, not misleading.
+
+      SECTION 4.07. ABSENCE OF CERTAIN CHANGES. Except as set forth on Schedule
+4.07, since December 31, 2000 Purchasers have not in connection with its
+business, (i) suffered any change constituting a Purchaser Material Adverse
+Effect, or (ii) materially changed the accounting principles, operations,
+practices or methods utilized with respect to its business.
+
+                                    ARTICLE V
+
+                                OTHER AGREEMENTS
+
+      SECTION 5.01. CONDUCT OF BUSINESS. Except as contemplated by this
+Agreement, during the period from the date of this Agreement to the Closing
+Date, Sellers and Shareholders shall carry on the Business only in the ordinary
+course of business. To the extent consistent therewith, Sellers and Shareholders
+shall use their commercially reasonable best efforts to preserve intact the
+current business organization of the Business, keep available the services of
+the Business Employees and preserve the Businesses' relationships and goodwill
+with Business Employees, Agents, brokers, intermediaries, customers,
+agricultural producers, reinsurers, RMA, state insurance regulatory authorities
+and others having business relationships with or interests in the Business.
+Without limiting the generality of the foregoing, except as otherwise
+contemplated by
+
+
+                                       43
+<PAGE>
+
+this Agreement, during the period from the date of this Agreement to the Closing
+Date, Sellers and Shareholders shall not, without the prior consent of
+Purchaser:
+
+            (a) otherwise than in the ordinary course of business consistent
+      with past practice, (i) terminate, transfer or otherwise dispose of any
+      material assets which otherwise would be Transferred Assets, or (ii) enter
+      into, modify, waive any material provision of or otherwise or change in
+      any material respect any Assigned and Assumed Contract;
+
+            (b)(i) permit or allow any of the Transferred Assets to become
+      subject to any Liens, (ii) waive any material claims or rights relating to
+      the Business or (iii) grant any increase in the compensation or benefits
+      of, or amend, modify or establish any new Benefit Plan or plan of
+      compensation for Business Employees (including any increase in
+      compensation pursuant to any new or existing bonus, pension,
+      profit-sharing or other plan or commitment); other than in connection with
+      normal employee salary reviews or replacement of employees necessary to
+      run the Business;
+
+            (c) enter into or renew any Insurance Contract except in the
+      ordinary course of business in accordance with the underwriting policies,
+      procedures and guidelines relating to the Business in effect prior to the
+      date of this Agreement;
+
+            (d) other than in connection with normal reviews or planned
+      reduction of staff, or termination for cause, terminate the employment of
+      any Business Employees individually or in the aggregate material to
+      operation of the Business, or enter into any severance or termination
+      agreement or arrangement with any Business Employee except to the extent
+      required by law or Sellers' Benefit Plans;
+
+
+                                       44
+<PAGE>
+
+            (e) make any material change in the underwriting, reinsurance,
+      accounting, establishment of reserves, investment or claims adjustment
+      policies and practices of any of Sellers involving or relating to the
+      Business, including, without limitation, any change which has the effect
+      of materially accelerating the recording and billing of premiums or
+      accounts receivable or retarding the payment of expenses or establishing
+      reserves in connection with the Business, or has the effect of materially
+      altering, modifying or changing the historic operating, financial or
+      accounting practices or policies of Sellers involving or relating to the
+      Business;
+
+            (f) incur any indebtedness for borrowed money involving or relating
+      to the Business or any of the Transferred Assets, except in the ordinary
+      course of business;
+
+            (g) waive any rights or cancel or forgive any claims, debts or
+      accounts receivable that would otherwise be a Transferred Asset, except in
+      the ordinary course of business;
+
+            (h) take any action nor fail to take any action which would cause a
+      Sellers Material Adverse Effect; or
+
+            (i) commit or agree to take any of the foregoing actions.
+
+      SECTION 5.02. ACCESS TO INFORMATION; ASSISTANCE; CONFIDENTIALITY; RENEWAL
+BUSINESS. Sellers and Shareholders shall afford, prior to Closing, Purchaser and
+Purchasers' directors, officers, employees, legal counsel, retained financial
+advisors, retained professional accountants and actuaries and other approved
+representatives:
+
+
+                                       45
+<PAGE>
+
+            (a) Reasonable access during normal business hours to all Books and
+      Records including, but not limited to, the (i) Insurance Contracts,
+      Assigned and Assumed Contracts, the Database, Reinsurance Contracts and
+      all other Contracts and agreements relating to the Business or the
+      Transferred Assets, (ii) all records and information relating to Agents;
+      (iii) all information regarding Sellers' allocation among FCIC reinsurance
+      funds of Sellers' MPCI Policies for the 2001 MPCI Crop Year, and for the
+      2000, 1999 and 1998 MPCI Crop Years; and (iv) all personnel records
+      relating to Business Employees except as prohibited by law. During such
+      period, Sellers shall furnish as promptly as practicable to Purchaser such
+      information concerning the Business Agents, Business Employees,
+      Transferred Assets and all other subject matter of this Agreement as
+      Purchaser may from time to time reasonably request.
+
+            (b) Cooperation and assistance in understanding and interpreting the
+      Books and Records, particularly with respect to Agents, Business Employees
+      and 2001 MPCI Premium.
+
+            (c) Purchaser agrees that it will hold any information obtained from
+      Sellers and Shareholders pursuant to this Agreement and before the Closing
+      Date in confidence except as otherwise required by law, provided that
+      Purchaser shall immediately notify Sellers of any legal requirement that
+      Purchaser believes might require disclosure notwithstanding this clause
+      such that Sellers might take action to seek an injunction or protective
+      order in connection with such legal requirement.
+
+            (d) After the Closing Date and upon Purchaser's request, Sellers and
+      Shareholders shall cooperate with Purchaser as reasonably requested to
+      assist Purchaser
+
+
+                                       46
+<PAGE>
+
+      in responding to inquiries from Agents and regarding Insurance Contracts,
+      at no cost to Sellers.
+
+      SECTION 5.03. COMMERCIALLY REASONABLE EFFORTS.
+
+            (a) Upon the terms and subject to the conditions and other
+      agreements set forth in this Agreement, each of the parties agrees to use
+      commercially reasonable efforts to take, or cause to be taken, all
+      actions, and to do, or cause to be done, and to assist and cooperate with
+      the other parties in doing, all things necessary, proper or advisable to
+      consummate and make effective, in the most expeditious manner practicable,
+      all transactions contemplated by this Agreement.
+
+            (b) Purchaser agrees to use commercially reasonable efforts to
+      deliver, or cause to be delivered, to IGF no later than 4:00 p.m., Central
+      time Thursday, May 24, 2001 the pre-acquisition notification forms for the
+      States of Arkansas, Illinois, Kentucky and Missouri.
+
+      SECTION 5.04. CONSENTS, APPROVALS AND FILINGS.
+
+            (a) Sellers, Shareholders and Purchaser will make all necessary
+      filings, if any, as soon as practicable, including any filing required
+      with the FCIC, under the HSR Act and under applicable state insurance
+      laws, in order to facilitate prompt consummation of the transactions
+      contemplated by this Agreement. In addition, Sellers, Shareholders and
+      Purchaser each will use commercially reasonable efforts (without the
+      payment of money, except for filing fees and professional fees, or the
+      commencement of litigation), and will cooperate fully with each other (i)
+      to comply as promptly as practicable with all
+
+
+                                       47
+<PAGE>
+
+      governmental requirements applicable to the transactions contemplated by
+      this Agreement and (ii) to obtain as promptly as practicable all necessary
+      consents, approvals, permits or authorizations of Governmental Entities,
+      including the FCIC and under the HSR Act and under applicable state
+      insurance laws, and consents or waivers of all third parties necessary or
+      advisable for the consummation of the transactions contemplated by this
+      Agreement. Each of Sellers and Purchaser shall use its reasonable best
+      efforts to provide such information and communications to Governmental
+      Entities regarding transactions contemplated by this Agreement as such
+      Governmental Entities may reasonably request; and
+
+            (b) Each of Sellers, Shareholders and Purchaser shall notify the
+      other party and keep it advised as to the status of all applications to,
+      and proceedings before, Governmental Entities in connection with the
+      transactions contemplated by this Agreement.
+
+            (c) Subject to Section 6.01 and Section 7.01 of this Agreement, to
+      the extent that the assignment or transfer or attempted assignment or
+      transfer to Purchaser of any Assigned and Assumed Contracts, Licensed
+      Software or any benefit arising thereunder or resulting therefrom is
+      prohibited by any Applicable Law or would require any governmental or
+      third party authorizations, approvals, consents or waivers and such
+      authorizations, approvals, consents or waivers shall not have been
+      obtained prior to the Closing, this Agreement shall not constitute a sale,
+      assignment, transfer, conveyance or delivery, or any attempted sale,
+      assignment, transfer, conveyance or delivery, thereof. Following the
+      Closing, the parties shall use reasonable best efforts, and cooperate with
+      each other, to obtain promptly such authorizations, approvals, consents or
+      waivers.
+
+
+                                       48
+<PAGE>
+
+      Pending such authorization, approval, consent or waiver, the parties shall
+      cooperate with each other in any mutually agreeable, reasonable and lawful
+      arrangements designed to provide to Purchaser substantially the same
+      economic benefits of any such Assigned and Assumed Contracts and Licensed
+      Software. Once authorization, approval, consent or waiver for the
+      assignment or transfer of any such Assigned and Assumed Contract or
+      Licensed Software not assigned, subleased or transferred at the Closing is
+      obtained, Sellers shall assign or transfer such Assigned and Assumed
+      Contract or Licensed Software to Purchaser at no additional cost.
+
+      SECTION 5.05. NOTIFICATIONS. After the date of this Agreement and prior to
+Closing Sellers and Shareholders shall notify Purchaser and Purchaser shall
+notify Sellers and Shareholders, and each shall keep the other promptly advised
+as to (i) any litigation or administrative proceeding pending and known to it
+or, to its knowledge, threatened which challenges or seeks to restrain or enjoin
+the consummation of any of the transactions contemplated by this Agreement, (ii)
+the breach of any representation or warranty of Sellers, Shareholders or
+Purchaser, as the case may be, contained in this Agreement and (iii) any event,
+condition, result or change that has resulted in or reasonably could be expected
+to result in any Sellers Material Adverse Effect or Purchaser Material Adverse
+Effect.
+
+      SECTION 5.06. FURTHER ASSURANCES. The parties shall execute the Ancillary
+Agreements to which they are a party on the date of this Agreement or on the
+Closing Date, as the case may be, as set forth in such agreements. On and after
+the date of this Agreement and Closing Date, Sellers, Shareholders and Purchaser
+shall take all reasonably appropriate action and execute any additional
+documents, instruments or conveyances of any kind consistent with the negotiated
+
+
+                                       49
+<PAGE>
+
+terms of this Agreement which may be reasonably necessary to carry out any of
+the provisions of this Agreement or consummate any of the transactions
+contemplated by this Agreement.
+
+      SECTION 5.07. EXPENSES. Except as otherwise specifically provided in this
+Agreement, the parties to this Agreement each shall bear their respective
+expenses incurred in connection with the preparation, execution and performance
+of this Agreement and consummation of the transactions contemplated hereby,
+including all fees and expenses of agents, representatives, counsel, financial
+advisors, actuaries and accountants.
+
+      SECTION 5.08. EMPLOYEES AND EMPLOYEE BENEFITS.
+
+            (a) All Business Employees and the date of their employment, date of
+      birth, annual salary, total compensation for the 2000 calendar year,
+      Benefit Plan participation and election, job title, job location and the
+      immediate supervisor of each of them as of the date of this Agreement are
+      listed on Schedule 5.08. Schedule 5.08 also identifies each of the
+      Business Employees who is a party to any contract or agreement with any of
+      Sellers or Sellers' Affiliates, and each such employment contract or
+      agreement which is in writing is included in Schedule 3.05B. Purchaser
+      shall have the right, but not the obligation, to offer employment
+      effective as of the Closing Date to any or none of the Business Employees
+      as Purchaser chooses in its sole discretion. If Purchaser offers
+      employment to any of the Business Employees effective as of the Closing
+      Date pursuant to this Agreement, such offer shall be not less than the
+      salary in effect for such Business Employee on the date of this Agreement
+      and with benefits that are not less than those generally available to
+      Purchasers' employees on the date of this Agreement. Sellers and
+      Shareholders shall use commercially reasonable efforts to assist Purchaser
+      in hiring
+
+
+                                       50
+<PAGE>
+
+      Business Employees designated by Purchaser as Transferred Employees.
+      Sellers and Shareholders shall not offer other employment to any
+      Transferred Employee on or after the Closing Date without the prior
+      written consent of Purchaser. Any severance obligations to Business
+      Employees relating to the transactions contemplated hereby shall be borne
+      solely by Sellers.
+
+            (b) At Closing Sellers shall pay to all Transferred Employees
+      compensation for all accrued but not taken vacation, all accrued salary
+      and wages and all accrued bonuses. Nothing in this Agreement shall be
+      construed as limiting in any way the right of Purchaser after the Closing
+      Date to terminate the employment of any Transferred Employees, to change
+      his or her salary or wages, or to modify the benefits or other terms and
+      conditions of employment of any Transferred Employees.
+
+            (c) With respect to each Transferred Employee:
+
+                  (i) Sellers and Sellers' Benefit Plans or Shareholders or
+            Shareholders' Benefit Plans, as the case may be, shall be
+            responsible for all claims of and sums due to the Transferred
+            Employees incurred on or prior to the Closing Date. For this
+            purpose, a claim is incurred when the medical or other service
+            giving rise to the claim is performed, except that in the case of
+            death or disability, a claim is incurred on the date of death or
+            date of disability as the case may be; and
+
+                  (ii) Except as otherwise expressly provided in this Section
+            5.08, (A) Purchaser shall be responsible for, and shall indemnify
+            and hold harmless Sellers and Shareholders against, any actions,
+            claims or proceedings brought by or on behalf of any Transferred
+            Employee at any time with respect to any event occurring or
+            condition first arising after the Closing Date, and (B) Sellers and
+
+
+                                       51
+<PAGE>
+
+            Shareholders shall be responsible for, and shall indemnify and hold
+            harmless Purchaser against, any actions, claims or proceedings
+            brought by or on behalf of any Transferred Employee at any time with
+            respect to any event occurring or condition existing on or prior to
+            the Closing Date.
+
+            (d) Sellers or Shareholders shall be responsible for all deferred
+      compensation due to Transferred Employees under Sellers' or Shareholders
+      deferred compensation plans with respect to services rendered prior to the
+      Closing Date by any Transferred Employee.
+
+      SECTION 5.09. DISCLOSURE SCHEDULES. Each party shall deliver to the other
+party the schedules referenced in of this Agreement, together with copies of the
+documents referred to therein, at the execution hereof.
+
+      SECTION 5.10. NOTICE OF BREACH. A party shall give detailed written notice
+to the other party promptly upon Sellers' Knowledge or Purchaser's Knowledge, as
+the case may be, of the occurrence of any event that would cause or constitute a
+material breach of any representations or warranties of the notifying party
+contained in this Agreement or in the schedules.
+
+      SECTION 5.11. UPDATE OF DISCLOSURE SCHEDULES. Sellers shall update
+Schedules 3.05A, 3.05B, 3.07, 3.12A, 3.12B and 5.08 three (3) business days
+before the Closing Date, and Sellers and Purchaser shall each have the right
+from time to time after the date hereof to update or otherwise correct those and
+all other schedules of the respective parties until the Closing Date. Any
+updated or corrected schedule shall be promptly furnished by the party updating
+or correcting the schedule to the other party, and the other party shall have
+the right to review the updated or corrected schedule. If the party receiving
+the updated or corrected schedule, after reasonable consultation with the other
+party, determines in good faith that the items disclosed on
+
+
+                                       52
+<PAGE>
+
+the updated schedules have or could reasonably be expected to have a Sellers
+Material Adverse Effect or a Purchaser Material Adverse Effect, as the case may
+be, Sellers or Purchaser, as the case may be, may terminate the Agreement and
+neither party shall have any further obligations to the other hereunder, except
+as otherwise provided in this Agreement.
+
+      SECTION 5.12. REAL ESTATE LEASES. On the date of this Agreement,
+conditioned upon Closing and effective on the Closing Date, Sellers and
+Purchaser shall enter into the lease set forth in Exhibit N with respect to the
+premises located in Des Moines, Iowa listed on Schedule 3.24. On or before the
+Closing Date, Sellers and Purchaser shall enter into the leases and lease
+assignments set forth in Exhibit N with respect to all of the other premises
+listed on Schedule 3.24 and Sellers shall use commercially reasonable efforts to
+obtain such prior written consent of each of the lessors to the assignment, as
+the case may be, of each of such premises to Purchaser as may be required and
+shall provide copies of such written consents to Purchaser no later than the
+Closing Date.
+
+      SECTION 5.13. REINSURANCE OBLIGATIONS AND NOTICES OF CANCELLATION.
+
+            (a) Sellers and Shareholders agree and acknowledge that Purchaser
+      shall have no obligations or liabilities of any kind to reinsurers with
+      respect to the 2001 MPCI Premium, including but not limited to,
+      obligations to cede premiums, make deposits or pay penalties or
+      forfeitures of any kind whatsoever, except pursuant to the Granite Re
+      Treaty.
+
+            (b) Sellers and Shareholders agree that they shall cancel effective
+      as of the Closing Date all Reinsurance Contracts with respect to the
+      Business and provide a copy of all cancellation notices to Purchaser at
+      Closing.
+
+
+                                       53
+<PAGE>
+
+      SECTION 5.14. COMPUTER SOFTWARE. Prior to the Closing Date, Sellers shall
+use commercially reasonable efforts to obtain such prior written consents as are
+required for the assignment of the Owned Software and Assignable Licensed
+Software pursuant to Section 3.13(b).
+
+      SECTION 5.15. NO SOLICITATION. Between the date of this Agreement and the
+Closing or such earlier date as this Agreement is terminated pursuant to Section
+10.01 hereof, neither Sellers or Shareholders will directly or indirectly,
+through any Representative or otherwise, take any action to solicit, initiate,
+seek, entertain, encourage or support any inquiry, proposal or offer from,
+furnish any information to, or participate in any negotiations with, any third
+party regarding any acquisition of the Sellers, any acquisition or consolidation
+with or involving the Sellers, or any acquisition of any material portion of the
+stock or assets of the Sellers, including the grant of any license to any
+intellectual property of the Sellers. Shareholders and Sellers agree that any
+such discussions and negotiations (other than discussions and negotiations with
+Purchaser) in progress as of the date of this Agreement will be suspended until
+the date this Agreement is terminated pursuant to Section 10.01 hereof, and that
+neither Shareholders nor Sellers will accept or enter into any agreement,
+arrangement or understanding regarding any such third party acquisition of
+Sellers, the Business or any Transferred Assets from the date of this Agreement
+until the date this Agreement is terminated pursuant to Section 10.01 hereof. If
+Sellers or Shareholders or any of their Representatives receive any proposal or
+communication regarding any third party acquisition transaction prohibited by
+this section, Sellers immediately will notify Purchaser.
+
+      SECTION 5.16. POST-CLOSING ACCESS TO BOOKS AND RECORDS AND USE OF GENERAL
+LEDGER INFORMATION.
+
+
+                                       54
+<PAGE>
+
+            (a) Following the Closing Date, Purchaser shall afford, and will
+      cause its Affiliates to afford, to Sellers and Shareholders, their counsel
+      and their accountants, during normal business hours, reasonable access to
+      the Books and Records with respect to the period prior to the Closing Date
+      to the extent that such access may be reasonably required by Sellers and
+      Shareholders in connection with (i) the preparation of tax returns or in
+      connection with any audit, amended return, claim for refund or any
+      proceeding with respect thereto and (ii) the investigation, arbitration,
+      litigation and final disposition of any claims which may have been or may
+      be made against Sellers or Shareholders in connection with the Business or
+      which Sellers or Shareholders may make with respect to the Business.
+
+            (b) Notwithstanding any other provision of this Agreement to the
+      contrary, following the Closing Date Purchaser and Sellers shall each have
+      the right to use the portion of the Books and Records that consist of the
+      corporate and financial and accounting data recorded within the general
+      ledger system of the Sellers as it exists on the Closing Date. Promptly
+      after receipt of each written request from Sellers after Closing,
+      Purchaser shall provide Sellers a copy of such data in the format and
+      media as it exists in books and records of the Purchaser on the date of
+      such request.
+
+            (c) From the Closing Date, Purchaser will provide to Sellers a copy
+      of the FCIC monthly accounting report with respect to the SRA until the
+      FCIC determines that all premiums and claims have been settled and the
+      2000 Crop Year activity is closed; provided, however, if FCIC ceases to
+      provide such report to Purchaser, Purchaser shall have no obligation to
+      provide Sellers a copy of such report.
+
+
+                                       55
+<PAGE>
+
+            (d) Prior to the fifth anniversary of the Closing Date, Purchaser
+      will not, and will cause its Affiliates to not, dispose of, alter or
+      destroy any such Books and Records and other materials without giving 30
+      days' prior notice to Sellers to permit them, at their expense, to
+      examine, duplicate or repossess such records, files, documents and
+      correspondence, except for FCIC claim files which Purchaser may dispose of
+      in accordance with its document retention policies applicable to such
+      claim files, consistently applied.
+
+      SECTION 5.17. EXCLUSIVE LICENSE AGREEMENT. On or before the Closing Date,
+Sellers and Purchaser shall enter into the License Agreement in substantially
+the form set forth in Exhibit G.
+
+      SECTION 5.18. DEVELOPMENTAL PRODUCTS. Following the Closing Date,
+Purchaser shall use commercially reasonable efforts to obtain reimbursement from
+the RMA for developmental costs incurred by Sellers related to the insurance
+products known as GRIP, TimberPlus, and Sugar Beets Plus as of the date of this
+Agreement. Purchaser will transfer to Sellers promptly after the receipt by
+Purchaser of any funds received from the RMA on account of such products (or any
+of them), and whether on account of developmental cost reimbursement, royalties,
+or otherwise, an amount equal to the sum of (i) any such reimbursement it
+receives from the RMA minus (ii) the amount determined by multiplying the amount
+of time actually spent by Purchaser to seek and obtain such reimbursement times
+$75 per hour or any fraction thereof, until such time as the gross aggregate
+amount transferred by Purchaser to Sellers equals $190,000. After payment to
+Sellers of an aggregate gross amount of $190,000 pursuant to this Section 5,18,
+and except as specifically set forth in this Section 5.18, all of Sellers' and
+Shareholders' right, title and interest in and to insurance products developed
+completely or partially for submission to
+
+
+                                       56
+<PAGE>
+
+RMA or any other purpose in conjunction with the Business shall be the exclusive
+property of Purchaser, including without limitations the right to future
+payments for maintaining royalties or otherwise.
+
+      SECTION 5.19. NONCOMPETITION AGREEMENTS.
+
+            (a) On the date of this Agreement, conditioned upon Closing and
+      effective on the Closing Date, each of the parties indicated in the
+      Noncompetition Agreements set forth in Exhibit I or Exhibit J to this
+      Agreement shall enter into such Noncompetition Agreements.
+
+            (b) As of the date of this Agreement, not fewer than 16 of the
+      Business Employees listed on Schedule 5.19(b) shall have entered into a
+      Retention and Noncompetition Agreement in the form set forth in Exhibit K.
+
+      SECTION 5.20. WAIVER OF RIGHT OF FIRST REFUSAL. Munich Reinsurance has
+relinquished all rights and interests with respect to the purchase of any of
+Sellers or any assets of Sellers.
+
+      SECTION 5.21. IGF'S CONTINUED ACCESS TO KEY EMPLOYEES. From and after the
+Closing Date, IGF shall, upon reasonable notice to the Chief Executive Officer
+of AICI, have access to such key Transferred Employees, including, without
+limitation, Mike Jones, Harold Beeman, John Sheeley and Dennis Daggett, as IGF
+reasonably believes is necessary during normal business hours to (i) respond to
+and defend the interests of IGF against claims, litigation, threats and
+inquiries or (ii) assist in the preparation of required financial reports for up
+to six months after the Closing Date; provided, however, that such access shall
+not unduly disrupt the business of the Purchaser and IGF shall be required to
+reimburse Purchaser for all expenses associated
+
+
+                                       57
+<PAGE>
+
+with such access, including, without limitation, a per diem fee if out of state
+travel is required based upon a pro rata allocation of the applicable
+Transferred Employee's annual salary.
+
+                                   ARTICLE VI
+
+                     CONDITIONS PRECEDENT TO THE OBLIGATIONS
+
+                                OF THE PURCHASER
+
+      The obligations of Purchaser under this Agreement are subject to the
+satisfaction on or prior to either the date of this Agreement, the Closing Date,
+or both as specified in this Article VI of the following conditions.
+
+      SECTION 6.01. OTHER AGREEMENTS. The Ancillary Agreements, exhibits and
+other agreements and instruments contemplated hereby and thereby to which any
+Seller is a party shall have been duly executed and delivered by such Seller or
+its Affiliates, as the case may be, on or before the Closing Date, and each of
+such agreements and instruments shall be in full force and effect with respect
+to Sellers or its Affiliates, as the case may be, on the Closing Date. Not fewer
+than 16 of the Business Employees listed on Schedule 5.19(b) and Sellers shall
+have duly executed and delivered at Closing a Retention and Noncompetition
+Agreement and each of such agreements shall be in full force and effect on the
+Closing Date.
+
+      SECTION 6.02. OTHER DOCUMENTS. The Purchaser shall have received such
+other instruments and certificates as are to be delivered at Closing by Sellers
+under Section 5.06 hereof and otherwise.
+
+
+                                       58
+<PAGE>
+
+      SECTION 6.03. REPRESENTATIONS AND COVENANTS.
+
+            (a) The representations and warranties of Sellers in this Agreement
+      shall be true and correct in all material respects on and as of the date
+      of this Agreement, and on and as of the Closing Date with the same force
+      and effect as though made on and as of the Closing Date, except to the
+      extent that any such representation and warranty is made as of a
+      particular date, in which case such representation and warranty shall have
+      been true and correct as of such date and except to the extent that any
+      such statement is qualified as to materiality, in which case such
+      statement shall be true and correct in all material respects as of the
+      Closing Date or such time as may be specified in such statement;
+
+            (b) Sellers shall have performed or complied in all material
+      respects with all covenants and agreements required by this Agreement to
+      be performed or complied with by Sellers on or prior to the Closing Date;
+      and
+
+            (c) On the Closing Date, each of Sellers shall have delivered to
+      Purchaser a certificate of Sellers, dated as of the Closing Date and
+      signed by an executive officer of each of Sellers, as to the matters set
+      forth in this Section 6.04.
+
+      SECTION 6.04. NO MATERIAL ADVERSE CHANGE. Since December 31, 2000, there
+shall have been no event or condition which individually or in the aggregate
+resulted in or could reasonably be expected to adversely affect Purchaser's
+ability to operate the Business after the Closing substantially as it is being
+operated on the date of this Agreement, or which have a Sellers Material Adverse
+Effect.
+
+
+                                       59
+<PAGE>
+
+      SECTION 6.05. SECRETARY'S CERTIFICATE. Each of Sellers shall have
+delivered to Purchaser a certificate of its secretary, dated as of the date of
+this Agreement and as of the Closing Date, as to the resolutions of the Board of
+Directors of such Sellers authorizing the execution, delivery and performance of
+this Agreement and all Ancillary Agreements to which it is a party.
+
+      SECTION 6.06. LEGAL OPINION.
+
+            (a) The Purchaser shall have received an opinion of Ice Miller, or
+      other counsel reasonably acceptable to Purchaser, as special counsel to
+      Sellers and SIG (which opinion need not cover Goran even if such counsel
+      also represents Goran), in form and substance reasonably acceptable to
+      Purchaser, to the effect that:
+
+                  (i) Each Seller and SIG is a corporation duly incorporated and
+            validly existing as such under the laws of the state of its
+            incorporation, and each Seller and Shareholder has the requisite
+            corporate power and authority to own, lease and operate its
+            properties as now owned, leased or operated and to conduct its
+            business as presently conducted.
+
+                  (ii) Each Seller and SIG has the requisite corporate power and
+            authority to execute and deliver the Transfer Documents to which it
+            is a party, and the execution and delivery of the Transfer Documents
+            by each Seller and SIG have been duly authorized by all requisite
+            corporate action. Each of the Transfer Documents to which Sellers
+            and SIG are a party constitute valid and binding obligations of
+            Sellers and SIG, enforceable against each of them in accordance with
+            their respective terms. Except as is provided in the Agreement or
+            any Schedule or supplemental schedule thereto, Sellers and SIG are
+            not required to
+
+
+                                       60
+<PAGE>
+
+            obtain any authorization, approval or consent of any governmental or
+            regulatory body or other authority under Federal or State law in
+            connection with the execution, delivery and performance by Sellers
+            or SIG of the Transfer Documents to which they are a party.
+
+                  (iii) To such counsel's knowledge, and except as may be set
+            forth in the Agreement or any Schedule or supplemental schedule
+            thereto, there is no pending or threatened action, suit, claim,
+            investigation or proceeding before any judicial or governmental
+            authority that would question the validity of, or interfere with the
+            power or authority of any or all of Sellers and SIG to enter into,
+            and perform their respective obligations under the Transfer
+            Documents to which they are a party.
+
+            Such opinion may include assumptions, qualifications, exceptions,
+      and limitations generally applicable to opinions of this type, including
+      but not limited to a general qualification to the extent that the
+      enforceability of any provision of the aforementioned agreements or
+      instruments, or any rights pursuant to those agreements or instruments,
+      may be subject to or affected by applicable bankruptcy, insolvency,
+      reorganization, moratorium or similar laws affecting the rights of
+      creditors generally. Counsel may except from its opinion (among other
+      exceptions generally applicable to opinions of this type) (i) any opinion
+      as to the availability of any equitable remedy upon any breach of any of
+      the covenants, warranties or other provisions contained in any of such
+      agreements or instruments or the validity or enforceability of any
+      provision in the Transfer Documents or any agreement or instrument related
+      thereto regarding noncompete or confidentiality restrictions or that
+      purports to prevent oral modification or waivers of any provisions thereof
+      and (ii) any opinion as to the applicability or effect of any fraudulent
+
+
+                                       61
+<PAGE>
+
+      transfer or similar law on the Transfer Documents or any transaction
+      contemplated thereby.
+
+            (b) The Purchaser shall have received an opinion of John Sheeley, as
+      corporate counsel for IGFH and IGF, in form and substance reasonably
+      acceptable to Purchaser, to the effect that (1) the Transfer Documents are
+      sufficient to vest in and convey to Purchaser all right, title and
+      interest of Sellers in and to the Transferred Assets, and that upon
+      completion of the Closing, Purchaser will have good and marketable title
+      in such Transferred Assets; and (2) the execution and delivery by the
+      Sellers of the Transfer Documents to which they are a party, the
+      consummation of the transactions contemplated thereby and the performance
+      of their respective obligations thereunder (i) do not contravene any
+      provision of the respective certificate or articles of incorporation or
+      bylaws of the Sellers, (ii) will not result in the violation of any order,
+      writ, judgment, injunction or decree issued by any governmental or
+      judicial body to which any or all of the Purchasers or their respective
+      property is bound, (iii) will not constitute or otherwise result in a
+      breach or default under the provisions of any material indenture,
+      mortgage, loan agreement or other material contract to which any or all of
+      the Sellers or their respective property is bound or (iv) will not result
+      in the creation or imposition of any lien, security interest, charge or
+      other encumbrance pursuant to any applicable law, rule or statute or the
+      provisions of any material indenture, mortgage, loan agreement or other
+      material contract to which any or all of the Sellers or their respective
+      property is bound.
+
+SECTION 6.07. Consents and Approvals. All filings and notices required to be
+made prior to the Closing Date with, and all consents, approvals, authorizations
+and declarations required to be obtained prior to the Closing Date from,
+Governmental Entities, including but not limited to
+
+
+                                       62
+<PAGE>
+
+the FCIC, RMA, the Indiana Department of Insurance, those required under the HSR
+Act, those required under applicable state insurance laws and others set forth
+in Schedules 3.03 and 4.03 hereto or any other third party, in connection with
+the execution and delivery of this Agreement, the consummation of the
+transactions contemplated hereby, and the SRA Assignment and Assumption
+Agreement shall have been made or obtained (as the case may be), except for
+those, the failure of which to be obtained or taken, individually or in the
+whole, could not be reasonably expected to have a Sellers Material Adverse
+Effect; provided, however, that such exception shall not apply with respect to
+the consents, approvals, authorizations and declarations required to be obtained
+with respect to the SRA Assignment and Assumption Agreement, under the HSR Act,
+if any, and under applicable state insurance laws.
+
+      SECTION 6.08. NO INJUNCTIONS OR RESTRAINTS. No temporary restraining
+order, preliminary or permanent injunction or other Order shall have been issued
+by any Governmental Entity, nor shall any other legal restraint or prohibition
+preventing, restricting or which is reasonably likely to prevent or restrict the
+consummation of any of the transactions contemplated hereby, be in effect.
+
+                                   ARTICLE VII
+
+                     CONDITIONS PRECEDENT TO THE OBLIGATIONS
+
+                                 OF THE SELLERS
+
+      The obligations of Sellers under this Agreement are subject to the
+satisfaction on or prior to either the date of this Agreement, the Closing Date,
+or both as specified in this Article VII of the following conditions.
+
+
+                                       63
+<PAGE>
+
+      SECTION 7.01. REPRESENTATIONS AND COVENANTS.
+
+            (a) The representations and warranties of Purchaser in this
+      Agreement shall be true and correct in all material respects on and as of
+      the date of this Agreement, and on and as of the Closing Date with the
+      same force and effect as though made on and as of the Closing Date, except
+      to the extent that any such representation and warranty is made as of a
+      particular date, in which case such representation and warranty shall have
+      been true and correct as of such date and except to the extent that any
+      such statement is qualified as to materiality, in which case such
+      statement shall be true and correct in all respects as of the Closing Date
+      or such time as may be specified in such statement;
+
+            (b) Purchaser shall have performed or complied in all material
+      respects with all covenants and agreements required by this Agreement to
+      be performed or complied with by Purchaser on or prior to the Closing
+      Date; and
+
+            (c) On the Closing Date, Purchaser shall have delivered to Sellers a
+      certificate of Purchaser, dated as of the Closing Date and signed by an
+      executive officer of Purchaser, as to the matters set forth in this
+      Section 7.01.
+
+      SECTION 7.02. NO MATERIAL ADVERSE CHANGE. Since the date of this
+Agreement, there shall have been no event or condition which, individually or in
+the aggregate, resulted in or could reasonably be expected to adversely affect
+Purchaser's ability to consummate the transactions contemplated hereby or which
+have had a Purchaser Material Adverse Effect.
+
+      SECTION 7.03. SECRETARY'S CERTIFICATE. Each of the Purchasers shall have
+delivered to Sellers a certificate of its secretary or assistant secretary,
+dated as of the date of this Agreement
+
+
+                                       64
+<PAGE>
+
+and as of Closing Date, as to the resolutions of the Board of Directors of such
+Purchasers authorizing the execution, delivery and performance of this Agreement
+and all Ancillary Agreements to which it is a party.
+
+      SECTION 7.04. LEGAL OPINION. The Sellers shall have received an opinion of
+Kutak Rock LLP, as special counsel to Purchaser, in form and substance
+reasonably acceptable to Sellers, to the effect that:
+
+            (a) Each Purchaser is a corporation duly incorporated and validly
+      existing as such under the laws of the state of its incorporation, and
+      each Purchaser has the requisite corporate power and authority under
+      applicable laws to own, lease and operate its properties as now owned,
+      leased or operated and to conduct its business as presently conducted.
+
+            (b) Each Purchaser has the requisite corporate power and authority
+      to execute and deliver the Transfer Documents to which it is a party, and
+      the execution and delivery of the Transfer Documents by Purchaser have
+      been duly authorized by all requisite corporate action. Each of the
+      Transfer Documents to which Purchaser is a party constitute valid and
+      binding obligations of Purchaser, enforceable against Purchaser in
+      accordance with their respective terms. Except as is provided in the
+      Agreement or any schedule or supplemental schedule thereto, Purchaser is
+      not required to obtain any authorization, approval or consent of any
+      governmental or regulatory body or other authority under Federal or State
+      law in connection with the execution, delivery and performance by
+      Purchaser of the Transfer Documents to which Purchaser is a party.
+
+      Such opinion may include assumptions, qualifications, exceptions, and
+limitations generally applicable to opinions of this type, including but not
+limited to a general qualification
+
+
+                                       65
+<PAGE>
+
+to the extent that the enforceability of any provision of the aforementioned
+agreements or instruments, or any rights pursuant to those agreements or
+instruments, may be subject to or affected by applicable bankruptcy, insolvency,
+reorganization, moratorium or similar laws affecting the rights of creditors
+generally. Counsel may except from its opinion (among other exceptions generally
+applicable to opinions of this type) (i) any opinion as to the availability of
+any equitable remedy upon any breach of any of the covenants, warranties or
+other provisions contained in any of such agreements or instruments or the
+validity or enforceability of any provision in the Transfer Documents or any
+agreement or instrument related thereto regarding noncompete or confidentiality
+restrictions or that purports to prevent oral modification or waivers of any
+provisions thereof and (ii) any opinion as to the applicability or effect of any
+fraudulent transfer or similar law on the Transfer Documents or any transaction
+contemplated thereby.
+
+      The Sellers shall have received an opinion of J. Michael Gottschalk, as
+corporate counsel for Purchaser, in form and substance reasonably acceptable to
+Sellers, to the effect the execution and delivery by Purchaser of the Transfer
+Documents to which they are a party, the consummation of the transactions
+contemplated thereby and the performance of their respective obligations
+thereunder (i) do not contravene any provision of the respective certificate or
+articles of incorporation or bylaws of Purchasers (ii) will not result in the
+violation of any order, writ, judgment, injunction or decree issued by any
+governmental or judicial body to which any or all of Purchasers or their
+respective property is bound, (iii) will not constitute or otherwise result in a
+breach or default under the provisions of any material indenture, mortgage, loan
+agreement or other material contract to which any or all of Purchasers or their
+respective property is bound or (iv) will not result in the creation or
+imposition of any lien, security interest, charge or other
+
+
+                                       66
+<PAGE>
+
+encumbrance pursuant to any applicable law, rule or statute or the provisions of
+any material indenture, mortgage, loan agreement or other material contract to
+which any or all of Purchasers or their respective property is bound.
+
+      SECTION 7.05. OTHER DOCUMENTS. The Sellers shall have received such other
+instruments and certificates as are to be delivered under Section 5.06 as
+Sellers may reasonably request.
+
+      SECTION 7.06. OTHER AGREEMENTS. The Ancillary Agreements, the Granite Re
+Treaty and each of the other agreements and instruments contemplated hereby and
+thereby to which Purchaser or any of its Affiliates is a party shall have been
+duly executed and delivered by Purchaser or its Affiliates, as the case may be,
+on or before the Closing Date and each of such agreements and instruments shall
+be in full force and effect with respect to Purchaser or its Affiliates, as the
+case may be, on the Closing Date.
+
+      SECTION 7.07. CONSENTS AND APPROVALS. All filings and notices required to
+be made prior to the Closing Date with, and all consents, approvals,
+authorizations and declarations required to be obtained prior to the Closing
+Date, from Governmental Entities, including but not limited to the FCIC, RMA,
+the Indiana Department of Insurance, those required under the HSR Act and others
+set forth in Schedules 3.03 and 4.03 hereto or any other third party, in
+connection with the execution and delivery of this Agreement, the consummation
+of the transactions contemplated hereby, and the SRA Assignment and Assumption
+Agreement shall have been made or obtained (as the case may be), the failure of
+which to be obtained or taken, individually or in the whole, could be reasonably
+expected to have a Purchaser's Material Adverse Effect.
+
+      SECTION 7.08. NO INJUNCTIONS OR RESTRAINTS. No temporary restraining
+order, preliminary or permanent injunction or other order or decree shall have
+been issued by any
+
+
+                                       67
+<PAGE>
+
+Governmental Entity nor shall any other legal restraint or prohibition
+preventing, restricting or which is reasonably likely to prevent or restrict the
+consummation of any of the transactions contemplated hereby be in effect.
+
+                                  ARTICLE VIII
+
+              SURVIVAL OF REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+      Except as set forth in this Article VIII, all representations and
+warranties and covenants contained in this Agreement shall survive the Closing
+and shall terminate and expire at the close of business on the date which is the
+thirty-first day after the second anniversary date of the Closing Date;
+provided, however, that the representations, warranties and covenants of Sellers
+or Shareholders regarding Taxes or title to the Business and the Transferred
+Assets shall survive for the applicable statute of limitation with respect to
+any Tax or title defect, and that all representations, warranties and covenants
+of Sellers and of Shareholders regarding claims or compliance matters asserted
+by FCIC or RMA arising from or relating in whole or in part to the SRA and acts,
+events or occurrences before Closing shall survive through the date that is
+thirty-seven months from the date upon which the applicable FCIC claim file has
+closed or the applicable FCIC policy year ended. If a claim for indemnification
+shall be made with respect to any of the foregoing prior to the end of the
+applicable period set forth in the preceding sentence, such representation,
+warranty or covenant shall survive until such claim is satisfied, settled or
+dismissed.
+
+
+                                       68
+<PAGE>
+
+                                   ARTICLE IX
+
+                                 INDEMNIFICATION
+
+      SECTION 9.01. GENERAL INDEMNIFICATION OBLIGATION OF SELLERS. From and
+after the Closing, Sellers will jointly and severally reimburse, indemnify and
+hold harmless each Indemnified Purchaser Party against and in respect of any and
+all damages, losses, liabilities, costs and expenses of every kind whatsoever
+incurred or suffered by the Indemnified Purchaser Party that result from, relate
+to or arise out of:
+
+            (a) any and all violations or alleged violations of the SRA arising
+      from or relating in whole or in part to acts, events or occurrences prior
+      to the Closing Date, including, but not limited to, FCIC or RMA compliance
+      determinations, civil or criminal actions, liquidated damages, penalties
+      and fines;
+
+            (b) any and all claims by any reinsurer with respect to any premiums
+      ceded, losses paid, representations made or other communications or
+      actions of any of Sellers;
+
+            (c) any and all liabilities and obligations of Sellers of any nature
+      whatsoever, except for the Assumed Liabilities;
+
+            (d) any misrepresentation, breach of warranty or nonfulfillment of
+      any agreement or covenant on the part of Sellers under this Agreement or
+      any Ancillary Agreement, or from any misrepresentation in or omission from
+      any certificate, schedule, statement, document or instrument furnished to
+      Purchaser pursuant hereto or in connection with the negotiation, execution
+      or performance of this Agreement; or
+
+
+                                       69
+<PAGE>
+
+            (e) any and all actions, suits, claims, proceedings, investigations,
+      demands, assessments, audits, fines, judgments, costs and other expenses
+      (including, without limitation, reasonable legal fees and expenses)
+      incident to any of the foregoing or to the enforcement of this Section
+      9.01.
+
+      SECTION 9.02. GENERAL INDEMNIFICATION OBLIGATION OF PURCHASER. From and
+after the Closing, Purchaser will reimburse, indemnify and hold harmless each
+Indemnified Seller Party against and in respect of any and all damages, losses,
+deficiencies, liabilities, costs and expenses of every kind whatsoever incurred
+or suffered by the Indemnified Seller Party that result from, relate to or arise
+out of:
+
+            (a) the Assumed Liabilities;
+
+            (b) any misrepresentation, breach of warranty or nonfulfillment of
+      any agreement or covenant on the part of Purchaser under this Agreement or
+      any Ancillary Agreement, or from any misrepresentation in or omission from
+      any certificate, schedule, statement, document or instrument furnished to
+      Sellers pursuant hereto or in connection with the negotiation, execution
+      or performance of this Agreement; and
+
+            (c) Any and all actions, suits, claims, proceedings, investigations,
+      demands, assessments, audits, fines, judgments, costs and other expenses
+      (including, without limitation, reasonable legal fees and expenses)
+      incident to any of the foregoing or to the enforcement of this Section
+      9.02.
+
+
+                                       70
+<PAGE>
+
+      SECTION 9.03. METHOD OF ASSERTING CLAIMS, ETC.
+
+            (a) In the event that any claim or demand for which any of Sellers
+      would be liable to an Indemnified Purchaser Party hereunder is asserted
+      against or sought to be collected from an Indemnified Purchaser Party, the
+      Indemnified Purchaser Party shall promptly deliver to Sellers a Claim
+      Notice (including an estimated amount which shall not be conclusive of the
+      final amount of such claim and demand). From and after Closing Purchaser
+      shall also provide Sellers notice of RMA and FCIC compliance requests
+      under the SRA that relate to any matter prior to the Closing Date promptly
+      after receipt of such requests. Sellers shall have the Notice Period in
+      which to notify the Indemnified Purchaser Party whether Sellers dispute
+      their liability to the Indemnified Purchaser Party hereunder with respect
+      to such claim or demand and, notwithstanding any such dispute, whether or
+      not Sellers desire, at their sole cost and expense, to defend the
+      Indemnified Purchaser Party against such claims or demand.
+
+            (b) In the event Sellers notify the Indemnified Purchaser Party
+      within the Notice Period that Sellers desire to defend the Indemnified
+      Purchaser Party against such claim or demand then, except as hereinafter
+      provided, Sellers shall have the right to defend the Indemnified Purchaser
+      Party by appropriate proceedings, which proceedings shall be promptly
+      settled or prosecuted by them to a final conclusion in such a manner as to
+      avoid any risk of Indemnified Purchaser Party becoming subject to
+      liability for any other matter; provided, however, Sellers shall not,
+      without the prior written consent of the Indemnified Purchaser Party,
+      consent to the entry of any judgment against the Indemnified Purchaser
+      Party or enter into any settlement or compromise which does not include
+      complete, immediate, unconditional, general release by all claimants or
+      plaintiffs
+
+
+                                       71
+<PAGE>
+
+      of the Indemnified Purchaser Party, in form and substance satisfactory to
+      the Indemnified Purchaser Party from all liability asserted or which could
+      have been asserted in respect of such claim or litigation. If any
+      Indemnified Purchaser Party desires to participate in, but not control,
+      any such defense or settlement, it may do so at its sole cost and expense.
+
+            (c)(i) If Sellers elect not to defend the Indemnified Purchaser
+      Party against such claim or demand, whether by not giving the Indemnified
+      Purchaser Party timely notice as provided above or otherwise, Purchaser
+      shall defend such claim or demand as if this Article IX did not apply. If
+      the Sellers shall not have assumed the defense of such claim or demand,
+      the Sellers shall have no liability with respect to any compromise or
+      settlement of such claims or demands effected without its written consent
+      (unless such consent shall have been unreasonably withheld, in which case
+      Sellers shall be liable to the same extent as if they had provided their
+      written consent). The Sellers shall not admit any liability with respect
+      to, or settle, compromise or discharge, such third party claim without the
+      Indemnified Purchaser Party's prior written consent (which consent shall
+      not be unreasonably withheld) unless (i) there is no finding or admission
+      of any violation of law or any violation of the rights of any person and
+      no effect on any other claims that may be made against the Indemnified
+      Purchaser Party, or (ii) the sole relief provided is monetary damages that
+      are paid in full by the Sellers.
+
+            (ii) In the event an Indemnified Purchaser Party should have a claim
+      against Sellers hereunder that does not involve a claim or demand being
+      asserted against or sought to be collected from it by a third party, the
+      Indemnified Purchaser Party shall promptly send a Claim Notice with
+      respect to such claim to Sellers. If Sellers do not notify the Indemnified
+      Purchaser Party within the Notice Period that Sellers dispute such claim,
+      the amount of such
+
+
+                                       72
+<PAGE>
+
+      claim shall be conclusively deemed to be a liability of Sellers hereunder.
+
+            (d) The indemnities provided in this Agreement shall survive the
+      Closing but shall terminate when the applicable representation or warranty
+      terminates pursuant to Article VIII, except as to any item as to which the
+      person to be indemnified shall have, before the expiration of the
+      applicable period, previously made a claim by delivering a Claim Notice
+      (stating in reasonable detail the basis of such claim) to the Sellers. The
+      indemnity provided in this Article IX shall be the sole and exclusive
+      remedy of all Indemnified Purchaser Parties against the Sellers at law or
+      equity for any matter covered by Article IX.
+
+            (e) All claims for indemnification by an Indemnified Seller Party
+      under this Agreement shall be asserted and resolved under the procedures
+      set forth above substituting in the appropriate place "Indemnified Seller
+      Party" for "Indemnified Purchaser Party" and variations thereof and
+      "Purchaser" for "Sellers."
+
+      SECTION 9.04. PAYMENT
+
+            (a) Upon the determination of the liability under Section 9.03
+      hereof, the appropriate party shall pay to the other, as the case may be,
+      within 10 days after such determination, the amount conclusively deemed to
+      be a liability hereunder. Any indemnity amount conclusively deemed to be a
+      liability under Section 9.03 hereof shall be reduced by an amount equal to
+      any third party insurance proceeds realized by and paid to the indemnified
+      party. The indemnified party shall use its reasonable best efforts to make
+      insurance claims relating to any claim for which it is seeking
+      indemnification
+
+
+                                       73
+<PAGE>
+
+      pursuant to Article IX; provided, that (i) the indemnified party shall not
+      be obligated to make such an insurance claim if the indemnified party in
+      its reasonable judgment believes that the cost of pursuing such an
+      insurance claim together with any correspondent increase in insurance
+      premiums or other chargebacks to the indemnified party would exceed the
+      value of the claim for which the indemnified party is seeking
+      indemnification pursuant to this Article IX and (ii) no indemnified party
+      shall be required to keep or maintain any particular level of insurance.
+      Upon the payment in full of any claim under this Article IX, the entity
+      making payment shall be subrogated to the rights of the indemnified party
+      against any person, firm or corporation with respect to the subject matter
+      of such claim.
+
+      SECTION 9.05. LIMITATIONS ON INDEMNIFICATION.
+
+            (a) Sellers shall be liable for indemnification payments under
+      Article IX of this Agreement only if the aggregate amount of all such
+      damages, claims, losses, liabilities and expenses (other than damages,
+      claims, losses, liabilities and expenses with respect to the title to the
+      Business and the Transferred Assets) exceeds $100,000.00 and then only to
+      the extent of such excess, subject to Section 9.05(d).
+
+            (b) Sellers shall have no liability for indemnification payments
+      under Article IX of this Agreement with respect to any claim or compliance
+      matter arising from or relating in whole or in part to Insurance Contracts
+      for the 2001 MPCI Crop Year, or any subsequent MPCI Crop Years, and acts,
+      events or occurrences before Closing that is first asserted by RMA or
+      FCIC, by request for information or otherwise, with respect to
+
+
+                                       74
+<PAGE>
+
+      any reinsured claim closed more than thirty-nine months prior to the date
+      of that first assertion.
+
+            (c) Subject only to Section 9.05(d), the aggregate liability of
+      Sellers for indemnification payments under this Article IX shall not
+      exceed an amount equal to the sum of (i) Thirty-Six Million Four Hundred
+      Thousand Dollars ($36,400,000) minus (ii) the aggregate amounts paid to
+      the Purchaser pursuant to the indemnity provisions of the Granite Re
+      Treaty.
+
+            (d) None of the limitations set forth in Section 9.05 (a) or (c)
+      shall apply with respect to an indemnification obligation for claims by or
+      against Purchaser arising from or related to actual fraud committed by
+      Sellers, Shareholders or any of them.
+
+      SECTION 9.06. JOINT LIABILITY OF SHAREHOLDERS IN RESPECT OF DIVIDENDS. In
+the event that Sellers shall pay a dividend to SIG on or before the third
+anniversary of the Closing Date, then SIG shall, to the extent of the dividend
+(but not exceeding $12,400,000 less the aggregate amount paid towards the
+indemnity obligations of Sellers by Goran pursuant to the next sentence)
+received by it, be liable jointly and severally with the Sellers for any
+indemnification claim that arises hereunder. In the event that SIG shall,
+following receipt of a dividend from Sellers and before the third anniversary of
+the Closing Date, pay a dividend to its shareholders, including Goran, then
+Goran shall to the extent of the dividend it received from SIG (but not
+exceeding $12,400,000 less the aggregate amount paid towards the indemnity
+obligations of Sellers by SIG pursuant to the previous sentence) be liable
+jointly and severally with the Sellers and SIG for indemnification hereunder.
+
+
+                                       75
+<PAGE>
+
+                                    ARTICLE X
+
+                          TERMINATION PRIOR TO CLOSING
+
+      SECTION 10.01. TERMINATION. Notwithstanding any other provision contained
+herein, this Agreement may be terminated at any time prior to the Closing Date:
+
+            (a) by mutual written consent of Sellers and Purchaser;
+
+            (b) by Purchaser or Sellers in accordance with Section 5.11 hereof;
+
+            (c) by either party, upon written notice to the other, if the
+      Closing Date shall not have occurred on or prior to June 30, 2001;
+
+            (d) by either party, upon written notice to the other, if a
+      Governmental Entity of competent jurisdiction shall have issued an
+      injunction, order or decree enjoining or otherwise prohibiting the
+      consummation of the transactions contemplated by this Agreement, and such
+      injunction, order or decree shall have become final and nonappealable or
+      if a Governmental Entity has otherwise made a final determination that any
+      required regulatory consent would not be forthcoming; provided, however,
+      that the party seeking to terminate this Agreement pursuant to this clause
+      has used commercially reasonable efforts to remove such injunction, order
+      or decree;
+
+            (e) by Purchaser if any of Sellers or Shareholders (i) breaches or
+      fails in any material respect to perform or comply with any of its
+      material covenants and agreements contained herein or (ii) breaches any of
+      Sellers' or Shareholders' representations or warranties herein in any
+      material respect and such breach had, has or would be reasonably likely to
+      have a Sellers Material Adverse Effect and such breach has not been
+      remedied within ten (10) days after receipt of notice thereof from
+      Purchaser;
+
+
+                                       76
+<PAGE>
+
+            (f) by Sellers if Purchaser (i) breaches or fails in any material
+      respect to perform or comply with any of its material covenants and
+      agreements contained herein or (ii) breaches any of Purchaser's
+      representations or warranties herein in any material respect and such
+      breach had, has or would be reasonably likely to have a Purchaser Material
+      Adverse Effect and such breach has not been remedied within ten (10) days
+      after receipt of notice thereof from Sellers;
+
+            (g) by Purchaser in accordance with the first paragraph of Article
+      III hereof;
+
+            (h) By Purchaser if the Purchaser in good faith reasonably believes
+      the sums due to FCIC arising from or related to RMA Special Investigations
+      Branch, Case Number S1B-2001-15:2000 Crop Year Multiple Peril Crop
+      Insurance Apple Claims will exceed $1,000,000.
+
+      SECTION 10.02. EFFECT OF TERMINATION. In the event of termination of this
+Agreement by either Purchaser or Sellers as provided in Section 10.01, this
+Agreement shall forthwith become void and have no effect, and without any
+liability or obligation on the part of Purchaser, Sellers or Shareholders, and
+all rights and obligations of each party shall cease except that all rights and
+obligations under Articles X and XI shall remain in full force and effect.
+Nothing contained in this Section 10.02 shall relieve any party from its
+obligations under the Confidentiality Agreement or from any liability resulting
+from any willful and material breach of its representations, warranties,
+covenants or agreements set forth in this Agreement.
+
+
+                                       77
+<PAGE>
+
+                                   ARTICLE XI
+
+                               GENERAL PROVISIONS
+
+      SECTION 11.01. PUBLICITY. Except as may otherwise be required by law or
+the rules of applicable stock exchanges, no press release or public announcement
+concerning this Agreement or the transactions contemplated hereby shall be made
+by either Purchaser or any Seller or Shareholder without advance approval
+thereof by the other party, which shall not be unreasonably withheld. The
+parties hereto shall cooperate with each other in making any press release or
+public announcement.
+
+      SECTION 11.02. DOLLAR REFERENCES. All dollar references in this Agreement
+are to the currency of the United States of America.
+
+      SECTION 11.03. NOTICES. Any notice, request, instruction, legal process or
+other document to be given hereunder shall be in writing and, shall be deemed to
+have been duly given when delivered personally, when sent by confirmed cable,
+telecopy, telegram or telex, when sent by overnight courier service or when
+mailed by certified or registered mail, return receipt requested, with postage
+prepaid to the parties at the following addresses (or at such other address for
+a party as shall be specified by like notice):
+
+      If to Purchaser:           Acceptance Insurance Companies Inc.
+                                 Suite 600 North
+                                 222 South 15th Street
+                                 Omaha, NE 68102
+                                 Attention: Chief Executive Officer
+                                 Fax: (402) 345-9190
+
+      If to Sellers
+      or Shareholders:           Symons International Group, Inc.
+                                 4720 Kingsway Drive
+                                 Indianapolis, IN
+                                 Attention: Chief Executive Officer
+
+
+                                       78
+<PAGE>
+
+                                 Fax: (317) 259-6395
+
+      Any party may, by notice given in accordance with this Section 11.03 to
+the other parties, designate another address or person for receipt of notices
+hereunder provided that notice of such a change shall be effective upon receipt.
+
+      SECTION 11.04. ENTIRE AGREEMENt. This Agreement (including the Ancillary
+Agreements, the other agreements contemplated hereby and thereby and the
+exhibits and schedules hereto) contains the entire agreement among the parties
+with respect to the subject matter hereof, superseding all prior or
+contemporaneous contracts, agreements, understandings or arrangements, written
+or oral of every kind whatsoever.
+
+      SECTION 11.05. WAIVERS AND AMENDMENTS. This Agreement may be amended,
+superseded, canceled, renewed or extended, and the terms hereof may be waived,
+only by a written instrument signed by each of the parties or, in the case of a
+waiver, by the party waiving compliance. No delay on the part of any party in
+exercising any right, power or privilege hereunder shall operate as a waiver
+thereof, nor shall any waiver on the part of any party of any right, power or
+privilege, nor any single or partial exercise of any such right, power or
+privilege, preclude any further exercise thereof or the exercise of any other
+such right, power or privilege.
+
+      SECTION 11.06. GOVERNING LAW; CHOICE OF FORUM.
+
+            (a) THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE
+      WITH THE LAWS OF THE STATE OF IOWA, WITHOUT GIVING EFFECT TO THE
+      PRINCIPLES OF CONFLICTS OF LAWS THEREOF.
+
+
+                                       79
+<PAGE>
+
+            (b) EACH PARTY HERETO CONSENTS TO THE EXCLUSIVE JURISDICTION OF THE
+      STATE OR FEDERAL COURTS LOCATED IN POTTAWATTAMIE COUNTY, IOWA (THE "CHOSEN
+      COURT") IN RESPECT OF ANY CLAIM ARISING OUT OF OR RELATED TO THIS
+      AGREEMENT OR THE TRANSACTIONS CONTAINED IN OR CONTEMPLATED BY THIS
+      AGREEMENT AND THE ANCILLARY AGREEMENTS, WHETHER IN TORT OR CONTRACT OR AT
+      LAW OR IN EQUITY AND SOLELY IN CONNECTION WITH SUCH CLAIMS, (i) WAIVES ANY
+      OBJECTION TO LAYING VENUE IN ANY SUCH ACTION OR PROCEEDINGS IN THE CHOSEN
+      COURT, (ii) WAIVES ANY OBJECTION THAT THE CHOSEN COURT IS AN INCONVENIENT
+      FORUM OR DOES NOT HAVE JURISDICTION OVER ANY PARTY HERETO AND (iii) AGREES
+      THAT SERVICE OF PROCESS UPON SUCH PARTY IN ANY SUCH ACTION OR PROCEEDING
+      SHALL BE EFFECTIVE IF NOTICE IS GIVEN IN ACCORDANCE WITH SECTION 11.03 OF
+      THIS AGREEMENT.
+
+      SECTION 11.07. BINDING EFFECT; ASSIGNMENT. This Agreement shall be binding
+upon and inure to the benefit of the parties and their respective successors,
+permitted assigns, heirs and legal representatives. Neither this Agreement, nor
+any of the rights, interests or obligations hereunder, may be assigned, in whole
+or in part, by operation of law or otherwise by any party without the prior
+written consent of the other parties hereto and any such assignment that is not
+consented to shall be null and void; however, that Purchaser may assign any
+rights, interests or obligations hereunder to any of its Affiliates without the
+prior written consent of Sellers; provided, further, that in the event of any
+such assignment that Purchaser shall remain liable with respect to its
+obligations hereunder.
+
+
+                                       80
+<PAGE>
+
+      SECTION 11.08. INTERPRETATION.
+
+            (a) Notwithstanding anything in this Agreement to the contrary, no
+      term or condition of this Agreement shall be construed to supersede,
+      restrict or otherwise limit any term or condition set forth in the SRA.
+
+            (b) The parties acknowledge and agree that they may pursue judicial
+      remedies at law or equity in the event of a dispute with respect to the
+      interpretation or construction of this Agreement. In the event that any
+      alternative dispute resolution procedure is provided for in any of the
+      Ancillary Agreements or any other agreement contemplated hereby or
+      thereby, and there is a dispute with respect to the construction or
+      interpretation of such Ancillary Agreement, the dispute resolution
+      procedure provided for in such Ancillary Agreement shall be the procedure
+      that shall apply with respect to the resolution of such dispute.
+
+            (c) For purposes of this Agreement, the words "hereof," "herein,"
+      "hereby" and other words of similar import refer to this Agreement as a
+      whole unless otherwise indicated. Whenever the words "include," "includes"
+      or "including" are used in this Agreement, they shall be deemed to be
+      followed by the words "without limitation." All words in the singular
+      shall be deemed to refer to the plural, and all words in the plural shall
+      be deemed to refer to the singular.
+
+      SECTION 11.09. NO THIRD-PARTY BENEFICIARIES. Nothing in this Agreement is
+intended or shall be construed to give any person (including, but not limited
+to, the employees of Sellers), other than the parties hereto, their successors
+and permitted assigns, any legal or equitable right, remedy or claim under or in
+respect of this Agreement or any provision contained herein.
+
+
+                                       81
+<PAGE>
+
+      SECTION 11.10. COUNTERPARTS. This Agreement may be executed by the parties
+hereto in separate counterparts, each of which when so executed and delivered
+shall be an original, but all such counterparts shall together constitute one
+and the same instrument.
+
+      SECTION 11.11. EXHIBITS AND SCHEDULES. The exhibits and the schedules to
+this Agreement that are specifically referred to herein are a part of this
+Agreement as if fully set forth herein. All references herein to Articles,
+Sections, subsections, paragraphs, subparagraphs, clauses, exhibits and
+schedules shall be deemed references to such parts of this Agreement, unless the
+context shall otherwise require.
+
+      SECTION 11.12. HEADINGS. The headings in this Agreement are for reference
+only, and shall not affect the interpretation of this Agreement.
+
+
+                                       82
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties have executed this Agreement on the date
+first above written.
+
+                                         ACCEPTANCE INSURANCE COMPANIES
+                                         INC.
+
+                                         By:/s/ John E. Martin
+                                            ------------------------------------
+                                            John E. Martin
+                                            President
+
+
+                                        GORAN CAPITAL INC.
+
+                                        By:/s/ Alan G. Symons
+                                           ------------------------------------
+                                        Name:
+                                             ----------------------------------
+                                        Title: President and CEO
+                                              ---------------------------------
+
+                                        SYMONS INTERNATIONAL GROUP, INC.
+
+                                        By:/s/ Alan G. Symons
+                                           ------------------------------------
+                                        Name: Alan G. Symons
+                                             ----------------------------------
+                                        Title: Vice Chairman
+                                              ---------------------------------
+
+                                        IGF HOLDINGS, INC.
+
+                                        By:/s/ Alan G. Symons
+                                           ------------------------------------
+                                        Name: Alan G. Symons
+                                             ----------------------------------
+                                        Title: Vice Chairman, CEO, and President
+                                              ---------------------------------
+
+                                        IGF INSURANCE COMPANY
+
+                                        By:/s/ Alan G. Symons
+                                           ------------------------------------
+                                        Name: Alan G. Symons
+                                             ----------------------------------
+                                        Title: Vice Chairman, CEO, and President
+                                              ---------------------------------
+
+                                       83
+
+</TEXT>
+</DOCUMENT>

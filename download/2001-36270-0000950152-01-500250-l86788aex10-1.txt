@@ -1,0 +1,2270 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>l86788aex10-1.txt
+<DESCRIPTION>EX-10.1 - CREDIT AGREEMENT DATED DEC. 15, 2000
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 10.1
+
+
+
+
+
+
+
+
+================================================================================
+
+
+
+
+
+                                U.S. $30,000,000
+
+                                CREDIT AGREEMENT
+
+                          Dated as of December 15, 2000
+
+                                     between
+
+                             M & T BANK CORPORATION
+                                   as Borrower
+
+                                       and
+
+                                 CITIBANK, N.A.
+                                    as Lender
+
+================================================================================
+
+
+
+
+
+<PAGE>   2
+
+
+                                TABLE OF CONTENTS
+
+                                                                            Page
+                                                                            ----
+
+<TABLE>
+<CAPTION>
+                   ARTICLE I DEFINITIONS AND ACCOUNTING TERMS
+<S>           <C>
+SECTION 1.01.  Certain Defined Terms..........................................1
+SECTION 1.02.  Types of Advances..............................................9
+SECTION 1.03   Accounting Terms and Determinations............................9
+
+                  ARTICLE II AMOUNTS AND TERMS OF THE ADVANCES
+
+SECTION 2.01.  The Commitment.................................................9
+SECTION 2.02.  Advances......................................................10
+SECTION 2.03.  Interest Elections............................................10
+SECTION 2.04.  Termination, Reduction and Extension of the Commitment........11
+SECTION 2.05.  Repayment of Advances; Note...................................12
+SECTION 2.06.  Prepayment of Advances........................................12
+SECTION 2.07   Facility Fees; Utilization Fees...............................13
+SECTION 2.08.  Interest......................................................13
+SECTION 2.09.  Alternate Rate of Interest....................................14
+SECTION 2.10.  Increased Costs...............................................14
+SECTION 2.11.  Break Funding Payments........................................15
+SECTION 2.12.  Taxes.........................................................15
+SECTION 2.13.  Payments Generally............................................16
+
+                        ARTICLE III CONDITIONS OF LENDING
+
+SECTION 3.01.  Condition Precedent to Initial Advance........................17
+SECTION 3.02.  Conditions Precedent to Each Advance..........................17
+
+                    ARTICLE IV REPRESENTATIONS AND WARRANTIES
+
+SECTION 4.01.  Organization; Powers..........................................18
+SECTION 4.02.  Authorization; Enforceability.................................18
+SECTION 4.03.  Government Approvals; No Conflicts............................18
+SECTION 4.04.  Financial Condition; No Material Adverse Change...............18
+SECTION 4.05.  Litigation....................................................19
+SECTION 4.06.  Compliance with Laws and Agreements...........................19
+SECTION 4.07.  Investment and Holding Company Status.........................19
+SECTION 4.08.  Margin Regulations............................................19
+SECTION 4.09.  Taxes.........................................................19
+SECTION 4.10.  Environmental Matters.........................................19
+SECTION 4.11.  Existing Agreement............................................19
+SECTION 4.12.  Solvency......................................................20
+
+                       ARTICLE V COVENANTS OF THE BORROWER
+
+SECTION 5.01.  General Covenants.............................................20
+</TABLE>
+
+                                      -i-
+
+<PAGE>   3
+
+<TABLE>
+<S>                                                                        <C>
+SECTION 5.02.  Financial Covenants...........................................26
+
+                          ARTICLE VI EVENTS OF DEFAULT
+
+SECTION 6.01.  Events of Default.............................................26
+
+                            ARTICLE VII MISCELLANEOUS
+
+SECTION 7.01.  Amendments, Etc...............................................28
+SECTION 7.02.  Notices, Etc..................................................28
+SECTION 7.03.  No Waiver; Remedies...........................................28
+SECTION 7.04.  Costs, Expenses and Indemnification...........................29
+SECTION 7.05.  Assignments and Participations................................29
+SECTION 7.06.  Governing Law; Submission to Jurisdiction.....................30
+SECTION 7.07.  Severability..................................................30
+SECTION 7.08.  Execution in Counterparts.....................................30
+SECTION 7.09.  Survival......................................................30
+SECTION 7.10.  Waiver of Jury Trial..........................................30
+SECTION 7.11.  No Fiduciary Relationship.....................................31
+SECTION 7.12.  No Reliance...................................................31
+
+
+
+
+                                    SCHEDULES
+
+Schedule I   -  Existing Credit Agreements/Existing Liens
+
+                                    EXHIBITS
+
+Exhibit A  -  Form of Note
+
+</TABLE>
+
+                                      -ii-
+<PAGE>   4
+
+                                CREDIT AGREEMENT
+
+                  CREDIT AGREEMENT dated as of December 15, 2000, between M & T
+BANK CORPORATION, a New York corporation (the "BORROWER"), and CITIBANK, N.A.
+(the "LENDER"), a national bank.
+
+                  The Borrower has requested that the Lender make Advances to it
+in an aggregate principal amount up to but not exceeding $30,000,000 at any one
+time outstanding, and the Lender is prepared to make such Advances on and
+subject to the terms and conditions hereof. Accordingly, the parties hereto
+agree as follows:
+
+                                    ARTICLE I
+
+                        DEFINITIONS AND ACCOUNTING TERMS
+
+                  SECTION 1.01. CERTAIN DEFINED TERMS. As used in this
+Agreement, the following terms shall have the following meanings (such meanings
+to be equally applicable to both the singular and plural forms of the terms
+defined):
+
+                  "ADVANCE" means each advance by the Lender to the Borrower
+pursuant to Section 2.01.
+
+                  "AFFILIATE" means any Person that, directly or indirectly,
+controls, is controlled by or is under common control with the Borrower. For
+purposes of this definition, the term "CONTROL" (including the terms
+"CONTROLLING", "CONTROLLED BY" and "UNDER COMMON CONTROL WITH") of a Person
+shall mean the possession, direct or indirect, of the power to vote 10% or more
+of the Voting Stock of such Person or to direct or cause the direction of the
+management and policies of such Person, whether through the ownership of such
+Voting Stock, by contract or otherwise. Notwithstanding the foregoing, no
+individual shall be deemed to be an Affiliate solely by reason of his or her
+being an officer or director of the Borrower and the Borrower and the
+Subsidiaries shall not be deemed to be Affiliates of each other.
+
+                  "APPLICABLE FACILITY FEE RATE" means 0.125% per annum.
+
+                  "APPLICABLE LENDING OFFICE" means the office of the Lender
+specified on the signature page hereof, or such other office of the Lender as
+the Lender may from time to time specify to the Borrower.
+
+                  "APPLICABLE MARGIN" means (a) with respect to Base Rate
+Advances, 0% per annum and (b) with respect to LIBO Rate Advances, 0.375% per
+annum.
+
+                  "APPLICABLE UTILIZATION FEE RATE" means 0.10% per annum.
+<PAGE>   5
+                                      -2-
+
+                  "BANK SUBSIDIARY" means a Subsidiary of the Borrower that is a
+bank or banking institution and shall include any Insured Subsidiary.
+
+                  "BASE RATE" means a fluctuating interest rate per annum in
+effect from time to time which shall at all times be equal to the highest of:
+
+                  (a) the rate of interest announced publicly by the Lender in
+New York, New York, from time to time, as the Lender's Base Rate;
+
+                  (b) 0.50% per annum above the latest three-week moving average
+of secondary market morning offering rates in the United States for three-month
+certificates of deposit of major United States money center banks, such
+three-week moving average (adjusted to the basis of a year of 365 days) being
+determined weekly on each Monday (or, if such day is not a Business Day, on the
+next succeeding Business Day) for the three-week period ending on the previous
+Friday by the Lender on the basis of such rates reported by certificate of
+deposit dealers to and published by the Federal Reserve Bank of New York or, if
+such publication shall be suspended or terminated, on the basis of quotations
+for such rates received by the Lender from three New York certificate of deposit
+dealers of recognized standing selected by the Lender, in either case adjusted
+to the nearest 1/4 of one percent or, if there is no nearest 1/4 of one percent,
+to the next higher 1/4 of one percent; and
+
+                  (c)  0.50% per annum above the Federal Funds Rate.
+
+Each change in any interest rate provided for herein based upon the Base Rate
+resulting from a change in the Base Rate shall take effect at the time of such
+change in the Base Rate.
+
+                  "BASE RATE ADVANCE" means, at any time, an Advance which bears
+interest at the Base Rate.
+
+                  "BORROWER" means M&T Bank Corporation and its successors and
+assigns.
+
+                  "BUSINESS DAY" means (a) a day on which banks are not required
+or authorized to close in New York, New York and (b) if the applicable Business
+Day relates to any LIBO Rate Advance, on which dealings in deposits are carried
+on in the London interbank market.
+
+                  "CHANGE IN CONTROL" means any of the following events:
+
+                  (a) the Borrower is merged, consolidated or reorganized into
+or with another corporation or other Person, and as a result of such merger,
+consolidation or reorganization less than a majority of the combined voting
+power of the then outstanding Voting Stock of the corporation or other Person
+that is the survivor of such merger, consolidation or reorganization immediately
+after such transaction is held in the aggregate by the holders of Voting Stock
+of the Borrower immediately prior to such transaction; or
+
+                  (b) the Borrower sells all or substantially all of its assets
+to any other corporation or other Person, and less than a majority of the
+combined voting power of the then outstanding
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   6
+                                      -3-
+
+Voting Stock of such corporation or other Person immediately after such
+transaction is held in the aggregate by the holders of Voting Stock of the
+Borrower immediately prior to such sale; or
+
+                  (c) any "person" or "group" as such terms are used for
+purposes of Sections 13(d) and 14(d) of the Exchange Act, whether or not
+applicable (except that for purposes of this paragraph (c) such person or group
+shall not include the Wilmers Group or its members) is or becomes the
+"beneficial owner" (as such term is used in Rule 13d-3 promulgated pursuant to
+the Exchange Act), directly or indirectly, of more than 50% of the aggregate
+voting power of all Voting Stock of the Borrower, or Mr. Robert G. Wilmers
+shall, as a result of a sale or other disposition (other than a share exchange
+in connection with a merger otherwise permitted hereby) of shares, cease to own,
+beneficially and of record, at least 5% of the aggregate voting power of all
+Voting Stock of the Borrower; or
+
+                  (d) during any period of 13 consecutive calendar months, a
+majority of the Board of Directors of the Borrower shall no longer be composed
+of individuals (i) who were members of said Board on the first day of such
+period, (ii) whose election or nomination to said Board was approved by
+individuals referred to in clause (i) above constituting at the time of such
+election or nomination at least a majority of said Board or (iii) whose election
+or nomination to said Board was approved by individuals referred to in clauses
+(i) and (ii) above constituting at the time of such election or nomination at
+least a majority of said Board.
+
+                  "CLOSING DATE" means the date on which the Lender notifies the
+Borrower that the conditions precedent set forth in Section 3.01 have been
+satisfied.
+
+                  "CODE" means the Internal Revenue Code of 1986, as amended
+from time to time.
+
+                  "COMMITMENT" has the meaning specified in Section 2.01.
+
+                  "COMMITMENT TERMINATION DATE" means the day 364 days after the
+Closing Date or, in the event that the Commitment is extended pursuant to
+Section 2.04(d), the date to which the Commitment is extended; PROVIDED, that if
+such day is not a Business Day, the Commitment Termination Date shall be the
+immediately preceding Business Day.
+
+                  "CONSOLIDATED NET WORTH" means the aggregate of the capital
+stock, surplus and retained earnings of the Borrower and its Consolidated
+Subsidiaries, but excluding treasury stock and capital stock subscribed and
+unissued, all determined on a consolidated basis.
+
+                  "CONSOLIDATED NON-PERFORMING ASSETS" means, on any date, the
+aggregate amount of loans and leases that are not accruing interest or that are
+90 days or more past due in the payment of principal and interest, renegotiated
+or restructured loans and leases, in substance foreclosures and foreclosed real
+estate and other foreclosed property of the Borrower and its Consolidated
+Subsidiaries on such date.
+
+                  "CONSOLIDATED RESERVE FOR CREDIT LOSSES" means, on any date,
+the consolidated allowance for loan and lease losses for the Borrower and its
+Consolidated Subsidiaries on such date.
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   7
+                                      -4-
+
+                  "CONSOLIDATED SUBSIDIARY" means, at any date, any Subsidiary
+of the Borrower the accounts of which would be consolidated with those of the
+Borrower in its consolidated financial statements if such statements were
+prepared in accordance with GAAP as of such date.
+
+                  "CONSOLIDATED TANGIBLE NET WORTH" means the Consolidated Net
+Worth less the book value of goodwill, patents, trademarks, service marks, trade
+names, copyrights, charters, franchises, certificates, permits and licenses and
+any other intangible assets of the Borrower and its Consolidated Subsidiaries on
+a consolidated basis.
+
+                  "CONSOLIDATED TOTAL TANGIBLE ASSETS" means, at any time, the
+aggregate amount of assets of the Borrower and its Consolidated Subsidiaries
+determined in accordance with GAAP less the book value of goodwill, patents,
+trademarks, service marks, trade names, copyrights, charters, franchises,
+certificates, permits and licenses and any other intangible assets of the
+Borrower and its Consolidated Subsidiaries on a consolidated basis.
+
+                  "DEBT" of any Person means (a) indebtedness of such Person for
+borrowed money, (b) obligations of such Person evidenced by bonds, debentures,
+notes or other similar instruments, (c) obligations of such Person to pay the
+deferred purchase price of property or services (excluding, however, trade
+accounts payable arising in the ordinary course of business and not overdue),
+(d) capital lease obligations of such Person, (e) Debt of others Guaranteed by
+such Person, (f) Debt of others secured by a Lien on the property of such
+Person, (g) all obligations of such Person to redeem, retire, defease or
+otherwise make any payment in respect of shares of capital stock of such Person,
+(h) all obligations, contingent or otherwise, of such Person in respect of
+letters of credit or acceptances (other than commercial letters of credit in
+respect of trade accounts payable and not overdue) and (i) the net liability of
+such Person under Hedge Agreements, EXCLUDING, from this definition, other than
+for purposes of Section 6.01(d), the Junior Subordinated Debentures issued by
+the Borrower in connection with preferred capital securities issued by M & T
+Capital Trust I, a Delaware business trust, M & T Capital Trust II, a Delaware
+business trust, or M & T Capital Trust III, a Delaware business trust.
+
+                  "DEFAULT" means an Event of Default or an event that, with
+notice or lapse of time or both, would become an Event of Default.
+
+                  "DOLLARS" and "$" means lawful money of the United States of
+America.
+
+                  "DOUBLE LEVERAGE RATIO" means the ratio of (i) the aggregate
+investment of the Borrower in capital stock of its Subsidiaries, including its
+interest in undistributed earnings and intangibles (determined in accordance
+with GAAP) of its Subsidiaries, to (ii) Consolidated Net Worth of the Borrower.
+
+                  "ENVIRONMENTAL LAWS" means any and all present and future
+Federal, state and local laws, rules or regulations, and any orders or decrees,
+in each case as now or hereafter in effect, relating to the regulation or
+protection of human health, safety or the environment or to emissions,
+discharges, releases or threatened releases of Hazardous Materials into the
+indoor or outdoor environment, including, without limitation, ambient air, soil,
+surface water, ground
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   8
+                                      -5-
+
+
+
+water, wetlands, land or subsurface strata, or otherwise relating to the
+manufacture, processing, distribution, use, treatment, storage, disposal,
+transport or handling of Hazardous Materials.
+
+                  "ERISA" means the Employee Retirement Income Security Act of
+1974, as amended from time to time, and the regulations promulgated and rulings
+issued thereunder.
+
+                  "ERISA AFFILIATE" means any trade or business (whether or not
+incorporated) that, together with the Borrower, is treated as a single employer
+under Section 414(b) or (c) of the Code, or, solely for purposes of Section 302
+of ERISA and Section 412 of the Code, is treated as a single employer under
+Section 4143 of the Code.
+
+                  "EUROCURRENCY LIABILITIES" has the meaning assigned to that
+term in Regulation D of the Board of Governors of the Federal Reserve System, as
+in effect from time to time.
+
+                  "EVENTS OF DEFAULT" has the meaning specified in Section 6.01.
+
+                  "EXCHANGE ACT" means the Securities Exchange Act of 1934, as
+amended.
+
+                  "EXCLUDED TAXES" means, with respect to the Lender or any
+other recipient of any payment to be made by or on account of any obligation of
+the Borrower hereunder, (a) income or franchise Taxes imposed on (or measured
+by) its net income by the United States of America, or by the jurisdiction under
+the laws of which such recipient is organized or in which its principal office
+is located or, in the case of the Lender, in which its Applicable Lending Office
+is located and (b) any branch profits Taxes imposed by the United States of
+America or any similar Tax imposed by any other jurisdiction in which the
+Borrower is located.
+
+                  "FEDERAL FUNDS RATE" means, for any day, a fluctuating
+interest rate per annum equal to the weighted average of the rates on overnight
+Federal funds transactions with members of the Federal Reserve System arranged
+by Federal funds brokers, as published for such day (or, if such day is not a
+Business Day, for the next preceding Business Day) by the Federal Reserve Bank
+of New York, or, if such rate is not so published for any day which is a
+Business Day, the average of the quotations for such day on such transactions
+received by the Lender from three Federal funds brokers of recognized standing
+selected by it.
+
+                  "GAAP" means generally accepted United States accounting
+principles.
+
+                  "GUARANTEE" by any Person means any obligation, contingent or
+otherwise, of such Person directly or indirectly guaranteeing any Debt of any
+other Person and, without limiting the generality of the foregoing, any
+obligation, direct or indirect, contingent or otherwise, of such Person (i) to
+purchase or pay (or advance or supply funds for the purchase or payment of) such
+Debt (whether arising by virtue of partnership arrangements, by agreement to
+keep-well, to purchase assets, goods, securities or services, to take-or-pay, or
+to maintain financial statement conditions or otherwise, other than agreements
+to purchase goods at an arm's length price in the ordinary course of business)
+or (ii) entered into for the purpose of assuring in any other manner the holder
+of such Debt of the payment thereof or to protect such holder against loss in
+respect thereof (in whole or in part); PROVIDED, that the term Guarantee shall
+not
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   9
+                                      -6-
+
+
+include endorsements for collection or deposit in the ordinary course of
+business. The term "GUARANTEE" used as a verb has a corresponding meaning.
+
+                  "HAZARDOUS MATERIALS" means all explosive or radioactive
+substances or wastes and all hazardous or toxic substances, wastes or other
+pollutants, including petroleum or petroleum distillates, asbestos or asbestos
+containing materials, polychlorinated biphenyls, radon gas, infectious or
+medical wastes and all other substances or wastes of any nature regulated
+pursuant to any Environmental Law.
+
+                  "HEDGE AGREEMENT" means any rate, basis, commodity, currency,
+debt or equity swap, any cap, collar or floor agreement, or any similar
+agreement entered into for the purpose of hedging risk.
+
+                  "INDEMNIFIED TAXES" means Taxes other than Excluded Taxes.
+
+                  "INSURED SUBSIDIARY" means any insured depositary institution
+(as defined in 12 U.S.C. ss.1813(c)(2) or any successor provision, as amended,
+reenacted or redesignated from time to time) that is controlled (within the
+meaning of 12 U.S.C. ss.1841(a)(2) or any successor provision as amended,
+reenacted or redesignated from time to time) by the Borrower.
+
+                  "INTEREST PAYMENT DATE" means (a) with respect to any Base
+Rate Advance, each Quarterly Date and (b) with respect to any LIBO Rate Advance,
+the last day of each Interest Period therefor and, in the case of any Interest
+Period that has a duration of more than three months, each day prior to the last
+day of such Interest Period that occurs at intervals of three months after the
+first day of such Interest Period.
+
+                  "INTEREST PERIOD" means, with respect to any LIBO Rate
+Advance, the period beginning on the date such LIBO Rate Advance is made, or
+converted from a Base Rate Advance, or on the last day of the immediately
+preceding Interest Period, and ending on the last day of the period selected by
+the Borrower pursuant to the provisions below. The duration of each Interest
+Period in respect of any LIBO Rate Advance shall be 1, 2, 3 or 6 months as the
+Borrower may select as provided in Section 2.03; PROVIDED, HOWEVER, that (i)
+each Interest Period that begins on the last Business Day of a calendar month
+(or on any day for which there is no numerically corresponding day in the
+appropriate subsequent calendar month) shall end on the last Business Day of the
+appropriate subsequent calendar month, (ii) whenever the last day of any
+Interest Period would otherwise occur on a day other than a Business Day, the
+last day of such Interest Period shall be extended to occur on the next
+succeeding Business Day, except that, if such extension would cause the last day
+of such Interest Period to occur in the next following calendar month, the last
+day of such Interest Period shall occur on the next preceding Business Day, and
+(iii) any Interest Period that would otherwise extend beyond the Commitment
+Termination Date shall end on the Commitment Termination Date.
+
+                  "LENDER" means Citibank, N.A. and its successors and assigns.
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   10
+                                      -7-
+
+                  "LIBO RATE" means, with respect to any LIBO Rate Advance, for
+any Interest Period:
+
+                  (a) the offered rate for deposits in Dollars with a maturity
+comparable to such Interest Period appearing on Page 3750 of the Telerate
+Service of Bridge Information Service (or on any successor or substitute page of
+such Service, or any successor to such Service, providing rate quotations
+comparable to those currently provided on such page of such Service, as
+determined by the Lender from time to time, for purposes of providing quotations
+of interest rates applicable to Dollar deposits in the London interbank market)
+as of approximately 11:00 a.m. (London time) on the date two Business Days prior
+to the commencement of such Interest Period;
+
+                  (b) if such date does not appear on said Page 3750 (or such
+successor), the offered rate for deposits in Dollars with a maturity comparable
+to such Interest Period appearing on the display designated on page "LIBO" on
+the Reuter Monitor Money Rates Service (or on any successor or substitute page
+of such Service, providing rate quotations comparable to those currently
+provided on such page of such Service, as determined by the Lender from time to
+time, for purposes of providing quotations of interest rates applicable to
+Dollar deposits in the London interbank market) as of approximately 11:00 a.m.
+(London time) on the date two Business Days prior to the commencement of such
+Interest Period; and
+
+                  (c) in the event that neither rate referred to in clauses (a)
+or (b) is available at such time for any reason, an interest rate per annum
+equal to the rate per annum at which deposits in Dollars are offered by the
+principal office of the Lender in London, England to prime banks in the London
+interbank market at approximately 11:00 a.m. (London time) on the date two
+Business Days before the first day of such Interest Period in the amount of the
+Advance if such Advance were to be outstanding for such Interest Period.
+
+                  "LIBO RATE ADVANCE" means, at any time, an Advance which bears
+interest at a rate based upon the LIBO Rate.
+
+                  "LIBO RATE RESERVE PERCENTAGE" for any Interest Period for any
+LIBO Rate Advance means the effective rate (expressed as a percentage) at which
+reserve requirements (including, without limitation, emergency, supplemental and
+other marginal reserve requirements) are imposed on the Lender during such
+Interest Period (or if more than one such percentage shall be so applicable, the
+daily average of such percentages for those days in such Interest Period during
+which any such percentage shall be so applicable) under regulations issued from
+time to time by the Board of Governors of the Federal Reserve System (or any
+successor) with respect to liabilities or assets consisting of or including
+Eurocurrency Liabilities having a term equal to such Interest Period.
+
+                  "LIEN" means any lien, security interest or other charge or
+encumbrance of any kind, or any other type of preferential arrangement,
+including, without limitation, the lien or retained security title of a
+conditional vendor.
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   11
+                                      -8-
+
+
+                  "MATERIAL ADVERSE EFFECT" means a material adverse effect on
+(i) the business, condition (financial or otherwise), operations or prospects of
+the Borrower or of the Borrower and its Consolidated Subsidiaries taken as a
+whole, (ii) the legality, validity or enforceability of this Agreement or the
+Note or (iii) the ability of the Borrower to perform its obligations under this
+Agreement or the Note in any material respect.
+
+                  "MULTIEMPLOYER PLAN" means a multiemployer plan defined as
+such in Section 4001(a)(3) of ERISA to which contributions have been made by the
+Borrower or any ERISA Affiliate and that is covered by Title IV of ERISA.
+
+                  "NON-PERFORMING ASSET COVERAGE RATIO" means, on any date, the
+ratio of (a) Consolidated Net Worth PLUS Consolidated Reserve for Credit Losses
+on such date to (b) Consolidated Non-Performing Assets on such date.
+
+                  "NOTE" has the meaning specified in Section 2.05(b).
+
+                  "OTHER TAXES" means any and all present or future stamp or
+documentary Taxes or any other excise or property Taxes, charges or similar
+levies arising from any payment made hereunder or from the execution, delivery
+or enforcement of, or otherwise with respect to, this Agreement.
+
+                  "PBGC" means the Pension Benefit Guaranty Corporation or any
+entity succeeding to any or all of its functions under ERISA.
+
+                  "PERSON" means an individual, partnership, corporation
+(including a business trust), limited liability company, joint stock company,
+trust, unincorporated association, joint venture or other entity, or a
+government or any political subdivision or agency thereof.
+
+                  "PLAN" means an employee benefit or other plan established or
+maintained by the Borrower or any ERISA Affiliate and that is covered by Title
+IV of ERISA, other than a Multiemployer Plan.
+
+                  "QUARTERLY DATE" means the last Business Day of each March,
+June, September and December.
+
+                  "SIGNIFICANT SUBSIDIARY" means (i) any Subsidiary of the
+Borrower that would be a "significant subsidiary" within the meaning of
+Regulation S-X of the SEC and (ii) any Bank Subsidiary.
+
+                  "SOLVENT" means, with respect to any Person on a particular
+date, that (i) the fair value of the property of such Person is greater than the
+total amount of the liabilities, including, without limitation, contingent
+liabilities, of such Person, (ii) the present fair salable value of the assets
+of such Person is not less than the amount that will be required to pay the
+probable liability of such Person on its debts as they become absolute and
+matured, (iii) such Person does not intend to, and does not believe that it
+will, incur debts or liabilities beyond such Person's ability to pay such debts
+and liabilities as they mature, and (iv) such Person is not engaged in business,
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   12
+                                      -9-
+
+
+and is not about to engage in business, for which such Person's property would
+constitute unreasonably small capital.
+
+                  "SUBSIDIARY" means any Person of which at least a majority of
+the Voting Stock is at the time directly or indirectly owned or controlled by
+the Borrower or one or more Subsidiaries or by the Borrower and one or more
+Subsidiaries.
+
+                  "TAXES" means any and all present or future taxes, levies,
+imposts, duties, deductions, charges or withholdings imposed by any governmental
+authority.
+
+                  "VOTING STOCK" means, at any time, the outstanding securities
+of any Person the holders of which are ordinarily, in the absence of
+contingencies, entitled to vote for the election of directors (or persons
+performing similar functions) of such Person.
+
+                  "WILMERS GROUP" means Robert G. Wilmers and the other members
+of the group of related Persons described under the caption "PRINCIPAL
+BENEFICIAL OWNERS OF SHARES" in the proxy statement of the Borrower relating to
+its 2000 Annual Meeting of Stockholders.
+
+                  SECTION 1.02. TYPES OF ADVANCES. The "Type" of an Advance
+refers to whether it is at the time a Base Rate Advance or a LIBO Rate Advance.
+
+                  SECTION 1.03 ACCOUNTING TERMS AND DETERMINATIONS. Except as
+otherwise expressly provided herein, all accounting terms used herein shall be
+interpreted, and all financial statements and certificates and reports as to
+financial matters required to be delivered to the Lender hereunder shall (unless
+otherwise disclosed to the Lender in writing at the time of delivery thereof in
+the manner described in subsection (b) below) be prepared, in accordance with
+GAAP applied on a basis consistent with those used in the preparation of the
+latest financial statements furnished to the Lender hereunder after the date
+hereof. All calculations made for the purposes of determining compliance with
+the terms of Section 5.02 shall (except as otherwise expressly provided herein)
+be made by application of GAAP applied on a basis consistent with those used in
+the preparation of the annual or quarterly financial statements furnished to the
+Lender pursuant to Section 5.01(g) hereof.
+
+                                   ARTICLE II
+
+                        AMOUNTS AND TERMS OF THE ADVANCES
+
+                  SECTION 2.01. THE COMMITMENT. The Lender agrees, on the terms
+and conditions hereinafter set forth, to make Advances to the Borrower in
+Dollars from time to time on any Business Day during the period from the date
+hereof until the Commitment Termination Date in an aggregate principal amount
+not to exceed at any one time outstanding $30,000,000 (the "COMMITMENT"). Within
+the foregoing limits and subject to the terms and conditions of this Agreement
+the Borrower may borrow, prepay and reborrow the amount of the Commitment. Each
+Advance shall be in a minimum amount of $1,000,000 or any whole multiple of
+$1,000,000 in excess thereof.
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   13
+                                      -10-
+
+
+                  SECTION 2.02. ADVANCES. To request an Advance, the Borrower
+shall give the Lender irrevocable, written notice of such Advance (i) in the
+case of a LIBO Rate Advance, not later than 11:00 a.m. (New York City time) on
+the third Business Day prior to the date of such Advance or (ii) in the case of
+a Base Rate Advance, not later than 11:00 a.m. (New York City time) on the day
+of such Advance. Each such notice shall be by telecopier, telex or cable and
+shall specify the requested (i) date of such Advance, which shall be a Business
+Day, (ii) Type of Advance, (iii) amount of such Advance and (iv) in the case of
+an Advance consisting of a LIBO Rate Advance, initial Interest Period for such
+Advance. The Lender will make the proceeds of each Advance available to the
+Borrower by crediting the amount thereof, in immediately available funds, to an
+account of the Borrower maintained with the Lender in New York City (or such
+other account as the Lender and the Borrower may agree) (i) by 12:00 noon (New
+York City time) in the case of a LIBO Rate Advance and (ii) by the end of the
+same Business Day, if possible, in the case of a Base Rate Advance.
+
+                  SECTION 2.03. INTEREST ELECTIONS. Each Advance initially shall
+be of the Type specified in the notice of such Advance and, in the case of a
+LIBO Rate Advance, shall have an initial Interest Period as specified in such
+notice. Thereafter, the Borrower may elect to convert such Advance to a
+different Type or to continue such Advance as the same Type and, in the case of
+a LIBO Rate Advance, may elect Interest Periods therefor, all as provided in
+this Section 2.03. The Borrower may elect different options with respect to
+different portions of the affected Advance, in which case each such portion
+shall be considered a separate Advance (PROVIDED, that each such portion, in the
+case of a LIBO Rate Advance, shall be in a minimum amount of $1,000,000 or any
+whole multiple of $1,000,000 in excess thereof). To make an election pursuant to
+this Section 2.03, the Borrower shall notify the Lender of such election by
+telephone by the time that a notice of Advance would be required under Section
+2.02 if the Borrower were requesting an Advance of the Type resulting from such
+election to be made on the effective date of such election. Each such telephonic
+election shall be irrevocable and shall be confirmed promptly by hand delivery
+or telecopy to the Lender of a written interest election request in a form
+approved by the Lender and signed by the Borrower. Each telephonic and written
+interest election request shall specify the following information:
+
+                  (i) the Advance to which such interest election request
+applies and, if different options are being elected with respect to different
+portions thereof, the portions thereof to be allocated to each resulting Advance
+(in which case the information to be specified pursuant to clauses (iii) and
+(iv) of this paragraph shall be specified for each resulting Advance);
+
+                  (ii) the effective date of the election made pursuant to such
+interest election request, which shall be a Business Day;
+
+                  (iii) whether the resulting Advance is to be a Base Rate
+Advance or a LIBO Rate Advance, or a specified combination thereof; and
+
+                  (iv) if the resulting Advance is a LIBO Rate Advance, the
+Interest Period to be applicable thereto after giving effect to such election,
+which shall be a period contemplated by the definition of the term "Interest
+Period".
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   14
+                                      -11-
+
+If any such interest election request requests a LIBO Rate Advance but does not
+specify an Interest Period, then the Borrower shall be deemed to have selected
+an Interest Period of one month's duration. If the Borrower fails to deliver a
+timely and complete interest election request with respect to a LIBO Rate
+Advance prior to the end of the Interest Period applicable thereto, then, unless
+such Advance is repaid as provided herein, at the end of such Interest Period
+such Advance shall be converted to a Base Rate Advance. Notwithstanding any
+contrary provision hereof, if an Event of Default has occurred and is continuing
+and the Lender so notifies the Borrower, then, so long as an Event of Default is
+continuing (i) no outstanding Advance may be converted to or continued as a LIBO
+Rate Advance and (ii) unless repaid, each LIBO Rate Advance shall be converted
+to a Base Rate Advance at the end of the Interest Period applicable thereto.
+
+                  SECTION 2.04. TERMINATION, REDUCTION AND EXTENSION OF THE
+COMMITMENT.
+
+
+                  (a) Unless previously terminated, the Commitment shall
+automatically terminate on the Commitment Termination Date.
+
+                  (b) The Borrower shall have the right to terminate or reduce
+the Commitment at any time or from time to time; PROVIDED, that (i) the Borrower
+shall give irrevocable, written notice of each such termination or reduction to
+the Lender at least three Business Days before such termination or reduction,
+(ii) each partial reduction shall be in a minimum amount of $5,000,000 or any
+whole multiple of $1,000,000 in excess thereof and (iii) the Borrower shall not
+terminate or reduce the Commitment if, after giving effect to any concurrent
+prepayment of the Advances pursuant to Section 2.06, at any time, the aggregate
+outstanding principal amount of the Advances at such time would exceed the
+Commitment.
+
+                  (c) The Commitment once terminated or reduced pursuant to this
+Section 2.04 may not be reinstated.
+
+                  (d) The Borrower may, by written notice to the Lender not less
+than 30 days and not more than 45 days prior to the Commitment Termination Date
+then in effect (the "EXISTING COMMITMENT TERMINATION DATE"), request that the
+Lender extend the Commitment Termination Date to the date falling 364 days after
+the Existing Commitment Termination Date. The Existing Commitment Termination
+Date shall be extended (effective as of the Existing Commitment Termination
+Date) to the date falling 364 days after the Existing Commitment Termination
+Date if the Lender so agrees, in its sole discretion; PROVIDED, that no such
+extension shall be effective unless (i) no Event of Default or Default shall
+have occurred and be continuing on the date of such request or on the Existing
+Commitment Termination Date and (ii) the representations and warranties made by
+the Borrower in Article IV hereof shall be true on and as of the date of such
+request and the Existing Commitment Termination Date with the same force and
+effect as if made on and as of such dates (or, if any such representation or
+warranty is expressly stated to have been made as of a specific date, as of such
+specific date). Each request for extension hereunder by the Borrower shall
+constitute a certification by the Borrower to the effect set forth in clauses
+(i) and (ii) above (both as of the date of such request and, unless the Borrower
+otherwise notifies the Lender prior to the Existing Commitment Termination Date,
+as of the Existing Commitment Termination Date). The Lender will notify the
+Borrower in writing of its decision not less than 20 days and not more than 30
+days prior to the Existing Commitment Termination Date; PROVIDED that in no
+event may the Borrower request more than two such extensions. If any such
+extension of the Existing Commitment Termination Date shall not become
+effective, then the Commitment shall reduce to zero on the Existing Commitment
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   15
+                                      -12-
+
+Termination Date and the Commitment Termination Date shall remain the Existing
+Commitment Termination Date.
+
+                  SECTION 2.05.  REPAYMENT OF ADVANCES; NOTE.
+
+                  (a) The Borrower hereby unconditionally promises to pay to the
+Lender the outstanding principal amount of the Advances on the Commitment
+Termination Date.
+
+                  (b) The Advances shall be evidenced by a single promissory
+note of the Borrower (the "NOTE") in substantially the form of Exhibit A hereto,
+dated the date hereof, payable to the Lender in a principal amount equal to the
+amount of the Commitment and otherwise duly completed. The Lender is hereby
+authorized by the Borrower to endorse on the schedule (or a continuation
+thereof) attached to the Note the date, amount and Type of and the Interest
+Period (if any) for each Advance made by the Lender to the Borrower hereunder
+and the date and the amount of each payment or prepayment of principal of such
+Advance received by the Lender; PROVIDED, that any failure by the Lender to make
+any such endorsement shall not affect the obligations of the Borrower under the
+Note or hereunder.
+
+                  SECTION 2.06.  PREPAYMENT OF ADVANCES.
+
+                   (a) The Borrower shall have the right at any time and from
+time to time to prepay any Advance in whole or in part, subject to the
+requirements of this Section 2.06.
+
+                  (b) The Borrower shall notify the Lender by telephone
+(confirmed by telecopy) of any optional prepayment hereunder (i) in the case of
+prepayment of a LIBO Rate Advance, not later than 11:00 a.m. (New York City
+time) two Business Days before the date of prepayment or (ii) in the case of
+prepayment of an Base Rate Advance, not later than 11:00 a.m. (New York City
+time) on the date of prepayment. Each such notice shall be irrevocable and shall
+specify the prepayment date and the principal amount of each Advance or portion
+thereof to be prepaid. Each partial prepayment of any Advance shall be in a
+minimum amount of $1,000,000 or any whole multiple of $1,000,000 in excess
+thereof and shall be applied to prepay any outstanding Base Rate Advances before
+any LIBO Rate Advances. Prepayments shall be accompanied by accrued interest to
+the extent required by Section 2.08 and all amounts payable in connection
+therewith pursuant to Section 2.11.
+
+                  (c) If either (i) there shall occur a Change in Control, or
+(ii) the Borrower shall, with respect to any Significant Subsidiary, cease to
+own, beneficially and of record, a majority of the issued and outstanding Voting
+Stock of such Significant Subsidiary, the Borrower shall, within 5 Business Days
+of the making of written demand by the Lender, prepay in full the outstanding
+Loans together with accrued and unpaid interest thereon and all other amounts
+payable hereunder, and upon the giving of such demand the Commitment shall
+forthwith terminate. Nothing herein shall require a prepayment by reason of the
+transfer of assets of a Significant Subsidiary to the Borrower or another
+Significant Subsidiary.
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   16
+                                      -13-
+
+                  SECTION 2.07  FACILITY FEES; UTILIZATION FEES.
+
+                  (a) The Borrower shall pay to the Lender a facility fee on the
+amount of the Commitment (whether or not utilized) for the period from and
+including the date of this Agreement to but not including the earlier of the
+date such Commitment is terminated or the Commitment Termination Date, at a rate
+per annum equal to the Applicable Facility Fee Rate. Accrued facility fee shall
+be payable in arrears on each Quarterly Date and on the earlier of the date the
+Commitment terminates and the Commitment Termination Date. All facility fees
+shall be computed on the basis of a year of 360 days and shall be payable for
+the actual number of days elapsed (including the first day but excluding the
+last day).
+
+                  (b) The Borrower shall pay to the Lender a utilization fee on
+the aggregate outstanding principal amount of the Advances during any period
+that the aggregate outstanding principal amount of the Advances exceeds an
+amount equal to 50% of the aggregate amount of the Commitment, at a rate per
+annum equal to the Applicable Utilization Fee Rate. Accrued utilization fee
+shall be payable on each day on which a payment of interest is due under Section
+2.08. All utilization fees shall be computed on the basis of a year of 360 days
+and shall be payable for the actual number of days elapsed (including the first
+day but excluding the last day).
+
+                  SECTION 2.08.  INTEREST.
+
+                  (a) Each Base Rate Advance shall bear interest at a rate per
+annum equal to the Base Rate plus the Applicable Margin.
+
+                  (b) Each LIBO Rate Advance shall bear interest during each
+Interest Period therefor at a rate per annum equal to the LIBO Rate for such
+Interest Period plus the Applicable Margin.
+
+                  (c) Notwithstanding clauses (a) and (b) above, during any
+period that an Event of Default has occurred and is continuing, the Borrower
+agrees to pay to the Lender interest at a rate per annum equal to (i) in the
+case of any principal of any Advance, 2% per annum PLUS the rate otherwise
+applicable to such Advance as provided above or (ii) in the case of any other
+amount, 2% per annum above the Base Rate.
+
+                  (d) Accrued interest on each Advance shall be payable in
+arrears on each Interest Payment Date for such Advance and upon termination of
+the Commitment; PROVIDED, that (i) interest accrued pursuant to paragraph (c) of
+this Section 2.08 shall be payable on demand, (ii) in the event of any repayment
+or prepayment of any Advance, accrued interest on the principal amount repaid or
+prepaid shall be payable on the date of such repayment or prepayment and (iii)
+in the event of any conversion of any LIBO Rate Advance prior to the end of the
+then current Interest Period therefor, accrued interest on such Advance shall be
+payable on the effective date of such conversion.
+
+                  (e) The Borrower agrees to pay to the Lender, so long as the
+Lender shall be required under regulations of the Board of Governors of the
+Federal Reserve System to maintain reserves with respect to liabilities or
+assets consisting of or including Eurocurrency Liabilities (or the equivalent),
+additional interest on the unpaid principal amount of each LIBO Rate Advance,
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   17
+                                      -14-
+
+
+from the date of such LIBO Rate Advance until such principal amount is paid in
+full, at an interest rate per annum equal at all times to the remainder obtained
+by subtracting (i) the LIBO Rate for the then current Interest Period for such
+LIBO Rate Advance from (ii) the rate obtained by dividing such LIBO Rate by a
+percentage equal to 100% MINUS the LIBO Rate Reserve Percentage for such
+Interest Period, payable on each date on which interest is payable on such LIBO
+Rate Advance. A certificate of the Lender setting forth the amount to which the
+Lender is then entitled under this Section 2.08(e) shall be conclusive and
+binding on the Borrower in the absence of manifest error.
+
+                  (f) All computations of interest based on the Base Rate shall
+be made on the basis of a year of 365 or 366 days, as the case may be, and all
+computations of interest based on the LIBO Rate and computations of interest
+pursuant to Section 2.08(e) shall be made on the basis of a year of 360 days, in
+each case for the actual number of days (including the first day but excluding
+the last day) occurring in the period for which such interest is payable.
+
+                  SECTION 2.09. ALTERNATE RATE OF INTEREST. If prior to the
+commencement of any Interest Period for a LIBO Rate Advance the Lender
+determines (which determination shall be conclusive absent manifest error) that:
+
+                  (a) adequate and reasonable means do not exist for
+ascertaining the LIBO Rate for such Interest Period; or
+
+                  (b) the LIBO Rate for such Interest Period will not adequately
+and fairly reflect the cost to the Lender of making or maintaining such Advance
+for such Interest Period;
+
+then the Lender shall give notice thereof to the Borrower by telephone or
+telecopy as promptly as practicable thereafter certifying the reasons for its
+determination and, until the Lender notifies the Borrower that the circumstances
+giving rise to such notice no longer exist, (i) any interest election request
+that requests the conversion of any Advance to, or continuation of any Advance
+as, a LIBO Rate Advance shall be ineffective and (ii) if any notice of Advance
+requests a LIBO Rate Advance, such Advance shall be made as a Base Rate Advance.
+
+                  SECTION 2.10.  INCREASED COSTS.
+
+                  (a) If, due to either (i) the introduction of or any change
+(other than any change by way of imposition or increase of reserve requirements
+included in the LIBO Rate Reserve Percentage) in or in the interpretation of (to
+the extent any such introduction or change occurs after the date hereof) any law
+or regulation or (ii) the compliance with any guideline or request of any
+central bank or other governmental authority adopted or made after the date
+hereof (whether or not having the force of law), there shall be any increase in
+the cost to the Lender of agreeing to make or making, funding or maintaining
+LIBO Rate Advances, the Borrower shall from time to time, within 30 days after
+delivery by the Lender to the Borrower of a certificate as to such change or
+required compliance and the amount of such increased cost, pay to the Lender the
+amount of the increased costs set forth in such certificate (which certificate
+shall be conclusive and binding on the Borrower in the absence of manifest
+error).
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   18
+                                      -15-
+
+                  (b) If the Lender determines that compliance with any law or
+regulation enacted or introduced after the date hereof or any guideline or
+request of any central bank or other governmental authority adopted or made
+after the date hereof (whether or not having the force of law) affects or would
+affect the amount of capital required or expected to be maintained by the Lender
+or any corporation controlling the Lender and that the amount of such capital is
+increased by or based upon the existence of the Lender's Commitment and other
+commitments of this type, or the Advances, then, the Borrower shall, within 30
+days after delivery by the Lender to the Borrower of a certificate as to such
+required compliance, pay to the Lender the amount required to compensate the
+Lender therefor (a certificate of the Lender as to such amount to be conclusive
+and binding on the Borrower in the absence of manifest error).
+
+                  SECTION 2.11. BREAK FUNDING PAYMENTS. In the event of (a) the
+payment of any principal of any LIBO Rate Advance other than on the last day of
+an Interest Period therefor (including without limitation as a result of an
+Event of Default), (b) the conversion of any LIBO Rate Advance other than on the
+last day of an Interest Period therefor or (c) the failure to borrow, convert,
+continue or prepay any Advance on the date specified in any notice delivered
+pursuant hereto, then, in any such event, the Borrower shall compensate the
+Lender for the loss, cost and expense attributable to such event, which shall be
+the amount, as reasonably determined by the Lender, equal to the excess, if any,
+of (i) the LIBO Rate for the balance of such Interest Period (or for the
+Interest Period that would have commenced on such borrowing, conversion,
+continuation or prepayment), over (ii) the amount of interest that the Lender
+would earn on such principal amount for the balance of such Interest Period (or
+for such Interest Period) if the Lender were to invest such principal amount for
+such period at the interest rate that would be bid by the Lender (or an
+Affiliate of the Lender) for Dollar deposits from other banks in the Eurodollar
+market at the commencement of such period. A certificate of the Lender setting
+forth any amount or amounts that the Lender is entitled to receive pursuant to
+this Section 2.11 shall be delivered to the Borrower and shall be conclusive
+absent manifest error. The Borrower shall pay the Lender the amount shown as due
+on any such certificate within 15 days after receipt thereof.
+
+                  SECTION 2.12.  TAXES.
+
+                  (a) Any and all payments by or on account of any obligation of
+the Borrower hereunder shall be made free and clear of and without deduction for
+any Indemnified Taxes or Other Taxes; PROVIDED, that if the Borrower shall be
+required to deduct any Indemnified Taxes or Other Taxes from such payments, then
+(i) the sum payable shall be increased as necessary so that after making all
+required deductions (including deductions applicable to additional sums payable
+under this Section 2.12) the Lender receives an amount equal to the sum it would
+have received had no such deductions been made, (ii) the Borrower shall make
+such deductions and (iii) the Borrower shall pay the full amount deducted to the
+relevant governmental authority in accordance with applicable law.
+
+                  (b) In addition, the Borrower shall pay any Other Taxes to the
+relevant governmental authority in accordance with applicable law.
+
+                  (c) The Borrower shall indemnify the Lender, within 15 days
+after written demand therefor, for the full amount of any Indemnified Taxes or
+Other Taxes (including
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   19
+                                      -16-
+
+Indemnified Taxes or Other Taxes imposed or asserted on or attributable to
+amounts payable under this Section 2.12) paid by the Lender and any penalties,
+interest and reasonable expenses arising therefrom or with respect thereto,
+whether or not such Indemnified Taxes or Other Taxes were correctly or legally
+imposed or asserted by the relevant governmental authority. A certificate as to
+the amount of such payment or liability delivered to the Borrower by the Lender
+shall be conclusive absent manifest error.
+
+                  (d) As soon as practicable after any payment of Indemnified
+Taxes or Other Taxes by the Borrower to a governmental authority, the Borrower
+shall deliver to the Lender the original or a certified copy of a receipt issued
+by such governmental authority evidencing such payment, a copy of the return
+reporting such payment or other evidence of such payment reasonably satisfactory
+to the Lender.
+
+                  (e) The Lender agrees to use reasonable efforts, consistent in
+its opinion with applicable law and with its policies, to minimize to the extent
+reasonably possible any applicable Taxes.
+
+                  SECTION 2.13.  PAYMENTS GENERALLY.
+
+                  (a) The Borrower shall make each payment required to be made
+by it hereunder (whether of principal, interest or fees, or under Section 2.10,
+2.11 or 2.12, or otherwise) prior to 12:00 noon (New York City time) on the date
+when due, in Dollars and immediately available funds, without set-off or
+counterclaim. Any amounts received after such time on any date may, in the
+discretion of the Lender, be deemed to have been received on the next succeeding
+Business Day for purposes of calculating interest thereon. All such payments
+shall be made to the Lender at its office at 399 Park Avenue, New York, New York
+10043. If any payment hereunder shall be due on a day that is not a Business
+Day, the date for payment shall be extended to the next succeeding Business Day
+and, in the case of any payment accruing interest, interest thereon shall be
+payable for the period of such extension.
+
+                  (b) If at any time insufficient funds are received by and
+available to the Lender to pay fully all amounts of principal, interest and fees
+then due hereunder, such funds shall be applied first, to pay interest then due
+hereunder, then to pay fees and other amounts (other than principal) hereunder,
+then to pay principal due hereunder.
+
+                  (c) Without limiting any of the obligations of the Borrower or
+the rights of the Lender hereunder, if the Borrower shall fail to pay when due
+(whether at stated maturity, by acceleration or otherwise) any amount payable by
+it hereunder or under the Note, the Lender is hereby authorized at any time and
+from time to time, to the fullest extent permitted by applicable law, without
+prior notice to the Borrower (which notice is expressly waived by the Borrower
+to the fullest extent permitted by applicable law), to set off and appropriate
+and apply against such amount any and all deposits (general or special, time or
+demand, provisional or final, in any currency, matured or unmatured) with, and
+any other obligations at any time held or owing by, the Lender or any branch or
+agency thereof to or for the credit or account of the Borrower. The Lender shall
+promptly provide notice to the Borrower of such set-off; PROVIDED, that failure
+by the Lender to provide such notice to the Borrower shall not give the Borrower
+any cause of action or right to damages or affect the validity of such set-off
+and application. The rights of the
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   20
+                                      -17-
+
+Lender under this Section are in addition to any other rights and remedies
+(including, without limitation, any other rights of set-off) that the Lender may
+have.
+
+                                   ARTICLE III
+
+                              CONDITIONS OF LENDING
+
+                  SECTION 3.01. CONDITION PRECEDENT TO INITIAL ADVANCE. The
+obligation of the Lender to make its initial Advance is subject to the condition
+precedent that the Lender shall have received, on or before December 15, 2000,
+the following documents, each (unless otherwise specified below) dated the
+Closing Date and in form and substance satisfactory to the Lender:
+
+                  (a) The Note, duly executed by the Borrower, payable to the
+order of the Lender in the principal amount of the Commitment.
+
+                  (b) Certified copies of (x) the charter and by-laws of the
+Borrower (or equivalent documents) of the Borrower, (y) the resolutions of the
+Board of Directors of the Borrower authorizing and approving this Agreement and
+the Note and (z) all documents evidencing other necessary corporate action, if
+any, with respect to this Agreement and the Note.
+
+                  (c) A certificate of the Borrower certifying the names and
+true signatures of the officers of the Borrower authorized to sign this
+Agreement, the Note and any other documents to be delivered hereunder.
+
+                  (d) A certificate of the Secretary of the State of New York
+dated a date reasonably close to the date hereof as to the good standing of and
+charter documents filed by the Borrower.
+
+                  (e) A favorable written opinion of Richard A. Lammert, Esq.,
+Senior Vice President and General Counsel of the Borrower, covering such matters
+relating to this Agreement and the Note as the Lender may require.
+
+                  (f) A favorable written opinion of Milbank, Tweed, Hadley &
+McCloy LLP, special New York counsel for the Lender, covering such matters
+relating to the transactions contemplated hereby as the Lender may require.
+
+                  (g) Evidence that the commitments of the Lender under the
+Credit Agreement dated as of November 19, 1999, between the Borrower and the
+Lender, as heretofore amended or modified (the "Existing Credit Agreement"),
+have been terminated and that all amounts owing under the Existing Credit
+Agreement have been paid in full.
+
+                  SECTION 3.02. CONDITIONS PRECEDENT TO EACH ADVANCE. The
+obligation of the Lender to make each Advance (including, without limitation,
+the initial Advance) shall be subject to the further conditions precedent that
+on the date of
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   21
+                                      -18-
+
+such Advance (a) the representations and warranties set forth in Article IV are
+true and correct on and as of the date of such Advance, before and after giving
+effect to such Advance and to the application of the proceeds thereof, as though
+made on and as of such date and (b) no Default has occurred and is continuing,
+or would result from such Advance or from the application of the proceeds
+thereof.
+
+                                   ARTICLE IV
+
+                         REPRESENTATIONS AND WARRANTIES
+
+                  The Borrower represents and warrants to the Lender that:
+
+                  SECTION 4.01. ORGANIZATION; POWERS. Each of the Borrower and
+each Significant Subsidiary is duly organized, validly existing and in good
+standing under the laws of the jurisdiction of its organization, has all
+requisite power and authority to carry on its business as now conducted and,
+except where the failure to do so, individually or in the aggregate, could not
+reasonably be expected to result in a Material Adverse Effect, is qualified to
+do business in, and is in good standing in, every jurisdiction where such
+qualification is required.
+
+                  SECTION 4.02. AUTHORIZATION; ENFORCEABILITY. The execution,
+delivery and performance of this Agreement and the Note by the Borrower are
+within the Borrower's corporate powers and have been duly authorized by all
+necessary corporate action. This Agreement has been duly executed and delivered
+by the Borrower and constitutes, and the Note when duly executed and delivered
+for value will constitute, a legal, valid and binding obligation of the
+Borrower, enforceable in accordance with its terms, except as such
+enforceability may be limited by (a) bankruptcy, insolvency, reorganization,
+moratorium or similar laws of general applicability affecting the enforcement of
+creditors' rights and (b) the application of general principles of equity
+(regardless of whether such enforceability is considered in a proceeding in
+equity or at law).
+
+                  SECTION 4.03. GOVERNMENT APPROVALS; NO CONFLICTS. The
+execution, delivery and performance of this Agreement and the Note by the
+Borrower (a) do not require any consent or approval of, registration or filing
+with, or any other action by, any governmental authority, (b) will not violate
+any applicable law or regulation or the charter, by-laws or other organizational
+documents of the Borrower or any Subsidiary, (c) will not violate or result in a
+default under any indenture, agreement or other instrument binding upon the
+Borrower or any Subsidiary and (d) will not result in the creation or imposition
+of any Lien on any asset of the Borrower or any Subsidiary.
+
+                  SECTION 4.04. FINANCIAL CONDITION; NO MATERIAL ADVERSE CHANGE.
+The Borrower has heretofore furnished to the Lender its audited consolidated
+balance sheet and statements of income, stockholders' equity and cash flows as
+of and for the fiscal year ended December 31, 1999, with the opinion thereon of
+Pricewaterhouse Coopers LLP. Such financial statements present fairly the
+consolidated financial position and consolidated results of operations and cash
+flows of the Borrower and its Consolidated Subsidiaries as of such date and for
+such period in accordance with GAAP. Since December 31, 1999, no event or
+circumstance has occurred that has had or could reasonably be expected to have a
+Material Adverse Effect.
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   22
+                                      -19-
+
+                  SECTION 4.05. LITIGATION. There are no actions, suits or
+proceedings by or before any arbitrator or governmental authority now pending
+against or, to the knowledge of the Borrower, threatened against or affecting
+the Borrower or any Subsidiary (i) as to which there is a reasonable possibility
+of an adverse determination and that, if adversely determined, could reasonably
+be expected, individually or in the aggregate, to result in a Material Adverse
+Effect or (ii) that involve this Agreement or the Note or the transactions
+contemplated hereby or thereby.
+
+                  SECTION 4.06. COMPLIANCE WITH LAWS AND AGREEMENTS. The
+Borrower and each Significant Subsidiary are in compliance with all applicable
+laws (including without limitation Environmental Laws, Tax laws and ERISA),
+regulations and orders of any governmental authority and all indentures,
+agreements and other instruments to which any of them is a party, except where
+the failure to do so, individually or in the aggregate, could not reasonably be
+expected to result in a Material Adverse Effect.
+
+                  SECTION 4.07. INVESTMENT AND HOLDING COMPANY STATUS. Neither
+the Borrower nor any Significant Subsidiary is (a) an "investment company" as
+defined in, or subject to regulation under, the Investment Company Act of 1940
+or (b) a "holding company" as defined in, or subject to regulation under, the
+Public Utility Holding Company Act of 1935.
+
+                  SECTION 4.08. MARGIN REGULATIONS. On the date hereof and
+immediately after applying the proceeds of each Advance, not more than 25% of
+the value of the assets subject to Section 5.01(j) or Section 5.01(l) hereof is
+represented by margin stock as defined in Regulation U or X of the Board of
+Governors of the Federal Reserve System.
+
+                  SECTION 4.09. TAXES. The Borrower and each Significant
+Subsidiary have filed (or have obtained extensions of the time by which they are
+required to file) all United States Federal income Tax returns and all other
+material Tax returns required to be filed by them and have paid all Taxes shown
+due on the returns so filed as well as all other material Taxes, assessments and
+governmental charges which have become due, except such Taxes, if any, as are
+being contested in good faith and as to which adequate reserves have been
+provided.
+
+                  SECTION 4.10. ENVIRONMENTAL MATTERS. Each of the Borrower and
+each Significant Subsidiary has obtained all environmental, health and safety
+permits, licenses and other authorizations required under all Environmental Laws
+to carry on its business as now being or as proposed to be conducted, except to
+the extent failure to have any such permit, license or authorization could not
+reasonably be expected to have a Material Adverse Effect. Each of such permits,
+licenses and authorizations is in full force and effect and each of the Borrower
+and each Significant Subsidiary is in compliance with the terms and conditions
+thereof, and is also in compliance with all other limitations, restrictions,
+conditions, standards, prohibitions, requirements, obligations, schedules and
+timetables contained in any applicable Environmental Law or in any regulation,
+code, plan, order, decree, judgment, injunction, notice or demand letter issued,
+entered, promulgated or approved thereunder, except to the extent failure to
+comply therewith could not (either individually or in the aggregate) reasonably
+be expected to have a Material Adverse Effect.
+
+                  SECTION 4.11. EXISTING AGREEMENT. Schedule I hereto is a
+complete and correct list of each credit agreement, loan agreement, indenture or
+other similar arrangement providing
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   23
+                                      -20-
+
+for or otherwise relating to any Debt or any extension of credit (or commitment
+for any extension of credit) to the Borrower or any Significant Subsidiary
+outstanding on the date hereof.
+
+                  SECTION 4.12. SOLVENCY. The Borrower is and, after giving
+effect to each Advance and the use of proceeds thereof, will be Solvent.
+
+
+                                    ARTICLE V
+
+                            COVENANTS OF THE BORROWER
+
+                  SECTION 5.01. GENERAL COVENANTS. So long as any principal of
+or interest on any Advance or any other amount payable hereunder or under the
+Note remains outstanding or the Commitment remains in effect, the Borrower
+covenants and agrees that:
+
+                  (a) The Borrower will, and will cause each Significant
+Subsidiary to, do or cause to be done all things necessary (i) to preserve its
+legal existence and (ii) to preserve, renew and keep in full force and effect in
+all material respects the rights, licenses, permits, privileges and franchises
+material to the conduct of its business; PROVIDED, that the foregoing shall not
+prohibit any merger, consolidation, liquidation or dissolution permitted under
+Section 5.01(j).
+
+                  (b) The Borrower will, and will cause each Significant
+Subsidiary to, pay its obligations, including Tax liabilities, that, if not
+paid, could result in a Material Adverse Effect before the same shall become
+delinquent or in default, except where (a) the validity or amount thereof is
+being contested in good faith by appropriate proceedings, (b) the Borrower or
+such Significant Subsidiary has set aside on its books adequate reserves with
+respect thereto in accordance with GAAP and (c) the failure to make payment
+pending such contest could not reasonably be expected to result in a Material
+Adverse Effect.
+
+                  (c) The Borrower will, and will cause each Significant
+Subsidiary to, comply with all applicable laws, statutes, rules, regulations and
+orders of, including without limitation all applicable Environmental Laws, Tax
+laws and ERISA, except for any non-compliance which could not (either
+individually or in the aggregate) reasonably be expected to have a Material
+Adverse Effect.
+
+                  (d) The Borrower will, and will cause each Significant
+Subsidiary to, keep adequate records and books of account, in which complete
+entries will be made in accordance with GAAP, and permit representatives of the
+Lender, upon reasonable prior notice, to examine, copy and make extracts from
+its books and records, to inspect any of its property, and to discuss its
+business and affairs with its officers, all at such reasonable times and as
+often as reasonably requested by the Lender.
+
+                  (e) The Borrower will, and will cause each Significant
+Subsidiary to, preserve and maintain its property in good repair, working order
+and condition and from time to time make all needful and proper repairs,
+renewals, replacements, additions, betterments and improvements thereto, except
+in each case where the failure to do so could not (either individually or in the
+aggregate) reasonably be expected to have a Material Adverse Effect.
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   24
+                                      -21-
+
+                  (f) The Borrower will, and will cause each Significant
+Subsidiary to, maintain insurance with financially sound and reputable insurance
+companies, and with respect to property and risks of a character usually
+maintained by corporations engaged in the same or similar business similarly
+situated, against loss, damage and liability of the kinds and in the amounts
+customarily maintained by such corporations.
+
+                  (g) The Borrower will furnish to the Lender:
+
+                  (i) as soon as available and in any event within 100 days
+         after the end of each fiscal year of the Borrower, the consolidated
+         balance sheet of the Borrower and its Consolidated Subsidiaries as at
+         the end of such year and the consolidated statements of income and cash
+         flows of the Borrower and its Consolidated Subsidiaries for such year,
+         with the unqualified opinion thereon of an independent public
+         accountant of recognized national standing;
+
+                  (ii) as soon as available and in any event within 55 days
+         after the end of each of the first three fiscal quarters of the
+         Borrower, consolidated statements of income, retained earnings and cash
+         flow of the Borrower and its Consolidated Subsidiaries for such fiscal
+         quarter and for the portion of the fiscal year ended at the end of such
+         fiscal quarter, and the related consolidated balance sheet as at the
+         end of such fiscal quarter, setting forth in each case in comparative
+         form the corresponding figures for the previous fiscal year and
+         accompanied, in each case, by a certificate of the chief financial
+         officer of the Borrower which certificate shall state that said
+         consolidated financial statements fairly present the consolidated
+         financial condition and results of operations of the Borrower and its
+         Consolidated Subsidiaries in accordance with GAAP (except for the
+         absence of footnotes) consistently applied as at the end of, and for,
+         such fiscal quarter (subject to normal year-end audit adjustments);
+
+                  (iii) as soon as possible and in any event within five days
+         after the occurrence of any Default, a statement of the chief financial
+         officer of the Borrower setting forth details of such Default and the
+         action which the Borrower has taken and proposes to take with respect
+         thereto;
+
+                  (iv) promptly upon their becoming available, the "Consolidated
+         Reports of Condition and Income" of the Bank Subsidiaries, the "Parent
+         Company Only Financial Statements for Bank Holding Companies" (report
+         no. FR Y-9LP or any successor form of the Federal Reserve System) of
+         the Borrower and the "Consolidated Financial Statements for Bank
+         Holding Companies" (report no. FR Y-9C) of the Borrower;
+
+                  (v) promptly upon the mailing thereof to the shareholders of
+         the Borrower generally, copies of all financial statements, reports and
+         proxy statements so mailed;
+
+                  (vi) as soon as possible, and in any event within ten days
+         after the Borrower knows or has reason to know that any of the events
+         or conditions specified below with respect to any Plan or Multiemployer
+         Plan have occurred or exist, a statement signed by a
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   25
+                                      -22-
+
+         senior financial officer of the Borrower setting forth details
+         respecting such event or condition and the action, if any, which the
+         Borrower or its ERISA Affiliate proposes to take with respect thereto
+         (and a copy of any report or notice required to be filed with or given
+         to PBGC by the Borrower or an ERISA Affiliate with respect to such
+         event or condition):
+
+                      (i) any reportable event, as defined in Section 4043(c) of
+                  ERISA and the regulations issued thereunder, with respect to a
+                  Plan, as to which PBGC has not by regulation waived the
+                  requirement of Section 4043(a) of ERISA that it be notified
+                  within 30 days of the occurrence of such event (PROVIDED, that
+                  a failure to meet the minimum funding standard of Section 412
+                  of the Code or Section 302 of ERISA shall be a reportable
+                  event regardless of the issuance of any waivers in accordance
+                  with Section 412(d) of the Code);
+
+                     (ii) the distribution under Section 4041 of ERISA of a
+                  notice of intent to terminate any Plan or the termination of
+                  any Plan, other than a Plan separately maintained by an entity
+                  that becomes an ERISA Affiliate after the date hereof and
+                  which has been an ERISA Affiliate for less than one year at
+                  the time such notice of intent is filed; PROVIDED, that such
+                  notice does not relate to a "distress termination" described
+                  in Section 4041(c) of ERISA;
+
+                    (iii) the institution by PBGC of proceedings under Section
+                  4042 of ERISA for the termination of, or the appointment of a
+                  trustee to administer, any Plan, or the receipt by the
+                  Borrower or any ERISA Affiliate of a notice from a
+                  Multiemployer Plan that such action has been taken by PBGC
+                  with respect to such Multiemployer Plan;
+
+                     (iv) the complete or partial withdrawal by the Borrower or
+                  any ERISA Affiliate under Section 4201 or 4204 of ERISA from a
+                  Multiemployer Plan, or the receipt by the Borrower or any
+                  ERISA Affiliate of notice from a Multiemployer Plan that is in
+                  reorganization or insolvency pursuant to Section 4241 or 4245
+                  of ERISA or that it intends to terminate or has terminated
+                  under Section 4041A of ERISA; and
+
+                      (v) the institution of a proceeding by a fiduciary of any
+                  Multiemployer Plan against the Borrower or any ERISA Affiliate
+                  to enforce Section 515 of ERISA, which proceeding is not
+                  dismissed within 30 days;
+
+                  (vii) promptly after the sending or filing thereof, copies of
+         all reports and registration statements which the Borrower files with
+         the Securities and Exchange Commission or any national securities
+         exchange;
+
+                  (viii) promptly upon the Borrower determining that there has
+         been the occurrence of any Change in Control or upon the Borrower's
+         ceasing to own, beneficially and of record, at least a majority of the
+         issued and outstanding shares of Voting Stock of any Significant
+         Subsidiary, notice of such event together a reasonably detailed
+         description of such transaction; and
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   26
+                                      -23-
+
+                  (ix) such other information respecting the condition or
+         operations, financial or otherwise, of the Borrower as the Lender may
+         from time to time reasonably request.
+
+                  (h) The Borrower shall promptly give to the Lender notice of
+all legal or arbitral proceedings, and of all proceedings by or before any
+governmental or regulatory authority or agency, affecting the Borrower or any
+Significant Subsidiary, except proceedings which would not be likely to have a
+Material Adverse Effect.
+
+                  (i) The Borrower will use the proceeds of the Advances for its
+general corporate purposes, including as commercial paper backstop, and/or to
+finance the repurchase or redemption of outstanding shares of capital stock of
+the Borrower, in compliance with all applicable laws; PROVIDED, that the Lender
+shall have no responsibility as to the use of any of such proceeds.
+
+                  (j) The Borrower shall not sell or otherwise dispose of all or
+any substantial portion of the shares of the capital stock of any of its
+Significant Subsidiaries, and neither the Borrower nor any of its Significant
+Subsidiaries shall sell, lease or otherwise dispose of all or any substantial
+portion of their assets other than in the ordinary course of business, or
+liquidate, merge or consolidate with or into any other Person; PROVIDED, that
+the Borrower may merge or consolidate with or into another Person if no Default
+or Change in Control has occurred and is continuing or would result from such
+merger or consolidation and if the Borrower is the surviving company; and
+PROVIDED, further, that any Subsidiary may merge or consolidate with or into
+another Person if no Default or Change in Control has occurred and is continuing
+or would result from such merger or consolidation and if the Subsidiary is the
+surviving company; and PROVIDED, further, that any Subsidiary may be liquidated
+if the net assets of such Subsidiary are distributed to the Borrower or another
+Subsidiary. The Borrower will not, and will not permit any Significant
+Subsidiary to, engage to any material extent in any business other than
+businesses of the types conducted by the Borrower and its Significant
+Subsidiaries on the date hereof and businesses which are otherwise permitted to
+them under the applicable provisions of the Bank Holding Company Act of 1956, as
+amended, the New York Banking Law, the National Bank Act, the Federal Reserve
+Act or other applicable laws.
+
+                  (k) The Borrower will not, and will not permit any Significant
+Subsidiary to, at any time create, assume or suffer to exist any Lien upon or
+with respect to any of the capital stock of any Significant Subsidiary.
+
+                  (l) The Borrower will not, nor will it permit any Significant
+Subsidiary to, create, incur, assume or suffer to exist any Lien upon any of its
+property, whether now owned or hereafter acquired, except the following (each, a
+"PERMITTED LIEN"):
+
+                  (i) Liens in existence on the date hereof and listed in
+         Schedule I hereto;
+
+                  (ii) Liens imposed by any governmental authority for Taxes,
+         assessments or charges not yet due or that are being contested in good
+         faith and by appropriate proceedings if, unless the amount thereof is
+         not material with respect to it or its financial
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   27
+                                      -24-
+
+         condition, adequate reserves with respect thereto are maintained on the
+         books of the Borrower or its Significant Subsidiary, as the case may
+         be, in accordance with GAAP;
+
+                  (iii) carriers', warehousemen's, mechanics', materialmen's,
+         repairmen's or other like Liens arising in the ordinary course of
+         business that are not overdue for a period of more than 30 days or that
+         are being contested in good faith and by appropriate proceedings and
+         Liens securing judgments but only to the extent for an amount and for a
+         period not resulting in an Event of Default under Section 6.01(f)
+         hereof;
+
+                  (iv) pledges or deposits under worker's compensation,
+         unemployment insurance and other social security legislation;
+
+                  (v) deposits to secure the performance of bids, trade
+         contracts (other than for Debt) leases, statutory obligations, surety
+         and appeal bonds, performance bonds and other obligations of a like
+         nature incurred in the ordinary course of business;
+
+                  (vi) easements, rights-of-way, restrictions and other similar
+         encumbrances incurred in the ordinary course of business and
+         encumbrances consisting of zoning restrictions, easements, licenses,
+         restrictions on the use of property or minor imperfections in title
+         thereto that, in the aggregate, are not material in amount, and that do
+         not in any case materially detract from the value of the property
+         subject thereto or interfere with the ordinary conduct of the business
+         of the Borrower or any Significant Subsidiary;
+
+                  (vii) Liens arising under escrows, trusts, custodianships,
+         separate accounts, funds withheld procedures, and similar deposits,
+         arrangements, or agreements established with respect to insurance
+         policies, annuities, guaranteed investment contracts and similar
+         products underwritten by, or reinsurance agreements entered into by,
+         any Insurance Subsidiary in the ordinary course of business;
+
+                  (viii) Liens on property of any corporation that becomes a
+         Significant Subsidiary of the Borrower after the date hereof; PROVIDED,
+         that such Liens are in existence at the time such corporation becomes a
+         Significant Subsidiary of the Borrower and were not created in
+         anticipation thereof;
+
+                  (ix) Liens upon real and/or tangible personal property
+         acquired after the date hereof (by purchase, construction or otherwise)
+         by the Borrower or any Significant Subsidiary, each of which Liens
+         either (A) existed on such property before the time of its acquisition
+         and was not created in anticipation thereof or (B) was created solely
+         for the purpose of securing Debt representing, or incurred to finance,
+         refinance or refund, the cost (including the cost of construction) of
+         such property; PROVIDED, that (i) no such Lien shall extend to or cover
+         any property of the Borrower or such Significant Subsidiary other than
+         the property so acquired and improvements thereon and (ii) the
+         principal amount of Debt secured by any such Lien shall at no time
+         exceed 80% of the fair market value (as determined in good faith by a
+         senior financial officer of the Borrower) of such property at the time
+         it was acquired (by purchase, construction or otherwise);
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   28
+                                      -25-
+
+                  (x) judgment and other similar Liens arising in connection
+         with court proceedings, PROVIDED, that the execution or other
+         enforcement of such judgment or other similar Lien is effectively
+         stayed and the claims secured thereby are being actively contested in
+         good faith and by appropriate proceedings (without prejudice to Section
+         6.01(f));
+
+                  (xi) rights of lessors under capitalized leases;
+
+                  (xii) Liens on its assets created in connection with the
+         refinancing of indebtedness secured by Permitted Liens on such assets,
+         PROVIDED, that the amount of indebtedness secured by any such Lien
+         shall not be increased as a result of such refinancing and no such
+         Liens shall extend to property and assets of the Borrower or any
+         Significant Subsidiary not encumbered prior to any such refinancing;
+
+                  (xiii) Liens incurred in connection with repurchase
+         agreements; Liens incurred in connection with asset securitizations;
+         Liens granted to a Federal Reserve Bank or a Federal Home Loan Bank to
+         secure advances or other transactions incidental to the banking
+         business of the Borrower or any Significant Subsidiary, including loans
+         to meet liquidity requirements; and
+
+                  (xiv) Liens securing obligations of a Significant Subsidiary
+         to the Borrower or another Significant Subsidiary.
+
+                  (m) The Borrower will not, and will not permit any Significant
+Subsidiary to, enter into, incur or permit to exist any indenture, agreement,
+instrument or other contractual arrangement that, directly or indirectly,
+prohibits or restricts, or has the effect of prohibiting or restricting, or
+imposes any condition upon the ability of such Significant Subsidiary to declare
+or pay any dividend or other distribution on any class of its stock to the
+Borrower.
+
+                  (n) The Borrower will not, and will not permit any Significant
+Subsidiary to, directly or indirectly, (a) make any capital contribution or
+extension of credit to an Affiliate, (b) transfer, sell, lease, assign or
+otherwise dispose of any assets to an Affiliate, (c) merge into or consolidate
+with an Affiliate except as explicitly permitted by Section 5.01(j), or purchase
+or acquire assets from an Affiliate or (d) enter into any other transaction,
+directly or indirectly, with or for the benefit of an Affiliate (including,
+without limitations, guarantees and assumptions of obligations of an Affiliate),
+other than transactions (excluding credit extended by the Borrower or any
+Significant Subsidiary to an Affiliate) entered into on an arm's-length basis,
+on terms no more favorable to such Affiliate than would be available to
+unrelated Persons; PROVIDED, that this Section 5.01(n) shall not prevent the
+Borrower or any Significant Subsidiary from entering into transactions with (i)
+any Affiliate the shares of which have been acquired by the Borrower or such
+Subsidiary in satisfaction of a debt previously contracted in good faith if such
+transactions are reasonably determined by the Borrower or such Subsidiary to be
+necessary or appropriate in connection with the ownership or disposition of such
+shares or (ii) any Affiliate that is a venture capital investment in which the
+Borrower may invest under applicable banking regulations if such transactions
+are reasonably determined by the Borrower or such Subsidiary to be necessary
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   29
+                                      -26-
+
+or appropriate in furtherance of such investment, PROVIDED that in any such case
+the relevant transactions under this proviso, individually or in the aggregate,
+would not have a Material Adverse Effect.
+
+                  SECTION 5.02.  FINANCIAL COVENANTS.
+
+                  (a) The Borrower shall not permit its Double Leverage Ratio at
+any time to be greater than 1.25 to 1.0.
+
+                  (b) The Borrower shall not permit its Consolidated Tangible
+Net Worth to be at any time less than the higher of (i) $1,000,000,000 and (ii)
+4.75% of Consolidated Total Tangible Assets at such time.
+
+                  (c) The Borrower shall not permit its Non-Performing Asset
+Coverage Ratio on any date to be less than 2.5 to 1.0.
+
+                  (d) The Borrower will, and will cause each Bank Subsidiary to,
+maintain at all times such amount of capital as may be prescribed by the Board
+of Governors of the Federal Reserve System (in the case of the Borrower and any
+state member bank Subsidiary) or the Comptroller of the Currency (in the case of
+any national bank Subsidiary), as the case may be, from time to time, whether by
+regulation, agreement or order. The Borrower shall at all times ensure that each
+Insured Subsidiary shall be "adequately capitalized" within the meaning of 12
+U.S.C. ss.1831o, as amended, reenacted or redesignated from time to time.
+
+                                   ARTICLE VI
+
+                                EVENTS OF DEFAULT
+
+                  SECTION 6.01. EVENTS OF DEFAULT. If any of the following
+events ("EVENTS OF DEFAULT") shall occur and be continuing:
+
+                  (a) The Borrower shall fail to pay any principal of any
+Advance when the same becomes due and payable; or the Borrower shall fail to pay
+any interest on any Advance or any fee or other amount whatsoever payable
+hereunder or under the Note when due and such failure remains unremedied for
+three Business Days; or
+
+                  (b) Any representation or warranty made by the Borrower herein
+or in any certificate or other document delivered in connection with this
+Agreement shall prove to have been incorrect in any material respect when made
+or deemed made; or
+
+                  (c) (i) The Borrower shall fail to perform or observe any
+term, covenant or agreement contained in (i) Sections 5.01(a), 5.01(g), 5.01(h),
+5.01(i), 5.01(j), 5.01(k), 5.01(l), 5.01(n), 5.02, or (ii) the Borrower shall
+fail to perform or observe any other term or covenant in this Agreement on its
+part to be performed or observed and such failure remains unremedied for thirty
+Business Days after notice thereof shall have been given to the Borrower by the
+Lender; or
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   30
+                                      -27-
+
+                  (d) The Borrower or any Significant Subsidiary shall fail to
+pay any principal of or premium or interest on any other Debt of the Borrower or
+any Debt of such Significant Subsidiary having an aggregate outstanding
+principal amount of $10,000,000 or more ("MATERIAL DEBT") when the same becomes
+due and payable, and such failure shall continue after the applicable grace
+period, if any, specified in the agreement or instrument relating to such
+Material Debt; or any other event shall occur or condition shall exist under any
+agreement or instrument relating to any such Material Debt and shall continue
+after the applicable grace period, if any, specified in such agreement or
+instrument, if the effect of such event or condition is to accelerate, or to
+permit the acceleration of, the maturity of such Material Debt; or any such
+Material Debt shall be declared to be due and payable, or required to be prepaid
+(other than by a regularly scheduled required prepayment), redeemed, purchased
+or defeased, or an offer to prepay, redeem, purchase or defease such Material
+Debt shall be required to be made, in each case prior to the stated maturity
+thereof; or
+
+                  (e) The Borrower or any Significant Subsidiary shall generally
+not pay its debts as such debts become due, or shall admit in writing its
+inability to pay its debts generally, or shall make a general assignment for the
+benefit of creditors; or any proceeding shall be instituted by or against the
+Borrower or such Significant Subsidiary seeking to adjudicate it as bankrupt or
+insolvent, or seeking liquidation, winding up, reorganization, arrangement,
+adjustment, protection, relief, or composition of it or its debts under any law
+relating to bankruptcy, insolvency, moratorium or reorganization or relief of
+debtors, or liquidation or winding up, or seeking the entry of an order for
+relief or the appointment of a receiver, trustee, custodian or other similar
+official for it or for any substantial part of its property and such proceeding
+shall remain undismissed or unstayed for a period of 60 days; or the Borrower or
+any Significant Subsidiary shall take any corporate action to authorize any of
+the actions set forth above in this subsection (e); or
+
+                  (f) Any judgment or order for the payment of money in excess
+of $10,000,000 shall be rendered against the Borrower or any Significant
+Subsidiary and shall remain unsatisfied, and either (i) enforcement proceedings
+shall have been commenced by any creditor upon such judgment or order and such
+proceedings shall not have been stayed or (ii) there shall be any period of 30
+consecutive days during which a stay of enforcement of such judgment or order,
+by reason of a pending appeal or otherwise, shall not be in effect; or
+
+                  (g) The Borrower shall incur liability to a Plan, a
+Multiemployer Plan or the PBGC (or any combination of the foregoing) that,
+either individually or in the aggregate, could reasonably be expected to have a
+Material Adverse Effect; or
+
+                  (h) Any Bank Subsidiary shall cease accepting deposits on the
+instruction of any Federal, state or other regulatory body with authority to
+give such instruction other than pursuant to an instruction applicable to
+national banks generally or a substantial portion thereof or banks located in a
+particular state or substantial portion thereof; or any Federal or state
+regulatory authority having jurisdiction to regulate any Bank Subsidiary shall,
+pursuant to any Federal or state statute, notify such Bank Subsidiary, that such
+Bank Subsidiary's capital stock has become impaired; or any Bank Subsidiary
+shall cease to be an insured bank under the Federal Deposit
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   31
+
+                                      -28-
+
+Insurance Act, as amended, and the rules and regulations promulgated thereunder;
+or any Insured Subsidiary as of the date hereof shall be required (whether or
+not the time allowed by the appropriate Federal banking agency for the
+submission of such plan has been established or elapsed) to submit a capital
+restoration plan of the type referred to in 12 U.S.C. ss.1831o(b)(2)(C), as
+amended, reenacted or redesignated from time to time; or the Borrower shall
+guarantee in writing (voluntarily or otherwise) the capital of any Insured
+Subsidiary as part of or in connection with any agreement or arrangement with
+any Federal banking agency other than in connection with obtaining regulatory
+approval for the acquisition of such Insured Subsidiary;
+
+then, and in any such event, the Lender may, by notice to the Borrower, (i)
+declare the obligation of the Lender to make Advances to be terminated,
+whereupon the same shall forthwith terminate, and/or (ii) declare the Advances
+and the Note, all interest thereon and all other amounts payable under this
+Agreement to be forthwith due and payable, whereupon the Advances and the Note,
+all such interest and all such amounts shall become and be forthwith due and
+payable, without presentment, demand, protest or further notice of any kind, all
+of which are hereby expressly waived by the Borrower; PROVIDED, HOWEVER, that in
+the event of an entry of an order for relief with respect to the Borrower
+described in clause (e) of this Section, (A) the obligation of the Lender to
+make Advances shall automatically be terminated and (B) the Advances and the
+Note, all such interest and all such amounts shall automatically become and be
+due and payable, without presentment, demand, protest or any notice of any kind,
+all of which are hereby expressly waived by the Borrower.
+
+                                   ARTICLE VII
+
+                                  MISCELLANEOUS
+
+                  SECTION 7.01. AMENDMENTS, ETC. No amendment or waiver of any
+provision of this Agreement or the Note, nor consent to any departure by the
+Borrower therefrom, shall in any event be effective unless the same shall be in
+writing and signed by the Lender, and then such waiver or consent shall be
+effective only in the specific instance and for the specific purpose for which
+given. This Agreement and the Note and the documents referred to herein and
+therein constitute the entire agreement of the parties with respect to the
+subject matter hereof and thereof.
+
+                  SECTION 7.02. NOTICES, ETC. All notices and other
+communications provided for hereunder shall be in writing (including telecopier
+communication) and mailed, telecopied or delivered, to the respective addresses
+set forth on the signature pages hereof or at such other address as shall be
+designated by any party in a written notice to the other party. All such notices
+and communications shall, when mailed or telecopied, be effective when deposited
+in the mails or telecopied, respectively, except that notices and communications
+to the Lender pursuant to Article II or VII shall not be effective until
+received by the Lender.
+
+                  SECTION 7.03. NO WAIVER; REMEDIES. No failure on the part of
+the Lender to exercise, and no delay in exercising, any right hereunder or under
+the Note shall operate as a waiver thereof; nor shall any single or partial
+exercise of any such right preclude any other or further exercise thereof or the
+exercise of any other right. The remedies herein provided are cumulative and not
+exclusive of any remedies provided by law.
+
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   32
+                                      -29-
+
+                  SECTION 7.04.  COSTS, EXPENSES AND INDEMNIFICATION.
+
+                  (a) The Borrower agrees to pay and reimburse to the Lender on
+demand for reasonable costs and expenses incurred by the Lender in connection
+with the preparation, negotiation, execution and delivery and administration of
+this Agreement, the Note and the other documents to be delivered hereunder and
+(subject to such limitation as has heretofore been agreed) and the modification,
+amendment or enforcement thereof, including, without limitation, the reasonable
+fees and out-of-pocket expenses of counsel for the Lender with respect thereto
+and with respect to advising the Lender as to its rights and responsibilities
+under or in connection with this Agreement.
+
+                  (b) The Borrower hereby indemnifies the Lender and each of its
+Affiliates and their respective officers, directors, employees, agents, advisors
+and representatives (each, an "INDEMNIFIED PARTY") from and against any and all
+claims, damages, losses, liabilities and expenses (including, without
+limitation, fees and disbursements of counsel), joint or several, that may be
+incurred by or asserted or awarded against any Indemnified Party, in each case
+arising out of or in connection with or relating to any investigation,
+litigation or proceeding or the preparation of any defense with respect thereto
+arising out of or in connection with or relating to this Agreement or the
+transactions contemplated hereby or any use made or proposed to be made with the
+proceeds of the Advances, whether or not such investigation, litigation or
+proceeding is brought by the Borrower, any of its shareholders or creditors, an
+Indemnified Party or any other Person, or an Indemnified Party is otherwise a
+party thereto, and whether or not any of the conditions precedent set forth in
+Article III are satisfied or the other transactions contemplated by this
+Agreement are consummated, except to the extent such claim, damage, loss,
+liability or expense is found in a final, non-appealable judgment by a court of
+competent jurisdiction to have resulted from such Indemnified Party's gross
+negligence or willful misconduct.
+
+                  SECTION 7.05.  ASSIGNMENTS AND PARTICIPATIONS.
+
+                  (a) The Lender may, with the consent of the Borrower (which
+shall not be unreasonably withheld), assign to one or more Persons all or a
+portion of its rights and obligations under this Agreement (including, without
+limitation, all or a portion of the Commitment, the Advances and the Note);
+PROVIDED, however, that no such consent by the Borrower shall be required in the
+case of any assignment to an Affiliate of the Lender; and PROVIDED, FURTHER,
+that any such partial assignment shall be in an amount at least equal to
+$5,000,000 or in an integral multiple of $1,000,000 in excess thereof.
+
+                  (b) The Lender may sell participations to one or more banks or
+other entities in or to all or a portion of its rights and obligations under
+this Agreement (including, without limitation, all or a portion of its
+Commitment, the Advances and the Note); PROVIDED, HOWEVER, that the Lender's
+obligations under this Agreement (including, without limitation, its Commitment
+hereunder) shall remain unchanged.
+
+                  (c) The Lender may, in connection with any assignment or
+participation or proposed assignment or participation pursuant to this Section
+7.05, disclose to the assignee or participant or proposed assignee or
+participant, any information relating to the Borrower or any of its Subsidiaries
+furnished to the Lender by or on behalf of the Borrower.
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   33
+                                      -30-
+
+                  (d) Notwithstanding any other provision set forth in this
+Agreement, the Lender may at any time create a security interest in all or any
+portion of its rights under this Agreement (including, without limitation, the
+Advances and the Note) in favor of any Federal Reserve Bank in accordance with
+Regulation A of the Board of Governors of the Federal Reserve System.
+
+                  (e) All amounts payable by the Borrower to the Lender under
+Sections 2.08(e), 2.10, 2.11, 2.12 and 7.04(b) shall be determined as if the
+Lender had not sold or agreed to sell any participations in the Advances or the
+Note or its Commitment and as if the Lender were funding each of such Advances
+and Commitment in the same way that it is funding the portion of such Advances
+and Commitment in which no participations have been sold.
+
+                  SECTION 7.06. GOVERNING LAW; SUBMISSION TO JURISDICTION. This
+Agreement and the Note shall be governed by, and construed in accordance with,
+the law of the State of New York. The Borrower hereby submits to the
+nonexclusive jurisdiction of the United States District Court for the Southern
+District of New York and of any New York state court sitting in New York County
+for the purposes of all legal proceedings arising out of or relating to this
+Agreement or the transactions contemplated hereby. The Borrower irrevocably
+waives, to the fullest extent permitted by applicable law, any objection that it
+may now or hereafter have to the laying of the venue of any such proceeding
+brought in such a court and any claim that any such proceeding brought in such a
+court has been brought in an inconvenient forum.
+
+                  SECTION 7.07. SEVERABILITY. In case any provision in this
+Agreement or in the Note shall be held to be invalid, illegal or unenforceable,
+such provision shall be severable from the rest of this Agreement or the Note,
+as the case may be, and the validity, legality and enforceability of the
+remaining provisions shall not in any way be affected or impaired thereby.
+
+                  SECTION 7.08. EXECUTION IN COUNTERPARTS. This Agreement may be
+executed in any number of counterparts and by different parties hereto in
+separate counterparts, each of which when so executed shall be deemed to be an
+original and all of which taken together shall constitute one and the same
+agreement.
+
+                  SECTION 7.09. SURVIVAL. The obligations of the Borrower under
+Sections 2.08(e), 2.10, 2.11, 2.12 and 7.04 shall survive the repayment of the
+Advances and the termination of the Commitment. Each representation and warranty
+made or deemed to be made herein or pursuant hereto shall survive the making of
+such representation and warranty, and the Lender shall not be deemed to have
+waived, by reason of making any Advance, any Default or Event of Default that
+may arise by reason of such representation or warranty proving to have been
+false or misleading.
+
+                  SECTION 7.10. WAIVER OF JURY TRIAL. EACH OF THE BORROWER AND
+THE LENDER HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY
+APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING
+ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE NOTE OR THE TRANSACTIONS
+CONTEMPLATED HEREBY.
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   34
+                                      -31-
+
+                  SECTION 7.11 NO FIDUCIARY RELATIONSHIP. The Borrower
+acknowledges that the Lender has no fiduciary relationship with, or fiduciary
+duty to, the Borrower arising out of or in connection with this Agreement or the
+Note, and the relationship between the Lender and the Borrower is solely that of
+creditor and debtor. This Agreement does not create a joint venture among the
+parties.
+
+                  SECTION 7.12 NO RELIANCE. The Lender represents and warrants
+that it in good faith has not relied and will not rely upon any margin stock as
+collateral in entering into this Agreement or making or maintaining the
+Advances.
+
+                                Credit Agreement
+                                ----------------
+
+<PAGE>   35
+
+
+                  IN WITNESS WHEREOF, the parties hereto have caused this
+Agreement to be executed by their respective officers thereunto duly authorized,
+as of the date first above written.
+
+                                       M & T BANK CORPORATION
+
+
+                                       By   /s/ Michael S. Piemonte
+                                         --------------------------------
+                                         Name:  Michael S. Piemonte
+                                         Title:  Assistant Secretary
+
+                                       Address for Notices:
+
+                                       M&T Bank Corporation
+                                       One M&T Plaza
+                                       Buffalo, NY  14240
+                                       Attention:  Chief Financial Officer
+                                       Telephone:  (716) 842-5844
+                                       Fax:  (716) 842-5220
+
+
+                                       CITIBANK, N.A.
+
+
+                                       By   /s/ Ted Pitt
+                                         ---------------------------------
+                                         Name:   Ted Pitt
+                                         Title:     Vice President
+
+                                       Applicable Lending Office:
+
+                                       399 Park Avenue
+                                       New York, NY  10043
+                                       Attention:  Bernard Cuda
+                                       Telephone:  (212) 559-6347
+                                       Facsimile:  (212) 793-5904
+
+
+
+                                Credit Agreement
+                                ----------------
+
+
+<PAGE>   36
+
+
+
+                                                                      SCHEDULE I
+
+
+                   EXISTING CREDIT AGREEMENTS; EXISTING LIENS
+                   ------------------------------------------
+
+<TABLE>
+<CAPTION>
+M&T Bank Corporation                  (1)                                              SCHEDULE I
+Existing Agreements
+<S>                                                                             <C>
+(in thousands)                                                                                  BALANCE
+                                                                                                9/30/99
+                                                                                                -------
+
+        SHORT-TERM BORROWINGS
+        ---------------------
+
+Federal Funds Purchased and repurchase agreements                                               $2,659,812
+
+Short-term Federal Home Loan Banks advances                                                       $500,000
+
+Other                                                                                             $113,530
+                                                                                              -------------
+
+                                                           Total Short-Term Borrowings          $3,273,342
+                                                                                              =============
+
+        LONG-TERM BORROWINGS
+        --------------------
+
+Subordinated notes of Manufacturers and
+Traders Trust Company:
+              8 1/8 % due 2002                                                                     $75,000
+              7 % due 2005                                                                        $100,000
+
+Preferred capital securities:
+     M & T Capital Trust I - 8.234%                                                               $150,000
+     M & T Capital Trust II - 8.277%                                                              $100,000
+     M & T Capital Trust III - 9.25%                                                               $60,000
+
+Advances from Federal Home Loan Banks:
+      Variable rates                                                                            $1,195,000
+      Fixed rates                                                                                  $89,877
+
+Other                                                                                              $24,084
+                                                                                              -------------
+
+                                                            Total Long-Term Borrowings          $1,793,961
+                                                                                              =============
+
+
+
+$30 Million Revolving Credit Agreement between M&T Bank Corporation and Citibank, N.A.3  (2)            $0
+</TABLE>
+
+
+1   Schedule does not include intercompany borrowings
+2   Does not reflect $500 million 8% subordinated debt  issued 10/5/00 due 2010
+3   Agreement matured 11/17/00
+
+                                   Schedule I
+                                   ----------
+<PAGE>   37
+
+                                                                       EXHIBIT A
+                                 [FORM OF NOTE]
+                                  ------------
+
+
+U.S.$30,000,000                                         Dated:  _______ __, 2000
+
+                  FOR VALUE RECEIVED, the undersigned, M & T BANK CORPORATION, a
+_________ corporation (the "BORROWER"), HEREBY PROMISES TO PAY to the order of
+CITIBANK, N.A. (the "LENDER") for the account of its Applicable Lending Office
+(as defined in the Credit Agreement referred to below) on the Commitment
+Termination Date (as so defined) the principal sum of U.S.$30,000,000 (THIRTY
+MILLION UNITED STATES DOLLARS) or, if less, the aggregate outstanding principal
+amount of the Advances (as defined below) pursuant to the Credit Agreement.
+
+                  The Borrower promises to pay interest on the unpaid principal
+amount of each Advance from the date of such Advance until such principal amount
+is paid in full, at such interest rates, and payable at such times, as are
+specified in the Credit Agreement.
+
+                  Both principal and interest are payable in lawful money of the
+United States of America at the office of the Lender at 399 Park Avenue, New
+York, New York 10043, in same day funds. Each Advance made by the Lender to the
+Borrower pursuant to the Credit Agreement, and all payments made on account of
+principal thereof, shall be recorded by the Lender and, prior to any transfer
+hereof, endorsed on the grid attached hereto which is part of this Note;
+PROVIDED, that the failure of the Lender to make any such recordation or
+endorsement shall not affect the obligations of the Borrower hereunder or under
+the Credit Agreement.
+
+                  This Note is the Note referred to in, and is entitled to the
+benefits of, the Credit Agreement dated as of December 15, 2000 (the "CREDIT
+AGREEMENT", the terms defined therein being used herein as therein defined)
+between the Borrower and the Lender. The Credit Agreement contains provisions
+for acceleration of the maturity hereof upon the happening of certain stated
+events and also for prepayments on account of principal hereof prior to the
+maturity hereof upon the terms and conditions therein specified.
+
+                  The Borrower hereby waives presentment, demand, protest and
+notice of any kind. No failure to exercise, and no delay in exercising, any
+rights hereunder on the part of the holder hereof shall operate as a waiver of
+such rights.
+
+                  This Note shall be governed by, and construed in accordance
+with, the law of the State of New York, United States.
+
+                                               M & T BANK CORPORATION
+
+
+                                               By__________________________
+                                                 Name:
+                                                 Title:
+
+                                 [Form of Note]
+                                 --------------
+<PAGE>   38
+
+
+
+
+                       ADVANCES AND PAYMENTS OF PRINCIPAL
+
+<TABLE>
+<CAPTION>
+==============================================================================================================
+         Date         Amount and Type of          Amount of              Unpaid of           Notation
+                           Advance              Principal Paid           Principal            Made By
+                                                  or Prepaid              Balance
+==============================================================================================================
+<S>                  <C>                     <C>                       <C>                 <C>
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+==============================================================================================================
+</TABLE>
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

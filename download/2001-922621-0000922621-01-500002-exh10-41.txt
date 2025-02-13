@@ -1,0 +1,391 @@
+<DOCUMENT>
+<TYPE>EX-10.41
+<SEQUENCE>2
+<FILENAME>exh10-41.txt
+<DESCRIPTION>EXHIBIT 10.41
+<TEXT>
+
+
+
+                     EXHIBIT 10.41 - COST SHARING AGREEMENT
+                   FOR INFORMATION TECHNOLOGY DEVELOPMENT
+
+
+
+This Cost Sharing  Agreement  ("Agreement") is made this 14th day of March, 2001
+(the "Effective  Date") by and among Erie Insurance  Exchange by and through its
+Attorney-in-Fact  Erie Indemnity Company,  Flagship City Insurance Company, Erie
+Insurance Company, Erie Insurance Property & Casualty Insurance Company and Erie
+Insurance  Company of New York,  which  entities  are the  property and casualty
+insurers of the Erie Insurance Group.
+
+WHEREAS,  these insurers have undertaken to review in  comprehensive  detail the
+information technology  requirements projected over the next several years which
+will be necessary to improve their respective business and customer  interaction
+systems; and
+
+WHEREAS, these insurers recognize that electronic commerce plays a critical role
+in  remaining  competitive  in this  industry,  and it is  essential  that these
+companies move to a technological  platform that is principally based on the use
+of Internet technology to conduct electronic commerce; and
+
+WHEREAS, it is critical and a commercial necessity for these insurers to develop
+informational  technology  for the storage and access of essential  customer and
+insurance  information on their respective  policyholders since such information
+will be  vitally  important  for  the  ability  to  compete  effectively  in the
+financial  services  marketplace of the future,  particularly  with the enhanced
+levels of service required to meet customer expectations; and
+
+WHEREAS, the fundamental technological infrastructure,  applications,  processes
+and  methodologies  necessary to develop and support a wholesale  migration to a
+new,  electronic  commerce  environment  will be required to sustain and enhance
+services  and  products  delivered  to  subscribers  and  policyholders  of  the
+insurers; and
+
+WHEREAS,   the  necessary   information   technology  to  meet  these   customer
+expectations envisions policyholders having the capability of Internet access to
+their individual accounts and information; and
+
+WHEREAS,  because  of their  inter-related  business  relationships,  it will be
+necessary  for these  companies to develop and utilize these systems on a shared
+basis; and
+
+WHEREAS, it is the intent to distribute the costs of this necessary  information
+technology among these companies on a fair and reasonable basis.
+
+NOW,  THEREFORE,  intending to be legally bound, and for and in consideration of
+the mutual promises and  consideration  contained  herein,  the parties agree as
+follows:
+
+                                       1
+<PAGE>
+
+     1. Erie  Insurance  Exchange,  by and  through its  Attorney-in-Fact,  Erie
+     Indemnity  Company,  will undertake to develop,  cause to be developed,  or
+     purchase  software  programs of outside vendors ("Third Party Software") to
+     be  deployed  and  integrated  into the  following  information  technology
+     application systems and infrastructure  elements for the use and benefit of
+     all of the members of the Erie Insurance Group:
+
+         A. On-line Policy Processing System as  more fully described in Exhibit
+            A which is attached hereto.
+
+         B. Customer Relationship  Management System  as more fully described in
+            Exhibit B which is attached hereto.
+
+         C. Required   Information  Technology  Infrastructure   as  more  fully
+            described in Exhibit C which is attached hereto.
+
+(hereinafter collectively referred to as the "OLPP/CRM Systems")
+
+     2. The parties hereto  recognize and acknowledge  that the ownership of the
+     intellectual   property  comprising  these  OLPP/CRM  Systems  will  reside
+     permanently with the Erie Insurance  Exchange.  All aspects of the OLPP/CRM
+     Systems,   including   without   limitation,    programs   and   processing
+     methodologies  shall  remain the sole and  exclusive  property  of the Erie
+     Insurance Exchange and shall not be sold, revealed,  disclosed or otherwise
+     communicated,  directly or indirectly, by any company or entity entitled to
+     use such OLPP/CRM Systems.  It is expressly  understood that no title to or
+     ownership  of  the  OLPP/CRM  Systems,  or  any  part  thereof,  is  hereby
+     transferred  from the Exchange to any other  company of the Erie  Insurance
+     Group.  Such property  rights as  delineated  herein do not extend to Third
+     Party  Software  that may be  integrated  into the  OLPP/CRM  Systems,  but
+     appropriate  licensing  agreements will be obtained to include usage by all
+     parties hereto.
+
+     3. The Erie Insurance  Exchange will undertake to assure that all companies
+     that are parties to this  Agreement  will have equal access to the OLPP/CRM
+     Systems for the  benefit of their  respective  policyholders,  and the Erie
+     Insurance Exchange,  subject to the terms and conditions of this Agreement,
+     specifically  grants to Flagship City  Insurance  Company,  Erie  Insurance
+     Company,  Erie  Insurance  Property & Casualty  Company and Erie  Insurance
+     Company  of New  York  a  non-transferable  perpetual  license  to use  the
+     OLPP/CRM Systems.
+
+     4. All  costs to  develop,  purchase,  deploy,  implement,  integrate,  and
+     maintain the OLPP/CRM Systems (the "Costs of the OLPP/CRM Systems") will be
+     incurred  by and  accrue to the Erie  Insurance  Exchange  on and after the
+     Effective  Date  hereof and no such costs have been  incurred  prior to the
+     Effective Date hereto.  The Costs of the OLPP/CRM  Systems will be incurred
+     as underwriting  expenses  established on the books and records of the Erie
+     Insurance  Exchange in accordance with statutory  accounting  practices and
+     procedures.  The  Costs  of the  OLPP/CRM  Systems  will  be  ceded  to the
+     inter-company  Reinsurance  Pooling  Agreement  effective  January  1, 1995
+     ("Reinsurance  Pooling  Agreement") among the parties hereto. In accordance
+     with the  terms of the  Reinsurance  Pooling  Agreement,  the  Costs of the
+     OLPP/CRM  Systems will be borne by the parties  hereto in  accordance  with
+
+                                       2
+<PAGE>
+
+     their  "Respective  Percentage  Share" as  established  in the  Reinsurance
+     Pooling Agreement as follows:
+
+                  Erie Insurance Exchange                     - 94.5%
+                  Erie Insurance Company                      -  5.0%
+                  Erie Insurance Company of New York          -  0.5%
+                  Flagship City Insurance Company             -    0%
+                  Erie Insurance Property & Casualty Co.      -    0%
+
+     5. Erie  Insurance  Exchange will keep accurate and current  records on the
+     Costs of the OLPP/CRM Systems,  including the cost of Third Party Software,
+     as it is the intent of this  Agreement  to share such Costs of the OLPP/CRM
+     Systems on a fair and reasonable basis among the user companies.
+
+     6. This Section 6 of the  Agreement is intended to establish  the procedure
+     for adjusting the sharing of the Costs of the OLPP/CRM Systems in the event
+     that any of the Respective  Percentage  Shares as described in Section 4 of
+     this Agreement are changed after the date of this Agreement.
+
+Solely for purposes of this section,  the following  terms have the meanings set
+out below:
+
+"Inception to Date  Investment in OLPP/CRM  Systems" shall mean the Costs of the
+OLPP/CRM  Systems  incurred  from  inception  to the date of any  change  in the
+Respective Percentage Shares.
+
+"Economic  Life  End  Date"  shall  mean a date  exactly  seven  years  from the
+occurrence of the first of the following:  (i) the date the OLPP/CRM Systems are
+ready  to be  "placed  in  service"  as that  term is  generally  understood  in
+Generally Accepted Accounting Principles, or (ii) the date either one or both of
+the OLPP/CRM Systems are considered abandoned.
+
+"Remaining  Economic  Life" shall mean the period of time,  expressed in nearest
+whole months,  between the date of any change in the Respective Percentage Share
+in the Reinsurance Pooling Agreement to the Economic Life End Date.
+
+"Recapture  Percentage"  shall mean,  for each  entity  which is a party to this
+Agreement,  the change (positive or negative) derived by subtracting the revised
+Respective  Percentage  Share  under  any  new or  amended  Reinsurance  Pooling
+Agreement  from the  current  Respective  Percentage  Share  in the  Reinsurance
+Pooling Agreement under the terms in existence as of the date of this Agreement.
+
+"Remaining  Economic  Value"  shall mean an amount  computed by (i) dividing the
+Inception  to Date  investment  in  OLPP/CRM  Systems by 84  (months),  and (ii)
+multiplying that result by the Remaining Economic Life in months.
+
+                                       3
+<PAGE>
+
+In the event the Reinsurance Pooling Agreement Respective  Percentage Shares are
+modified at any time prior to the  Economic  Life End Date,  it is the intent of
+the parties  that the cost sharing  terms as provided  for under this  Agreement
+will be adjusted  equitably,  to share the costs considering the economic impact
+of any revised  Respective  Percentage Shares. The amount of the adjustment with
+respect  to and  among  the  parties  to this  Agreement  shall be  computed  by
+multiplying  the Recapture  Percentage  for the respect  entity by the Remaining
+Economic  Value.   The  parties  hereby  agree  to  settle  such  obligation  in
+immediately  available funds not more than 30 days from the date the Reinsurance
+Pooling Agreement  Respective  Percentage  Shares are changed,  positive amounts
+representing amounts due the party,  negative amounts reflecting amounts owed by
+the party.
+
+     7. This Agreement shall be submitted in a timely and appropriate  manner to
+     the Pennsylvania  Insurance  Department in accordance with the Pennsylvania
+     Insurance Holding Companies Act (40 P.S.ss.991.1405).
+
+     8. It is the express intent of the parties to this Agreement to establish a
+     fair and  reasonable  basis for the  sharing  of the Costs of the  OLPP/CRM
+     Systems.  It is understood  among the parties that this undertaking for the
+     development  of the  OLPP/CRM  Systems will proceed over a duration of more
+     than one year and that  unforeseen  contingencies  could  occur  that could
+     disrupt  the  development  process.  Nevertheless,  it is the intent of the
+     parties to have equal  access to the  OLPP/CRM  Systems and share fairly in
+     the Costs of the  OLPP/CRM  Systems,  and should  circumstances  arise that
+     would  require  adjustments  among the parties in the  allocation of costs,
+     then the parties  will  proceed to  equitably  adjust the costs in a manner
+     that would be fair and  reasonable  taking  into  consideration  all of the
+     facts and circumstances and the interrelated business  relationships of the
+     parties.
+
+                                       4
+<PAGE>
+
+                            ERIE INSURANCE EXCHANGE
+                            BY AND THROUGH ITS ATTORNEY-IN-
+                            FACT ERIE INDEMNITY COMPANY
+
+
+                   By:           /s/ Stephen A. Milne
+                                     Stephen A. Milne
+                                     President & CEO
+
+
+
+                            FLAGSHIP CITY INSURANCE COMPANY
+
+
+                   By:           /s/ Jeffrey A. Ludrof
+                                     Jeffrey A. Ludrof
+                                     Executive Vice President
+
+
+
+                            ERIE INSURANCE COMPANY
+
+
+                   By:           /s/ Jan R. Van Gorder
+                                     Jan R. Van Gorder
+                                     Sr. Executive Vice President
+
+
+
+                            ERIE INSURANCE PROPERTY &
+                            CASUALTY COMPANY
+
+
+                   By:           /s/ Philip A. Garcia
+                                     Philip A. Garcia
+                                     Executive Vice President & CFO
+
+
+
+                            ERIE INSURANCE COMPANY OF NEW YORK
+
+
+                   By:           /s/ Timothy G. NeCastro
+                                     Timothy G. NeCastro
+                                     Senior Vice President & Controller
+
+                                       5
+<PAGE>
+                                     EHHIBIT A
+
+                        ONLINE POLICY PROCESSING SYSTEM ("OLPP")
+
+
+OLPP System is an integrated  system of function,  capabilities and features for
+electronic  data entry  automated  underwriting  rating,  and  automated  policy
+processing built around a central customer file that enables servicing of all of
+the customer's policies. This integrated system captures detailed information on
+a customer and  underwrites the policy as accurately and efficiently as possible
+for both  commercial and personal  lines.  This digital  system would  eliminate
+paper as much as possible,  creating a single,  digital file for each policy and
+customer.
+
+In  addition  to  automated  underwriting,  features  of OLPP  include:  on-line
+intelligence for agents to guide them through submissions,  storage of quotes in
+client file  organization,  on-line viewing of stored quotes,  automated  policy
+issuance and document  management,  historical  archiving of policy information,
+on-line  change  processing and  management,  automated  renewal  processing and
+workflow  automated the initiation and processing of premium audits,  management
+of certificates of insurance and proof of insurance and support  reinsurance for
+commercial lines.
+
+                                       6
+<PAGE>
+
+                                     EXHIBIT B
+
+                  CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM ("CRM")
+
+
+CRM is an  information  platform  that  provides a single  view of the  customer
+across the enterprise in support of all customer processes and touchpoints.  CRM
+usually includes tools that enable sales force automation,  customer interaction
+management and marketing automation tools.
+
+Sales  force  automation   capabilities  aid  the  agents  with  lead  tracking,
+appointment tracking,  marketing materials shipping, and marketing effectiveness
+tracking. Its focus is on converting leads into sales.
+
+Customer  interaction  management tracks all  customer-enterprise  communication
+across all communication channels - including call centers,  agents, e-mail, and
+websites.
+
+Marketing  automation  tools help the  enterprise  to manage its  campaigns  and
+promotions  and to cross sell and up sell its products and  services.  Marketing
+assistance may occur in two ways:  system  initiated and user initiated.  System
+initiated  assistance  is done  using rule based  alerts  that  prompt the sales
+person with potential cross selling and up selling opportunities. User initiated
+assistance  is triggered by sales  targets  identified  by querying the customer
+database.
+
+This initiative will deliver a customer relationship management system that will
+enable a  policyholder-centric  focus at the agent and customer service level of
+interaction.  This  system  will  allow  for the  tracing  of  customer  service
+inquiries,  cross selling, up selling,  and it will increase the productivity of
+the  home  office  customer  service  representatives,  agent  customer  service
+representatives  and the  agent.  This  initiative  will  focus on the  customer
+interaction  management and sales force automation portions of CRM. In addition,
+this initiative will enable ERIE to analyze the customer data captured by CRM.
+
+                                       7
+<PAGE>
+
+                                     EXHIBIT C
+
+                     REQUIRED INFORMATION TECHNOLOGY INFRASTRUCTURE
+
+
+Design and Implement Web Infrastructure
+
+The majority of new  applications  deployed at ERIE will utilize a browser based
+user  interface.  Each of these  applications  should  be built on a common  web
+infrastructure,  allowing new  application  deployment to be completed in a more
+timely fashion,  minimizing custom development,  reducing subsequent  deployment
+and maintenance  costs and providing the users of ERIE  applications with a more
+homogeneous user experience.
+
+The web infrastructure will centralize  functions such as web content management
+and application and web server  monitoring and management.  The building of this
+infrastructure  will primarily consist of choosing the appropriate  software and
+hardware  platforms for these key components and then deploying and  integrating
+them with the ERIE environment.
+
+Deployment  of new ERIE  applications  will  require the  appropriate  degree of
+integration  with  the web  infrastructure.  There  will  need to be one  common
+registration  process,  a central  repository of user access  information  and a
+single set of screens for user sign-on.  Each application  deployed must be able
+to recognize  when a user has already signed onto ERIE and must be able to share
+key  information  with the centralized  services such as  registration  data and
+event logging.
+
+Data Transformation Architecture & Tools
+
+The focus of this  initiative is to purchase and integrate the tools required to
+support  data  extraction,  cleansing  and  transformation  for the  creation of
+operational  data stores and to support  operational and analytical  processing.
+This  infrastructure  will be essential for  supporting a range of  initiatives,
+including but not limited to:
+
+o        Creation of databases to support new operational systems, such as a CRM
+         or a web enabled front end
+
+o        Creation  of  an environment where online  analytical processing can be
+         used to derive a greater understanding of ERIE's customers
+
+o        Creation of  a  data  mart  to  support agent performance reporting and
+         analysis
+
+o        Any holistic customer-oriented reporting
+
+                                       8
+<PAGE>
+                                   EXHIBIT C
+
+                     REQUIRED INFORMATION TECHNOLOGY INFRASTRUCTURE(Continued)
+
+
+
+Integration Architecture
+
+Integration  architecture  will  be  developed  to  enable  a  unified  view  of
+information  to multiple  back-end  systems.  This  unified  view is required to
+provide a common web front-end to back-end systems. The integration architecture
+is also required to ensure that multiple systems contain consistent information,
+improving the accuracy of reporting.  Commitment to the architecture will ensure
+that applications are integrated to maximize flexibility and minimize cost.
+
+The  integration  architecture  will provide  technology  adapters,  application
+adapters,   tools   for   building   custom   adapters,   metadata   repository,
+transformation, content based routing, deployment tools, and management tools to
+monitor  and  adjust  for  quality  and   performance.   The  building  of  this
+infrastructure  will primarily consist of choosing the appropriate  software and
+hardware  platforms for these key components and then deploying and  integrating
+them with the ERIE environment.
+
+                                       9
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,992 @@
+<DOCUMENT>
+<TYPE>EX-10.13
+<SEQUENCE>5
+<FILENAME>g68354ex10-13.txt
+<DESCRIPTION>MANAGEMENT SERVICES AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.13
+
+                         MANAGEMENT SERVICES AGREEMENT
+
+         This MANAGEMENT SERVICES AGREEMENT (this "Agreement") is made and
+entered into as of this 1 day of Sept., 1998, by and between HEALTH OPTIONS
+ILLINOIS, INC., an Illinois corporation ("PHO"), and NORTH AMERICAN MEDICAL
+MANAGEMENT - ILLINOIS, INC. an Illinois corporation ("Manager").
+
+                                   WITNESSETH
+
+         WHEREAS, PHO is a physician hospital association of physicians and
+physician practice groups organized to engage in managed care contracting with
+insurance companies, health maintenance organizations, employer self-funded
+plans, health plans, provider sponsored organizations, and other managed care
+organizations; and
+
+         WHEREAS, PHO desires to retain the services of Manager in connection
+with selected business and administrative functions of its physician network,
+including but not limited to, negotiating with managed care organizations with
+respect to the delivery of health care services to the subscribers or
+beneficiaries of health care plans, so as to permit physicians participating in
+its network to devote their efforts on a concentrated and continuous basis to
+the rendering of medical services to patients.
+
+         NOW THEREFORE, in consideration of the foregoing and the mutual
+agreements and covenants contained herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby forever
+acknowledged and confessed, IPA agrees to purchase the business management
+services of Manager and to appoint Manager as its agent to negotiate with
+managed care organizations on its behalf as described herein, and Manager agrees
+to provide such services and accepts its appointment as agent on the terms and
+conditions provided in this Agreement.
+
+                                   ARTICLE I
+
+                                  DEFINITIONS
+
+         As used in this Agreement, each of the following terms shall have the
+meaning set forth below:
+
+         1.1      "BENEFICIARY" shall mean any eligible individual who is
+covered under a Benefit Agreement offered by a Payor and entitled to receive the
+Covered Services pursuant to such Benefit Agreement.
+
+         1.2      "BENEFIT AGREEMENT" shall mean the contract which establishes
+a Payor's obligation to the Beneficiary for the payment of medical, hospital or
+other health care benefits.
+
+
+                                       1
+<PAGE>   2
+
+         1.3      "COVERED SERVICES" shall mean those medical services
+enumerated in Payor Contracts which Participating Physicians are obligated to
+provide to Beneficiaries.
+
+         1.4      "PHO EXPENSES" shall mean all reasonable expenses of PHO which
+are not covered by this Agreement, including but not limited to, (i) expenses
+for director and officer liability insurance, professional liability insurance
+and other insurance, (ii) travel and education expenses incurred by PHO members
+on matters not related to the management or administration of the PHO, (iii)
+marketing and advertising expenses over and above budgeted amounts, (iv) officer
+stipends, including fees paid to medical directors and other medical
+consultants, (v) director stipends for meeting attendance, (vi) optional
+programs and specialized services focused on physician offices, including non
+routine software enhancements, (vii) legal, auditing and financial review and
+other professional fees of PHO related to PHO's review of Manager's books and
+records, and (viii) costs for any management services not related to risk
+contracts.
+
+         1.5      "PHO SURPLUS" shall mean the pre-tax net income of PHO for
+risk contracts as determined by generally accepted accounting principles on an
+accrual basis, which shall be calculated as the revenues of the PHO from all
+sources relating to risk contracts, including without limitation, health plan
+capitation payments, earned interest, incentive fund payments, reinsurance and
+third party recovery amounts, minus the expenses of operating the business of
+the PHO, which expenses shall include all Medical Expenses including capitation
+expenses as determined by actuarially sound methods of distributing available
+capitation from health plans and the Manager service fee described in Section
+7.2(a). Revenue, incentive payments and expenses for other PPO, POS, and
+non-risk business shall be excluded for purposes of calculating surpluses earned
+on risk contracts.
+
+         1.6      "MANAGER EXPENSES" shall mean all expenses which are incurred
+by Manager or its agents in connection with the performance of its duties under
+this Agreement, including but not limited to, (i) Executive Director salary and
+fees, (ii) salaries, benefits and other direct costs of Manager employees, (iii)
+obligations of Manager under leases or subleases entered into in connection with
+the performance of services hereunder, (iv) federal and state income, personal
+property and intangible taxes assessed against Manager, (v) general liability
+and insurance expenses of Manager (vi) costs of corporate allocations such as
+routine computer hardware and software licenses currently used by Manager in
+performing its services as well as routine enhancements and upgrades, and (vii)
+other expenses incurred by Manager in carrying out its obligations under this
+Agreement.
+
+         1.7      "MEDICAL EXPENSES" shall mean all expenses which are incurred
+by PHO or its agents in connection with the Covered Services provided to
+patients/Beneficiaries for which PHO has responsibility pursuant to the
+applicable Payor Contract.
+
+         1.8      "MEDICAL SERVICES" shall mean general medical, specialty and
+other health care services provided by Participating Physicians and other
+professional personnel, pursuant to contracts between the PHO and third party
+payors, including, without limitation, employees and independent contractors.
+
+
+                                       2
+<PAGE>   3
+
+
+         1.9      "OUTCOMES MEASUREMENT PROGRAM" shall mean either the outcomes
+measurement program developed, established and administered by PHO or its agents
+for outcomes measurement activities, or a similar program developed, established
+and administered by a Payor.
+
+         1.10     "PARTICIPATING PHYSICIANS" shall mean the physicians licensed
+to practice medicine in the State of Illinois, and qualified to participate in
+government programs as applicable who have entered into a Participation
+Agreement with PHO.
+
+         1.11     "PARTICIPATION AGREEMENTS" shall mean the Participation
+Agreements by and between PHO and its Participating Physicians or other
+Providers pursuant to which the Participating Physicians or Providers agree to
+provide Covered Services to Beneficiaries under Payor Contracts entered into by
+PHO.
+
+         1.12     "PAYOR" shall mean any entity having a current valid Payor
+Contract with PHO and which pays, indemnifies, or makes payments on behalf of
+Beneficiaries for medical and hospital costs. This definition includes, but is
+not limited to, insurance companies, health maintenance organizations, managed
+care organizations, preferred provider organizations, Medicare and Medicaid,
+third party administrators, a partially or fully self-insured employer, a
+multiple employer trust or an employee welfare benefit plan and the clients of
+any of the preceding entities.
+
+         1.13     "PAYOR CONTRACT" shall mean an agreement between PHO and a
+Payor pursuant to which PHO agrees on behalf of the Participating Physicians to
+render Covered Services to Beneficiaries through the Participating Physicians at
+amounts determined and established in such agreement. Unless the PHO and Manager
+mutually agree on a method by which Manager shall administer and be compensated
+for non-capitated Payor Contracts, Payor Contracts as used in this Agreement
+shall include only those agreements for which payment is made to the PHO on a
+capitation basis in which capitation is made to PHO for a broad range of medical
+services.
+
+         1.14     "PROVIDER" shall mean any Physician, group medical practice,
+hospital or other health care provider which is a participating provider of a
+Payor with which PHO contracts.
+
+         1.15     "UTILIZATION MANAGEMENT PROGRAM" shall mean (i) the
+utilization management program developed, established and administered by PHO or
+its agents for the determination of the medical necessity of medical services
+provided to Beneficiaries, (ii) a utilization management program developed by a
+Payor and administered by PHO, or (iii) a utilization management program
+developed, established and administered by a Payor.
+
+
+                                       3
+<PAGE>   4
+
+                                   ARTICLE II
+
+                                    GENERAL
+
+         2.1      RETENTION OF MANAGER. PHO hereby retains Manager for the
+purpose of rendering all business management and support services specified in
+Article III hereof and for the purpose of facilitating the negotiation and
+execution of contracts with Payors on behalf of PHO in accordance with the
+provisions of Article IV hereof, and Manager accepts such retention, subject at
+all times to the provisions of this Agreement.
+
+         2.2      ENGAGEMENT TERMS. PHO retains Manager as its exclusive
+management services provider. PHO acknowledges that Manager may provide its
+services hereunder directly or may assign any and all of its obligations
+hereunder to one of it's Affiliates or to PhyCor, Inc or one of its affiliates.
+Provided however, any significant material function being considered for
+subcontracting will be submitted to PHO for prior approval for input prior to
+execution of a subcontract. Such prior approval will be promptly determined and
+not unreasonably withheld. Manager shall provide such management services and/or
+health care contract negotiation or agency services to PHO and its Participating
+Physicians as PHO may reasonably request. Manager is expressly authorized to
+provide such services in any reasonable manner Manager deems appropriate to meet
+the day-to day requirements of the business functions of PHO and PHO's provision
+of Covered Services to Beneficiaries. Manager may, to the extent it deems
+appropriate, perform such business office services for PHO at locations of
+Manager's choosing. Manager shall not without prior written approval provide any
+management services to competing hospitals or PHOs as listed: St. Therese
+Medical Center, Condell Medical Center, and Lake Forest Hospital or their
+successors or affiliates with principal locations of service in Lake County,
+Illinois or within the Zip Codes described in the attached Exhibit A which
+define the primary service area of the PHO. PHO acknowledges that Manager and
+its assignees may provide management services to PHO and to such other groups or
+entities through common management information systems, employees and other
+resources. Nothing contained herein is intended to restrict in any respect the
+ability of PhyCor, Inc. ("PhyCor") or any of its affiliates from engaging in the
+acquisition or management of group medical practices within the Restricted Area
+defined in Exhibit A. PHO and Manager agree that Manager is bound by certain
+restrictions included in its agreement with Highland Park HealthCare. The
+provision of management services to PHO by Manager for Medicare risk contracts
+servicing Lake County, Illinois will require the written approval of Highland
+Park HealthCare.
+
+         2.3      NEW SERVICES/LOCATIONS. Manager, at its option, shall have the
+exclusive right to provide additional or new business management and other
+services necessary to support PHO; provided that PHO determines that it needs or
+desires such other services. Should Manager decline to provide the new or
+additional services, PHO may perform or purchase such services from others at
+its own expense.
+
+
+                                       4
+<PAGE>   5
+
+         2.4      MEETINGS. PHO shall notify Manager in writing and shall
+provide Manager or its assignees the opportunity to be present and heard at all
+meetings of the PHO governing body or meetings of the PHO's senior officers
+except those meetings or portions of meetings concerning Manager. Without the
+written consent of Manager or its assignee, PHO shall not conduct meetings with
+payors.
+
+         2.5      BOOKS AND RECORDS. PHO shall, at its cost and expense, have
+the right, upon reasonable notice and during business hours, either directly or
+through its agents, to review all books and records of the Manager and its
+Affiliates in connection with services to be provided to the PHO hereunder. PHO
+and its auditors or agents will agree to protect the confidentiality of
+manager's proprietary procedures and not disclose them to any third party
+without written permission from Manager.
+
+                                  ARTICLE III
+
+                                    SERVICES
+
+         3.1      PERFORMANCE OF MANAGEMENT FUNCTIONS. Manager may provide or
+arrange for others to provide the services called for by this Agreement as
+described herein in Schedule B. Manager is hereby expressly authorized to
+perform its services hereunder in whatever manner it deems reasonably
+appropriate to meet the day-to-day requirements of PHO operations in accordance
+with the general standards approved by the governing body of PHO, including,
+without limitation, performance of some of the business office functions at
+locations other than the office of PHO. PHO will not act in a manner which would
+prevent Manager from efficiently managing the day-to-day operations of PHO in a
+business-like manner.
+
+         3.2      FINANCIAL PLANNING AND GOALS. Manager shall prepare annual
+capital and operating budgets reflecting in reasonable detail anticipated
+revenues and expenses and sources and uses of capital for the development and
+conduct of PHO's activities. Said budget shall be presented to the governing
+board of PHO at least sixty (60) days prior to the commencement of each fiscal
+year of PHO. The governing board of PHO, shall, in its sole discretion approve,
+modify or reject the proposed budgets submitted by Manager, but shall, in any
+event, adopt an annual capital budget and an annual operating budget prior to
+the commencement of each fiscal year. Manager will monitor the performance of
+Participating Physicians, including certain key physicians, physician organized
+delivery systems ("PODS") and the overall performance of PHO and will make
+annual recommendations on the bonus distributions to be paid to key physicians
+from PHO Surplus, as applicable.
+
+         3.3      AUDITS AND STATEMENTS. Manager shall prepare financial
+statements reflecting the operations of PHO on a monthly basis and PODS
+performance reports on a quarterly basis or at such other frequency as Manager
+and PHO mutually determine to be reasonable. All financial statements prepared
+by Manager shall be prepared in accordance with generally accepted accounting
+principles. If PHO desires an audit of these financial statements, it may obtain
+such audit as a PHO Expense;
+
+
+                                       5
+<PAGE>   6
+
+provided, however that should such an audit reveal material inaccuracies in
+these financial statements, Manager shall reimburse PHO the cost of said audit.
+
+         3.4      ACCESS. Upon reasonable notice to Manager and without
+disruption to normal business activities, PHO's senior officers, members of
+PHO's governing body, or agents appointed by either shall have the right during
+normal business hours to audit, examine, and make copies of books of account
+maintained by Manager with respect to the provision of Covered Services and
+Manager's billings and collections on PHO's behalf.
+
+         3.5      NON-MEDICAL MANAGEMENT AND ADMINISTRATIVE SERVICES.
+
+                  (a)      PHO hereby appoints Manager as its exclusive manager
+and administrator of all day-to-day business functions for PHO's risk contract
+business. PHO agrees that the purpose and intent of this Agreement is to relieve
+its Participating Physicians and other Providers, to the maximum extent
+possible, of the administrative, accounting, personnel and business aspects of
+PHO, with Manager assuming responsibility and being given all necessary
+authority to perform these functions. Manager's specific responsibilities shall
+include without limitation: (i) maintaining open communications with PHO, PODS
+leaders and such other key physicians as identified by PHO; (ii) appraising PHO,
+PODS leaders and key physicians of central business issues; providing on-site
+office staff education and training as requested by PHO; (iii) providing
+staffing and administrative assistance at all PHO board and PODS leadership
+meetings to transcribe meeting minutes and provide input as appropriate; (iv)
+assisting PHO in providing prompt review and response to patient or provider
+grievances, inpatient reviews, ambulatory referral reviews, discharge planning,
+other administrative functions to support the utilization review process and
+review and updates of Physician handbooks; (v) providing actuarial consulting
+services for purposes of estimating PHO's reserves and incurred but not reported
+("IBNR") claims; and (vi) such other assistance as agreed to by the parties to
+support PHO's obligations to Participating Providers as set forth in certain
+Participation Agreements and PHO's Policies, Rules and Regulations. Manager and
+PHO agree that only Participating Physicians and Providers will perform the
+medical functions and provide medical services through PHO. Manager will have no
+authority, directly or indirectly, to perform, and will not perform, any medical
+function. Manager may, however, advise PHO as to the relationship between its
+performance of medical functions and the overall administrative and business
+functioning of PHO. The parties acknowledge and agree that PHO, through its
+governing body and Participating Physicians and Providers, and not Manager,
+shall be responsible and liable for and shall have complete authority,
+supervision, and control over the provision of all Medical Services performed
+for patients and that all diagnoses, treatments and procedures related to
+Medical Services shall be provided and performed under the supervision of
+Physicians or other appropriately licensed professionals, as such professionals,
+in their sole discretion, deem appropriate.
+
+                  (b)      Manager shall, on behalf of PHO, bill and collect
+professional fees for medical services rendered by Participating Physicians of
+PHO to the extent permitted under the applicable Payor Contract, and bill and
+collect from managed care organizations for professional fees for medical
+services rendered or to be rendered by Participating Physicians to Beneficiaries
+which are to be paid for by the managed care organization. PHO hereby appoints
+Manager for the term
+
+
+                                       6
+<PAGE>   7
+
+hereof to be its true and lawful attorney-in-fact, for the following purposes:
+(i) to bill managed care organizations in PHO's name and on its behalf; (ii) to
+collect accounts receivable resulting from such billing in PHO's name and on its
+behalf; (iii) to receive payments from Payors, including prepayments received
+from health care plans, Medicare, Medicaid and all other third-party payors or
+managed care organizations; (iv) to take possession of and endorse in the name
+of PHO (and/or in the name of an individual physician, such payment intended for
+purpose of payment of a physician's bill) any notes, checks, money orders,
+insurance payments and other instruments received in payment of accounts
+receivable; (v) to determine, in accordance with performance criteria contained
+in Exhibit C, which claims for payment from Participating Physicians are
+appropriate and to pay such claims on a prompt basis, including fee for service
+and capitation payments due Participating Physicians pursuant to the
+Participation Agreement and to make prompt payment within thirty days of
+properly submitted "clean" claims presented for payment by any other providers
+who are to be paid by PHO, and (vi) with PHO's prior written consent, to
+initiate the institution of legal proceedings in the name of PHO to collect any
+accounts and monies owed to the PHO, to enforce the rights of PHO as creditors
+under any contract or in connection with the rendering of any Covered Service,
+and to contest adjustments and denials by governmental agencies (or their fiscal
+intermediaries).
+
+                  (c)      Manager shall have procedures augmented in an PHO
+Board approved banking resolution to permit Manager access to the PHO checking
+account, which shall be established and maintained at a mutually acceptable
+bank. In connection with the administration of funds under this Section and
+throughout the term of this Agreement, PHO hereby grants Manager a special power
+of attorney and appoints Manager as PHO's true and lawful agent and
+attorney-in-fact, and Manager hereby accepts such special power of attorney and
+appointment, to deposit appropriate funds into the PHO account and to make
+withdrawals in accordance with the banking resolution from the PHO account for
+payments specified in this Agreement and as requested by PHO. Manager shall be
+obligated to deposit any monies or other assets it receives for any reason on
+behalf of PHO in the PHO account. PHO shall insure that adequate working capital
+is available in the account for the prompt payment of all obligations.
+Notwithstanding the special power of attorney granted to Manager hereunder, PHO
+may continue to draw checks on the PHO account. Upon request of Manager or the
+financial institution wherein the PHO account is maintained, such additional
+documents or instruments as may be necessary to evidence or effect the special
+power of attorney shall be granted to Manager by PHO.
+
+                  (d)      Manager shall design, supervise and maintain custody
+of all files and records relating to the operation of PHO in a format suitable
+for review by outside parties, including but not limited to accounting, billing,
+contracts and leases, and collection records. Manager shall maintain routine
+communications with PHO's chief financial officer and/or finance committee and
+shall assist PHO in preparing reports for PHO's board in advance of each board
+meeting. Patient medical records shall not be maintained by Manager and shall at
+all times be and remain the property of PHO or its Participating Physicians or
+Providers and shall be located at clinical facilities where they are readily
+accessible for patient care. The management of all medical records shall comply
+with applicable state and federal statutes. Manager shall use its best efforts
+to preserve the confidentiality
+
+
+                                       7
+<PAGE>   8
+
+of patient medical records and use information contained in such records only
+for the limited purposes necessary for performing the services set forth herein;
+provided, however, in no event shall a breach of said confidentiality
+requirement be deemed a default under this Agreement.
+
+                  (e)      Manager shall provide the data necessary for PHO to
+prepare its annual income tax returns and shall assist PHO in the preparation
+and filing of such returns. Manager, however, shall have no responsibility for
+the preparation, filing, or protesting of PHO's federal or state income tax
+returns or the payment of such income taxes.
+
+         3.6      NETWORK DEVELOPMENT AND PHYSICIAN RECRUITMENT. Manager shall
+perform administrative services reasonably necessary and appropriate to develop
+the PHO, such as identifying potential candidates for participation in the PHO
+network and arranging interviews. However, it will be and remain the
+responsibility of PHO to interview, select, contract with, supervise,
+compensate, control and terminate all physicians performing Covered Services or
+other professional services, and Manager shall have no authority whatsoever with
+respect to such activities. Manager shall appoint an Executive Director whose
+primary assignment shall be to coordinate the delivery of services provided by
+Manager under this Agreement and who shall be accessible to PHO and its
+providers during regular business hours and on-call as required to respond to
+PHO needs. PHO shall not unreasonably withhold consent for Executive Director to
+have other assignments in the best interests of Manager's efficiency.
+
+         3.7      CREDENTIALING. Manager shall assist PHO in implementing its
+credentialing process, administering the credentialing and recredentialing
+process implemented by PHO under its own standards or those required by any
+Payor (including, but not limited to, obtaining information regarding licensure,
+medical staff participation, insurance coverages and other information relevant
+to credentialing standards of PHO or the Payors), arranging interviews and
+reporting the results of the credentialing of each physician to the appropriate
+committee or to the governing body of PHO; provided, however, that PHO shall
+interview and make the ultimate decision as to the suitability and compliance
+with credentialing and recredentialing standards of any physician to become
+associated with PHO, and PHO shall be responsible for implementing the
+appropriate credentialing standards and offering or denying a Participation
+Agreement to a physician.
+
+         3.8      CLAIMS COLLECTION AND PAYMENT. On behalf and for account of
+PHO, Manager shall establish and maintain credit and billing and collection
+policies and procedures and shall bill and collect all professional and other
+fees due from Payors for Covered Services provided by or on behalf of PHO.
+Manager shall operate the claims collection and payment operations in such
+manner as to ensure timely and accurate processing and payment of claims
+consistent with PHO's Participation Agreements and Payor Contracts. Manager
+shall advise and consult with PHO regarding the fees and sub-capitation payments
+for Covered Services under capitated agreements and shall reasonably and
+mutually agree to NAMM's recommended rates for these payments; however for
+non-risk fee-for-service agreements for PPO services or for any risk agreement
+held by health plans or third party payors, physician members of the PHO Board
+shall establish the fees to be charged for Covered
+
+
+                                       8
+<PAGE>   9
+
+Services, and Manager shall have no authority whatsoever with respect to the
+establishment of such fees. If contracts are negotiated by Manager with a Payor
+which involve a pass through of physician fees with little or no integration of
+activities or which put physicians at little risk for the performance of other
+physicians, then Manager shall comply with all requirements established from
+time to time by applicable federal or state antitrust enforcement authorities
+regarding the permissible scope of activities of Manager as the agent messenger
+in establishing and negotiating fees.
+
+         3.9      CASE MANAGEMENT SERVICES. Manager shall provide administrative
+assistance to PHO in managing the provision of Covered Services to
+Beneficiaries, including conferring with Participating Physicians regarding
+compliance with Payor requirements regarding appropriate courses of treatment.
+
+         3.10     UTILIZATION MANAGEMENT, OUTCOMES MEASUREMENT AND QUALITY
+IMPROVEMENT. Manager shall assist PHO in fulfilling its obligation under any
+Utilization Management, Outcomes Measurement, or Quality Improvement programs
+implemented by any Payor or by Manager. Such outcomes measurement and
+utilization management function shall be carried out in accordance with the
+requirements of the applicable Payor Contract and may include any requirements
+or standards adopted by the governing body of PHO.
+
+         3.11     PRE-CERTIFICATION, REFERRAL PRE-CERTIFICATION SERVICES.
+Manager shall assist PHO in establishing a system for verification of
+Beneficiary eligibility and shall assist PHO in processing referral requests
+from Participating Physicians in accordance with the requirements established in
+the applicable Payor Contract or by the PHO. Manager shall assist the PHO in
+reviewing each referral, based upon established medical criteria, to ensure that
+the referral is appropriate under the applicable requirements regarding medical
+necessity and utilization. Manager shall assist PHO in assuring that referral
+authorizations are processed, routed to the appropriate specialty care provider,
+or denied. PHO shall insure that its participating providers comply with
+Manager's procedures for the processing of referrals and certification of
+service.
+
+         3.12     NEW SERVICES. Manager shall work with PHO to consider from
+time to time whether it would be in the best interests of PHO for Manager to
+make additional services available to PHO at its expense. If the parties
+mutually agree on a new service, Manager shall make a good faith effort to
+develop or acquire such services for PHO.
+
+         3.13     COMPLIANCE WITH APPLICABLE LAWS. Manager shall comply with all
+applicable federal, state and local laws, regulations and restrictions in the
+conduct of its obligations under this Agreement.
+
+
+                                       9
+<PAGE>   10
+                                   ARTICLE IV
+                            MANAGED CARE CONTRACTING
+
+         4.1      DELEGATION OF AUTHORITY TO NEGOTIATE. PHO hereby authorizes
+Manager and appoints Manager as its attorney-in-fact to negotiate within the
+parameters set by PHO and to recommend for PHO's execution, Payor Contracts on
+behalf of PHO, including the details of capitation payment arrangements, in
+accordance with criteria established from time to time by PHO. The negotiation
+of fees with respect to any non-risk contracts that might be sought, shall be
+undertaken strictly in compliance with antitrust precautions. All Payor
+Contracts shall be subject to approval by PHO in accordance with procedures
+established by the governing body of the PHO and this contingency will be
+clearly communicated to Payors by Manager.
+
+         4.2      PAYOR CONTRACT PERFORMANCE. PHO shall provide or arrange for
+Participating Physicians and other Providers to provide to Beneficiaries all of
+the Covered Services under each Payor Contract entered into by Manager on behalf
+of PHO in accordance with the terms of this Agreement, the Participation
+Agreements and such Payor Contract. Manager's responsibilities shall include
+without limitation, payment of provider capitation payments as provided in
+Participation Agreements and prompt payment of clean claims presented to PHO for
+payment by other Providers in accordance with the performance standards in
+Exhibit C.
+
+         4.3      NEGOTIATION OF TERMS. Based on capitation rates and models,
+fee schedules, and other information agreed to by PHO, Manager will enter into
+negotiations with prospective Payors for the provision of Covered Services. If
+the terms of any proposed Payor Contract differ from the scope of Covered
+Services or compensation arrangements specified by PHO or its Participating
+Physicians, Manager will review with the PHO the proposed terms of such
+contract. PHO shall not unreasonably withhold its approval.
+
+         4.4      ADDITIONAL SERVICES. Manager may provide additional managed
+care contracting services to PHO in accordance with terms and subject to
+compensation arrangements agreed to by the parties.
+
+                                   ARTICLE V
+                     AGREEMENTS AND RESPONSIBILITIES OF PHO
+
+         5.1      Licenses and Medical Practice. It shall be the duty of PHO to
+assure that each of PHO's Participating Physicians execute PHO's standard form
+of Participating Physician Agreement attached hereto as Exhibit E, particularly
+in regards to Article III of that agreement regarding medical services and
+responsibilities, and that other PHO Providers execute PHO's standard agreements
+incorporating obligations of such Providers to maintain required licenses and to
+comply with all legal requirements relating to the furnishing of Covered
+Services and other medical services to the public.
+
+
+                                       10
+<PAGE>   11
+
+
+         5.2      MEDICAL PRACTICE. The parties agree that PHO's Participating
+Physicians and other Providers are to retain sole control of their medical
+practices and maintain the physician-patient relationship, both in accordance
+with the best medical judgment and discretion of the Participating Physicians.
+The parties further agree that the Participating Physicians and other Providers
+must remain solely responsible for the quality of medical services provided,
+must render such services in accordance with generally accepted medical practice
+and professionally recognized standards, and must exercise independent medical
+judgment and have full authority over all Covered Services and all clinical
+decisions pertaining to the delivery of Covered Services.
+
+         5.3      UTILIZATION MANAGEMENT, OUTCOMES MEASUREMENT AND QUALITY
+IMPROVEMENT. PHO shall adopt and monitor the implementation of Utilization
+Management, Outcomes Measurement and Quality Improvement Programs designed to
+monitor and evaluate the quality of Covered Services provided by Participating
+Physicians and other Providers and to evaluate the professional skills of
+potential participating providers (including, without limitation, determining
+whether each such provider may provide Covered Services and the scope and
+conditions of such privileges) prior to permitting such persons to provide
+Covered Services. Manager shall provide administrative services to PHO in
+performing these programs.
+
+         5.4      ACCESS. At all times during the term of this Agreement, PHO
+shall permit Manager to have access to all of PHO's books, records and reports,
+contracts, agreements, licenses, survey, accreditations and any and all other
+information reasonably requested by Manager to perform its duties under this
+Agreement.
+
+         5.5      DELIVERY OF RECEIPTS. In the event PHO receives any funds due
+PHO pursuant to a Payor Contract, PHO shall immediately deliver such funds to
+Manager for deposit to the proper PHO bank account and for use on behalf of PHO
+by Manager.
+
+                                   ARTICLE VI
+                         INSURANCE AND INDEMNIFICATION
+
+         6.1      INSURANCE.
+
+                  (a)      Participating Physician Insurance Coverage. It shall
+be the duty of PHO to implement policies and procedures to assure that each
+Participating Physician and Provider has obtained and continues to maintain
+throughout the term of this Agreement, at such Physician's or Provider's cost
+and expense, a policy of general liability insurance with such coverages and
+with such limits as shall be mutually satisfactory to PHO and Manager. In
+addition, PHO shall cause each Participating Physician and other Provider to
+carry professional liability insurance with limits of at least one million
+dollars ($1,000,000) per occurrence and at least three million dollars
+($3,000,000) in the annual aggregate or, if greater, such amounts as are
+required by the Payor Contracts. Upon request of Manager, PHO agrees to provide
+to Manager appropriate certificates or other evidence of such general and
+professional liability insurance coverages. Through its agreements with
+Participating Physicians, PHO shall require that for a period of four years
+after termination of such
+
+
+                                       11
+<PAGE>   12
+
+
+agreements, any Physician whose professional liability insurance coverage is
+through a claims made policy shall either purchase tail coverage for such period
+or else remain in the practice of medicine and be covered by a claims made
+policy with limits equal to or greater than those set forth above.
+
+                  (b)      PHO Insurance. PHO shall purchase managed healthcare
+professional liability insurance in an amount appropriate to the liability risk
+assumed by PHO, with limits of at least $1,000,000 per occurrence and
+$3,000,000 in the annual aggregate.
+
+                  (c)      Manager Insurance. Manager shall, at its cost,
+purchase errors and omissions liability insurance in an amount appropriate to
+the liability risk assumed by Manager and its Affiliates, with limits of at
+least $5,000,000 in the annual aggregate.
+
+         6.2      RECORDS. PHO shall maintain records and procedures as may be
+required to account accurately for all Covered Services and other medical
+services provided pursuant to this Agreement. Such records shall be kept in
+accordance with generally accepted accounting principles, consistently applied,
+and recognized standards of professional practice.
+
+         6.3      INDEMNIFICATION.
+
+                  (a)      PHO Indemnification. PHO shall indemnify, hold
+harmless and defend Manager, its officers, directors, employees, agents,
+successors and assigns, from and against any liability, loss, damage, claim,
+cause of action, cost or expense, including reasonable attorneys' fees, caused
+or asserted to have been caused, directly or indirectly, by or as a result of
+the performance of Covered Services or other medical services or any other acts
+or omissions by PHO or its Participating Physicians or other Providers during
+the term hereof.
+
+                  (b)      Manager Indemnification. Manager shall indemnify,
+hold harmless and defend PHO, its officers, directors, employees, agents,
+successors and assigns, from and against any liability, loss, damage, claim,
+cause of action, cost or expense, including reasonable attorneys' fees, caused
+or asserted to have been caused, directly or indirectly, by or as a result of
+the performance of its duties and responsibilities hereunder or other
+administrative services contemplated herein or any other acts or omissions by
+Manager or its Subcontractor during the term hereof.
+
+
+                                       12
+<PAGE>   13
+
+                                  ARTICLE VII
+                            COMPENSATION TO MANAGER
+
+         7.1      BASIS OF SERVICE FEE. PHO and Manager mutually recognize and
+acknowledge that Manager will incur substantial costs on behalf of PHO, defined
+herein as Manager Expenses, in providing support services, personnel,
+management, administration and other items and services that are the subject
+matter of this Agreement and in connection with the creation and use of systems
+and administrative programs. PHO and Manager further recognize that certain of
+such costs and expenses can vary to a considerable degree. Furthermore, PHO and
+Manager agree that it will be impracticable to ascertain and segregate the exact
+costs and expenses that will be incurred by Manager from time to time in
+performance of its obligations under this Agreement. Therefore the parties agree
+to the following fee arrangement.
+
+         7.2      SERVICES FEES
+
+                  (a)      Fixed Component Service Fee. PHO shall pay Manager
+the service fees set forth in Exhibit D, which per member per month fees shall
+vary by character of the Payor Contracts managed (whether commercial, Medicaid
+or Medicare), the volume of enrollees, and whether hospital full risk funds are
+also managed.
+
+                  (b)      Incentive Fee. From time to time the PHO is expected
+to accumulate an PHO Surplus. When Manager and PHO mutually determine, on a
+quarterly basis, that sufficient funds are available to met PHO contingencies
+and cash flow needs, it may distribute sixty five percent (65%) of such PHO
+Surplus to PHO with the understanding that fifteen percent (15%) of such amount
+will be paid to PHO's key participant group pursuant to Manager's
+recommendations as to distributions to key physicians and consistent with PHO's
+Key Participant Group Compensation Plan. Manager will receive twenty percent
+(20%) as the incentive component of its service fee. PHO owner shall receive the
+remaining fifteen percent (15%) of earnings to be distributed as determined by
+the PHO at its sole discretion.
+
+         7.3      PHO EXPENSES. PHO shall be responsible for bearing the cost
+of the items identified as PHO Expenses, and Manager shall have no liability
+therefor. PHO expenses shall be excluded from calculation of Surplus for
+determination of Manager's incentive share.
+
+         7.4      MANAGER EXPENSES. Manager shall be responsible for bearing the
+cost of the items identified as Manager Expenses, and PHO shall have no
+liability therefor.
+
+         7.5      MANAGER'S COMPENSATION FOR NON-RISK CONTRACTS. In the event
+PHO engages Manager to render management and administrative services in
+connection with non-risk/noncapitated contracts, the fee the Manager will charge
+to PHO for such services shall not exceed the Manager's actual cost of rendering
+the services. Fees for non-risk contracts are described in Exhibit D. Fees will
+be subject to annual review of costs and determination of Manager's ability to
+provide the scope of services required by PHO. Incentive revenues and other
+earnings in excess of these fees shall not be used to determine surplus for the
+purposes of calculating Manager's incentive compensation.
+
+
+                                       13
+<PAGE>   14
+
+
+                                  ARTICLE VIII
+                              TERM AND TERMINATION
+
+         8.1      TERM OF AGREEMENT. This Agreement shall commence on the date
+first set forth above, and shall expire on the third (3rd) anniversary of such
+date unless extended or earlier terminated pursuant to the terms hereof.
+
+         8.2      EXTENDED TERM. Unless earlier terminated as provided for in
+this Agreement, the term of this Agreement shall be extended automatically for
+up to two (2) additional terms of two (2) years each, unless either party
+delivers to the other party, not less than twelve (12) months prior to the
+expiration of the then current term, written notice of such party's intention
+not to extend the term of this Agreement.
+
+         8.3      BANKRUPTCY AND INSOLVENCY. This Agreement shall terminate, at
+the option of the other party, upon the filing of a petition in voluntary
+bankruptcy or an assignment for the benefit of creditors by a party, or upon
+other action taken or suffered, voluntarily or involuntarily, under any federal
+or state law for the benefit of insolvency by a party, except for the filing of
+a petition in involuntary bankruptcy against a party with the dismissal thereof
+within thirty (30) days thereafter.
+
+         8.4      FAILURE OF PERFORMANCE. If Manager substantially fails to
+perform any material duty or obligation imposed upon it by this Agreement (as
+set forth on Exhibit C) and such default shall continue for a period of thirty
+(30) days after written notice thereof specifying the nature of the default has
+been given to Manager by PHO, PHO may terminate this Agreement upon sixty (60)
+days prior written notice and seek relief or any other damages caused by
+Manager. If PHO shall fail to perform any material duty or obligation imposed
+upon it by this Agreement, and such default shall continue for a period of sixty
+(60) days after written notice thereof specifying the nature of the default has
+been given to PHO by Manager, Manager may terminate this Agreement upon sixty
+(60) days prior written notice and seek relief or any other damages caused by
+PHO. If Manager is notified of default and subsequently cures the breach on more
+than three (3) occasions in any twelve (12) month period, PHO may consider such
+as a material failure to perform and may terminate this agreement within sixty
+(60) days prior written notice and seek relief or other damages caused by PHO.
+
+         8.5      TERMINATION BY AGREEMENT. In the event PHO and Manager shall
+mutually agree in writing, this Agreement may be terminated on the date
+specified in such written agreement.
+
+         8.6      EFFECT OF TERMINATION. Upon termination of this Agreement,
+neither party shall have any further obligations hereunder, except for (i)
+obligations accruing prior to the effective date of termination, and (ii)
+obligations, promises or covenants set forth herein that are expressly made to
+survive termination of this Agreement.
+
+
+                                       14
+<PAGE>   15
+
+
+                                   ARTICLE IX
+                               GENERAL PROVISIONS
+
+         9.1      NON-SOLICITATION. PHO agrees that for the term of this
+Agreement or in the event of termination, for a period of one (1) year
+thereafter, it shall not directly or indirectly hire or solicit, or attempt to
+hire or solicit, an employee of Manager or its assignees or successors, or
+request or induce, or attempt to request or induce, a then employee of Manager
+or its assignees or successors, to terminate his or her employment and accept
+employment with another entity. Notwithstanding the foregoing, the PHO shall not
+be restricted from hiring any persons who were employees of the PHO prior to the
+date hereof who have not subsequently entered into an agreement for employment
+with Manager, PhyCor or any of its affiliates.
+
+         9.2      OWNERSHIP OF SYSTEMS AND INFORMATION. PHO hereby acknowledges
+that the management information system to be used by Manager or its assignees in
+the performance of the obligations hereunder is and shall remain the exclusive
+property of Manager or its assignees. Other than the medical records, which
+shall remain at all times the property of the Participating Physicians and any
+raw data and reports attributable to PHO Beneficiaries, all records, files,
+memoranda, outcomes data and all information and prepared by Manager or its
+assignees in the performance of its obligations hereunder, shall be and remain
+the property of Manager and PHO. Upon termination of this Agreement, PHO shall
+promptly return to Manager or its assignees, all such materials in its
+possession and shall not thereafter remove or cause removal thereof from the
+premises of Manager or its assignees.
+
+         9.3      ASSIGNMENT. Manager shall have the right to assign its rights
+and obligations hereunder to any affiliate of Manager and Manager may contract
+with other entities in order to meet any and all of its obligations under this
+Agreement. Manager shall have the right to assign its rights hereunder to any
+lending institution, for security purposes or as collateral, from which Manager
+obtains financing. Notwithstanding, Manager shall not have the right to assign
+this Agreement to any company whose principal line of business is hospital
+management or the business of insurance without the prior written consent of
+PHO, which shall not be unreasonably withheld. PHO shall have the right to
+assign its rights or obligations hereunder to any affiliate of PHO so long as
+affiliate is not engaged in the business of insurance or in practice management,
+PHO and IPA management or other business which creates a conflict of interest
+with Manager. Any other assignment shall be without the written consent of
+Manager which consent will not be unreasonably withheld.
+
+         9.4      WHOLE AGREEMENT; MODIFICATION. This Agreement constitutes the
+entire agreement of the parties with respect to the subject matter hereof and
+supersedes all prior agreements between the parties. There are no other
+agreements or understandings, written or oral, between the parties regarding
+this Agreement other than as set forth herein. This Agreement shall not be
+modified or amended except by a written document executed by both parties to
+this Agreement, and such written modifications shall be attached hereto.
+
+         9.5      NOTICES. All notices required or permitted by this Agreement
+shall be in writing and shall be addressed as follows:
+
+
+                                       15
+<PAGE>   16
+
+
+TO PHO:                             HEALTH OPTIONS ILLINOIS, INC.
+
+                                    James P. McNichols, VP/CFO
+                                    -------------------------------------------
+                                    1324 N. Sheridan Rd.
+                                    -------------------------------------------
+                                    Warkegan, IL 60085
+                                    -------------------------------------------
+                                    Attn: President
+
+
+TO MANAGER:                         NORTH AMERICAN MEDICAL MANAGEMENT-ILLINOIS,
+                                    INC.
+                                    188 Industrial Drive, Suite 428
+                                    Elmhurst, Illinois 60126
+                                    Attn: Executive Director
+
+WITH A COPY TO:                     NORTH AMERICAN MEDICAL MANAGEMENT, INC.
+                                    30 Burton Hills Boulevard
+                                    Suite 400
+                                    Nashville, TN 37215
+                                    Attn: General Counsel
+
+or to such other address as either party shall notify the other in writing.
+
+         9.6      BINDING ON SUCCESSORS. This Agreement shall be binding upon
+the parties hereto, and their respective successors and assigns, if any. It is
+not the intention of PHO or Manager that Payors or Beneficiaries shall be third
+party beneficiaries of the obligations of either party to this Agreement, and no
+such Payors and Beneficiaries shall have the right to enforce any such
+obligations.
+
+         9.7      WAIVER OF PROVISIONS. Any waiver of any terms and conditions
+hereof must be in writing, and signed by the parties hereto. The waiver of any
+of the terms and conditions of this Agreement shall not be construed as a waiver
+of any subsequent breach of the same or any other terms and conditions hereof.
+
+         9.8      GOVERNING LAW. The validity, interpretation and performance of
+this Agreement shall be governed by and construed in accordance with the laws of
+the State of Illinois. The parties acknowledge that Manager is not authorized or
+qualified to engage in any activity which may be construed or deemed to
+constitute the practice of medicine. To the extent any act or service required
+of Manager in this Agreement should be construed or deemed, by any governmental
+authority, agency or court to constitute the practice of medicine, the
+performance of said act or service by Manager shall be deemed waived and forever
+unenforceable.
+
+         9.9      SEVERABILITY. The provisions of this Agreement shall be deemed
+severable, and if any portion shall be held invalid, illegal or unenforceable
+for any reason, the remainder of this Agreement shall be effective and binding
+upon the parties provided that the substance of the economic relationship
+created by this Agreement remains materially unchanged.
+
+
+                                       16
+<PAGE>   17
+
+
+         9.10     ADDITIONAL DOCUMENTS. Each of the parties hereto agrees to
+execute any document or documents that may be requested from time to time by the
+other party to implement or complete such party's obligations pursuant to this
+Agreement.
+
+         9.11     ATTORNEYS' FEES. If legal action is commenced by either party
+to enforce or defend its rights under this Agreement, the prevailing party in
+such action shall be entitled to recover its costs and reasonable attorneys'
+fees in addition to any other relief granted.
+
+         9.12     CONFIDENTIALITY. Except for disclosure to its attorneys,
+bankers, underwriters or lenders, or as necessary or desirable for the conduct
+of business, including negotiations with acquisition candidates, neither party
+hereto shall disseminate or release to any third party or use for the benefit of
+any person or entity, any information regarding any provision of this Agreement,
+or any financial information regarding the other (past, present or future) that
+was obtained by the other in the course of the negotiations of this Agreement or
+in the course of the performance of this Agreement without the other party's
+written approval. Provided, however, the foregoing shall not apply to
+information which (i) is generally available to the public other than as a
+result of a breach of confidentiality provisions; (ii) becomes available on a
+non-confidential basis from a source other than the other party or its
+affiliates or agents, which source was not itself bound by a confidentiality
+agreement, or (iii) which is required to be disclosed by law or pursuant to
+court order.
+
+         9.13     CONTRACT MODIFICATIONS FOR PROSPECTIVE LEGAL EVENTS. In the
+event that any state or federal laws or regulations, now existing or enacted or
+promulgated after the effective date of this Agreement, are interpreted by
+judicial decision, a regulatory agency, or legal counsel expert in such matters
+in a manner that indicates that the structure of this Agreement may be in
+violation of such laws or regulations, PHO and Manager shall amend this
+Agreement as necessary to assure compliance with legal requirements. To the
+maximum extent possible, any such amendment shall preserve the underlying
+economic and financial arrangements between PHO and Manager.
+
+         9.14     REMEDIES CUMULATIVE. No remedy set forth in this Agreement or
+otherwise conferred upon or reserved to any party shall be considered exclusive
+of any other remedy available to any party, but the same shall be distinct,
+separate and cumulative and may be exercised from time to time as often as
+occasion may arise or as may be deemed expedient.
+
+         9.15     COMMUNICATIONS. PHO and Manager agree that good communication
+between the parties is essential to the successful performance of this
+Agreement, and each pledges to communicate fully and clearly with the other and
+to cooperate in the provision of the services to be provided hereunder. Further,
+the parties hereto agree to deal with each other in good faith.
+
+         9.16     INDEPENDENT RELATIONSHIP. It is mutually understood and agreed
+that PHO and Manager, in performing their respective duties and obligations
+under this Agreement, are at all times acting and performing as independent
+contractors with respect to each other, and nothing in this Agreement is
+intended and nothing shall be construed to create an employer/employee,
+partnership or joint venture relationship, or to allow Manager to exercise
+control or direction over the manner or method by which the Participating
+Physicians perform Covered Services or other professional health care services.
+Manager shall be the agent of PHO solely to perform Manager's obligations
+
+
+                                       17
+<PAGE>   18
+
+set forth in this Agreement that are related to the management of PHO's business
+and not with respect to provision of Covered Services.
+
+         9.17     EVENTS EXCUSING PERFORMANCE. Manager and PHO shall not be
+liable to the other party for failure to perform any of the services required
+herein in the event of strikes, lock-outs, calamities or acts of God for so long
+as such events continue, and for a reasonable period of time thereafter.
+
+         IN WITNESS WHEREOF, this Agreement is entered into and executed as of
+the date first written above.
+
+                                    PHO:
+
+                                    HEALTH OPTIONS ILLINOIS, INC.
+
+
+                                    By: /s/ James McNichols
+                                       ----------------------------------------
+                                            James McNichols
+                                       ----------------------------------------
+                                             Printed Name
+
+                                    Title: Secretary
+                                          -------------------------------------
+
+                                    MANAGER:
+
+                                    NORTH AMERICAN MEDICAL MANAGEMENT-
+                                    ILLINOIS, INC.
+
+
+                                    By: /s/ Howard Hamilton
+                                       ----------------------------------------
+                                            Howard Hamilton
+                                       ----------------------------------------
+                                             Printed Name
+
+                                    Title: President
+                                          -------------------------------------
+
+
+                                       18
+</TEXT>
+</DOCUMENT>

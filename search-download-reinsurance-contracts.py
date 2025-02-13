@@ -1,7 +1,6 @@
 # Configure Search Parameters
 
 import os
-import json
 import nest_asyncio
 import asyncio
 import aiohttp
@@ -145,7 +144,7 @@ def process_year(api, year):
 
 def main():
     api = load_config()
-    for year in range(2008, 2010):
+    for year in range(2011, 2025):
         print(f"Processing year: {year}")
         df = process_year(api, year)
         print("-" * 40)

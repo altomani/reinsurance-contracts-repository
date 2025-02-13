@@ -1,0 +1,393 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>y52230ex10-1.txt
+<DESCRIPTION>AMENDED SCHEDULE I
+<TEXT>
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+
+                                   SCHEDULE I
+
+                          INVESTMENT POLICY GUIDELINE(1)
+
+I.   PORTFOLIO
+
+     1.   The Client is IPCRE LIMITED (formerly International Property
+          Catastrophe Reinsurance Company Ltd.)
+
+          The invested portfolio is comprised of the assets held within the
+          following accounts:
+
+          (i)    AGM PROP      Invests primarily in US Dollar High-Grade Fixed
+                               Income Securities
+
+          (ii)   AGM PROM      Invests primarily in Money Market Instruments in
+                               various currencies as directed by the client from
+                               time to time.
+
+          (iii)  AGM PREP US   Invests in US Equities only
+
+          (iv)   AGM PREP GE   Invests in Global Equities
+
+          hereinafter collectively referred to as "the Portfolio".
+
+          a.   The Portfolio represents capital for solvency purposes of the
+               Client.
+
+          b.   The primary objective of the Portfolio is preservation of
+               capital. A secondary objective is returns commensurate with the
+               Benchmarks as hereinafter defined.
+
+     2.   The Portfolio is to be invested only in the asset class(es) detailed
+          below; together with all subsequent additions thereto of which the
+          Company is given notice, and all other property acquired therefrom,
+          proceeds therefrom, or in substitution therefor, less authorized
+          payment by the Custodian.
+
+<TABLE>
+<CAPTION>
+                             Asset Class                   Min %    Max %
+                 --------------------------------------------------------
+<S>                   <C>                                  <C>      <C>
+                 [X]  Fixed Income Securities                 0      100
+                                                           -----    -----
+                 [X]  Money Market Instruments                0      100
+                                                           -----    -----
+                 [X]  Equity Securities                       0       20
+                                                           -----    -----
+                 [ ]  Convertible Bonds
+                                                           -----    -----
+                 [ ]  Equity Derivatives
+                                                           -----    -----
+                 [ ]  Financial Derivatives
+                                                           -----    -----
+                 [X]  Foreign Exchange Contracts              0       20
+                                                           -----    -----
+                 [ ]  Foreign Exchange Derivatives
+                                                           -----    -----
+                 [X]  Money Market Funds                      0      100
+                                                           -----    -----
+                 [X]  Repurchase Agreements                   0      100
+                                                           -----    -----
+                 [ ]
+                                                           -----    -----
+                 [ ]
+                                                           -----    -----
+</TABLE>
+
+          Other asset classes shall not be permitted without the express written
+          approval of the Client.
+
+                 [ ] Additional detail is attached as Asset Class Schedule.
+
+          a.   The Portfolio shall be denominated in US DOLLARS, hereinafter
+               referred to as the Base Currency.
+
+     3.   Counterparty Risk
+
+          a.   Wherever possible, all securities transactions shall be executed
+               "delivery versus payment."
+
+          b.   All securities transactions shall be executed with commercial
+               banks, investment banks, brokers and trading firms
+               ("Counterparties") of recognized standing in the financial
+               markets.
+
+          c.   To the extent that OTC Options and other derivatives, Foreign
+               Exchange Contracts and Repurchase Agreements are permitted in
+               Section I.2, they shall be executed with Counterparties of
+               recognized standing in the financial markets. Further, such
+               Counterparties shall carry Investment Grade Ratings, as defined
+               by Moody's or Standard & Poor's.
+
+
+
+                                      -15-
+<PAGE>   2
+II.  BENCHMARK
+
+     The Portfolio performance shall be measured with regard to the following
+     composite index which shall be considered the base asset allocation of the
+     Client:
+
+<TABLE>
+<S>                                                                       <C>
+            Salomon Smith Barney Eurodollar Bonds 1-3 year AAA/AA Index     42.5
+                                                                          ------
+            Salomon Smith Barney Eurodollar Bonds 3-5 year AAA/AA Index     42.5
+                                                                          ------
+            US S & P 500 Index                                               7.5
+                                                                          ------
+            MSCI World All Countries Free Daily Total Return Net (USD)       7.5
+                                                                          ------
+</TABLE>
+
+III. CUSTODIAN
+
+     1.   The main Custodian is AIG GLOBAL INVESTMENT TRUST SERVICES, LTD.,
+          although additional Custodian accounts may be opened with the approval
+          of the Client.
+
+IV.  GENERAL FIXED INCOME GUIDELINES
+
+     1.   Currency
+
+          The Fixed Income Portfolio is a  [ ] Single Currency Account
+                                           [ ] Hedged Currency Account
+                                           [X] Multi-Currency Account
+                                                         as hereinafter defined.
+
+          a.   A Single Currency Account shall be invested 100% in the Base
+               Currency as defined in Section I.2.a. Securities denominated in
+               or linked to other currencies are permitted only at the direction
+               of the Client.
+
+          b.   A Hedged Currency Account shall be invested in securities
+               denominated in or linked to any currency provided, however, that
+               foreign exchange contracts, futures and/or options are executed
+               to reduce the net non-Base Currency exposure to less than 5% of
+               the Portfolio Market Value.
+
+          c.   A Multi-Currency Account shall be invested in securities
+               denominated in or linked to any currency. Whether or not foreign
+               exchange contracts, futures and or options are permitted in
+               Section I.2., the non-Base Currency exposure of the Portfolio
+               shall not exceed 20.0% of the Portfolio Market Value. The net
+               non-Base Currency exposure shall not exceed 20.0 % of the
+               Portfolio Market Value
+
+               Unless permitted in Section I.2., Foreign Exchange Contracts
+               shall not be executed for a Multi-Currency Account except for the
+               acquisition or disposition of securities or for the conversion of
+               coupon/dividend receipts to the Portfolio Base Currency; no
+               hedging or speculative currency transactions are permitted.
+
+     2.   Country Risk
+
+          The Portfolio is a [X] Diversified Country Risk Account
+                             [ ] Targeted Country Risk Account
+                                                         as hereinafter defined.
+
+          All country limits are percent of Portfolio MARKET Value on date of
+          purchase and refer to the country of issuer or guarantor. In the case
+          of banking institutions, the country of a full branch shall be deemed
+          to be the domicile of the head office. Country exposures shall not
+          exceed the greater of the country limit or U.S. $5,000,000 equivalent
+          at the time of purchase.
+
+          A Diversified Country Risk Account permits the following per country
+          limits.
+
+<TABLE>
+<S>                                                                         <C>
+          a.   United States                                                100%
+
+          b.   Canada                     Switzerland                        75%
+               Germany                    United Kingdom
+               Japan
+
+          c.   EEC, EIB, ECSC, World Bank (IBRD), Other Supranationals       50%
+</TABLE>
+
+
+                                      -16-
+<PAGE>   3
+<TABLE>
+<S>                                                                         <C>
+          d.  Australia    Finland        Luxembourg        Portugal         25%
+              Austria      France         Netherlands       Spain
+              Belgium      Ireland        New Zealand       Sweden
+              Denmark      Italy          Norway
+
+          e.  Other (Total value of all securities not covered
+                 under IV.2.a.-d. above)                                     10%
+</TABLE>
+
+               A Targeted Country Risk Account specifically targets the
+               investment opportunities in one or more particular countries as
+               detailed below:
+
+               ________________________    ___________%
+               ________________________    ___________%
+               ________________________    ___________%
+
+               [ ] Additional detail attached as Country Risk Schedule.
+
+     3.   Issuer Limits
+
+          a.   Except in the case of Supranational, Sovereign, and Sovereign -
+               supported issues, where the limits under IV.2 above apply, the
+               securities of one issuer should not exceed the greater of 10.0%
+               of the Portfolio MARKET Value or U.S. $5,000,000 at time of
+               purchase.
+
+     4.   Issue Limits
+
+          a.   In the case of fixed income securities, no holding should exceed
+               the greater of 10% of the amount outstanding or U.S. $5,000,000
+               nominal at the time of purchase.
+
+     5.   Maturity Limits
+
+          a.   In the case of fixed income securities, no individual security
+               shall have a remaining MODIFIED DURATION greater than EIGHT
+               YEARS.
+
+          b.   In the case of money market securities, no individual security
+               shall have a remaining MATURITY greater than TEN YEARS,
+               notwithstanding the frequency of any rate reset provision of the
+               security.
+
+          c.   The Portfolio shall maintain a target WEIGHTED AVERAGE MODIFIED
+               DURATION of between approximately 1.25 AND 3.75 YEARS. For
+               purposes of this calculation only, the maturity of a floating
+               rate security is deemed to be its next succeeding reset date.
+
+     6.   US Securities
+
+          The purchase of US securities IS permitted.
+
+     7.   Credit Risk
+
+          a.   All securities purchased for the Portfolio which carry a long
+               term rating by either Standard & Poor's or Moody's shall have a
+               rating of AA- or AA3 or better at the time of purchase.
+               Notwithstanding the foregoing, securities may be purchased for
+               the Portfolio which have ratings of A- or A3 or better provided
+               that, in aggregate, they do not constitute more than 25% of the
+               Portfolio MARKET Value. (Securities which are not so rated at the
+               time of intended purchase shall not be permitted except on a case
+               by case approval of the Client.)
+
+               All securities purchased for the Portfolio which carry a short
+               term rating by either Standard & Poor's or Moody's shall have a
+               rating of A-1 or P-1 or better at the time of purchase.
+               Notwithstanding the foregoing, securities may be purchased for
+               the Portfolio which have ratings of A-2 or P-2 or better provided
+               that, in aggregate, they do not constitute more than 25% of the
+               Portfolio MARKET Value. (Securities which are not so rated at the
+               time of intended purchase shall not be permitted except on a case
+               by case approval of the Client.)
+
+          b.   Unrated securities ARE permitted. The unrated securities shall
+               have credit quality at the time of purchase, as determined in
+               good faith by the Company, equivalent to other permitted
+               securities which are rated as in IV.7.a. The Client shall be
+               notified at least quarterly as to the composition and status of
+               the unrated securities held in the Portfolio.
+
+
+
+                                      -17-
+<PAGE>   4
+          c.   A security purchased either in accordance with Section IV.7.a.
+               which receives a downwardly revised rating or in accordance with
+               Section IV.7.b. which receives a newly established rating that in
+               either case would make such security ineligible for further
+               purchase remains a permitted security to the extent of the then
+               current holdings.
+
+          d.   Private placements ARE permitted. Any private placements
+               purchased for the Portfolio shall be marketable securities. This
+               permission is specifically intended to allow the purchase of
+               unlisted securities.
+
+          [ ]  Additional detail is attached as Credit Risk Schedule.
+
+
+     8.   Realized Gains/Losses
+
+          Net realized capital gains and losses should be minimized. (For
+          example: To the extent fixed income assets are permitted, bond switch
+          activity to enhance returns is encouraged, but should not become
+          excessive and should be undertaken within the context of minimizing
+          net gains and losses).
+
+
+V.   GENERAL EQUITY GUIDELINES
+
+     1.   The U.S. Equity portion of the Portfolio seeks to replicate the
+          aggregate price and yield performance of the Standard & Poor's 500
+          Composite Stock Price Index (the "S&P 500 Index"), an index which
+          emphasizes large capitalization companies in the United States.
+
+     2.   The Global Equity portion of the Portfolio seeks to outperform the
+          total return of the MSCI World All Countries TR Free (USD) Index.
+
+
+VI.  FEES
+
+     The fee schedule will be calculated as follows: 0.35% per annum on the
+     first $100 MILLION U.S. dollars, or equivalent of Portfolio MARKET value;
+     0.25 % per annum on the next $100 MILLION; and 0.15 % per annum on any
+     amount exceeding $200 MILLION.
+
+     The fees will be calculated based on the previous month end MARKET value of
+     the portfolio (including accrued interest) and are payable MONTHLY IN
+     ARREARS. The fees shall be reduced proportionally for any part of a period
+     in which this Agreement is not in full effect.
+
+     [ ] Additional detail is attached as Supplementary Fee Schedule
+
+
+
+
+
+
+
+Signed by          /s/ John Weale, Vice President
+          ------------------------------------------------
+                        for and on behalf of
+                            IPCRE LIMITED
+
+
+
+
+
+Signed by:         /s/ Robert Hennessy, Director
+           -----------------------------------------------
+                        for and on behalf of
+            AIG GLOBAL INVESTMENT CORP. (IRELAND) LIMITED
+
+
+
+                                      -18-
+<PAGE>   5
+                                   SCHEDULE II
+
+                               AUTHORIZED PERSONS
+
+     Name(s) and address(es) of persons authorized to give and receive notices,
+     consents or other communications.
+
+     Name                             Address
+     ----                             -------
+     Robert Hennessy                  AIG Global Investment Corp. (Ireland) Ltd.
+     Orla O'Grady Walshe              AIG Centre
+                                      IFSC
+                                      North Wall Quay
+                                      Dublin 1
+                                      Ireland
+
+                                      PHN: 353-1-672-0222
+                                      FAX: 353-1-672-0267
+                                      TLX: 91965
+
+
+     Name                             Address
+     ----                             -------
+     John R. Weale                    IPCRe Limited
+     Dennis J. Higginbottom           P.O. Box HM 152
+     James P. Bryce                   Hamilton HM AX
+                                      Bermuda
+
+                                      PHN: 441-298-5100
+                                      FAX: 441-292-8085
+
+
+
+                                      -19-
+
+</TEXT>
+</DOCUMENT>

@@ -84,7 +84,7 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
             model=model_name,
             messages=[{"role": "user", "content": prompt}],
             temperature=0,
-            store=True
+            # store=True  # Uncomment to store the conversation in OpenAI for debugging and evaluations
         )
         message = response.choices[0].message.content
         answers = re.findall(r"<answer>(.*?)</answer>", message, re.DOTALL)
@@ -95,7 +95,7 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
         return {"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}
 
 def main():
-    for year in range(2005, 2006):
+    for year in range(2006, 2008):
         print(f"\nProcessing year: {year}")
         index_path = os.path.join(INDEX_DOWNLOAD_DIR, f"index-{year}.csv")
         if not os.path.exists(index_path):

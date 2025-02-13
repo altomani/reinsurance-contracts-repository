@@ -1,0 +1,3734 @@
+<DOCUMENT>
+<TYPE>EX-10.38
+<SEQUENCE>5
+<FILENAME>d86408ex10-38.txt
+<DESCRIPTION>CREDIT AGREEMENT DATED 5/4/01
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT 10.38
+
+                                                               [CONFORMED COPY]
+--------------------------------------------------------------------------------
+
+
+                                 $4,000,000,000
+
+                                     364-DAY
+
+                                CREDIT AGREEMENT
+
+                                   dated as of
+
+                                   May 4, 2001
+
+                                      among
+
+                           Qwest Capital Funding, Inc.
+                                Qwest Corporation
+                     Qwest Communications International Inc.
+
+                             The Banks Listed Herein
+
+                                       and
+
+                             Bank of America, N.A.,
+                             as Administrative Agent
+
+
+--------------------------------------------------------------------------------
+
+
+                 Banc of America Securities LLC and JPMorgan, a
+                       division of Chase Securities Inc.,
+                              Joint Lead Arrangers
+                              and Joint Bookrunners
+
+                          Salomon Smith Barney Inc. and
+                                 Commerzbank AG,
+                                  Co-Arrangers
+
+                            The Chase Manhattan Bank
+                                Syndication Agent
+
+                               Citibank, N.A., and
+                                 Commerzbank AG,
+                             Co-Documentation Agents
+
+
+
+
+<PAGE>   2
+
+
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                                             PAGE
+                                                                                             ----
+
+                                    ARTICLE 1
+                                   DEFINITIONS
+
+<S>     <C>                                                                                 <C>
+SECTION 1.01.  The Definitions..................................................................1
+SECTION 1.02.  Accounting Terms and Determinations.............................................12
+SECTION 1.03.  Types of Borrowings.............................................................12
+
+                                    ARTICLE 2
+                                   THE CREDITS
+
+SECTION 2.01.  Commitments to Lend.............................................................13
+SECTION 2.02.  Notice of Committed Borrowing...................................................15
+SECTION 2.03.  Money Market Borrowings.........................................................15
+SECTION 2.04.  Notice to Banks; Funding of Loans...............................................19
+SECTION 2.05.  Notes...........................................................................20
+SECTION 2.06.  Maturity of Loans...............................................................21
+SECTION 2.07.  Interest Rates..................................................................21
+SECTION 2.08.  Facility Fees...................................................................23
+SECTION 2.09.  Termination or Reduction of Commitments.........................................24
+SECTION 2.10.  Method of Electing Interest Rates...............................................24
+SECTION 2.11.  Prepayments.....................................................................25
+SECTION 2.12.  General Provisions as to Payments...............................................26
+SECTION 2.13.  Funding Losses..................................................................27
+SECTION 2.14.  Computation of Interest and Fees................................................27
+SECTION 2.15.  Change of Control...............................................................27
+
+                                    ARTICLE 3
+                                   CONDITIONS
+
+SECTION 3.01.  Closing.........................................................................28
+SECTION 3.02.  All Borrowings..................................................................29
+
+                                    ARTICLE 4
+                         REPRESENTATIONS AND WARRANTIES
+
+SECTION 4.01.  Corporate Existence and Power...................................................30
+SECTION 4.02.  Corporate and Governmental Authorization; No
+         Contravention.........................................................................30
+SECTION 4.03.  Binding Effect..................................................................30
+SECTION 4.04.  Financial Information...........................................................30
+SECTION 4.05.  Litigation......................................................................31
+</TABLE>
+
+
+                                        i
+
+<PAGE>   3
+
+
+<TABLE>
+<CAPTION>
+                                                                                             PAGE
+                                                                                             ----
+<S>     <C>                                                                                  <C>
+SECTION 4.06.  Compliance with ERISA...........................................................31
+SECTION 4.07.  Environmental Matters...........................................................31
+SECTION 4.08.  Taxes...........................................................................32
+SECTION 4.09.  Subsidiaries....................................................................32
+SECTION 4.10.  Not an Investment Company.......................................................32
+SECTION 4.11.  Full Disclosure.................................................................32
+
+                                    ARTICLE 5
+                                    COVENANTS
+
+SECTION 5.01.  Information.....................................................................33
+SECTION 5.02.  Maintenance of Property; Insurance..............................................35
+SECTION 5.03.  Maintenance of Existence........................................................35
+SECTION 5.04.  Compliance with Laws............................................................35
+SECTION 5.05.  Inspection of Property, Books and Records.......................................36
+SECTION 5.06.  Debt Coverage...................................................................36
+SECTION 5.07.  Negative Pledge.................................................................36
+SECTION 5.08.  Consolidations, Mergers and Sales of Assets.....................................37
+SECTION 5.09.  Use of Proceeds.................................................................37
+
+                                    ARTICLE 6
+                                    DEFAULTS
+
+SECTION 6.01.  Events of Default...............................................................37
+SECTION 6.02.  Notice of Default...............................................................40
+
+                                    ARTICLE 7
+                                    THE AGENT
+
+SECTION 7.01.  Appointment and Authorization...................................................40
+SECTION 7.02.  Agent and Affiliates............................................................40
+SECTION 7.03.  Action by Agent.................................................................41
+SECTION 7.04.  Consultation with Experts.......................................................41
+SECTION 7.05.  Delegation of Duties............................................................41
+SECTION 7.06.  Liability of Agent..............................................................41
+SECTION 7.07.  Indemnification.................................................................42
+SECTION 7.08.  Credit Decision; Disclosure of Information by Agent.............................42
+SECTION 7.09.  Successor Agent.................................................................42
+SECTION 7.10.  Agent's Fee.....................................................................43
+</TABLE>
+
+
+                                       ii
+
+<PAGE>   4
+
+
+<TABLE>
+<CAPTION>
+                                                                                             PAGE
+                                                                                             ----
+
+                                    ARTICLE 8
+                            CHANGES IN CIRCUMSTANCES
+
+<S>     <C>                                                                                 <C>
+SECTION 8.01.  Basis for Determining Interest Rate Inadequate or Unfair........................43
+SECTION 8.02.  Illegality......................................................................44
+SECTION 8.03.  Increased Cost and Reduced Return...............................................44
+SECTION 8.04.  Taxes...........................................................................46
+SECTION 8.05.  Domestic Loans Substituted for Affected Euro-Dollar
+         Loans.................................................................................48
+SECTION 8.06.  Substitution of Bank............................................................48
+
+                                    ARTICLE 9
+                                    GUARANTY
+
+SECTION 9.01.  The Guaranty....................................................................48
+SECTION 9.02.  Guaranty Unconditional..........................................................49
+SECTION 9.03.  Discharge Only upon Payment in Full; Reinstatement In
+         Certain Circumstances.................................................................50
+SECTION 9.04.  Waiver by the Company...........................................................50
+SECTION 9.05.  Subrogation.....................................................................50
+SECTION 9.06.  Stay of Acceleration............................................................50
+
+                                   ARTICLE 10
+                                  MISCELLANEOUS
+
+SECTION 10.01.  Notices........................................................................50
+SECTION 10.02.  No Waivers.....................................................................51
+SECTION 10.03.  Expenses; Indemnification......................................................51
+SECTION 10.04.  Sharing of Set-offs............................................................52
+SECTION 10.05.  Amendments and Waivers.........................................................52
+SECTION 10.06.  Successors and Assigns.........................................................53
+SECTION 10.07.  Termination of Existing Credit Agreement.......................................55
+SECTION 10.08.  Governing Law; Submission to Jurisdiction......................................56
+SECTION 10.09.  Counterparts; Integration; Effectiveness.......................................56
+SECTION 10.10.  WAIVER OF JURY TRIAL...........................................................56
+SECTION 10.11.  Confidentiality................................................................56
+SECTION 10.12.  No Reliance on Margin Stock....................................................57
+SECTION 10.13.  Syndication and Co-Documentation Agents........................................57
+</TABLE>
+
+
+                                       iii
+
+<PAGE>   5
+
+
+
+Pricing Schedule
+
+Schedule 4.05  -  Litigation
+
+Schedule 4.07  -  Environmental Matters
+
+Exhibit A -  Note
+
+Exhibit B -  Money Market Quote Request
+
+Exhibit C -  Invitation for Money Market Quotes
+
+Exhibit D -  Money Market Quote
+
+Exhibit E -  Opinions of Counsel for the Company and the Borrowers
+
+Exhibit F -  Opinion of Special Counsel for the Administrative Agent
+
+Exhibit G -  Assignment and Assumption Agreement
+
+Exhibit H -  Extension Agreement
+
+Exhibit I -  Notice of Borrowing
+
+
+
+                                       iv
+
+<PAGE>   6
+
+
+
+
+                                CREDIT AGREEMENT
+
+
+         AGREEMENT dated as of May 4, 2001 among QWEST CAPITAL FUNDING, INC.,
+QWEST CORPORATION, QWEST COMMUNICATIONS INTERNATIONAL INC., the BANKS listed on
+the signature pages hereof and BANK OF AMERICA, N.A., as Administrative Agent.
+
+         The parties hereto agree as follows:
+
+
+
+                                    ARTICLE 1
+                                   DEFINITIONS
+
+         SECTION 1.01. The Definitions.
+
+         The following terms, as used herein, have the following meanings:
+
+         "Absolute Rate Auction" means a solicitation of Money Market Quotes
+setting forth Money Market Absolute Rates pursuant to Section 2.03.
+
+         "Adjusted London Interbank Offered Rate" has the meaning set forth in
+Section 2.07.
+
+         "Administrative Questionnaire" means, with respect to each Bank, an
+administrative questionnaire in the form prepared by the Agent and submitted to
+the Agent (with a copy to the Company) duly completed by such Bank.
+
+         "Agent" means Bank of America, N.A., in its capacity as administrative
+agent for the Banks hereunder, and its successors in such capacity.
+
+         "Applicable Lending Office" means, with respect to any Bank, (i) in the
+case of its Domestic Loans, its Domestic Lending Office, (ii) in the case of its
+Euro-Dollar Loans, its Euro-Dollar Lending Office and (iii) in the case of its
+Money Market Loans, its Money Market Lending Office.
+
+         "Assignee" has the meaning set forth in Section 10.06(c).
+
+         "Available Amount" means:
+
+
+
+
+                                        1
+
+<PAGE>   7
+
+
+
+                           (i) with respect to Capital Funding, $3,000,000,000
+                  plus or minus the aggregate amount by which the Available
+                  Amount for Capital Funding has been increased pursuant to
+                  Section 2.01(c) or reduced pursuant to Section 2.09, and plus
+                  or minus the Net Designated Amount; and
+
+                           (ii) with respect to Corp., $1,000,000,000 plus or
+                  minus the aggregate amount by which the Available Amount for
+                  Corp. has been increased pursuant to Section 2.01(c) or
+                  reduced pursuant to Section 2.09, and minus or plus the Net
+                  Designated Amount.
+
+         For purposes of this definition and the Pricing Schedule, "Net
+Designated Amount" means an amount equal to (I) the sum of the amounts
+designated for transfer from Corp. to Capital Funding, less (II) the sum of the
+amounts designated for transfer from Capital Funding to Corp. If the Net
+Designated Amount is positive, its absolute value will be added to the Available
+Amount for Capital Funding and subtracted from the Available Amount for Corp. If
+the Net Designated Amount is negative, its absolute value will be subtracted
+from the Available Amount for Capital Funding and added to the Available Amount
+for Corp. Each designation of an amount for transfer shall be in a form of a
+notice from the Company to the Agent and the Banks, which notice must state that
+it is a "Designated Amount Notice", identify the transferor and transferee and
+designate an amount of at least $100,000,000.
+
+         "Bank" means each lender listed on the signature pages hereof, each
+Assignee which becomes a Bank pursuant to Section 10.06(c), and their respective
+successors.
+
+         "Bank Affiliate" means, (a) with respect to any Bank, (i) an affiliate
+of such Bank or (ii) an entity (whether a corporation, partnership, trust or
+otherwise) that is engaged in making, purchasing, holding or otherwise investing
+in bank loans and similar extensions of credit in the ordinary course of its
+business and is administered or managed by a Bank or an affiliate of such Bank
+and (b) with respect to any Bank that is a fund which invests in bank loans and
+similar extensions of credit, any other fund that invests in bank loans and
+similar extensions of credit and is managed by the same investment advisor as
+such Bank or by an affiliate of such investment advisor.
+
+         "Base Rate" means, for any day, a rate per annum equal to the higher of
+(i) the Prime Rate for such day and (ii) the sum of 1/2 of 1% plus the Federal
+Funds Rate for such day.
+
+         "Benefit Arrangement" means at any time an employee benefit plan within
+the meaning of Section 3(3) of ERISA which is not a Plan or a Multiemployer
+
+
+                                        2
+
+<PAGE>   8
+
+
+
+Plan and which is maintained or otherwise contributed to by any member of the
+ERISA Group.
+
+         "Borrower" means Capital Funding or Corp., as the context may require,
+and their respective successors, and "Borrowers" means all of the foregoing.
+
+         "Borrowing" has the meaning set forth in Section 1.03.
+
+         "Capital Funding" means Qwest Capital Funding, Inc., a Colorado
+corporation, and its successors.
+
+         "Closing Date" means the date on or after the Effective Date on which
+the Agent shall have received the documents specified in or pursuant to Section
+3.01.
+
+         "Commitment" means, with respect to each Bank, the amount set forth
+opposite the name of such Bank on the signature pages hereof, as such amount may
+be reduced from time to time pursuant to Section 2.09.
+
+         "Committed Loan" means a loan to be made by a Bank pursuant to Section
+2.01; provided that if any such loan or loans are combined or subdivided
+pursuant to a Notice of Interest Rate Election, the term "Committed Loan" shall
+refer to the combined principal amount resulting from such combination or to
+each of the separate principal amounts resulting from such subdivision, as the
+case may be.
+
+         "Company" means Qwest Communications International Inc., a Delaware
+corporation, and its successors.
+
+         "Company's 2000 Form 10-K" means the Company's annual report on Form
+10-K for 2000, as filed with the Securities and Exchange Commission pursuant to
+the Securities Exchange Act of 1934.
+
+         "Consolidated EBITDA" means, for any period, the net income of the
+Company and its Consolidated Subsidiaries determined on a consolidated basis for
+such period (adjusted to exclude the effect of (x) equity gains or losses in
+unconsolidated Persons, (y) any preferred dividend income and any extraordinary
+or other non-recurring non-cash gain or loss or (z) any gain or loss on the
+disposition of investments), plus, to the extent deducted in determining such
+adjusted net income, the aggregate amount of (i) interest expense, (ii) income
+tax expense and (iii) depreciation, amortization and other similar non-cash
+charges and minus, to the extent included in determining such adjusted net
+income, the aggregate amount of (i) interest income and (ii) income tax benefit.
+
+         "Consolidated Subsidiary" means at any date any Subsidiary or other
+entity the accounts of which would be consolidated with those of the Company in
+
+
+
+                                        3
+
+<PAGE>   9
+
+
+
+its consolidated financial statements if such statements were prepared as of
+such date.
+
+         "Corp." means Qwest Corporation, a Colorado corporation, and its
+successors.
+
+         "Debt" of any Person means at any date, without duplication, (i) all
+obligations of such Person for borrowed money, (ii) all obligations of such
+Person evidenced by bonds, debentures, notes or other similar instruments, (iii)
+all obligations of such Person to pay the deferred purchase price of property or
+services, except trade accounts payable arising in the ordinary course of
+business, (iv) all obligations of such Person as lessee which are capitalized in
+accordance with generally accepted accounting principles, (v) all Debt secured
+by a Lien on any asset of such Person, whether or not such Debt is otherwise an
+obligation of such Person, and (vi) all Debt of others Guaranteed by such
+Person. Notwithstanding the foregoing, for purposes of Section 5.06 Debt shall
+in no event include the following:
+
+                  (x) Debt of Persons which are not Consolidated Subsidiaries
+         ("Joint Ventures") (i) which is secured by a Lien on the assets or
+         capital stock of a Minor Subsidiary or the equity interests in such
+         Joint Ventures or is Guaranteed by a Minor Subsidiary, which Lien or
+         Guaranty is incurred in connection with the operations of the Company
+         and its Subsidiaries, and (ii) for the payment of which no other
+         recourse may be had to the Company or any of its Subsidiaries; and
+
+                  (y) Debt of the Company or the Borrower issued in connection
+         with the issuance of Trust Originated Preferred Securities or
+         substantially similar securities, so long as such Debt is subordinated
+         and junior in right of payment to substantially all liabilities of the
+         Company or the Borrower, as the case may be, including, without
+         limitation, the Loans.
+
+         "Default" means any condition or event which constitutes an Event of
+Default or which with the giving of notice or lapse of time or both would,
+unless cured or waived, become an Event of Default.
+
+         "Domestic Business Day" means any day except a Saturday, Sunday or
+other day on which commercial banks in New York City are authorized by law to
+close.
+
+         "Domestic Lending Office" means, as to each Bank, its office located at
+its address set forth in its Administrative Questionnaire (or identified in its
+Administrative Questionnaire as its Domestic Lending Office) or such other
+office as such Bank may hereafter designate as its Domestic Lending Office by
+notice to the Company and the Agent.
+
+
+                                        4
+
+<PAGE>   10
+
+
+
+         "Domestic Loan" means (i) a Committed Loan which bears interest at the
+Base Rate pursuant to the applicable Notice of Committed Borrowing or Notice of
+Interest Rate Election or the provisions of Article 8 or (ii) an overdue amount
+which was a Domestic Loan immediately before it became overdue.
+
+         "Effective Date" means the date this Agreement becomes effective in
+accordance with Section 10.09.
+
+         "Environmental Laws" means any and all federal, state, local and
+foreign statutes, laws, judicial decisions, regulations, ordinances, rules,
+judgments, orders, decrees, plans, injunctions, permits, concessions, grants,
+franchises, licenses, agreements and other governmental restrictions relating to
+the environment, the effect of the environment on human health or to emissions,
+discharges or releases of pollutants, contaminants, Hazardous Substances or
+wastes into the environment including, without limitation, ambient air, surface
+water, ground water, or land, or otherwise relating to the manufacture,
+processing, distribution, use, treatment, storage, disposal, transport or
+handling of pollutants, contaminants, Hazardous Substances or wastes or the
+clean-up or other remediation thereof.
+
+         "ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended, or any successor statute.
+
+          "ERISA Group" means the Company, any Subsidiary and all members of a
+controlled group of corporations and all trades or businesses (whether or not
+incorporated) under common control which, together with the Company or any
+Subsidiary, are treated as a single employer under Section 414 of the Internal
+Revenue Code.
+
+         "Euro-Dollar Business Day" means any Domestic Business Day on which
+commercial banks are open for international business (including dealings in
+dollar deposits) in London.
+
+         "Euro-Dollar Lending Office" means, as to each Bank, its office, branch
+or affiliate located at its address set forth in its Administrative
+Questionnaire (or identified in its Administrative Questionnaire as its
+Euro-Dollar Lending Office) or such other office, branch or affiliate of such
+Bank as it may hereafter designate as its Euro-Dollar Lending Office by notice
+to the Company and the Agent.
+
+         "Euro-Dollar Loan" means (i) a Committed Loan which bears interest at a
+Euro-Dollar Rate pursuant to the applicable Notice of Committed Borrowing or
+Notice of Interest Rate Election or (ii) an overdue amount which was a Euro-
+Dollar Loan before it became overdue.
+
+         "Euro-Dollar Margin" has the meaning set forth in Section 2.07.
+
+
+                                        5
+
+<PAGE>   11
+
+
+
+         "Euro-Dollar Rate" means a rate of interest determined pursuant to
+Section 2.07 on the basis of an Adjusted London Interbank Offered Rate.
+
+         "Euro-Dollar Reserve Percentage" has the meaning set forth in Section
+2.07.
+
+         "Event of Default" has the meaning set forth in Section 6.01.
+
+         "Existing Credit Agreement" means the 364-Day Credit Agreement dated as
+of May 5, 2000, among Capital Funding, Corp., the Company, the lenders listed on
+the signature pages thereof and Morgan Guaranty Trust Company of New York, as
+administrative agent.
+
+         "Federal Funds Rate" means, for any day, the rate per annum (rounded
+upward, if necessary, to the nearest 1/100th of 1%) equal to the weighted
+average of the rates on overnight Federal funds transactions with members of the
+Federal Reserve System arranged by Federal funds brokers on such day, as
+published by the Federal Reserve Bank of New York on the Domestic Business Day
+next succeeding such day, provided that (i) if such day is not a Domestic
+Business Day, the Federal Funds Rate for such day shall be such rate on such
+transactions on the next preceding Domestic Business Day as so published on the
+next succeeding Domestic Business Day, and (ii) if no such rate is so published
+on such next succeeding Domestic Business Day, the Federal Funds Rate for such
+day shall be the average rate quoted to Bank of America, N.A., on such day on
+such transactions as determined by the Agent.
+
+         "Fixed Rate Loans" means Euro-Dollar Loans or Money Market Loans
+(excluding Money Market LIBOR Loans bearing interest at the Base Rate pursuant
+to Section 8.01(a)) or any combination of the foregoing.
+
+         "Group of Loans" means at any time a group of Loans consisting of (i)
+all Committed Loans which are Domestic Loans at such time or (ii) all Committed
+Loans which are Euro-Dollar Loans having the same Interest Period at such time;
+provided that, if a Committed Loan of any particular Bank is converted to or
+made as a Domestic Loan pursuant to Section 8.02 or 8.05, such Loan shall be
+included in the same Group or Groups of Loans from time to time as it would have
+been in if it had not been so converted or made.
+
+         "Guaranty" by any Person means any obligation, contingent or otherwise,
+of such Person directly or indirectly guaranteeing any Debt or other obligation
+of any other Person and, without limiting the generality of the foregoing, any
+obligation, direct or indirect, contingent or otherwise, of such Person (i) to
+purchase or pay (or advance or supply funds for the purchase or payment of) such
+Debt or other obligation (whether arising by virtue of partnership arrangements,
+by agreement to keep-well, to purchase assets, goods, securities or services, to
+
+
+                                        6
+
+<PAGE>   12
+
+
+
+take-or-pay, or to maintain financial statement conditions or otherwise) or (ii)
+entered into for the purpose of assuring in any other manner the obligee of such
+Debt or other obligation of the payment thereof or to protect such obligee
+against loss in respect thereof (in whole or in part), provided that the term
+Guaranty shall not include endorsements for collection or deposit in the
+ordinary course of business. The term "Guarantee" used as a verb has a
+corresponding meaning.
+
+         "Hazardous Substances" means any toxic, radioactive, caustic or
+otherwise hazardous substance, including petroleum, its derivatives, by-products
+and other hydrocarbons, or any substance having any constituent elements
+displaying any of the foregoing characteristics.
+
+         "Indemnitee" has the meaning set forth in Section 10.03(b).
+
+         "Interest Period" means: (1) with respect to each Euro-Dollar Loan, a
+period commencing on the date of borrowing specified in the applicable Notice of
+Borrowing or the date specified in the applicable Notice of Interest Rate
+Election and ending one, two, three or six months thereafter, as the Borrower
+may elect in the applicable notice; provided that:
+
+                  (a) any Interest Period which would otherwise end on a day
+         which is not a Euro-Dollar Business Day shall be extended to the next
+         succeeding Euro-Dollar Business Day unless such Euro-Dollar Business
+         Day falls in another calendar month, in which case such Interest Period
+         shall end on the next preceding Euro-Dollar Business Day;
+
+                  (b) any Interest Period which begins on the last Euro-Dollar
+         Business Day of a calendar month (or on a day for which there is no
+         numerically corresponding day in the calendar month at the end of such
+         Interest Period) shall, subject to clause (c) below, end on the last
+         Euro-Dollar Business Day of a calendar month; and
+
+                  (c) any Interest Period beginning prior to a Termination Date
+         which would otherwise end after a Termination Date shall end on such
+         Termination Date, and any Interest Period beginning on or after a
+         Termination Date which would otherwise end after the first anniversary
+         of such Termination Date shall end on the first anniversary of such
+         Termination Date.
+
+         (2) with respect to each Money Market LIBOR Loan, the period commencing
+on the date of borrowing specified in the applicable Notice of Borrowing and
+ending such whole number of months thereafter as the Borrower may elect in
+accordance with Section 2.03; provided that:
+
+
+
+                                        7
+
+<PAGE>   13
+
+
+
+                  (a) any Interest Period which would otherwise end on a day
+         which is not a Euro-Dollar Business Day shall be extended to the next
+         succeeding Euro-Dollar Business Day unless such Euro-Dollar Business
+         Day falls in another calendar month, in which case such Interest Period
+         shall end on the next preceding Euro-Dollar Business Day;
+
+                  (b) any Interest Period which begins on the last Euro-Dollar
+         Business Day of a calendar month (or on a day for which there is no
+         numerically corresponding day in the calendar month at the end of such
+         Interest Period) shall, subject to clause (c) below, end on the last
+         Euro-Dollar Business Day of a calendar month; and
+
+                  (c) any Interest Period beginning prior to a Termination Date
+         which would otherwise end after a Termination Date shall end on such
+         Termination Date.
+
+         (3) with respect to each Money Market Absolute Rate Loan, the period
+commencing on the date of borrowing specified in the applicable Notice of
+Borrowing and ending such number of days thereafter (but not less than 7 days)
+as the Borrower may elect in accordance with Section 2.03; provided that:
+
+                  (a) any Interest Period which would otherwise end on a day
+         which is not a Euro-Dollar Business Day shall be extended to the next
+         succeeding Euro-Dollar Business Day; and
+
+                  (b) any Interest Period beginning prior to a Termination Date
+         which would otherwise end after a Termination Date shall end on such
+         Termination Date.
+
+         "Internal Revenue Code" means the Internal Revenue Code of 1986, as
+amended, or any successor statute.
+
+         "LIBOR Auction" means a solicitation of Money Market Quotes setting
+forth Money Market Margins based on the London Interbank Offered Rate pursuant
+to Section 2.03.
+
+         "Lien" means, with respect to any asset, any mortgage, lien, pledge,
+charge, security interest or encumbrance of any kind, or any other type of
+preferential arrangement that has the practical effect of creating a security
+interest, in respect of such asset. For the purposes of this Agreement, the
+Company or any Subsidiary shall be deemed to own subject to a Lien any asset
+which it has acquired or holds subject to the interest of a vendor or lessor
+under any conditional sale agreement, capital lease or other title retention
+agreement relating to such asset.
+
+
+                                        8
+
+<PAGE>   14
+
+
+
+         "Loan" means a Domestic Loan or a Euro-Dollar Loan or a Money Market
+Loan and "Loans" means Domestic Loans or Euro-Dollar Loans or Money Market Loans
+or any combination of the foregoing.
+
+         "London Interbank Offered Rate" has the meaning set forth in Section
+2.07.
+
+         "Margin Stock" means "margin stock" as such term is defined in
+Regulation U of the Board of Governors of the Federal Reserve System, as in
+effect from time to time.
+
+         "Material Debt" means Debt (other than the Notes) of the Company and/or
+one or more of its Subsidiaries, arising in one or more related or unrelated
+transactions, in an aggregate principal amount exceeding $100,000,000.
+
+         "Material Plan" means at any time a Plan or Plans having aggregate
+Unfunded Liabilities in excess of $100,000,000.
+
+         "Minor Subsidiary" means, for purposes of the last sentence of the
+definition of Debt and of Section 5.07(f) (the "Relevant Provisions"), (i) Qwest
+Wireless, LLC and (ii) any other Subsidiary which, at the time of the issuance
+of a Guaranty or grant of a Lien referred to in the Relevant Provisions, had
+assets which, when taken together with all assets of Subsidiaries at any earlier
+time when such Subsidiaries were deemed to be Minor Subsidiaries pursuant to
+this clause (ii), did not exceed $250,000,000.
+
+         "Money Market Absolute Rate" has the meaning set forth in Section
+2.03(d).
+
+         "Money Market Absolute Rate Loan" means a loan to be made by a Bank
+pursuant to an Absolute Rate Auction.
+
+         "Money Market Lending Office" means, as to each Bank, its Domestic
+Lending Office or such other office, branch or affiliate of such Bank as it may
+hereafter designate as its Money Market Lending Office by notice to the Company
+and the Agent; provided that any Bank may from time to time by notice to the
+Company and the Agent designate separate Money Market Lending Offices for its
+Money Market LIBOR Loans, on the one hand, and its Money Market Absolute Rate
+Loans, on the other hand, in which case all references herein to the Money
+Market Lending Office of such Bank shall be deemed to refer to either or both of
+such offices, as the context may require.
+
+         "Money Market LIBOR Loan" means a loan to be made by a Bank pursuant to
+a LIBOR Auction (including such a loan bearing interest at the Base Rate
+pursuant to Section 8.01(a)).
+
+
+                                        9
+
+<PAGE>   15
+
+
+
+         "Money Market Loan" means a Money Market LIBOR Loan or a Money Market
+Absolute Rate Loan.
+
+         "Money Market Margin" has the meaning set forth in Section 2.03(d).
+
+         "Money Market Quote" means an offer by a Bank to make a Money Market
+Loan in accordance with Section 2.03.
+
+         "Multiemployer Plan" means at any time an employee pension benefit plan
+within the meaning of Section 4001(a)(3) of ERISA to which any member of the
+ERISA Group is then making or accruing an obligation to make contributions or
+has within the preceding five plan years made contributions, including for these
+purposes any Person which ceased to be a member of the ERISA Group during such
+five year period.
+
+         "Notes" means promissory notes of a Borrower, substantially in the form
+of Exhibit A hereto, evidencing the obligation of such Borrower to repay the
+Loans made to it, and "Note" means any one of such promissory notes issued
+hereunder.
+
+         "Notice of Borrowing" means a Notice of Committed Borrowing (as defined
+in Section 2.02) or a Notice of Money Market Borrowing (as defined in Section
+2.03(f)).
+
+         "Parent" means, with respect to any Bank, any Person controlling such
+Bank.
+
+         "Participant" has the meaning set forth in Section 10.06(b).
+
+         "PBGC" means the Pension Benefit Guaranty Corporation or any entity
+succeeding to any or all of its functions under ERISA.
+
+         "Person" means an individual, a corporation, a partnership, an
+association, a trust or any other entity or organization, including a government
+or political subdivision or an agency or instrumentality thereof.
+
+         "Plan" means at any time an employee pension benefit plan (other than a
+Multiemployer Plan) which is covered by Title IV of ERISA or subject to the
+minimum funding standards under Section 412 of the Internal Revenue Code and
+either (i) is maintained, or contributed to, by any member of the ERISA Group
+for employees of any member of the ERISA Group or (ii) has at any time within
+the preceding five years been maintained, or contributed to, by any Person which
+was at such time a member of the ERISA Group for employees of any Person which
+was at such time a member of the ERISA Group.
+
+
+                                       10
+
+<PAGE>   16
+
+
+
+         "Pricing Schedule" means the Schedule attached hereto and identified as
+such.
+
+         "Prime Rate" means the rate of interest publicly announced by Bank of
+America, N.A., from time to time as its Prime Rate.
+
+         "Qwest Entity" has the meaning set forth in Section 7.02.
+
+         "Required Banks" means at any time Banks having more than 50% of the
+aggregate amount of the Commitments or, if the Commitments shall have been
+terminated, holding Notes evidencing more than 50% of the aggregate unpaid
+principal amount of the Loans.
+
+         "Revolving Credit Period" means the period from and including the
+Effective Date to but excluding the Termination Date.
+
+         "Significant Subsidiary" means any Subsidiary which would meet the
+definition of "significant subsidiary" contained as of the date hereof in
+Regulation S-X of the Securities and Exchange Commission.
+
+         "Subsidiary" means any corporation or other entity of which securities
+or other ownership interests having ordinary voting power to elect a majority of
+the board of directors or other persons performing similar functions are at the
+time directly or indirectly owned by the Company.
+
+         "Super-Majority Banks" means at any time Banks having at least 85% of
+the aggregate amount of the Commitments or, if the Commitments shall have been
+terminated, holding Notes evidencing at least 85% of the aggregate unpaid
+principal amount of the Loans.
+
+         "Termination Date" means, with respect to each Bank, May 3, 2002, or
+such later date to which the Termination Date for such Bank shall have been
+extended pursuant to Section 2.01(b), or, if such day is not a Euro-Dollar
+Business Day, the next preceding Euro-Dollar Business Day.
+
+         "Unfunded Liabilities" means, with respect to any Plan at any time, the
+amount (if any) by which (i) the value of all benefit liabilities under such
+Plan, determined on a plan termination basis using the assumptions prescribed by
+the PBGC for purposes of Section 4044 of ERISA, exceeds (ii) the fair market
+value of all Plan assets allocable to such liabilities under Title IV of ERISA
+(excluding any accrued but unpaid contributions), all determined as of the then
+most recent valuation date for such Plan, but only to the extent that such
+excess represents a potential liability of a member of the ERISA Group to the
+PBGC or any other Person under Title IV of ERISA.
+
+
+                                       11
+
+<PAGE>   17
+
+
+
+         "United States" means the United States of America, including the
+States and the District of Columbia, but excluding its territories and
+possessions.
+
+         "Wholly-Owned Consolidated Subsidiary" means any Consolidated
+Subsidiary all of the shares of capital stock or other ownership interests of
+which (except directors' qualifying shares) are at the time directly or
+indirectly owned by the Company.
+
+         SECTION 1.02. Accounting Terms and Determinations. Unless otherwise
+specified herein, all accounting terms used herein shall be interpreted, all
+accounting determinations hereunder shall be made, and all financial statements
+required to be delivered hereunder shall be prepared in accordance with
+generally accepted accounting principles as in effect from time to time in the
+United States, applied on a basis consistent (except for changes concurred in by
+the Company's independent public accountants) with the most recent audited
+consolidated financial statements of the Company and its Consolidated
+Subsidiaries delivered to the Banks; provided that, if the Company notifies the
+Agent that the Company wishes to amend any covenant in Article 5 to eliminate
+the effect of any change in such generally accepted accounting principles on the
+operation of such covenant (or if the Agent notifies the Company that the
+Required Banks wish to amend Article 5 for such purpose), then compliance with
+such covenant shall be determined on the basis of generally accepted accounting
+principles in effect in the United States immediately before the relevant change
+in generally accepted accounting principles became effective, until either such
+notice is withdrawn or such covenant is amended in a manner satisfactory to the
+Company and the Required Banks.
+
+         SECTION 1.03. Types of Borrowings. The term "Borrowing" denotes the
+aggregation of Loans of one or more Banks to be made to a single Borrower
+pursuant to Article 2 on a single date, all of which Loans are of the same type
+(subject to Article 8) and, except in the case of Domestic Loans, have the same
+Interest Period or initial Interest Period. Borrowings are classified for
+purposes of this Agreement either by reference to the pricing of Loans
+comprising such Borrowing (e.g., a "Euro-Dollar Borrowing" is a Borrowing
+comprised of Euro-Dollar Loans) or by reference to the provisions of Article 2
+under which participation therein is determined (i.e., a "Committed Borrowing"
+is a Borrowing under Section 2.01 in which all Banks participate in proportion
+to their Commitments, while a "Money Market Borrowing" is a Borrowing under
+Section 2.03 in which the Bank participants are determined on the basis of their
+bids in accordance therewith).
+
+
+
+
+                                       12
+
+<PAGE>   18
+
+
+
+                                    ARTICLE 2
+                                   THE CREDITS
+
+         SECTION 2.01. Commitments to Lend.
+
+         (a) The Commitments. During the Revolving Credit Period each Bank
+severally agrees, on the terms and conditions set forth in this Agreement, to
+make loans to either Borrower pursuant to this subsection (a) from time to time
+in amounts such that the aggregate principal amount of Committed Loans by such
+Bank at any one time outstanding (x) to the Borrowers shall not exceed the
+amount of its Commitment and (y) to each Borrower shall not exceed such Bank's
+pro rata share of such Borrower's Available Amount. Each Borrowing under this
+Section shall be in an aggregate principal amount of $25,000,000 or any larger
+multiple of $5,000,000 (except that any such Borrowing may be in the aggregate
+amount available in accordance with Section 3.02(c)) and shall be made from the
+several Banks ratably in proportion to their respective Commitments. Within the
+foregoing limits, a Borrower may borrow under this subsection (a), repay, or to
+the extent permitted by Section 2.11, prepay Loans and reborrow at any time
+during the Revolving Credit Period under this subsection (a). The Commitments
+shall terminate at the close of business on the Termination Date.
+
+         (b) Extension of Commitments. The Commitments may be extended in the
+manner and amount set forth in this subsection (b), for a period of 364 days
+measured from the Termination Date then in effect. If the Company wishes to
+request an extension of each Bank's Commitment, it shall give notice to that
+effect to the Agent not less than 45 days and not more than 60 days prior to the
+Termination Date then in effect, whereupon the Agent shall promptly notify each
+of the Banks of such request. Each Bank will use its best efforts to respond to
+such request, whether affirmatively or negatively, as it may elect in its
+discretion, within 30 days of such notice to the Agent, but in any event no
+earlier than 45 days prior to the Termination Date then in effect. If any Bank
+shall not have responded affirmatively within such 30-day period, such Bank
+shall be deemed to have rejected the Company's proposal to extend its
+Commitment, and only the Commitments of those Banks which have responded
+affirmatively shall be extended, subject to receipt by the Agent of counterparts
+of an Extension Agreement in substantially the form of Exhibit H hereto duly
+completed and signed by the Borrowers, the Company, the Agent and all of the
+Banks which have responded affirmatively. The Agent shall provide to the
+Company, no later than 10 days prior to the Termination Date then in effect, a
+list of the Banks which have responded affirmatively. The Extension Agreement
+shall be executed and delivered no later than five days prior to the Termination
+Date then in effect, and no extension of the Commitments pursuant to this
+subsection (b) shall be legally binding on any party hereto unless and until
+such Extension Agreement is so executed and delivered. The Company and the
+Borrowers may decline to execute
+
+
+                                       13
+
+<PAGE>   19
+
+
+
+and deliver such Extension Agreement if any Bank has rejected the Company's
+proposal to extend its Commitment or has failed to execute and deliver such
+Extension Agreement, and will promptly notify the Agent and the Banks if it so
+declines.
+
+         (c) Additional Commitments. At any time during the Revolving Credit
+Period, if no Default shall have occurred and be continuing at such time, the
+Company may, if it so elects, increase the aggregate amount of the Commitments,
+either by designating a Person not theretofore a Bank and acceptable to the
+Agent to become a Bank or by agreeing with an existing Bank that such Bank's
+Commitment shall be increased. Upon execution and delivery by the Company, the
+Borrowers and such Bank or other Person of an instrument of assumption in form
+and amount satisfactory to the Administrative Agent, such existing Bank shall
+have a Commitment as therein set forth or such other Person shall become a Bank
+with a Commitment as therein set forth and all the rights and obligations of a
+Bank with such a Commitment hereunder; provided that (i) the Company shall
+provide prompt notice of such increase (and of how such increase will be
+allocated between Capital Funding and Corp. for purposes of calculating their
+respective Available Amounts) to the Agent, which shall promptly notify the
+other Banks, (ii) the aggregate amount of each such increase which is effective
+on any day shall be at least $50,000,000 and (iii) the aggregate amount of the
+Commitments shall at no time exceed $5,000,000,000. Upon any increase in the
+aggregate amount of the Commitments pursuant to this subsection (c), within five
+Domestic Business Days in the case of each Group of Domestic Loans outstanding,
+and at the end of the then current Interest Period with respect thereto in the
+case of each Group of Euro-Dollar Loans then outstanding, the Borrowers shall
+prepay such Group in its entirety, and, to the extent a Borrower elects to do so
+and subject to the conditions specified in Article 3, such Borrower shall
+reborrow Committed Loans from the Banks in proportion to their respective
+Commitments after giving effect to such increase, until such time as all
+outstanding Committed Loans are held by the Banks in such proportion.
+
+          (d) Term Loans. Each Bank severally agrees, on the terms and
+conditions set forth in this Agreement, to make a loan to either Borrower on the
+Termination Date in amounts such that the aggregate principal amount of such
+Bank's outstanding Loans (x) to the Borrowers at the close of business on the
+Termination Date shall not exceed its Commitment and (y) to each Borrower shall
+not exceed such Bank's pro rata share of such Borrower's Available Amount. Each
+Borrowing under this subsection (d) shall be made from the several Banks ratably
+in proportion to their respective Commitments. Amounts prepaid pursuant to
+Section 2.11 shall not be reborrowed. If less than all the Banks shall have
+agreed to extend the Termination Date (the "Later Termination Date") pursuant to
+subsection (b) above, but the Termination Date for those Banks which have not so
+agreed (the "Earlier Termination Date") has not yet occurred, and a Borrower has
+requested a Borrowing pursuant to this subsection (d), then such Borrowing shall
+
+
+                                       14
+
+<PAGE>   20
+
+
+
+be made from all the Banks on the Earlier Termination Date, not the Later
+Termination Date.
+
+         SECTION 2.02. Notice of Committed Borrowing. A Borrower shall give the
+Agent notice (a "Notice of Committed Borrowing") not later than 10:30 A.M. (New
+York City time) on (x) the date of each Domestic Borrowing, and (y) the third
+Euro-Dollar Business Day before each Euro-Dollar Borrowing, specifying:
+
+                  (i) the date of such Borrowing, which shall be a Domestic
+         Business Day in the case of a Domestic Borrowing or a Euro-Dollar
+         Business Day in the case of a Euro-Dollar Borrowing,
+
+                  (ii)  the aggregate amount of such Borrowing,
+
+                  (iii) whether the Loans comprising such Borrowing bear
+         interest initially at the Base Rate or at a Euro-Dollar Rate, and
+
+                  (iv) in the case of a Euro-Dollar Borrowing, the duration of
+         the initial Interest Period applicable thereto, subject to the
+         provisions of the definition of Interest Period.
+
+         SECTION 2.03. Money Market Borrowings. (a) The Money Market Option. In
+addition to Committed Borrowings pursuant to Section 2.01(a), a Borrower may, as
+set forth in this Section, request the Banks during the Revolving Credit Period
+to make offers to make Money Market Loans to such Borrower. The Banks may, but
+shall have no obligation to, make such offers and such Borrower may, but shall
+have no obligation to, accept any such offers in the manner set forth in this
+Section.
+
+         (b) Money Market Quote Request. When a Borrower wishes to request
+offers to make Money Market Loans under this Section, it shall transmit to the
+Agent by telex or facsimile transmission a Money Market Quote Request
+substantially in the form of Exhibit B hereto so as to be received no later than
+9:00 A.M. (New York City time) on (x) the fourth Euro-Dollar Business Day prior
+to the date of Borrowing proposed therein, in the case of a LIBOR Auction or (y)
+the Domestic Business Day prior to the date of Borrowing proposed therein, in
+the case of an Absolute Rate Auction (or, in either case, such other time or
+date as the Company and the Agent shall have mutually agreed and shall have
+notified to the Banks not later than the date of the Money Market Quote Request
+for the first LIBOR Auction or Absolute Rate Auction for which such change is to
+be effective) specifying:
+
+                  (i) the proposed date of Borrowing, which shall be a
+         Euro-Dollar Business Day in the case of a LIBOR Auction or a Domestic
+         Business Day in the case of an Absolute Rate Auction,
+
+
+                                       15
+
+<PAGE>   21
+
+
+
+
+                  (ii) the aggregate amount of such Borrowing, which shall be
+         $25,000,000 or a larger multiple of $5,000,000,
+
+                  (iii) the duration of the Interest Period applicable thereto,
+         subject to the provisions of the definition of Interest Period, and
+
+                  (iv) whether the Money Market Quotes requested are to set
+         forth a Money Market Margin or a Money Market Absolute Rate.
+
+A Borrower may request offers to make Money Market Loans for more than one
+Interest Period in a single Money Market Quote Request. No Money Market Quote
+Request shall be given within five Euro-Dollar Business Days (or such other
+number of days as the Company and the Agent may agree) of any other Money Market
+Quote Request.
+
+         (c) Invitation for Money Market Quotes. Promptly upon receipt of a
+Money Market Quote Request, the Agent shall send to the Banks by telex or
+facsimile transmission an Invitation for Money Market Quotes substantially in
+the form of Exhibit C hereto, which shall constitute an invitation by the
+relevant Borrower to each Bank to submit Money Market Quotes offering to make
+the Money Market Loans to which such Money Market Quote Request relates in
+accordance with this Section.
+
+         (d) Submission and Contents of Money Market Quotes. (i) Each Bank may
+submit a Money Market Quote containing an offer or offers to make Money Market
+Loans in response to any Invitation for Money Market Quotes. Each Money Market
+Quote must comply with the requirements of this subsection (d) and must be
+submitted to the Agent by telex or facsimile transmission at its offices
+specified in or pursuant to Section 10.01 not later than (x) 10:30 A.M. (New
+York City time) on the third Euro-Dollar Business Day prior to the proposed date
+of Borrowing, in the case of a LIBOR Auction or (y) 9:15 A.M. (New York City
+time) on the proposed date of Borrowing, in the case of an Absolute Rate Auction
+(or, in either case, such other time or date as the Company and the Agent shall
+have mutually agreed and shall have notified to the Banks not later than the
+date of the Money Market Quote Request for the first LIBOR Auction or Absolute
+Rate Auction for which such change is to be effective); provided that Money
+Market Quotes submitted by the Agent (or any affiliate of the Agent) in the
+capacity of a Bank may be submitted, and may only be submitted, if the Agent or
+such affiliate notifies the relevant Borrower of the terms of the offer or
+offers contained therein not later than (x) one hour prior to the deadline for
+the other Banks, in the case of a LIBOR Auction or (y) 15 minutes prior to the
+deadline for the other Banks, in the case of an Absolute Rate Auction. Subject
+to Articles 3 and 6, any Money Market Quote so made shall be
+
+
+                                       16
+
+<PAGE>   22
+
+
+
+irrevocable except with the written consent of the Agent given on the
+instructions of such Borrower.
+
+                  (ii) Each Money Market Quote shall be in substantially the
+         form of Exhibit D hereto and shall in any case specify:
+
+                           (A) the proposed date of Borrowing,
+
+                           (B) the principal amount of the Money Market Loan for
+                  which each such offer is being made, which principal amount
+                  (w) may be greater than or less than the Commitment of the
+                  quoting Bank, (x) must be $5,000,000 or a larger multiple of
+                  $1,000,000, (y) may not exceed the principal amount of Money
+                  Market Loans for which offers were requested, and (z) may be
+                  subject to an aggregate limitation as to the principal amount
+                  of Money Market Loans for which offers being made by such
+                  quoting Bank may be accepted,
+
+                           (C) in the case of a LIBOR Auction, the margin above
+                  or below the applicable London Interbank Offered Rate (the
+                  "Money Market Margin") offered for each such Money Market
+                  Loan, expressed as a percentage (specified to the nearest
+                  1/10,000th of 1%) to be added to or subtracted from such base
+                  rate,
+
+                           (D) in the case of an Absolute Rate Auction, the rate
+                  of interest per annum (specified to the nearest 1/10,000th of
+                  1%) (the "Money Market Absolute Rate") offered for each such
+                  Money Market Loan, and
+
+                           (E) the identity of the quoting Bank.
+
+A Money Market Quote may set forth up to five separate offers by the quoting
+Bank with respect to each Interest Period specified in the related Invitation
+for Money Market Quotes.
+
+                  (iii) Any Money Market Quote shall be disregarded if it:
+
+                           (A) is not substantially in conformity with Exhibit D
+                  hereto or does not specify all of the information required by
+                  subsection (d)(ii);
+
+                           (B) contains qualifying, conditional or similar
+                  language;
+
+                           (C) proposes terms other than or in addition to those
+                  set forth in the applicable Invitation for Money Market
+                  Quotes; or
+
+
+                                       17
+
+<PAGE>   23
+
+
+
+
+                           (D) arrives after the time set forth in subsection
+                  (d)(i).
+
+         (e) Notice to Borrower. The Agent shall promptly (and in any event no
+later than 11:00 A.M. (New York time) on (i) the third Euro-Dollar Business Day
+prior to the proposed date of Borrowing, in the case of a LIBOR Auction or (ii)
+the proposed date of Borrowing, in the case of an Absolute Rate Auction) notify
+the relevant Borrower of the terms (x) of any Money Market Quote submitted by a
+Bank that is in accordance with subsection (d) and (y) of any Money Market Quote
+that amends, modifies or is otherwise inconsistent with a previous Money Market
+Quote submitted by such Bank with respect to the same Money Market Quote
+Request. Any such subsequent Money Market Quote shall be disregarded by the
+Agent unless such subsequent Money Market Quote is submitted solely to correct a
+manifest error in such former Money Market Quote. The Agent's notice to such
+Borrower shall specify (A) the aggregate principal amount of Money Market Loans
+for which offers have been received for each Interest Period specified in the
+related Money Market Quote Request, (B) the respective principal amounts and
+Money Market Margins or Money Market Absolute Rates, as the case may be, so
+offered and (C) if applicable, limitations on the aggregate principal amount of
+Money Market Loans for which offers in any single Money Market Quote may be
+accepted.
+
+         (f) Acceptance and Notice by Borrower. Not later than 11:15 A.M. (New
+York City time) on (x) the third Euro-Dollar Business Day prior to the proposed
+date of Borrowing, in the case of a LIBOR Auction or (y) the proposed date of
+Borrowing, in the case of an Absolute Rate Auction (or, in either case, such
+other time or date as the Company and the Agent shall have mutually agreed and
+shall have notified to the Banks not later than the date of the Money Market
+Quote Request for the first LIBOR Auction or Absolute Rate Auction for which
+such change is to be effective), the relevant Borrower shall notify the Agent of
+its acceptance or non-acceptance of the offers so notified to it pursuant to
+subsection (e). In the case of acceptance, such notice (a "Notice of Money
+Market Borrowing") shall specify the aggregate principal amount of offers for
+each Interest Period that are accepted. Such Borrower may accept any Money
+Market Quote in whole or in part; provided that:
+
+                  (i) the aggregate principal amount of each Money Market
+         Borrowing may not exceed the applicable amount set forth in the related
+         Money Market Quote Request,
+
+                  (ii) the principal amount of each Money Market Borrowing must
+         be $25,000,000 or a larger multiple of $5,000,000,
+
+
+
+                                       18
+
+<PAGE>   24
+
+
+
+                  (iii) acceptance of offers may only be made on the basis of
+         ascending Money Market Margins or Money Market Absolute Rates, as the
+         case may be, and
+
+                  (iv) such Borrower may not accept any offer that is described
+         in subsection (d)(iii) or that otherwise fails to comply with the
+         requirements of this Agreement.
+
+         (g) Allocation by Agent. If offers are made by two or more Banks with
+the same Money Market Margins or Money Market Absolute Rates, as the case may
+be, for a greater aggregate principal amount than the amount in respect of which
+such offers are accepted for the related Interest Period, the principal amount
+of Money Market Loans in respect of which such offers are accepted shall be
+allocated by the Agent among such Banks as nearly as possible (in multiples of
+$1,000,000, as the Agent may deem appropriate) in proportion to the aggregate
+principal amounts of such offers. Determinations by the Agent of the amounts of
+Money Market Loans shall be conclusive in the absence of manifest error.
+
+         SECTION 2.04. Notice to Banks; Funding of Loans. (a) Upon receipt of a
+Notice of Borrowing, the Agent shall promptly notify each Bank of the contents
+thereof and of such Bank's share (if any) of such Borrowing and such Notice of
+Borrowing shall not thereafter be revocable by the Borrower.
+
+          (b) Not later than 1:00 P.M. (New York City time) on the date of each
+Borrowing, each Bank participating therein shall (except as provided in
+subsection (c) of this Section) make available its share of such Borrowing, in
+Federal or other funds immediately available in New York City, to the Agent at
+its address referred to in Section 10.01. Unless any applicable condition
+specified in Article 3 has not been satisfied, as determined by the Agent in
+accordance with Article 3, the Agent will make the funds so received from the
+Banks immediately available to the Borrower at the Agent's aforesaid address.
+
+          (c) If any Bank makes a new Loan hereunder to a Borrower on a day on
+which the Borrower is to repay all or any part of an outstanding Loan from such
+Bank, such Bank shall apply the proceeds of its new Loan to make such repayment
+and only an amount equal to the difference (if any) between the amount being
+borrowed by such Borrower and the amount being repaid shall be made available by
+such Bank to the Agent as provided in subsection (b) of this Section, or
+remitted by such Borrower to the Agent as provided in Section 2.12, as the case
+may be.
+
+          (d) Unless the Agent shall have received notice from a Bank prior to
+the date of any Borrowing (or, in the case of a Base Rate Borrowing, prior to
+Noon (New York City time) on the date of such Borrowing) that such Bank will not
+make available to the Agent such Bank's share of such Borrowing, the Agent may
+
+
+                                       19
+
+<PAGE>   25
+
+
+
+assume that such Bank has made such share available to the Agent on the date of
+such Borrowing in accordance with subsections (b) and (c) of this Section 2.04
+and the Agent may, in reliance upon such assumption, make available to the
+relevant Borrower on such date a corresponding amount. If and to the extent that
+such Bank shall not have so made such share available to the Agent, such Bank
+and such Borrower severally agree to repay to the Agent forthwith on demand such
+corresponding amount together with interest thereon, for each day from the date
+such amount is made available to such Borrower until the date such amount is
+repaid to the Agent, at (i) in the case of such Borrower, a rate per annum equal
+to the higher of the Federal Funds Rate and the interest rate applicable thereto
+pursuant to Section 2.07 and (ii) in the case of such Bank, the Federal Funds
+Rate. If such Bank shall repay to the Agent such corresponding amount, such
+amount so repaid shall constitute such Bank's Loan included in such Borrowing
+for purposes of this Agreement. If such Borrower shall have repaid such
+corresponding amount of such Bank, such Bank shall reimburse such Borrower for
+any loss on account thereof incurred by such Borrower.
+
+         SECTION 2.05. Notes. (a) The Loans of each Bank to each Borrower shall
+be evidenced by a single Note of such Borrower payable to the order of such Bank
+for the account of its Applicable Lending Office, unless such Bank requests
+otherwise, in an amount equal to the aggregate unpaid principal amount of such
+Bank's Loans to such Borrower.
+
+          (b) Each Bank may, by notice to a Borrower and the Agent, request that
+its Loans of a particular type to such Borrower be evidenced by a separate Note
+of such Borrower in an amount equal to the aggregate unpaid principal amount of
+such Loans. Each such Note shall be in substantially the form of Exhibit A
+hereto with appropriate modifications to reflect the fact that it evidences
+solely Loans of the relevant type. Each reference in this Agreement to a "Note"
+or the "Notes" of such Bank shall be deemed to refer to and include any or all
+of such Notes, as the context may require.
+
+          (c) Upon receipt of each Bank's Notes pursuant to Section 3.01, the
+Agent shall forward such Notes to such Bank. Each Bank shall record the date,
+amount and type of each Loan made by it to each Borrower and the date and amount
+of each payment of principal made with respect thereto, and may, if such Bank so
+elects in connection with any transfer or enforcement of its Note of any
+Borrower, endorse on the schedule forming a part thereof appropriate notations
+to evidence the foregoing information with respect to each such Loan to such
+Borrower then outstanding; provided that the failure of any Bank to make any
+such recordation or endorsement shall not affect the obligations of such
+Borrower hereunder or under the Notes. Each Bank is hereby irrevocably
+authorized by each Borrower so to endorse its Notes and to attach to and make a
+part of any Note a continuation of any such schedule as and when required.
+
+
+
+                                       20
+
+<PAGE>   26
+
+
+
+         SECTION 2.06. Maturity of Loans. Each Loan by a Bank included in any
+Borrowing made pursuant to Section 2.01(a) shall mature, and the principal
+amount thereof shall be due and payable, together with accrued interest thereon,
+on the Termination Date for such Bank. Each Loan included in any Borrowing made
+pursuant to Section 2.01(d) shall mature, and the principal amount thereof shall
+be due and payable, together with accrued interest thereon, on the first
+anniversary of the Termination Date on which such Borrowing is made. Each Loan
+included in any Borrowing made pursuant to Section 2.03 shall mature, and the
+principal amount thereof shall be due and payable, together with accrued
+interest thereon, on the last day of the Interest Period applicable thereto.
+
+         SECTION 2.07. Interest Rates. (a) Each Domestic Loan shall bear
+interest on the outstanding principal amount thereof, for each day from the date
+such Loan is made until it becomes due, at a rate per annum equal to the Base
+Rate for such day. Such interest shall be payable quarterly in arrears on the
+last day of each calendar quarter and, with respect to the principal amount of
+any Domestic Loan converted to a Euro-Dollar Loan, on each date a Domestic Loan
+is so converted. Any overdue principal of or interest on any Domestic Loan shall
+bear interest, payable on demand, for each day until paid at a rate per annum
+equal to the sum of 2% plus the rate otherwise applicable to Domestic Loans for
+such day.
+
+          (b) Each Euro-Dollar Loan shall bear interest on the outstanding
+principal amount thereof, for the Interest Period applicable thereto, at a rate
+per annum equal to the sum of the Euro-Dollar Margin plus the applicable
+Adjusted London Interbank Offered Rate. Such interest shall be payable for each
+Interest Period on the last day thereof and, if such Interest Period is longer
+than three months, at intervals of three months after the first day thereof.
+
+         The "Adjusted London Interbank Offered Rate" applicable to any Interest
+Period means a rate per annum equal to the quotient obtained (rounded upward, if
+necessary, to the next higher 1/100 of 1%) by dividing (i) the applicable London
+Interbank Offered Rate by (ii) 1.00 minus the Euro-Dollar Reserve Percentage.
+
+         "Euro-Dollar Margin" means a rate per annum determined in accordance
+with the Pricing Schedule.
+
+         The "London Interbank Offered Rate" applicable to any Interest Period
+means:
+
+                           (i) the rate per annum equal to the rate determined
+                  by the Agent to be the offered rate that appears on the page
+                  of the Telerate screen (or any successor thereto) that
+                  displays an average British Bankers Association Interest
+                  Settlement Rate for deposits in dollars (for delivery on the
+                  first day of such Interest Period) with a term equivalent to
+                  such Interest Period, determined as of
+
+
+                                       21
+
+<PAGE>   27
+
+
+
+                  approximately 11:00 A.M. (London time) two Euro-Dollar
+                  Business Days prior to the first day of such Interest Period,
+                  or
+
+                           (ii) if the rate referenced in the preceding clause
+                  (i) does not appear on such page or service or such page or
+                  service shall cease to be available, the rate per annum equal
+                  to the rate determined by the Agent to be the offered rate on
+                  such other page or other service that displays an average
+                  British Bankers Association Interest Settlement Rate for
+                  deposits in dollars (for delivery on the first day of such
+                  Interest Period) with a term equivalent to such Interest
+                  Period, determined as of approximately 11:00 A.M. (London
+                  time) two Euro-Dollar Business Days prior to the first day of
+                  such Interest Period, or
+
+                           (iii) if the rates referenced in the preceding
+                  clauses (i) and (ii) are not available, the rate per annum
+                  determined by the Agent as the rate of interest at which
+                  deposits in dollars for delivery on the first day of such
+                  Interest Period in same day funds in the approximate amount of
+                  the Euro-Dollar Loan being made, continued or converted by
+                  Bank of America, N.A., and with a term equivalent to such
+                  Interest Period, would be offered by Bank of America, N.A.'s
+                  London Branch to major banks in the London interbank
+                  eurodollar market at their request at approximately 4:00 P.M.
+                  (London time) two Euro-Dollar Business Days prior to the first
+                  day of such Interest Period.
+
+         "Euro-Dollar Reserve Percentage" means for any day that percentage
+(expressed as a decimal) which is in effect on such day, as prescribed by the
+Board of Governors of the Federal Reserve System (or any successor) for
+determining the maximum reserve requirement for a member bank of the Federal
+Reserve System in New York City with deposits exceeding five billion dollars in
+respect of "Eurocurrency liabilities" (or in respect of any other category of
+liabilities which includes deposits by reference to which the interest rate on
+Euro-Dollar Loans is determined or any category of extensions of credit or other
+assets which includes loans by a non-United States office of any Bank to United
+States residents). The Adjusted London Interbank Offered Rate shall be adjusted
+automatically on and as of the effective date of any change in the Euro-Dollar
+Reserve Percentage.
+
+          (c) Any overdue principal of or interest on any Euro-Dollar Loan shall
+bear interest, payable on demand, for each day from and including the date
+payment thereof was due to but excluding the date of actual payment, at a rate
+per annum equal to the sum of 2% plus the higher of (i) the Euro-Dollar Margin
+plus the quotient obtained (rounded upward, if necessary, to the next higher
+1/100 of 1%) by dividing (x) the rate per annum at which one day (or, if such
+amount due
+
+
+                                       22
+
+<PAGE>   28
+
+
+
+remains unpaid more than three Euro-Dollar Business Days, then for such other
+period of time not longer than six months as the Agent may select) deposits in
+dollars in an amount approximately equal to such overdue payment due to Bank of
+America, N.A. are offered to Bank of America, N.A., in the London interbank
+market for the applicable period determined as provided above by (y) 1.00 minus
+the Euro-Dollar Reserve Percentage (or, if the circumstances described in clause
+(a) or (b) of Section 8.01 shall exist, at a rate per annum equal to the sum of
+2% plus the rate applicable to Domestic Loans for such day) and (ii) the sum of
+the Euro-Dollar Margin plus the Adjusted London Interbank Offered Rate
+applicable to such Loan at the date such payment was due.
+
+          (d) Subject to Section 8.01, each Money Market LIBOR Loan shall bear
+interest on the outstanding principal amount thereof, for the Interest Period
+applicable thereto, at a rate per annum equal to the sum of the London Interbank
+Offered Rate for such Interest Period (determined in accordance with Section
+2.07 as if the related Money Market LIBOR Borrowing were a Committed Euro-Dollar
+Borrowing) plus (or minus) the Money Market Margin quoted by the Bank making
+such Loan in accordance with Section 2.03. Each Money Market Absolute Rate Loan
+shall bear interest on the outstanding principal amount thereof, for the
+Interest Period applicable thereto, at a rate per annum equal to the Money
+Market Absolute Rate quoted by the Bank making such Loan in accordance with
+Section 2.03. Such interest shall be payable for each Interest Period on the
+last day thereof and, if such Interest Period is longer than three months, at
+intervals of three months after the first day thereof. Any overdue principal of
+or interest on any Money Market Loan shall bear interest, payable on demand, for
+each day until paid at a rate per annum equal to the sum of 2% plus the Base
+Rate for such day.
+
+          (e) The Agent shall determine each interest rate applicable to the
+Loans hereunder. The Agent shall give prompt notice to the Borrower and the
+participating Banks of each rate of interest so determined, and its
+determination thereof shall be conclusive in the absence of manifest error.
+
+         SECTION 2.08. Facility Fees. The Company shall pay to the Agent for the
+account of the Banks ratably a facility fee at the Facility Fee Rate (determined
+daily in accordance with the Pricing Schedule). Such facility fee shall accrue
+(i) from and including the Effective Date to but excluding the Termination Date
+(or earlier date of termination of the Commitments in their entirety), on the
+daily actual aggregate amount of the Available Amount (whether used or unused)
+allocated to each Borrower pursuant to the definition of "Available Amount" and
+(ii) from and including the Termination Date (or earlier date of termination of
+the Commitments in their entirety) to but excluding the date the Loans shall be
+repaid in their entirety, on the daily actual aggregate outstanding principal
+amount of the Loans. Accrued facility fees shall be payable quarterly in arrears
+on the last day of
+
+
+                                       23
+
+<PAGE>   29
+
+
+
+each calendar quarter and upon the date of termination of the Commitments in
+their entirety (and, if later, the date the Loans shall be repaid in their
+entirety).
+
+         "Facility Fee Rate" means a rate per annum determined in accordance
+with the Pricing Schedule.
+
+         SECTION 2.09. Termination or Reduction of Commitments. During the
+Revolving Credit Period, the Company may, upon at least three Domestic Business
+Days' notice to the Agent, (i) terminate the Commitments at any time, if no
+Loans are outstanding at such time or (ii) ratably reduce from time to time by
+an aggregate amount of $25,000,000 or any larger multiple of $5,000,000, the
+aggregate amount of the Commitments in excess of the aggregate outstanding
+principal amount of the Loans. Any notice of a reduction shall also specify how
+such reduction shall be allocated between Capital Funding and Corp. for purposes
+of calculating their respective Available Amounts.
+
+         SECTION 2.10. Method of Electing Interest Rates. (a) The Loans included
+in each Committed Borrowing shall bear interest initially at the type of rate
+specified by the relevant Borrower in the applicable Notice of Committed
+Borrowing. Thereafter, such Borrower may from time to time elect to change or
+continue the type of interest rate borne by each Group of Loans (subject in each
+case to the provisions of Article 8), as follows:
+
+                  (i) if such Loans are Domestic Loans, the Borrower may elect
+         to convert such Loans to Euro-Dollar Loans as of any Euro-Dollar
+         Business Day;
+
+                  (ii) if such Loans are Euro-Dollar Loans, the Borrower may
+         elect to convert such Loans to Domestic Loans or elect to continue such
+         Loans as Euro-Dollar Loans for an additional Interest Period, in each
+         case effective on the last day of the then current Interest Period
+         applicable to such Loans.
+
+Each such election shall be made by delivering a notice (a "Notice of Interest
+Rate Election") to the Agent at least three Euro-Dollar Business Days before the
+conversion or continuation selected in such notice is to be effective. A Notice
+of Interest Rate Election may, if it so specifies, apply to only a portion of
+the aggregate principal amount of the relevant Group of Loans; provided that (i)
+such portion is allocated ratably among the Loans comprising such Group and (ii)
+the portion to which such Notice applies, and the remaining portion to which it
+does not apply, are each $25,000,000 or any larger multiple of $5,000,000.
+
+         (b) Each Notice of Interest Rate Election shall specify:
+
+
+
+                                       24
+
+<PAGE>   30
+
+
+
+                  (i) the Group of Loans (or portion thereof) to which such
+         notice applies;
+
+                  (ii) the date on which the conversion or continuation selected
+         in such notice is to be effective, which shall comply with the
+         applicable clause of subsection (a) above;
+
+                  (iii) if the Loans comprising such Group are to be converted,
+         the new type of Loans and, if such new Loans are Euro-Dollar Loans, the
+         duration of the initial Interest Period applicable thereto; and
+
+                  (iv) if such Loans are to be continued as Euro-Dollar Loans
+         for an additional Interest Period, the duration of such additional
+         Interest Period.
+
+Each Interest Period specified in a Notice of Interest Rate Election shall
+comply with the provisions of the definition of Interest Period.
+
+         (c) Upon receipt of a Notice of Interest Rate Election from a Borrower
+pursuant to subsection (a) above, the Agent shall promptly notify each Bank of
+the contents thereof and such notice shall not thereafter be revocable by such
+Borrower. If such Borrower fails to deliver a timely Notice of Interest Rate
+Election to the Agent for any Group of Euro-Dollar Loans, such Loans shall be
+converted into Domestic Loans on the last day of the then current Interest
+Period applicable thereto.
+
+         SECTION 2.11. Prepayments.
+
+         (a) Subject in the case of any Euro-Dollar Loans to Section 2.13, a
+Borrower may, upon at least one Domestic Business Day's notice to the Agent,
+prepay the Group of Domestic Loans (or any Money Market Borrowing bearing
+interest at the Base Rate pursuant to Section 8.01(a)), or, upon three
+Euro-Dollar Business Days' notice to the Agent, prepay any Group of Euro-Dollar
+Loans, in each case in whole at any time, or from time to time in part in
+amounts aggregating $25,000,000 or any larger multiple of $5,000,000, by paying
+the principal amount to be prepaid together with accrued interest thereon to the
+date of prepayment.
+
+         (b) Except as provided in subsection (a) above or subsection (d) below,
+no Borrower may prepay all or any portion of the principal amount of any Money
+Market Loan prior to the maturity thereof.
+
+         (c) Upon receipt of a notice of prepayment pursuant to this Section,
+the Agent shall promptly notify each Bank of the contents thereof and of such
+Bank's ratable share (if any) of such prepayment and such notice shall not
+thereafter be revocable by the Borrower. Each such prepayment shall be applied
+to prepay
+
+
+                                       25
+
+<PAGE>   31
+
+
+
+ratably the Loans of the several Banks included in the relevant Group or
+Borrowing.
+
+         (d) On the date of any reduction of Commitments pursuant to Section
+2.09 or any reduction in the Available Amount for a Borrower pursuant to the
+definition of "Available Amount", one or both Borrowers, as the case may be,
+shall repay such principal amount (together with accrued interest thereon) of
+outstanding Loans, if any, as may be necessary so that after such repayment (i)
+the aggregate outstanding principal amount of each Bank's Committed Loans does
+not exceed the amount of such Bank's Commitment as then reduced, (ii) the
+aggregate outstanding principal amount of each Bank's Committed Loans to each
+Borrower does not exceed such Bank's pro rata share of such Borrower's Available
+Amount as then reduced, (iii) the aggregate outstanding principal amount of all
+outstanding Loans does not exceed the aggregate amount of the Commitments as
+then reduced, and (iv) the aggregate principal amount of all outstanding Loans
+to each Borrower does not exceed such Borrower's Available Amount as then
+reduced.
+
+         SECTION 2.12. General Provisions as to Payments. (a) The Borrowers
+shall make each payment of principal of, and interest on, the Loans and of fees
+and other amounts payable hereunder, not later than 12:00 Noon (New York City
+time) on the date when due, in Federal or other funds immediately available in
+New York City, without off set or counterclaim, to the Agent at its address
+referred to in Section 10.01. The Agent will promptly distribute to each Bank
+its ratable share of each such payment received by the Agent for the account of
+the Banks. Whenever any payment of principal of, or interest on, the Domestic
+Loans or of fees or other amounts payable hereunder shall be due on a day which
+is not a Domestic Business Day, the date for payment thereof shall be extended
+to the next succeeding Domestic Business Day. Whenever any payment of principal
+of, or interest on, the Euro-Dollar Loans shall be due on a day which is not a
+Euro-Dollar Business Day, the date for payment thereof shall be extended to the
+next succeeding Euro-Dollar Business Day unless such Euro-Dollar Business Day
+falls in another calendar month, in which case the date for payment thereof
+shall be the next preceding Euro-Dollar Business Day. Whenever any payment of
+principal of, or interest on, the Money Market Loans shall be due on a day which
+is not a Euro-Dollar Business Day, the date for payment thereof shall be
+extended to the next succeeding Euro-Dollar Business Day. If the date for any
+payment of principal is extended by operation of law or otherwise, interest
+thereon shall be payable for such extended time.
+
+         (b) Unless the Agent shall have received notice from a Borrower prior
+to the date on which any payment is due from such Borrower to the Banks
+hereunder that such Borrower will not make such payment in full, the Agent may
+assume that such Borrower has made such payment in full to the Agent on such
+date and the Agent may, in reliance upon such assumption, cause to be
+distributed to each
+
+
+                                       26
+
+<PAGE>   32
+
+
+
+Bank on such due date an amount equal to the amount then due such Bank. If and
+to the extent that such Borrower shall not have so made such payment, each Bank
+shall repay to the Agent forthwith on demand such amount distributed to such
+Bank together with interest thereon, for each day from the date such amount is
+distributed to such Bank until the date such Bank repays such amount to the
+Agent, at the Federal Funds Rate.
+
+         SECTION 2.13. Funding Losses. If a Borrower makes any payment of
+principal with respect to any Fixed Rate Loan or any Fixed Rate Loan is
+converted to a Domestic Loan (pursuant to Article 2, 6 or 8 or otherwise) on any
+day other than the last day of an Interest Period applicable thereto, or the
+last day of an applicable period fixed pursuant to Section 2.07(c), or if a
+Borrower fails to borrow, convert, continue or prepay any Fixed Rate Loans after
+notice has been given to any Bank in accordance with Section 2.04(a), 2.10(c),
+2.11(c) or 2.11(d) the Company shall reimburse each Bank within 15 days after
+demand for any resulting loss or expense incurred by it (or by an existing or
+prospective Participant in the related Loan), including (without limitation) any
+loss incurred in obtaining, liquidating or employing deposits from third
+parties, but excluding loss of margin for the period after any such payment or
+conversion or failure to borrow or prepay, provided that such Bank shall have
+delivered to the Company a certificate as to the amount of such loss or expense,
+which certificate shall be conclusive in the absence of manifest error.
+
+         SECTION 2.14. Computation of Interest and Fees. Interest based on the
+Prime Rate hereunder shall be computed on the basis of a year of 365 days (or
+366 days in a leap year) and paid for the actual number of days elapsed
+(including the first day but excluding the last day). All other interest and
+fees hereunder shall be computed on the basis of a year of 360 days and paid for
+the actual number of days elapsed (including the first day but excluding the
+last day).
+
+         SECTION 2.15. Change of Control. If a Change of Control shall occur,
+the Company will, within ten days after the occurrence thereof, give each Bank
+notice thereof, which notice shall describe in reasonable detail the facts and
+circumstances giving rise thereto and shall specify an Optional Termination Date
+for purposes of this Section (the "Optional Termination Date") which date shall
+not be less than 30 nor more than 60 days after the date of such notice. Each
+Bank may, by notice to the Company and the Agent given not less than three
+Domestic Business Days prior to the Optional Termination Date, terminate its
+Commitment (if any), which shall thereupon be terminated, and declare the Note
+held by it (together with accrued interest thereon) and any other amounts
+payable hereunder for its account to be, and such Note and such other amounts
+shall thereupon become, due and payable without presentment, demand, protest or
+other notice of any kind, all of which are hereby waived by the Company and the
+Borrowers, in each case effective on the Optional Termination Date.
+
+
+                                       27
+
+<PAGE>   33
+
+
+
+         A "Change of Control" shall occur if any person or group of persons
+(within the meaning of Section 13(d) of the Securities Exchange Act of 1934, as
+amended), other than Philip F. Anschutz, Anschutz Company or any of their
+affiliates, obtain ownership or control (whether in one transaction or one or
+more series of transactions) of more than 50% of the outstanding shares of
+common stock of the Company or of the shares of the Company entitled to vote on
+the election of members of the board of directors of the Company.
+
+                                    ARTICLE 3
+                                   CONDITIONS
+
+         SECTION 3.01. Closing. The closing hereunder shall occur upon receipt
+by the Agent of the following (in the case of any document, dated the Closing
+Date unless otherwise indicated):
+
+         (a) a duly executed Note of each Borrower for the account of each Bank
+dated on or before the Closing Date complying with the provisions of Section
+2.05;
+
+         (b) opinions of Yash Rana, Esq., counsel for the Company and the
+Borrowers, and Holme Roberts & Owen, LLP, substantially in the form of Exhibit
+E-1 and E-2 hereto, respectively, and covering such additional matters relating
+to the transactions contemplated hereby as the Required Banks may reasonably
+request;
+
+         (c) an opinion of Davis Polk & Wardwell, special counsel for the Agent,
+substantially in the form of Exhibit F hereto and covering such additional
+matters relating to the transactions contemplated hereby as the Required Banks
+may reasonably request;
+
+         (d) evidence satisfactory to the Agent that the commitments under the
+Existing Credit Agreement have been terminated and that the principal and
+interest on all loans and accrued fees outstanding thereunder have been paid in
+full;
+
+         (e) evidence satisfactory to the Agent of the payment of all fees and
+other amounts payable to the Agent for the account of the Banks or the Agent on
+or prior to the Closing Date, including, to the extent invoiced, reimbursement
+of all out-of-pocket expenses (including, without limitation, legal fees and
+expenses) required to be reimbursed or paid by the Borrower or the Company
+hereunder; and
+
+         (f) all documents the Agent may reasonably request relating to the
+existence of the Company and the Borrower, the corporate authority for and the
+
+
+
+                                       28
+
+<PAGE>   34
+
+
+
+validity of this Agreement and the Notes, and any other matters relevant hereto,
+all in form and substance satisfactory to the Agent.
+
+The Agent shall promptly notify the Company and the Banks of the Closing Date,
+and such notice shall be conclusive and binding on all parties hereto.
+
+         SECTION 3.02. All Borrowings. The obligation of any Bank to make a Loan
+on the occasion of any Borrowing is subject to the satisfaction of the following
+conditions:
+
+                  (a) the fact that the Closing Date shall have occurred on or
+         prior to May 4, 2001;
+
+                  (b) receipt by the Agent of a Notice of Borrowing as required
+         by Section 2.02 or 2.03, as the case may be;
+
+                  (c) the fact that, immediately before and after such
+         Borrowing, the aggregate outstanding principal amount of the Loans will
+         not exceed the aggregate amount of the Commitments and the aggregate
+         outstanding principal amount of the Loans made to each Borrower will
+         not exceed such Borrower's Available Amount;
+
+                  (d) the fact that, immediately before and after such
+         Borrowing, no Default shall have occurred and be continuing;
+
+                  (e) the fact that the representations and warranties contained
+         in this Agreement shall be true on and as of the date of such Borrowing
+         (except, in the case of the representations and warranties contained in
+         Section 4.04(b), as disclosed by the Borrower to the Banks in writing
+         in the Notice of Borrowing relating to such Borrowing); and
+
+                  (f) in the case of any Borrowing which would violate any
+         limitation imposed by the board of directors of the Company in effect
+         on the date hereof on the principal amount of any financing or the
+         outstanding principal amount of any financings of the Company or either
+         Borrower, receipt by the Agent of a copy, certified by an appropriate
+         officer of the Company, of the resolutions of the board of directors of
+         the Company pursuant to which such Borrowing is authorized.
+
+         Each Borrowing hereunder shall be deemed to be a representation and
+warranty by the Borrower on the date of such Borrowing as to the facts specified
+in clauses (c), (d) and (e) of this Section.
+
+
+
+
+                                       29
+
+<PAGE>   35
+
+
+
+                                    ARTICLE 4
+                         REPRESENTATIONS AND WARRANTIES
+
+         Each of the Company and each of the Borrowers represents and warrants
+that:
+
+         SECTION 4.01. Corporate Existence and Power. Each of the Company and
+the Borrowers is a corporation duly incorporated, validly existing and in good
+standing under the laws of the state of its incorporation, and has all corporate
+powers and all material governmental licenses, authorizations, qualifications,
+consents and approvals required to carry on its business as now conducted.
+
+         SECTION 4.02. Corporate and Governmental Authorization; No
+Contravention. The execution, delivery and performance by the Company and each
+Borrower of this Agreement and by each Borrower of its Notes are within such
+Person's corporate powers, have been duly authorized by all necessary corporate
+action, require no action by or in respect of, or filing with, any governmental
+body, agency or official and do not contravene, or constitute a default under,
+any provision of applicable law or regulation or of the certificate of
+incorporation or by-laws of such Person or of any material agreement, judgment,
+injunction, order, decree or other instrument binding upon such Person or any
+Significant Subsidiary or result in the creation or imposition of any Lien on
+any material asset of such Person or any Significant Subsidiary.
+
+         SECTION 4.03. Binding Effect. This Agreement constitutes a valid and
+binding agreement of the Company and each Borrower, and the Notes of each
+Borrower, when executed and delivered in accordance with this Agreement, will
+constitute valid and binding obligations of such Borrower, in each case
+enforceable in accordance with its terms except as the same may be limited by
+bankruptcy, insolvency or similar laws affecting creditors' rights generally and
+by general principles of equity.
+
+         SECTION 4.04. Financial Information.
+
+         (a) The consolidated balance sheet of the Company and its Consolidated
+Subsidiaries as of December 31, 2000 and the related consolidated statements of
+income and cash flows for the fiscal year then ended, reported on by Arthur
+Andersen LLP and set forth in the Company's 2000 Form 10-K, a copy of which has
+been delivered to each of the Banks, fairly present, in conformity with
+generally accepted accounting principles, the consolidated financial position of
+the Company and its Consolidated Subsidiaries as of such date and their
+consolidated results of operations and cash flows for such fiscal year.
+
+
+
+                                       30
+
+<PAGE>   36
+
+
+
+         (b) Since December 31, 2000 there has been no material adverse change
+in the financial position or results of operations of the Company and its
+Consolidated Subsidiaries, considered as a whole.
+
+         SECTION 4.05. Litigation. Except as disclosed in the Company's 2000
+Form 10-K and as specifically identified in Schedule 4.05, there is no action,
+suit or proceeding pending, or to the knowledge of the Company threatened,
+against the Company or any of its Subsidiaries before any court or arbitrator or
+any governmental body, agency or official in which there is a reasonable
+possibility of an adverse decision which would materially adversely affect the
+consolidated financial position or consolidated results of operations of the
+Company and its Consolidated Subsidiaries, considered as a whole, or which in
+any manner draws into question the validity of this Agreement or the Notes.
+
+         SECTION 4.06. Compliance with ERISA. Each member of the ERISA Group has
+fulfilled its obligations under the minimum funding standards of ERISA and the
+Internal Revenue Code with respect to each Plan and is in compliance in all
+respects with the presently applicable provisions of ERISA and the Internal
+Revenue Code with respect to each Plan, except where failure to comply would not
+have a material adverse effect on the consolidated financial position or
+consolidated results of operations of the Company and its Consolidated
+Subsidiaries, considered as a whole. No member of the ERISA Group has (i) sought
+a waiver of the minimum funding standard under Section 412 of the Internal
+Revenue Code in respect of any Plan, (ii) failed to make any contribution or
+payment to any Plan or Multiemployer Plan or in respect of any Benefit
+Arrangement, or made any amendment to any Plan or Benefit Arrangement, which has
+resulted or could reasonably be expected to result in the imposition of a Lien
+or the posting of a bond or other security under ERISA or the Internal Revenue
+Code or (iii) incurred any liability under Title IV of ERISA other than a
+liability to the PBGC for premiums under Section 4007 of ERISA.
+
+         SECTION 4.07. Environmental Matters. (a) The operations of the Company
+and each of its Subsidiaries comply in all respects with all Environmental Laws
+except such non-compliance which would not (if enforced in accordance with
+applicable law) reasonably be expected to result, individually or in the
+aggregate, in a material adverse effect on the financial position or results of
+operations of the Company and its Consolidated Subsidiaries, considered as a
+whole.
+
+         (b) Except as specifically identified in Schedule 4.07, the Company and
+each of its Subsidiaries have obtained all material licenses, permits,
+authorizations and registrations required under any Environmental Laws
+("Environmental Permits") necessary for their respective operations, and all
+such Environmental Permits are in good standing, and the Company and each of its
+Subsidiaries is in compliance with all material terms and conditions of such
+Environmental Permits.
+
+
+                                       31
+
+<PAGE>   37
+
+
+
+
+         (c) Except as specifically identified in Schedule 4.07, there are
+neither any conditions or circumstances known to the Company which may give rise
+to any claims or liabilities respecting any Environmental Laws or Hazardous
+Substances arising from the operations of the Company or its Subsidiaries
+(including, without limitation, off-site liabilities), nor any additional costs
+of compliance with Environmental Laws, which collectively have an aggregate
+potential liability in excess of $50,000,000.
+
+         SECTION 4.08. Taxes. United States Federal income tax returns of the
+Company and its Subsidiaries have been examined and closed through the fiscal
+year ended December 31, 1992. The Company and its Subsidiaries have filed all
+United States Federal income tax returns and all other material tax returns
+which are required to be filed by them and have paid all taxes due pursuant to
+such returns or pursuant to any assessment received by the Company or any
+Subsidiary, except for taxes the amount, applicability or validity of which is
+being contested in good faith by appropriate proceedings. The charges, accruals
+and reserves on the books of the Company and its Subsidiaries in respect of
+taxes or other governmental charges are, in the opinion of the Company,
+adequate.
+
+         SECTION 4.09. Subsidiaries. Each of the Company's corporate Significant
+Subsidiaries (including, but not limited to, the Borrowers) is a corporation
+duly incorporated, validly existing and in good standing under the laws of its
+jurisdiction of incorporation, and has all corporate powers and all material
+governmental licenses, authorizations, qualifications, consents and approvals
+required to carry on its business as now conducted.
+
+         SECTION 4.10. Not an Investment Company. None of the Company and the
+Borrowers is an "investment company" within the meaning of the Investment
+Company Act of 1940, as amended.
+
+         SECTION 4.11. Full Disclosure. All written information heretofore
+furnished by the Company or the Borrowers to the Agent or any Bank for purposes
+of or in connection with this Agreement or any transaction contemplated hereby
+is, and all such information hereafter furnished by the Company or the Borrowers
+to the Agent or any Bank will be, true and accurate in all material respects on
+the date as of which such information is stated or certified.
+
+
+
+
+                                       32
+
+<PAGE>   38
+
+
+
+                                    ARTICLE 5
+                                    COVENANTS
+
+         The Company agrees that, so long as any Bank has any Commitment
+hereunder or any amount payable under any Note remains unpaid:
+
+         SECTION 5.01. Information. The Company will deliver to each of the
+Banks:
+
+         (a) as soon as available and in any event within 120 days after the end
+of each fiscal year of the Company, a consolidated balance sheet of the Company
+and its Consolidated Subsidiaries as of the end of such fiscal year and the
+related consolidated statements of income and cash flows for such fiscal year,
+setting forth in each case in comparative form the figures for the previous
+fiscal year, all reported on in a manner acceptable to the Securities and
+Exchange Commission by Arthur Andersen LLP or other independent public
+accountants of nationally recognized standing;
+
+          (b) as soon as available and in any event within 60 days after the end
+of each of the first three quarters of each fiscal year of the Company, a
+consolidated balance sheet of the Company and its Consolidated Subsidiaries as
+of the end of such quarter and the related consolidated statements of income and
+cash flows for such quarter and for the portion of the Company's fiscal year
+ended at the end of such quarter, setting forth in the case of such statements
+of income and cash flows in comparative form the figures for the corresponding
+quarter and the corresponding portion of the Company's previous fiscal year, all
+certified (subject to normal year-end adjustments) as to fairness of
+presentation, generally accepted accounting principles and consistency by the
+chief financial officer or the chief accounting officer of the Company;
+
+          (c) simultaneously with the delivery of each set of financial
+statements referred to in clauses (a) and (b) above, a certificate of the chief
+financial officer (or such officer's designee, designated in writing by such
+officer) or the chief accounting officer of the Company (i) setting forth in
+reasonable detail the calculations required to establish whether the Company was
+in compliance with the requirements of Sections 5.06 and 5.07 on the date of
+such financial statements and (ii) stating whether any Default exists on the
+date of such certificate and, if any Default then exists, setting forth the
+details thereof and the action which the Company is taking or proposes to take
+with respect thereto;
+
+         (d) within five Domestic Business Days after any officer of the Company
+or either Borrower obtains knowledge of any Default, if such Default is then
+continuing, a certificate of the chief financial officer or the chief accounting
+officer of the Company or such Borrower setting forth the details thereof and
+the
+
+
+                                       33
+
+<PAGE>   39
+
+
+
+action which the Company or such Borrower is taking or proposes to take with
+respect thereto;
+
+         (e) promptly upon the mailing thereof to the shareholders of the
+Company generally, copies of all financial statements, reports and proxy
+statements so mailed;
+
+         (f) promptly upon the filing thereof, copies of all registration
+statements (other than the exhibits thereto and any registration statements on
+Form S-8 or its equivalent) and reports on Forms 10-K, 10-Q and 8-K (or their
+equivalents) (other than any amendment on Form 8-K the sole purpose of which is
+to file exhibits relating to existing Debt meeting the requirements of clause
+(ii) of the definition of Debt) which the Company shall have filed with the
+Securities and Exchange Commission;
+
+         (g) if and when any member of the ERISA Group (i) gives or is required
+to give notice to the PBGC of any "reportable event" (as defined in Section 4043
+of ERISA) with respect to any Plan which might constitute grounds for a
+termination of such Plan under Title IV of ERISA, or knows that the plan
+administrator of any Plan has given or is required to give notice of any such
+reportable event, a copy of the notice of such reportable event given or
+required to be given to the PBGC; (ii) receives notice of complete or partial
+withdrawal liability under Title IV of ERISA or notice that any Multiemployer
+Plan is in reorganization, is insolvent or has been terminated, a copy of such
+notice; (iii) receives notice from the PBGC under Title IV of ERISA of an intent
+to terminate, impose liability (other than for premiums under Section 4007 of
+ERISA) in respect of, or appoint a trustee to administer any Plan, a copy of
+such notice; (iv) applies for a waiver of the minimum funding standard under
+Section 412 of the Internal Revenue Code, a copy of such application; (v) gives
+notice of intent to terminate any Plan under Section 4041(c) of ERISA, a copy of
+such notice and other information filed with the PBGC; (vi) gives notice of
+withdrawal from any Plan pursuant to Section 4063 of ERISA, a copy of such
+notice; or (vii) fails to make any payment or contribution to any Plan or
+Multiemployer Plan or in respect of any Benefit Arrangement or makes any
+amendment to any Plan or Benefit Arrangement which has resulted or could
+reasonably be expected to result in the imposition of a Lien or the posting of a
+bond or other security, a certificate of the chief financial officer or the
+chief accounting officer of the Company setting forth details as to such
+occurrence and action, if any, which the Company or applicable member of the
+ERISA Group is required or proposes to take; and
+
+         (h) from time to time such additional information regarding the
+financial position or business of the Company and its Subsidiaries and each
+Borrower and its Subsidiaries as the Agent, at the request of any Bank, may
+reasonably request.
+
+
+
+                                       34
+
+<PAGE>   40
+
+
+
+Information required to be delivered pursuant to clauses 5.01(a), (b), (e) or
+(f) above shall be deemed to have been delivered on the date on which the
+Company provides notice to the Banks that such information has been posted on
+the Company's website on the Internet at the website address listed on the
+signature pages hereof, at sec.gov/edaux/searches.htm or at another website
+identified in such notice and accessible by the Banks without charge; provided
+that (i) such notice may be included in a certificate delivered pursuant to
+clause 5.01(c) and (ii) the Company shall deliver paper copies of the
+information referred to in clauses 5.01(a), (b), (e) or (f) to any Bank which
+requests such delivery.
+
+         SECTION 5.02. Maintenance of Property; Insurance. (a) The Company will
+keep, and will cause each Significant Subsidiary to keep, all property useful
+and necessary in its business in good working order and condition, ordinary wear
+and tear excepted.
+
+         (b) The Company will maintain, and will cause each Significant
+Subsidiary to maintain (either in the name of the Borrower or in such
+Significant Subsidiary's own name), with financially sound and responsible
+insurance companies, insurance on all their respective properties in at least
+such amounts and against at least such risks (and with such risk retention) as
+are usually insured against in the same general area by companies of established
+repute engaged in the same or a similar business; and will furnish to the Banks,
+upon request from the Agent, information presented in reasonable detail as to
+the insurance so carried; provided that, in lieu of any such insurance, the
+Company and any Significant Subsidiary may maintain a system or systems of
+self-insurance and reinsurance which will accord with sound practices of
+similarly situated corporations maintaining such systems and with respect to
+which the Company or such Significant Subsidiary will maintain adequate
+insurance reserves, all in accordance with generally accepted accounting
+principles and in accordance with sound insurance principles and practice.
+
+         SECTION 5.03. Maintenance of Existence. The Company will, and will
+cause each Significant Subsidiary to, preserve, renew and keep in full force and
+effect their respective corporate existence and their respective rights,
+privileges and franchises necessary or desirable in the normal conduct of
+business.
+
+         SECTION 5.04. Compliance with Laws. The Company will comply, and will
+cause each Significant Subsidiary to comply, in all material respects with all
+applicable laws, ordinances, rules, regulations, and requirements of
+governmental authorities (including, without limitation, Environmental Laws and
+ERISA and the rules and regulations thereunder), except where the necessity of
+compliance therewith is contested in good faith by appropriate proceedings and
+for which adequate reserves in conformity with generally accepted accounting
+principles have been established.
+
+
+                                       35
+
+<PAGE>   41
+
+
+
+         SECTION 5.05. Inspection of Property, Books and Records. The Company
+will keep, and will cause each Significant Subsidiary to keep, proper books of
+record and account in which full, true and correct entries shall be made of all
+dealings and transactions in relation to its business and activities; and will
+permit, and will cause each Significant Subsidiary to permit, representatives of
+any Bank at such Bank's expense to visit and inspect any of their respective
+properties, to examine and make abstracts from any of their respective books and
+records and to discuss their respective affairs, finances and accounts with
+their respective officers, employees and independent public accountants, all at
+such reasonable times and as often as may reasonably be desired.
+
+         SECTION 5.06. Debt Coverage. Consolidated Debt of the Company and its
+Consolidated Subsidiaries as of the last day of any fiscal quarter of the
+Company will not exceed 375% of Consolidated EBITDA for the four consecutive
+fiscal quarters of the Company ending on such date.
+
+         SECTION 5.07. Negative Pledge. Neither the Company nor either Borrower
+will, and the Company will not permit any Subsidiary to, create, assume or
+suffer to exist any Lien on any asset now owned or hereafter acquired by it,
+except:
+
+         (a) Liens existing on the date of this Agreement securing Debt
+outstanding on the date of this Agreement in an aggregate principal amount not
+exceeding $375,000,000;
+
+         (b) any Lien existing on any asset of any corporation at the time such
+corporation becomes a Subsidiary and not created in contemplation of such event;
+
+         (c) any Lien on any asset securing Debt incurred or assumed for the
+purpose of financing all or any part of the cost of acquiring such asset,
+provided that such Lien attaches to such asset concurrently with or within 180
+days after the acquisition thereof;
+
+         (d) any Lien on any asset of any corporation existing at the time such
+corporation is merged or consolidated with or into the Company or a Subsidiary
+and not created in contemplation of such event;
+
+         (e) any Lien existing on any asset prior to the acquisition thereof by
+the Company or a Subsidiary and not created in contemplation of such
+acquisition;
+
+         (f) any Lien on assets or capital stock of Minor Subsidiaries which
+secures Debt of Persons which are not Consolidated Subsidiaries in which the
+Company or any of its Subsidiaries has made investments ("Joint Ventures"), but
+for the payment of which Debt no other recourse may be had to the Company or
+
+
+                                       36
+
+<PAGE>   42
+
+
+
+any Subsidiaries ("Limited Recourse Debt"), or any Lien on equity interests in a
+Joint Venture securing Limited Recourse Debt of such Joint Venture;
+
+         (g) any Lien arising out of the refinancing, replacement, extension,
+renewal or refunding of any Debt secured by any Lien permitted by any of the
+foregoing clauses of this Section, provided that such Debt is not increased and
+is not secured by any additional assets;
+
+         (h) Liens arising in the ordinary course of business which (i) do not
+secure Debt, (ii) do not secure any obligation in an amount exceeding
+$100,000,000 and (iii) do not in the aggregate materially detract from the value
+of its assets or materially impair the use thereof in the operation of its
+business; and
+
+         (i) Liens not otherwise permitted by and in addition to the foregoing
+clauses of this Section securing Debt in an aggregate principal amount at any
+time outstanding not to exceed $750,000,000.
+
+         SECTION 5.08. Consolidations, Mergers and Sales of Assets. The Company
+will not (i) consolidate or merge with or into any other Person; provided that
+the Company may merge with another Person if (x) the Company is the Person
+surviving such merger and (y) after giving effect to such merger, no Default
+shall have occurred and be continuing, or (ii) sell, lease or otherwise
+transfer, directly or indirectly, all or substantially all of the assets of the
+Company and its Subsidiaries, taken as a whole, to any other Person. The Company
+will retain ownership, directly or indirectly, of at least 80% of the capital
+stock, and at least 80% of the voting power, of each Borrower.
+
+         SECTION 5.09. Use of Proceeds. The proceeds of the Loans made under
+this Agreement will be used by the Borrowers for general corporate purposes.
+None of such proceeds will be used, directly or indirectly, in violation of any
+applicable law or regulation, and no use of such proceeds will include any use
+for the purpose, whether immediate, incidental or ultimate, of buying or
+carrying any Margin Stock.
+
+
+
+                                    ARTICLE 6
+                                    DEFAULTS
+
+         SECTION 6.01. Events of Default. If one or more of the following events
+shall have occurred and be continuing:
+
+
+                                       37
+
+<PAGE>   43
+
+
+
+                  (a) any principal of any Loan shall not be paid when due, or
+         any interest, any fees or any other amount payable hereunder shall not
+         be paid within five days of the due date thereof;
+
+                  (b) the Company or either Borrower shall fail to observe or
+         perform any covenant contained in Section 5.01(d) or Sections 5.06 to
+         5.09, inclusive;
+
+                  (c) the Company or either Borrower shall fail to observe or
+         perform any covenant or agreement contained in this Agreement (other
+         than those covered by clause (a) or (b) above) for 30 days after the
+         earlier of a senior officer's knowledge of such failure or written
+         notice thereof has been given to the Company by the Agent at the
+         request of any Bank;
+
+                  (d) any representation, warranty, certification or statement
+         made by the Company or either Borrower in this Agreement or in any
+         certificate, financial statement or other document delivered pursuant
+         to this Agreement shall prove to have been incorrect in any material
+         respect when made (or deemed made);
+
+                  (e) the Company or any Subsidiary shall fail to make any
+         payment or payments, in the aggregate in excess of $100,000,000, in
+         respect of any Material Debt when due or within any applicable grace
+         period;
+
+                  (f) any event or condition shall occur which results in the
+         acceleration of the maturity of any Material Debt;
+
+                  (g) the Company or any Significant Subsidiary shall commence a
+         voluntary case or other proceeding seeking liquidation, reorganization
+         or other relief with respect to itself or its debts under any
+         bankruptcy, insolvency or other similar law now or hereafter in effect
+         or seeking the appointment of a trustee, receiver, liquidator,
+         custodian or other similar official of it or any substantial part of
+         its property, or shall consent to any such relief or to the appointment
+         of or taking possession by any such official in an involuntary case or
+         other proceeding commenced against it, or shall make a general
+         assignment for the benefit of creditors, or shall fail generally to pay
+         its debts as they become due, or shall take any corporate action to
+         authorize or otherwise acquiesce in any of the foregoing;
+
+                  (h) an involuntary case or other proceeding shall be commenced
+         against the Company or any Significant Subsidiary seeking liquidation,
+         reorganization or other relief with respect to it or its debts under
+         any bankruptcy, insolvency or other similar law now or hereafter in
+         effect or seeking the appointment of a trustee, receiver, liquidator,
+         custodian or
+
+
+                                       38
+
+<PAGE>   44
+
+
+
+         other similar official of it or any substantial part of its property,
+         and such involuntary case or other proceeding shall remain undismissed
+         and unstayed for a period of 60 days; or an order for relief shall be
+         entered against the Company or any Significant Subsidiary under the
+         federal bankruptcy laws as now or hereafter in effect;
+
+                  (i) any member of the ERISA Group shall fail to pay when due
+         an amount or amounts aggregating in excess of $100,000,000 which it
+         shall have become liable to pay under Title IV of ERISA; or notice of
+         intent to terminate a Material Plan shall be filed under Title IV of
+         ERISA by any member of the ERISA Group, any plan administrator or any
+         combination of the foregoing; or the PBGC shall institute proceedings
+         under Title IV of ERISA to terminate, to impose liability (other than
+         for premiums under Section 4007 of ERISA) in respect of, or to cause a
+         trustee to be appointed to administer any Material Plan; or a condition
+         specified in Section 4042(a) of ERISA shall exist by reason of which
+         the PBGC would be entitled to obtain a decree adjudicating that any
+         Material Plan must be terminated; or there shall occur a complete or
+         partial withdrawal from, or a default, within the meaning of Section
+         4219(c)(5) of ERISA, with respect to, one or more Multiemployer Plans
+         which could cause one or more members of the ERISA Group to incur a
+         current payment obligation in excess of $100,000,000;
+
+                  (j) a judgment or order for the payment of money in excess of
+         $100,000,000 shall be rendered against the Company or any Subsidiary
+         and such judgment or order shall continue unsatisfied, in effect and
+         unstayed for a period of 10 days (or such longer period of time after
+         which the judgment holder may cause the creation of Liens against or
+         seizure of any property of the Company or such Subsidiary) (it being
+         understood that in any event an administrative order of a public
+         utility commission shall not constitute an "order" for purposes of this
+         clause (j) so long as (x) no one is seeking to enforce such order in an
+         action, suit or proceeding before a court and (y) reserves in the full
+         amount of the cost of such order are maintained on the books of the
+         Company and its Subsidiaries); or
+
+                  (k) the Company shall repudiate in writing any of its
+         obligations under Article 9 or any such obligation shall be
+         unenforceable against the Company in accordance with its terms, or the
+         Company shall so assert in writing;
+
+then, and in every such event, the Agent shall (i) if requested by Banks having
+more than 50% in aggregate amount of the Commitments, by notice to the Company
+terminate the Commitments and they shall thereupon terminate, and/or (ii) if
+requested by Banks holding Notes evidencing more than 50% in aggregate principal
+amount of the Loans, by notice to the Company declare the Notes
+
+
+                                       39
+
+<PAGE>   45
+
+
+
+(together with accrued interest thereon) to be, and the Notes shall thereupon
+become, immediately due and payable without presentment, demand, protest or
+other notice of any kind, all of which are hereby waived by the Company and each
+Borrower; provided that in the case of any of the Events of Default specified in
+clause (g) or (h) above with respect to the Company or either Borrower, without
+any notice to the Company or either Borrower or any other act by the Agent or
+the Banks, the Commitments shall thereupon automatically terminate and the Notes
+(together with accrued interest thereon) shall become immediately due and
+payable without presentment, demand, protest or other notice of any kind, all of
+which are hereby waived by the Company and each Borrower.
+
+         SECTION 6.02. Notice of Default. The Agent shall give notice to the
+Company under Section 6.01(c) promptly upon being requested to do so by any Bank
+and shall thereupon notify all the Banks thereof.
+
+
+
+                                    ARTICLE 7
+                                    THE AGENT
+
+         SECTION 7.01. Appointment and Authorization. Each Bank irrevocably
+appoints and authorizes the Agent to take such action as agent on its behalf and
+to exercise such powers under this Agreement and the Notes as are delegated to
+the Agent by the terms hereof or thereof, together with all such powers as are
+reasonably incidental thereto.
+
+         SECTION 7.02. Agent and Affiliates. Bank of America, N.A., and its
+affiliates may make loans to, issue letters of credit for the account of, accept
+deposits from, acquire equity interests in and generally engage in any kind of
+banking, trust, financial advisory, underwriting or other business with each of
+the Company, any Borrower or any Subsidiary or affiliate of the Company or any
+Borrower (each, a "Qwest Entity") as though Bank of America, N.A., were not the
+Agent hereunder and without notice to or consent of the Banks. The Banks
+acknowledge that, pursuant to such activities, Bank of America , N.A., or its
+affiliates may receive information regarding any Qwest Entity (including
+information that may be subject to confidentiality obligations in favor of such
+Qwest Entity) and acknowledge that the Agent shall be under no obligation to
+provide such information to them. With respect to its Loans, Bank of America,
+N.A., shall have the same rights and powers under this Agreement as any other
+Bank and may exercise such rights and powers as though it were not the Agent,
+and the terms "Bank" and "Banks" include Bank of America, N.A. in its individual
+capacity.
+
+
+                                       40
+
+<PAGE>   46
+
+
+
+         SECTION 7.03. Action by Agent. The obligations of the Agent hereunder
+are only those expressly set forth herein. Without limiting the generality of
+the foregoing, the Agent shall not be required to take any action with respect
+to any Default, except as expressly provided in Article 6. The Agent shall not
+have or be deemed to have any fiduciary relationship with any Bank or
+participant, and no implied covenants, functions, responsibilities, duties,
+obligations or liabilities shall be read into this Agreement or otherwise exist
+against the Agent. Without limiting the generality of the foregoing sentence,
+the use of the term "agent" herein and in the Notes with reference to the Agent
+is not intended to connote any fiduciary or other implied (or express)
+obligations arising under agency doctrine of any applicable law. Instead, such
+term is used merely as a matter of market custom, and is intended to create or
+reflect only an administrative relationship between independent contracting
+parties.
+
+         SECTION 7.04. Consultation with Experts. The Agent may consult with
+legal counsel (who may be counsel for the Company or a Borrower), independent
+public accountants and other experts selected by it and shall not be liable for
+any action taken or omitted to be taken by it in good faith in accordance with
+the advice of such counsel, accountants or experts.
+
+         SECTION 7.05. Delegation of Duties. The Agent may execute any of its
+duties under this Agreement by or through agents, employees or attorneys-in-fact
+and shall be entitled to advice of counsel and other consultants or experts
+concerning all matters pertaining to such duties. The Agent shall not be
+responsible for the negligence or misconduct of any agent or attorney-in-fact
+that it selects in the absence of gross negligence or willful misconduct.
+
+         SECTION 7.06. Liability of Agent. Neither the Agent nor any of its
+affiliates nor any of their respective directors, officers, agents or employees
+shall be liable for any action taken or not taken by it in connection herewith
+(i) with the consent or at the request of the Required Banks or (ii) in the
+absence of its own gross negligence or willful misconduct. Neither the Agent nor
+any of its affiliates nor any of their respective directors, officers, agents or
+employees shall be responsible for or have any duty to ascertain, inquire into
+or verify (i) any statement, warranty or representation made in connection with
+this Agreement or any borrowing hereunder; (ii) the performance or observance of
+any of the covenants or agreements of the Company or any Borrower; (iii) the
+satisfaction of any condition specified in Article 3, except receipt of items
+required to be delivered to the Agent; or (iv) the validity, effectiveness or
+genuineness of this Agreement, the Notes or any other instrument or writing
+furnished in connection herewith. None of the Agent, its affiliates and their
+respective directors, officers, agents and employees shall be under any
+obligation to any Bank or participant to inspect the properties, books or
+records of any Qwest Entity. The Agent shall not incur any liability by acting
+in reliance upon any notice, consent, certificate,
+
+
+                                       41
+
+<PAGE>   47
+
+
+
+statement, or other writing (which may be a bank wire, telex or similar writing)
+believed by it to be genuine or to be signed by the proper party or parties.
+
+         SECTION 7.07. Indemnification. Each Bank shall, ratably in accordance
+with its Commitment, indemnify the Agent, its affiliates and their respective
+directors, officers, agents and employees (to the extent not reimbursed by the
+Company or the Borrowers) against any cost, expense (including counsel fees and
+disbursements), claim, demand, action, loss or liability (except such as result
+from such indemnitees' gross negligence or willful misconduct) that such
+indemnitees may suffer or incur in connection with this Agreement or any action
+taken or omitted by such indemnitees hereunder. No action taken with the consent
+or at the request of the Required Banks shall be deemed to constitute gross
+negligence or willful misconduct for purposes of this Section.
+
+         SECTION 7.08. Credit Decision; Disclosure of Information by Agent. Each
+Bank acknowledges that none of the Agent, its affiliates and their respective
+directors, officers, agents and employees (each, an "Agent-Related Person") has
+made any representation or warranty to it, and that no act by the Agent
+hereafter taken, including any consent to and acceptance of any assignment or
+review of the affairs of any Qwest Entity, shall be deemed to constitute any
+representation or warranty by the Agent or any other Person to any Bank as to
+any matter, including whether Agent-Related Persons have disclosed material
+information in their possession. Each Bank represents to the Agent that it has,
+independently and without reliance upon any Agent-Related Person and based on
+such documents and information as it has deemed appropriate, made its own
+appraisal of and investigation into the business, prospects, operations,
+property, financial and other condition and creditworthiness of the Qwest
+Entities, and all applicable bank or other regulatory laws relating to the
+transactions contemplated hereby, and made its own decision to enter into this
+Agreement and to extend credit hereunder. Each Bank also represents that it
+will, independently and without reliance upon any Agent-Related Person and based
+on such documents and information as it shall deem appropriate at the time,
+continue to make its own credit analysis, appraisals and decisions in taking or
+not taking action under this Agreement, and to make such investigations as it
+deems necessary to inform itself as to the business, prospects, operations,
+property, financial and other condition and creditworthiness of the Qwest
+Entities. Except for the notices, reports and other documents expressly required
+to be furnished to the Banks by the Agent herein, the Agent shall not have any
+duty or responsibility to provide any Bank with any credit or other information
+concerning the business, prospects, operations, property, financial and other
+condition or creditworthiness of any of the Qwest Entities which may come into
+the possession of any Agent-Related Person.
+
+         SECTION 7.09. Successor Agent. The Agent may resign at any time by
+giving notice thereof to the Banks and the Company. Upon any such resignation,
+the Required Banks shall have the right to appoint a successor Agent (with the
+
+
+                                       42
+
+<PAGE>   48
+
+
+
+consent of the Company, such consent not to be unreasonably withheld). If no
+successor Agent shall have been so appointed by the Required Banks, and shall
+have accepted such appointment, within 30 days after the retiring Agent gives
+notice of resignation, then the retiring Agent may, on behalf of the Banks,
+appoint a successor Agent (with the consent of the Company, such consent not to
+be unreasonably withheld), which shall be a commercial bank organized or
+licensed under the laws of the United States of America or of any State thereof
+and having a combined capital and surplus of at least $400,000,000. Upon the
+acceptance of its appointment as Agent hereunder by a successor Agent, such
+successor Agent shall thereupon succeed to and become vested with all the rights
+and duties of the retiring Agent, and the retiring Agent shall be discharged
+from its duties and obligations hereunder. After any retiring Agent's
+resignation hereunder as Agent, the provisions of this Article shall inure to
+its benefit as to any actions taken or omitted to be taken by it while it was
+Agent.
+
+         SECTION 7.10. Agent's Fee. The Company shall pay to the Agent for its
+own account fees in the amounts and at the times previously agreed upon between
+the Company and the Agent.
+
+
+
+                                    ARTICLE 8
+                            CHANGES IN CIRCUMSTANCES
+
+         SECTION 8.01. Basis for Determining Interest Rate Inadequate or Unfair.
+If on or prior to the first day of any Interest Period for any Euro-Dollar Loan
+or Money Market LIBOR Loan:
+
+         (a) the Agent determines (which determination will be conclusive absent
+manifest error) that adequate and reasonable means do not exist for ascertaining
+the Adjusted London Interbank Offered Rate for such Interest Period, or
+
+         (b) in the case of Euro-Dollar Loans, Banks having 50% or more of the
+aggregate amount of the Euro-Dollar Loans advise the Agent that the Adjusted
+London Interbank Offered Rate as determined by the Agent will not adequately and
+fairly reflect the cost to such Banks of funding their Euro-Dollar Loans for
+such Interest Period,
+
+the Agent shall forthwith give notice thereof to the Company and the Banks,
+whereupon until the Agent notifies the Company that the circumstances giving
+rise to such suspension no longer exist, (i) the obligations of the Banks to
+make Euro-Dollar Loans or to convert outstanding Loans into Euro-Dollar Loans
+shall be suspended and (ii) each outstanding Euro-Dollar Loan shall be converted
+into a Domestic Loan on the last day of the then current Interest Period
+applicable
+
+
+                                       43
+
+<PAGE>   49
+
+
+
+thereto. Unless the Borrower notifies the Agent at least two Domestic Business
+Days before the date of any Fixed Rate Borrowing for which a Notice of Borrowing
+has previously been given that it elects not to borrow on such date, (i) if such
+Fixed Rate Borrowing is a Committed Borrowing, such Borrowing shall instead be
+made as a Domestic Borrowing and (ii) if such Fixed Rate Borrowing is a Money
+Market LIBOR Borrowing, the Money Market LIBOR Loans comprising such Borrowing
+shall bear interest for each day from and including the first day to but
+excluding the last day of the Interest Period applicable thereto at the Base
+Rate for such day.
+
+         SECTION 8.02. Illegality. If, on or after the date of this Agreement,
+the adoption of any applicable law, rule or regulation, or any change in any
+applicable law, rule or regulation, or any change in the interpretation or
+administration thereof by any governmental authority, central bank or comparable
+agency charged with the interpretation or administration thereof, or compliance
+by any Bank (or its Euro-Dollar Lending Office) with any request or directive
+(whether or not having the force of law) of any such authority, central bank or
+comparable agency shall make it unlawful or impossible for any Bank (or its
+Euro-Dollar Lending Office) to make, maintain or fund its Euro-Dollar Loans to a
+Borrower and such Bank shall so notify the Agent, the Agent shall forthwith give
+notice thereof to the other Banks and the Company, whereupon until such Bank
+notifies the Company and the Agent that the circumstances giving rise to such
+suspension no longer exist, the obligation of such Bank to make Euro-Dollar
+Loans to such Borrower, or to convert outstanding Loans into Euro-Dollar Loans,
+shall be suspended. Before giving any notice to the Agent pursuant to this
+Section, such Bank shall designate a different Euro-Dollar Lending Office if
+such designation will avoid the need for giving such notice and will not, in the
+judgment of such Bank, be otherwise disadvantageous to such Bank. If such notice
+is given, each Euro-Dollar Loan of such Bank then outstanding shall be converted
+to a Domestic Loan either (a) on the last day of the then current Interest
+Period applicable to such Euro-Dollar Loan if such Bank may lawfully continue to
+maintain and fund such Loan to such day or (b) immediately if such Bank shall
+determine that it may not lawfully continue to maintain and fund such Loan to
+such day.
+
+         SECTION 8.03. Increased Cost and Reduced Return. (a) If on or after (x)
+the date hereof, in the case of any Committed Loan or any obligation to make
+Committed Loans or (y) the date of the related Money Market Quote, in the case
+of any Money Market Loan, the adoption of any applicable law, rule or
+regulation, or any change in any applicable law, rule or regulation, or any
+change in the interpretation or administration thereof by any governmental
+authority, central bank or comparable agency charged with the interpretation or
+administration thereof, or compliance by any Bank (or its Applicable Lending
+Office) with any request or directive (whether or not having the force of law)
+of any such authority, central bank or comparable agency shall impose, modify or
+deem applicable any reserve (including, without limitation, any such requirement
+imposed by the Board
+
+
+                                       44
+
+<PAGE>   50
+
+
+
+of Governors of the Federal Reserve System with respect to any Euro-Dollar Loan
+any such requirement included in an applicable Euro-Dollar Reserve Percentage),
+special deposit, insurance assessment or similar requirement against assets of,
+deposits with or for the account of, or credit extended by, any Bank (or its
+Applicable Lending Office) or shall impose on any Bank (or its Applicable
+Lending Office) or on the United States market for certificates of deposit or
+the London interbank market any other condition affecting its Fixed Rate Loans,
+its Note or its obligation to make Fixed Rate Loans and the result of any of the
+foregoing is to increase the cost to such Bank (or its Applicable Lending
+Office) of making or maintaining any Fixed Rate Loan, or to reduce the amount of
+any sum received or receivable by such Bank (or its Applicable Lending Office)
+under this Agreement or under its Note with respect thereto, by an amount deemed
+by such Bank to be material, then, within 15 days after demand by such Bank
+(with a copy to the Agent), the Company shall pay to such Bank such additional
+amount or amounts as will compensate such Bank for such increased cost or
+reduction.
+
+         (b) If any Bank shall have determined that, after the date hereof, the
+adoption of any applicable law, rule or regulation regarding capital adequacy,
+or any change in any such law, rule or regulation, or any change in the
+interpretation or administration thereof by any governmental authority, central
+bank or comparable agency charged with the interpretation or administration
+thereof, or any request or directive regarding capital adequacy (whether or not
+having the force of law) of any such authority, central bank or comparable
+agency (including, without limitation, any determination by any such authority,
+central bank or agency that, for purposes of determining capital adequacy
+requirements, the Commitments do not constitute commitments with an original
+maturity of one year or less), has or would have the effect of reducing the rate
+of return on capital of such Bank (or its Parent) as a consequence of such
+Bank's obligations hereunder to a level below that which such Bank (or its
+Parent) could have achieved but for such adoption, change, request or directive
+(taking into consideration its policies with respect to capital adequacy) by an
+amount deemed by such Bank to be material, then from time to time, within 15
+days after demand by such Bank (with a copy to the Agent), the Company shall pay
+to such Bank such additional amount or amounts as will compensate such Bank (or
+its Parent) for such reduction.
+
+         (c) Each Bank will promptly notify the Company and the Agent of any
+event of which it has knowledge, occurring after the date hereof, which will
+entitle such Bank to compensation pursuant to this Section and will designate a
+different Applicable Lending Office if such designation will avoid the need for,
+or reduce the amount of, such compensation and will not, in the judgment of such
+Bank, be otherwise disadvantageous to such Bank. A certificate of any Bank
+claiming compensation under this Section and setting forth the additional amount
+or amounts to be paid to it hereunder shall be conclusive in the absence of
+manifest
+
+
+                                       45
+
+<PAGE>   51
+
+
+
+error. In determining such amount, such Bank may use any reasonable averaging
+and attribution methods.
+
+         SECTION 8.04. Taxes. (a) Any and all payments by the Company or a
+Borrower to or for the account of any Bank or the Agent hereunder or under any
+Note shall be made free and clear of and without deduction for any and all
+present or future taxes, duties, levies, imposts, deductions, charges or
+withholdings, and all liabilities with respect thereto, excluding, (x) in the
+case of each Bank and the Agent, taxes imposed on its income or profits, and
+franchise taxes imposed on it, by the jurisdiction under the laws of which such
+Bank or the Agent (as the case may be) is organized or any political subdivision
+thereof, (y) in the case of each Bank, taxes imposed on its income or profits,
+and franchise or similar taxes imposed on it, by the jurisdiction of such Bank's
+Applicable Lending Office or any political subdivision thereof, taxes that are
+imposed by any jurisdiction by reason of such Bank doing or having done business
+in such jurisdiction other than solely as a result of this Agreement or any Note
+or any transaction contemplated hereby, and (z) in the case of each Bank and the
+Agent, any branch profits taxes imposed by the United States or any similar tax
+imposed by any other jurisdiction in which such Bank or the Agent is organized
+or in which its Applicable Lending Office is located or any political
+subdivision thereof (all such non-excluded taxes, duties, levies, imposts,
+deductions, charges, withholdings and liabilities being hereinafter referred to
+as "Taxes"). If the Company or a Borrower shall be required by law to deduct any
+Taxes from or in respect of any sum payable hereunder or under any Note to any
+Bank or the Agent, (i) the sum payable shall be increased as necessary so that
+after making all required deductions (including deductions applicable to
+additional sums payable under this Section 8.04) such Bank or the Agent (as the
+case may be) receives an amount equal to the sum it would have received had no
+such deductions been made, (ii) such Person shall make such deductions, (iii)
+such Person shall pay the full amount deducted to the relevant taxation
+authority or other authority in accordance with applicable law and (iv) such
+Person shall furnish to the Agent, at its address referred to in Section 10.01,
+the original or a certified copy of a receipt evidencing payment thereof.
+
+         (b) In addition, the Company agrees to pay any present or future stamp
+or documentary taxes and any other excise or property taxes, or charges or
+similar levies which arise from any payment made hereunder or under any Note or
+from the execution or delivery of, or otherwise with respect to, this Agreement
+or any Note (hereinafter referred to as "Other Taxes").
+
+         (c) The Company agrees to indemnify each Bank and the Agent for the
+full amount of Taxes or Other Taxes (including, without limitation, any Taxes or
+Other Taxes imposed or asserted by any jurisdiction on amounts payable under
+this Section 8.04) paid by such Bank or the Agent (as the case may be) and any
+liability (including penalties, interest and expenses) arising therefrom or with
+respect thereto; provided that the Company's indemnification obligation under
+
+
+                                       46
+
+<PAGE>   52
+
+
+
+this Section 8.04(c) shall be only with respect to Taxes, Other Taxes and
+liabilities related to payments made by the Company or a Borrower under this
+Agreement. This indemnification shall be made within 15 days from the date such
+Bank or the Agent (as the case may be) makes demand therefor.
+
+         (d) Each Bank organized under the laws of a jurisdiction outside the
+United States, on or prior to the date of its execution and delivery of this
+Agreement in the case of each Bank listed on the signature pages hereof, on or
+prior to the date on which it becomes a Bank in the case of each other Bank, on
+or prior to the date on which any such Bank grants any participating interest
+pursuant to Section 10.06 or otherwise ceases to act for its own account with
+respect to any portion of any sums payable to it under this Agreement, and from
+time to time thereafter if requested in writing by the Company (but only so long
+as such Bank remains lawfully able to do so), shall provide the Company with
+Internal Revenue Service form W-8BEN, W-8ECI and/or W-8IMY, as appropriate, or
+any successor form prescribed by the Internal Revenue Service (together with any
+form, documentation or information such Bank is required or chooses to transmit
+with any such forms), certifying that such Bank is entitled to benefits under an
+income tax treaty to which the United States is a party which reduces the rate
+of withholding tax on payments of interest or certifying that the income
+receivable pursuant to this Agreement is effectively connected with the conduct
+of a trade or business in the United States and/or certifying as provided on
+Form W-8IMY. If the form provided by a Bank at the time such Bank first becomes
+a party to this Agreement indicates a United States interest withholding tax
+rate in excess of zero, withholding tax at such rate shall be considered
+excluded from "Taxes" as defined in Section 8.04(a) imposed by the United
+States.
+
+         (e) For any period with respect to which a Bank has failed to provide
+the Company with the appropriate form pursuant to Section 8.04(d) (unless such
+failure is due to a change in treaty, law or regulation occurring subsequent to
+the date on which a form originally was required to be provided), such Bank
+shall not be entitled to indemnification under Section 8.04(a) with respect to
+Taxes imposed by the United States; provided, however, that should a Bank, which
+is otherwise exempt from or subject to a reduced rate of withholding tax, become
+subject to Taxes because of its failure to deliver a form required hereunder,
+the Company shall take such steps as such Bank shall reasonably request to
+assist such Bank to recover such Taxes.
+
+         (f) If the Company or a Borrower is required to pay additional amounts
+to or for the account of any Bank pursuant to this Section 8.04, then such Bank
+will change the jurisdiction of its Applicable Lending Office so as to eliminate
+or reduce any such additional payment which may thereafter accrue if such
+change, in the judgment of such Bank, is not otherwise disadvantageous to such
+Bank.
+
+
+
+                                       47
+
+<PAGE>   53
+
+
+
+         SECTION 8.05. Domestic Loans Substituted for Affected Euro-Dollar
+Loans. If (i) the obligation of any Bank to make Euro-Dollar Loans to a Borrower
+has been suspended pursuant to Section 8.02 or (ii) any Bank has demanded
+compensation under Section 8.03 with respect to its Euro-Dollar Loans and the
+Borrower shall, by at least five Euro-Dollar Business Days' prior notice to such
+Bank through the Agent, have elected that the provisions of this Section shall
+apply to such Bank, then, unless and until such Bank notifies the Company that
+the circumstances giving rise to such suspension or demand for compensation no
+longer exist:
+
+         (a) all Loans to such Borrower which would otherwise be made by such
+Bank as (or continued as or converted into) Euro-Dollar Loans shall instead be
+Domestic Loans (on which interest and principal shall be payable
+contemporaneously with the related Euro-Dollar Loans of the other Banks), and
+
+         (b) after each of its Euro-Dollar Loans to such Borrower has been
+repaid (or converted to a Domestic Loan), all payments of principal which would
+otherwise be applied to repay such Euro-Dollar Loans shall be applied to repay
+its Domestic Loans instead.
+
+If such Bank notifies such Borrower that the circumstances giving rise to such
+notice no longer apply, the principal amount of each such Domestic Loan shall be
+converted into a Euro-Dollar Loan on the first day of the next succeeding
+Interest Period applicable to the related Euro-Dollar Loans of the other Banks.
+
+         SECTION 8.06. Substitution of Bank. If (i) the obligation of any Bank
+to make Euro-Dollar Loans has been suspended pursuant to Section 8.02, (ii) any
+Bank has demanded compensation under Section 8.03 or (iii) any Bank has not
+signed an amendment or waiver which must be signed by all the Banks to become
+effective, and such amendment or waiver has been signed by the Super-Majority
+Banks, the Company shall have the right, with the assistance of the Agent, to
+seek a mutually satisfactory substitute bank or banks (which may be one or more
+of the Banks) to purchase the Notes (by paying to such Bank the principal amount
+of such Note, together with accrued interest thereon and any other amounts
+payable to such Bank hereunder) and assume the Commitment of such Bank.
+
+
+
+                                    ARTICLE 9
+                                    GUARANTY
+
+         SECTION 9.01. The Guaranty. The Company hereby unconditionally
+guarantees the full and punctual payment (whether at stated maturity, upon
+acceleration or otherwise) of the principal of and interest on each Note issued
+by
+
+
+                                       48
+
+<PAGE>   54
+
+
+
+Capital Funding pursuant to this Agreement, and the full and punctual payment of
+all other amounts payable by Capital Funding under this Agreement. Upon failure
+by Capital Funding to pay punctually any such amount, the Company shall
+forthwith on demand pay the amount not so paid at the place and in the manner
+specified in this Agreement.
+
+         SECTION 9.02. Guaranty Unconditional. The obligations of the Company
+hereunder shall be unconditional, irrevocable and absolute and, without limiting
+the generality of the foregoing, shall not be released, discharged or otherwise
+affected by:
+
+                  (i) any extension, renewal, settlement, compromise, waiver or
+         release in respect of any obligation of Capital Funding under this
+         Agreement or any Note, by operation of law or otherwise;
+
+                  (ii) any modification or amendment of or supplement to this
+         Agreement or any Note;
+
+                  (iii) any release, impairment, non-perfection or invalidity of
+         any direct or indirect security for any obligation of Capital Funding
+         under this Agreement or any Note;
+
+                  (iv) any change in the corporate existence, structure or
+         ownership of Capital Funding or any insolvency, bankruptcy,
+         reorganization or other similar proceeding affecting Capital Funding or
+         its assets or any resulting release or discharge of any obligation of
+         Capital Funding contained in this Agreement or any Note;
+
+                  (v) the existence of any claim, set-off or other rights which
+         the Company may have at any time against Capital Funding, the Agent,
+         any Bank or any other Person, whether in connection herewith or any
+         unrelated transactions, provided that nothing herein shall prevent the
+         assertion of any such claim by separate suit or compulsory
+         counterclaim;
+
+                  (vi) any invalidity or unenforceability relating to or against
+         Capital Funding for any reason of this Agreement or any Note, or any
+         provision of applicable law or regulation purporting to prohibit the
+         payment by Capital Funding of the principal of or interest on any Note
+         or any other amount payable by it under this Agreement; or
+
+                  (vii) any other act or omission to act or delay of any kind by
+         Capital Funding, the Agent, any Bank or any other Person or any other
+         circumstance whatsoever which might, but for the provisions of this
+         paragraph, constitute a legal or equitable discharge of the Company's
+         obligations hereunder.
+
+
+                                       49
+
+<PAGE>   55
+
+
+
+         SECTION 9.03. Discharge Only upon Payment in Full; Reinstatement In
+Certain Circumstances. The Company's obligations hereunder shall remain in full
+force and effect until the Commitments shall have terminated and the principal
+of and interest on the Notes and all other amounts payable by the Company and
+Capital Funding under this Agreement shall have been indefeasibly paid in full.
+If at any time any payment of the principal of or interest on any Note or any
+other amount payable by Capital Funding under this Agreement is rescinded or
+must be otherwise restored or returned upon the insolvency, bankruptcy or
+reorganization of Capital Funding or otherwise, the Company's obligations
+hereunder with respect to such payment shall be reinstated at such time as
+though such payment had been due but not made at such time.
+
+         SECTION 9.04. Waiver by the Company. The Company irrevocably waives
+acceptance hereof, presentment, demand, protest and any notice not provided for
+herein, as well as any requirement that at any time any action be taken by any
+Person against Capital Funding or any other Person.
+
+         SECTION 9.05. Subrogation. The Company irrevocably waives any and all
+rights to which it may be entitled, by operation of law or otherwise, upon
+making any payment hereunder to be subrogated to the rights of the payee against
+Capital Funding with respect to such payment or against any direct or indirect
+security therefor, or otherwise to be reimbursed, indemnified or exonerated by
+or for the account of Capital Funding in respect thereof.
+
+         SECTION 9.06. Stay of Acceleration. In the event that acceleration of
+the time for payment of any amount payable by Capital Funding under this
+Agreement or its Notes is stayed upon insolvency, bankruptcy or reorganization
+of Capital Funding, all such amounts otherwise subject to acceleration under the
+terms of this Agreement shall nonetheless be payable by the Company hereunder
+forthwith on demand by the Agent made at the request of the Required Banks.
+
+
+
+                                   ARTICLE 10
+                                  MISCELLANEOUS
+
+         SECTION 10.01. Notices. All notices, requests and other communications
+to any party hereunder shall be in writing (including bank wire, telex,
+facsimile transmission or similar writing) and shall be given to such party: (x)
+in the case of the Company, a Borrower or the Agent, at its address or facsimile
+number set forth on the signature pages hereof, (y) in the case of any Bank, at
+its address or facsimile number set forth in its Administrative Questionnaire or
+(z) in the case of any party, such other address or facsimile number as such
+party may hereafter specify for the purpose by notice to the Agent and the
+Company. Each such
+
+
+                                       50
+
+<PAGE>   56
+
+
+
+notice, request or other communication shall be effective (i) if given by mail,
+72 hours after such communication is deposited in the mails with first class
+postage prepaid, addressed as aforesaid, (ii) if given by facsimile
+transmission, when such facsimile is transmitted to the facsimile number
+specified pursuant to this Section 10.01 and telephonic confirmation of receipt
+thereof is received, or (iii) if given by any other means, when delivered at the
+address specified in this Section; provided that notices to the Agent under
+Article 2 or Article 8 shall not be effective until received.
+
+         SECTION 10.02. No Waivers. No failure or delay by the Agent or any Bank
+in exercising any right, power or privilege hereunder or under any Note shall
+operate as a waiver thereof nor shall any single or partial exercise thereof
+preclude any other or further exercise thereof or the exercise of any other
+right, power or privilege. The rights and remedies herein provided shall be
+cumulative and not exclusive of any rights or remedies provided by law.
+
+         SECTION 10.03. Expenses; Indemnification. (a) The Company shall pay (i)
+all reasonable out-of-pocket expenses of the Agent, including reasonable fees
+and disbursements of special counsel for the Agent, in connection with the
+preparation and administration of this Agreement, any waiver or consent
+hereunder or any amendment hereof or any Default or alleged Default hereunder
+and (ii) if an Event of Default occurs, all out-of-pocket expenses incurred by
+the Agent and each Bank, including fees and disbursements of counsel, in
+connection with such Event of Default and collection, bankruptcy, insolvency and
+other enforcement proceedings resulting therefrom.
+
+         (b) The Company agrees to indemnify the Agent and each Bank, their
+respective affiliates and the respective directors, officers, agents and
+employees of the foregoing (each an "Indemnitee") and hold each Indemnitee
+harmless from and against any and all liabilities, losses, damages, costs and
+expenses of any kind, including, without limitation, the reasonable fees and
+disbursements of counsel, which may be incurred by such Indemnitee in connection
+with any investigative, administrative or judicial proceeding (whether or not
+such Indemnitee shall be designated a party thereto) brought or threatened
+relating to or arising out of this Agreement or any actual or proposed use of
+proceeds of Loans hereunder; provided that (i) no Indemnitee shall have the
+right to be indemnified hereunder for such Indemnitee's own gross negligence or
+willful misconduct as determined by a court of competent jurisdiction and (ii)
+the Company shall not be liable for any settlement entered into by an Indemnitee
+without its consent (which shall not be unreasonably withheld).
+
+         (c) Each Indemnitee agrees to give the Company prompt written notice
+after it receives any notice of the commencement of any action, suit or
+proceeding for which such Indemnitee may wish to claim indemnification pursuant
+to subsection (b). The Company shall have the right, exercisable by giving
+written
+
+
+                                       51
+
+<PAGE>   57
+
+
+
+notice within fifteen Domestic Business Days after the receipt of notice from
+such Indemnitee of such commencement, to assume, at the Company's expense, the
+defense of any such action, suit or proceeding; provided, that such Indemnitee
+shall have the right to employ separate counsel in any such action, suit or
+proceeding and to participate in the defense thereof, but the fees and expenses
+of such separate counsel shall be at such Indemnitee's expense unless (1) the
+Company shall have agreed to pay such fees and expenses; (2) the Company shall
+have failed to assume the defense of such action, suit or proceeding or shall
+have failed to employ counsel reasonably satisfactory to such Indemnitee in any
+such action, suit or proceeding; or (3) such Indemnitee shall have been advised
+by independent counsel in writing (with a copy to the Company) that there may be
+one or more defenses available to such Indemnitee which are in conflict with
+those available to the Company (in which case, if such Indemnitee notifies the
+Company in writing that it elects to employ separate counsel at the Company's
+expense, the Company shall be obligated to assume the expense, it being
+understood, however, that the Company shall not be liable for the fees or
+expenses of more than one separate firm of attorneys, which firm shall be
+designated in writing by such Indemnitee).
+
+         SECTION 10.04. Sharing of Set-offs. Each Bank agrees that if it shall,
+by exercising any right of set-off or counterclaim or otherwise, receive payment
+of a proportion of the aggregate amount of principal and interest due with
+respect to any Note held by it which is greater than the proportion received by
+any other Bank in respect of the aggregate amount of principal and interest due
+with respect to any Note held by such other Bank, the Bank receiving such
+proportionately greater payment shall purchase such participations in the Notes
+held by the other Banks, and such other adjustments shall be made, as may be
+required so that all such payments of principal and interest with respect to the
+Notes held by the Banks shall be shared by the Banks pro rata; provided that
+nothing in this Section shall impair the right of any Bank to exercise any right
+of set-off or counterclaim it may have and to apply the amount subject to such
+exercise to the payment of indebtedness of the Borrower other than its
+indebtedness hereunder. Each Borrower agrees, to the fullest extent it may
+effectively do so under applicable law, that any holder of a participation in a
+Note, whether or not acquired pursuant to the foregoing arrangements, may
+exercise rights of set-off or counterclaim and other rights with respect to such
+participation as fully as if such holder of a participation were a direct
+creditor of such Borrower in the amount of such participation.
+
+         SECTION 10.05. Amendments and Waivers. Any provision of this Agreement
+or the Notes may be amended or waived if, but only if, such amendment or waiver
+is in writing and is signed by the Company, the Borrowers and the Required Banks
+(and, if the rights or duties of the Agent are affected thereby, by the Agent);
+provided that no such amendment or waiver shall, unless signed by all the Banks,
+(i) increase or decrease the Commitment of any Bank
+
+
+                                       52
+
+<PAGE>   58
+
+
+
+(except for a ratable decrease in the Commitments of all Banks) or subject any
+Bank to any additional obligation (it being understood that an increase or
+decrease pursuant to Section 2.01(c), 8.06 or 10.06 shall not constitute an
+amendment or waiver for this purpose), (ii) reduce the principal of or rate of
+interest on any Loan or any fees hereunder, (iii) postpone the date fixed for
+any payment of principal of or interest on any Loan or any fees hereunder or for
+any reduction or termination of any Commitment, (iv) amend or waive the
+provisions of Article 9 or (v) change the percentage of the Commitments or of
+the aggregate unpaid principal amount of the Notes, or the number of Banks,
+which shall be required for the Banks or any of them to take any action under
+this Section or any other provision of this Agreement.
+
+         SECTION 10.06. Successors and Assigns. (a) The provisions of this
+Agreement shall be binding upon and inure to the benefit of the parties hereto
+and their respective successors and assigns, except that none of the Company and
+the Borrowers may assign or otherwise transfer any of its rights under this
+Agreement without the prior written consent of all Banks.
+
+         (b) Any Bank may at any time grant to one or more banks or other
+institutions (each a "Participant") participating interests in its Commitment or
+any or all of its Loans, with (and subject to) the written consent of the
+Company and the Agent, which consents shall not be unreasonably withheld;
+provided that if a Participant is a Bank Affiliate or is another Bank, no such
+consent shall be required. In the event of any such grant by a Bank of a
+participating interest to a Participant, such Bank shall remain responsible for
+the performance of its obligations hereunder, and the Company, the Borrowers and
+the Agent shall continue to deal solely and directly with such Bank in
+connection with such Bank's rights and obligations under this Agreement. Any
+agreement pursuant to which any Bank may grant such a participating interest
+shall provide that such Bank shall retain the sole right and responsibility to
+enforce the obligations of the Company and the Borrowers hereunder including,
+without limitation, the right to approve any amendment, modification or waiver
+of any provision of this Agreement; provided that such participation agreement
+may provide that such Bank will not agree to any modification, amendment or
+waiver of this Agreement described in clause (i), (ii) or (iii) of Section 10.05
+without the consent of the Participant. The Borrowers agree that each
+Participant shall, to the extent provided in its participation agreement and
+subject to subsection (e) below, be entitled to the benefits of Article 8 with
+respect to its participating interest. An assignment or other transfer which is
+not permitted by subsection (c) or (d) below but which is consented to in
+accordance with this subsection (b) shall be given effect for purposes of this
+Agreement only to the extent of a participating interest granted in accordance
+with this subsection (b).
+
+         (c) Any Bank may at any time assign to one or more banks or other
+institutions (each an "Assignee") all, or a proportionate part of all, of its
+rights and
+
+
+                                       53
+
+<PAGE>   59
+
+
+
+obligations under this Agreement and the Notes, and such Assignee shall assume
+such rights and obligations, pursuant to an Assignment and Assumption Agreement
+in substantially the form of Exhibit G hereto executed by such Assignee and such
+transferor Bank, with (and subject to) the subscribed consent of the Company and
+the Agent, which consents shall not be unreasonably withheld; provided that (i)
+if an Assignee is a Bank Affiliate or is another Bank, no such consent shall be
+required; (ii) such assignment may, but need not, include rights of the
+transferor Bank in respect of outstanding Money Market Loans; (iii) any
+assignment shall not be less than $5,000,000, or if less, shall constitute an
+assignment of all of such Bank's rights and obligations under this Agreement and
+the Notes except for any rights retained in accordance with clause (ii) of this
+proviso; and (iv) any consent of the Company otherwise required under this
+subsection shall not be required if an Event of Default specified under clause
+(g) or (h) of Section 6.01 has occurred and is continuing. Upon execution and
+delivery of such instrument and payment by such Assignee to such transferor Bank
+of an amount equal to the purchase price agreed between such transferor Bank and
+such Assignee, such Assignee shall be a Bank party to this Agreement and shall
+have all the rights and obligations of a Bank with a Commitment as set forth in
+such instrument of assumption, and the transferor Bank shall be released from
+its obligations hereunder to a corresponding extent, and no further consent or
+action by any party shall be required. Upon the consummation of any assignment
+pursuant to this subsection (c), the transferor Bank, the Agent and the
+Borrowers shall make appropriate arrangements so that, if required, new Notes
+are issued to the Assignee. In connection with any such assignment, the
+transferor Bank shall pay to the Agent an administrative fee for processing such
+assignment in the amount of $2,500. If the Assignee is not incorporated under
+the laws of the United States of America or a state thereof, it shall deliver to
+the Company and the Agent certification as to exemption from deduction or
+withholding of any United States federal income taxes in accordance with Section
+8.04.
+
+         (d) Any Bank may at any time pledge or assign a security interest in
+all or any portion of its rights under this Agreement and its Notes to secure
+obligations of such Bank, including any pledge or assignment to secure
+obligations to a Federal Reserve Bank; provided that no such pledge or
+assignment shall release the transferor Bank from its obligations hereunder or
+substitute any such pledgee or assignee for such Bank as a party hereto.
+
+         (e) No Assignee, Participant or other transferee of any Bank's rights
+shall be entitled to receive any greater payment under Section 8.03 or 8.04 than
+such Bank would have been entitled to receive with respect to the rights
+transferred, unless such transfer is made with the Company's prior written
+consent or by reason of the provisions of Section 8.02, 8.03 or 8.04 requiring
+such Bank to designate a different Applicable Lending Office under certain
+circumstances or at a time when the circumstances giving rise to such greater
+payment did not exist.
+
+
+
+                                       54
+
+<PAGE>   60
+
+
+
+         (f) Notwithstanding anything to the contrary contained herein, any Bank
+(a "Granting Bank") may grant to a special purpose funding vehicle (an "SPC") of
+such Granting Bank, identified as such in writing from time to time by the
+Granting Bank to the Agent and the Company, the option to provide all or any
+part of any Loan that such Granting Bank would otherwise be obligated to make
+hereunder, provided that (i) nothing herein shall constitute a commitment to
+make any Loan by any SPC and (ii) if an SPC elects not to exercise such option
+or otherwise fails to provide all or any part of such Loan, the Granting Bank
+shall be obligated to make such Loan pursuant to the terms hereof. The making of
+a Loan by an SPC hereunder shall utilize the Commitment of the Granting Bank to
+the same extent, and as if, such Loan were made by the Granting Bank. Each party
+hereto agrees that no SPC shall be liable for any payment under this Agreement
+for which a Bank would otherwise be liable, for so long as, and to the extent,
+the related Granting Bank makes such payment. In furtherance of the foregoing,
+each party hereto hereby agrees that, prior to the date that is one year and one
+day after the payment in full of all outstanding senior indebtedness of any SPC,
+it will not institute against, or join any other person in instituting against,
+such SPC any bankruptcy, reorganization, arrangement, insolvency or liquidation
+proceedings or similar proceedings under the laws of the United States or any
+State thereof. In addition, notwithstanding anything to the contrary contained
+in this Section 10.06, any SPC may (i) with notice to, but without the prior
+written consent of, the Company or the Agent and without paying any processing
+fee therefor, assign all or portion of its interests in any Loans to its
+Granting Bank or to any financial institutions (if consented to by the Company
+and the Agent) providing liquidity and/or credit facilities to or for the
+account of such SPC to fund the Loans made by such SPC or to support the
+securities (if any) issued by such SPC to fund such Loans and (ii) disclose on a
+confidential basis any non-public information relating to its Loans to any
+rating agency, commercial paper dealer or provider of a surety, guarantee or
+credit or liquidity enhancement to such SPC.
+
+         SECTION 10.07. Termination of Existing Credit Agreement. The Company
+and each of the Banks that is also a "Bank" or "Lender" party to the Existing
+Credit Agreement agrees that the "Commitments" as defined in the Existing Credit
+Agreement shall be terminated in their entirety on the Effective Date in
+accordance with the terms thereof, subject only to this Section 10.07. Each of
+such Banks waives (a) any requirement of notice of such termination pursuant to
+Section 2.08 or 2.09, as the case may be, of the Existing Credit Agreement and
+(b) any claim to any facility fees or other fees under the Existing Credit
+Agreement for any day on or after the Effective Date. Each of the Company and
+the Borrowers (i) represents and warrants that (x) after giving effect to the
+preceding sentences of this Section 10.07, the commitments under the Existing
+Credit Agreement will be terminated effective not later than the Effective Date
+and (y) no loans are, as of the date hereof, or will be, as of the Effective
+Date, outstanding under the Existing Credit Agreement and (ii) covenants that
+all accrued and
+
+
+                                       55
+
+<PAGE>   61
+
+
+
+unpaid facility fees and any other amounts due and payable under the Existing
+Credit Agreement shall have been paid on or prior to the Effective Date.
+
+         SECTION 10.08. Governing Law; Submission to Jurisdiction. This
+Agreement and each Note shall be governed by and construed in accordance with
+the laws of the State of New York. Each of the Company and the Borrowers hereby
+submits to the nonexclusive jurisdiction of the United States District Court for
+the Southern District of New York and of any New York State court sitting in New
+York City for purposes of all legal proceedings arising out of or relating to
+this Agreement or the transactions contemplated hereby, and irrevocably waives,
+to the fullest extent permitted by law, any objection which it may now or
+hereafter have to the laying of the venue of any such proceeding brought in such
+a court and any claim that any such proceeding brought in such a court has been
+brought in an inconvenient forum.
+
+         SECTION 10.09. Counterparts; Integration; Effectiveness. This Agreement
+may be signed in any number of counterparts, each of which shall be an original,
+with the same effect as if the signatures thereto and hereto were upon the same
+instrument. This Agreement constitutes the entire agreement and understanding
+among the parties hereto and supersedes any and all prior agreements and
+understandings, oral or written, relating to the subject matter hereof. This
+Agreement shall become effective upon receipt by the Agent of counterparts
+hereof signed by each of the Company, the Borrowers, the Banks and the Agent
+(or, in the case of any party as to which an executed counterpart shall not have
+been received, receipt by the Agent in form satisfactory to it of telegraphic,
+telex or other written confirmation from such party of execution of a
+counterpart hereof by such party).
+
+         SECTION 10.10. WAIVER OF JURY TRIAL. EACH OF THE COMPANY, THE
+BORROWERS, THE AGENT AND THE BANKS HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT
+TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS
+AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+         SECTION 10.11. Confidentiality. Each of the Agent and the Banks agrees
+to use its reasonable best efforts to keep confidential any information
+delivered or made available by or on behalf of the Company or a Borrower to it;
+provided that nothing herein shall prevent the Agent or any Bank from disclosing
+such information (i) to the Agent or any other Bank in connection with the
+transactions contemplated hereby, (ii) to its officers, directors, employees,
+agents, attorneys and accountants who have a need to know such information in
+accordance with customary banking practices and who receive such information
+having been made aware of the restrictions set forth in this Section, (iii) upon
+the order of any court or administrative agency, (iv) upon the request or demand
+of any regulatory agency or authority having jurisdiction over such party, (v)
+which has been
+
+
+                                       56
+
+<PAGE>   62
+
+
+
+publicly disclosed (by a Person other than such Agent or Bank), (vi) which has
+been obtained from any Person other than the Company and its Subsidiaries,
+provided that such Person is not (x) known to it to be bound by a
+confidentiality agreement with the Company or its Subsidiaries or any other
+obligation not to disclose or (y) known to it to be otherwise prohibited from
+transmitting the information to it by a contractual, legal or fiduciary
+obligation, (vii) in connection with the exercise of any remedy hereunder or
+under the Notes or (viii) to any actual or proposed participant or assignee of
+all or any of its rights hereunder which has agreed in writing to be bound by
+the provisions of this Section.
+
+         SECTION 10.12. No Reliance on Margin Stock. Each Bank represents to the
+Agent and each of the other Banks that it in good faith is not relying upon any
+Margin Stock as collateral in the extension or maintenance of the credit
+provided for in this Agreement.
+
+         SECTION 10.13. Syndication and Co-Documentation Agents. No Bank
+identified on the cover page of this Agreement as a syndication agent or co-
+documentation agent shall have any right, power, obligation, liability,
+responsibility or duty under this Agreement in such capacity.
+
+
+                                       57
+
+<PAGE>   63
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed by their respective authorized officers as of the day and year
+first above written.
+
+
+                              QWEST CAPITAL FUNDING, INC.
+
+
+                              By: /s/ Drake S. Tempest
+                                 ---------------------------------------------
+                                  Title: Executive Vice President
+
+
+                                  1801 California Street
+                                  Denver, Colorado 80202
+                                  Facsimile number:   303-896-6468
+                                  Telephone number:   303-896-9055
+                                  Attention: Senior Vice President and Treasurer
+
+                                        with a copy (other than of any notice
+                                        delivered pursuant to Article 2) to:
+
+                                  Facsimile number:   303-296-2782
+                                  Telephone number:   303-992-5109
+                                  Attention: General Counsel
+
+
+                              QWEST CORPORATION
+
+
+                              By: /s/ James Smith
+                                 ---------------------------------------------
+                                  Title: President
+
+
+                                  1801 California Street
+                                  Denver, Colorado 80202
+                                  Facsimile number:   303-896-6468
+                                  Telephone number:   303-896-9055
+                                  Attention: Senior Vice President and Treasurer
+
+                                        with a copy (other than of any notice
+                                        delivered pursuant to Article 2) to:
+
+                                  Facsimile number:   303-296-2782
+                                  Telephone number:   303-992-5109
+                                  Attention: General Counsel
+
+
+
+<PAGE>   64
+
+
+
+                              QWEST COMMUNICATIONS
+                                   INTERNATIONAL INC.
+
+
+                              By: /s/ Drake S. Tempest
+                                 ---------------------------------------------
+                                  Title: Executive Vice President
+
+
+                                  1801 California Street
+                                  Denver, Colorado 80202
+                                  Facsimile number:   303-896-6468
+                                  Telephone number:   303-896-9055
+                                  Attention: Senior Vice President and Treasurer
+
+                                        with a copy (other than of any notice
+                                        delivered pursuant to Article 2) to:
+
+                                  Facsimile number:   303-296-2782
+                                  Telephone number:   303-992-5109
+                                  Attention: General Counsel
+
+
+
+
+
+
+<PAGE>   65
+
+
+
+
+COMMITMENTS
+
+$262,500,000                  BANK OF AMERICA, N.A.
+
+
+                              By: /s/ Richard M. Peck
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$262,500,000                  THE CHASE MANHATTAN BANK
+
+
+                              By: /s/ Edmond DeForest
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$200,000,000                  CITIBANK, N.A.
+
+
+                              By: /s/ Marjorie Futornick
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$200,000,000                  COMMERZBANK AG, NEW YORK AND
+                                  GRAND CAYMAN BRANCHES
+
+
+                              By: /s/ Christian Jagenberg
+                                 ---------------------------------------------
+                                  Title: Senior Vice President and Manager
+
+
+
+                              By: /s/ Steven F. Larsen
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+
+
+<PAGE>   66
+
+
+
+$160,000,000                  ABN AMRO BANK N.V.
+
+
+                              By: /s/ David C. Carrington
+                                 ---------------------------------------------
+                                  Title: Group Vice President
+
+
+
+                              By: /s/ Frances O'R. Logan
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+$160,000,000                  THE BANK OF NEW YORK
+
+
+                              By: /s/ James W. Whitaker
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+$160,000,000                  BANK ONE, NA
+
+
+                              By: /s/ Lori J. Thomas
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$160,000,000                  BAYERISCHE LANDESBANK GIROZENTRALE
+                                  CAYMAN ISLANDS BRANCH
+
+
+                              By: /s/ Hereward Drummond
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+                              By: /s/ James H. Boyle
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+
+<PAGE>   67
+
+
+
+$160,000,000                  BEAR STEARNS CORPORATE LENDING INC.
+
+
+                              By: /s/ Keith Barnish
+                                 ---------------------------------------------
+                                  Title: Senior Managing Director
+
+
+
+$160,000,000                  CREDIT SUISSE FIRST BOSTON
+
+
+                              By: /s/ David L. Sawyer
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+                              By: /s/ Lalita Advani
+                                 ---------------------------------------------
+                                  Title: Assistant Vice President
+
+
+
+$160,000,000                  FIRST UNION NATIONAL BANK
+
+
+                              By: /s/ C. Brand Hosford
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$160,000,000                  FLEET NATIONAL BANK
+
+
+                              By: /s/ Ellery (Tim) Willard
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$160,000,000                  LEHMAN COMMERCIAL PAPER INC.
+
+
+                              By: /s/ G. Andrew Keith
+                                 ---------------------------------------------
+                                  Title: Authorized Signatory
+
+
+
+
+<PAGE>   68
+
+
+
+$160,000,000                  ROYAL BANK OF CANADA
+
+
+                              By: /s/ Andy Williamson
+                                 ---------------------------------------------
+                                  Title: Senior Manager
+
+
+
+
+$160,000,000                  THE ROYAL BANK OF SCOTLAND PLC
+
+
+                              By: /s/ Clark McGinn
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+
+$160,000,000                  WELLS FARGO BANK, N.A.
+
+
+                              By: /s/ Jeffrey P. Rose
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+
+$160,000,000                  WESTDEUTSCHE LANDESBANK
+                                  GIROZENTRALE, NEW YORK BRANCH
+
+
+                              By: /s/ Duncan M. Robertson
+                                 ---------------------------------------------
+                                  Title: Director
+
+
+
+                              By: /s/ Pascal Kabemba
+                                 ---------------------------------------------
+                                  Title: Associate Director
+
+
+
+
+<PAGE>   69
+
+
+
+$120,000,000                  THE BANK OF NOVA SCOTIA
+
+
+                              By: /s/ M. Van Otterloo
+                                 ---------------------------------------------
+                                  Title: Managing Director
+
+
+
+$120,000,000                  DEUTSCHE BANK AG NEW YORK BRANCH
+                                  AND/OR CAYMAN ISLANDS BRANCH
+
+
+                              By: /s/ Robert B. Landis
+                                 ---------------------------------------------
+                                  Title: Managing Director
+
+
+
+                              By: /s/ Philippe Sandmeier
+                                 ---------------------------------------------
+                                  Title: Director
+
+
+
+$120,000,000                  MELLON BANK, N.A.
+
+
+                              By: /s/ Nancy E. Gale
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+$120,000,000                  WACHOVIA BANK, N.A.
+
+
+                              By: /s/ Christopher Borim
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+$107,000,000                  THE INDUSTRIAL BANK OF JAPAN, LIMITED
+                                  NEW YORK BRANCH
+
+
+                              By: /s/ Michael N. Oakes
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+<PAGE>   70
+
+
+
+$90,000,000                   MERRILL LYNCH BANK USA
+
+
+                              By: /s/ D. Kevin Imlay
+                                 ---------------------------------------------
+                                  Title: Senior Lending Officer
+
+
+
+
+$90,000,000                   U.S. BANK NATIONAL ASSOCIATION
+
+
+                              By: /s/ Thomas McCarthy
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+
+$75,000,000                   KEYBANK NATIONAL ASSOCIATION
+
+
+                              By: /s/ Tony Yee
+                                 ---------------------------------------------
+                                  Title: Assistant Vice President
+
+
+
+
+$53,000,000                   THE FUJI BANK, LIMITED
+
+
+                              By: /s/ Masahito Fukuda
+                                 ---------------------------------------------
+                                  Title: Senior Vice President
+
+
+
+
+$50,000,000                   THE SANWA BANK, LIMITED
+
+
+                              By: /s/ Steven Yamada
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+
+<PAGE>   71
+
+
+
+$50,000,000                   SUMITOMO MITSUI BANKING
+                                  CORPORATION
+
+
+                              By: /s/ Leo Pagarigan
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+
+
+Total Commitments:
+-----------------
+
+$4,000,000,000
+==============
+
+
+
+<PAGE>   72
+
+
+
+                              BANK OF AMERICA, N.A.,
+                                  as Administrative Agent
+
+
+                              By: /s/ Richard M. Peck
+                                 ---------------------------------------------
+                                  Title: Vice President
+
+
+                                  901 Main Street, 14th Floor
+                                  Dallas, Texas  75202
+
+                                  Attention: Ruth Delagarza
+                                  Facsimile number:   (214) 290-8386
+                                  Telephone number:   (214) 209-0989
+
+                                  With a copy to:
+
+                                  901 Main Street, 64th Floor
+                                  Dallas, Texas  75202
+
+                                  Attention: Richard Peck
+                                  Facsimile number:   (214) 209-9390
+                                  Telephone number:   (214) 209-2576
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

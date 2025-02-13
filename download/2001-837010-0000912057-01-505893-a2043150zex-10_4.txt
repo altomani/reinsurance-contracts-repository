@@ -1,0 +1,2123 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>4
+<FILENAME>a2043150zex-10_4.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+
+<PAGE>
+
+                                                                  EXHIBIT 10.4
+
+                              TAX SHARING AGREEMENT
+
+
+                                     among
+
+                                   Aetna Inc.,
+
+
+                           Aetna U.S. Healthcare Inc.
+
+
+                                       and
+
+
+                      ING America Insurance Holdings, Inc.
+
+                        --------------------------------
+
+                          DATED AS OF DECEMBER 13, 2000
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+                                -----------------
+
+<TABLE>
+<CAPTION>
+                                                                                              Page
+                                                                                              ----
+
+<S>            <C>                                                                            <C>
+             ARTICLE 1 Definitions
+Section 1.01.  DEFINITIONS  .................................................................   2
+
+             ARTICLE 2 Administrative and Compliance Matters
+Section 2.01.  SOLE TAX SHARING AGREEMENT  ..................................................  13
+Section 2.02.  DESIGNATION OF AGENT  ........................................................  13
+Section 2.03.  PRE-DISTRIBUTION TAX PERIOD RETURNS  .........................................  14
+
+             ARTICLE 3 Tax Return Matters and Tax Sharing
+Section 3.01.  GENERAL   ....................................................................  16
+Section 3.02.  ESTIMATED PAYMENTS  ..........................................................  16
+Section 3.03.  CERTAIN PAYMENTS UPON DUE DATE  ..............................................  17
+Section 3.04.  PAYMENT OF TAXES AT YEAR-END  ................................................  17
+Section 3.05.  TREATMENT OF ADJUSTMENTS  ....................................................  18
+Section 3.06.  CARRY-BACKS FROM POST-DISTRIBUTION TAX PERIODS AND CERTAIN
+                 OTHER MATTERS  .............................................................  18
+Section 3.07.  ADDITIONAL MATTERS  ..........................................................  20
+
+             ARTICLE 4 Certain Covenants and Employee Benefits Matters
+Section 4.01.  SPINCO COVENANTS TO AETNA  ...................................................  20
+Section 4.02.  COVENANT REGARDING AMENDMENT OF RETURNS  .....................................  20
+Section 4.03.  CERTAIN DEDUCTIONS RELATING TO EMPLOYEE BENEFITS
+                 MATTERS  ...................................................................  21
+Section 4.04. CERTAIN TRANSACTIONS EXPENSES   ...............................................  22
+Section 4.05. CERTAIN OTHER MATTERS   .......................................................  23
+
+             ARTICLE 5 Indemnities
+Section 5.01.  INDEMNIFICATION OF PARENT AFFILIATES BY SPINCO AFFILIATES  ...................  23
+Section 5.02.  INDEMNIFICATION OF SPINCO AFFILIATES BY PARENT AFFILIATES  ...................  25
+Section 5.03.  TREATMENT OF INTERIM PAYMENTS AND REFUNDS WITH RESPECT
+                 TO, AND CERTAIN OTHER MATTERS REGARDING, COVERED TAX ITEMS  ................  26
+Section 5.04.  DISCHARGE OF INDEMNITY   .....................................................  27
+Section 5.05.  TREATMENT OF INDEMNIFICATION PAYMENTS  .......................................  27
+Section 5.06.  CERTAIN ENTITIES AS INDEMNITEES  .............................................  27
+Section 5.07.  NON-EXCLUSIVITY OF REMEDIES  .................................................  28
+Section 5.08.  ENTITLEMENTS UNDER CERTAIN AGREEMENTS   ......................................  28
+Section 5.09.  CERTAIN TRANSFER TAXES   .....................................................  28
+
+<PAGE>
+
+<CAPTION>
+                                                                                              Page
+                                                                                              ----
+<S>            <C>                                                                            <C>
+             ARTICLE 6 Subsidiaries
+Section 6.01.  PERFORMANCE  .................................................................  29
+
+             ARTICLE 7 Access to Information and Cooperation
+Section 7.01.  CONSULTATION AND COOPERATION   ...............................................  29
+Section 7.02.  CORPORATE RECORDS  ...........................................................  30
+Section 7.03.  PROVISION OF INFORMATION  ....................................................  30
+Section 7.04.  CONFIDENTIALITY  .............................................................  31
+Section 7.05.  PRESERVATION OF PRIVILEGE  ...................................................  31
+Section 7.06.  CERTAIN PAYROLL- AND EMPLOYEE-RELATED TAXES  .................................  32
+
+             ARTICLE 8 Tax Proceeding and Consent
+Section 8.01.  CONTROL OVER TAX PROCEEDINGS  ................................................  32
+Section 8.02.  NOTIFICATION OF CLAIMS  ......................................................  34
+Section 8.03.  SETTLEMENT OF TAX PROCEEDINGS  ...............................................  34
+
+             ARTICLE 9 Payments
+Section 9.01.  PROCEDURE FOR MAKING PAYMENTS  ...............................................  35
+
+             ARTICLE 10 Miscellaneous
+Section 10.01. AUTHORIZATION  ...............................................................  35
+Section 10.02. NOTICES  .....................................................................  36
+Section 10.03. AMENDMENTS; NO WAIVERS  ......................................................  38
+Section 10.04. EXPENSES  ....................................................................  39
+Section 10.05. SUCCESSORS AND ASSIGNS; NO THIRD PARTY BENEFICIARIES  ........................  39
+Section 10.06. GOVERNING LAW  ...............................................................  39
+Section 10.07. COUNTERPARTS; EFFECTIVENESS  .................................................  39
+Section 10.08. ENTIRE AGREEMENT  ............................................................  40
+Section 10.09. DISPUTE RESOLUTION  ..........................................................  40
+Section 10.10. JURISDICTION  ................................................................  40
+Section 10.11. FURTHER ASSURANCES  ..........................................................  41
+Section 10.12. SEVERABILITY  ................................................................  41
+Section 10.13. SURVIVAL  ....................................................................  41
+Section 10.14. CAPTIONS  ....................................................................  41
+Section 10.15. SPECIFIC PERFORMANCE  ........................................................  41
+
+Schedule 1.01A - Certain Agreements Relating to Dispositions Effected by AFS and
+   Aetna International, Inc.
+Schedule 1.01B - Assets Disposed of In Transactions Reportable Under Code
+   Section 1060
+Schedule 1.01C - Certain Agreements Relating to Dispositions Effected
+
+
+<PAGE>
+
+<CAPTION>
+                                                                                              Page
+                                                                                              ----
+<S>            <C>                                                                            <C>
+
+by               Aetna International, Inc. Subsequent to July 19, 2000
+
+Schedule 4.05A - Calculations Relating to Certain Dispositions
+
+Schedule 4.05B - Certain Additional Matters
+
+Schedule 5.01  - Covered Tax Items
+
+</TABLE>
+
+<PAGE>
+
+
+   TAX SHARING AGREEMENT dated as of December 13, 2000 (this "AGREEMENT") among
+Aetna Inc., a Connecticut corporation ("AETNA"), Aetna U.S. Healthcare Inc., a
+Pennsylvania corporation ("SPINCO"), and ING America Insurance Holdings, Inc., a
+Delaware corporation ("PARENT").
+
+
+                             W I T N E S S E T H :
+                             - - - - - - - - - -
+
+
+      WHEREAS, Aetna and Parent have agreed that all outstanding shares of the
+common stock of Spinco shall be distributed PRO RATA to Aetna's shareholders
+(PROVIDED that all conditions precedent to the Distribution (as defined below)
+have been satisfied), and, pursuant to an Agreement and Plan of Restructuring
+and Merger dated as of July 19, 2000 (the "MERGER AGREEMENT") among Aetna,
+Parent, ANB Acquisition Corp., a Connecticut corporation and a wholly owned
+subsidiary of Parent ("MERGER SUB"), and, for limited purposes, ING Groep N.V.,
+Merger Sub shall be merged with and into Aetna, as a result of which Aetna shall
+become a wholly owned subsidiary of Parent (the "MERGER");
+
+      WHEREAS, for United States federal income tax purposes, it is intended
+that the holders of the Aetna Common Stock be treated as having received the
+cash consideration from Parent and the common stock of Spinco in redemption and
+disposition of the Aetna Common Stock (as defined below);
+
+      WHEREAS, Aetna and Spinco have entered into a Distribution Agreement dated
+as of December 13, 2000 (the "DISTRIBUTION AGREEMENT"), in which Aetna and
+Spinco have set forth the principal corporate transactions effected in
+connection with Aetna's distribution to its stockholders of the common stock of
+Spinco and certain other matters relating to the relationship and the respective
+rights and obligations of Aetna and Spinco following the Merger;
+
+      WHEREAS, the parties agree that the interpretation of this Agreement shall
+not be affected by the renaming, upon the consummation of the Distribution, of
+Aetna as "Lion Connecticut Holdings Inc." and of Spinco as "Aetna Inc.";
+
+      WHEREAS, pursuant to the Tax (as defined below) laws of various
+jurisdictions, certain members of the Health Group (as defined below) presently
+file certain Tax returns on an affiliated, consolidated, combined, unitary,
+fiscal unit or other group (each such group, a "CONSOLIDATED
+
+
+
+
+<PAGE>
+
+GROUP") basis (including as permitted by Section 1501 of the Internal Revenue
+Code of 1986, as amended (the "CODE")) with certain members of the Acquired
+Group (as defined below); and
+
+      WHEREAS, Aetna, Parent and Spinco desire to set forth their agreement on,
+among other things, the rights and obligations of Aetna, Spinco and their
+respective Subsidiaries with respect to the handling and allocation of United
+States federal, state and local and foreign Taxes, and various other Tax
+matters.
+
+      NOW, THEREFORE, the parties hereto agree as follows:
+
+
+
+                                    ARTICLE 1
+                                  Definitions
+
+         DEFINITIONS
+
+      Section 1.01. DEFINITIONS. (a) The following terms, as used herein, have
+the following meanings:
+
+      "ACQUIRED GROUP" means, at any time, such Parent Affiliates as are
+eligible to join with Aetna (or, in the case of a Combined New York-Illinois
+Tax, with Combined New York-Illinois Parent) in the filing of (i) for Federal
+Tax purposes, a consolidated Federal Tax Return, and (ii) for Combined State Tax
+purposes, a Combined State Tax Return.
+
+      "AETNA" has the meaning set forth in the recitals.
+
+      "AETNA COMMON STOCK" means the common stock, par value US$0.01 per share,
+of Aetna.
+
+      "AETNA CONSOLIDATED GROUP" means, at any time, (i) Aetna and each direct
+and indirect Subsidiary (including predecessors and successors thereto) that is
+eligible to join with Aetna in the filing of (A) for Federal Tax purposes, a
+consolidated Federal Tax return, and (B) for the purposes of a Combined State
+Tax that is not a Combined New York-Illinois Tax, a Combined State Tax return,
+or (ii) for the purposes of a Combined New York-Illinois Tax, the Combined New
+York-Illinois Parent and each Affiliate of Aetna that is eligible to join with
+the Combined New York-Illinois Parent in the filing of a Combined New
+York-Illinois Tax return.
+
+      "AETNA GLOBAL BENEFITS ASSETS/LIABILITIES" has the meaning set forth in
+Section 5.09.
+
+
+<PAGE>
+
+      "AETNA GLOBAL BENEFITS BUSINESS" means the business and operations which
+(i) provide services to ALCBL and its customers and (ii) are part of the Spinco
+Business (as such term is defined in the Distribution Agreement).
+
+      "AETNA INTERNATIONAL DISPOSITION AGREEMENTS" means (i) the agreement(s)
+pursuant to which Aetna International, Inc. sold or caused to be sold the stock
+of Aetna Canada Holdings Limited to John Hancock Canadian Holdings Limited in
+August, 1999, (ii) the agreement(s) pursuant to which Aetna International, Inc.,
+AE Five Inc. and Aetna Internacional y Compania S. de R.L. de C.V. sold or
+caused to be sold the stock of Seguros Monterrey Aetna and Fianzas Monterrey
+Aetna to New York Life International, Inc. in January, 2000, (iii) the
+agreement(s) pursuant to which Sul America Aetna Participacoes S.A. sold or
+caused to be sold the stock of Brasilprev Prevedencia Privada S.A. to Principal
+Financial Services Inc. in October 1999, and (iv) other agreements which are set
+forth on Schedule 1.01A or Schedule 1.01C and pursuant to which AFS, Aetna
+International, Inc. or any of their respective Subsidiaries sold or caused to be
+sold stock or other equity interests in their subsidiaries.
+
+      "AFFILIATE" means, with respect to any person, any other Person directly
+or indirectly controlling, controlled by, or under common control with such
+Person.
+
+      "AFS" means Aetna Retirement Services, Inc., a Connecticut corporation.
+
+      "AFTER-TAX AMOUNT" means, with respect to a payment, any additional amount
+(which, for the avoidance of doubt, may be positive or negative) necessary to
+reflect the Tax gross-up required to make the recipient of such payment whole at
+the appropriate applicable rate(s), taking into account the present value of Tax
+benefits and detriments reasonably applied. Any present value calculations made
+for purposes of this definition shall be based on discounting at the
+Intercompany Interest Rate.
+
+      "AGREEMENT" has the meaning set forth in the recitals.
+
+      "ALCBL" means Aetna Life & Casualty Bermuda Limited, a Bermuda
+corporation.
+
+      "AMRE AGREEMENTS" means the agreement(s) pursuant to which Aetna Life &
+Casualty Corp. sold or caused to be sold the stock of American Reinsurance
+Company to Kohlberg, Kravis, Roberts & Co. in 1992.
+
+
+<PAGE>
+
+      "AUSHC AGREEMENTS" means the agreements pursuant to which Aetna acquired
+Spinco in July, 1996.
+
+      "CODE" has the meaning set forth in the recitals.
+
+      "COMBINED NEW YORK-ILLINOIS PARENT" means (i) Aetna Life Insurance
+Company, in the case of any tax payable to the State of Illinois with respect to
+which one or more Spinco Affiliates are included in the filing of tax Returns
+with one or more Parent Affiliates on a unitary basis, or (ii) Aetna Life
+Insurance and Annuity Company, in the case of any New York insurance tax payable
+to the State of New York with respect to which one or more Spinco Affiliates are
+included in the filing of tax Returns with one or more Parent Affiliates on a
+combined basis.
+
+      "COMBINED NEW YORK-ILLINOIS TAX" means (i) any tax payable to the State of
+Illinois with respect to which one or more Spinco Affiliates are included in the
+filing of tax Returns with one or more Parent Affiliates on a unitary basis, or
+(ii) any New York insurance tax payable to the State of New York with respect to
+which one or more Spinco Affiliates are included in the filing of tax Returns
+with one or more Parent Affiliates on a combined basis.
+
+      "COMBINED STATE TAX" means (i) with respect to each state or local taxing
+jurisdiction within the United States, any income, franchise, premium or similar
+tax payable to such state or local taxing jurisdiction in which one or more
+Spinco Affiliates file tax returns with Aetna on a Consolidated Group basis for
+purposes of such income, franchise, premium or similar tax, or (ii) any Combined
+New York-Illinois Tax.
+
+      "COMBINED STATE TAX PACKAGE DELIVERY DATE" has the meaning set forth in
+Section 3.04(a).
+
+      "CONFIDENTIALITY AGREEMENT" means Confidentiality Agreement as such term
+is defined in the Distribution Agreement.
+
+      "CONSOLIDATED GROUP" has the meaning set forth in the recitals.
+
+      "CONTRACT-BASED TAX PROCEEDING" means any Tax Proceeding brought or
+arising under any of the Prior Deal Agreements, the AUSHC Agreements or the
+Aetna International Disposition Agreements. For the avoidance of doubt, neither
+a Spinco-Aetna Tax Proceeding nor a Taxing Authority Proceeding shall be treated
+as a Contract-Based Tax Proceeding.
+
+      "COVERED ITEMS DETERMINATION DATE" has the meaning set forth in
+
+
+<PAGE>
+
+Section 5.01(c).
+
+      "COVERED ITEMS PAYMENT DATE" has the meaning set forth in Section 5.01(c).
+
+      "COVERED TAX ITEM" has the meaning set forth in Section 5.01(c).
+
+      "DISTRIBUTION" means Distribution as such term is defined in the
+Distribution Agreement.
+
+      "DISTRIBUTION AGREEMENT" has the meaning set forth in the recitals.
+
+      "DISTRIBUTION DATE" means Distribution Date as such term is defined in the
+Distribution Agreement.
+
+      "DISTRIBUTION DOCUMENTS" means Distribution Documents as such term is
+defined in the Distribution Agreement.
+
+      "EFFECTIVE REALIZATION" (and the correlative term, "EFFECTIVELY
+REALIZED") means, with respect to a tax saving or tax benefit, the earliest
+to occur of (i) the receipt by any Parent Affiliate or any Spinco Affiliate
+of cash from a Taxing Authority reflecting such tax saving or tax benefit, or
+(ii) the application of such tax saving or tax benefit to reduce (A) the tax
+liability on a Return of any of such entities or of any Consolidated Group of
+which any of such entities is a member, or (B) any other outstanding tax
+liability of any of such entities or of any such Consolidated Group, which
+application shall, for the avoidance of doubt, be treated as occurring on the
+due date (taking into account all applicable and valid extensions of such
+date) for such Return or the date on which the relevant amount is credited.
+
+      "EMPLOYEE BENEFITS AGREEMENT" means the Employee Benefits Agreement dated
+as of December 13, 2000 between Aetna and Spinco.
+
+      "EVENT" has the meaning set forth in Section 3.06(b).
+
+      "FEDERAL TAX" means any tax imposed under Subtitle A of the Code.
+
+      "FEDERAL TAX PACKAGE DELIVERY DATe" has the meaning set forth in
+Section 3.04(a).
+
+      "FINAL DETERMINATION" means (i) with respect to Federal Taxes, a
+"determination" as defined in Section 1313(a) of the Code or execution of an
+Internal Revenue Service Form 870-AD and, with respect to taxes other than
+Federal Taxes, any final determination of liability in respect of a Tax that,
+under applicable law, is not subject to further appeal, review or
+
+
+<PAGE>
+
+modification (through Tax Proceedings or otherwise), (ii) any final disposition
+of a Tax issue by reason of the expiration of a statute of limitations (giving
+effect to any extension or waiver thereof), or (iii) the payment of Tax with
+respect to any item disallowed or adjusted by any Taxing Authority where Aetna
+and Spinco Jointly Decide that no action should be taken to recoup such payment.
+
+      "HEALTH COMBINED STATE TAX LIABILITY" means, with respect to any tax
+period and any jurisdiction, an amount of Combined State Taxes determined in
+accordance with the principles set forth in the definition of Health Federal Tax
+Liability and comparable provisions under applicable law.
+
+      "HEALTH FEDERAL TAX LIABILITY" is intended by the parties to measure the
+Health Group's standalone Federal Tax liability after applying limitations on
+the use of the Health Group's Tax Assets in a manner that equitably reflects
+such Assets' actual utilization in the consolidated Return of the Aetna
+Consolidated Group. Specifically, Health Federal Tax Liability means, with
+respect to any tax period, an amount equal to:
+
+      (i) the sum of the Health Group's Federal Tax liability and any interest,
+penalties and other additions to such taxes for such tax period computed (A) as
+if the Health Group were not and never were part of the Aetna Consolidated
+Group, but rather were a separate affiliated group of corporations filing a
+consolidated Federal Tax return pursuant to Section 1501 of the Code, and (B)
+without taking into account the limitations imposed by Federal Tax law through
+the Treasury Regulations promulgated under Section 1502 of the Code (such
+Regulations, "CONSOLIDATED RETURN REGULATIONS") (such limitations, "CONSOLIDATED
+RETURN LIMITATIONS") (the sum described in this clause (i) constituting the
+"HEALTH STANDALONE LIABILITY"); as modified by
+
+      (ii) such adjustments, without duplication, for such tax period as are
+required to reflect any limitations imposed by the Federal Tax law on the Health
+Group by reason of the inclusion of the members of the Health Group in the Aetna
+Consolidated Group (the adjustments described in this clause (ii) together
+constituting the "HEALTH LIMITATIONS ADJUSTMENT").
+
+      The following rules shall apply to the computation of the Health Federal
+Tax Liability and shall be deemed to be an integral part of the definition of
+the Health Federal Tax Liability:
+
+      (1) For purposes of the calculation of the Health Standalone Liability,
+(x) the highest rate of tax specified in Section 11(b) of the Code (or any other
+similar rates applicable to specific types of income) shall be assumed to be the
+only rates set forth in that subsection, (y) the tax
+
+
+<PAGE>
+
+positions taken, and the elections and accounting methods used by, the Aetna
+Consolidated Group for the tax period at issue and/or tax periods prior thereto
+shall be taken into account, and (z) transactions between any member of the
+Health Group, on one hand, and any member of the Acquired Group, on the other
+hand, shall not be taken into account.
+
+      (2) Without limiting the generality of paragraph (i) above, the
+Consolidated Return Limitations shall include limitations relating to (x) the
+utilization of net operating losses, foreign tax credits and separate return
+limitation year tax items, (y) the treatment of life and non-life subgroups, and
+(z) any separate treatment of insurance companies that are described in
+Section 1504(b) of the Code.
+
+      (3) Without limiting the generality of the definition of the Consolidated
+Return Limitations, the calculation of the Health Standalone Liability shall
+take into account, and the Health Group shall be entitled to utilize for
+purposes of such calculation, among other things, any Tax Asset of the Health
+Group as though the Health Group were a separate affiliated group that has
+existed and included all relevant members for all relevant periods.
+
+      (4) The Health Limitations Adjustment for a tax period shall be calculated
+as an amount that reflects (x) the adjustment to the Health Standalone Liability
+that shall be required in order for the Health Group to receive the economic
+benefit of only such amounts of the Tax Assets or tax items as are necessary to
+reflect the actual utilization in the consolidated return of the Aetna
+Consolidated Group for such tax period, and (y) the excess loss accounts or
+deferred intercompany gains or intercompany items of members of the Health Group
+that are actually triggered during such tax period under the Consolidated Return
+Regulations and are taken into account in the consolidated return of the Aetna
+Consolidated Group.
+
+      (5) In calculating the Health Limitations Adjustments, except to the
+extent mutually agreed upon by Aetna and Spinco, the tax positions taken, and
+the elections and accounting methods used shall be consistent with those (x)
+used by the Aetna Consolidated Group for the tax period at issue and/or tax
+periods prior thereto, and (y) used in the computation of the Health Standalone
+Liability.
+
+      (6) The parties hereto shall be permitted to invoke the dispute
+resolution procedures under Section 10.09 with respect to any disagreement in
+the methodology used in calculating Health Federal Tax Liability hereunder.
+For the avoidance of doubt, this rule (6) is not intended to affect the
+application of the third and fourth sentences of Section 2.03(b).
+
+<PAGE>
+
+      "HEALTH GROUP" means, at any time, such Spinco Affiliates as are eligible
+to join with Aetna (or, in the case of a Combined New York-Illinois Tax, with
+the Combined New York-Illinois Parent) in the filing of (i) for Federal Tax
+purposes, a consolidated Federal Tax Return, and (ii) for Combined State Tax
+purposes, a Combined State Tax Return.
+
+      "HEALTH GROUP TAX LIABILITY" means, with respect to any tax period, the
+sum of (i) the Health Federal Tax Liability, and (ii) the Health Combined State
+Tax Liability.
+
+      "INDEMNITEE" has the meaning set forth in Section 5.04.
+
+      "INDEMNITOR" has the meaning set forth in Section 5.04.
+
+      "INTERCOMPANY INTEREST RATE" means 8% (compounded annually), or an
+economically equivalent interest rate with respect to a compounding period that
+is shorter than one year.
+
+      "JOINTLY DECIDE" means, with respect to specified parties, arriving at a
+prompt and timely decision to which each such party agrees after such party has
+(i) received relevant information available to the other parties and
+(ii) discussed with the other parties any relevant financial or other aspects
+of such decision and any alternatives thereto raised by the parties. In the
+event that the specified parties are unable to reach agreement on a matter on
+which they Jointly Decide, (A) any party may invoke the dispute resolution
+procedures set forth in Section 10.09 of this Agreement, or (B) the part(ies)
+that disagree with a decision shall be deemed to have agreed with such
+decision if one or more of the other parties furnish an indemnity, reasonably
+satisfactory to the recipient(s) thereof, in respect of any Tax liability and
+the related After-Tax Amount that may result from such decision (PROVIDED
+that the determination as to whether an indemnity is reasonably satisfactory
+to the recipient(s) thereof (x) may be subject to the dispute resolution
+procedures set forth in Section 10.09 of this Agreement and (y) shall be
+based upon, among other things, the scope of the indemnity and the financial
+credit of the part(ies) furnishing the indemnity).
+
+      "LINCOLN AGREEMENTS" means the agreements pursuant to which Aetna Life
+Insurance Company and Aetna Life Insurance and Annuity Company ceded domestic
+life insurance businesses to, and effected related transactions with, Lincoln
+National Life Insurance Company and Lincoln Life & Annuity Company of New York
+in October, 1998.
+
+      "MERGER" has the meaning set forth in the recitals.
+
+      "MERGER AGREEMENT" has the meaning set forth in the recitals.
+
+
+<PAGE>
+
+      "MERGER SUB" has the meaning set forth in the recitals.
+
+      "MISCELLANEOUS AGREEMENTS" means (i) the agreement(s) pursuant to which
+certain Texas healthcare assets owned by Spinco as a result of the acquisition
+described in the NYLCare Agreements were sold to Blue Cross and Blue Shield of
+Texas, a division of Health Care Service Corporation, in March, 2000, and (ii)
+other agreements as set forth on Schedule 1.01B or any agreements (other than
+the Lincoln Agreements, the NYLCare Agreements and the Prudential Agreements)
+pursuant to which Aetna Life Insurance Company, Aetna Health and Life Insurance
+Company, Spinco or their respective direct or indirect Subsidiaries sold or
+acquired stock (or equity interests) in, or assets of, other corporations or
+unincorporated entities.
+
+      "NEW LLC" has the meaning set forth in Section 5.09.
+
+      "NYLCARE AGREEMENTS" means the agreements pursuant to which Aetna acquired
+the healthcare assets of New York Life Insurance Company in July, 1998.
+
+      "PARENT" has the meaning set forth in the recitals.
+
+      "PARENT AFFILIATES" means, without duplication, (i) Aetna, AFS, Aetna
+Retirement Holdings, Inc., Aetna Life Insurance and Annuity Company, Aetna
+International, Inc., Aetna Life Insurance Company of America and any other
+direct and indirect Subsidiaries of Parent immediately after the Distribution
+(including predecessors and successors thereto), (ii) any entities that are
+or have been "controlled foreign corporations" (within the meaning of
+Section 957(a) of the Code or successor provisions) of which AFS, Aetna
+International, Inc. or any of their respective Subsidiaries is or has been a
+"United States shareholder" (within the meaning of Section 951(b) of the Code
+or successor provisions), (iii) China Pacific Insurance Company, and (iv) any
+entities (except for entities described in clause (i) or clause (ii) of this
+definition) that have been direct or indirect Subsidiaries of AFS or Aetna
+International, Inc. at any time prior to the Distribution (including
+predecessors or successors thereto). Aetna Services, Inc. shall be treated as
+a Parent Affiliate for tax periods ending prior to January 1, 2000.
+
+      "PERSON" means Person as such term is defined in the Distribution
+Agreement.
+
+      "POST-DISTRIBUTION TAX PERIOD" means (i) any tax period beginning and
+ending after the Distribution Date, and (ii) with respect to a tax period that
+begins before and ends after the Distribution Date, such portion of the
+
+
+<PAGE>
+
+tax period that commences on the day immediately after the Distribution Date.
+
+      "POST-1994 TAX PERIOD" means any tax period (or portion thereof) that
+begins on or after January 1, 1995.
+
+      "PRE-DISTRIBUTION STUB TAX PERIOD" means any tax period described in
+clause (ii) of the definition of Pre-Distribution Tax Period.
+
+      "PRE-DISTRIBUTION TAX PERIOD" means (i) any tax period ending before or on
+the Distribution Date, and (ii) with respect to a period that begins before and
+ends after the Distribution Date, such portion of the tax period ending on and
+including the Distribution Date.
+
+      "PRE-1995 TAX PERIOD" means any tax period (or portion thereof) that ends
+on or before December 31, 1994.
+
+      "PRIOR DEAL AGREEMENTS" means (i) the AmRe Agreements, (ii) the Lincoln
+Agreements, (iii) the NYLCare Agreements, (iv) the Prudential Agreements, (v)
+the Travelers Agreements, and/or (vi) the Miscellaneous Agreements.
+
+      "PRUDENTIAL AGREEMENTS" means the agreements pursuant to which Aetna and
+certain of its Subsidiaries acquired the healthcare assets of The Prudential
+Insurance Company of America in August, 1999.
+
+      "REFEREE" has the meaning set forth in Section 10.09.
+
+      "REPRESENTATIVES" has the meaning set forth in Section 7.04.
+
+      "RETURN" means any Tax return, statement, report or form (including
+without limitation estimated Tax returns and reports, extension requests and
+forms, and information returns and reports) required to be filed with any Taxing
+Authority.
+
+      "RETURN DUE DATE" means, with respect to a return of the Aetna
+Consolidated Group, the due date under applicable Tax law of such Return (taking
+into account, without limitation, all applicable and valid extensions of such
+date).
+
+      "SPECIFIED DEDUCTION" has the meaning set forth in Section 4.03.
+
+      "SPINCO" has the meaning set forth in the recitals.
+
+      "SPINCO AFFILIATES" means (i) Spinco, Aetna Life Insurance Company, Aetna
+Health and Life Insurance Company and any other direct or indirect Subsidiaries
+of Spinco immediately after the Distribution
+
+
+<PAGE>
+
+(including predecessors and successors thereto), (ii) the Travelers Companies
+(including predecessors or successors thereto), and (iii) any entities (except
+for entities described in clause (i) or clause (ii) of this definition) that
+have been direct or indirect Subsidiaries of Aetna at any time prior to the
+Distribution (including predecessors or successors thereto) but that are not
+Parent Affiliates. Aetna Services, Inc. shall be treated as a Spinco Affiliate
+for tax periods beginning after December 31, 1999.
+
+      "SPINCO-AETNA TAX PROCEEDING" means any Tax Proceeding solely between (i)
+one or more of the Parent Affiliates, ING Groep N.V. and/or any entity that,
+following the Distribution Date, is a Subsidiary of ING Groep N.V., on one hand,
+and (ii) one or more of the Spinco Affiliates, and/or any entity that, following
+the Distribution Date, is a Subsidiary of Spinco, on the other hand.
+
+      "SPIN-OFF" means Spin-Off as such term is defined in the Merger Agreement.
+
+      "SUBSIDIARY" means Subsidiary as such term is defined in the Distribution
+Agreement.
+
+      "TAX" means (i) any United States federal, state or local or foreign
+income, profits, franchise, premium, gross receipts, environmental, customs
+duty, capital stock, severances, stamp, payroll, sales, transfer, employment,
+unemployment, occupation, disability, use, property, real property gains,
+withholding, escheat, excise, production, value added, ad valorem, windfall,
+license, occupancy and any other taxes, duties or assessments of any nature
+whatsoever, together with any interest, penalties and additions imposed with
+respect to such amounts and any interest in respect of such penalties and
+additions; (ii) any liability of an entity for the payment of any amount of the
+type described in clause (i) as a result of being or having been before the
+Distribution Date a member of a Consolidated Group, or a party to any agreement
+or arrangement, as a result of which liability of such entity and its
+subsidiaries to a Tax Authority is determined or taken into account with
+reference to the liability of any other Person (including, for example,
+liability under Treasury Regulations Section 1.1502-6 or similar liability under
+any other law), and (iii) any liability for the payment of any amount as a
+result of being party to any agreements or arrangements (whether or not written)
+binding an entity or any of its subsidiaries (A) that provide for the
+allocation, apportionment, sharing or assignment of any tax liability or tax
+benefit, or the transfer or assignment of income, revenues, receipts, or gain,
+in each case for the principal purpose of determining any Person's tax liability
+or (B) with respect to the payment of any amount of the type described in clause
+(i)
+
+
+<PAGE>
+
+or clause (ii) as a result of any existing express or implied obligation
+(including without limitation an indemnification obligation).
+
+      "TAX ASSET" means any net operating loss, net capital loss, investment tax
+credit, foreign tax credit, enterprise zone credit or incentive, charitable
+deduction or any other loss, credit, deduction or tax attribute that could be
+carried forward or back to reduce taxes (including without limitation deductions
+and credits relating to alternative minimum taxes).
+
+      "TAX PACKAGES" of the Health Group with respect to a tax period means (i)
+in the context of the preparation of a Tax return, one or more packages
+(sufficiently complete to be filed in a Return) which shall include (A)
+completed Federal Tax Forms 1120s, 1120-PCs and 1120-Ls or comparable state Tax
+forms, as the case may be (or materials reflecting the information set forth on
+such forms), prepared on a pro forma basis, and (B) such other schedules and
+other materials, containing information with respect to the Health Group
+relevant to the preparation and signing of the Returns of the Aetna Consolidated
+Group with respect to such tax period, as are reasonably necessary to calculate
+consolidated Taxable items and as are mutually agreed to, and (ii) in the
+context of the determination of the amount of any payment of estimated taxes,
+one or more packages of Tax information, to be mutually agreed to, which enable
+the calculation of such estimated taxes.
+
+      "TAX PROCEEDING" means any Tax audit, contest, dispute or proceeding
+(whether administrative, judicial or otherwise).
+
+      "TAXING AUTHORITY" means any governmental authority (whether United States
+or foreign, and including without limitation any state, municipality, political
+subdivision or governmental agency) responsible for the imposition of any Tax.
+
+      "TAXING AUTHORITY PROCEEDING" means any Tax Proceeding in which a Taxing
+Authority participates.
+
+      "TRANSFER TAXES" has the meaning set forth in Section 5.09.
+
+      "TRAVELERS AGREEMENTS" means the agreements pursuant to which Aetna sold
+or caused to be sold the stock of the Travelers Companies to The Travelers
+Insurance Group, Inc. in April, 1996.
+
+      "TRAVELERS COMPANIES" means The Aetna Casualty and Surety Company, The
+Standard Fire Insurance Company and their respective Subsidiaries.
+
+
+<PAGE>
+
+      (b) Any term used in this Agreement that is not defined in this Agreement
+shall, to the extent the context requires, have the meaning assigned to it in
+the Code (and applicable Treasury regulations thereunder) or comparable
+provisions of applicable state or local or foreign tax law.
+
+
+                                    ARTICLE 2
+                     Administrative and Compliance Matters
+
+      Section 2.01. SOLE TAX SHARING AGREEMENT. Any and all existing Tax
+sharing agreements or arrangements, written or unwritten, between one or more
+Parent Affiliates and one or more Spinco Affiliates shall be terminated as of
+the effective date of this Agreement; PROVIDED that there shall not be
+terminated any Tax sharing agreements or arrangements that are included or
+set forth in the Prior Deal Agreements or in the Aetna International
+Disposition Agreements, or (ii) to the extent consistent with the provisions
+and principles of this Agreement, any provision relating to Taxes in the
+Distribution Agreement, the other Distribution Documents or the Merger
+Agreement. As of the effective date of this Agreement, neither the Parent
+Affiliates nor the Spinco Affiliates shall have any further rights or
+liabilities under agreements or arrangements that are terminated pursuant to
+the preceding sentence, and this Agreement shall be the sole Tax sharing
+agreement between one or more Parent Affiliates, on one hand, and one or more
+Spinco Affiliates, on the other hand.
+
+(b) This Agreement shall not address the obligations or arrangements, if any,
+(i) among Parent Affiliates, or (ii) among Spinco Affiliates.
+
+      Section 2.02. DESIGNATION OF AGENT. (a) Each member of the Health Group
+hereby authorizes and designates Aetna as its agent, coordinator and
+administrator, for the purposes of (i) taking any and all actions necessary
+or incidental to the filing of any Return, any amended Return or any claim
+for refund, credit or offset of Tax, or any other proceedings, and (ii)
+making payments to, or collecting refunds from, any Taxing Authority, in the
+case of each of clauses (i) and (ii) relating only to any Pre-Distribution
+Tax Period and in conformity with the provisions and principles of this
+Agreement; PROVIDED that, for the avoidance of doubt, Aetna shall not be
+designated as agent, coordinator or administrator with respect to Taxes
+reflected on any Federal Tax Return, United States state or local Tax Return
+or Return relating to foreign Taxes, in each case that are (A) filed on a
+separate-company basis by a member of the Health Group, or (B) filed on
+behalf of a Consolidated Group of which a member of the Health Group is the
+parent. Aetna covenants to the Spinco Affiliates that it shall be responsible
+to see that all administrative matters
+
+<PAGE>
+
+relating to the actions described in clauses (i) and (ii) of the preceding
+sentence shall be handled promptly and appropriately and in conformity with the
+provisions and principles of this Agreement. Any disputes between Aetna and the
+Health Group as to the scope of Aetna's role under this Section 2.02 shall be
+the subject of the dispute resolution procedures under Section 10.09.
+
+      (b) Combined New York-Illinois Parent shall be designated as agent,
+coordinator and administrator of each member of the Health Group, in the case
+of a Combined New York-Illinois Tax that is the New York insurance tax, or
+each member of the Acquired Group, in the case of a Combined New
+York-Illinois Tax that is the tax payable to the State of Illinois, for the
+purposes of (i) taking any and all actions necessary or incidental to the
+filing of any Return, any amended Return or any claim for refund, credit or
+offset of a Combined New York-Illinois Tax, or any other proceedings, and
+(ii) making payments to, or collecting refunds from, any Taxing Authority, in
+the case of each of clauses (i) and (ii) relating only to any
+Pre-Distribution Tax Period and in conformity with the provisions and
+principles of this Agreement. In applying Section 2.03 and/or Article 3
+(and/or any other provision of this Agreement for which the parent of the
+Consolidated Group with respect to a Combined New York-Illinois Tax is
+relevant) to a Combined New York-Illinois Tax, (i) a reference in any such
+provision to Aetna shall be treated, as appropriate, as a reference to the
+Combined New York-Illinois Parent, and (ii) any such provision shall be
+applied MUTATIS MUTANDIS with respect to such Combined New York-Illinois Tax.
+
+      (c) Aetna and Spinco shall Jointly Decide the extent, if any, to which
+Aetna shall be designated as agent, coordinator and administrator of members of
+the Health Group for the purpose of taking actions relating to any
+Post-Distribution Tax Period.
+
+      Section 2.03. PRE-DISTRIBUTION TAX PERIOD RETURNS. (a) Aetna shall
+prepare, consistently with relevant past practice and applicable law and in
+conformity with the provisions and principles of this Agreement, and file the
+consolidated Federal Tax Returns and Combined State Tax Returns of the Aetna
+Consolidated Group for all Pre-Distribution Tax Periods.
+
+      (b) In preparing such Returns, Aetna shall not discriminate among the
+members of the Aetna Consolidated Group. Aetna shall have the right with respect
+to such Returns to determine (i) the manner in which such Returns shall be
+prepared and filed on Tax matters that predominantly affect the Acquired Group,
+including without limitation the manner in which any item of income, gain, loss,
+deduction or credit shall be reported by the Acquired Group, and (ii) the
+elections that shall be made by any member of the Acquired Group. Spinco shall
+have the right, with respect to all Federal Tax Returns and Combined State Tax
+Returns of the Aetna
+
+
+<PAGE>
+
+Consolidated Group for Pre-Distribution Tax Periods, to determine (i) the manner
+in which such Returns shall be prepared and filed on Tax matters that
+predominantly affect the Health Group, including without limitation the manner
+in which any item of income, gain, loss, deduction or credit shall be reported
+by the Health Group (PROVIDED, however, that Spinco shall not have such right
+with respect to, and Spinco and Aetna shall Jointly Decide the treatment of, a
+Tax matter (or the relevant portion thereof) on a Return to the extent that (A)
+(x) there is not substantial authority in support of Spinco's position on such
+Tax matter (or portion thereof), and (y) Spinco has not included appropriate
+disclosure of such position in the relevant Tax Package, or (B) there is not
+reasonable basis for Spinco's position), and (ii) the elections that shall be
+made by any member of the Health Group. The parties agree that the Spin-Off
+shall be treated as predominantly relating to the Health Group for the purposes
+of this Agreement.
+
+      (c) To the extent that (i) two or more provisions of Section 2.03 (b)
+would otherwise apply to a Tax item in a conflicting manner, or the treatment
+of a Tax item that is material to the tax liability of the Aetna Consolidated
+Group for the relevant Pre-Distribution Tax Period is not addressed by
+Section 2.03 (b), and (ii) the treatment of such Tax item in the appropriate
+Return of the Aetna Consolidated Group is not addressed by any other
+provision of this Agreement, Aetna and Spinco shall Jointly Decide the
+treatment of such Tax item.
+
+      (d) No later than 45 calendar days prior to the Return Due Date for a
+Return of the Aetna Consolidated Group, Spinco shall prepare and deliver Tax
+Packages to Aetna that contain information of the Health Group for (i) any
+Pre-Distribution Stub Tax Period, and (ii) any other tax period for which
+(A) a Return that includes such tax period has not been filed prior to the
+Distribution Date and (B) any Spinco Affiliate is part of the Aetna
+Consolidated Group. Subject to Section 2.03(c), the Tax information
+contained in such Tax Packages shall be presumed for purposes of
+Section 2.03(b) to constitute Tax matters that predominantly affect the
+Health Group; PROVIDED that Aetna may rebut such presumption, as appropriate,
+using the dispute resolution procedures under Section 10.09 of this Agreement.
+
+      (e) No later than 25 calendar days prior to the Return Due Date for a
+Return of the Aetna Consolidated Group with respect to a taxable year that
+includes a Pre-Distribution Tax Period, Aetna shall provide Spinco with a draft
+of such Return, together with material supporting calculations and any other
+information reasonably requested by Spinco. Spinco shall have the opportunity to
+review and comment on such draft Return, including without limitation to
+determine whether such draft Return reflects, in conformity with the provisions
+and principles of this Agreement, (i) the information set forth, or otherwise
+reflected in, the corresponding Tax Package furnished by Spinco, and (ii) the
+treatment of Tax items that have been Jointly Decided by Aetna and Spinco. Aetna
+shall take into
+
+
+<PAGE>
+
+account, and as necessary shall modify the Return to reflect, such comments
+made by Spinco as are required by this Agreement. Any disagreements or
+disputes regarding the scope of Spinco's review and comment rights under this
+Section 2.03(e) shall be subject to the dispute resolution procedures under
+Section 10.09.
+
+                                    ARTICLE 3
+                      Tax Return Matters and Tax Sharing
+
+      Section 3.01. GENERAL. For each taxable year of the Aetna Consolidated
+Group during which income, loss or credit against tax of any member of the
+Health Group is includible in the consolidated Federal Tax Return of the
+Aetna Consolidated Group, Spinco shall pay to Aetna an amount equal to the
+Health Federal Tax Liability, as shown on the calculations described in
+Section 3.04(a) that result from the Tax Packages of the Health Group for
+(i) such taxable year, if such taxable year ends prior to the Distribution
+Date, or (ii) the Pre-Distribution Stub Tax Period, if such taxable year
+includes the Distribution Date. For each taxable year of the Aetna
+Consolidated Group during which income, loss or credit against tax of any
+member of the Health Group is includible in a Return relating to a Combined
+State Tax, Spinco shall pay Aetna an amount equal to the Health Combined
+State Tax Liability, as shown on the calculations described in
+Section 3.04(a) that result from the Tax Packages of the Health Group for
+(i) such taxable year, if such taxable year ends prior to the Distribution
+Date, or (ii) the Pre-Distribution Stub Tax Period, if such taxable year
+includes the Distribution Date. The principles, and as relevant the
+provisions, of Section 2.03 shall be applied in interpreting this Article.
+For the avoidance of doubt, any reference to the principles of this
+Section 3.01 shall include a reference to the applicable principles of
+Section 2.03.
+
+      Section 3.02. ESTIMATED PAYMENTS. Aetna shall determine the amount of
+the estimated tax installment of the Health Federal Tax Liability
+(corresponding to the Aetna Consolidated Group's estimated Federal Tax
+installment) with respect to a taxable year in which the Health Group is part
+of the Aetna Consolidated Group (whether or not such payment is made prior to
+the Distribution Date), as determined under the principles of Section 3.01 of
+this Agreement and using a Tax Package for the Health Group with respect to
+the appropriate tax period timely furnished by Spinco to Aetna. Aetna shall
+provide Spinco with notice of such estimated determination for Federal Tax no
+later than 30 calendar days before the date such corresponding installment
+payment is due (including all applicable and valid extensions). Spinco shall,
+on or prior to the due date of the Aetna Consolidated Group's corresponding
+installment payment, pay to Aetna the amount so determined in accordance with
+Article 9
+
+<PAGE>
+
+hereof. Aetna shall determine the amount of the estimated tax installment of
+the Health Combined State Tax Liability (corresponding to the Aetna
+Consolidated Group's relevant estimated Combined State Tax installment) with
+respect to a taxable year in which the Health Group is part of the Aetna
+Consolidated Group (whether or not such payment is made prior to the
+Distribution Date), as determined under the principles of Section 3.01 of
+this Agreement and using a Tax Package for the Health Group with respect to
+the appropriate tax period timely furnished by Spinco to Aetna. Aetna shall
+provide Spinco with notice of such estimated determination for Combined State
+Tax no later than 15 calendar days before the date such corresponding
+installment payment is due (including all applicable and valid extensions).
+Spinco shall, on or prior to the due date of the Aetna Consolidated Group's
+corresponding installment payment, pay to Aetna he amount so determined in
+accordance with Article 9 hereof.
+
+      Section 3.03. CERTAIN PAYMENTS UPON DUE DATE. On or prior to the due
+date under Tax law (without taking into account any applicable or valid
+extensions of such date) of any Return of the Aetna Consolidated Group with
+respect to a Pre-Distribution Tax Period, Spinco shall pay to Aetna, or Aetna
+shall pay to Spinco, as appropriate, an amount equal to the difference, if any,
+between (i) the Health Federal Tax Liability or the Health Combined State Tax
+Liability, as the case may be, for such Pre-Distribution Tax Period, and
+(ii) the aggregate amount of the estimated installments paid with respect
+thereto pursuant to (or in accordance with the principles of) Section 3.02.
+
+   Section 3.04. PAYMENT OF TAXES AT YEAR-END. (a) No later than 45 calendar
+days before the Return Due Date for the Aetna Consolidated Group's
+consolidated Federal Tax return, Spinco shall deliver to Aetna a Tax Package
+of the Health Group relating to Federal Taxes for (i) such taxable year, if
+such taxable year ends prior to the Distribution Date, or (ii) the
+Pre-Distribution Stub Tax Period, if such taxable year includes the
+Distribution Date (the delivery date constituting the "FEDERAL TAX PACKAGE
+DELIVERY DATe"). No later than 30 calendar days after the Federal Tax Package
+Delivery Date, Aetna shall deliver to Spinco a statement showing a
+calculation of the amount to be paid pursuant to Section 3.04(b) below. No
+later than 45 calendar days before the Return Due Date for each Combined
+State Tax return, Spinco shall deliver to Aetna a Tax Package of the Health
+Group relating to a Combined State Tax for (i) such taxable year, if such
+taxable year ends prior to the Distribution Date, or (ii) the
+Pre-Distribution Stub Tax Period, if such taxable year includes the
+Distribution Date (the delivery date constituting a "COMBINED STATE TAX
+PACKAGE DELIVERY DATe"). No later than 20 calendar days after such Combined
+State Tax Package Delivery Date, Aetna shall deliver to Spinco
+
+<PAGE>
+
+a statement showing a calculation of the amount to be paid pursuant to
+Section 3.04(b) below. In the event that Aetna and Spinco Jointly Agree that
+any timeframe set forth in this Section 3.04(a) shall be modified, this
+Section 3.04(a) shall be treated as having been satisfied to the extent such
+modified timeframe is complied with.
+
+      (b) On or prior to the Return Due Date for the Return of the Aetna
+Consolidated Group to which a calculation described in Section 3.04(a),
+resulting from a Tax Package of the Health Group, relates, Spinco shall pay to
+Aetna, or Aetna shall pay to Spinco, as appropriate, an amount equal to the
+difference, if any, between (i) the Health Federal Tax Liability or the Health
+Combined State Tax Liability, as the case may be, reflected by such calculation
+for such tax period, and (ii) the aggregate amount of (A) the estimated
+installments paid with respect thereto pursuant to (or in accordance with the
+principles of) Section 3.02, and (B) payments made pursuant to (or in accordance
+with the principles of) Section 3.03.
+      (c) Spinco shall be permitted to invoke the dispute resolution procedures
+under Section 10.09 with respect to the manner in which Aetna has discharged its
+obligations under Section 3.04(a).
+
+      Section 3.05. TREATMENT OF ADJUSTMENTS. If any adjustment is made in a
+Federal Tax Return or a Combined State Tax Return of the Aetna Consolidated
+Group, after the filing thereof, in which income or loss of any member of the
+Health Group is included, then within five calendar days of the time of a
+Final Determination of such adjustment, Spinco shall pay to Aetna or Aetna
+shall pay to Spinco, as the case may be, the difference between all payments
+actually made pursuant to (or in accordance with the principles of) Article 3
+(and any other applicable provisions of this Agreement) with respect to the
+taxable year covered by such Return and all payments that would have been
+made pursuant to (or in accordance with the principles of) Article 3 (and any
+other applicable provisions of this Agreement) taking such adjustment into
+account with respect to such taxable year, together with any penalties
+actually paid and interest for each day until the date of Final Determination
+calculated at the Intercompany Interest Rate.
+
+      Section 3.06. CARRY-BACKS FROM POST-DISTRIBUTION TAX PERIODS AND
+CERTAIN OTHER MATTERS. (a) Aetna agrees to pay to Spinco, within three
+calendar days of Effective Realization, the actual tax benefit received or
+otherwise Effectively Realized by the Aetna Consolidated Group from the use
+in any Pre-Distribution Tax Period of a carryback of any Tax Asset of the
+Health Group from a Post-Distribution Tax Period. Such benefit shall be equal
+to the excess of (i) the amount of Federal Taxes or Combined State Taxes, as
+the case may be, that would have been payable (or of the Federal Tax or
+Combined State Tax refund actually receivable) by the Aetna Consolidated
+Group in the absence of such carryback, over (ii) the amount of Federal Taxes
+or Combined State Taxes, as the case may be,
+
+<PAGE>
+
+actually payable (or of the Federal Tax or Combined State Tax
+refund that would have been receivable) by the Aetna Consolidated Group.
+
+      (b) If, subsequent to the payment by Aetna to Spinco of any amount
+pursuant to (or in accordance with the principles of) Section 3.06(a), there
+shall be (i) a Final Determination that results in a disallowance or a reduction
+of the Tax Asset so carried back or (ii) a reduction in the amount of the tax
+benefit Effectively Realized by the Aetna Consolidated Group from such Tax Asset
+as a result of the use by the Aetna Consolidated Group of a Tax Asset of the
+Acquired Group (PROVIDED that, for purposes of clause (ii), to the extent that
+the sum of the Tax Assets of the Acquired Group available to be used in the
+Pre-Distribution Tax Period to which carryback is made and the Tax Assets of the
+Health Group available to be used in such Pre-Distribution Tax Period exceeds
+the Tax Assets permitted to be used by the Aetna Consolidated Group with respect
+to such Pre-Distribution Tax Period, the same proportion of the Tax Assets of
+the Acquired Group and of the Health Group shall be used, unless Aetna and
+Spinco Jointly Decide otherwise), Spinco shall repay to Aetna, within three
+calendar days of such event described in clause (i) or (ii) (an "EVENT" or,
+collectively the "EVENTS"), any amount that would not have been payable to
+Spinco pursuant to (or in accordance with the principles of) Section 3.06(a) had
+the amount of the tax benefit been determined in light of the Events. In
+addition, Spinco shall hold each member of the Acquired Group harmless from any
+penalty or interest payable by any member of the Acquired Group as a result of
+any such Events. Any such amount shall be paid by Spinco within three calendar
+days of the payment by the Acquired Group of any such penalty or interest.
+       (c) Any refunds or credits of Tax received or otherwise Effectively
+Realized by a member of the Acquired Group or the Health Group, as the case may
+be, relating to a Pre-Distribution Tax Period, to the extent reflecting a Tax
+saving attributable to any item of income, loss, credit, deduction or other Tax
+attribute of any member of the Health Group or the Acquired Group, respectively,
+shall be paid by such member of the Acquired Group or the Health Group,
+respectively, to Spinco or Aetna, respectively, within three calendar days of
+the receipt or other Effective Realization of such tax saving; PROVIDED that (i)
+no such payment shall be required to the extent such refunds or credits are
+attributable to (A) a Tax Asset of the Health Group or the Acquired Group,
+respectively, for which payment has previously been made by the Acquired Group
+or the Health Group, respectively, pursuant to (or in accordance with the
+principles of) Section 3.06(a), this Section 3.06(c) or any other applicable
+provision of this Agreement, or (B) an adjustment for which payment in respect
+thereof has previously been made pursuant to (or in accordance with the
+principles of) Section 3.05 or any other applicable provision of this Agreement,
+and (ii) any refunds shall be paid net of any Tax liability to an
+
+
+<PAGE>
+
+entity resulting from such entity's receipt of such refund from the Taxing
+Authority.
+
+      Section 3.07. ADDITIONAL MATTERS. To the extent that any Parent Affiliate
+or any Spinco Affiliate receives interest from a Taxing Authority relating to an
+adjustment made in a Federal Tax Return or a Combined State Tax return of the
+Aetna Consolidated Group, any obligations of Parent or Spinco, respectively,
+under Section 3.05 or Section 3.06 arising from such adjustment shall be reduced
+by any Tax incurred by the Parent Affiliate or the Spinco Affiliate,
+respectively, on the receipt of such interest.
+
+
+                                    ARTICLE 4
+                Certain Covenants and Employee Benefits Matters
+
+      Section 4.01. SPINCO COVENANTS TO AETNA. (a) Spinco covenants to Aetna
+that, during the period from the date on which the Merger Agreement was signed
+through the Distribution Date, Aetna will not have caused the Acquired Group to
+take a position on a material Federal Tax matter with respect to such period,
+which position Aetna does not believe, at the time such position is taken,
+should be treated as being supported by substantial authority (within the
+meaning of the Code).
+
+      (b) Spinco covenants to Aetna that at no time prior to the Distribution
+Date will Spinco or any Spinco Affiliate have filed a Return of a Consolidated
+Group of which it is the parent and which includes any Parent Affiliate (except
+for a Consolidated Group filing a Return for a Combined New York-Illinois Tax
+that is the tax payable to the State of Illinois).
+
+      (c) Spinco covenants to Aetna that, during the period from the date on
+which the Merger Agreement was signed through the Distribution Date, it shall
+not adjust the Tax accounts of Aetna, Aetna Life Insurance and Annuity Company,
+Aetna International, Inc. or certain Malaysian subsidiaries of Aetna
+International, Inc., except in each case to the extent necessary to reflect the
+accrual of current Tax liabilities and the making of payments of estimated Tax
+installments.
+
+      Section 4.02. COVENANT REGARDING AMENDMENT OF RETURNS. Each member of
+the Acquired Group covenants to the members of the Health Group that Aetna
+shall not amend any Return of the Aetna Consolidated Group filed prior to the
+Distribution Date, or change any tax election or any tax accounting method
+reflected on any such Return, which amendment or change would result in a
+material increase in the tax liability (or a material reduction of any Tax
+Asset) of the Health Group with
+
+<PAGE>
+
+respect to any Pre-Distribution Tax Period, except in each case to the extent
+(i) permitted by Article 8 of this Agreement, (ii) required by any applicable
+Final Determination, or (iii) agreed to by Spinco.
+
+      Section 4.03. CERTAIN DEDUCTIONS RELATING TO EMPLOYEE BENEFITS MATTERS.
+(a) For purposes of this Agreement, Spinco shall be entitled to the economic
+benefit of any Federal Tax or other Tax deductions, for any Tax period
+(including without limitation any Post-Distribution Tax Period), that are
+(i) attributable to the cancellation under Section 2.04(b)(i) of the Employee
+Benefits Agreement of options with respect to the Aetna Common Stock,
+(ii) attributable to the exercise following the Distribution Date of any
+option with respect to the common stock of Spinco, which option shall have
+been converted from an option with respect to the Aetna Common Stock pursuant
+to Section 2.04(b)(ii) of the Employee Benefits Agreement, (iii) attributable
+to any payments of cash under Section 2.04(b)(ii) of the Employee Benefits
+Agreement, (iv) in connection with AUSHC Bonus Liabilities (as defined in
+Section 2.04(c) of the Employee Benefits Agreement), (v) in connection with
+Retained Supplemental Liabilities (as defined in Section 3.02(a)(ii) of the
+Employee Benefits Agreement), (vi) in connection with AUSHC Deferred
+Compensation Liabilities (as defined in Section 3.02(b)(ii) of the Employee
+Benefits Agreement), (vii) in connection with Retained Retiree Health and
+Life Liabilities (as defined in Section 4.02(a) of the Employee Benefits
+Agreement), (viii) in connection with the AUSHC WCP Liabilities (as defined
+in Section 4.06(b) of the Employee Benefits Agreement), (ix) in connection
+with AUSHC Phantom Liabilities (as defined in Section 4.11(b) of the Employee
+Benefits Agreement), (x) in connection with Director Liabilities (within the
+meaning of Article 5 of the Employee Benefits Agreement), (xi) in connection
+with AUSHC International Liabilities (within the meaning of Section 5.02 of
+the Employee Benefits Agreement), or (xii) in connection with such other
+AUSHC Retained Liabilities (as defined in the Employee Benefits Agreement)
+(excluding any AI Assumed Liabilities as defined in the Employee Benefits
+Agreement) as are paid or otherwise satisfied by Spinco or another Spinco
+Affiliate (any deduction described in this first sentence of Section 4.03(a)
+constituting a "SPECIFIED DEDUCTION"). Without limiting the generality of the
+preceding sentence, (i) Spinco (or another Spinco Affiliate designated by
+Spinco) shall be entitled to claim any Specified Deduction, and (ii) for any
+Specified Deduction that is not claimed pursuant to clause (i) of this
+sentence, Spinco and Aetna shall cooperate in good faith to (A) determine
+whether, and the manner in which, such Specified Deduction shall be claimed
+on the Tax return of Spinco, another Spinco Affiliate, Aetna or another
+Parent Affiliate (or on the Tax return of a Consolidated Group of which any
+of such corporations is a member) for any applicable Tax period, and
+(B) establish the entitlement to such Specified Deduction; PROVIDED that
+nothing in clause (ii) of this sentence shall require Aetna, any other Parent
+Affiliate, Spinco, any other Spinco Affiliate or a Consolidated Group of
+which any of such
+
+<PAGE>
+
+corporations is a member, to take any position that is not supported by
+substantial authority (within the meaning of the Code).
+
+      (b) To the extent that a Specified Deduction is (i) claimed by Spinco or
+any other Spinco Affiliate on its separate Tax return (or on the Tax return of a
+Consolidated Group of which such corporation is a member and of which no Parent
+Affiliate is a member) for any Tax period, and (ii) disallowed because a Taxing
+Authority makes a Final Determination that Aetna or any other Parent Affiliate
+should have claimed such Specified Deduction with respect to any Tax period,
+Aetna shall pay to Spinco an amount equal to the resulting actual Tax benefit
+Effectively Realized by any Parent Affiliate (or any member, except for any
+Spinco Affiliate, of a Consolidated Group of which any Parent Affiliate is a
+member), together with the related After-Tax Amount, within three calendar days
+of the Effective Realization thereof.
+
+      (c) To the extent that a Specified Deduction is claimed by Aetna or any
+other Parent Affiliate on its separate Tax return (or on the Tax return of a
+Consolidated Group of which such corporation is a member) for any Tax period,
+Aetna shall pay to Spinco an amount equal to the resulting actual Tax benefit
+Effectively Realized by any Parent Affiliate (or any member, except for any
+Spinco Affiliate, of a Consolidated Group of which any Parent Affiliate is a
+member), together with the related After-Tax Amount, within three calendar days
+of the date on which the Tax return reflecting such Specified Deduction is
+filed. If, subsequent to the payment by Aetna to Spinco of any amount pursuant
+to this Section 4.03(c), there shall be a Final Determination that results in a
+disallowance or a reduction of such Specified Deduction, Spinco shall pay to
+Aetna, within three calendar days of such disallowance, any amount that would
+not have been payable to Spinco pursuant to this Section 4.03(c) had such
+disallowance been known. In addition, Spinco shall hold each Parent Affiliate
+harmless from any penalty or interest payable by such Parent Affiliate as a
+result of such disallowance.
+
+      Section 4.04. CERTAIN TRANSACTIONS EXPENSES. For purposes of this
+Agreement, Spinco shall be entitled to the economic benefit of any Federal Tax
+or other Tax deductions, for any Tax period (including any Post-Distribution Tax
+Period), that are attributable to any transaction expenses that are paid by
+Aetna Inc. and economically borne by Spinco or any Spinco Affiliate. This
+Section 4.04 shall be implemented by applying the provisions of Section 4.03
+MUTATIS MUTANDIS with respect to transaction expenses described in the preceding
+sentence.
+
+      Section 4.05. CERTAIN OTHER MATTERS. The parties agree as to the matters
+set forth on (i) Schedule 4.05A in connection with certain dispositions effected
+by Aetna International, Inc. or (ii) Schedule 4.05B.
+
+
+<PAGE>
+
+                                    ARTICLE 5
+                                  Indemnities
+
+      Section 5.01. INDEMNIFICATION OF PARENT AFFILIATES BY SPINCO AFFILIATES.
+Spinco and each Spinco Affiliate (except for the Travelers Companies) shall
+jointly and severally indemnify Aetna and each Parent Affiliate against and hold
+them harmless from the following, without duplication:
+
+      (a) any Health Group Tax Liability, except for any liability (or portion
+thereof) that is described in Section 5.02(d);
+      (b) any liability for Taxes attributable to any Spinco Affiliate
+(PROVIDED that, for the purposes of the foregoing portion of this
+Section 5.01(b), Taxes shall refer only to such taxes as are described in
+clause (i) or clause (iii) of the definition of such term in Section 1.01(a))
+(including without limitation (i) any Tax liability of Spinco or of any
+Spinco Affiliate that was a direct or indirect Subsidiary of Spinco
+immediately after Aetna's acquisition in 1996 of Spinco, which Tax liability
+relates to tax periods ending on the date of, or prior to, such acquisition,
+and (ii) any liability with respect to a Pre-Distribution Tax Period of a
+member of the Health Group for which a Taxing Authority holds any member of
+the Acquired Group liable solely by reason (taking into account for this
+purpose the principles of this Agreement) of Treasury Regulations
+Section 1.1502-6 or comparable provisions of United States state or local or
+foreign law), but excluding any liability (or portion thereof) that is
+described in Section 5.02(d);
+
+      (c) the net amount (if a liability) of (i) the Federal Tax liabilities
+paid and/or interest paid (which interest shall be adjusted downwards for the
+Federal Tax deductions to a Parent Affiliate resulting from its payment using
+the highest rate of tax specified in Section 11(b) of the Code) to the Internal
+Revenue Service by, and (ii) the refunds of Federal Tax and/or interest (which
+interest shall be adjusted downwards for the Federal Tax incurred by a Parent
+Affiliate on the receipt of such interest using the highest rate of tax
+specified in Section 11(b) of the Code) received from the Internal Revenue
+Service by, in the case of each of clauses (i) and (ii) the Parent Affiliates
+with respect to the specific Federal Tax items that are set forth on Schedule
+5.01 and that relate solely to Pre-1995 Tax Periods (each such Federal Tax item
+constituting a "COVERED TAX ITEM"); PROVIDED that, except for the funding
+arrangements under Section 5.03(b), no indemnification obligation shall arise
+under this Section 5.01(c) until the date (the "COVERED ITEMS PAYMENT DATE")
+that is 10 calendar days after the date (the "COVERED ITEMS DETERMINATION DATE")
+on which, for Federal Tax purposes, a Final Determination shall be in place for
+each of the Covered Tax Items;
+      (d) any Tax liability of any member of the Health Group resulting from the
+existence of any excess loss account or deferred intercompany gain immediately
+before the Distribution (which excess loss account or deferred intercompany gain
+is triggered by the Distribution under the Treasury regulations promulgated
+under Section 1502 of the Code), except for any liability (or portion thereof)
+that is described in Section 5.02(d); PROVIDED that, for the purposes of this
+
+
+<PAGE>
+
+Section 5.01(d), Tax shall refer only to such taxes as are described in clause
+(i) or clause (iii) of the definition of such term in Section 1.01(a);
+      (e) any Tax liability of any member of the Acquired Group resulting from
+the existence of any excess loss account or deferred intercompany gain
+immediately before the Distribution (which excess loss account or deferred
+intercompany gain (i) is triggered by the Distribution or the Merger under the
+Treasury regulations promulgated under Section 1502 of the Code and (ii) did not
+arise, and was not increased, solely by reason of such portions of the Spin-Off
+as precede the Distribution), except (A) to the extent that the aggregate amount
+of the Tax liabilities described in this Section 5.01(e), without taking into
+account the following clause (B), does not exceed US$10 million, and (B) for any
+liability (or portion thereof) that is described in Section 5.02(d); PROVIDED
+that, for the purposes of this Section 5.01(e), Tax shall refer only to such
+taxes as are described in clause (i) or clause (iii) of the definition of such
+term in Section 1.01(a);
+      (f) any Tax indemnity payment required to be made by any Parent Affiliate
+or any Spinco Affiliate under the Prior Deal Agreements or the AUSHC Agreements;
+      (g) any Tax liability relating to (or resulting from the treatment of) the
+transactions described in the Travelers Agreements, the Lincoln Agreements, the
+AmRe Agreements or the Miscellaneous Agreements;
+      (h) any Tax liability relating to (or resulting from the treatment of) the
+assets acquired pursuant to, or the transactions described in, the AUSHC
+Agreements, the NYLCare Agreements or the Prudential Agreements;
+      (i) any Tax liability relating to (or resulting from the treatment of)
+the Spin-Off, except for any liability (or portion thereof) that is described
+in Section 5.02(d); PROVIDED that this Section 5.01 (i) shall not describe
+(A) any Tax liability resulting from the existence of any excess loss account
+or deferred intercompany gain immediately before the Distribution (except for
+Tax liability of any member of the Acquired Group resulting from the
+existence of any excess loss account or deferred intercompany gain
+immediately before the Distribution, to the extent that such excess loss
+account or deferred intercompany gain (x) is triggered by the Distribution or
+the Merger under the Treasury Regulations promulgated under Section 1502 of
+the Code and (y) arose, or was increased, solely by reason of such portions
+of the Spin-Off as precede the Distribution; PROVIDED that for purposes of
+such exception Tax shall refer only to such taxes as are described in clause
+(i) or clause (iii) of the definition of such term in Section 1.01(a)), or
+(B) such transfer, documentary, sales, use, stamp and registration Taxes as
+shall be borne by Aetna under Section 8.08(d) of the Distribution Agreement;
+      (j) any liability or damage resulting from a breach by Spinco or any other
+Spinco Affiliate of any representation or covenant made by such entity in, or of
+any other provision of, this Agreement; and
+      (k) all liabilities, costs, expenses (including without limitation
+reasonable expenses of investigation and attorneys' fees and expenses), losses,
+
+
+<PAGE>
+
+damages, assessments, settlements or judgments arising out of or incident to the
+imposition, assessment or assertion of any liability or damage described in (a),
+(b), (c), (d), (e), (f), (g), (h), (i) or (j), including without limitation
+those incurred in the contest in good faith in appropriate proceedings relating
+to the imposition, assessment or assertion of any such liability or damage.
+      Section 5.02. INDEMNIFICATION OF SPINCO AFFILIATES BY PARENT AFFILIATES.
+Aetna and each Parent Affiliate shall jointly and severally indemnify Spinco and
+each Spinco Affiliate against and hold them harmless from the following, without
+duplication:
+
+      (a) any Federal Tax or Combined State Tax liability of the Aetna
+Consolidated Group with respect to a Pre-Distribution Tax Period, to the extent
+that such liability (or a portion thereof) is neither a Health Group Tax
+Liability nor any other item that is described in Section 5.01;
+      (b) any liability for Taxes attributable to any Parent Affiliate
+(PROVIDED that, for the purposes of the foregoing portion of this
+Section 5.02(b), Taxes shall refer only to such taxes as are described in
+clause (i) or clause (iii) of the definition of such term in
+Section 1.01(a)), including without limitation any liability with respect to
+a Pre-Distribution Tax Period of a member of the Acquired Group for which a
+Taxing Authority holds any member of the Health Group liable solely by reason
+(taking into account for this purpose the principles of this Agreement) of
+Treasury Regulations Section 1.1502-6 or comparable provisions of United
+States state or local or foreign law, but excluding any liability (or portion
+thereof) that is described in Section 5.01(c), Section 5.01(e),
+Section 5.01(f), Section 5.01(g), Section 5.01(h), Section 5.01(i) or
+Section 5.01(j);
+
+      (c) any Tax indemnity payment required to be made by any Parent Affiliate
+or any Spinco Affiliate under the Aetna International Disposition Agreements, or
+any Tax liability relating to (or resulting from the treatment of) the
+transactions described in the Aetna International Disposition Agreements;
+      (d) any liability or damage resulting from a breach, after the
+Distribution Date, by Aetna or any other Parent Affiliate of any covenant made
+by such entity in, or of any other provision of, this Agreement; and
+      (e) all liabilities, costs, expenses (including without limitation
+reasonable expenses of investigation and attorneys' fees and expenses), losses,
+damages, assessments, settlements or judgments arising out of or incident to the
+imposition, assessment or assertion of any liability or damage described in (a),
+(b), (c) or (d), including without limitation those incurred in the contest in
+good faith in appropriate proceedings relating to the imposition, assessment or
+assertion of any such liability or damage.
+      Section 5.03. TREATMENT OF INTERIM PAYMENTS AND REFUNDS WITH RESPECT
+TO, AND CERTAIN OTHER MATTERS REGARDING, COVERED TAX ITEMS. (a) For purposes
+of performing the calculation following the Covered Items Determination Date
+of the net amount described in Section 5.01(c), any refund of Federal Tax
+and/or interest (with the adjustment to the interest for Federal Tax effects
+set forth in
+
+<PAGE>
+
+clause (ii) of Section 5.01(c)) with respect to a Covered Tax Item, which refund
+is described in clause (ii) of Section 5.01(c), shall offset on a
+dollar-for-dollar basis any Federal Tax liability and/or interest (with the
+adjustment to the interest for Federal Tax effects set forth in clause (i) of
+Section 5.01(c)) with respect to any of the Covered Tax Items, which liability
+or interest is described in clause (i) of Section 5.01(c), regardless of whether
+such refund is received before, at the same time as, or after, the payment of
+such liability or interest.
+
+      (b) Notwithstanding that no indemnification obligation shall arise under
+Section 5.01(c) until the Covered Items Payment Date, Spinco or another Spinco
+Affiliate shall (i) within the time limit specified by the Internal Revenue
+Service for payment, fund any cash payments to the Internal Revenue Service of
+tax with respect to any Covered Tax Item and/or of interest with respect to any
+Covered Tax item (with the adjustment to the interest for Federal Tax effects
+set forth in clause (i) of Section 5.01(c)), and (ii) be entitled to any refunds
+received from the Internal Revenue Service of tax with respect to any Covered
+Tax Item and/or of interest with respect to any Covered Tax Item (with the
+adjustment to the interest for Federal Tax effects set forth in clause (ii) of
+Section 5.01(c)). Any Parent Affiliate that receives a refund from the Internal
+Revenue Service of tax and/or interest shall, within three calendar days of such
+receipt, transfer to Spinco immediately available funds in an amount equal to
+such tax and/or interest (with the adjustment to the interest for Federal Tax
+effects set forth in clause (ii) of Section 5.01(c)).
+
+      (c) To the extent that Aetna and Spinco Jointly Decide that it is
+appropriate for a Spinco Affiliate to claim the interest deductions reflected in
+adjustments to the interest for Federal Tax effects set forth in clause (i) of
+Section 5.01(c), such adjustments shall be reduced by such interest deductions
+(absent a Final Determination to the contrary) for purposes of Section 5.01(c),
+Section 5.03(a) and Section 5.03(b). If Aetna and Spinco each agrees, the
+principles of this Section 5.03(c) shall be applied to any interest obligations,
+where applicable.
+
+      Section 5.04. DISCHARGE OF INDEMNITY. Each party with indemnification
+obligations under Section 5.01 or 5.02 (an "INDEMNITOR"), as the case may be,
+shall discharge its obligations thereunder by paying the sum of the relevant
+amount and the related After-Tax Amount, within three calendar days of demand
+therefor, to the party that is indemnified under such provision (the
+"INDEMNITEE"). After a Final Determination of an obligation for which an
+Indemnitee is to be indemnified, the Indemnitee shall send a statement to the
+Indemnitor showing the amount due under Section 5.01 or 5.02 and the related
+After-Tax Amount. Calculation mechanics relating to appropriate items
+described in Section 5.01 and 5.02 shall be in accordance with the principles
+of this Agreement. Notwithstanding the foregoing, if an Indemnitor disputes
+in good faith the fact or the amount of its obligation under Section 5.01 or
+5.02, no
+
+<PAGE>
+
+payment of the amount in dispute shall be required until any such good faith
+dispute is resolved in accordance with Section 10.09 hereof; PROVIDED that
+any amount not paid within three calendar days of demand therefor shall bear
+interest as provided in Article 9.
+
+      Section 5.05. TREATMENT OF INDEMNIFICATION PAYMENTS. Any payments made by
+any Spinco Affiliate to any Parent Affiliate under Section 5.01 shall be treated
+as involving a deemed dividend by such Spinco Affiliate, which deemed dividend
+shall be eliminated under the Treasury regulations promulgated under
+Section 1502 of the Code. Any payments made by any Parent Affiliate to any
+Spinco Affiliate under Section 5.02 shall be treated as a capital contribution.
+
+      Section 5.06. CERTAIN ENTITIES AS INDEMNITEES. (a) Amounts paid in
+discharge of any indemnification obligation under Section 5.02 for which the
+Indemnitee is (i) Aetna Services, Inc. or (ii) any entity that has no
+successor and that is no longer in existence at the time of its entitlement
+to indemnification, in the case of each of clauses (i) and (ii) shall be paid
+to Spinco.
+
+      (b) Amounts paid in discharge of any indemnification obligation under
+Section 5.01 for which the Indemnitee is an entity that has no successor and
+that is no longer in existence at the time of its entitlement to indemnification
+shall be paid to Aetna.
+
+      Section 5.07. NON-EXCLUSIVITY OF REMEDIES. The remedies provided for in
+this Article 5 are not exclusive and shall not limit any rights or remedies
+which may otherwise be available to any Indemnified Party at law or in equity.
+
+      Section 5.08. ENTITLEMENTS UNDER CERTAIN AGREEMENTS. (a) Spinco shall
+be entitled to the excess of (i) any Tax indemnity payment received by any
+Spinco Affiliate or any Parent Affiliate under the Prior Deal Agreements or
+the AUSHC Agreements, over (ii) in the case of receipt by a Parent Affiliate,
+any Tax liability incurred by such Parent Affiliate as a result of the
+receipt of such Tax indemnity payment.
+
+      (b) Aetna shall be entitled to the excess of (i) any Tax indemnity payment
+received by any Parent Affiliate or any Spinco Affiliate under the Aetna
+International Disposition Agreements, over (ii) in the case of receipt by a
+Spinco Affiliate, any Tax liability incurred by such Spinco Affiliate as a
+result of the receipt of such Tax indemnity payment.
+      Section 5.09. CERTAIN TRANSFER TAXES. Notwithstanding anything in
+Section 8.08(d) of the Distribution Agreement to the contrary, Spinco shall
+bear and pay the excess, if any, of (i) the amount of all transfer,
+documentation, sales, use, stamp and registration taxes and fees (including
+any penalties and interest) (collectively, "TRANSFER TAXES") incurred in
+connection with (A) the assignment, contribution, conveyance, transfer and
+delivery to Aelan Inc. of all the assets and liabilities of the Aetna Global
+Benefits Business that are owned by, or that are
+
+<PAGE>
+
+obligations of, Aetna International, Inc. (including, without limitation, all of
+the outstanding shares of capital stock of ALCBL) (the "AETNA GLOBAL BENEFITS
+ASSETS/LIABILITIES"), and (B) the contribution by Aetna to the capital of Spinco
+of all of the outstanding shares of capital stock of Aelan Inc., over (ii) the
+amount of all Transfer Taxes that would have been incurred in connection with
+(A) the contribution of the Aetna Global Benefits Assets/Liabilities to a newly
+formed limited liability company ("NEW LLC"), and (B) the distribution to Aetna,
+followed by the contribution by Aetna to the capital of Spinco, of the
+membership interests in New LLC and all of the outstanding shares of capital
+stock of Aelan Inc. Nothing in this Section 5.09 shall affect the responsibility
+of Spinco, under Section 8.08(d) the Distribution Agreement, to bear and pay 50%
+of the amount that is the lesser of the amount described in clause (i) of the
+preceding sentence and the amount described in clause (ii) thereof.
+
+
+
+                                    ARTICLE 6
+                                  Subsidiaries
+
+      Section 6.01. PERFORMANCE. Parent and Aetna agree and acknowledge that
+each of Parent and Aetna shall be responsible for the performance, and guarantee
+the obligations, of each Parent Affiliate under this Agreement (including
+without limitation any indemnification obligations under Article 5). Spinco
+agrees and acknowledges that it shall be responsible for the performance, and
+guarantee the obligations, of each other Spinco Affiliate (except for the
+Travelers Companies and for any Person sold by any Spinco Affiliate or any
+Parent Affiliate under the Prior Deal Agreements) under this Agreement
+(including without limitation any indemnification obligations under Article 5).
+
+
+
+                                    ARTICLE 7
+                     Access to Information and Cooperation
+
+      Section 7.01. CONSULTATION AND COOPERATION. Aetna and Spinco shall
+consult and cooperate (and shall cause the Parent Affiliates or the Spinco
+Affiliates, respectively, to cooperate) fully (or, in the case of Spinco
+Affiliates that are Travelers Companies, to the extent contemplated in the
+Travelers Agreements) at such time and to the extent reasonably requested by
+Spinco or Aetna, respectively, in connection with all matters subject to this
+Agreement. Such cooperation shall include without limitation:
+
+      (i) (A) except as set forth in Section 7.02, the retention and provision
+on reasonable request of any and all information (including without limitation
+all books, records, documentation or other information) pertaining to Tax
+matters
+
+
+<PAGE>
+
+relating to any of the Parent Affiliates or any of the Spinco Affiliates, (B)
+any necessary explanations of information and (C) access to personnel, in the
+case of each of clauses (A) through (C) until the expiration of the applicable
+statute of limitation (giving effect to any extension or waiver thereof);
+      (ii) the execution, acknowledgment or delivery of any document that may be
+necessary or helpful in connection with (A) any Return, (B) any Tax Proceeding
+or investigation, or (C) the carrying out of a party's obligations under this
+Agreement; and
+      (iii) the use of the parties' reasonable best efforts to obtain any
+documentation from a governmental authority or a third party that may be
+necessary or helpful in connection with the foregoing, including without
+limitation pursuant to the Prior Deal Agreements, the AUSHC Agreement or the
+Aetna International Disposition Agreements.
+      (b) The party that requests cooperation under Section 7.01(a) shall
+reimburse the party that furnishes such cooperation and its Affiliates for
+reasonable out-of-pocket expenses incurred by the latter party or its Affiliates
+and paid to a third party in fulfilling such request, which expenses would not
+have been incurred absent such request.
+
+      Section 7.02. CORPORATE RECORDS. Until the expiration of the applicable
+statutes of limitation (giving effect to any extension or waiver thereof),
+except as otherwise required by law or agreed to by Aetna and Spinco in writing,
+each of the Parent Affiliates and the Spinco Affiliates shall continue to hold
+the material documents, books, records, files or papers, or other material
+information, pertaining to Tax matters (whether in hard copy or computer format)
+that it possesses immediately prior to the Distribution Date. Notwithstanding
+the foregoing, any Parent Affiliate or Spinco Affiliate may, consistent with its
+documentation retention practices, destroy or otherwise dispose of any such
+information at any time so long as, prior to such disposal, (i) such Parent
+Affiliate or Spinco Affiliate shall provide not less than 90 calendar days'
+prior written notice to Spinco or Aetna, respectively, specifying the
+information proposed to be disposed of and the scheduled date for such disposal,
+and (ii) if the recipient of such notice shall request in writing prior to the
+scheduled date for such disposal that any of the information proposed to be
+disposed of be delivered to the requesting party, the entity proposing such
+disposal shall promptly arrange for the delivery of such portion of the
+information as was requested (at the expense of the requesting party).
+
+      Section 7.03. PROVISION OF INFORMATION. (a) Aetna and Spinco shall keep
+each other fully informed with respect to any material development relating
+to the matters subject to this Agreement.
+
+      (b) Without limiting the generality of Section 7.03(a), Aetna shall
+promptly provide Spinco with (i) any information document requests, any
+notices
+
+<PAGE>
+
+of proposed adjustments, any other material notices or any other information, in
+each case received by Aetna from the Internal Revenue Service, any other Taxing
+Authority or other third parties in connection with, or otherwise affecting, the
+Tax liability of the Aetna Consolidated Group for a Pre-Distribution Tax Period,
+and (ii) any other Tax information relating to the Aetna Consolidated Group that
+is in the possession of, or otherwise available to, Aetna (or any other Parent
+Affiliate) and that is reasonably requested by Spinco for a Pre-Distribution Tax
+Period.
+
+      (c) Without limiting the generality of Section 7.03(a), Aetna and
+Spinco shall advise each other with respect to any proposed Tax adjustments
+relating to a Pre-Distribution Tax Period, which adjustments are the subject
+of a Tax Proceeding or investigation and which may affect any Tax liability,
+any Tax Asset or any Tax attribute of any Parent Affiliate or any Spinco
+Affiliate (including without limitation basis in an asset or the amount of
+earnings and profits).
+
+      Section 7.04. CONFIDENTIALITY. Each party shall hold and shall cause
+its directors, officers, employees, counsel, accountants, agents,
+consultants, advisors and other authorized representatives
+("REPRESENTATIVES") to hold in strict confidence any Tax information
+concerning one or more of the other parties hereto, unless (i) such
+information is reflected on a Tax Return filed by (or on behalf of) one or
+more of the parties or is relevant to a Tax Proceeding involving one or more
+of the parties, (ii) such information is required to be disclosed in order to
+comply with applicable Tax laws, (iii) the party with the confidentiality
+commitment is compelled to disclose such information by judicial or
+administrative process or, in the opinion of its counsel, by other
+requirements of law, and/or (iv) such information can be shown to have been
+(A) in the public domain through no fault of the party with the
+confidentiality commitment, or (B) lawfully acquired after the Distribution
+Date on a non-confidential basis from other sources. Notwithstanding the
+foregoing, each party may disclose to its Representatives Tax information so
+long as such Representatives are informed of the confidential nature of such
+information and are directed to treat such information in a manner consistent
+with this Section 7.04.
+
+      Section 7.05. PRESERVATION OF PRIVILEGE. (a) The parties hereto recognize
+that some of the information, documents and records disclosed or exchanged
+pursuant to or in furtherance of this Agreement may be confidential, work
+product, or otherwise privileged under relevant laws and procedures, and each
+party agrees to take all reasonable and necessary efforts to protect and
+maintain, or to cause its Affiliates and its Representatives to protect and
+maintain, any applicable claim to privilege, immunity, protection or
+confidentiality in order to protect such information, documents and records from
+improper disclosure or use. Without limiting the generality of the foregoing,
+and to the maximum extent permitted by law, none of the parties may waive,
+undermine or fail to defend any privilege or protection or take or fail to take
+any action that (i) could result in the disclosure of any common-interest or
+joint-defense materials to a Person that is neither a party to this Agreement
+nor an Affiliate of any such party, or (ii) would have the effect of waiving or
+undermining such privilege or protection, in the case
+
+
+<PAGE>
+
+of each of clauses (i) and (ii) without the prior written consent of the
+affected part(ies).
+
+      (b) Aetna and Spinco agree to cooperate to enter into such joint defense
+agreements relating to Taxes as Aetna or Spinco may deem necessary or helpful to
+achievement of the outcome described in Section 7.05(a).
+
+      Section 7.06. CERTAIN PAYROLL- AND EMPLOYEE-RELATED TAXES. (a) Aetna and
+Spinco shall cooperate to Jointly Decide (i) the manner in which various
+payroll-related Tax Returns (including without limitation withholding Tax
+Returns) with respect to Pre-Distribution Tax Periods shall be filed, and (ii)
+which of the Parent Affiliates and the Spinco Affiliates shall send such forms
+(including without limitation Internal Revenue Service Form W-2 or any successor
+form), or cause such forms to be sent, to employees as are required under
+applicable Tax Laws.
+
+      (b) Aetna and Spinco shall cooperate to Jointly Decide (i) the manner in
+which various information reporting Tax Returns, with respect to any Tax period
+ending on or before December 31, 2001 shall be prepared, mailed to recipients,
+and filed with the Internal Revenue Service (or other applicable Taxing
+Authority), (ii) which of the Parent Affiliates and the Spinco Affiliates shall
+send such forms, or cause such forms to be sent, to recipients and to the
+Internal Revenue Service (or other applicable Taxing Authority), and (iii) an
+approach for sharing the costs of preparing and mailing such Tax Returns (unless
+the sharing of such costs is addressed by another Distribution Document). Aetna
+and Spinco shall pay such portion of the costs attributable to the activities
+described in the preceding sentence as relates to the Parent Affiliates or the
+Spinco Affiliates, respectively.
+
+
+
+                                    ARTICLE 8
+                          Tax Proceedings and Consent
+
+      Section 8.01. CONTROL OVER TAX PROCEEDINGS. (a) Except to the extent
+otherwise provided in Section 8.03, Aetna shall have control over Tax matters
+relating to any Taxing Authority Proceeding or Contract-Based Tax Proceeding of
+the Aetna Consolidated Group (i) with respect to a Post-1994 Tax Period in the
+case of a Federal Tax or (ii) with respect to a Pre-Distribution Tax Period in
+the case of a Combined State Tax, in each case which Tax matters predominantly
+affect the Acquired Group. Except to the extent otherwise provided in
+Section 8.03, Aetna shall have discretion regarding decisions to be made, or
+the nature of any action to be taken, with respect to any matter described in
+the preceding sentence. Except to the extent otherwise provided in
+Section 8.03, Spinco shall have control over (i) Tax matters relating to any
+Taxing Authority Proceeding or
+
+<PAGE>
+
+Contract-Based Tax Proceeding of the Aetna Consolidated Group with respect to a
+Pre-1995 Tax Period in the case of a Federal Tax, (ii) Tax matters relating to
+any Taxing Authority Proceeding or Contract-Based Tax Proceeding of the Aetna
+Consolidated Group with respect to a Post-1994 Tax Period, which Tax matters in
+this clause (ii) predominantly affect the Health Group, and (iii) Tax matters
+relating to any Taxing Authority Proceeding or Contract-Based Tax Proceeding of
+the Aetna Consolidated Group with respect to a Pre-1995 Tax Period in the case
+of a Combined State Tax, which Tax matters in this clause (iii) predominantly
+affect the Health Group. Except to the extent otherwise provided in
+Section 8.03, Spinco shall have discretion regarding decisions to be made, or
+the nature of any action to be taken, with respect to any matter described in
+the preceding sentence. In the case of a Federal Tax, the Covered Tax Items
+shall be treated as predominantly relating to the Health Group for purposes
+of this Agreement. Specified Deductions claimed in a Pre-Distribution Tax
+Period shall be treated as predominantly relating to the Health Group for
+purposes of this Agreement.
+
+      (b) To the extent that (i) two or more provisions of Section 8.01(a) would
+otherwise apply to a Tax matter in a conflicting manner, or the control of a Tax
+matter that is material to the tax liability of the Aetna Consolidated Group for
+a Pre-Distribution Tax Period is not addressed by Section 8.01(a), and (ii) the
+control of such Tax matter is not addressed by any other provision of this
+Agreement, Aetna and Spinco shall Jointly Decide the handling of the Tax matter
+in connection with any Taxing Authority Proceeding or Contract-Based Tax
+Proceeding. Notwithstanding anything in Section 8.01(a) to the contrary, Aetna
+and Spinco shall Jointly Decide, among other things, whether any extensions or
+waivers of material statutes of limitation with respect to a Pre-Distribution
+Tax Period shall be executed by the Aetna Consolidated Group.
+
+      (c) Without limiting the generality of the third and fourth sentences of
+Section 8.01(a), control by Spinco of a Tax matter shall confer upon Spinco (i)
+the right and obligation to respond to any information document requests from a
+Taxing Authority relating to such Tax matter, (ii) the right to arrange for
+Aetna to execute a power of attorney, or other similar document, entitling
+Spinco to have direct discussions with a Taxing Authority on such Tax matter to
+the extent required for Spinco to fully enforce its rights under this Agreement,
+(iii) the right, but not the obligation, to participate (including without
+limitation through the retention, at its own expense, of counsel of its own
+choosing) in any Taxing Authority Proceeding or Contract-Based Tax Proceeding
+regarding such Tax matter (including without limitation in any discussions with
+a Taxing Authority regarding compromise or settlement of such Tax matter), (iv)
+the right, but not the obligation, upon notice to Aetna, to assume the defense
+of the portion of the Taxing Authority Proceeding or Contract-Based Tax
+Proceeding that relates to such Tax matter, and (v) except to the extent
+otherwise provided in Section 8.03,
+
+
+<PAGE>
+
+the right to agree to or decline the settlement of such Tax matter. If Spinco
+assumes the defense of any Taxing Authority Proceeding or Contract-Based Tax
+Proceeding, Aetna shall have the right, but not the obligation, to participate
+(including without limitation through the retention, at its own expense, of
+counsel of its own choosing) in such Tax Proceeding.
+
+      (d) Except as otherwise provided in this Article 8, Aetna shall bear all
+fees, costs and expenses in connection with the portions of a Taxing Authority
+Proceeding or Contract-Based Tax Proceeding that are attributable to Tax matters
+controlled by Aetna. Except as otherwise provided in this Article 8, Spinco
+shall bear all fees, costs and expenses in connection with the portions of a
+Taxing Authority Proceeding or Contract-Based Tax Proceeding that are
+attributable to Tax matters controlled by Spinco. Aetna and Spinco shall each
+bear 50% of all fees, costs and expenses in connection with the portions of a
+Taxing Authority Proceeding or Contract-Based Tax Proceeding that are
+attributable to Tax matters Jointly Decided by Aetna and Spinco. Notwithstanding
+any other provision in this Section 8.01(d), in the event that Aetna or Spinco,
+whichever party (if either) under this Section 8.01 has control over a Federal
+Tax matter, notifies the other party that it is interested in litigating a
+Taxing Authority Proceeding with respect to such Tax matter in the Court of
+Federal Claims or a district court, such controlling party shall satisfy the
+requirement that Tax be paid to the Internal Revenue Service before such
+controlling party pursues such Taxing Authority Proceeding in the Court of
+Federal Claims or such district court.
+
+      Section 8.02. NOTIFICATION OF CLAIMS. The Indemnitee agrees to give
+prompt notice to the Indemnitor of the assertion of any claim, or the
+commencement of any suit, action or proceeding in respect of which indemnity
+may be sought under Section 5.01 or 5.02.
+
+      Section 8.03. SETTLEMENT OF TAX PROCEEDINGS. (a) Notwithstanding
+anything in this Agreement to the contrary, no settlement of any Taxing
+Authority Proceeding or any Contract-Based Tax Proceeding, in each case
+relating to any matter that would cause a payment obligation under
+Section 5.01 or Section 5.02, whichever is applicable, shall be accepted or
+entered into by or on behalf of an Indemnitee entitled to indemnification
+under Section 5.01 or Section 5.02, unless the applicable Indemnitor consents
+thereto in writing (which consent shall not be unreasonably withheld). For
+purposes of the preceding sentence, any withholding by an Indemnitor of
+consent shall be conclusively treated as being reasonable if the payment
+obligation under Section 5.01 or Section 5.02, as the case may be, that would
+result from the settlement for the acceptance of which consent is being
+sought exceeds US$2.5 million.
+
+      (b) The Indemnitor shall consult with the Indemnitee regarding the
+settlement of any material Taxing Authority Proceeding or Contract-Based Taxing
+Proceeding and shall consider the Indemnitee's views in good faith; PROVIDED
+that
+
+
+<PAGE>
+
+such consultation and consideration shall not affect the determination of
+whether the Indemnitor has acted reasonably. If consent is unreasonably withheld
+by an Indemnitor with respect to a payment obligation of US$2.5 million or less,
+all expenses that relate to the contest of such matter and that are incurred
+following such withholding of consent shall be borne by the Indemnitor.
+
+      (c) Subject to Section 8.03(a), if the Indemnitor does not respond to the
+Indemnitee's written request for consent within 10 calendar days of receipt of
+such request, the Indemnitor shall be deemed to have consented to the
+settlement.
+
+
+
+                                    ARTICLE 9
+                                    Payments
+
+      Section 9.01. PROCEDURE FOR MAKING PAYMENTS. All payments to be made
+pursuant to this Agreement shall be made in immediately available funds. Except
+as otherwise provided in this Agreement, all payments required to be made
+pursuant to this Agreement shall be due three calendar days after the receipt of
+notice of such payment or, where no notice is required, five calendar days after
+(i) the fixing of liability, (ii) the Effective Realization of a tax saving or
+tax benefit, (iii) the receipt of a refund, or (iv) the resolution of a dispute,
+as the case may be. Payments shall be deemed made when received. Except as
+otherwise provided in this Agreement, any payment that is not made when due
+shall bear interest at the Intercompany Interest Rate for each day until paid.
+
+
+
+                                   ARTICLE 10
+                                 Miscellaneous
+
+      Section 10.01. AUTHORIZATION. Each of the parties to this Agreement
+hereby represents and warrants that (i) it has the power and authority to
+execute, deliver and perform this Agreement, (ii) this Agreement has been duly
+authorized by all necessary corporate action on the part of such party, (iii)
+this Agreement constitutes a legal, valid and binding obligation of such party,
+and (iv) the execution, delivery and performance of this Agreement by such party
+does not contravene or conflict with any provision or law or of its charter or
+bylaws or any agreement, instrument or order binding on such party.
+
+   Section 10.02. NOTICES. All notices, requests, demands, claims and other
+communications to any party hereunder shall be in writing (including facsimile
+or similar writing) and shall be deemed given when received addressed as
+follows:
+
+         If to Aetna, to:
+
+
+<PAGE>
+
+                  Lion Connecticut Holdings Inc.
+                  151 Farmington Avenue
+                  Hartford, Connecticut  06156-2000
+                  Attention:  Kathleen Murphy
+                              General Counsel
+                              Fax: 860-273-9652
+
+                              Joseph Elmy
+                              Vice President
+                              Fax: 860-273-4420
+
+         With copies to:
+
+                  ING America Insurance Holdings, Inc.
+                  in c/o ING North America Insurance Corp.
+                  5780 Powers Ferry Road, NW
+                  Atlanta, Georgia 30327-4390
+                  Attention:  Michael W. Cunningham
+                              Executive Vice President &
+                              Chief Financial Officer
+                              Fax: 770-980-3303
+
+                              B. Scott Burton
+                              Senior Vice President &
+                              Chief Counsel
+                              Fax: 770-850-7660
+
+                              Boyd G. Combs
+                              Senior Vice President
+                              Fax: 770-980-3303
+
+                  and
+
+                  Sullivan & Cromwell
+                  125 Broad Street
+                  New York, New York 10004
+                  Attention:  Joseph B. Frumkin, Esq.
+                              William D. Torchiana, Esq.
+                              Fax: 212-558-3588
+
+
+         If to Spinco, to:
+
+
+<PAGE>
+
+                  Aetna Inc.
+                  151 Farmington Avenue
+                  Hartford, Connecticut  06156-7505
+                  Attention:  L. Edward Shaw, Jr.
+                              General Counsel
+                              Fax: 860-273-1732
+
+                              William J. Casazza
+                              Corporate Secretary
+                              Fax: 860-273-8340
+
+                              Blake W. Martin
+                              Vice President, Tax
+                              Fax: 860-952-3205
+
+         With a copy to:
+
+                  Davis Polk & Wardwell
+                  450 Lexington Avenue
+                  New York, New York  10017
+                  Attention:  Lewis B. Kaden, Esq.
+                              David L. Caplan, Esq.
+                              Fax: 212-450-4800
+
+          If to Parent, to:
+
+                  ING America Insurance Holdings, Inc.
+                  in c/o ING North America Insurance Corp.
+                  5780 Powers Ferry Road, NW
+                  Atlanta, Georgia 30327-4390
+                  Attention:  Michael W. Cunningham
+                              Executive Vice President &
+                              Chief Financial Officer
+                              Fax: 770-980-3303
+
+                              B. Scott Burton
+                              Senior Vice President &
+                              Chief Counsel
+                              Fax: 770-850-7660
+
+                              Boyd G. Combs
+                              Senior Vice President
+                              Fax: 770-980-3303
+
+
+<PAGE>
+
+         With copies to:
+
+                  Strawinskylaan 2631, 1077 ZZ Amsterdam
+                  P.O. Box 810
+                  1000 Av. Amsterdam, the Netherlands
+                  Attention:  Fred Hubbell
+                              Executive Board Member
+                              Fax: +31-20-541-5402
+
+                              Diederik van Wassenaer
+                              General Counsel
+                              Fax: +31-20-541-8723
+
+                  and
+
+                  Sullivan & Cromwell
+                  125 Broad Street
+                  New York, New York 10004
+                  Attention:  Joseph B. Frumkin, Esq.
+                              William D. Torchiana, Esq.
+                              Fax: 212-558-3588
+
+
+      Any party may, by written notice so delivered to the other parties, change
+the address to which delivery of any notice shall thereafter be made.
+
+      Section 10.03. AMENDMENTS; NO WAIVERS. (a) Any provision of this
+Agreement may be amended or waived if, but only if, such amendment or waiver
+is (i) in writing, and (ii) signed, in the case of an amendment, by each
+party to this Agreement or, in the case of a waiver, by each party against
+whom the waiver is to be effective. Parent, Aetna and the other Parent
+Affiliates shall have the right, in connection with any of the matters
+covered by this Agreement or other Tax matters, to make additional
+arrangements among themselves without the approval of Spinco, so long as the
+rights of the Spinco Affiliates under this Agreement are not adversely
+affected by such additional arrangements. Spinco and the other Spinco
+Affiliates shall have the right, in connection with any of the matters
+covered by this Agreement or other Tax matters, to make additional
+arrangements among themselves without the approval of Parent or Aetna, so
+long as the rights of Parent and the Parent Affiliates under this Agreement
+are not adversely affected by such additional arrangements.
+
+      (b) No failure or delay by any party in exercising any right, power or
+privilege hereunder shall operate as a waiver thereof, nor shall any single or
+partial exercise thereof preclude any other or further exercise thereof or the
+exercise of any other right, power or privilege. The rights and remedies herein
+
+
+<PAGE>
+
+provided shall be cumulative and not exclusive of any rights or remedies
+provided by law.
+
+      Section 10.04. EXPENSES. Except as specifically otherwise provided in
+this Agreement or any other Distribution Document, all fees, costs and expenses
+incurred in connection with this Agreement shall be paid by the party incurring
+such fees, costs or expenses. Without limiting the generality of the preceding
+sentence, no Spinco Affiliate shall be obligated to make any payment to Aetna
+for preparing Returns of the Aetna Consolidated Group or for acting, in
+accordance with Section 2.02 of this Agreement, as agent, coordinator and
+administrator of the members of the Health Group.
+
+    Section 10.05. SUCCESSORS AND ASSIGNS; NO THIRD PARTY BENEFICIARIES. The
+provisions of this Agreement shall be binding upon and inure only to the benefit
+of the parties hereto, the Parent Affiliates and the Spinco Affiliates (and
+their respective successors and assigns, whether by merger, acquisition of
+assets or otherwise, and including without limitation any successor succeeding
+to the tax attributes of such corporation under applicable law); PROVIDED that,
+except as set forth in this Agreement, no party may assign, delegate or
+otherwise transfer any of its rights or obligations under this Agreement without
+the prior written consent of each of the other parties hereto. This Agreement is
+not intended to benefit any person other than (i) the parties hereto and their
+respective successors and assigns and (ii) the other Parent Affiliates and the
+other Spinco Affiliates and their respective successors and assigns; and no such
+other person shall be a third party beneficiary of this Agreement.
+
+      Section 10.06. GOVERNING LAW. This Agreement shall be construed in
+accordance with and governed by the law of the State of Delaware, without regard
+to the conflicts of law rules thereof.
+
+      Section 10.07. COUNTERPARTS; EFFECTIVENESS. This Agreement may be signed
+in any number of counterparts, each of which shall be an original, with the same
+effect as if the signatures thereto and hereto were upon the same instrument.
+This Agreement shall become effective upon the consummation of the Distribution;
+PROVIDED that each party hereto shall have received, prior to such consummation,
+from each of the other parties hereto a counterpart hereof signed by such other
+party.
+
+      Section 10.08. ENTIRE AGREEMENT. This Agreement, the Merger Agreement,
+the Confidentiality Agreement and the other Distribution Documents constitute
+the entire understanding of the parties with respect to the subject matter
+hereof and thereof and supersede all prior agreements, understandings and
+negotiations, both written and oral, between the parties with respect to the
+subject matter hereof and thereof. No representation, inducement, promise,
+understanding, condition or warranty not set forth herein or in the other
+
+
+<PAGE>
+
+Distribution Documents has been made or relied upon by any party hereto. To the
+extent that the provisions of this Agreement are inconsistent with the
+provisions relating to Taxes of any other Distribution Document, the provisions
+of this Agreement shall prevail.
+
+      Section 10.09. DISPUTE RESOLUTION. If the parties hereto are unable to
+resolve any disagreement or dispute relating to this Agreement within 10
+calendar days after senior Tax officials of the parties have conferred,
+consulted and in good faith attempted to resolve such disagreement or dispute
+(which conference, consultation or attempt shall not be withheld), such
+disagreement or dispute shall be resolved by an accounting firm or law firm,
+in each case which firm is nationally recognized as expert in tax matters and
+is mutually acceptable to the parties hereto (a "REFEREE"). A Referee so
+chosen shall resolve any such disagreement pursuant to such procedures as it
+may deem advisable. Any such resolution shall be binding on the parties to
+this Agreement without further recourse. In resolving a disagreement or
+dispute, the Referee shall take into account the provisions (including
+without limitation Section 8.01 and Section 8.03) and principles of this
+Agreement. The costs of any Referee shall be allocated between Aetna and
+Spinco as determined by such Referee in a manner that such Referee deems
+reasonable (taking into account, among other things, the circumstances of the
+dispute, the conduct of the parties and the results of the dispute).
+
+      Section 10.10. JURISDICTION. Any Spinco-Aetna Tax Proceeding may be
+brought in the United States District Court for the District of Delaware, and
+each of the parties hereby consents to the jurisdiction of such courts (and of
+the appropriate appellate courts therefrom) in any Spinco-Aetna Tax Proceeding
+and irrevocably waives, to the fullest extent permitted by law, any objection it
+may now or hereafter have (i) to the laying of the venue of any Spinco-Aetna Tax
+Proceeding in any such court, or (ii) that any Spinco-Aetna Tax Proceeding which
+is brought in any such court has been brought in an inconvenient forum. Process
+in any Spinco-Aetna Tax Proceeding may be served on any party anywhere in the
+world, whether within or without the jurisdiction of any such court. Without
+limiting the foregoing, each party agrees that service of process on such party
+as provided in Section 10.01 shall be deemed effective service of process on
+such party in connection with any Spinco-Aetna Tax Proceeding.
+
+      Section 10.11. FURTHER ASSURANCES. Aetna, Parent and Spinco shall
+execute, acknowledge and deliver (or cause to be executed, acknowledged and
+delivered) such documents, and take such other action, as may be necessary or
+advisable to carry out their obligations under this Agreement and under any
+document delivered pursuant hereto.
+
+      Section 10.12. SEVERABILITY. If any one or more provisions of this
+Agreement (or the application of any such provisions to any party or any
+
+
+<PAGE>
+
+circumstances) should be held to be invalid, illegal or unenforceable in any
+respect, the validity, legality and enforceability of the remaining provisions
+contained in this Agreement (and/or the application of the invalid, illegal or
+unenforceable provisions other than to such party or such circumstances) shall
+not in any way be affected or impaired thereby. The parties shall endeavor in
+good faith negotiations to replace the invalid, illegal or unenforceable
+provisions so that the replacement provisions shall be valid, legal and
+enforceable and shall have an economic effect which comes as close as possible
+to that of the invalid, illegal or unenforceable provisions.
+
+      Section 10.13. SURVIVAL. All rights and obligations arising hereunder
+(including without limitation the representations and covenants set forth in
+Article 4) shall survive until they are fully effectuated or performed.
+Notwithstanding anything in this Agreement to the contrary, this Agreement shall
+remain in effect and its provisions shall survive for the full period of all
+applicable statutes of limitation (giving effect to any extension or waiver
+thereof).
+
+      Section 10.14. CAPTIONS. The captions herein are included for convenience
+of reference only and shall be ignored in the construction or interpretation
+hereof.
+
+      Section 10.15. SPECIFIC PERFORMANCE. Each party to this Agreement
+acknowledges and agrees that damages for a breach or threatened breach of any of
+the provisions of this Agreement would be inadequate and irreparable harm would
+occur. In recognition of this fact, each party agrees that, if there is a breach
+or threatened breach, in addition to any damages, any of the nonbreaching
+parties to this Agreement, without posting any bond, shall be entitled to seek
+and obtain equitable relief in the form of specific performance, temporary
+restraining order, temporary or permanent injunction, attachment, or any other
+equitable remedy which may then be available to obligate the breaching party (i)
+to perform its obligations under this Agreement, or (ii) if the breaching party
+is unable, for whatever reason, to perform its obligations, to take any other
+actions as are necessary, advisable or appropriate to give the other parties to
+this Agreement the economic effect which comes as close as possible to the
+performance of such obligations.
+
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Tax Sharing
+Agreement to be duly executed by their respective authorized officers as of the
+date first above written.
+
+
+
+
+                                 AETNA INC.
+
+
+
+                                 By: /s/ Alfred P. Quirk, Jr.
+                                    --------------------------------
+                                     Name: Alfred P. Quirk, Jr.
+                                     Title: Vice President, Finance & Treasurer
+
+
+
+
+                                 AETNA U.S. HEALTHCARE INC.
+
+
+
+                                 By: /s/ Alfred P. Quirk, Jr.
+                                    --------------------------------
+                                     Name: Alfred P. Quirk, Jr.
+                                     Title: Vice President, Finance & Treasurer
+
+
+
+
+                                 ING AMERICA INSURANCE HOLDINGS, INC.
+
+
+                                 By: /s/ B. Scott Burton
+                                    --------------------------------
+                                    Name: B. Scott Burton
+                                    Title: Assistant Secretary
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2737 @@
+<DOCUMENT>
+<TYPE>EX-10.21
+<SEQUENCE>2
+<FILENAME>v74212a2ex10-21.txt
+<DESCRIPTION>EXHIBIT 10.21
+<TEXT>
+
+<PAGE>   1
+
+                                                                  EXHIBIT 10.21
+
+
+                            MASTER SERVICES AGREEMENT
+                                     between
+                             GENERAL ELECTRIC- ARTS
+
+
+        This Master Services Agreement (the "Agreement") is between ARTS
+        Corporation with its principal place of business at 2229 112th Avenue
+        NE, Bellevue, WA 98004 ("ARIS") and General Electric Company with its
+        principal place of business at 3135 Easton Turnpike, Fairfield,
+        Connecticut 06431 ("GE" as further defined herein). The provisions of
+        this Agreement shall apply to Services provided to GE, globally, under
+        this Agreement. When completed and executed by both parties, a Statement
+        of Work ("SOW") shall evidence the Services to be provided and GE's
+        payment obligation for same.
+
+1)      DEFINITIONS
+
+        a)      "Deliverables" shall mean the software, documentation, reports,
+                programs, work product or other deliverable items specifically
+                identified in a SOW and delivered to GE.
+
+        b)      "GE" shall mean all General Electric subsidiaries, affiliates,
+                and joint-venture partners worldwide under the common control of
+                GE where GE has at least a 30% equity interest, provided,
+                however, that the term "GE" shall not include any entity that GE
+                invests in if GE does not exercise management and control over
+                the operations of such entity.
+
+        c)      "GE Business" shall mean an individual operating business or
+                division of GE, which operating divisions at the time of this
+                Agreement include, but are not limited to: Aircraft Engines,
+                Appliances, Aviation Services, Capital Services, Capital
+                Corporate, Commercial Equipment Financing, Commercial Finance,
+                Employers Reinsurance Corporation (ERC), Financial Assurance, GE
+                Equity, GE Information Services "GEIS", GE GlobaleXchange
+                Services "GeX", Global Consumer Finance, Industrial Systems,
+                Lighting, Medical Systems, Mortgage Insurance Corporation, NBC,
+                Plastics, Power Systems, Real Estate, Structured Finance Group,
+                Supply, Transportation Systems, Vendor Financial Services and GE
+                Corporate (which includes GE Corporate Research & Development,
+                and all other Corporate and support components which components
+                provide, among other things, international trade support, market
+                development, licensing and investments for various GE
+                businesses).
+
+        d)      "Services" shall mean work performed including the Deliverables
+                by ARIS for GE agreed to by the parties pursuant to an SOW under
+                this Agreement.
+
+        e)      "Statement of Work (SOW)" shall mean any mutually agreed upon
+                form, an example of which is attached herewith as Exhibit B,
+                specifying particular Services, applicable fees (including
+                whether such fees shall be on a time & materials ("T&M"), time &
+                materials not-to-exceed ("T&M NTE") or on a fixed price ("FP")
+                basis), scope of work, project milestones and dates, specific
+                project performance and acceptance criteria, as well as any
+                other project-specific requirements. Each SOW shall be governed
+                by the terms of this Agreement and shall reference the Effective
+                Date specified below.
+
+        f)      "Third Party Content" shall mean any commercial off-the-shelf
+                software, and other intellectual property content owned by third
+                parties whether or not such property is fixed in a tangible
+                medium including, but not limited to content elements such as
+                text,
+
+
+
+<PAGE>   2
+
+                databases, musical works, sound recordings, images, audiovisual
+                works, noncommercial software, other digital media audio,
+                visual, graphical or other content elements, and content
+                authoring platforms for such elements, either: 1) specifically
+                identified in an SOW; or 2) utilized in the course of
+                performance of Services under an SOW by ARTS, and owned by a
+                company or individual other than ARIS or GE.
+
+2)      SCOPE OF THE AGREEMENT
+
+        This Agreement governs the provisions of Services by ARTS to GE and
+        shall apply to GE wherever situated. This Agreement may be used by GE
+        and its officers and employees engaged in work on behalf of GE, whether
+        on or off GE premises, worldwide.
+
+3)      RESOURCE AND RESOURCE CHANGES
+
+        a)      GE, prior to the commencement of any SOW, may request from ARIS
+                resumes and/or skill sets or other relevant information (via
+                telephone interview, teleconferences, etc.).
+
+        b)      GE, in its reasonable discretion, may request that ARTS remove a
+                particular consultant who is providing Services under this
+                Agreement if GE reasonably believes that such consultant is not
+                providing Services as warranted and ARTS, after notice, has been
+                unable to quickly resolve performance issues relative to such
+                consultant. ARTS shall pay the costs of familiarizing the
+                replacement consultant with the project and take such other
+                appropriate steps to ensure that GE does not incur additional
+                project costs or missed project deadlines in accordance with an
+                SOW. GE may request to interview and approve any replacement
+                consultant prior to such consultant's commencement of Services
+                for GE. GE's approval shall not be unreasonably withheld.
+
+        c)      GE may at any time, in writing, make reasonable changes in the
+                scope of work described in a SOW. If any such changes cause an
+                increase or decrease in the cost of, or the time required for
+                the performance of any work under a SOW, an equitable adjustment
+                shall be made in ARISs fee or the delivery schedule, or both.
+                Any claim by ARTS for such an adjustment must be asserted within
+                thirty (30) days from the date of receipt by ARTS of the
+                notification of change, and must be approved by GE in a duly
+                executed written amendment ("CHANGE ORDER").
+
+4)      INFRINGEMENT
+
+        Each PARTY ("PROVIDER") will defend and indemnify the other party
+        ("RECIPIENT") against a claim that any information, design,
+        specification, instruction, software, data, or material furnished by the
+        Provider including but not limited to Deliverables, ARIS Property, GE
+        Property as defined herein ("Material") and used by the Recipient in
+        connection with either the provision or the receipt of the Services
+        infringes a copyright or patent provided that: (a) the Recipient
+        notifies the Provider in writing within thirty (30) days of the claim;
+        (b) the Provider has sole control of the defense and all related
+        settlement negotiations; and (c) the Recipient provides the Provider
+        with the assistance, information, and authority reasonably necessary to
+        perform the above; reasonable out-of-pocket expenses incurred by the
+        Recipient in providing such assistance will be reimbursed by the
+        Provider.
+
+        The Provider shall have no liability for any claim of infringement
+        resulting from:
+
+
+
+                                        2
+<PAGE>   3
+
+        (a)     the Recipient's use of a superseded or altered release of some
+                or all of the Material if infringement would have been avoided
+                by the use of a subsequent unaltered release of the Material
+                which is provided to the Recipient and for which the Recipient
+                was provided notice in accordance with Section 21.; or
+
+        (b)     any information, design, specification, instruction, software,
+                data, or material not furnished by the Provider.
+
+In the event that some or all of the Material is held or is believed by the
+Provider to infringe, the Provider shall have the option, at its expense, (a) to
+modify the Material to be noninfringing; (b) to obtain for the Recipient a
+license to continue using the Material; or (c) to require return of the
+infringing Material and all rights thereto from the Recipient. If ARTS is the
+Provider and such return materially affects ARIS's ability to meet its
+obligations under this Agreement and applicable SOW, then GE may, at its option
+and upon thirty days' prior written notice to ARTS, terminate the applicable SOW
+and shall be entitled to recover the fees paid by GE for that portion of the
+Material and for those Services provided to develop the Material which GE cannot
+reasonably use as a consequence of ARIS's provision of infringing Material and
+any costs incurred as a result of seeking an alternative service provider. If GE
+is the Provider and such return materially affects ARIS's ability to meet its
+obligations under this Agreement and applicable SOW, then ARTS may, at its
+option and upon thirty (30) days' prior written notice to GE, terminate the
+applicable SOW and GE shall pay ARTS for the Services rendered through the date
+of termination on a T&M or percent of completion basis as applicable under the
+SOW.
+
+5)      WARRANTIES
+
+        a)      ARTS represents and warrants that it is the sole owner of, or
+                has obtained appropriate license, use and/or transfer rights
+                from the rightful owner of all elements including Third Party
+                Content incorporated into all Services and Deliverables prepared
+                by ARIS for GE pursuant to this Agreement and any SOW and/or
+                Change Order.
+
+        b)      b.) ARIS further represents and warrants that such rights have
+                been obtained (or will be obtained, as appropriate) for all
+                elements incorporated into all Services and Deliverables under
+                all applicable laws for such enforceable legal and intellectual
+                property rights including, but not limited to copyrights, patent
+                rights, trademark rights, trade secret rights, privacy rights
+                and publicity rights-whether such elements are text, databases,
+                musical works, sound recordings, images, audiovisual works,
+                software or other digital audio, visual, graphical or other
+                content elements. In each case SUCH RIGHTS TO ALL ELEMENTS AND
+                THIRD PARTY CONTENT WILL BE OBTAINED BY ARTS FOR GE FOR THE
+                KNOWN, ANTICIPATED, AND REASONABLY FORESEEABLE USE BY GE
+                CONTEMPLATED BY ANY SOW AND/OR CHANGE ORDER PURSUANT TO THIS
+                AGREEMENT. ARTS, and not GE, shall be responsible for any costs,
+                license fees, royalties, or other charges ("Hidden Fees") not
+                identified to GE and accepted by GE in writing during the course
+                of performance of Services pursuant to this Agreement and any
+                SOW and/or Change Order, even if GE discovered or should have
+                discovered such Hidden Fees before, during or after performance
+                of such Services.
+
+        c)      ARTS warrants that its Services hereunder will be performed by
+                qualified individuals in a professional and workmanlike manner
+                conforming to the generally accepted industry
+
+
+
+                                        3
+<PAGE>   4
+
+                standards and practices, and that the Deliverables will
+                substantially conform to any specific specifications set forth
+                in the applicable SOW for those Deliverables.
+
+        d)      In order to make a valid breach of warranty claim under this
+                Section 5.0 and to receive warranty remedies, GE shall report a
+                deficiency in the Services and/or Deliverables to ARTS in
+                writing within ninety (90) days of performance of T&M Services
+                or, in the case of T&M NTE or FP Services, within ninety (90)
+                days of acceptance of the Deliverables. However, where GE could
+                not have known of such deficiency within the respective
+                aforementioned specified periods, ARTS, GE will have a ninety
+                (90) day warranty period from the date of actual knowledge of
+                the deficiency, provided that in no event shall a valid warranty
+                claim be made more than three hundred sixty (360)days from the
+                date of delivery or acceptance, as applicable, of the
+                Deliverables. For any breach of the above warranties, GE's
+                exclusive remedy, and ARIS's entire liability, shall be the
+                timely reperformance of the Services. If ARTS is unable to
+                re-perform the Services as warranted, GE shall be entitled to
+                recover the fees paid to ARTS under the applicable SOW for the
+                deficient Services.
+
+6)      YEAR 2000 COMPLIANCE WARRANTY
+
+        a.      In addition to any other warranties and representations provided
+                by Licensor to Licensee, whether pursuant to this Agreement, by
+                law, equity, or otherwise, Licensor represents and warrants that
+                (a) all Products and Services, without limitation, provided by
+                Licensor or their agents or assignees hereunder, shall be Year
+                2000 Compliant at the time of delivery and at all times
+                thereafter and in all subsequent updates or revisions of any
+                kind, and (b) Licensor's supply of the Products and Services to
+                Licensee shall not be interrupted, delayed, decreased, or
+                otherwise affected by dates prior to, on, after or spanning
+                January 1, 2000.
+
+        b.      For purposes of this Agreement, "Year 2000 Compliant" means that
+                (i) the Products/Services accurately process, calculate, provide
+                and/or receive date data (including without limitation
+                calculating, comparing, and sequencing), within, from, into, and
+                between centuries (including without limitation the twentieth
+                and twenty-first centuries), including leap year calculations;
+                (ii) neither the performance, functionality nor the supply to
+                Licensee of the Products and Services will be affected by dates
+                prior to, on, after, or spanning January 1, 2000; (iii) date
+                data of any kind will not cause any error, interruption, or
+                decreased performance in the operation of such Product and
+                Service; and (iv) where any date element is represented without
+                a century, the correct century will be determined in an
+                unambiguous manner for all manipulations involving that element.
+
+
+
+                                        4
+<PAGE>   5
+
+        c.      If at any time the Products or Services are found, by Licensee
+                or any other of Licensor's customers, not to be Year 2000
+                Compliant, then, in addition to any other obligation of Licensor
+                under the law, pursuant to this Agreement, at equity, or
+                otherwise, at no additional charge to Licensee, Licensor shall,
+                by no later than thirty (30) days after receipt of a repeatable
+                and verifiable report of noncompliance repair or replace the
+                non-conforming Product or Service.
+
+        d.      Any statute of limitations that might be applicable to
+                Licensor's Year 2000 Compliant warranty and representation shall
+                not accrue or begin to run until the later of January 1, 2000 or
+                the time when such statute of limitations would otherwise accrue
+                or begin to run, and, with respect to any claim based on any
+                failure of the Software/Support to be Year 2000 Compliant,
+                Licensor shall not assert any defense based on or alleging the
+                passage of time from the Effective Date of this Agreement to
+                January 1, 2000.
+
+        e.      Licensor is not responsible for, and accepts no liability for,
+                Year 2000-related interruptions caused by GE or Third Party
+                Content, hardware, databases, data or back-end systems
+                integrated with or that are used in connection with the Software
+                that are not Year 2000 compliant.
+
+7)      LIMITATION OF LIABILITY
+
+        IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY
+        INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR
+        LOSS OF PROFITS, REVENUE, DATA, OR USE, INCURRED BY EITHER PARTY OR ANY
+        THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF THE OTHER
+        PARTY OR ANY OTHER PERSON HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+        DAMAGES. ARIS'S AND GE'S LIABILITY FOR DAMAGES HEREUNDER SHALL NOT
+        EXCEED THE AMOUNT OF FEES PAID AND PAYABLE BY GE UNDER AN APPLICABLE SOW
+        FOR THE RELEVANT SERVICES.
+
+        IN NO EVENT SHALL THE FOREGOING LIMITATION LIMIT EITHER PARTY'S
+        LIABILITY TO THE OTHER PARTY FOR DIRECT DAMAGES RESULTING FROM THE
+        FOLLOWING: (I) ANY VIOLATION BY ONE PARTY OF THE OTHER PARTY'S
+        INTELLECTUAL PROPERTY RIGHTS, OR (II) EITHER PARTY'S DISCLOSURE OF THE
+        OTHER PARTY'S CONFIDENTIAL INFORMATION, OR (III) BREACH OF THE YEAR 2000
+        COMPLIANCE WARRANTY, OR (IV) PERSONAL INJURY, OR (V) TANGIBLE PROPERTY
+        DAMAGE, OR (VI) PROVIDER'S INDEMNITY OBLIGATION UNDER INFRINGEMENT.
+
+8)      INSURANCE
+
+        During the performance of Services under this Agreement, ARTS shall
+        provide and maintain minimum insurance coverage as follows, and upon
+        GE's request shall provide GE with a certificate of insurance completed
+        by its insurance carrier certifying that minimum insurance coverages as
+        required below are in effect:
+
+        (a)     Worker's Compensation and employees liability, per statutory
+                requirements;
+
+
+
+                                        5
+<PAGE>   6
+
+        (b)     Comprehensive General Liability insurance including contractual
+                liability coverage with the following limits in equivalent units
+                of the local currency:
+
+
+<TABLE>
+<S>                                      <C>                       <C>
+            Bodily Injury:               Each Person               $3,000,000 USD
+
+                                         Each Occurrence           $4,000,000 USD
+
+            Property Damage:             Each Accident             $3,000,000 USD
+
+            Aggregate                                              $4,000,000 USD
+</TABLE>
+
+
+        Such minimum insurance levels are not intended to limit, or imply any
+        limitation of liability of ARTS to the coverage levels identified above
+        and ARTS expressly acknowledges and agrees that it will apply the
+        protection of a general program of selfinsurance or risk assumption
+        beyond the minimum levels set forth above.
+
+9)      TERM AND TERMINATION
+
+        This Agreement shall commence on its Effective Date and shall remain in
+        effect for a period of two years.
+
+        GE may terminate this Agreement if ARIS is in material breach of this
+        Agreement after having failed to perform ("Failure to Perform" shall
+        mean on one or more occasions) to materially perform the Services
+        defined in one or more SOWs in a manner required by this Agreement or a
+        SOW; provided that GE has given ARIS written notice upon the occurrence
+        of any such failure, which notice shall specify each such failure, and
+        provided further that ARTS has not cured any such failure within thirty
+        (30) days of each notice. GE may also terminate this Agreement if ARTS
+        is in material breach for any other reason and has not cured the breach
+        within thirty (30) days' written notice specifying the breach.
+
+        Either party may terminate a specific SOW as to a particular major
+        Business Unit if the other party is in material breach of the SOW and
+        has not cured the breach within thirty (30) days' written notice
+        specifying the breach. Except for any material breach by ARIS for
+        Failure to Perform, consent to extend the cure period shall not be
+        unreasonably withheld by either party, so long as the breaching party
+        has commenced cure during the thirty-day notice period and pursues cure
+        of the breach in good faith.
+
+        Termination of this Agreement shall not limit either party from pursuing
+        any other remedies available to it, including injunctive relief, nor
+        shall termination relieve GE of its obligation to pay all charges that
+        have accrued prior to such termination. Any provisions which by their
+        terms contemplate survival will survive any termination of this
+        Agreement. After termination and upon request by one PARTY, THE OTHER
+        PARTY shall RETURN TO THE REQUESTING PARTY ALL ARTS OR GE PROPERTY (AS
+        THE case may be), Confidential Information, Materials and all other
+        data, records, or other materials of the requesting party.
+
+10)     RIGHTS TO DELIVERABLES
+
+
+
+                                        6
+<PAGE>   7
+
+        a)      GE PROPERTY. GE may provide to ARTS for incorporation into or
+                use with the Deliverables, GE Property owned or licensed by GE.
+                "GE Property" shall mean all GE intellectual property prepared
+                by GE, or for GE by a third party and which is identified in the
+                applicable SOW and provided to ARIS by GE for use hereunder. GE
+                retains all ownership rights in and to GE Property at all times.
+
+        b)      ARTS PROPERTY. ARTS may incorporate into Deliverables, and/or
+                provide to GE for use with Deliverables, ARTS Property owned or
+                licensed by ARTS. "ARTS Property" shall mean all preexisting
+                ARTS intellectual property which is provided to GE by ARIS for
+                use in or with Deliverables hereunder. ARTS hereby grants to GE
+                a nonexclusive, worldwide, royalty-free right and license to
+                use, execute, reproduce, display, perform, modify and create
+                derivative works thereof, solely and exclusively for GE internal
+                use with and as part of Deliverables. ARIS retains all ownership
+                rights in and to ARTS Property at all times; provided, however,
+                that such grant shall only be effective to the extent GE has
+                paid in full all outstanding invoices related to the ARTS
+                Property in question; provided, further, that nothing in this
+                paragraph shall interfere with the ability of ARTS to charge GE
+                its usual and customary fees for rights to use software sold by
+                ARTS Software (e.g., Noetix Views).
+
+        c)      NEWLY-DEVELOPED MATERIALS. Each party's rights in and to
+                material prepared by ARIS for GE during the term of and in the
+                performance of Services under SOW(s) issued hereunder shall be
+                as follows:
+
+                        TYPE I MATERIALS - TYPE I Materials developed, authored
+                        or prepared for GE, including but not limited to all
+                        documents, documentation, designs, computer programs,
+                        computer systems, data compilations, and other tangible
+                        materials by ARTS, shall be considered works made for
+                        hire, are the sole and exclusive property of GE, and
+                        shall include all newly developed materials including,
+                        but not limited to, the Deliverables (but excluding ARIS
+                        Property, Type II Materials, Inventions of ARTS, and
+                        Third Party Content as these terms are defined herein).
+
+                        In the event that the Deliverables, Type 1 Materials and
+                        any other newly developed materials do not fall within
+                        the specifically enumerated works that constitute works
+                        made for hire under the United States Copyright laws,
+                        ARTS hereby agrees to assign and, upon its authorship or
+                        creation, expressly assigns all copyrights, proprietary
+                        rights, trade secrets and other right, title and
+                        interest in and to such Deliverables, Type 1 Materials
+                        and other newly-developed materials to GE. ARIS agrees
+                        that such assignment shall be automatic under this
+                        Agreement.
+
+                        ARIS further agrees that in conjunction with such
+                        aforementioned assignment that it will on a timely basis
+                        sufficiently identify to GE the specific design,
+                        elements, distinguishing characteristics, structure,
+                        sequence, operation, method, and specifications of
+                        Deliverables, Type 1 Materials, and any other
+                        newly-developed material(s) and will render all required
+                        assistance to protect GE's aforementioned rights in such
+                        Deliverables, Type 1 Materials, and any other
+                        newly-developed materials.
+
+                        Classification of a Type I Material shall be mutually
+                        determined prior to the commencement of any Services by
+                        ARTS, and shall be specifically set forth in a
+
+
+
+                                        7
+<PAGE>   8
+
+                        SOW. Failure to designate a particular Deliverable as a
+                        Type I Material or a Type II Material in a SOW shall
+                        mean that the Deliverable is owned by GE, unless ARIS
+                        can demonstrate that it had separately, and not as a
+                        result of any GE disclosure to ARIS or SOW pursuant to
+                        this Agreement, specific plans to or had already
+                        commenced developing similar materials.
+
+                        In the event that ARIS can demonstrate that such
+                        independent specific plans, ARTS may decline to enter
+                        into any SOW for a Deliverable which GE desires to claim
+                        as a Type I Material. Upon creation of any such Type I
+                        Materials, ARIS automatically assigns and agrees to
+                        assign without further consideration, the copyright and
+                        all other rights, except rights to Inventions and/or
+                        patents as more specifically addressed in Section 10.d.
+                        below, in and to all such Type I Materials. Type I
+                        Materials shall be those GE-unique (i.e., specific items
+                        that express or embody GE Property or GE's proprietary
+                        processes, techniques and/or information). Upon written
+                        agreement by GE, at GE's sole and exclusive discretion,
+                        and for such consideration as GE and ARIS may agree to
+                        in writing, ARTS may request to acquire the nonexclusive
+                        right to use and distribute Type I Materials.
+                        Notwithstanding the foregoing, GE acknowledges that its
+                        ownership of Type I Materials will not preclude ARTS
+                        from utilizing in other projects any general ideas,
+                        concepts, techniques, or generic tools or software
+                        components learned by ARTS in connection with the
+                        performance of Services for GE, provided that the
+                        foregoing are not specific and unique to GE and provided
+                        further that ARIS promptly discloses to GE all methods,
+                        processes and know-how developed under an SOW which
+                        constitutes Type I Materials.
+
+                        TYPE II MATERIALS - Notwithstanding, ARIS retains title,
+                        including ownership of copyright, to materials: i)
+                        identified in an SOW as Type II Materials, and/or ii)
+                        any ARTS high-level macro language or CASE generated
+                        subroutines, scripts, objects (such as EJB components)
+                        or other tools, utilities or components which are not
+                        specific and unique to GE (excluding any GE Confidential
+                        Information). GE's license to Type II Materials is as
+                        set forth in Section 10 (b) above.
+
+        (d)     INVENTIONS. The term "INVENTION" shall mean any idea, concept,
+                know-how or technique that either party first conceives or
+                reduces to practice while in performance of Services during the
+                term of an SOW, whether or not eligible for patent protection.
+                Notwithstanding anything to the contrary herein, Inventions will
+                be treated as follows:
+
+                1) if made by GE personnel, it shall be GE's property.
+
+                2) if made by ARTS personnel, it shall be ARIS's property. ARTS
+                grants GE a nonexclusive, irrevocable, worldwide and paid up
+                license under such Invention, patent application and all patents
+                issued thereon in order for GE to utilize the Deliverable(s) as
+                set forth herein. GE shall have the right to grant licenses
+                within the scope of the foregoing license in order for third
+                parties to use the Deliverable, or assign its rights therein
+                without the consent of ARIS; and
+
+                3) if made by the personnel of both parties, it and all patent
+                applications filed therefor and all patents issuing thereon
+                shall be jointly owned by the parties without accounting. Each
+                party shall have the right to grant licenses to third parties or
+                assign its rights therein without the consent of the other.
+
+
+
+                                        8
+<PAGE>   9
+
+        Nothing contained in this Agreement shall be deemed to grant any license
+        under any patent or patent applications arising out of any other
+        inventions of either party.
+
+11)     NONDISCLOSURE
+
+        By virtue of this Agreement, the parties may have access to information
+        that is confidential to one another ("CONFIDENTIAL INFORMATION").
+        Confidential Information shall include but not be limited to GE
+        Property, ARIS Property, the Deliverables, and all information that
+        would reasonably be considered confidential, including but not limited
+        to GE's employees, organization, activities, policies, or software
+        developed for GE, or Third Party Content licensed by GE, GE product
+        proprietary information or technical data, and any written reports,
+        findings, conclusions, recommendations, or reporting data and analysis
+        prepared by ARTS and provided to GE under this Agreement.
+
+        Each party recognizes and acknowledges the confidential and proprietary
+        nature of any Confidential Information and acknowledges the irreparable
+        harm that could result to the other party if it is disclosed to a third
+        party, or used for unauthorized purposes, without other party's prior
+        written consent. Each party agrees to use any Confidential Information
+        only for the purposes of conducting business with the other party in a
+        manner contemplated by this Agreement, acknowledges the other party's
+        intent to make such disclosures only in conjunction with such services
+        objectives, and agrees that it will not provide the other party
+        Confidential Information except as required to perform any Services.
+
+        A party's Confidential Information shall not include information that
+        (a) is or becomes a part of the public domain through no act or omission
+        of the other party; or (b) was in the other party's lawful possession
+        prior to the disclosure and had not been obtained by the other party
+        either directly or indirectly from the disclosing party; or (c) is
+        lawfully disclosed to the other party by a third party without
+        restriction on disclosure; or (d) is independently developed by the
+        other party.
+
+        The parties agree, both while the Services are being performed under the
+        applicable SOW and for a period of three years after the earlier of
+        cessation of Services under or termination of the applicable SOW, to
+        hold each other's Confidential Information in confidence. The parties
+        agree not to make each other's Confidential Information available in any
+        form to any third party or to use each other's Confidential Information
+        for any purpose other than the implementation of this Agreement. Each
+        party agrees to use the same degree of care that it uses to protect its
+        own confidential information of a similar nature and value, but in no
+        event less than a reasonable standard of care, to ensure that
+        Confidential Information is not disclosed or distributed by its
+        employees or agents in violation of the provisions of this Agreement.
+        Each party represents that it has, with each of its employees who may
+        have access to any Confidential Information, an appropriate agreement
+        sufficient to enable it to comply with all of the terms of this Section
+        11.
+
+12)     FEES FOR SERVICES
+
+        Services will be provided either on a T&M basis at rates and applicable
+        discounts in accordance with Exhibit A during the term thereof, on a T&M
+        not-to-exceed basis (in which case, the aforementioned T&M rates shall
+        be utilized up to a project limit), or on a Fixed Price basis, at the
+        fixed price stated in the applicable SOW. All fixed price proposals
+        shall
+
+
+
+                                        9
+<PAGE>   10
+
+        incorporate rates and applicable discounts in accordance with Exhibit A
+        during the term thereof.
+
+        If a dollar limit is stated in the applicable SOW for T&M Services, the
+        limit shall be deemed a best estimate by ARTS using commercially
+        reasonable judgement, and for GE's budgeting and ARIS's resource
+        scheduling purposes. In the event that any T&M best estimate limit is
+        approached during the course of performance of an SOW and the Services
+        appear unlikely to be completed prior to reaching such limit, ARTS will
+        continue to provide the Services on a T&M basis, but only after a Change
+        Order or new SOW for continuation of the Services is signed by the
+        parties.
+
+13)     MINIMUM FIRST-YEAR SERVICE-LEVEL COMMITMENT
+
+        In consideration for the GE-specific discounted rates as specified in
+        Exhibit A of this Agreement, GE agrees to a minimum firstyear
+        service-level commitment of $6,000,000 in fees paid to Aris for
+        consulting services, calculated as commencing with all invoicing
+        pertaining to services on and after the first day of the month
+        coinciding with the Effective Date of the agreement, but in no event
+        commencing later than April 1, 2000.
+
+        Should GE terminate services of Aris within the first twelve months of
+        this agreement, except as stipulated in Section Nine (9) of this
+        agreement "TERM AND TERMINATION", and/or not provide demand for services
+        within the first twelve months that satisfies the $6,000,000 firstyear
+        minimum commitment, GE agrees to pay Aris the difference between the
+        total of amount paid for services and the $6,000,000 minimum; provided,
+        however, that if any such services are in process at the close of the
+        minimum first-year service-level commitment term, the first year term
+        for the purposes of determining the attainment of the minimum commitment
+        shall be automatically extended for an additional three (3) month
+        period, after which additional period the determination shall be made as
+        to whether the $6,000,000 firstyear minimum commitment has been
+        satisfied.
+
+14)     INVOICING AND PAYMENT
+
+        ARTS shall invoice GE monthly, unless otherwise expressly specified in
+        the applicable SOW. Charges shall be payable within forty five (45) days
+        of receipt of a correct invoice. Note: the signed statement of work
+        should be sufficient as a promise to pay.
+
+15)     INCIDENTAL EXPENSES
+
+        Upon prior written agreement of the parties, appropriate travel,
+        administrative, and out-of-pocket expenses incurred by ARTS in
+        connection with the Services performed shall be invoiced and reimbursed
+        by GE to ARTS. ARTS acknowledges that, when approved by GE, any such
+        incidental expenses incurred by ARIS for which ARIS will be reimbursed
+        by GE shall be in accordance with GE's general policies for such
+        expenses. A copy of such policies are attached herewith as Exhibit C.
+
+16)     LICENSE FEES FOR THIRD PARTY CONTENT
+
+        In each SOW, GE shall set forth all GE standard software and hardware
+        platforms that may be relevant to the preparation and/or deployment of
+        the Deliverable, including all Third Party
+
+
+
+                                       10
+<PAGE>   11
+
+        Content licenses relating thereto. ARTS shall work with GE to ensure
+        that, whenever possible, such standard software and platforms will be
+        utilized. Notwithstanding the foregoing, ARIS may also utilize other
+        Third Party Content in Deliverables provided that the following
+        requirements are met:
+
+        (a)     Third Party Content for which the anticipated initial license
+                fees will be ten thousand dollars ($10,000) or more in the
+                aggregate for a particular SOW:
+
+                -       GE, upon notification by ARTS, shall verify to the
+                        extent commercially practicable, that GE has an existing
+                        license to such Third Party Content, or that GE will
+                        acquire such license.
+
+                -       If GE does not already have an existing license to such
+                        Third Party Content, or does not intend to acquire such
+                        license itself, then ARTS shall acquire such license and
+                        the terms of the license and any maintenance, support,
+                        and/or royalty provisions thereto shall be first
+                        approved in writing by GE prior to any execution of the
+                        license by ARIS on GE's behalf. ARTS shall have no
+                        responsibility or liability for such fees; or,
+
+        (b)     THIRD PARTY CONTENT FOR WHICH THE LICENSE, MAINTENANCE, SUPPORT,
+                AND/OR royalty fees are less than ten thousand dollars ($10,000)
+                in the aggregate for a particular SOW:
+
+                -       GE shall be responsible for Third Party Content license,
+                        maintenance, support, and/or royalty fees which are less
+                        than ten thousand dollars ($10,000) in the aggregate
+                        only when ARTS has acquired such Third Party Content for
+                        specifically GE, or where ARIS will incur incremental
+                        cost (e.g. license fees, royalties, etc.) as a result of
+                        utilizing such Third Party Content under an SOW.
+
+17)     TAXES
+
+        The charges do not include taxes. If ARTS is required to pay any
+        federal, state, country or local taxes based on the Services provided
+        under this Agreement, the taxes shall be billed to and paid by GE; this
+        shall not apply to taxes based on ARIS's income.
+
+18)     COMPLIANCE WITH GE's POLICIES
+
+        a)      Safety Policies. ARIS agrees to use reasonable efforts to cause
+                any consultant who provides Services under this Agreement to
+                comply when on GE's premises with GE's reasonable standard
+                safety policies that GE communicates to such consultant, to the
+                extent that such policies are applicable to the site where such
+                consultant is providing Services.
+
+        b)      Drug Abuse Policies. ARTS will advise any consultant who
+                provides Services under this Agreement of GE's policy,
+                exclusively when providing services where drug screening is
+                mandatory pursuant to governmental regulations, to require an
+                initial drug screen prior to the commencement of the assignment
+                and, further, to require a drug screen at any time during the
+                assignment either (i) if GE believes in good faith that the
+                consultant is under the influence of an illegal substance, or
+                (ii) as a consequence of an accident caused by or involving the
+                consultant on GE's premises during the performance of this
+                Agreement and likely to have been related to the consultant's
+                use of an illegal
+
+
+
+                                       11
+<PAGE>   12
+
+                substance. Any drug screens shall be performed by GE (or a
+                company hired by GE) at GE's expense.
+
+        c)      The Spirit & The Letter. ARTS agrees to use reasonable efforts
+                to cause any consultant who provides Services under this
+                Agreement to comply with GE's Policy Handbook, Integrity: The
+                Spirit & The Letter of Our Commitment and agrees to comply with
+                its Policies 20.2, Equal Employment Opportunity; 20.4, Ethical
+                Business Practices; 20.5, Complying with the Antitrust Laws; and
+                30.5, Avoiding Conflicts of Interest. A copy of such policies
+                are attached herewith as Exhibit D.
+
+19)     RELATIONSHIP BETWEEN THE PARTIES
+
+        ARTS is an independent contractor; nothing in this Agreement shall be
+        construed to create a partnership, joint venture, or agency relationship
+        between the parties. Nothing in this Agreement shall be interpreted or
+        construed as creating or establishing the relationship of employer and
+        employee between GE and either ARTS or any employee or agent of ARTS.
+        Each party will be solely responsible for payment of all compensation
+        owed to its employees, as well as federal and state income tax
+        withholding, Social Security taxes, and unemployment insurance
+        applicable to such personnel as employees of the applicable party. Each
+        party shall bear sole responsibility for any health or disability
+        insurance, retirement benefits, or other welfare or pension benefits (if
+        any) to which such party's employees may be entitled. Each party agrees
+        to defend and indemnify the other against any claims that the
+        indemnified party has failed to pay compensation, tax, insurance, or
+        benefits for employees of the indemnifying party; provided that (a) the
+        indemnified party notifies the indemnifying party in writing within
+        thirty (30) days of the claim; (b) the indemnifying party has sole
+        control of the defense and all related settlement negotiations; and (c)
+        the indemnified party provides the indemnifying party with the
+        assistance, information, and authority reasonably necessary to perform
+        the above; reasonable out-of-pocket expenses incurred by the indemnified
+        party in providing such assistance will be reimbursed by the
+        indemnifying party.
+
+        Anything to the contrary in this Agreement notwithstanding, the parties
+        hereby acknowledge and agree that GE shall have no right to control the
+        manner, means, or method by which ARTS performs Services pursuant to
+        this Agreement. Rather, GE shall be entitled only to direct ARTS with
+        respect to the elements of services to be performed by ARTS and the
+        results to be derived by GE, to inform ARTS as to where and when such
+        services shall be performed, and to review and assess the performance of
+        such Services by ARTS for the limited purposes of assuring that such
+        Services have been performed in accordance with this Agreement.
+
+20)     NON-SOLICITATION
+
+        Customer shall not solicit employment from any of ARTS' employees whose
+        work relates to this Agreement, during the term of this Agreement and
+        for a period of six (6) months after termination of this Agreement,
+        without ARTS' prior written consent.
+
+21)     PUBLICITY
+
+        As a material obligation of this Agreement with the exception noted
+        below, and except as otherwise required by law, neither party shall
+        release information with respect to the
+
+
+
+                                       12
+<PAGE>   13
+
+        existence or terms of this Agreement or an amendment or any other
+        document thereto or use the name, logo, trademarks, or any reference
+        either direct or indirect of the other in publicity releases,
+        advertising, case studies, or references. GE does not contemplate
+        providing any such consent and is under no obligation, express or
+        implied, to provide any such consent, and, in the event that any such
+        consent should be granted for a particular communication, GE shall not
+        be under any further obligation to provide consent in any future
+        request.
+
+22)     NONEXCLUSIVITY
+
+        This Agreement is nonexclusive, and GE may contract with other entities
+        to perform services.
+
+23)     NOTICE
+
+        All notices, including notices of address change, required to be sent
+        hereunder shall be in writing and shall be deemed to have been given
+        when mailed by first class mail to the GE Project Manager at the address
+        in the applicable SOW, with a copy to GE Company, Corporate Initiatives
+        Group Manager, Technology, 3135 Easton Turnpike, Fairfield, Connecticut
+        06431 (if to GE), or to the ARTS Project Manager at the address in the
+        applicable SOW, with a copy to ARIS at 2229 NE 112th Avenue, Bellevue,
+        WA 98004, ATTN: General Counsel (if to ARIS).
+
+24)     WAIVER
+
+        The waiver by either party of any default or breach of this Agreement
+        shall not constitute a waiver of any other or subsequent default or
+        breach.
+
+25)     FORCE MAJEURE
+
+        Neither party shall be in default or otherwise liable for any delay in
+        or failure of its performance under this Agreement where such delay or
+        failure arises by reason of any Act of God, or any government or any
+        governmental body, acts of the common enemy, the elements, strikes or
+        labor disputes, or other similar or dissimilar cause beyond the control
+        of such party.
+
+26)     EXPORT ADMINISTRATION
+
+        Each party agrees to comply with all relevant export laws and
+        regulations of the United States ("Export Laws") to assure that neither
+        any software deliverable, if any, nor any direct product thereof is (1)
+        exported, directly or indirectly, in violation of Export Laws or (2) is
+        intended to be used for any purposes prohibited by the Export Laws,
+        including without limitation, nuclear, chemical, or biological weapons
+        proliferation.
+
+27)     ASSIGNMENT
+
+        Neither party may assign any rights or delegate any duties under this
+        Agreement without the prior written consent of the other party, which
+        consent shall not be unreasonably withheld. Notwithstanding, in the
+        event of an assignment and delegation to a successor in interest to
+        substantially all of ARIS's stock or assets, GE may terminate this
+        Agreement within thirty
+
+
+
+                                       13
+<PAGE>   14
+
+        (30) days notice provided that such notice occurs within one hundred
+        days (180) of any such assignment and delegation. This Agreement shall
+        be binding upon the heirs, successors, legal representatives and valid
+        assigns of the parties.
+
+28)     DISPUTE RESOLUTION
+
+        Before either party initiates any legal action against the other arising
+        from this Agreement, the matter in controversy will first be referred to
+        the chief information officers or other appropriate officers of the
+        parties. Such officers shall take all reasonable steps to attempt to
+        resolve the matter within two (2) weeks of the date of referral.
+
+29)     GOVERNING LAW
+
+        The terms of this Agreement will be governed by, construed and enforced
+        in accordance with the laws of the State of New York, excluding its
+        conflict-of-laws rules. The invalidity, in whole or in part, or any
+        provision hereof shall in no way offset, impair or invalidate any other
+        provision of this Agreement.
+
+30)     COMPLIANCE WITH LAWS
+
+        ARIS warrants that its Services hereunder will be performed in strict
+        accordance with all applicable law, regulations, codes and standards of
+        government agencies or authorities having jurisdiction.
+
+31)     PRECEDENCE OF AGREEMENT AND SOWS
+
+        In the event of conflict between the provisions of the Agreement and any
+        SOW pursuant to the Agreement, the Agreement shall control.
+        Notwithstanding, the SOW shall control specifically for timelines and
+        particular performance elements of the Deliverables as contemplated by
+        performance of the Services under the SOW.
+
+32)     ENTIRE AGREEMENT
+
+        This Agreement constitutes the complete agreement between the parties
+        and supersedes all previous agreements or representations, written or
+        oral, with respect to the Services and Deliverables described herein.
+        This Agreement may not be modified or amended except in a writing signed
+        by a duly authorized representative of each party. Where the terms of a
+        purchase order or SOW are in conflict with the terms of this Agreement
+        which existed prior to the purchase order or SOW, the pre-existing terms
+        of the Agreement shall prevail except to the extent that the purchase
+        order or SOW expressly provides that the terms of the Agreement are to
+        be modified.
+
+The Effective Date of this Agreement shall be April 1, 2000.
+
+GENERAL ELECTRIC COMPANY:                      ARIS:
+
+
+
+                                       14
+<PAGE>   15
+
+Authorized                                 Authorized
+
+Signature: /s/ [Signature Illegible]       Signature: /s/ [Signature Illegible]
+          ---------------------------                -------------------------
+
+Name:   MARK MASTRIANNI                    Name:  PAUL SONG
+     --------------------------------           ------------------------------
+
+
+Title: MGR, TECHNOLOGY                     Title:  PRESIDENT AND CEO
+     --------------------------------            -----------------------------
+
+Date:  April 25, 2000                      Date:  April 21, 2000
+     --------------------------------            -----------------------------
+
+
+
+                                       15
+<PAGE>   16
+
+                                    EXHIBIT A
+
+                                     to the
+
+                            MASTER SERVICES AGREEMENT
+
+
+The Discount Term for this Agreement shall be two [2] years from the effective
+date of the Master Services Agreement between GE and ARIS Corporation. During
+the Discount Term of this Agreement, GE may purchase T&M Services from ARTS at
+the applicable discount off ARTS's list price T&M Rates, said discount
+stipulated below as "GE Hourly Rates". This discount was established based on a
+* minimum level of service to be delivered by Aris Corporation in support of
+GE.com. For the discount term of this agreement, should the monthly invoices for
+services for an SOW (project) or related SOWs (projects) except for those
+services delivered in support of GE.com, reach an aggregate monthly amount of *
+per month, or greater, an additional * discount from the GE Hourly Rates
+specified below shall be applied to the total amount(s) of the invoice(s).
+Should GE.com exceed the * minimum service level within the term of this
+Agreement, during the term of the agreement (calculated as commencing with all
+invoicing pertaining to services on and after the first day of the month
+coinciding with the Effective Date of the agreement, but in no event commencing
+later than April 1, 2000) then all invoiced amounts in excess of the * minimum
+will receive an additional * discount from the GE Hourly Rates as specified
+below.
+
+
+                     TABLE 1 -- LIST AND DISCOUNT T&M RATES
+
+<TABLE>
+<CAPTION>
+                                                                                      List              GE
+                                                                                      Hourly           Hourly
+    Title                          Service                                            Rates            Rates
+    -----                          -------                                           -------           ------
+<S>                                <C>                                               <C>               <C>
+Director                           Strategic/Operation Consulting                    $300.00            $*
+
+PM Technology                      Technical Consulting: Project Architecture        $350.00             *
+PM Development                     Technical Consulting: Application Development     $300.00             *
+Principal Consultant               Application Development                           $225.00             *
+SR Consultant                      Application Development                           $205.00             *
+Consultant                         Application Development                           $195.00             *
+Developer/Analyst                  Application Development                           $175.00             *
+Systems Administrator              Application Development                           $205.00             *
+
+PM Creative Director               Creative Consulting: Project Definition           $300.00             *
+Art Director                       Creative Consulting: Application Creative         $225.00             *
+Interactive Designer               Application Creative Production                   $195.00             *
+SR Interface Engineer              Application Creative Production                   $175.00             *
+Interface Engineer                 Application Creative Production                   $150.00             *
+
+PM Business Strategy               Strategic and Operation Consulting                $400.00             *
+PM Online Strategic Consulting     Strategic and Operation Consulting Online         $300.00             *
+SR Strategic Consultant            Strategic Consulting: Project/Area Specific       $225.00             *
+Strategic Consultant               Strategic Consulting: Project/Area Specific       $195.00             *
+
+PM Project Management              Operational Consulting & Project Management       $300.00             *
+Principal Project Manager          Project Management                                $225.00             *
+SR Project Manager                 Project Management                                $195.00             *
+Project Manager                    Project Management                                $175.00             *
+Project Coordinator                Project Management                                $150.00             *
+
+Quality Assurance Manager          QA Process                                        $225.00             *
+QA Staff                           QA Process                                        $145.00             *
+
+SR Technical Writer                Advance Technical Documentation                   $175.00             *
+Technical Writer                   Technical Documentation                           $145.00             *
+</TABLE>
+
+
+*       Portions of this agreement have been omitted pursuant to an amended
+        request for confidential treatment pursuant to SEC Rule 24b-2,
+        previously filed on July 19, 2001.
+
+
+
+                                       16
+<PAGE>   17
+
+                                    EXHIBIT C
+                        TO THE MASTER SERVICES AGREEMENT
+
+                          GE TRAVEL and LIVING POLICIES
+
+
+Travel & Living Guidelines for Corporate Employees
+
+Receipts are required for all corporate card items and for cash items of $15 or
+more.
+
+Air Travel
+
+Coach class is required for all flights within North America, within Europe, and
+within Asia-Pacific
+
+(for flights originating in those respective regions).
+
+Coach class is strongly recommended for all flights between North America and
+Europe and
+
+between North America and the northern portion of South America.
+
+For these flights, because of the combination of longer distances and the
+potential for unusual timing or circumstances, the ultimate decision between
+coach and business class remains with the traveler. It is expected that the
+choice of business class will be limited.
+
+Business class is allowed for flights beyond the above "coach zone", e.g., North
+America to Asia Pacific.
+
+-       Officer pre-approval is required for any exception to the above service
+        class guidelines.
+
+-       Employees may retain credits from frequent traveler programs. However,
+        travel plans, routing requirements, etc., should not result in
+        additional expense to the Company nor require an increase in travel time
+        during regularly assigned working hours.
+
+-       The cost of upgrading an airline ticket to another class is not
+        reimbursable.
+
+-       Make your own travel reservations and when possible schedule meetings to
+        allow for travel during offpeak hours.
+
+-       Take the "best buy" air fare recommended by the agent.
+
+-       Book tickets as early as possible.
+
+-       Use teleconferencing and/or videoconferencing to minimize travel costs.
+
+-       Minimize number of employees taking same trip, e.g., to trade shows,
+        conferences, etc.
+
+-       Consider non-refundable fare for frequent trips to the same location.
+
+-       Consider staying over on Saturday night to obtain lower air fare
+        (Company will reimburse hotel and meal costs if the total cost is
+        lower).
+
+
+Ground Transportation
+
+-       Use hotel/airport shuttle services when practical.
+
+-       Book smallest rental car practical for traveler's purpose.
+
+-       When using your personal vehicle, you will be reimbursed @ $.31 per
+        mile, which covers depreciation, insurance, and gas.
+
+-       For New York airports private limos are not allowable expenses, except:
+
+-       When traveling outside normal working hours (very early in the morning
+        or late in the evening) or when there is a safety concern;
+
+-       When there are at least two passengers and a private limo would be a
+        lower cost option than other alternatives such as a rental car or
+        scheduled limo service with Red Dot.
+
+-       From Fairfield use Hertz or Red Dot Limo Service.
+
+-       Minimize Company costs on rental cars by: declining Collision Damage
+        Waiver in the U.S. (covered under GE contract programs); returning
+        rental cars with a full tank of gas.
+
+
+
+                                       17
+<PAGE>   18
+
+LIVING, MEALS & OTHER EXPENSES
+
+-       Meals are reimbursable provided you are on Company business away from
+        your normal place of business with an overnight stay.
+
+-       On a day trip, meals eaten outside your regularly assigned work hours
+        are reimbursable.
+
+
+OTHER REIMBURSABLES
+
+-       Nominal gifts in lieu of meals and/or lodging at friends' or relatives'
+        residences are reimbursable as long as the cost to GE is lower.
+
+-       Gratuities for bellhop, taxi, meals, etc.
+
+-       Highway tolls and parking fees.
+
+-       Laundry and dry cleaning services if the employee is away for five
+        consecutive days.
+
+-       Telephone and fax expenses incurred on behalf of the Company, including
+        essential calls to home.
+
+-       Use your Dial Comm Key Card for all long distance phone calls.
+
+-       Review "in lieu of situations with your financial representative.
+
+
+Expenses Not Reimbursable
+
+The following items are considered to be of a personal nature, and therefore are
+not normally reimbursable by the Company.
+
+-       Airline club membership fees
+
+-       Clothing or toiletries, except if caused by airline delay or overbooking
+        of airplane reservations
+
+-       Cost of an employee's family member traveling with the employee, except
+        when the family member's presence serves a business purpose and the
+        costs have Corporate Officer approval
+
+-       Cost of a circuitous or side trip for personal convenience or benefit
+
+-       Fines for traffic violations
+
+-       Gifts to employees or their families of flowers, money, merchandise, or
+        services
+
+-       Insurance on personal property; personal travel insurance
+
+-       Items for personal use, such as: hairstyling, shoe shine, magazines,
+        newspapers, movies (including in-room movies), shows, and sporting
+        events (unless for entertainment on behalf of the Company) and other
+        similar items
+
+-       Loss or theft of personal property (e.g., clothes, jewelry, etc.), cash
+        advance, personal funds, or tickets
+
+-       Maintenance or repair of personal property (e.g., home and grounds)
+        while out of town on Company business
+
+-       Parking or garage charges at the employee's regularly assigned place of
+        business
+
+-       Personal credit card fees or charges incurred as a result of third-party
+        misuse of lost credit cards
+
+-       Traveling expense between home and regularly assigned place of business
+
+
+
+                                       18
+<PAGE>   19
+
+                                    EXHIBIT D
+                                     TO THE
+                            MASTER SERVICES AGREEMENT
+
+                    GE INTEGRITY PROGRAM FOR CONTRACT WORKERS
+
+
+-------------------------------
+
+
+                          ----------------------------
+                            COMPLIANCE EDUCATION FOR
+                              GE SERVICE PROVIDERS
+                          ----------------------------
+
+                                   Sharing The
+
+                                   Commitment
+
+                                       to
+
+                                    Integrity
+
+                              Your Responsibilities
+                            While On a GE Assignment
+
+
+        ----------------------------------------------------------
+        This document provides an overview of policies for service
+        providers to GE. It is not intended to create any
+        contractual rights, including employment with GE.
+        ----------------------------------------------------------
+
+
+
+<PAGE>   20
+
+                             COMMITMENT TO INTEGRITY
+
+
+YOUR RESPONSIBILITIES WHILE ON A GE ASSIGNMENT
+
+-       During your assignment at GE, you are required to maintain the same high
+        level of integrity that GE demands of its own employees. The purpose of
+        this document is to inform you of GE's code of conduct and provide you
+        with an overview of the policies and procedures which support that code.
+
+-       Please review this document. You will be asked to sign the
+        acknowledgment form which includes an agreement to comply with the
+        policies in this document.
+
+-       If you have questions or concerns about any of the policies, contact
+        your primary GE contact, the GE Business Integrity Helpline (see list on
+        page 12), or the GE Ombudsperson's office (page 12).
+
+
+--------------------------------------------------------------------------------
+A SOLID BASE FOR BUSINESS SUCCESS
+
+Integrity is the rock upon which GE builds its business success. GE's quest for
+competitive excellence begins and ends with its commitment to ethical conduct.
+As noted by Jack Welch, Chief Executive Officer and Chairman of the Board for
+GE: "No matter how hard we compete - here and around the world not one foot
+must ever step outside the line of absolute integrity."
+
+--------------------------------------------------------------------------------
+
+
+GE's CODE OF CONDUCT
+
+GE's Code of Conduct states the broad principles supporting its ethical
+commitment. The Code calls for individuals to:
+
+-       OBEY APPLICABLE LAWS AND REGULATIONS.
+
+-       BE HONEST, FAIR AND TRUSTWORTHY IN ALL GE ACTIVITIES.
+
+-       AVOID ALL CONFLICTS OF INTEREST.
+
+-       EXTEND EQUAL OPPORTUNITY TO THE DIVERSE GE COMMUNITY.
+
+-       STRIVE FOR A SAFE WORKPLACE AND PROTECTED ENVIRONMENT.
+
+-       RECOGNIZE, VALUE AND EXEMPLIFY ETHICAL CONDUCT.
+
+
+
+                                        2
+<PAGE>   21
+
+                             COMMITMENT TO INTEGRITY
+
+
+INTEGRITY: THE 11 GE POLICIES
+
+<TABLE>
+<CAPTION>
+                                                                                             PAGE
+<S>                                                                                          <C>
+WORKING WITH CUSTOMERS & SUPPLIERS
+
+Includes those policies that guide conduct when buying or selling products,
+materials, resources, etc.
+
+-     Ethical Business Practices                                                               4
+-     Following International Trade Controls                                                   4
+-     Supplier Relationships                                                                   5
+
+Government Business
+
+Includes the policy that specifically applies to government contracts and
+interactions with government officials.
+
+-     Working With Government Agencies                                                         5
+
+FAIR COMPETITION
+
+Focuses on antitrust laws.
+-     Complying With Antitrust Laws                                                            6
+
+WHILE IN THE GE ASSIGNMENT
+
+Spells out those policies that affect the work environment and responsibilities
+to the community.
+-     Health, Safety & Environmental Protection                                                7
+-     Participation in Hazardous Business                                                      7
+
+PERSONAL INTEGRITY
+
+Addresses those personal, day-to-day activities that have an impact on work
+integrity.
+
+-     Avoiding Conflicts of Interest                                                           8
+-     Financial Controls and Records                                                           8
+-     Insider Trading & Stock Tipping                                                          9
+-     Equal Employment Opportunity                                                             9
+
+PROPRIETARY AND CONFIDENTIAL INFORMATION                                                       10
+
+HOW TO HANDLE AN INTEGRITY CONCERN                                                             11
+
+THE ACKNOWLEDGMENT                                                                             11
+
+INTEGRITY HELPLINES                                                                            12
+</TABLE>
+
+
+
+                                        3
+<PAGE>   22
+
+                             COMMITMENT TO INTEGRITY
+
+
+ETHICAL BUSINESS PRACTICES (POLICY 20.4)
+
+-       NEVER OFFER, GIVE, OR ACCEPT BRIBES OR KICKBACKS.
+
+-       USE GOOD JUDGMENT TO AVOID EVEN THE APPEARANCE OF AN IMPROPER PAYMENT.
+
+-       GE HIRES ONLY REPUTABLE FIRMS AND REPRESENTATIVES.
+
+-       NO MORE THAN ORDINARY AND REASONABLE ENTERTAINMENT OR BUSINESS
+        COURTESIES.
+
+-       NO CONTRIBUTIONS TO POLITICAL PARTIES OR CANDIDATES ON BEHALF OF GE.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       Individuals who represent the company before customers or the
+        government.
+
+-       Individuals who work with sales reps, agents or represent GE in any way.
+
+
+--------------------------------------------------------------------------------
+
+FOLLOWING INTERNATIONAL TRADE CONTROLS
+
+-       IF THE DUTIES YOU PERFORM FOR GE INVOLVE INTERNATIONAL BUSINESS, LEARN
+        AND FOLLOW THE LAWS THAT GOVERN INTERNATIONAL TRADE.
+
+-       DO NOT PARTICIPATE IN TRANSACTIONS, INCLUDING SERVICES, PROHIBITED BY
+        U.S. LAW.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       Individuals who are involved in international activities.
+
+
+
+                                        4
+<PAGE>   23
+
+                             COMMITMENT TO INTEGRITY
+
+
+SUPPLIER RELATIONSHIPS
+
+-       BE LAWFUL, FAIR AND EFFICIENT IN ALL SUPPLIER RELATIONSHIPS.
+
+-       SAFEGUARD ANY INFORMATION GE HOLDS AS CONFIDENTIAL OR PROPRIETARY.
+
+-       RESPECT LICENSING AGREEMENTS AND COPYRIGHT LAWS, INCLUDING THOSE
+        COVERING COMPUTER SOFTWARE.
+
+Who Should Be Particularly Aware Of The Policy?
+
+- All individuals with direct supplier contact.
+
+
+--------------------------------------------------------------------------------
+
+WORKING WITH U.S. AND NON- U.S. GOVERNMENT AGENCIES
+
+-       MAINTAIN THE HIGHEST STANDARDS OF HONESTY IN ALL CONTACTS WITH
+        GOVERNMENT REPRESENTATIVES.
+
+-       AVOID EVEN THE APPEARANCE OF IMPROPER CONDUCT IN DEALING WITH GOVERNMENT
+        REPRESENTATIVES.
+
+-       WHENEVER THE GOVERNMENT IS THE CUSTOMER, FOLLOW DETAILED LAWS AND
+        PROCEDURES THAT REGULATE EVERY STAGE OF THE WORK.
+
+Even if the government is not the customer, individuals must be truthful and
+accurate in all communications with government representatives.
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       Any individual who comes in contact with government officials or works
+        on government contracts.
+
+-       Any individual who works in a government-regulated industry or business.
+
+
+
+                                        5
+<PAGE>   24
+
+                             COMMITMENT TO INTEGRITY
+
+
+COMPLYING WITH THE ANTITRUST LAWS
+
+-       NEVER DISCUSS PRICES, COSTS, PROFIT MARGINS OR OTHER COMPETITIVE TOPICS
+        WITH A REPRESENTATIVE OF A GE COMPETITOR; OR PROPOSE OR MAKE AN
+        AGREEMENT WITH A COMPETITOR RELATING TO ANY ASPECT OF THE COMPETITION,
+        WITHOUT PRIOR APPROVAL OF GE COUNSEL.
+
+-       AVOID CREATING THE APPEARANCE OF IMPROPER AGREEMENTS OR UNDERSTANDINGS.
+        KEEP COMMUNICATIONS WITH COMPETITORS TO A MINIMUM. MAKE SURE THERE IS
+        LEGITIMATE BUSINESS REASON FOR ALL SUCH COMMUNICATIONS.
+
+-       NEVER PROPOSE OR ENTER INTO ANY AGREEMENTS OR UNDERSTANDINGS WITH GE
+        CUSTOMERS RESTRICTING PRICES OR TERMS FOR RESALE OF GE PRODUCTS.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals are responsible for complying with the antitrust laws
+        and this policy.
+
+-       If your job involves contacts with competitors, setting prices or other
+        terms or conditions of sale, marketing, purchasing, participating in
+        trade associations or standards-setting groups, working on acquisitions,
+        divestitures or joint ventures, you should have a detailed familiarity
+        with the policy and with the GE business component's guidelines relating
+        to antitrust and competitive contacts.
+
+
+
+                                        6
+<PAGE>   25
+
+                             COMMITMENT TO INTEGRITY
+
+
+HEALTH, SAFETY AND ENVIRONMENTAL PROTECTION
+
+-       COMPLY WITH ALL APPLICABLE ENVIRONMENTAL, HEALTH AND SAFETY LAWS AND
+        REGULATIONS.
+
+-       CREATE AND MAINTAIN A SAFE WORKING ENVIRONMENT.
+
+-       PREVENT WORK-RELATED INJURIES.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals.
+
+
+--------------------------------------------------------------------------------
+
+PARTICIPATION IN HAZARDOUS BUSINESS
+
+-       HAZARDOUS BUSINESS IS ONLY ENTERED L CONTINUED IF RISKS CAN BE
+        CONTROLLED AND INTERESTS OF THE PUBLIC AND GE ARE SERVED.
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       Those who have any contact with or knowledge of this type of material or
+        process.
+
+
+
+                                        7
+<PAGE>   26
+
+                             COMMITMENT TO INTEGRITY
+
+
+AVOIDING CONFLICTS OF INTEREST
+
+-       AVOID ANY ACTIVITIES OR RELATIONSHIPS THAT COULD CONFLICT OR APPEAR TO
+        CONFLICT WITH YOUR WORK ON YOUR GE ASSIGNMENT.
+
+-       DON'T USE GE RESOURCES AS PART OF YOUR OUTSIDE ACTIVITIES.
+
+-       DON'T DISCREDIT GE'S NAME OR REPUTATION.
+
+-       IF YOU ARE AN OFFICER OR DIRECTOR WITH A NON-GE BUSINESS AND YOU COULD
+        INFLUENCE GE'S DEALINGS WITH THAT BUSINESS, YOU MUST BRING IT TO GE'S
+        ATTENTION.
+
+-       IF A POTENTIAL CONFLICT OF INTEREST INVOLVES YOU, REPORT IT IN WRITING
+        TO YOUR PRIMARY GE CONTACT.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals.
+
+
+--------------------------------------------------------------------------------
+
+FINANCIAL CONTROLS AND RECORDS
+
+-       FOLLOW ALL GE ACCOUNTING, REPORTING AND CONTROL PROCEDURES RELATING TO
+        YOUR GE ASSIGNMENT.
+
+-       KEEP AND REPORT YOUR TIME RECORDS AND OTHER GE RECORDS IN AN ACCURATE,
+        TIMELY, COMPLETE AND CONFIDENTIAL MANNER.
+
+-       PROTECT THE SECURITY OF COMPANY ASSETS AND THE CONFIDENTIALITY OF
+        COMPANY INFORMATION. DO NOT RELEASE GE RECORDS OUTSIDE THE COMPANY
+        UNLESS SPECIFICALLY AUTHORIZED BY GE MANAGEMENT.
+
+-       ALLOW COMPANY AUDITORS ACCESS TO RECORDS YOU MAINTAIN WHILE ON YOUR GE
+        ASSIGNMENT.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals.
+
+
+
+                                        8
+<PAGE>   27
+
+                             COMMITMENT TO INTEGRITY
+
+
+INSIDER TRADING AND STOCK TIPPING
+
+-       NEVER BUY, SELL, OR SUGGEST THAT SOMEONE ELSE BUY OR SELL ANY COMPANY'S
+        STOCK OR OTHER SECURITIES WHILE YOU ARE AWARE OF INSIDE INFORMATION
+        ABOUT THAT COMPANY'S BUSINESS.
+
+"Inside information" is defined as:
+
+-       Information that is material (i.e., a reasonable investor might consider
+        it important in deciding whether to buy or sell a security).
+
+-       Information that is non-public (i.e., it has not been reported in the
+        media and investors have not had access to it).
+
+        Assume that information is "inside information" if it is non-public and
+        it would affect in any way your own consideration of whether to buy or
+        sell the security in question.
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals.
+
+-       Individuals with early access to market-sensitive information (contract
+        awards or acquisitions, for example).
+
+
+--------------------------------------------------------------------------------
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+-       EXTEND EQUAL TREATMENT TO ALL INDIVIDUALS WITHOUT REGARD TO RACE, COLOR,
+        RELIGION, NATIONAL ORIGIN, SEX, AGE, DISABILITY, VETERAN STATUS OR OTHER
+        CHARACTERISTICS PROTECTED BY LAW.
+
+-       MAINTAIN A WORK ENVIRONMENT FREE OF HARASSMENT OF ANY KIND, INCLUDING
+        SEXUAL HARASSMENT. SEXUAL HARASSMENT IS PROHIBITED UNDER THIS POLICY.
+
+
+Who Should Be Particularly Aware Of The Policy?
+
+-       All individuals.
+
+
+
+                                        9
+<PAGE>   28
+
+                             COMMITMENT TO INTEGRITY
+
+
+PROPRIETARY AND CONFIDENTIAL INFORMATION
+
+-       DON'T PUBLISH OR DISCLOSE (EXCEPT AS YOUR GE ASSIGNMENT MAY REQUIRE)
+        CONFIDENTIAL OR PROPRIETARY INFORMATION OR DATA OF GE, OR OF OTHERS
+        WHICH GE IS OBLIGATED TO KEEP CONFIDENTIAL.
+
+-       INFORMATION, IDEAS, OR INVENTIONS MADE OR CONCEIVED WHILE ON A GE
+        ASSIGNMENT ARE THE PROPERTY OF GE.
+
+-       AT THE END OF YOUR ASSIGNMENT, DELIVER PROMPTLY ALL ITEMS BELONGING TO
+        GE, INCLUDING MATERIALS OF A PROPRIETARY OR CONFIDENTIAL NATURE.
+
+-       IF YOU ARE UNSURE OF WHAT IS CONSIDERED PROPRIETARY OR CONFIDENTIAL, ASK
+        YOUR PRIMARY GE CONTACT FOR CLARIFICATION.
+
+
+If you have an individual contract or consulting agreement with GE, you may have
+further obligations concerning proprietary or confidential information.
+
+
+
+                                       10
+<PAGE>   29
+
+                             COMMITMENT TO INTEGRITY
+
+
+HOW TO HANDLE AN INTEGRITY CONCERN
+
+If you suspect that there has been a violation of law or of GE policy, report it
+promptly:
+
+-       GET THE INFORMATION TO DEFINE YOUR CONCERN (WHO, WHAT, WHEN, WHERE).
+
+-       RAISE THE CONCERN WITH YOUR PRIMARY GE CONTACT, THE GE BUSINESS
+        INTEGRITY HELPLINE (SEE LIST ON PAGE 12), OR THE GE CORPORATE
+        OMBUDSPERSON AT 1-800-227-5003.
+
+Note:
+
+-       You may report anonymously. The important thing is not to let a concern
+        be swept under the rug.
+
+-       GE policy forbids retribution against any person for reporting or
+        supplying information about an integrity or compliance concern.
+
+
+--------------------------------------------------------------------------------
+
+THE ACKNOWLEDGMENT
+YOUR PERSONAL COMMITMENT TO INTEGRITY
+
+-       YOUR SIGNATURE MEANS THAT YOU:
+
+        -       received this document on GE policies;
+
+        -       understand that compliance is every individual's responsibility;
+
+        -       agree not to misuse proprietary or confidential information; and
+
+        -       agree to report concerns to the GE Business Integrity Helpline
+                or the GE Corporate Ombudsperson, or ask questions if you would
+                like further information regarding the policies.
+
+
+
+                                       11
+<PAGE>   30
+
+                               INTEGRITY HELPLINES
+
+
+GE Business Integrity Helplines
+
+<TABLE>
+<CAPTION>
+BUSINESS                                          TOLL-FREE NUMBER
+<S>                                               <C>
+GE CORPORATE                                        800 227-5003
+GE AIRCRAFT ENGINES                                 800 443-3632
+GE APPLIANCES                                       800 925-9559
+GE CAPITAL                                          800 882-4322
+GE INDUSTRIAL SYSTEMS - PLAINVILLE                  800 831-9236
+GE INDUSTRIAL SYSTEMS - FT. WAYNE                   800 831-9508
+GE INFORMATION SERVICES                             800 257-8832
+GE LIGHTING                                         800 257-8929
+GE MEDICAL SYSTEMS                                  800 438-8072
+GE PLASTICS                                         800 643-1614
+GE POWER SYSTEMS                                    800 443-1391
+GE SUPPLY                                           800 952-8639
+GE TRANSPORTATION SYSTEMS                           800 682-5845
+NBC                                                 800 622-6221
+</TABLE>
+
+
+If you need a direct dial number for a GE Business Integrity Helpline, contact
+the GE Ombudsperson's Office at 1-800-227-5003 or (203) 373-2343.
+
+
+
+                                       12
+<PAGE>   31
+
+                                                   For discussion purposes only
+
+
+                     ACKNOWLEDGMENT FOR GE SERVICE PROVIDERS
+
+
+I hereby acknowledge that I have received the document entitled: "Commitment to
+Integrity; Your Responsibilities While On A GE Assignment." I understand that I
+am required to comply with the policies described herewith while on assignment
+at General Electric Company or any affiliate thereof (hereafter "GE").
+
+Also, in consideration of my assignment at GE, I agree not to use, publish or
+otherwise disclose to anyone (except as my GE assignment may require), either
+during or after my assignment at GE, any confidential or proprietary information
+or data of GE, or any information or data of others which GE is obligated to
+maintain in confidence. I understand that any information, ideas, or inventions
+made or conceived by me while on my GE assignment are the property of GE.*
+
+At the end of my assignment I agree to deliver to GE promptly all items which
+belong to GE, including, without limitation, all written and other materials
+which are of a confidential or a proprietary nature relating to the business of
+GE.
+
+I understand that if I am unsure what information is considered proprietary or
+confidential, or if I am unsure of my obligations under this agreement, I will
+ask my primary GE contact for clarification.
+
+I agree to report any policy concerns to the GE Business Integrity Helpline or
+to the GE Corporate Ombudsperson.
+
+I confirm that I have no agreements with or obligations to others in conflict
+with the above.
+
+
+----------------------------------       ------------------------------------
+Signature                                Date
+
+----------------------------------       ------------------------------------
+Name                                     GE Assignment Location (City, State)
+
+----------------------------------       ------------------------------------
+Witness                                  Date
+
+* If you have an individual contract I consulting agreement with the Company,
+you may have further obligations. Please refer to your individual Agreement for
+specific details.
+
+Please remit to your agency or (if none) your primary GE contact.
+
+
+
+                                       13
+<PAGE>   32
+
+THIS WARRANT AND THE SECURITIES ISSUABLE UPON THE EXERCISE HEREOF HAVE NOT BEEN
+REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "ACT"), OR ANY
+STATE SECURITIES LAWS. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED,
+HYPOTHECATED OR OTHERWISE TRANSFERRED IN THE ABSENCE OF A REGISTRATION STATEMENT
+IN EFFECT WITH RESPECT TO THE SECURITIES UNDER SUCH ACT OR UNLESS SOLD PURSUANT
+TO AN EXEMPTION TO SUCH ACT.
+
+
+                          COMMON STOCK PURCHASE WARRANT
+
+                                ARIS CORPORATION
+
+
+THIS CERTIFIES that, for value received, General Electric Company ("GE"), or
+registered assigns ("Holder"), is entitled, upon the terms and subject to the
+conditions hereinafter set forth, at any time on or after the date hereof and at
+or prior to 5:00 p.m., Pacific time, on April 20, 2003 (the "Expiration Time"),
+but not thereafter, to acquire from ARIS Corporation, a Washington corporation
+(the "Company"), 150,000 fully paid and nonassessable shares of common stock of
+the Company (subject to adjustment as provided in this paragraph and Sections 9
+and 10 hereof ("Warrant Stock")), for a purchase price per share equal to
+$6.4375, (the "Exercise Price"). Such number of shares of Warrant Stock, type of
+security and the Exercise Price are subject to adjustment as provided herein,
+and all references to "Warrant Stock" and "Exercise Price" herein shall be
+deemed to include any such adjustment.
+
+1. EXERCISE OF WARRANT. The purchase rights represented by this Warrant are
+exercisable by the registered Holder hereof, in whole or in part, at any time
+and from time to time at or prior to the Expiration Time by the surrender of
+this Warrant and the Notice of Exercise form attached hereto duly executed to
+the principal corporate offices of the Company indicated on the signature page
+of this Warrant (or such other office or agency of the Company as it may
+designate by notice in writing to the registered Holder hereof at the address of
+such Holder appearing on the books of the Company), and upon payment of the
+Exercise Price for the shares thereby purchased (by cash or by check or bank
+draft payable to the order of the Company, or by cancellation of indebtedness of
+the Company to the Holder hereof if any, at the time of exercise in an amount
+equal to the purchase price of the shares thereby purchased or as provided in
+Section 2); whereupon the Holder of this Warrant shall be entitled to receive
+from the Company a stock certificate in proper form representing the number of
+shares of Warrant Stock so purchased.
+
+2. RIGHT TO CONVERT WARRANT. The registered Holder hereof shall have the right
+(but not the obligation) to require the Company to convert this Warrant, in
+whole or in part, at any time and from time to time at or prior to the
+Expiration Time, by the surrender of this Warrant and the Notice of Conversion
+form attached hereto duly executed to the office of the Company at the address
+referred to in Section 1 hereof (or such other office or agency of the Company
+as it may designate by notice in writing to the registered Holder hereof at the
+address of such Holder appearing on the books of the Company), into shares of
+Warrant Stock as provided in this Section 2. Upon exercise of this conversion
+right (and without payment by the Holder of the Exercise Price), the Holder
+hereof shall be entitled to receive that number of shares of Warrant Stock of
+the Company equal to the quotient obtained by dividing (A - B)(X) by (A), where:
+
+                A  =    the Current Market Price (as defined in Section 10
+                        below) of one share of Warrant Stock on the date of
+                        conversion of this Warrant;
+
+
+
+                                        1
+<PAGE>   33
+
+                B  =    the Exercise Price for one share of Warrant Stock
+                        under this Warrant; and
+
+                X  =    the number of shares of Warrant Stock being
+                        surrendered pursuant to the executed Notice of
+                        Conversion.
+
+        If the above calculation results in a negative number, then no shares of
+Warrant Stock shall be issued or issuable upon conversion of this Warrant.
+
+        Upon conversion of this Warrant in accordance with this Section 2, the
+registered Holder hereof shall be entitled to receive a certificate for the
+number of shares of Warrant Stock determined in accordance with the foregoing.
+
+3. REGULATORY DELAY; ISSUANCE OF SHARES; NO FRACTIONAL SHARES OR SCRIP.
+
+        (a) Notwithstanding the foregoing, if in connection with the exercise of
+the Warrant or acquisition of shares of Common Stock, any regulatory approval
+shall be required, including expiration of any applicable waiting period, then,
+if the Warrant is exercised prior to such approval, the Expiration Time shall be
+extended while any such regulatory approval or waiting period is pending and,
+upon such surrender of this Warrant, any payment of the Exercise Price shall be
+paid promptly following receipt of such approval.
+
+        (b) Certificates for shares purchased hereunder or issuable upon
+conversion hereof shall be delivered to the Holder hereof by the Company's
+transfer agent at the Company's expense within seven days after the date on
+which this Warrant shall have been exercised or converted in accordance with the
+terms hereof. Each certificate so delivered shall be in such denominations as
+may be requested by the Holder and shall be registered in the name of such
+Holder or, subject to applicable laws, other name as shall be requested by such
+Holder. If, upon exercise or conversion of this Warrant, fewer than all of the
+shares of Warrant Stock evidenced by this Warrant are purchased prior to the
+Expiration Time, one or more new warrants substantially in the form of, and on
+the terms in, this Warrant will be issued for the remaining number of shares of
+Warrant Stock not purchased upon exercise or conversion of this Warrant. The
+Company hereby represents and warrants that all shares of Warrant Stock which
+may be issued upon the exercise or conversion of this Warrant will, upon such
+exercise or conversion, be duly and validly authorized and issued, fully paid
+and nonassessable and free from all taxes, liens and charges in respect of the
+issuance thereof (other than liens or charges created by or imposed upon the
+Holder of the Warrant Stock). The Company agrees that the shares so issued shall
+be and be deemed to be issued to such Holder as the record owner of such shares
+as of the close of business on the date on which this Warrant shall have been
+surrendered for exercise or conversion in accordance with the terms hereof. No
+fractional shares or scrip representing fractional shares shall be issued upon
+the exercise or conversion of this Warrant. With respect to any fraction of a
+share called for upon the exercise or conversion of this Warrant, an amount
+equal to such fraction multiplied by the then current price at which each share
+may be purchased hereunder shall be paid in cash to the Holder of this Warrant.
+
+4. CHARGES, TAXES AND EXPENSES. Issuance of certificates for shares of Warrant
+Stock upon the exercise or conversion of this Warrant shall be made without
+charge to the Holder hereof for any issue or transfer tax or other incidental
+expense in respect of the issuance of such certificate, all of which taxes and
+expenses shall be paid by the Company, and such certificates shall be issued in
+the name of the Holder of this Warrant or in such name or names as may be
+directed by the Holder of this Warrant; provide , however, that in the event
+certificates for shares of Warrant Stock are to be issued in a name other than
+the name of the Holder of this Warrant, this Warrant when surrendered for
+exercise or
+
+
+
+                                        2
+<PAGE>   34
+
+conversion shall be accompanied by the Assignment Form attached hereto duly
+executed by the Holder hereof.
+
+5. NO RIGHTS AS SHAREHOLDER. This Warrant does not entitle the Holder hereof to
+any voting rights or other rights as a shareholder of the Company prior to the
+exercise or conversion hereof.
+
+6. EXCHANGE AND REGISTRY OF WARRANT. This Warrant is exchangeable, upon the
+surrender hereof by the registered Holder at the above-mentioned office or
+agency of the Company, for a new Warrant of like tenor and dated as of such
+exchange. The Company shall maintain at the above-mentioned office or agency a
+registry showing the name and address of the registered Holder of this Warrant.
+This Warrant may be surrendered for exchange, transfer, exercise or conversion,
+in accordance with its terms, at such office or agency of the Company, and the
+Company shall be entitled to rely in all respects, prior to written notice to
+the contrary, upon such registry.
+
+7. LOSS, THEFT, DESTRUCTION OR MUTILATION OF WARRANT. Upon receipt by the
+Company from any Holder of evidence reasonably satisfactory to it of the
+ownership of and the loss, theft, destruction or mutilation of this Warrant and
+indemnity reasonably satisfactory to it (it being understood that the written
+agreement of General Electric Company or an affiliate who is the Holder shall be
+sufficient indemnity), and in case of mutilation upon surrender and cancellation
+hereof, the Company will execute and deliver in lieu hereof of a new Warrant of
+like tenor to such Holder; provide, in the case of mutilation, no indemnity
+shall be required if this Warrant in identifiable form is surrendered to the
+Company for cancellation.
+
+8. SATURDAYS, SUNDAYS AND HOLIDAYS. If the last or appointed day for the taking
+of any action or the expiration of any right required or granted herein shall be
+a Saturday or a Sunday or shall be a legal holiday in the State of New York or
+Washington, then such action may be taken or such right may be exercised on the
+next succeeding day that is not a Saturday, Sunday or a legal holiday.
+
+9. CONSOLIDATION, MERGER, OR SALE of Assets. In case of any consolidation of the
+Company with, or merger of the Company into, any other Person, any merger of
+another Person into the Company (other than a merger which does not result in
+any reclassification, conversion, exchange or cancellation of outstanding shares
+of Common Stock) or any sale or transfer of all or substantially all of the
+assets of the Company or of the Person formed by such consolidation or resulting
+from such merger or which acquires such assets, as the case may be, the Holder
+shall have the right thereafter to exercise this Warrant for the kind and amount
+of securities, cash and other property receivable upon such consolidation,
+merger, sale or transfer by a holder of the number of shares of Common Stock for
+which this Warrant may have been exercised immediately prior to such
+consolidation, merger, sale or transfer, assuming (i) such holder of Common
+Stock is not a Person with which the Company consolidated or into which the
+Company merged or which merged into the Company or to which such sale or
+transfer was made, as the case may be ("CONSTITUENT PERSON"), or an Affiliate of
+a constituent Person and (ii) in the case of a consolidation merger, sale or
+transfer which includes an election as to the consideration to be received by
+the holders, such holder of Common Stock failed to exercise its rights of
+election, as to the kind or amount of securities, cash and other property
+receivable upon such consolidation, merger, sale or transfer (provided that if
+the kind or amount of securities, cash and other property receivable upon such
+consolidation, merger, sale or transfer is not the same for each share of Common
+Stock held immediately prior to such consolidation, merger, sale or transfer by
+other than a constituent Person or an Affiliate thereof and in respect of which
+such rights of election shall not have been exercised ("NON-ELECTING SHARE"),
+then for the purpose of this Section 10 the kind and amount of securities, cash
+and other property receivable upon such consolidation, merger, sale or transfer
+by each non-electing share shall be deemed to be the kind and amount so
+receivable per share by a plurality of the non-electing shares). Adjustments for
+events subsequent to the effective date of such a consolidation, merger and sale
+of assets shall be as nearly
+
+
+
+                                        3
+<PAGE>   35
+
+equivalent as may be practicable to the adjustments provided for in this
+Warrant. In any such event, effective provisions shall be made in the
+certificate or articles of incorporation of the resulting or surviving
+corporation, in any contract of sale, conveyance, lease or transfer, or
+otherwise so that the provisions set forth herein for the protection of the
+rights of the Holder shall thereafter continue to be applicable; and any such
+resulting or surviving corporation shall expressly assume the obligation to
+deliver, upon exercise, such shares of stock, other securities, cash and
+property. The provisions of this Section 9 shall similarly apply to successive
+consolidations, mergers, sales, leases or transfers.
+
+10. ANTI-DILUTION PROVISIONS.
+
+        (a) In case the Company shall at any time after the date hereof (i)
+declare a dividend or make a distribution on Common Stock payable in Common
+Stock, (ii) subdivide or split the outstanding Common Stock, (iii) combine or
+reclassify the outstanding Common Stock into a smaller number of shares, or (iv)
+issue any shares of its capital stock in a reclassification of Common Stock
+(including any such reclassification in connection with a consolidation or
+merger in which the Company is the continuing corporation), the Exercise Price
+in effect at the time of the record date for such dividend or distribution or of
+the effective date of such subdivision, split, combination or reclassification
+shall be proportionately adjusted so that, giving effect to Section 10(i), the
+exercise of this Warrant after such time shall entitle the holder to receive the
+aggregate number of shares of Common Stock or other securities of the Company
+(or shares of any security into which such shares of Common Stock have been
+reclassified pursuant to subsection 10(a)(iii) or 10(a)(iv) above) which, if
+this Warrant had been exercised immediately prior to such time, such holder
+would have owned upon such exercise and been entitled to receive by virtue of
+such dividend, distribution, subdivision, split, combination or
+reclassification. Such adjustment shall be made successively whenever any event
+listed above shall occur.
+
+        (b) In case the Company shall issue or sell any Common Stock (other than
+Common Stock issued (i) upon exercise of the Warrants, (ii) pursuant to the
+Company's Stock Option Plan or pursuant to any similar Common Stock related
+employee compensation plan of the Company approved by the Company's Board of
+Directors, (iii) issuances to effect an arms' length acquisition of a business
+from a nonaffiliate of the Company approved by the Company's Board of Directors
+or (iv) upon exercise or conversion of any security the issuance of which caused
+an adjustment under Section 10(c) or 10(d) hereof) without consideration or for
+a consideration per share less than the Current Market Price Per Common Share
+(as defined in Section 10(f)), the Exercise Price to be in effect after such
+issuance or sale shall be determined by multiplying the Exercise Price in effect
+immediately prior to such issuance or sale by a fraction, the numerator of which
+shall be the sum of (x) the number of shares of Common Stock outstanding
+immediately prior to the time of such issuance or sale multiplied by the
+Exercise Price immediately prior to such issuance or sale and (y) the aggregate
+consideration, if any, to be received by the Company upon such issuance or sale,
+and the denominator of which shall be the product of the aggregate number of
+shares of Common Stock outstanding immediately after such issuance or sale and
+the Exercise Price immediately prior to such issuance or sale. In case any
+portion of the consideration to be received by the Company shall be in a form
+other than cash, the fair market value of such noncash consideration shall be
+utilized in the foregoing computation. Such fair market value shall be
+determined by the Board of Directors of the Company; provided that if the Holder
+shall object to any such determination, the Holder may retain an independent
+appraiser reasonably satisfactory to the Board of Directors to determine such
+fair market value. The Holder shall be notified promptly of any consideration
+other than cash to be received by the Company and furnished with a description
+of the consideration and the fair market value thereof, as determined by the
+Board of Directors.
+
+        (c) In case the Company shall fix a record date for the issuance of
+rights, options or warrants to the holders of its Common Stock or other
+securities entitling such holders to subscribe for or purchase for a period
+expiring within 60 days of such record date shares of Common Stock (or
+securities
+
+
+
+                                        4
+<PAGE>   36
+
+convertible into share of Common Stock) at a price per share of Common Stock (or
+having a conversion price per share of Common Stock, if a security convertible
+into shares of Common Stock) less than the Current Market Price Per Common Share
+on such record date, the maximum number of shares of Common Stock issuable upon
+exercise of such rights, options or warrants (or conversion of such convertible
+securities) shall be deemed to have been issued and outstanding as of such
+record date and the Exercise Price shall be adjusted pursuant to Section 10(b)
+hereof, as though such maximum number of shares of Common Stock had been so
+issued for an aggregate consideration payable by the holders of such rights,
+options, warrants or convertible securities prior to their receipt of such
+shares of Common Stock. In case any portion of such consideration shall be in a
+form other than cash, the fair market value of such noncash consideration shall
+be determined as set forth in Section 10(b) hereof. Such adjustment shall be
+made successively whenever such record date is fixed; and in the event that such
+rights, options or warrants are not so issued or expire unexercised, or in the
+event of a change in the number of shares of Common Stock to which the holders
+of such rights, options or warrants are entitled (other than pursuant to
+adjustment provisions therein comparable to those contained in this Section 10),
+the Exercise Price shall again be adjusted to be the Exercise Price which would
+then be in effect if such record date had not been fixed, in the former event,
+or the Exercise Price which would then be in effect if such holder had initially
+been entitled to such changed number of shares of Common Stock, in the latter
+event.
+
+        (d) In case the Company shall issue rights, options (other than options
+issued pursuant to a plan described in subsection 10(b)(i)) or warrants
+entitling the holders thereof to subscribe for or purchase Common Stock (or
+securities convertible into shares of Common Stock) or shall issue convertible
+securities, and the price per share of Common Stock of such rights, options,
+warrants or convertible securities (including, in the case of rights, options or
+warrants, the pace at which: they may be exercised) is less than the Current
+Market Price Per Common Share, the maximum number of shares of Common Stock
+issuable upon exercise of such rights, options or warrants or upon conversion of
+such convertible securities shall be deemed to have been issued and outstanding
+as of the date of such sale or issuance, and the Exercise Price shall be
+adjusted pursuant to Section 10(b) hereof as though such maximum number of
+shares of Common Stock had been so issued for an aggregate consideration equal
+to the aggregate consideration paid for such rights, options, warrants or
+convertible securities and the aggregate consideration payable by the holders of
+such rights, options, warrants or convertible securities prior to their receipt
+of such shares of Common Stock. In case any portion of such consideration shall
+be in a form other than cash, the fair market value of such noncash
+consideration shall be determined as set forth in Section 10(b) hereof. Such
+adjustment shall be made successively whenever such rights, options, warrants or
+convertible securities are issued; and in the event that such rights, options or
+warrants expire unexercised, or in the event of a change in the number of shares
+of Common Stock to which the holders of such rights, options, warrants or
+convertible securities are entitled (other than pursuant to adjustment
+provisions therein comparable to those contained in this Section 10), the
+Exercise Price shall again be adjusted to be the Exercise Price which would then
+be in effect if such rights, options, warrants or convertible securities had not
+been issued, in the former event, or the Exercise Price which would then be in
+effect if such holders had initially been entitled to such changed number of
+shares of Common Stock, in the latter event. No adjustment of the Exercise Price
+shall be made pursuant to this Section 10(d) to the extent that the Exercise
+Price shall have been adjusted pursuant to Section 10(c) upon the setting of any
+record date relating to such rights, options, warrants or convertible securities
+and such adjustment fully reflects the number of shares of Common Stock to which
+the holders of such rights, options, warrants or convertible securities are
+entitled and the price payable therefor.
+
+        (e) In case the Company shall fix a record date for the making of a
+distribution to holders of Common Stock (including any such distribution made in
+connection with a consolidation or merger in which the Company is the continuing
+corporation) of evidences of indebtedness, assets or other property (other than
+dividends payable in Common Stock or rights, options or warrants referred to in,
+and for which an adjustment is made pursuant to, Section 10(c) hereof), the
+Exercise Price to be in effect after
+
+
+
+                                        5
+<PAGE>   37
+
+such record date shall be determined by multiplying the Exercise Price in effect
+immediately prior to such record date by a fraction, the numerator of which
+shall be the Current Market Price Per Common Share on. such record date, less
+the fair market value (determined as set forth in Section 10(b) hereof) of the
+portion of the assets, other property or evidence of indebtedness so to be
+distributed which is applicable to one share of Common Stock, and the
+denominator of which shall be such Current Market Price Per Common j Share. Such
+adjustments shall be made successively whenever such a record date is fixed; and
+in the event that such distribution is not so made, the Exercise Price shall
+again be adjusted to be the Exercise Price. which would then be in effect if
+such record date had not been fixed.
+
+        (f) For the purpose of any computation under Section 2, 9 or 10 hereof,
+on any determination date the Current Market Price Per Common Share shall be
+deemed to be the average (weighted by daily trading volume) of the Daily Prices
+(as defined below) per share of the applicable class of Common Stock for the 20
+consecutive trading days immediately prior to such date. "Daily Price" means
+(A), the last reported sale price on such day on the National Market of the
+National Association of Securities Dealers, Inc. Automated Quotation System
+("NASDAQ"); (B) if the shares of such class of Common Stock then are not listed
+and traded on the NASDAQ but are then and traded on the New York Stock Exchange,
+Inc. ("NYSE"), the closing price of the principal trading session of such
+exchange; (C) if the shares of such class of Common Stock then are not listed
+and traded on the NASDAQ or NYSE, the closing price on such day as reported by
+the principal national securities exchange on which the shares are listed and
+traded; or (D) if the shares of such class of Common Stock then are not traded
+on the markets referred to in clauses (A) - (C), the average of the highest
+reported bid and lowest reported asked price on such in the over-the-counter
+market as furnished by the NASDAQ or the National Quotation Bureau, Inc.. If on
+any determination date the shares of such class of Common Stock are not quoted
+by any such organization, the Current Market Price Per Common Share shall be the
+fair market value of such shares on such determination date as determined by the
+Board of Directors. If the Holder shall object to any determination by the Board
+of Directors of the Current Market Price Per Common Share, the Current Market
+Price Per Common Share shall be the fair market value per share of the
+applicable class of Common Stock as determined by an independent appraiser
+retained by the Company and reasonably acceptable to the Holder, the expense of
+which shall be divided equally between the Company and the. requesting Holder.
+For purposes of any computation under this Section 10, the number of shares of
+Common Stock outstanding at any given time shall not include shares owned or
+held by or for the account of the Company.
+
+        (g) No adjustment in the Exercise Price shall be required unless such
+adjustment would require an increase or decrease of at least one percent in such
+price; provided that any adjustments which by reason of this subsection 10(g)
+are not required to be made shall be carried forward and taken into account in
+any subsequent adjustment. All calculations under this Section 10 shall be made
+to the nearest one tenth of a cent or to the nearest hundredth of a share, as
+the case may be.
+
+        (h) In the event that, at any time as a result of the provisions of this
+Section 10, the holder of this Wan-ant upon subsequent exercise shall become
+entitled to receive any shares of capital stock of the, Company other than
+Common Stock, the number of such other shares so receivable upon exercise of
+this Wan-ant shall thereafter be subject to adjustment from time to time in a
+manner and on terms as nearly equivalent as practicable to the provisions
+contained herein.
+
+        (i) Upon each adjustment of the Exercise Price as a result of the
+calculations made in Section 10(a), (b), (e), (d) or (e) hereof, the number of
+shares for which this Warrant is exercisable immediately prior to the making of
+such adjustment shall thereafter evidence the right to purchase, at the adjusted
+Exercise Price, that number of shares of Common Stock obtained by (i)
+multiplying the number of shares covered by this Warrant immediately prior to
+this adjustment of the number of shares by the Exercise Price in effect
+immediately prior to such adjustment of the Exercise Price and (ii) dividing the
+
+
+
+                                        6
+<PAGE>   38
+
+product so obtained by the Exercise Price in effect immediately after such
+adjustment of the Exercise Price.
+
+11. NOTICE OF ADJUSTMENTS. Whenever an adjustment to this Warrant is made
+pursuant to Section 9, or 10, the Company shall promptly deliver to each Holder
+a certificate executed by the chief financial officer of the Company setting
+forth, in reasonable detail, the event requiring the adjustment and the method
+by which such adjustment was calculated, specifying the number of shares of
+common stock for which this Warrant is exercisable and (if such adjustment was
+made pursuant to Section 9) describing the number and kind of any other shares
+of stock or other securities or property for which this Warrant is exercisable,
+and any change in the purchase price or prices thereof, after giving effect to
+such adjustment or change. The Company shall keep at its office or agency
+referred to in Section 1 copies of all such certificates and cause the same to
+be available for inspection at said office during normal business hours by any
+Holder or any prospective purchaser of a Warrant designated by a Holder thereof.
+
+12. TRANSFERABILITY; COMPLIANCE WITH ACT
+
+        (a) Prior to the Expiration Time and subject to compliance with
+applicable laws, this Warrant and all rights hereunder are transferable by the
+Holder hereof, in whole or in part. Any such transfer shall be made at the
+office or agency of the Company referred to in Section 1 hereof in person, by
+the Holder's duly authorized attorney, upon surrender or delivery by mail of
+this Warrant together with the Assignment Form attached hereto properly
+endorsed. Each transferee of all or a part of this Warrant in compliance with
+the terms hereof shall be deemed a Holder as such term is used herein.
+
+        (b) Each certificate representing the Warrant Stock or other securities
+issued in respect of the Warrant Stock upon any stock split, stock dividend,
+recapitalization, merger, consolidation or similar event which have not been
+registered under the Securities Act of 1933, as amended (the "Act"), shall be
+stamped or otherwise imprinted with a legend substantially in the following form
+(in addition to any legend required under applicable state securities laws):
+
+        "These securities have not been registered under the Securities Act of
+        1933, as amended (the "Act"), or any state securities laws. They may not
+        be sold, offered for sale, pledged, hypothecated or otherwise
+        transferred in the absence of a registration statement in effect with
+        respect to the securities under such Act or unless sold pursuant to an
+        exemption to the registration requirements of such Act."
+
+13. REPRESENTATIONS AND WARRANTIES. The Company hereby represents and warrants
+to the Holder hereof that:
+
+        (a) during the period this Warrant is outstanding, the Company has and
+will continue to reserve from its authorized and unissued Common Stock a
+sufficient number of shares to provide for the issuance of Common Stock issuable
+upon exercise or conversion of this Warrant;
+
+        (b) the issuance of this Warrant shall constitute full authority to the
+Company's officers who are charged with the duty of executing stock certificates
+to execute and issue the necessary certificates for the shares of Warrant Stock
+issuable upon exercise or conversion of this Warrant;
+
+        (c) the Company is a corporation duly organized under the laws of the
+State of Washington has all requisite corporate power and is qualified to
+conduct its business as now conducted and has all requisite legal and corporate
+power to execute and deliver this Warrant, to sell and issue the Warrant Stock
+hereunder and to carry out and perform its obligations under the terms of this
+Warrant;
+
+
+
+                                        7
+<PAGE>   39
+
+        (d) all corporate action on the part of the Company, its directors and
+shareholders necessary for the authorization, execution, delivery and
+performance of this Warrant by the Company, the authorization, sale, issuance
+and delivery of the Warrant Stock and the performance of the Company's
+obligations hereunder has been taken and the foregoing does not and will not
+conflict with the Company's Certificate of Incorporation or Bylaws or any
+material agreement to which the Company is a party;
+
+        (e) the Warrant Stock when issued in compliance with the provisions of
+this Warrant, will be issued, fully paid and nonassessable, and free of all
+taxes, liens, or encumbrances with respect to the issue thereof, and will be
+issued in compliance with all applicable federal and state securities laws;
+
+        (f) the issuance of the Warrant Stock will not be subject to any
+preemptive rights, rights of first refusal or similar rights; and
+
+        (g) the authorized and outstanding capital stock, options and other
+convertible securities of the Company and rights to acquire the foregoing are
+all as disclosed in the Company's filings with the Securities and Exchange
+Commission as of the date hereof.
+
+14. COOPERATION. The Company will not, by amendment of its Articles of
+Incorporation or through any reorganization, recapitalization, transfer of
+assets, consolidation, merger, dissolution, issue or sale of securities or any
+other action, avoid or seek to avoid the observance or performance of any of the
+terms to be observed or performed hereunder by the Company, but will at all
+times in good faith assist in the carrying out of all the provisions of this
+Warrant and in the taking of all such action as may be necessary or appropriate
+in order to protect the rights of the Holder of the Warrant against impairment.
+
+15. PIGGYBACK REGISTRATION.
+
+        (a) If at any time or from time to time after the date hereof, the
+Company shall determine to register any of its securities for its own account or
+for the account of any other holder of Common Stock or other securities of the
+Company other than a registration relating solely to employee benefit plans, or
+a registration relating solely to a Rule 145 transaction, a transaction relating
+solely to the sale of debt or convertible debt instruments or a registration on
+any form (other than Form S-1, S-2 or S-3, or their successor forms) which does
+not include substantially similar information as would be required to be
+included in a registration statement covering the sale of Warrant Stock, the
+Company will:
+
+                (i) give to each Holder written notice thereof as soon as
+practicable prior to filing the registration statement; and
+
+                (ii) include in such registration and in any underwriting
+involved therein, all the Warrant Stock specified in a written request or
+requests, made within 20 days after receipt of such written notice from the
+Company, by any Holder or Holders, except as set forth in subsection (b) below.
+
+        (b) If the registration is for a registered public offering involving an
+underwriting, the Company shall so advise the Holders as a part of the written
+notice given pursuant to subsection 15(a)(i). In such event. the right of any
+Holder to registration pursuant to Section 15 shall be conditioned upon such
+Holder's participation in such underwriting and the inclusion of such Holder's
+stock in the underwriting to the extent provided herein. All Holders proposing
+to distribute their securities through such underwriting shall (together with
+the Company and the other holders distributing their securities through such
+underwriting) enter into an underwriting agreement in customary form with the
+underwriter or underwriters selected for such underwriting by the Company.
+Notwithstanding any other provision of this Section 15, if the managing
+underwriter reasonably determines (which reasonable determination shall
+
+
+
+                                        8
+<PAGE>   40
+
+be evidenced in writing to the Holder) that the total number of securities which
+the Company intends to include in such offering is so large as to adversely
+affect the success of such offering, including the price at which such
+securities can be sold, the managing underwriter may limit the number of shares
+of Warrant Stock to be included in the registration and underwriting to not less
+than twenty percent (20%) of the total number of securities to be included in
+the registration and underwriting. The Company shall so advise all Holders and
+the other holders distributing their securities through such underwriting
+pursuant to piggyback registration rights similar to this Section 15, and,
+subject to the limitation in the preceding sentence, the number of shares of
+stock and other securities that may be included in the registration and
+underwriting shall be allocated among all holders in proportion, as nearly as
+practicable, to the respective amounts of stock, or other registrable
+securities, held by such holders at the time of filing the registration
+statement. If any Holder disapproves of the terms of any such underwriting, such
+Holder may elect to withdraw therefrom by written notice to the Company and the
+managing underwriter. Any shares of Company stock excluded or withdrawn from
+such underwriting shall be withdrawn from such registration.
+
+        (c) In addition to the fees and expenses contemplated by subsection
+15(d) hereof, all expenses incurred in connection with registrations pursuant to
+Section 15 hereof, including without limitation all registration, filing and
+qualification fees, printing expenses, fees and disbursements of counsel for the
+Company and expenses of any special audits of the Company's financial statements
+incidental to or required by such registration, shall be borne by the Company,
+except that the Company shall not be required to pay underwriters' fees,
+discounts or commissions relating to stock or fees of a separate legal counsel
+of a Holder.
+
+        (d) In the case of each registration effected by the Company pursuant to
+this Section 15, the Company will keep each Holder participating therein advised
+in writing as to the initiation of each registration, the effectiveness thereof
+and as to the completion thereof. At its expense the Company will:
+
+                (i) keep such registration effective for a reasonable period as
+necessary to permit the Holder or Holders to complete the distribution described
+in the registration statement relating thereto;
+
+                (ii) promptly prepare and file with the Securities and Exchange
+Commission (the "Commission") such amendments and supplements to such
+registration statement and the prospectus used in connection therewith as may be
+necessary to comply with the provisions of the Act, to keep such registration
+statement effective for that period of time specified in subsection 15(d)(i)
+above and comply with all applicable securities laws and regulations;
+
+                (iii) furnish such number of prospectuses and other documents
+incident thereto as a Holder from time to time may reasonably request;
+
+                (iv) use reasonable efforts to obtain the withdrawal of any
+order suspending the effectiveness of a registration statement, or the lifting
+of any suspension of the qualification of any of the Warrant Stock for sale in
+any jurisdiction, at the earliest practical moment;
+
+                (v) register or qualify such stock for offer and sale under the
+securities or Blue Sky laws of such jurisdictions as any Holder or underwriter
+reasonably requires, and keep such registration or qualification effective
+during the period set forth in subsection 15(d)(i) above;
+
+                (vi) cause all stock covered by such registrations to be listed
+on each securities exchange, including Nasdaq, on which similar securities
+issued by the Company are then listed or, if no such listing exists, use
+reasonable efforts to list all stock on one of the New YORK STOCK Exchange, the
+American Stock Exchange or NASDAQ;
+
+
+
+                                        9
+<PAGE>   41
+
+                (vii) cause its accountants to issue to the underwriter, if any,
+or the Holders, if there is no underwriter, comfort letters and updates thereof,
+in customary form and covering matters of the type customarily covered in such
+letters with respect to underwritten offerings;
+
+                (viii) enter into such customary agreements (including
+underwriting agreements in customary form) and take all such other actions as
+the Holders of a majority of the stock being sold or the underwriters, if any,
+reasonably, request in order to expedite or facilitate the disposition of such
+stock (including, without limitation, effecting a stock split or a combination
+of shares);
+
+                (ix) make available for inspection by any seller of stock, any
+underwriter participating in any disposition pursuant to such registration
+statement, and any attorney, accountant or other agent retained by any such
+seller or underwriter, all financial and other records, pertinent corporate
+documents and properties of the Company, and cause the Company's officers,
+directors, employees and independent accountants to supply all information
+reasonably requested by any such seller; underwriter, attorney, accountant or
+agent in connection with such registration statement;
+
+                (x) notify each Holder, at any time a prospectus covered by such
+registration statement is required to be delivered under the Act, of the
+happening of any event of which it has knowledge as a result of which the
+prospectus included in such registration statement, as then in effect, includes
+an untrue statement of a material fact or omits to state a material fact
+required to be stated therein or necessary to make the statements therein not
+misleading in the light of the circumstances then existing; and
+
+                (xi) take such other actions as shall be reasonably requested by
+any Holder.
+
+        (e) In the event of a registration of any of the stock under the Act,
+the Company will indemnify and hold harmless each Holder of such stock
+thereunder, each of its officers, directors and employees, each underwriter of
+such stock thereunder and each other person, if any, who controls such Holder or
+underwriter within the meaning of the Act, against any losses, claims, damages
+or liabilities, joint or several, to which such Holder, underwriter or
+controlling person may become subject under the Act or otherwise, insofar as
+such losses, claims, damages or liabilities (or actions in respect thereof)
+arise out of or are based upon any untrue statement or alleged untrue statement
+of any material fact contained in any registration statement under which such
+stock were registered under the Act, any final prospectus contained therein, or
+any amendment or supplement thereof, or arise out of or are based upon the
+omission or alleged omission to state therein a material fact required to be
+stated therein or necessary to make the statements therein not misleading, or
+any violation by the Company of any rule or regulation promulgated under the Act
+or any state securities law applicable to the Company and relating to action or
+inaction required of the Company in connection with any such registration, and
+will reimburse each such Holder, each of its officers, directors and employees,
+and each person controlling such Holder, each such underwriter and each person
+who controls any such underwriter, for any reasonable legal and any other
+expenses incurred in connection with investigating, defending or settling any
+such claim, loss, damage, liability or action, provided that the Company will
+not be liable in any such case to the extent that any such claim, loss, damage
+or liability arises out of or is based on any untrue statement or omission based
+upon information furnished in writing to the Company by such Holder specifically
+for use therein.
+
+        (f) Each Holder will, if stock held by or issuable to such Holder are
+included in the securities as to which such registration is being effected, (x)
+indemnify and hold harmless the Company, each of its directors and officers,
+each underwriter, if any, of the Company's securities covered by such a
+registration statement, each person who controls the Company and each
+underwriter within the meaning of the Act, and each other such holder, each of
+its officers, directors and partners and each person controlling such
+
+
+
+                                       10
+<PAGE>   42
+
+holder, against all claims, losses, expenses, damages and liabilities (or
+actions in respect thereof) arising out of or based on any untrue statement (or
+alleged untrue statement) of a material fact contained in any such registration
+statement, or any omission (or alleged omission) to state therein a material
+fact required to be stated therein or necessary to make the statements therein
+not misleading, and (y) will reimburse the Company, such holders, such
+directors, officers, partners, persons or underwriters for any reasonable legal
+or any other expenses incurred in connection with investigating, defending or
+settling any such claim, loss, damage, liability or action, in the case of both
+(x) and (y) to the extent, but only to the extent, that (i) such untrue
+statement (or alleged untrue statement) or omission (or alleged omission) is
+made in such registration statement, in reliance upon and in conformity with
+information furnished to the Company in writing by such Holder specifically for
+use therein and (ii) such indemnification and reimbursement amounts under this
+Section 15(f) do not exceed in the aggregate an amount equal to the net proceeds
+to the Holder of the sale of the stock.
+
+        (g) Each party entitled to indemnification under this Section 15 (the
+"Indemnified Party") shall give notice to the party required to provide
+indemnification (the "Indemnifying Party") promptly after such Indemnified Party
+has actual knowledge of any claims as to which indemnity may be sought, and
+shall permit the Indemnifying Party to assume the defense of any such claim or
+any litigation resulting therefrom, provided that counsel for the Indemnifying
+Party, who shall conduct the defense of such claim or litigation, shall be
+approved by the Indemnified Party (whose approval shall not be unreasonably
+withheld), and the Indemnified Party may participate in such defense at such
+party's expense, and provided further that the failure of any Indemnified Party
+to give notice as provided herein shall not relieve the Indemnifying Party of
+its obligations hereunder, unless such failure resulted in actual detriment to
+the Indemnifying Party and then only to the extent of such detriment,. No
+Indemnifying Party, in the defense of any such claim or litigation, shall,
+except with the consent of each Indemnified Party, consent to entry of any
+judgment or enter into any settlement which does not include as an unconditional
+term thereof the giving by the claimant or plaintiff to such indemnified party
+of a release from all liability in respect of such claim or litigation.
+
+        (h) Notwithstanding the foregoing, to the extent that the provisions on
+indemnification contained in the underwriting agreements entered into among the
+selling Holders, the Company and the underwriters in connection with the
+underwritten public offering are in conflict with the foregoing provisions, the
+provisions in the underwriting agreement shall be controlling as to the Warrant
+Stock included in the public offering.
+
+        (i) Except as provided in Section 15(h), the indemnification provided by
+this Section 15 shall be a continuing right to indemnification and shall survive
+the registration and sale of any securities by any person entitled to
+indemnification hereunder and the expiration or termination of this Agreement.
+
+        (j) The Holder or Holders of stock included in any registration shall
+promptly furnish to the Company such information regarding such Holder or
+Holders and the distribution proposed by such Holder or Holders as the Company
+may request in writing and as shall be required in connection with any
+registration referred to herein.
+
+        (k) With a view to making available to Holders of Warrant Stock the
+benefits of certain rules and regulations of the Commission which may permit the
+sale of the Warrant Stock to the public without registration, the Company agrees
+to:
+
+                (i) make and keep public information available, as those terms
+are understood and defined in Rule 144 and Rule 144A; and
+
+
+
+                                       11
+<PAGE>   43
+
+                (ii) use its best efforts to file with the Commission in a
+timely manner all reports and other documents required of the Company under the
+Act and the Securities Exchange Act of 1934, as amended.
+
+        (l) The rights to cause the Company to register Warrant Stock of a
+Holder and the other rights under this Section 15 may be assigned by a Holder to
+a transferee or assignee who receives at least 50,000 shares of stock (or a
+portion of this Warrant with respect to such amount of Warrant Stock) (as
+adjusted pursuant to Section 9 or 10); provided, that the Company is given
+written notice by the Holder at the time of or within a reasonable time after
+said transfer, stating the name and address of said transferee or assignee and
+identifying the securities with respect to which such registration rights are
+being assigned.
+
+        (m) The rights of any particular Holder to cause the Company to register
+securities under this Section 15 shall terminate with respect to such Holder at
+such time as such Holder is able to dispose in the public securities markets of
+all of its Warrant Stock in one three-month period pursuant to the provisions of
+Rule 144. In addition, all rights of any particular Holder under this Agreement
+shall terminate at 5:00 P.M. Pacific time on the date three (3) years after the
+date this Warrant is fully exercised or converted.
+
+16. NOTICES. All notices and communications to be given or made under this
+Warrant shall be in writing and delivered by hand-delivery, registered first
+class mail (return receipt requested), facsimile, or air courier guaranteeing
+overnight delivery, addressed as follows, or to such other person or address as
+the party named below may designate by notice:
+
+        (a) If to any Holder or holder of Warrant Stock, at its last known
+address appearing on the books of Company maintained for such purpose.
+
+        (b) If to Company at the address as referred to in Section 1 hereof.
+Each such notice or other communication shall be deemed to have been duly given
+or served on the date on which personally delivered, with receipt acknowledged,
+telecopied and confirmed by telecopy answerback, or three business days after
+the same shall have been deposited in the United States mail.
+
+
+
+                                       12
+<PAGE>   44
+
+17. GOVERNING LAW. This Warrant shall be governed by and construed in accordance
+with the laws of the State of Washington.
+
+        IN WITNESS WHEREOF, the Company has caused this Warrant to be executed
+by its duly authorized officer.
+
+
+Dated: April 20, 2000                        ARIS CORPORATION
+                                             a Washington corporation,
+
+
+                                             By /s/ PAUL Y. SONG,
+                                                -------------------------------
+                                                Paul Y. Song,
+                                                Chief Executive Officer
+                                                Aris Corporation
+                                                2229 112th Avenue NE
+                                                Bellevue, Washington 98004
+                                                Facsimile: (425) 372-2750
+
+
+ACCEPTED:
+
+GENERAL ELECTRIC COMPA
+
+By: /s/ MARK MASTRIANNI
+   -------------------------------
+Name:  Mark Mastrianni
+     -----------------------------
+Title: Mgr, Technology
+       ---------------------------
+
+
+
+                                       13
+<PAGE>   45
+
+                               NOTICE OF EXERCISE
+
+
+To: ARIS CORPORATION
+
+        (1) The undersigned hereby elects to purchase shares of common stock (or
+equivalent capital stock, however designated) of ARIS Corporation pursuant to
+the terms of the attached Warrant, and tenders herewith payment of the purchase
+price in full, together with all applicable transfer taxes, if any.
+
+        (2) Please issue a certificate or certificates representing said shares
+in the name of the undersigned or in such other name as is specified below:
+
+
+        ---------------------------------
+        (Name)
+
+        ---------------------------------
+        (Address)
+
+
+        (3) The undersigned represents that the aforesaid shares are being
+acquired for the account of the undersigned for investment and not with a view
+to, or for resale in connection with, the distribution thereof and that the
+undersigned has no present intention of distributing or reselling such shares.
+
+
+
+------------------------------                   ------------------------------
+         (Date)                                             (Signature)
+
+
+
+                                       14
+<PAGE>   46
+
+                              NOTICE OF CONVERSION
+
+
+To: ARIS CORPORATION
+
+
+        (1) The undersigned hereby elects to convert the attached Warrant into
+such number of shares of ARTS Corporation as is determined pursuant to such
+Warrant, which conversion shall be effected pursuant to the terms of the
+attached Warrant.
+
+        (2) Please issue a certificate or certificates representing said shares
+in the name of the undersigned or in such other name as is specified below:
+
+        ---------------------------------
+        (Name)
+
+        ---------------------------------
+        (Address)
+
+        (3) The undersigned represents that the aforesaid shares are being
+acquired for the account of the undersigned for investment and not with a view
+to, or for resale in connection with, the distribution thereof and that the
+undersigned has no present intention of distributing or reselling such shares.
+
+
+
+------------------------------                   ------------------------------
+         (Date)                                             (Signature)
+
+
+
+                                       15
+<PAGE>   47
+
+                                 ASSIGNMENT FORM
+
+
+     (To assign the foregoing Warrant, execute this form and supply required
+             information. Do not use this form to purchase shares.)
+
+
+        FOR VALUE RECEIVED, the foregoing Warrant and all rights evidenced
+thereby are hereby assigned to
+
+
+--------------------------------------------------------------------------------
+             (Please Print)
+
+
+whose address is
+                ----------------------------------------------------------------
+               (Please Print)
+
+
+                              Dated:
+                                    --------------------------------------------
+
+                              Holder's Signature:
+                                                 -------------------------------
+
+                              Holder's Address:
+                                               ---------------------------------
+
+
+Guaranteed Signature:
+                     -----------------------------------------------------------
+
+
+NOTE: The signature to this Assignment Form must correspond with the name as it
+appears on the face of the Warrant, without alteration or enlargement or any
+change whatever, and must be guaranteed by a bank or trust company. Officers of
+corporations and those acting in a fiduciary or other representative capacity
+should file proper evidence of authority to assign the foregoing Warrant.
+
+
+
+                                       16
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2207 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>v76886ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.1
+
+
+
+                                                                 LOAN NO. 21-139
+
+
+
+
+
+
+
+
+                                 LOAN AGREEMENT
+
+
+                                     BETWEEN
+
+                        HELLER HEALTHCARE FINANCE, INC.,
+                             A DELAWARE CORPORATION
+
+                                    AS LENDER
+
+
+                                       AND
+
+
+                         ASSISTED LIVING CONCEPTS, INC.,
+                            A NEVADA CORPORATION AND
+                      CHAPTER 11 DEBTOR-IN-POSSESSION, AND
+
+                      CARRIAGE HOUSE ASSISTED LIVING, INC.,
+                           A DELAWARE CORPORATION AND
+                         CHAPTER 11 DEBTOR-IN-POSSESSION
+
+                            COLLECTIVELY, AS BORROWER
+
+
+
+                                 $4,400,000 LOAN
+
+
+                                 PORTFOLIO OF 8
+                           ASSISTED LIVING FACILITIES
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+
+<TABLE>
+<S>                                                                                         <C>
+RECITALS.....................................................................................1
+
+ARTICLE I The Loan...........................................................................2
+
+ARTICLE II Security..........................................................................4
+
+ARTICLE III Conditions.......................................................................4
+
+ARTICLE IV Representations and Warranties....................................................7
+
+ARTICLE V Affirmative Covenants.............................................................11
+
+ARTICLE VI Negative Covenants...............................................................14
+
+ARTICLE VII Events of Default; Acceleration of Indebtedness; Remedies.......................14
+
+ARTICLE VIII Miscellaneous..................................................................17
+</TABLE>
+
+
+
+                     LIST OF EXHIBITS, SCHEDULES AND RIDERS
+
+
+EXHIBIT A    -  Property Descriptions
+EXHIBIT B    -  Subsidiary Indebtedness
+EXHIBIT C    -  Interim Financing Order
+EXHIBIT D    -  Litigation
+EXHIBIT E    -  Approved Pre-Bankruptcy Expenses
+
+SCHEDULE I   -  Calculation of Net Operating Income
+SCHEDULE II  -  Index of Defined Terms
+
+RIDER        -  Senior Housing Rider
+EXHIBIT R-1  -  Units and Beds at Each Facility
+EXHIBIT R-2  -  Licenses
+
+
+
+
+
+                                      -i-
+
+
+<PAGE>
+
+                                                                 LOAN NO. 21-139
+
+
+
+                                 LOAN AGREEMENT
+
+
+               This LOAN AGREEMENT (this "AGREEMENT") is made as of the 3rd day
+of October, 2001 between ASSISTED LIVING CONCEPTS, INC., a Nevada corporation
+and Chapter 11 debtor-in-possession ("ALC") and CARRIAGE HOUSE ASSISTED LIVING,
+INC., a Delaware corporation and Chapter 11 debtor-in-possession ("CARRIAGE
+HOUSE"; ALC and Carriage House are hereinafter collectively referred to as
+"BORROWER") and HELLER HEALTHCARE FINANCE, INC., a Delaware corporation
+("LENDER").
+
+
+                                    RECITALS
+
+               A. Lender has agreed to make a loan (the "LOAN") to Borrower in
+the aggregate principal amount of up to Four Million Four Hundred Thousand and
+No/100 Dollars ($4,400,000.00), subject to the terms and conditions contained
+herein. The Loan is evidenced on the Closing Date by that certain Promissory
+Note A of even date herewith made by Borrower in the original principal amount
+of Two Million Eight Hundred Sixty Thousand and No/100 Dollars ($2,860,000.00)
+("NOTE A"), and by that certain Subordinated Promissory Note B of even date
+herewith made by Borrower in the original principal amount of One Million Five
+Hundred Forty Thousand and No/100 Dollars ($1,540,000.00) ("NOTE B") (Note A and
+Note B and all amendments thereto and substitutions therefor are hereinafter
+collectively referred to as the "Notes"). The terms and provisions of the Notes
+are hereby incorporated herein by reference in this Agreement.
+
+               B. Each Borrower is the owner of certain real property more
+particularly described on Exhibit A hereto (collectively, the "PROPERTIES" and
+individually, a "PROPERTY") including the assisted living facilities and other
+improvements located thereon. The assisted living facilities and other
+improvements located at the Properties are collectively called the
+"IMPROVEMENTS". The Properties including the Improvements are collectively
+called the "PROJECT".
+
+               C. Each Borrower is a "debtor-in-possession" pursuant to Chapter
+11 of the Bankruptcy Code (defined in Section 1.2 below).
+
+               D. Subject to the provisions of the Interim Financing Order and,
+if issued, the Final Financing Order (each defined in Article III below),
+Borrower will use the proceeds of the Loan for working capital and certain other
+uses set forth in Section 1.5 below.
+
+               E. Borrower's obligations under the Loan will be secured by,
+among other things, (a) first priority Deeds of Trust/Mortgages, Assignments of
+Rents and Security Agreements (or documents of similar title) (individually, a
+"MORTGAGE" and collectively, the "MORTGAGES") encumbering each Property
+including the Improvements located thereon, (b) Assignments of Leases and Rents
+(collectively, the "ASSIGNMENTS OF LEASES") encumbering each Property including
+the Improvements located thereon, (c) the Subsidiary Note Assignment (defined in
+Section 3.12 below), and (d) a Stock Pledge Agreement (the "PLEDGE") by ALC of
+100% of the stock of the Subsidiaries (defined in Section 3.12 below).
+
+
+
+
+<PAGE>
+
+This Agreement, the Notes, the Mortgages, the Assignments of Leases, the
+Environmental Indemnity, the Subsidiary Note Assignment, the Pledge, the
+Financing Orders (defined in Section 3.13 below) and any other documents
+evidencing or securing the Loan or executed in connection therewith, and any
+modifications, renewals and extensions thereof, are referred to herein
+collectively as the "LOAN DOCUMENTS." The definition of Loan Documents herein
+shall not include the Subsidiary Loan Documents (defined in Section 3.12 below).
+
+               F. An index of defined terms appears on the attached Schedule II.
+
+               NOW, THEREFORE, in consideration of the foregoing and the mutual
+conditions and agreements contained herein, the parties agree as follows:
+
+
+                                   ARTICLE I
+                                    THE LOAN
+
+        1.1. DISBURSEMENTS. Subject to the other provisions of this Agreement,
+and so long as no default under any of the Loan Documents is then continuing,
+Lender shall disburse the Loan to Borrower for the uses set forth in Section 1.5
+hereof.
+
+        1.2. LOAN TERM. The Loan shall mature upon the earliest of (i) the date
+which is one (1) year after the Closing Date and (ii) the occurrence of any of
+the following: (A) Lender demands payment of Borrower's obligations to it
+following the occurrence of an Event of Default, (B) the appointment of a
+Chapter 11 trustee (or appointment of an examiner with expanded powers to
+operate a Borrower's business) in the Bankruptcy Case of any Borrower, (C) the
+effective date of a plan of reorganization for any Borrower as confirmed in its
+Bankruptcy Case, (D) the conversion of the Bankruptcy Case of any Borrower to a
+case under chapter 7 of the Bankruptcy Code, and (E) the dismissal of the
+Bankruptcy Case of any Borrower (such earliest date being referred to as the
+"MATURITY DATE").
+
+             "CLOSING DATE" means the date on which the Interim Financing Order
+is entered.
+
+             "BANKRUPTCY CASE" means any case under Chapter 11 of the Bankruptcy
+Code in which any Borrower is the debtor and debtor-in-possession, pending
+before the Bankruptcy Court.
+
+             "BANKRUPTCY CODE" means the United States Bankruptcy Code (11
+U.S.C. Section 101 et seq.), as amended, and any successor statute.
+
+             "BANKRUPTCY COURT" means the United States Bankruptcy Court for the
+District of Delaware or any other court of competent jurisdiction acceptable to
+ALC having jurisdiction over the Bankruptcy Case.
+
+        1.3. INTEREST RATE. Borrower shall pay interest on the outstanding
+principal balance of the Loan at a floating rate per annum equal to the Base
+Rate plus five percent (5.00%) (the aggregate rate referred to as the "INTEREST
+RATE"). "BASE RATE" shall mean the
+
+
+
+
+                                      -2-
+<PAGE>
+
+rate published each day in The Wall Street Journal for notes maturing three (3)
+months after issuance under the caption "Money Rates, London Interbank Offered
+Rates (LIBOR)". The Interest Rate for each calendar month shall be fixed based
+upon the Base Rate published prior to and in effect on the first (1st) business
+day of such month; provided, however, the Interest Rate for the month in which
+the Closing Date occurs shall be fixed based upon the Base Rate published prior
+to and in effect on the first (1st) business day prior to the Closing Date.
+Interest shall be calculated based on a 360 day year and charged for the actual
+number of days elapsed.
+
+        1.4. PAYMENTS. Borrower shall make interest payments monthly in arrears
+on the first (1st) day of each month, commencing on November 1, 2001, computed
+on the outstanding principal balance of the Loan at the Interest Rate.
+
+        1.5. SOURCES AND USES. The sources and uses of funds for the
+contemplated transaction are as follows:
+
+
+<TABLE>
+<CAPTION>
+              SOURCES                                     USES
+              -------                                     ----
+     <S>               <C>               <C>                          <C>
+     Loan:             $4,400,000        Working Capital:             $2,400,000
+                                         Carveout Account :           $2,000,000
+
+     Total:            $4,400,000        Total:                       $4,400,000
+</TABLE>
+
+             Provided Borrower is not in default under the terms of any Loan
+Document and there is no ongoing default under the Subsidiary Loan Documents,
+Lender shall disburse all or any portion of the amounts allocated to Working
+Capital and fund the Carveout Account (as defined in the Interim Financing
+Order) within two (2) business days after Borrower provides written notice to
+Lender together with such information and documentation as Lender shall
+reasonably request regarding the uses of such funds. Within fifteen (15) days
+after the Closing Date Borrower, Lender and the financial institution with which
+the Carveout Account is established shall enter into a control account agreement
+reasonably acceptable to Lender and sufficient to create a lien in favor of
+Lender on the Carveout Account and the funds on deposit therein (subject to the
+Carveout Professionals' first lien thereon). Lender shall have no obligation to
+disburse any portion of the Loan for Working Capital unless and until Lender
+approves of a budget with respect to proposed expenditures on Working Capital.
+The Carveout Account shall be used by Borrower to make payments to the Carveout
+Professionals (as defined in, and pursuant to the terms of, the Interim
+Financing Order). The Carveout Professionals shall be permitted to take a first
+mortgage lien on the Careveout Account. A reduction in the amounts necessary for
+any of the uses shall result in an equal reduction in the amount of the Loan;
+provided, however, any amounts remaining in the Carveout Account after all
+payments to the Carveout Professionals have been made pursuant to the terms of
+the Interim Financing Order may be applied towards Working Capital.
+
+        1.6. PREPAYMENTS OF LOAN. Borrower may prepay the outstanding principal
+balance of the Loan in full (but not in part) at any time together with all
+other amounts owing
+
+
+
+
+                                      -3-
+<PAGE>
+
+hereunder, provided Borrower gives Lender at least ten (10) business days prior
+written notice.
+
+
+                                   ARTICLE II
+                                    SECURITY
+
+        2.1. COLLATERAL. The Loan and all other indebtedness and obligations
+under the Loan Documents, as well as all of the indebtedness and obligations of
+certain of the Subsidiaries under the Subsidiary Loan Documents (as such terms
+are defined in Section 3.12 below), shall be secured by liens on Borrowers'
+property as set forth in the following instruments (collectively, the
+"COLLATERAL"): (a) the Mortgages, (b) the Assignments of Leases, (c) the
+Subsidiary Note Assignment, (d) the Pledge, (e) the Carveout Account (subject to
+the first lien in favor of the Carveout Professionals) and (f) any other
+collateral or security described in this Agreement or the other Loan Documents.
+
+
+                                  ARTICLE III
+                                   CONDITIONS
+
+             Lender's obligation to disburse the Loan is subject to Borrower's
+satisfaction of (i) the conditions contained in Sections 3.1, 3.4, 3.7, 3.8,
+3.10, 3.12, 3.13 and 3.14 on or before the Closing Date, and (ii) the conditions
+subsequent contained in the remainder of this Article III within sixty (60) days
+after written request by Lender.
+
+        3.1. LOAN DOCUMENTS. Lender shall have received the following Loan
+Documents, all in form and substance reasonably satisfactory to Lender, each
+signed by the Borrower:
+
+             (a) this Agreement;
+
+             (b) the Notes;
+
+             (c) the Mortgages;
+
+             (d) the Assignments of Leases;
+
+             (e) such Uniform Commercial Code financing statements as Lender may
+        reasonably require, with respect to the Borrower (but only with respect
+        to property of Borrower used in connection with the Properties or as
+        contemplated by the Mortgages or Assignments of Leases) or the
+        Properties;
+
+             (f) a hazardous wastes indemnity agreement ("ENVIRONMENTAL
+        INDEMNITY");
+
+             (g) the Subsidiary Note Assignment; and
+
+             (h) the Pledge.
+
+
+
+
+                                      -4-
+<PAGE>
+
+             In addition, Lender shall have received such Subsidiary Loan
+Documents executed by Borrower as Lender may reasonably require, including an
+acknowledgement and consent to the Subsidiary Loan Documents and a ratification
+of the existing Guaranty given by ALC with respect thereto.
+
+        3.2. INTENTIONALLY OMITTED.
+
+        3.3. APPRAISAL. Lender shall obtain an appraisal report for each
+Property, in form and content acceptable to Lender, prepared by an independent
+MAI appraiser in accordance with the Financial Institutions Reform, Recovery and
+Enforcement Act ("FIRREA") and the regulations promulgated pursuant to such act.
+
+        3.4. TITLE POLICY AND ENDORSEMENTS. With respect to each Property,
+Lender shall have received a commitment for title insurance in an amount and
+issued by a title insurance company satisfactory to Lender (collectively, the
+"TITLE COMMITMENT"), in a form and amount acceptable to Lender, insuring
+marketability of title and insuring that the lien of each of the Mortgages is a
+valid first lien on the respective Property, as applicable, subject only to
+exceptions to title approved by Lender and as to each Property, the Permitted
+Liens, if any set forth in an exhibit to the Mortgage encumbering such Property.
+Within thirty (30) days after the Closing Date, Borrower shall, at its sole
+cost, cause the title company which issued the Title Commitment to issue to
+Lender a lender's form of title insurance policy with respect to each Property
+in the form of the Title Commitment (collectively, the "TITLE POLICY"). The
+Title Policy shall also contain any reinsurance and endorsements required by
+Lender including without limitation negative amortization, survey, access, tax
+parcel, subdivision, contiguity, non-imputation, variable rate, usury, last
+dollar, first loss, tie-in, subsequent disbursements and extended coverage
+endorsements (Comprehensive Form 1), to the extent available in the state where
+the respective Property is located.
+
+        3.5. SURVEY. With respect to each Property, Lender shall have received
+and approved a survey of such Property and the Improvements thereon, dated no
+more than ninety (90) days prior to the date of the applicable Title Policy,
+prepared by a registered land surveyor in accordance with the 1999 American Land
+Title Association/ American Congress on Surveying and Mapping Standards and
+certified in favor of Lender and the title insurer. The surveyor shall certify
+that each Property is not in a flood hazard area as identified by the Secretary
+of Housing and Urban Development. The surveys shall be sufficient for the title
+insurer to remove the general survey exception in the applicable Title Policy,
+to the extent possible in the applicable state.
+
+        3.6. ENVIRONMENTAL REPORT. Lender shall have received a Phase I
+Environmental audit of each Property. The audit shall (i) be addressed to
+Lender; (ii) state that Lender may rely thereon; and (iii) be acceptable to
+Lender in its reasonable discretion.
+
+        3.7. LEASES. All leases, licenses and other agreements with regard to
+the occupancy of each Property, including patient and resident care agreements
+and service agreements which include an occupancy agreement (collectively,
+"LEASES"), shall be in form and substance reasonably acceptable to Lender.
+Borrower shall submit for Lender's approval
+
+
+
+
+                                      -5-
+<PAGE>
+
+a copy of the form of residential Lease Borrower proposes to utilize at each
+such Property, and all residential Leases entered into after the Closing Date
+shall be on forms reasonably approved by Lender (it being understood that Lender
+has already approved of the form of residential Lease used by certain of the
+Subsidiaries, which form has previously been delivered to Lender, and such form
+is acceptable for use by Borrower) without material modifications, other than
+modifications made in accordance with statutory, regulatory or other legal
+requirements. Lender must approve all non-residential Leases of space greater
+than 500 square feet or which provide for monthly rent payments greater than
+$1,000. On the Closing Date: all existing Leases shall be in full force and
+effect and within thirty (30) days of written request by Lender, Borrower shall
+submit a certified rent roll for each Property, certifying that all existing
+Leases are listed therein. If any non-residential Leases exist or are hereafter
+entered into with respect to any such Property, each tenant thereunder shall
+execute and deliver to Lender a subordination and attornment agreement in a form
+reasonably acceptable to Lender. The Property owned by Carriage House is leased
+to ALC. Upon written request by Lender, Carriage House and ALC will enter into a
+Subordination Agreement (in substantially the form used in the Subsidiary Loan
+Documents) in favor of Lender with respect to such lease.
+
+        3.8. INSURANCE. With respect to each Property, Borrower shall have
+provided Lender with and Lender shall have approved copies of certificates
+evidencing the insurance policies required to be delivered pursuant to the
+Mortgages.
+
+        3.9. COMPLIANCE WITH LAWS. Borrower shall have submitted and Lender
+shall have approved (a) a final certificate of occupancy (or the equivalent) for
+each Property and the Improvements thereon, and (b) evidence satisfactory to
+Lender that each Property and the Improvements thereon comply in all material
+respects with all applicable laws (including, without limitation, all building,
+zoning, density, land use, ordinances, regulations and planning requirements),
+covenants, conditions and restrictions, subdivision requirements (including,
+without limitation, parcel maps), and environmental impact and other
+environmental requirements.
+
+        3.10. LOAN FEE AND CLOSING COSTS. Borrower and certain of the
+Subsidiaries have previously deposited with Lender a good faith deposit in the
+amount of $300,000 relating to proposed future financing by Lender. A portion of
+such deposit in the amount of $75,000.00 shall be used towards the loan fee in
+connection with the Loan, which loan fee shall be nonrefundable and shall be
+deemed fully earned upon receipt. An additional portion of such deposit in the
+amount of $127,500 shall be used towards closing costs incurred by Borrower in
+connection with the Loan. In the event that actual closing costs in connection
+with the Loan exceed $127,500, Borrower shall promptly pay such excess to Lender
+upon demand therefor by Lender.
+
+        3.11. LICENSES. Borrower shall obtain, and deliver to Lender evidence
+satisfactory to Lender of, all licenses and permits necessary to operate each
+Property as an assisted living facility. All such licenses and permits shall be
+issued to and in the name of Borrower.
+
+
+
+
+                                      -6-
+<PAGE>
+
+        3.12. SUBSIDIARY INDEBTEDNESS. ALC owns all of the issued and
+outstanding stock of ALC Ohio, Inc., ALC Pennsylvania, Inc., ALC Iowa, Inc., ALC
+Nebraska, Inc., ALC New Jersey, Inc., ALC Indiana, Inc., Nevada ALC, Inc., Texas
+ALC, Inc. and Carriage House (collectively, the "SUBSIDIARIES"). As of October
+1, 2001, the outstanding principal balance of the indebtedness owed by each of
+the Subsidiaries to ALC was as shown on Exhibit B attached hereto (such balance,
+together with any future indebtedness of any Subsidiary to ALC approved in
+writing by Lender is hereinafter referred to as the "SUBSIDIARY INDEBTEDNESS").
+On or before the Closing Date, ALC shall have caused a portion of the Subsidiary
+Indebtedness as indicated on Exhibit B to be capitalized by either canceling
+such indebtedness or contributing such indebtedness to the respective
+Subsidiary; and ALC shall deliver to Lender on the Closing Date written evidence
+thereof in form and substance reasonably acceptable to Lender. The promissory
+notes evidencing the remaining principal balance of the Subsidiary Indebtedness
+after the capitalization (and any Subsidiary Indebtedness hereinafter approved
+by Lender), as indicated on Exhibit B, shall be assigned by ALC to Lender on the
+Closing Date pursuant to a "SUBSIDIARY NOTE ASSIGNMENT". The assignment of such
+notes shall secure the indebtedness and obligations of Borrower hereunder and
+the indebtedness and obligations of certain of the Subsidiaries to Lender
+pursuant to that certain Loan Agreement dated February 20, 2001, as amended by
+that certain First Amendment to Loan Documents dated June 29, 2001 and as
+amended by that certain Second Amendment to Loan Documents dated of even date
+herewith among certain of the Subsidiaries, ALC and Lender (as an agent and a
+lender) (collectively, the "SUBSIDIARY LOAN AGREEMENT") and all of the loan
+documents (the "SUBSIDIARY LOAN DOCUMENTS") executed in connection with the
+Subsidiary Loan Agreement.
+
+        3.13. INTERIM FINANCING ORDER. Borrower shall have obtained the entry of
+a Financing Order in the form of Exhibit C attached hereto (the "INTERIM
+FINANCING ORDER"). "FINANCING ORDER" and "FINANCING ORDERS" means any order or
+orders entered in the Bankruptcy Cases of Borrower authorizing Borrower to
+obtain the financing described in this Agreement.
+
+        3.14. BANKRUPTCY COURT FINDINGS. The Bankruptcy Court shall have found
+that (a) Lender's making of the Loan contemplated by this Agreement is in "good
+faith" within the meaning of Section 364(e) of the Bankruptcy Code, and (b) the
+amount of the Loan is not in excess of the amount necessary to avoid immediate
+and irreparable harm to Borrower.
+
+        3.15. ADDITIONAL ITEMS. Lender shall have received such other items as
+Lender may reasonably require, including without limitation, a physical
+condition report and UCC, tax, judgment, bankruptcy and lien searches on the
+Borrower.
+
+
+                                   ARTICLE IV
+                         REPRESENTATIONS AND WARRANTIES
+
+             As an inducement to Lender to disburse the Loan, Borrower hereby
+represents and warrants to Lender as follows, which representations and
+warranties shall be true as of the date hereof, and shall remain true throughout
+the term of the Loan:
+
+
+
+
+                                      -7-
+<PAGE>
+
+        4.1. BORROWER EXISTENCE. Each Borrower is a corporation duly formed,
+validly existing and in good standing under the laws of its jurisdiction of
+incorporation with its principal place of business at 11835 NE Glen Widing
+Drive, Building E, Portland, Oregon 97220. ALC is in good standing and
+authorized to transact business in the states of Oregon, Nevada, Arizona and
+Nebraska. Carriage House is in good standing and authorized to transact business
+in the states of Nebraska and Delaware. Each Borrower is a debtor-in-possession
+pursuant to Chapter 11 of the Bankruptcy Code. Upon the effectiveness of the
+Interim Financing Order or Final Financing Order (defined in Section 5.10
+below), the Loan Documents have each been duly authorized, executed and
+delivered and each constitutes the duly authorized, valid and legally binding
+obligation of each Borrower, enforceable against each Borrower in accordance
+with their respective terms and the terms of the Financing Orders.
+
+        4.2. AUTHORITY. Subject to any required approval of the Bankruptcy
+Court, the Board of Directors of ALC has the authority to make all material
+business decisions (including a sale or refinance) for each Borrower during the
+term of the Loan. ALC owns 100% of the issued and outstanding stock in Carriage
+House free and clear of all liens, claims and encumbrances other than the
+Pledge.
+
+        4.3. CORPORATE DOCUMENTS. A true and complete copy of the articles of
+incorporation and by-laws of each Borrower and all other documents creating and
+governing each Borrower (collectively, the "INCORPORATION DOCUMENTS"), have been
+furnished to Lender. There are no other agreements, oral or written, among any
+of the owners of any ownership interests in each Borrower relating to any of
+them. There are no other agreements to which any Borrower is a party which would
+affect, modify or supersede the Incorporation Documents. The Incorporation
+Documents were duly executed and delivered, are in full force and effect, and
+binding upon and enforceable in accordance with their terms. The Incorporation
+Documents constitute the entire understanding among the shareholders of each
+Borrower. No breach exists under the Incorporation Documents and no act has
+occurred and no condition exists which, with the giving of notice or the passage
+of time would constitute a breach under the Incorporation Documents.
+
+        4.4. OTHER AGREEMENTS. No Borrower is in default under any contract,
+agreement or commitment to which it is a party, which default could reasonably
+be expected to have a material adverse effect on any Borrower, except as a
+result of the Bankruptcy Case filing. Subject to the entry of the Interim
+Financing Order and the Final Financing Order, the execution, delivery and
+compliance with the terms and provisions of this Agreement and the Loan
+Documents will not (i) to the best of Borrower's knowledge, violate any
+provisions of law or any applicable regulation, order or other decree of any
+court or governmental entity, or (ii) conflict or be inconsistent with, or
+result in any default under, any material contract, agreement or commitment to
+which any Borrower is bound. Borrower has delivered to Lender copies of any
+agreements (including leases) between each Borrower and any Affiliate related in
+any way to the Project and any other agreements or documents materially
+affecting the use and operation of the Project (excluding residential rental
+agreements and non-residential Leases of space less than 500 square feet or
+which provide for monthly rent payments less than $1,000).
+
+
+
+
+                                      -8-
+<PAGE>
+
+        4.5. PROPERTIES. Fee simple title to each Property is owned by the
+Borrower indicated on Exhibit A free and clear of all liens, claims,
+encumbrances, covenants, conditions and restrictions, security interests and
+claims of others, except only such exceptions as have been approved in writing
+by Lender and except for the liens, if any, listed on Exhibit A (the "PERMITTED
+LIENS"). To the best of Borrower's knowledge, each Property and the Improvements
+thereon is in compliance in all material respects with all zoning requirements,
+building codes, subdivision improvement agreements, and all covenants,
+conditions and restrictions of record. The zoning and subdivision approval of
+each Property and the right and ability to, use or operate the Improvements are
+not in any way dependent on or related to any real estate other than such
+Property. To the best of Borrower's knowledge, there are no, nor are there any
+alleged or asserted, violations of law, regulations, ordinances, codes, permits,
+licenses, declarations, covenants, conditions, or restrictions of record, or
+other agreements relating to the Project, or any part thereof, except to the
+extent compliance is excused by the Bankruptcy Code or the Orders.
+
+        4.6. PROPERTY ACCESS. Subject to such items as may be disclosed in a
+Schedule (approved by Lender) to this Agreement, to Borrower's knowledge, each
+Property is accessible through fully improved and dedicated roads accepted for
+maintenance and public use by the public authority having jurisdiction.
+
+        4.7. UTILITIES. All utility services reasonably necessary and sufficient
+for the use or operation of each Property and the Improvements thereon are
+available including water, storm, sanitary sewer, gas, electric and telephone
+facilities.
+
+        4.8. FLOOD HAZARDS/WETLANDS. Subject to such items as may be disclosed
+in a Schedule (approved by Lender) to this Agreement, to Borrower's knowledge,
+no Property is situated in an area designated as having special flood hazards as
+defined by the Flood Disaster Protection Act of 1973, as amended, or as a
+wetlands by any governmental entity having jurisdiction over any Property.
+
+        4.9. TAXES/ASSESSMENTS. There are no unpaid or outstanding real estate
+or other taxes or assessments on or against any Property or Improvements or any
+part thereof, except general real estate taxes not yet due or payable or taxes
+for which payment is stayed by the Bankruptcy Court. Copies of the current
+general real estate tax bills with respect to each Property and the Improvements
+thereon have been delivered to Lender. Each such bill covers the entire
+applicable Property and does not cover or apply to any other property. There is
+no pending or contemplated action pursuant to which any special assessment may
+be levied against any portion of the Project.
+
+        4.10. EMINENT DOMAIN. There is no eminent domain or condemnation
+proceeding pending or, to the best of Borrower's knowledge threatened, relating
+to any Property or Improvements.
+
+        4.11. LITIGATION. Except as set forth in Exhibit D attached hereto and
+except for the Bankruptcy Cases, there is no unstayed litigation, arbitration or
+other proceeding or governmental investigation pending or, to the best of
+Borrower's knowledge, threatened
+
+
+
+
+                                      -9-
+<PAGE>
+
+against or relating to any Borrower or any of their respective property, assets,
+or business, including the Project, which if decided adversely would materially
+and adversely affect the business, affairs, assets or financial condition of any
+Borrower, any Property or the Improvements located thereon, or the prospects for
+repayment of the Loan.
+
+        4.12. ACCURACY. Neither this Agreement nor any document, financial
+statement, credit information, certificate or written statement furnished to
+Lender by any Borrower contains any untrue statement of a material fact or omits
+to state a material fact which would affect Lender's decision to make the Loan
+and all projections contained in such documents and statements are based on
+reasonable assumptions.
+
+        4.13. FOREIGN OWNERSHIP. No Borrower is or will be held, directly or
+indirectly, by a "FOREIGN CORPORATION", "FOREIGN PARTNERSHIP", "FOREIGN TRUST",
+"FOREIGN ESTATE", "FOREIGN PERSON", "AFFILIATE" of a "FOREIGN PERSON" or a
+"UNITED STATES INTERMEDIARY" of a "FOREIGN PERSON" within the meaning of IRC
+Sections 897 and 1445, the Foreign Investments in Real Property Tax Act of 1980,
+the International Foreign Investment Survey Act of 1976, the Agricultural
+Foreign Investment Disclosure Act of 1978, or the regulations promulgated
+pursuant to such Acts or any amendments to such Acts.
+
+        4.14. FINANCIAL STATEMENT/NO CHANGE. Borrower has heretofore delivered
+to Lender copies of the financial statements of ALC dated August 31, 2001. Said
+financial statements were prepared on a basis consistent with that of preceding
+years, and all of such financial statements present fairly the financial
+condition of ALC as of the dates in question and the results of operations for
+the periods indicated. Since the dates of such statements, other than the filing
+of the Bankruptcy Cases by Borrower, there has been no material adverse change
+in the business or financial condition of Borrower. Borrower has no material
+contingent liabilities not provided for or disclosed in said financial
+statements or arising as a result of the Bankruptcy Case or incurred in the
+ordinary course of business.
+
+        4.15. NO BROKER. No brokerage commission or finder's fee is owing to any
+broker or finder arising out of any actions or activity of Borrower in
+connection with the Loan.
+
+        4.16. SUBSIDIARY INDEBTEDNESS. The outstanding principal balance of the
+Subsidiary Indebtedness indicated on Exhibit B is true and correct in all
+material respects as of the date specified therein.
+
+        4.17. SPECIAL PURPOSE ENTITY. Carriage House: (i) does not hold,
+directly or indirectly, any ownership interest (legal or equitable) in any real
+or personal property other than the interest which it owns in its Property and
+other assisted living facilities and land, any personal property used in
+connection therewith, any Leases thereof and any contract rights with respect
+thereto; (ii) is not a shareholder or partner or member of any other entity; and
+(iii) does not conduct any business other than the ownership, management and
+operation of its Property and other assisted living facilities and land.
+
+        4.18. EMPLOYEES. Carriage House does not have any employees and shall
+not have any employees until after the date on which the entire principal
+balance of the Loan and all
+
+
+
+
+                                      -10-
+<PAGE>
+
+interest thereon and all other sums due pursuant to the Loan Documents have been
+repaid in full.
+
+
+                                   ARTICLE V
+                              AFFIRMATIVE COVENANTS
+
+        5.1. INSPECTION. Subject to the rights of tenants under Leases, Lender
+and its authorized agents may enter upon and inspect the Project at all
+reasonable times upon reasonable advance notice given orally or in writing to
+Borrower. Lender, at Borrower's expense, shall retain one or more independent
+consultants to periodically inspect the Project and all documents, drawings,
+plans, and consultants' reports relating thereto; provided, however, that such
+inspections shall not occur more frequently than annually unless an Event of
+Default has occurred and is continuing or Lender has a good faith reason to do
+so. On the first (1st) day of each month during the term of the Loan, each
+Borrower shall pay to Lender, in addition to all other amounts due under the
+Loan Documents, the sum of Two Hundred Fifty and No/100 Dollars ($250.00), which
+Lender shall apply against the cost of the aforesaid inspections.
+
+        5.2. BOOKS AND RECORDS/AUDITS. Borrower shall keep and maintain at all
+times at Borrower's address stated below, or such other place as Lender may
+approve in writing, complete and accurate books of accounts and records adequate
+to reflect the results of the operation of the Project on a Property-by-Property
+basis and to provide the financial statements required to be provided to Lender
+pursuant to Section 5.3 below and copies of all written contracts,
+correspondence, reports of Lender's independent consultant, if any, and other
+documents affecting the Project. Lender and its designated agents shall have the
+right to inspect and copy any of the foregoing at all reasonable times upon
+reasonable advance notice. Additionally, Lender may audit and determine, in
+Lender's sole and absolute discretion, the accuracy of Borrower's records and
+computations; provided, however, that such audits shall not occur more
+frequently than annually unless an Event of Default has occurred and is
+continuing or Lender has a good faith reason to do so. The costs and expenses of
+the audit shall be paid by Borrower if the audit discloses a monetary variance
+in any financial information or computation equal to or greater than the greater
+of: (i) five percent (5%); or (ii) Five Thousand and No/100 Dollars ($5,000.00)
+more than any computation submitted by Borrower.
+
+        5.3. FINANCIAL STATEMENTS; BALANCE SHEETS. Borrower shall furnish to
+Lender such financial statements and other financial information as Lender may
+from time to time reasonably request. All such financial statements shall show
+all material contingent liabilities and shall accurately and fairly present the
+results of operations and the financial condition of Borrower at the dates and
+for the period indicated. Without limitation of the foregoing, Borrower shall
+furnish to Lender the following statements:
+
+             5.3.1. MONTHLY AND ANNUAL OPERATING STATEMENTS. Statements of the
+operation of the Project on a Property-by-Property basis (including a current
+rent roll, monthly operating statements, monthly delinquency reports and monthly
+schedules of receivables) as of the last day of each month, to be delivered
+within twenty (20) days after
+
+
+
+
+                                      -11-
+<PAGE>
+
+the end of each month and certified by Borrower as true, correct, and complete,
+and yearly statements of the operation of the Project on a Property-by-Property
+basis, to be delivered within ninety (90) days after the end of each fiscal year
+and certified by Borrower as true, correct, and complete.
+
+             5.3.2. ANNUAL BALANCE SHEETS AND FINANCIAL STATEMENTS. Annual
+audited and quarterly unaudited consolidated balance sheets and financial
+statements from Borrower, within ninety (90) days of the end of each fiscal year
+which are true and correct in all respects, have been prepared in accordance
+with generally accepted accounting principles, and fairly present in all
+material respects the financial condition(s) of the person(s) referred to
+therein as of the date(s) indicated.
+
+             5.3.3. AUDITS. If Borrower fails to furnish or cause to be
+furnished promptly any report required by this Section 5.3, or if Lender
+reasonably deems such reports to be unacceptable, Lender may elect (in addition
+to exercising any other right and remedy) to conduct an audit of all books and
+records of Borrower which in any way pertain to the Project and to prepare the
+statement or statements which Borrower failed to procure and deliver. Such audit
+shall be made and such statement or statements shall be prepared at Lender's
+option, either internally by Lender or by an independent firm of certified
+public accountants to be selected by Lender. Borrower shall pay all reasonable
+costs and expenses of the audit and other services, whether performed internally
+or by an independent firm, which costs and expenses shall be immediately due and
+payable with interest thereon at the default rate contained in the Notes.
+
+        5.4. USE OF PROCEEDS. Borrower shall use the proceeds of the Loan for
+proper business purposes. No portion of the proceeds of the Loan shall be used
+by Borrower in any manner that might cause the borrowing or the application of
+such proceeds to violate Regulation U, Regulation T or Regulation X or any other
+regulation of the Board of Governors of the Federal Reserve System or to violate
+the Securities Act of 1933 or the Securities Exchange Act of 1934.
+
+        5.5. NOTICE OF LITIGATION OR DEFAULT. Borrower shall within a reasonable
+period of time provide Lender with:
+
+             (a) written notice of any litigation, arbitration, or other
+        proceeding or governmental investigation pending or, to Borrower's
+        knowledge, threatened against or relating to any Borrower or any
+        Property, which if decided adversely, could reasonably be expected to
+        have a material adverse effect on any Borrower or any Property; and
+
+             (b) a copy of all notices of material default and violations of
+        laws, regulations, codes, ordinances and the like received by any
+        Borrower relating to any Borrower, the Collateral or any Property (other
+        than any defaults caused by the filing of the Bankruptcy Cases).
+
+
+
+
+                                      -12-
+<PAGE>
+
+        5.6. AFFILIATE TRANSACTIONS. Any agreement by a Borrower with an
+Affiliate pertaining to the Project shall be on terms no less favorable to such
+Borrower than would be obtained from a non-Affiliate. Borrower shall deliver to
+Lender a copy of each such agreement. If requested by Lender, such agreement
+shall provide Lender the right to terminate it upon Lender's (or its designee's)
+acquisition of the Project through foreclosure, a deed-in-lieu of foreclosure,
+UCC sale or otherwise.
+
+             "AFFILIATE" means with respect to any individual, trust, estate,
+partnership, limited liability company, corporation or any other incorporated or
+unincorporated organization (each a "PERSON"), a Person that directly or
+indirectly, through one or more intermediaries, controls or is controlled by or
+is under common control with any Borrower; any officer, director, partner or
+shareholder of such Borrower; any relative of any of the foregoing. The term
+"CONTROL" means possession, directly or indirectly, of the power to direct or
+cause the direction of the management and policies of a Person, whether through
+the ownership of voting securities, by contract or otherwise.
+
+        5.7. ADVERTISEMENT. Borrower agrees to allow Lender to advertise in the
+various news or financial media that Lender has provided financing to Borrower.
+
+        5.8. REPLACEMENT RESERVE. At the time of and in addition to the monthly
+installments of interest due under the Notes, Borrower shall pay to Lender, an
+amount equal to the product of Twenty-Five and No/100 Dollars ($25.00)
+multiplied by the number of units in the Project (the "REPLACEMENT RESERVE").
+The Replacement Reserve funds shall be placed in an interest bearing account,
+with all interest earned to be credited to Borrower. On the Maturity Date, the
+monies then remaining on deposit with Lender shall be applied against the
+Indebtedness or if all Indebtedness has been indefeasibly paid in full, returned
+to Borrower. So long as no Event of Default is then continuing, Borrower may
+request Lender to disburse funds from the Replacement Reserve (which request
+will include a reasonably detailed description of the capital expenditures at
+the Property which Borrower intends to pay for with such funds), which request
+shall not be unreasonably denied by Lender. If requested by Lender, each
+disbursement request will be accompanied by copies of invoices, lien waivers and
+other evidence reasonably required by Lender.
+
+        5.9. NO PROPERTY MANAGER. Borrower is and shall remain the sole manager
+and operator of each of the Properties, and Borrower shall not permit or
+contract with any other Person to manage or operate any of the Properties.
+
+        5.10. FINAL FINANCING ORDER. Borrower shall obtain the entry of a
+Financing Order (the "FINAL FINANCING ORDER") on or before October 31, 2001,
+which Final Financing Order shall contain the same terms as the Interim
+Financing Order with such changes as Lender may approve in its sole discretion.
+
+
+
+
+                                      -13-
+<PAGE>
+
+                                   ARTICLE VI
+                               NEGATIVE COVENANTS
+
+        6.1. NO AMENDMENTS. Borrower shall not amend, modify or terminate, or
+permit the amendment, modification or termination of the Incorporation
+Documents.
+
+        6.2. NO ADDITIONAL INDEBTEDNESS. Carriage House shall not, without
+Lender's prior written consent, incur additional indebtedness, except for (a)
+trade payables in the ordinary course of business, (b) up to $50,000 in the
+aggregate for purchase money debt to purchase and, capital leases of, vehicles,
+equipment and other capital items to be used solely in connection with the
+operation of its Property and which are reasonably related to the operation of
+assisted living facilities, and (c) the Subsidiary Indebtedness indicated on
+Exhibit B with respect to Carriage House.
+
+        6.3. INTENTIONALLY OMITTED.
+
+        6.4. LIENABLE WORK. No excavation, construction, earth work, site work
+or any other mechanic's lienable work shall be done to or for the benefit of any
+Property, without Lender's approval, which shall not be unreasonably withheld,
+except for normal repair and maintenance in the ordinary course of business and
+up to $25,000 of work annually at each Property which does not decrease the
+value of such Property.
+
+        6.5. CONVERSION. Borrower shall not, and shall not permit, the Project
+or any portion thereof to be converted or take any preliminary actions which
+could lead to a conversion to condominium or cooperative form or ownership.
+
+        6.6. USE OF PROPERTY. Unless required by applicable law, Borrower shall
+not permit changes in the use of any Property from the use existing at the
+Closing Date. Borrower shall not initiate or acquiesce in a change in the plat
+of subdivision, or zoning classification of any Property without Lender's prior
+written consent.
+
+
+                                  ARTICLE VII
+            EVENTS OF DEFAULT; ACCELERATION OF INDEBTEDNESS; REMEDIES
+
+        7.1. EVENTS OF DEFAULT. The occurrence of any one or more of the
+following events shall constitute an "EVENT OF DEFAULT" under this Agreement:
+
+             (a) Failure of Borrower to pay, within five (5) days of the due
+        date, any interest or principal payment required to be made under the
+        Notes or this Agreement, and within five (5) days after notice, any of
+        the other payment obligations of Borrower to Lender, including any other
+        payment due under the Notes or this Agreement or the other Loan
+        Documents (all interest, principal and all other amounts coming due
+        under any of the Loan Documents is referred to collectively as the
+        "INDEBTEDNESS"); or
+
+             (b) A breach of the representations contained in Section 4.17
+        (special purpose entity), or failure of Borrower to strictly comply with
+        the provisions of Sections 5.1
+
+
+
+
+                                      -14-
+<PAGE>
+
+        (inspection; provided, however, Borrower's obligation to pay for the
+        cost of inspections pursuant to Section 5.1 shall be treated as a
+        payment obligation pursuant to subsection 7.1(a) above.) or 5.10 (final
+        financing order); or
+
+             (c) Breach of any covenant, representation or warranty, whether in
+        this Agreement or in any other Loan Document, other than as set forth in
+        subsections (a) and (b) above, which is not cured within thirty (30)
+        days after notice; provided, however, if such breach cannot by its
+        nature be cured within thirty (30) days, and Borrower diligently pursues
+        the curing thereof (and then in all events cures such failure within
+        sixty (60) days after the original notice thereof), Borrower shall not
+        be in default hereunder; provided, further that if such breach results
+        from the commencement of any administrative or other proceeding seeking
+        license revocation or suspension or limitation on admission of residents
+        to any of the Properties (collectively, "REGULATORY ACTION") by any
+        federal or state regulatory agency, and Borrower is unable to cure such
+        breach within the cure period set forth in the immediately preceding
+        proviso, then Borrower shall not be in default hereunder as a result of
+        such Regulatory Action unless (a) Borrower fails to promptly, in any
+        event, within thirty (30) days following such Regulatory Action,
+        commence resolution of the matter and thereafter diligently and
+        continuously prosecute in good faith a settlement, dismissal or
+        resolution of such Regulatory Action; (b) the Property in question fails
+        to be continuously operated by Borrower as an assisted living facility;
+        or (c) the license to operate the Property in question has terminated
+        and Borrower has no appeal rights; or
+
+             (d) Without prior approval of the Bankruptcy Court and the prior
+        written consent of Lender, Borrower makes any payment of any proceeds
+        constituting part of the Loan or other cash to any unsecured creditor of
+        Borrower on account of claims arising prior to the commencement of the
+        Bankruptcy Case (including without limitation payments in respect of
+        reclamation claims of unpaid suppliers of goods delivered to Borrower
+        prior to the commencement of the Bankruptcy Case (regardless of whether
+        such claims have been granted administrative expense priority status
+        pursuant to Section 546(c) of the Bankruptcy Code) prior to confirmation
+        of a plan of reorganization, but excluding any payments necessary to
+        cure defaults under any executory contracts or unexpired leases assumed
+        by Borrower with the approval of the Bankruptcy Court and ALC employee
+        wages, ALC payroll taxes, ALC employee benefits, utility bills and other
+        amounts payable prior to the commencement of the Bankruptcy Case which
+        are described on Exhibit E attached hereto; or
+
+             (e) A petition under any Chapter of Title 11 of the United States
+        Code or any similar law or regulation is filed by or against any
+        Subsidiary (excluding Carriage House) (and in the case of an involuntary
+        petition in bankruptcy, such petition is not discharged within sixty
+        (60) days of its filing), or a custodian, receiver or trustee for any
+        property owned by any Subsidiary (excluding Carriage House) is
+        appointed, or any Subsidiary (excluding Carriage House) makes an
+        assignment for the benefit of creditors, or any of them are adjudged
+        insolvent by any state or federal court of competent jurisdiction, or
+        any of them admit their insolvency or inability to pay their
+
+
+
+
+                                      -15-
+<PAGE>
+
+        debts as they become due or an attachment or execution is levied against
+        any of their respective properties. Upon the occurrence of an Event of
+        Default specified in this subsection 7.1(e) which is caused by (A) any
+        Borrower, any Subsidiary or any party to the Plan Support Agreement
+        among Borrower and others dated ______________, 2001, (the "PLAN
+        AGREEMENT"), or (B) any entity or person which is not a party to the
+        Plan Agreement and which causes Lender to suffer a loss, then in
+        addition to all other remedies which Lender may have as a result of such
+        event, Borrower shall also pay Lender an exit fee in the amount of
+        $1,000,000; or
+
+             (f) Borrower fails to perform any of the terms, covenants,
+        conditions or provisions contained in any of the Financing Orders or any
+        of the Financing Orders is vacated; or
+
+             (g) The occurrence of a default and the expiration of any cure
+        period applicable thereto under any Loan Document; or
+
+             (h) Any Event of Default under (and as defined in) any of the
+        Subsidiary Loan Documents; or
+
+             (i) Except to the extent that such default, or the exercise of
+        remedies with respect to such default, is excused or prevented by the
+        Bankruptcy Court or applicable bankruptcy law, Borrower shall default in
+        the payment of any indebtedness in an aggregate outstanding principal
+        amount greater than $500,000 (other than the Indebtedness), and such
+        default is declared and is not cured within the time, if any, specified
+        therefor in any agreement governing the same; or
+
+             (j) Any written statement, report or certificate made or delivered
+        to Lender by any Borrower is not materially true and complete when made;
+        or
+
+             (k) If at any time the Debt Coverage Ratio for the Project for the
+        immediately preceding three (3) months shall fall below 1.50:1.00.; or
+
+             (l) If at any time the Project Yield for the immediately preceding
+        three (3) months shall fall below twenty-five percent (25%); or
+
+             (m) If Borrower fails to fulfill a condition subsequent described
+        in Article III above within sixty (60) days after such item is requested
+        in writing by Lender.
+
+        "DEBT COVERAGE RATIO" means the ratio of (i) Net Operating Income from
+        the Project for a particular period, as determined by Lender's audit, at
+        Borrower's expense (or at Lender's option, as reasonably determined by
+        Lender), to (ii) payments of interest due on the Loan for the same
+        period.
+
+        "PROJECT YIELD" means the quotient (expressed as a percentage) as
+        reasonably determined by Lender of (x) the annualized Net Operating
+        Income from the Project, as determined by Lender's audit, at Borrower's
+        expense (or at Lender's option, as
+
+
+
+
+                                      -16-
+<PAGE>
+
+        reasonably estimated by Lender), divided by (y) the then-current
+        outstanding principal balance of the Loan plus all accrued but unpaid
+        interest thereon.
+
+        For purposes of subsections 7.1(k) and (l) above only, the term
+        "PROJECT" shall also include all of the Included Properties as defined
+        in the Subsidiary Loan Agreement and the term "LOAN" shall also include
+        the Loan as defined in the Subsidiary Loan Agreement.
+
+        7.2. ACCELERATION; REMEDIES. Upon the occurrence of an Event of Default,
+at the option of Lender, the Indebtedness shall become immediately due and
+payable without notice to Borrower and Lender shall be entitled to all of the
+rights and remedies provided in the Loan Documents or at law or in equity. Each
+remedy provided in the Loan Documents is distinct and cumulative to all other
+rights or remedies under the Loan Documents or afforded by law or equity, and
+may be exercised concurrently, independently, or successively, in any order
+whatsoever.
+
+
+                                  ARTICLE VIII
+                                  MISCELLANEOUS
+
+        8.1. EXPENDITURES AND EXPENSES. Borrower shall promptly pay all
+reasonable Costs (defined below) incurred by Lender in connection with the
+documentation, closing, making disbursements, modification, workout, collection
+or enforcement of the Loan or any of the Loan Documents (as applicable); the
+documentation, negotiation or preparation of any loan documents in connection
+with a possible financing to be extended to Borrower or any of its subsidiaries
+by Lender upon the effective date of a confirmed plan or reorganization in any
+Bankruptcy Case, whether or not such financing closes; and in connection with
+the Bankruptcy Cases (including, without limitation, reasonable attorneys fees
+and expenses incurred in connection with any action to lift the automatic stay
+of Section 362 of the Bankruptcy Code, any other action or participation by
+Lender in the Bankruptcy Cases or any defense or participation by Lender in any
+lender liability or other actions involving Lender or the validity, priority,
+extent of liens or otherwise affecting the Collateral); and all such Costs shall
+be included as additional Indebtedness bearing interest at the interest rate
+then applicable to the Indebtedness until paid. For the purposes hereof "COSTS"
+means all expenditures and expenses which may be paid or incurred by or on
+behalf of Lender including repair costs, payments to remove or protect against
+liens, attorneys' fees (including fees of Lender's inside counsel), receivers'
+fees, engineers' fees, accountants' fees, independent consultants' fees
+(including environmental consultants), all costs and expenses incurred in
+connection with any of the foregoing, Lender's out-of-pocket costs and expenses
+related to any audit or inspection of the Project, outlays for documentary and
+expert evidence, stenographers' charges, stamp taxes, publication costs, and
+costs (which may be estimates as to items to be expended after entry of an order
+or judgment) for procuring all such abstracts of title, title and UCC searches,
+and examination, title insurance policies, Torrens' Certificates and similar
+data and assurances with respect to title as Lender may deem reasonably
+necessary either to prosecute any action or to evidence to bidders at any
+foreclosure sale of the Project the true condition of the title to, or the value
+of, the Project or any part thereof.
+
+
+
+
+                                      -17-
+<PAGE>
+
+        8.2. DISCLOSURE OF INFORMATION. Lender shall have the right (but shall
+be under no obligation) to make available to any party for the purpose of
+granting participations in or selling, transferring, assigning or conveying all
+or any part of the Loan (including any governmental agency or authority and any
+prospective bidder at any foreclosure sale of the Project or any part thereof)
+any and all information which Lender may have with respect to the Project and
+Borrower, whether provided by Borrower or any third party or obtained as a
+result of any environmental assessments. Lender agrees to exercise reasonable
+efforts to keep any confidential information delivered in connection with the
+Loan Documents, confidential from Persons other than those employed by or
+engaged by Lender and those employed by or engaged by Lender's assignees or
+participants, or potential assignees or participants; provided, however, this
+sentence shall not apply to disclosures required to be made by Lender to any
+regulatory or governmental agency or pursuant to legal process or in connection
+with any dispute with Borrower or arising out of the Loan Documents in any way.
+Borrower agrees that Lender shall have no liability whatsoever as a result of
+delivering any such information to any third party, and Borrower, on behalf of
+itself and its successors and assigns, hereby release and discharge Lender from
+any and all liability, claims, damages, or causes of action, arising out of,
+connected with or incidental to the delivery of any such information to any
+third party.
+
+        8.3. SALE OF LOAN. Notwithstanding anything to the contrary contained
+herein but subject to the exceptions listed below, so long as no Event of
+Default is then continuing, Lender shall not sell or assign its interest in the
+Loan without the prior written consent of ALC, which consent shall not be
+unreasonably withheld, conditioned or delayed. The immediately preceding
+sentence shall not apply to the following situations: (i) the sale (or
+repurchase) by Lender of any participation(s) in all or any part of its interest
+in the Loan, (ii) the sale or assignment of Lender's interest in the Loan (or
+any portion thereof) to any Person with assets of one billion dollars or more on
+a consolidated basis at the time of such transaction, (iii) the sale or
+assignment of Lender's interest in the Loan (or any portion thereof) to an
+affiliate of Lender, or (iv) the sale or assignment of Lender's interest in the
+Loan (or any portion thereof) if done in connection with the sale, assignment or
+other disposition of all or any substantial portion of Lender's portfolio of
+real estate or healthcare loans of a similar nature.
+
+        8.4. FORBEARANCE BY LENDER NOT A WAIVER. Any forbearance by Lender in
+exercising any right or remedy under any of the Loan Documents, or otherwise
+afforded by applicable law, shall not be a waiver of or preclude the exercise of
+any right or remedy. Lender's acceptance of payment of any sum secured by any of
+the Loan Documents after the due date of such payment shall not be a waiver of
+Lender's right to either require prompt payment when due of all other sums so
+secured or to declare a default for failure to make prompt payment. The
+procurement of insurance or the payment of taxes or other liens or charges by
+Lender shall not be a waiver of Lender's right to accelerate the maturity of the
+Loan, nor shall Lender's receipt of any awards, proceeds, or damages under
+Section 4 of the Mortgage operate to cure or waive Borrower's default in payment
+of sums secured by any of the Loan Documents. With respect to all Loan
+Documents, only waivers made in writing by Lender shall be effective against
+Lender. Lender may, in its sole discretion, waive,
+
+
+
+
+                                      -18-
+<PAGE>
+
+temporarily or permanently, any condition to the making of the Loan or any other
+term in any of the Loan Documents, by delivering a written confirmation thereof
+to Borrower.
+
+        8.5. GOVERNING LAW; SEVERABILITY. The Loan Documents shall be governed
+by and construed in accordance with the internal laws of the State of Illinois,
+except that the provisions of the laws of the state in which each Mortgage is
+recorded shall be applicable to the creation, perfection and enforcement of the
+lien created by that Mortgage. The invalidity, illegality or unenforceability of
+any provision of this Agreement shall not affect or impair the validity,
+legality or enforceability of the remainder of this Agreement, and to this end,
+the provisions of this Agreement are declared to be severable.
+
+        8.6. RELATIONSHIP. The relationship between Lender and Borrower shall be
+that of creditor-debtor only. No term in this Agreement or in the other Loan
+Documents and no course of dealing between the parties shall be deemed to create
+any relationship of agency, partnership or joint venture or any fiduciary duty
+by Lender to any other party.
+
+        8.7. INDEMNITY. Borrower shall indemnify, protect, hold harmless and
+defend Lender, its successors, assigns, shareholders, directors, officers,
+employees, and agents from and against any and all loss, damage, cost, expense
+(including reasonable attorneys' fees), and claims arising out of or in
+connection with (a) the Project, (b) the Collateral, (c) the Bankruptcy Case,
+(d) any act or omission of any Borrower or its employees or agents, whether
+actual or alleged, and (e) any and all brokers' commissions or other costs of
+similar type by any party in connection with the Loan, in each case except to
+the extent arising from the indemnitee's gross negligence or willful misconduct.
+Upon written request by an indemnitee, Borrower will undertake, at its own costs
+and expense, on behalf of such indemnitee, using counsel reasonably satisfactory
+to the indemnitee, the defense of any legal action or proceeding whether or not
+such indemnitee shall be a party and for which such indemnitee is entitled to be
+indemnified pursuant to this section. At Lender's option, Lender may, at
+Borrower's expense, prosecute or defend any action involving the priority,
+validity or enforceability of any of the Loan Documents.
+
+        8.8. NOTICE. Any notice or other communication required or permitted to
+be given shall be in writing addressed to the respective party as set forth
+below and may be personally served, telecopied or sent by overnight courier or
+U.S. Mail and shall be deemed given: (a) if served in person, when served; (b)
+if telecopied, on the date of transmission if before 3:00 p.m. (Chicago time) on
+a business day; provided that a hard copy of such notice is also sent pursuant
+to (c) or (d) below; (c) if by overnight courier, on the first business day
+after delivery to the courier; or (d) if by U.S. Mail, certified or registered
+mail, return receipt requested on the fourth (4th) day after deposit in the mail
+postage prepaid.
+
+
+
+
+                                      -19-
+<PAGE>
+
+Notices to Borrower:          Assisted Living Concepts, Inc.,
+                              11835 NE Glenn Widing Drive
+                              Building E
+                              Portland, Oregon 97220
+                              Attn: Drew Miller and Sandra Campbell
+                              Telecopy: (503) 252-2916
+
+with a copy to:               Latham & Watkins
+                              633 West Fifth Street
+                              Suite 400
+                              Los Angeles, California 90071
+                              Attn: Gary Olson
+                              Telecopy: (213) 891-8763
+
+Notices to Lender:            Heller Healthcare Finance, Inc.
+                              Loan No. 21-139
+                              2 Wisconsin Circle
+                              Suite 400
+                              Chevy Chase, Maryland 20815
+                              Attn:  Manager, Portfolio Administration Group
+                              Telecopy: (301) 664-9843
+
+With a copy to:               Heller Healthcare Finance, Inc.
+                              Loan No. 21-139
+                              500 West Monroe Street
+                              Chicago, Illinois  60661
+                              Attn:  Kevin McMeen, Senior Vice President
+                              Telecopy: (312) 441-7119
+
+And a copy to:                Heller Healthcare Finance, Inc.
+                              Loan No. 21-139
+                              816 Congress Avenue
+                              Suite 1900
+                              Austin, Texas  78701
+                              Attn: Diana Pennington, Vice President and Chief
+                              Counsel, Senior Living Group
+                              Telecopy: (512) 505-5487
+
+        8.9. SUCCESSORS AND ASSIGNS BOUND; JOINT AND SEVERAL LIABILITY; AGENTS;
+AND CAPTIONS. The covenants and agreements contained in the Loan Documents shall
+bind, and the rights thereunder shall inure to, the respective successors and
+assigns of Lender and Borrower, subject to the provisions of this Agreement. All
+covenants and agreements of Borrower shall be joint and several. In exercising
+any rights under the Loan Documents or taking any actions provided for therein,
+Lender may act through its employees, agents or independent contractors as
+authorized by Lender. The captions and headings of the
+
+
+
+
+                                      -20-
+<PAGE>
+
+paragraphs and sections of this Agreement are for convenience only and are not
+to be used to interpret or define the provisions hereof.
+
+        8.10. TERMS AND USAGE. As used in the Loan Documents "BUSINESS DAY"
+means any day, other than a Saturday or a Sunday, when banks in Chicago,
+Illinois are not required or authorized to be closed.
+
+        8.11. INTENTIONALLY OMITTED.
+
+        8.12. TIME OF ESSENCE. Time is of the essence of this Agreement and the
+other Loan Documents and the performance of each of the covenants and agreements
+contained herein and therein.
+
+        8.13. VENUE. BORROWER HEREBY CONSENTS TO THE JURISDICTION OF THE
+BANKRUPTCY COURT AND IRREVOCABLY AGREES THAT ALL ACTIONS OR PROCEEDINGS ARISING
+OUT OF OR RELATING TO THIS AGREEMENT OR THE OTHER LOAN DOCUMENTS SHALL BE
+LITIGATED IN SUCH COURT. BORROWER EXPRESSLY SUBMITS AND CONSENTS TO THE
+JURISDICTION OF THE AFORESAID COURT AND WAIVES ANY DEFENSE OF FORUM NON
+CONVENIENS. IF (A) THE BANKRUPTCY CASE IS DISMISSED, (B) THE BANKRUPTCY COURT
+ABSTAINS FROM HEARING ANY ACTIONS OR PROCEEDINGS ARISING IN CONNECTION WITH THIS
+AGREEMENT OR THE OTHER LOAN DOCUMENTS ("FINANCING AGREEMENT PROCEEDINGS"), OR
+(C) THE BANKRUPTCY COURT REFUSES TO EXERCISE JURISDICTION OVER A FINANCING
+AGREEMENT PROCEEDING OR OTHERWISE REFUSES TO HEAR ANY FINANCING AGREEMENT
+PROCEEDING, THEN ALL SUCH FINANCING AGREEMENT PROCEEDINGS SHALL BE TRIED AND
+LITIGATED ONLY IN THE STATE AND FEDERAL COURTS LOCATED IN THE COUNTY OF COOK,
+STATE OF ILLINOIS OR, AT THE SOLE OPTION OF LENDER, IN ANY OTHER COURT IN WHICH
+LENDER SHALL INITIATE LEGAL OR EQUITABLE PROCEEDINGS AND WHICH HAS SUBJECT
+MATTER JURISDICTION OVER THE MATTER IN CONTROVERSY. BORROWER HEREBY WAIVES
+PERSONAL SERVICE OF ANY AND ALL PROCESS AND AGREES THAT ALL SUCH SERVICE OF
+PROCESS MAY BE MADE UPON BORROWER BY CERTIFIED OR REGISTERED MAIL, RETURN
+RECEIPT REQUESTED, ADDRESSED TO BORROWER, AT THE ADDRESS SET FORTH IN THIS
+AGREEMENT AND SERVICE SO MADE SHALL BE COMPLETE TEN (10) DAYS AFTER THE SAME HAS
+BEEN POSTED.
+
+        8.14. JURY TRIAL WAIVER. BORROWER AND LENDER HEREBY WAIVE THEIR
+RESPECTIVE RIGHTS TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING BASED UPON, OR
+RELATED TO, THE SUBJECT MATTER OF THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS
+AND THE BUSINESS RELATIONSHIP THAT IS BEING ESTABLISHED. THIS WAIVER IS
+KNOWINGLY, INTENTIONALLY AND VOLUNTARILY MADE BY BORROWER AND LENDER, AND
+BORROWER ACKNOWLEDGES THAT NEITHER LENDER NOR ANY PERSON ACTING ON BEHALF OF
+LENDER HAS MADE ANY REPRESENTATIONS OF FACT
+
+
+
+
+                                      -21-
+<PAGE>
+
+TO INDUCE THIS WAIVER OF TRIAL BY JURY OR HAS TAKEN ANY ACTIONS WHICH IN ANY WAY
+MODIFY OR NULLIFY ITS EFFECT. BORROWER AND LENDER ACKNOWLEDGE THAT THIS WAIVER
+IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS RELATIONSHIP, THAT EACH OF
+THEM HAS ALREADY RELIED ON THIS WAIVER IN ENTERING INTO THIS AGREEMENT AND THE
+OTHER LOAN DOCUMENTS AND THAT EACH OF THEM WILL CONTINUE TO RELY ON THIS WAIVER
+IN THEIR RELATED FUTURE DEALINGS. BORROWER AND LENDER FURTHER ACKNOWLEDGE THAT
+THEY HAVE BEEN REPRESENTED (OR HAVE HAD THE OPPORTUNITY TO BE REPRESENTED) IN
+THE SIGNING OF THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS AND IN THE MAKING OF
+THIS WAIVER BY INDEPENDENT LEGAL COUNSEL.
+
+        8.15. COUNTERPARTS. This Agreement may be executed in multiple
+counterparts, each of which shall constitute an original, and together shall
+constitute the Agreement.
+
+        8.16. FINAL AGREEMENT. This Agreement (including the Senior Housing
+Rider attached hereto and hereby made a part hereof), together with the other
+Loan Documents, represents the entire agreement among Borrower and Lender and
+supersedes all prior agreements among the parties with respect to the Loan.
+
+        8.17. AMENDMENTS. Except as otherwise provided herein, no amendment,
+modification, termination or waiver of any provision of this Agreement, the
+Notes or any of the other Loan Documents, or consent to any departure by any
+party therefrom, shall in any event be effective unless the same shall be in
+writing and signed by Lender.
+
+
+
+
+
+                                      -22-
+<PAGE>
+
+        IN WITNESS WHEREOF, the parties hereto have executed this Agreement or
+has caused the same to be executed by their duly authorized representatives as
+of the date first above written.
+
+
+
+                             BORROWER:
+
+                             ASSISTED LIVING CONCEPTS, INC.,
+                             a Nevada corporation and Chapter 11
+                             debtor-in-possession
+
+
+                             By:________________________________________________
+                                     Sandra Campbell, Senior Vice President,
+                                     General Counsel and Secretary
+
+
+
+                             CARRIAGE HOUSE ASSISTED LIVING, INC.,
+                             a Delaware corporation and Chapter 11
+                             debtor-in-possession
+
+
+                             By:________________________________________________
+                                     Sandra Campbell, Secretary
+
+
+                             LENDER:
+
+                             HELLER HEALTHCARE FINANCE, INC.,
+                             a Delaware corporation
+
+
+                             By:________________________________________________
+                             Name:______________________________________________
+                             Its:_______________________________________________
+
+
+
+
+                                      -23-
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 1
+----------
+<S>                                         <C>
+Name of Borrower:                           Carriage House Assisted Living, Inc.
+
+Name and Address of Property:               Cottonwood House
+                                            3271 29th Avenue
+                                            Columbus, NE  68601
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 2
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Baldwin House
+                                            10401 North 79th Avenue
+                                            Peoria, AZ  85345
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 3
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Mondell House
+                                            15155 West Mondell Road
+                                            Surprise, AZ  85374
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 4
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Powell House
+                                            806 West Longhorn Road
+                                            Payson, AZ  85541
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 5
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Grayson House
+                                            7509 East Long Look Drive
+                                            Prescott Valley, AZ  86314
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 6
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Aurora House
+                                            675 West Broadway
+                                            Apache Junction, AZ  85220
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 7
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Copper Hills House
+                                            12234 E. North Frontage Road
+                                            Yuma, AZ  85367
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                              PROPERTY DESCRIPTIONS
+
+
+
+<TABLE>
+<CAPTION>
+PROPERTY 8
+----------
+<S>                                         <C>
+Name of Borrower:                           Assisted Living Concepts, Inc.
+
+Name and Address of Property:               Cameron House
+                                            244 North Extension Road
+                                            Mesa, AZ  85201
+
+Legal Description:                          See following page
+
+Permitted Liens:                            None
+</TABLE>
+
+
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                             SUBSIDIARY INDEBTEDNESS
+
+
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------
+                                   Outstanding
+                                Principal Balance         Amount of         Remaining Principal
+                                  of Subsidiary           Subsidiary             Balance of
+                               Indebtedness as of     Indebtedness To Be         Subsidiary
+         Subsidiary              October 1, 2001      Capitalized by ALC        Indebtedness
+-------------------------------------------------------------------------------------------------
+<S>                              <C>                    <C>                    <C>
+ALC Ohio, Inc.,                  $ 9,985,310.61         $3,000,000.00          $ 6,985,310.61
+-------------------------------------------------------------------------------------------------
+ALC Pennsylvania, Inc.           $10,059,003.25         $3,000,000.00          $ 7,059,003.25
+-------------------------------------------------------------------------------------------------
+ALC, Iowa, Inc.                  $ 6,563,833.29         $3,000,000.00          $ 3,563,833.29
+-------------------------------------------------------------------------------------------------
+ALC Nebraska, Inc.               $ 2,835,161.23         $2,835,161.23          $         0.00
+-------------------------------------------------------------------------------------------------
+ALC New Jersey, Inc.             $ 4,090,867.77         $3,000,000.00          $ 1,090,867.77
+-------------------------------------------------------------------------------------------------
+ALC Indiana, Inc.                $20,562,255.74         $3,000,000.00          $17,562,255.74
+-------------------------------------------------------------------------------------------------
+</TABLE>
+
+<PAGE>
+
+                                    EXHIBIT C
+
+                             INTERIM FINANCING ORDER
+
+
+
+
+
+<PAGE>
+
+                                    EXHIBIT D
+
+                                   LITIGATION
+
+
+1.      Confidential Preliminary Inquiry of the Securities and Exchange
+        Commission (the "SEC"). After the inception of the class action
+        securities litigation against ALC in February, 1999, the enforcement
+        division of the SEC informed ALC that the SEC had begun a confidential
+        preliminary inquiry. The SEC requested that ALC voluntarily participate
+        in the inquiry by providing documents the SEC had requested. ALC
+        voluntarily participated by providing those documents. The SEC has not
+        commenced any formal investigation to ALC's knowledge.
+
+2.      Assisted Living Concepts, Inc. v. National Union Fire Insurance Company
+        of Pittsburgh, Pennsylvania ("NUFI"). This arbitration proceeding arises
+        out of the coverage dispute involving the Policy that NUFI issued
+        effective October 21, 1997, insuring ALC and its officers and directors
+        during the three-year policy period against claims of wrongful acts,
+        including securities claims. When the class action securities litigation
+        commenced, ALC tendered the claim to NUFI, which accepted it with a
+        reservation of rights. NUFI never issued any notice of rescission. In
+        fact, on September 1, 2000, NUFI consented to settlement of the class
+        action litigation, including payment of its full policy limits to
+        plaintiffs. However, at the same time and despite having consented to
+        the settlement of the class action and payment of its policy limits,
+        NUFI continues to assert a claim to rescission based on fraud in certain
+        of ALC's financial statements, later restated. NUFI alternatively
+        asserts the right to reimbursement from ALC, asserting that coverage is
+        excluded because the insureds "improperly profited." With regard to
+        NUFI's claims, in the settlement agreement NUFI agreed to cap its
+        potential recovery in an amount not to exceed $4 million. Under the
+        settlement agreement, even if NUFI were to prevail, any amount awarded
+        NUFI would not be due until 90 days after ALC satisfied its obligations
+        to the class action plaintiffs, with any such awarded amount
+        subordinated to new or refinancing of existing obligations. Because
+        mediation between the parties failed, ALC filed a Demand for Arbitration
+        on or about September 19, 2000. The parties have selected the
+        arbitrators, and no hearing is currently scheduled ; however, it is
+        anticipated that if there is a hearing, it will occur in the first
+        quarter of 2002.
+
+3.      Complaint Investigations at Bennett House, Christina House and Whitlock
+        House. Between August 8, 2001 and August 16, 2001, the Department of
+        Health for the State of Indiana investigated complaints at the above
+        referenced facilities located in New Albany, Franklin and
+        Crawfordsville, Indiana, respectively. These investigations were to
+        ensure ALC's compliance with the Program Description agreed to with the
+        Department in early 2001 regarding services the Houses are authorized to
+        provide under Indiana law. To the best of ALC's knowledge, the
+        Department has taken no action as a result of the investigations.
+
+
+
+<PAGE>
+
+                                    EXHIBIT E
+
+                        APPROVED PRE-BANKRUPTCY EXPENSES
+
+
+<TABLE>
+<S>          <C>                                         <C>
+1.           Ordinary Course Professionals               $   158,480
+
+2.           Wages and Benefits                          $ 4,500,000
+
+3.           Sales and Use Taxes                         $     6,400
+
+4.           Utilities                                   $ 1,300,000
+
+5.           Worker's Compensation Policies              $   500,000
+
+6.           Goods Ordered Prepetition                   $ 1,500,000
+
+7.           Common Carriers and Warehouse Fees          $    38,000
+
+8.           Critical Trade Vendors                      $ 1,000,000
+
+9.           Prepetition Refunds to Residents            $ 2,500,000
+
+10.          Regulatory Agency Fees                      $   125,000
+
+11.          TOTAL                                       $11,660,000
+</TABLE>
+
+
+
+<PAGE>
+
+                                   SCHEDULE I
+
+                       CALCULATION OF NET OPERATING INCOME
+
+
+"NET OPERATING INCOME" means annualized Revenue less Expenses, all as determined
+by Lender in its reasonable discretion.
+
+"REVENUE" means the lesser of (i) annualized Adjusted Actual Rent or (ii)
+annualized Monthly Effective Rent. In determining Revenue, the occupancy factor
+utilized shall be the lesser of (a) actual occupancy or (b) an assumed
+ninety-five percent (95%) occupancy rate.
+
+"ADJUSTED ACTUAL RENT" means (a) all amounts collected from tenants of the
+Property (excluding ALC) for the most current month three (3) months, excluding
+nonrecurring income and non-property related income (as determined by Lender in
+its reasonable discretion) and income from tenants (i) that are thirty (30) or
+more days delinquent, (ii) that are in bankruptcy (even if current), (iii)
+non-residential tenants whose leases terminate within six (6) months (as
+adjusted for space re-leased upon terms acceptable to Lender in its reasonable
+discretion) or (iv) that have been delinquent four (4) or more times during the
+past twelve (12) months, and (b) other revenue not to exceed ten percent (10%)
+of the amounts included in clause (a) above for laundry, vending, parking and
+other occupancy payments (but excluding late fees and interest income) based
+upon collections for the previous three (3) months annualized.
+
+"MONTHLY EFFECTIVE RENT" means an amount equal to (x) total rent due over the
+term of the leases less any payments or concessions which Lender, in its sole
+discretion, deems to be a rent concession, divided by (y) the total number of
+months in the leases.
+
+"EXPENSES" means actual and customary operating expenses on a stabilized accrual
+basis for the previous three (3) month period (as reasonably adjusted and
+annualized by Lender), incurred by any Borrower, including: (i) recurring
+expenses (e.g., tenant improvements, leasing commissions, carpeting replacement,
+appliance and drapery replacement and such others as reasonably determined by
+Lender), (ii) real estate taxes, (iii) management fees (whether paid or not) in
+an amount not less than four percent (4%) of effective gross income, and (iv) a
+replacement reserve (whether drawn and whether reserved or not) of not less than
+Three Hundred and No/100 Dollars ($300.00) per unit.
+
+
+
+<PAGE>
+
+                                   SCHEDULE II
+
+                             INDEX OF DEFINED TERMS
+
+
+<TABLE>
+<CAPTION>
+DEFINED TERM                                                               PAGE
+------------                                                               ----
+<S>                                                                        <C>
+Adjusted Actual Rent - Schedule I.............................................1
+Affiliate....................................................................13
+Agreement.....................................................................1
+ALC...........................................................................1
+Assignments of Leases.........................................................1
+Bankruptcy Case...............................................................2
+Bankruptcy Code...............................................................2
+Bankruptcy Court..............................................................2
+Base Rate.....................................................................3
+Borrower......................................................................1
+business day.................................................................21
+Carriage House................................................................1
+Closing Date..................................................................2
+Collateral....................................................................4
+control......................................................................13
+Costs........................................................................17
+Debt Coverage Ratio.......................,..................................17
+Environmental Indemnity.......................................................4
+Event of Default.............................................................14
+Expenses - Schedule I.........................................................1
+Final Financing Order........................................................14
+FINANCING AGREEMENT PROCEEDINGS..............................................21
+Financing Order...............................................................7
+FIRREA........................................................................5
+Improvements..................................................................1
+Incorporation Documents.......................................................8
+Indebtedness.................................................................15
+Interest Rate.................................................................3
+Interim Financing Order.......................................................7
+Leases........................................................................5
+Lender........................................................................1
+Loan..........................................................................1
+Loan Documents................................................................2
+Management and Operating Agreement............................................4
+Maturity Date.................................................................2
+Monthly Effective Rent - Schedule I...........................................1
+Mortgage......................................................................1
+Mortgages.....................................................................1
+Net Operating Income - Schedule I.............................................1
+Note A........................................................................1
+Note B........................................................................1
+Notes.........................................................................1
+Permitted Liens...............................................................9
+Person.......................................................................13
+Plan Agreement...............................................................16
+Pledge........................................................................2
+Project.......................................................................1
+Project Yield................................................................17
+Properties....................................................................1
+Property......................................................................1
+Regulatory Action............................................................15
+Replacement Reserve..........................................................13
+Revenue - Schedule I..........................................................1
+Subsidiaries..................................................................7
+Subsidiary Indebtedness.......................................................7
+Subsidiary Loan Agreement.....................................................7
+Subsidiary Loan Documents.....................................................7
+Subsidiary Note Assignment....................................................7
+Title Commitment..............................................................5
+Title Policy..................................................................5
+</TABLE>
+
+
+<PAGE>
+
+                              SENIOR HOUSING RIDER
+
+
+               THIS SENIOR HOUSING RIDER is attached to and made a part of that
+certain Loan Agreement dated as of the 3rd day of October, 2001, among ASSISTED
+LIVING CONCEPTS, INC., a Nevada corporation and Chapter 11 debtor-in-possession
+("ALC"), CARRIAGE HOUSE ASSISTED LIVING, INC., a Delaware corporation and
+Chapter 11 debtor-in-possession ("CARRIAGE HOUSE"; ALC and Carriage House are
+hereafter collectively referred to as "BORROWER") and HELLER HEALTHCARE FINANCE,
+INC., a Delaware corporation ("LENDER"). To the extent of any conflict between
+the terms and provisions of this Rider and the terms and provisions of the Loan
+Agreement, the terms and provisions of this Rider shall govern and control the
+rights and obligations of the parties.
+
+               R-1. All terms not defined in this Rider shall have the meanings
+ascribed to such terms as set forth in the Loan Agreement.
+
+               R-2. The following representations, warranties and covenants are
+hereby added to the representations, warranties and covenants contained in the
+Loan Agreement
+
+               Borrower represents, covenants, and warrants, as of the date
+hereof and through the term of Loan, as follows:
+
+               (a) Borrower is using and operating or upon completion of the
+        Improvements will use and operate the Properties and Improvements
+        (collectively, the "FACILITIES") as independent and assisted living
+        facilities, with the number of units specified on Exhibit R-1 hereto (as
+        modified from time to time with Lender's consent, which consent Lender
+        may grant or withhold in its reasonable discretion, the "LICENSED USE").
+        Borrower complies and throughout the term of the Loan will comply in all
+        material respects with all federal, state and local laws, regulations,
+        quality and safety standards, accreditation standards and requirements
+        applicable to use and operation of the Facilities of the applicable
+        state regulatory authority (each a "DOH") and all other federal, state
+        or local governmental authorities including those relating to the
+        quality and adequacy of medical care, distribution of pharmaceuticals,
+        rate setting, equipment, personnel, operating policies, additions to
+        facilities and services and fee splitting. The Facilities which are
+        owned, leased or operated by Borrower shall be operated at all times in
+        compliance with such laws and requirements.
+
+               (b) All governmental licenses, permits, regulatory agreements or
+        other approvals or agreements necessary or desirable for the Licensed
+        Use of the Facilities are held or upon completion of the Improvements
+        will be held by Borrower in the name of the Borrower as required under
+        applicable law and are or upon completion of the Improvements will be in
+        full force and effect, including a valid certificate of need ("CON"), if
+        applicable or similar certificate, license, or approval issued by the
+        DOH for the requisite number of units and beds in the Facilities, and a
+        provider agreement or other required documentation of approved provider
+        status for each provider payment or reimbursement program listed on
+        Exhibit R-2 hereto (collectively, the "LICENSES"). So long as the Loan
+        remains outstanding, Borrower shall operate the
+
+
+
+<PAGE>
+
+        Facilities in a manner such that the Licenses shall remain in full force
+        and effect. True and complete copies of the Licenses have been delivered
+        to Lender.
+
+               (c) The Licenses, including without limitation, the CON, if
+        applicable:
+
+                      (i) May not be, and have not been, and will not be
+               transferred to any location other than the Facilities;
+
+                      (ii) Are not and will not be pledged as collateral
+               security for any other loan or indebtedness; and
+
+                      (iii) Are held or upon completion of construction of the
+               Facility will be held free and will remain free from restrictions
+               or known conflicts which would materially impair the use or
+               operation of the Facilities for the Licensed Use, and shall not
+               be provisional, probationary or restricted in any way.
+
+               (d) Borrower shall not:
+
+                      (i) Rescind, withdraw or revoke the Licenses for the
+               Facilities, or amend, modify, supplement, or otherwise alter the
+               nature, tenor or scope of the Licenses for the Facilities;
+
+                      (ii) Amend or otherwise change the Facilities' authorized
+               units or beds capacity and/or the number of units or beds
+               approved by the DOH;
+
+                      (iii) Replace or transfer all or any part of the
+               Facilities' units or beds to another site or location; or
+
+                      (iv) Voluntarily transfer or encourage the transfer of any
+               resident of the Facilities to any other Facilities unless such
+               transfer is for reasons relating to the health or safety of the
+               resident to be transferred, employees, guests and other persons.
+
+               (e) In the event Borrower elects in its sole discretion to
+        participate in Medicare or Medicaid, each Facility so participating will
+        be and thereafter will remain, in compliance with all requirements for
+        participation in Medicare and Medicaid, as applicable, including the
+        Medicare and Medicaid Patient Protection Act of 1987 for so long as
+        Borrower elects to participate in such program. Such Facilities will be
+        and will thereafter remain for so long as Borrower elects to participate
+        in Medicare or Medicaid or third party provider programs, in conformance
+        in all material respects with all insurance, reimbursement and cost
+        reporting requirements, and will have a provider agreement in full force
+        and effect under Medicare and Medicaid, as applicable.
+
+               (f) There is no and during the term of the Loan shall be no
+        existing, pending or to Borrower's knowledge, threatened revocation,
+        suspension, termination, probation, restriction, limitation, or
+        nonrenewal affecting Borrower or the Facilities of
+
+
+
+
+                                      -2-
+<PAGE>
+
+        any participation or provider agreement with any third-party payor,
+        including Medicare, Medicaid, Blue Cross and/or Blue Shield, and any
+        other private commercial insurance managed care and employee assistance
+        program (such programs, the "THIRD-PARTY PAYORS' PROGRAMS") to which
+        Borrower presently or at any time hereafter is subject. All Medicaid,
+        Medicare, and private insurance cost reports and financial reports
+        submitted by Borrower are and will be materially accurate and complete
+        and have not been and will not be misleading in any material respects.
+        No cost reports for the Facilities remain open or unsettled, except as
+        otherwise disclosed in Exhibit R-2 hereto.
+
+               (g) Except as otherwise disclosed to Lender before the Closing
+        Date, none of Borrower or the Facilities is or will be the subject of
+        any proceeding by any governmental agency, and no notice of any
+        violation has been or will be issued by a governmental agency that
+        would, directly or indirectly, or with the passage of time:
+
+                      (i) Materially impact Borrower's ability to accept and/or
+               retain patients at a Facility; or
+
+                      (ii) Have a material adverse effect on Borrower's ability
+               to accept and/or retain patients or operate the Facilities for
+               the Licensed Use or result in the imposition of a fine or
+               sanction or a lower rate certification or a lower reimbursement
+               rate for services rendered to eligible patients;
+
+                      (iii) Modify, limit or annul or result in the transfer,
+               suspension, or revocation or imposition of probationary use of
+               any of the Licenses; or
+
+                      (iv) Affect Borrower's continued participation in the
+               Medicaid or Medicare programs or any other of the Third-Party
+               Payors' Programs, or any successor programs thereto, at then
+               current rate certifications.
+
+               (h) The Facilities and the use thereof complies, or upon
+        completion will comply and thereafter will continue to comply, in all
+        material respects with all applicable local, state and federal building
+        codes, fire codes, health care, senior housing and other regulatory
+        requirements (the "PHYSICAL PLANT STANDARDS") and no waivers of Physical
+        Plant Standards exist at the Facilities.
+
+               (i) No Facility has received a "Level A" (or equivalent)
+        violation under Medicare or Medicaid, as applicable, and no statement of
+        charges or deficiencies has been made or penalty enforcement action has
+        been undertaken against the Facilities, or Borrower, or against any
+        officer or director of Borrower by any governmental agency during the
+        last three calendar years, and there have been no violations over the
+        past three years which would threaten the Facilities' or Borrower's
+        certification for participation in Medicare or Medicaid or the other
+        Third-Party Payors' Programs.
+
+
+
+
+                                      -3-
+<PAGE>
+
+               (j) There are no current, pending or outstanding Medicaid,
+        Medicare or Third-Party Payors' Programs reimbursement audits or appeals
+        pending at the Facilities, and there are no years that are subject to
+        audit.
+
+               (k) There are no current or pending Medicaid or Medicare or
+        Third-Party Payors' Programs recoupment efforts at the Facilities.
+        Borrower is not a participant in any federal program whereby any
+        governmental agency may have the right to recover funds by reason of the
+        advance of federal funds, including those authorized under the
+        Hill-Burton Act (42 U.S.C. 291, et seq.).
+
+               (l) Borrower will not pledge its receivables related to the
+        Facilities as collateral security for any other loan or indebtedness.
+
+               (m) There are no and there will remain no patient or resident
+        care agreements with patients or residents or with any other persons
+        which deviate in any material adverse respect from the standard form
+        customarily used at the Facilities as of the date hereof, a copy of
+        which standard form agreement has been delivered to Lender.
+
+               (n) All patient or resident records at the Facilities, including
+        patient or resident trust fund accounts, are true and correct in all
+        material respects, and will remain true and correct in all material
+        respects.
+
+               (o) Any agreement relating to the management or operation of the
+        Facilities (each a "MANAGEMENT AND OPERATING AGREEMENT") and the manager
+        or operator thereunder shall be subject to Lender's reasonable approval
+        and no Management and Operating Agreement shall be modified, amended or
+        terminated without Lender's prior consent, which consent shall not be
+        unreasonably withheld. ALC will manage and operate each of the
+        Facilities at all times. In the event of foreclosure or other
+        acquisition of the Facilities by Lender or its designee or any purchaser
+        at a foreclosure sale, Borrower, Lender, any subsequent operator or any
+        subsequent purchaser need not obtain a CON prior to applying for and
+        receiving Medicare or Medicaid payments, as applicable.
+
+               (p) None of Borrower or the Facilities shall, other than in the
+        normal course of business, change the terms of any of the Third-Party
+        Payors' Programs now or hereinafter in effect or their normal billing
+        payment or reimbursement policies and procedures with respect thereto
+        (including the amount and timing of finance charges, fees and
+        write-offs).
+
+               (q) On or before the Closing Date and from time to time
+        thereafter, upon the request of Lender, and during the continuance of an
+        Event of Default, Borrower shall complete, execute and deliver to Lender
+        any applications, notices, documentation, and other information
+        necessary or desirable, in Lender's sole judgment, to permit Lender or
+        its designee (including a receiver) to obtain, maintain or renew any one
+        or more of the Licenses for the Facilities (or to become the owner of
+        the existing Licenses for the
+
+
+
+
+                                      -4-
+<PAGE>
+
+        Facilities) and to obtain any other provider agreements, licenses or
+        governmental authorizations then necessary or desirable for the
+        operation of the Facilities by Lender or its designee for the Licensed
+        Use (including, without limitation, any applications for change of
+        ownership of the existing Licenses or change of control of the owner of
+        the existing Licenses). Upon an occurrence of an Event of Default but
+        subject to the Financing Orders, (i) Lender is hereby authorized
+        (without the consent of Borrower) to submit any such applications,
+        notices, documentation or other information which Borrower caused to be
+        delivered to Lender in accordance with the above provisions to the
+        applicable governmental authorities, or to take such other steps as
+        Lender may deem advisable to obtain, maintain or renew any License or
+        other license or governmental authorization in connection with the
+        operation of the Facilities for the Licensed Use, and Borrower agrees to
+        cooperate with Lender in connection with the same and (ii) Borrower,
+        upon demand by Lender, shall take any action necessary or desirable, in
+        Lender's sole judgment, to permit Lender or its designee (including a
+        receiver) to use, operate and maintain the Facilities for the Licensed
+        Use. If Borrower fails to comply with the provisions of this subsection
+        (q) for any reason whatsoever, but subject to the Financing Orders
+        Borrower hereby irrevocably appoints Lender and its designee as
+        Borrower's attorney-in-fact, with full power of substitution, to take
+        any action and execute any documents and instruments necessary or
+        desirable in Lender's sole judgment to permit Lender or its designee to
+        undertake Borrower's obligations under this subsection (q), including
+        without limitation, obtaining any licenses or governmental
+        authorizations then required for the operation of the Facilities by
+        Lender or its designee for the Licensed Use. The foregoing power of
+        attorney is coupled with an interest and is irrevocable and Lender may
+        exercise its rights thereunder in addition to any other remedies which
+        Lender may have against Borrower as a result of Borrower's breach of the
+        obligations contained in this subsection (q).
+
+               (r) Borrower shall at all times fully comply in all material
+        respects with all obligations under the contracts and leases with
+        residents of the Facilities, and Borrower shall not commit or permit any
+        default by Borrower thereunder. Borrower hereby indemnifies and holds
+        harmless Lender and agrees to defend Lender (with counsel acceptable to
+        Lender) from and against any (i) claims, proceedings or causes of action
+        brought by any resident of the Facilities, and (ii) loss, damage, cost
+        or expense, including reasonable attorneys' fees, incurred or suffered
+        by Lender as a result of any (x) breach by Borrower of any contract or
+        lease with a resident of the Facilities or (y) violation of any license
+        or any federal, state or local law governing the Facilities or the use,
+        operation or maintenance thereof for the Licensed Use, in each case
+        except to the extent arising from such indemnitee's gross negligence or
+        willful misconduct.
+
+
+
+
+                                      -5-
+<PAGE>
+
+                                   EXHIBIT R-1
+
+                             UNITS AT EACH FACILITY
+
+
+
+<TABLE>
+<CAPTION>
+          PROPERTIES                              UNITS
+          ----------                              -----
+<S>       <C>                                     <C>
+1.        Columbus, NE                             39
+2.        Peoria, AZ                               50
+3.        Surprise, AZ                             50
+4.        Payson, AZ                               39
+5.        Prescott Valley, AZ                      39
+6.        Apache Junction, AZ                      48
+7.        Yuma, AZ                                 48
+8.        Mesa, AZ                                 50
+</TABLE>
+
+
+
+<PAGE>
+
+                                   EXHIBIT R-2
+
+                                    LICENSES
+
+
+
+1. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Aurora House dated May 11, 2001.
+
+2. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Cameron House dated April 11, 2001.
+
+3. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Powell House dated January 24, 2001.
+
+4. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Baldwin House dated November 27, 2000.
+
+5. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Grayson House dated November 24, 1999.
+
+6. License to operate an Assisted Living Center between Arizona Department of
+Health Services and Mondell House dated February 15, 2001.
+
+7. License to operate an Assisted Living Home between Arizona Department of
+Health Services and Copper Hills House dated May 9, 2001.
+
+8. License to operate an Assisted Living Facility between State of Nebraska
+Department of Health and Human Services Regulation and Licensure and Cottonwood
+House dated April 6, 2001.
+
+
+
+
+</TEXT>
+</DOCUMENT>
