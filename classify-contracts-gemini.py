@@ -35,7 +35,7 @@ def get_waiting_time(content):
     if token_length > 239000:
         tokens = tokens[:239000]
         content = encoder.decode(tokens)
-    return content, (1 + len(tokens) // 60000 ) * 4
+    return (content, (1 + len(tokens) // 60000 ) * 4)
        
 
 def classify_contract(content, metadata):
@@ -99,7 +99,7 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
         return ({"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}, waiting_time)
 
 def main():
-    for year in range(2001, 2016):
+    for year in range(2023, 2025):
         print(f"\nProcessing year: {year}")
         index_path = os.path.join(INDEX_DOWNLOAD_DIR, f"index-{year}.csv")
         if not os.path.exists(index_path):

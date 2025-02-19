@@ -95,7 +95,7 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
         return {"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}
 
 def main():
-    for year in range(2006, 2008):
+    for year in range(2023, 2025):
         print(f"\nProcessing year: {year}")
         index_path = os.path.join(INDEX_DOWNLOAD_DIR, f"index-{year}.csv")
         if not os.path.exists(index_path):
