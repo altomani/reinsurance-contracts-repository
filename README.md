@@ -42,4 +42,25 @@ The scripts process filings year by year (e.g., from 2002 to 2003) and print pro
 - Check terminal outputs for download and processing errors.
 - The project is designed to handle pagination of search results and asynchronous downloads to efficiently manage large batches of documents.
 
+## Contents of the Folders
 
+### download
+This folder contains the contracts in their original format, mostly HTML, TXT for the early years, and a few scanned PDFs.
+
+### index-download
+This folder contains CSV files, one for each year, with metadata about the files (issuer, title, and other information from EDGAR).
+
+### index-classification
+This folder contains CSV files, one for each year, with additional columns for contract classification, done by gpt-4o-mini.
+
+### index-classification-gemini
+This folder contains CSV files, one for each year, with additional columns for contract classification, done by gemini-2.0-flash.
+
+## Repository Contents Clarification
+This repository contains documents extracted from the EDGAR SEC database that are reinsurance-related Exhibit 10 attachments to a SEC quarterly or yearly filing. Most of them are reinsurance contracts, but not all. They have been classified with the help of gpt-4o-mini and gemini-2.0-flash. The classification identifies which ones are reinsurance contracts and adds some other metadata, like type of treaty, line of business.
+
+The PDF files have not been classified because most of them are scanned documents.
+
+Some documents classified with gemini have no classification because gemini failed to return an answer in the correct format.
+
+Some files from 2021 are missing because they are 404 on EDGAR.
