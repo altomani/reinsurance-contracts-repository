@@ -12,31 +12,35 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set your OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("GEMINI_API_KEY")
 if not openai.api_key:
-    raise ValueError("OPENAI_API_KEY is missing in environment variables.")
-client = openai.OpenAI()
-model_name = "gpt-4o-mini"
+    raise ValueError("GEMINI_API_KEY is missing in environment variables.")
+client = openai.OpenAI(
+    api_key=openai.api_key,
+    base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
+)
+model_name = "gemini-2.0-flash"
 
 
-DOWNLOAD_DIR = "download"
-INDEX_DOWNLOAD_DIR = "index-download"
-INDEX_CLASSIFICATION_DIR = "index-classification"
+DOWNLOAD_DIR = "../download"
+INDEX_DOWNLOAD_DIR = "../index-download"
+INDEX_CLASSIFICATION_DIR = "../index-classification-gemini"
 os.makedirs(INDEX_DOWNLOAD_DIR, exist_ok=True)
 os.makedirs(INDEX_CLASSIFICATION_DIR, exist_ok=True)
 
-def get_trimmed_content(content):
-    encoder = tiktoken.encoding_for_model(model_name)
+def get_waiting_time(content):
+    encoder = tiktoken.encoding_for_model("gpt-4o-mini")
     tokens = encoder.encode(content)
-    if len(tokens) > 120000:
-        tokens = tokens[:120000]
+    token_length = len(tokens)
+    if token_length > 239000:
+        tokens = tokens[:239000]
         content = encoder.decode(tokens)
-        content = content + "\n\n[...]\n"
-    return content
+    return (content, (1 + len(tokens) // 60000 ) * 4)
+       
 
 def classify_contract(content, metadata):
     # Trim content to ensure token count does not exceed the limit
-    content = get_trimmed_content(content)
+    content, waiting_time = get_waiting_time(content)
     
     prompt = f"""Read carefully the following contract text and answer the questions at the end.
 
@@ -84,15 +88,15 @@ Then, the answer to the question, in JSON format, enclosed in <answer> tags:
             model=model_name,
             messages=[{"role": "user", "content": prompt}],
             temperature=0,
-            # store=True  # Uncomment to store the conversation in OpenAI for debugging and evaluations
+            #store=True
         )
         message = response.choices[0].message.content
         answers = re.findall(r"<answer>(.*?)</answer>", message, re.DOTALL)
         result = json.loads(answers[0])
-        return result
+        return (result, waiting_time)
     except Exception as e:
         print(f"Error during classification: {e}")
-        return {"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}
+        return ({"reinsurance": "", "contractType": "", "obligatoryType": "", "proportional": "", "classOfBusiness": ""}, waiting_time)
 
 def main():
     for year in range(2024, 2025):
@@ -139,14 +143,14 @@ def main():
                 continue
 
             print(f"Classifying file n. {i+1}: {download_filename}")
-            classification = classify_contract(content, metadata)
+            classification, waiting_time = classify_contract(content, metadata)
             df.at[i, "reinsurance"] = classification.get("reinsurance", "")
             df.at[i, "contractType"] = classification.get("contractType", "")
             df.at[i, "obligatoryType"] = classification.get("obligatoryType", "")
             df.at[i, "proportional"] = classification.get("proportional", "")
             df.at[i, "classOfBusiness"] = classification.get("classOfBusiness", "")
             # To avoid hitting rate limits
-            time.sleep(1)
+            time.sleep(waiting_time)
 
         output_path = os.path.join(INDEX_CLASSIFICATION_DIR, f"index-classification-{year}.csv")
         df.to_csv(output_path, index=False)

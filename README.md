@@ -1,66 +1,61 @@
 # Reinsurance Contracts Repository
 
-A collection of reinsurance contracts extracted from SEC filings.
+A large collection of publicly available reinsurance contracts extracted from SEC filings.
 
 ## Project Description
-This repository retrieves, processes, and classifies reinsurance contracts obtained from SEC filings. It includes scripts for:
-- Searching and downloading filings (e.g., 10-K, 10-Q forms)
-- Filtering filings containing specific exhibit types
-- Classifying contracts using OpenAI models
+This repository contains:
+- Thousands of reinsurance contracts, retrieved from the EDGAR database of SEC filings.
+- Metadata about the contracts, and additional classification metadata generated with gpt-4o-mini and gemini-2.0-flash.
+- The scripts used to search, download and classify the contracts
 
-## Detailed Requirements
-- Python 3.7 or above.
-- Required libraries: requests, sec-api, python-dotenv, pandas, aiohttp, asyncio, nest_asyncio, openai, html2text.
-- Internet connection for API access.
+## Detailed description of the data
 
-## Installation & Setup
+### download/
+This folder contains the contracts in their original format, mostly HTML, or TXT for the early years, and a few scanned PDFs.
+
+The files are the result of a search in the EDGAR database for all reinsurance-related files, that are Exhibit 10 attachments to a 10-K or 10-Q filing for the years from 2001 to 2024. A large majority of the results of this query are reinsurance contracts, but some are other kinds of agreement that jost happen to mention reinsurance.
+
+### index-download/
+This folder contains CSV files, one for each year, with metadata about the files (issuer, title, various SEC document identifiers). The index for year 2021 contains some entries without a corresponding file. These are the entries for which the original file is not available (404 error).
+
+### index-classification/ index-classification-gemini/
+Thees folders contain CSV files, one for each year, with additional columns for contract classification, written by gpt-4o-mini and gemini-2.0-flash. 
+
+The PDF files have not been classified because most of them are scanned documents. Some documents have no classification by gemini because it failed to return an answer in the correct format.
+
+### scripts/
+The scripts to download and classify the contracts.
+
+## Instructions to run the scripts
+
+### Requirements
+- Required packages: requests, sec-api, python-dotenv, pandas, aiohttp, asyncio, nest_asyncio, openai, html2text.
+- API keys for https://sec-api.io/, https://platform.openai.com/ and https://aistudio.google.com/.
+
+### Execution Instructions
 1. Clone the repository.
 2. Create a virtual environment.
 3. Install dependencies:  
    pip install -r requirements.txt
-4. Create a `.env` file in the repository root with the following variables:
+4. Create a `.env` file in the repository root with the following variables (an `.env_example` with invalid values is included):
    - SEC_API_KEY: Your SEC API key.
-   - USER_AGENT_NAME: Your name (for user agent).
-   - USER_AGENT_EMAIL: Your email (for user agent).
+   - USER_AGENT_NAME: Your name (for user agent for SEC downloads).
+   - USER_AGENT_EMAIL: Your email (for user agent for SEC downloads).
    - OPENAI_API_KEY: Your OpenAI API key.
+   - GEMINI_API_KEY: Your Gemini API key.
+5. Move to the `scripts` folder and adjust the dates inside the three scripts.
+6. To search and download filings, run:
 
-## Execution Instructions
-- To search and download filings, run:
-  python search-download-reinsurance-contracts.py
-- To classify contracts, run:
-  python classify-contracts.py
+    `python search-download-reinsurance-contracts.py`
+
+7. To classify contracts with gpt-4o-mini, run:
+
+    `python classify-contracts.py`
+
+8. To classify contracts with gemini-2.0-flash, run:
+
+    `python classify-contracts-gemini.py`
 
 The scripts process filings year by year (e.g., from 2002 to 2003) and print progress to the console.
 
-## Output Files
-- Downloaded filings are saved in the `download` directory.
-- A CSV file with metadata (e.g., index-YYYY.csv) is saved in the `index-download` directory.
-- The classification results are saved as CSV files (e.g., index-classification-YYYY.csv) in the `classified` directory.
 
-## Additional Notes
-- Ensure the `.env` file is correctly populated.
-- Check terminal outputs for download and processing errors.
-- The project is designed to handle pagination of search results and asynchronous downloads to efficiently manage large batches of documents.
-
-## Contents of the Folders
-
-### download
-This folder contains the contracts in their original format, mostly HTML, TXT for the early years, and a few scanned PDFs.
-
-### index-download
-This folder contains CSV files, one for each year, with metadata about the files (issuer, title, and other information from EDGAR).
-
-### index-classification
-This folder contains CSV files, one for each year, with additional columns for contract classification, done by gpt-4o-mini.
-
-### index-classification-gemini
-This folder contains CSV files, one for each year, with additional columns for contract classification, done by gemini-2.0-flash.
-
-## Repository Contents Clarification
-This repository contains documents extracted from the EDGAR SEC database that are reinsurance-related Exhibit 10 attachments to a SEC quarterly or yearly filing. Most of them are reinsurance contracts, but not all. They have been classified with the help of gpt-4o-mini and gemini-2.0-flash. The classification identifies which ones are reinsurance contracts and adds some other metadata, like type of treaty, line of business.
-
-The PDF files have not been classified because most of them are scanned documents.
-
-Some documents classified with gemini have no classification because gemini failed to return an answer in the correct format.
-
-Some files from 2021 are missing because they are 404 on EDGAR.
