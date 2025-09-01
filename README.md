@@ -5,7 +5,7 @@ A large collection of publicly available reinsurance contracts extracted from SE
 ## Project Description
 This repository contains:
 - Thousands of reinsurance contracts, retrieved from the EDGAR database of SEC filings.
-- Metadata about the contracts, and additional classification metadata generated with gpt-4o-mini and gemini-2.0-flash.
+- Metadata about the contracts, and additional classification metadata generated with various models (currently qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite)
 - The scripts used to search, download and classify the contracts
 
 ## Detailed description of the data
@@ -18,10 +18,12 @@ The files are the result of a search in the EDGAR database for all reinsurance-r
 ### index-download/
 This folder contains CSV files, one for each year, with metadata about the files (issuer, title, various SEC document identifiers). The index for year 2021 contains some entries without a corresponding file. These are the entries for which the original file is not available (404 error).
 
-### index-classification/ index-classification-gemini/
-Thees folders contain CSV files, one for each year, with additional columns for contract classification, written by gpt-4o-mini and gemini-2.0-flash. 
+### index-classification-{model_name}
+Thees folders contain CSV files, one for each year, with additional columns for contract classification, produced by LLM. 
 
 The PDF files have not been classified because most of them are scanned documents. Some documents have no classification by gemini because it failed to return an answer in the correct format.
+
+The repository contains classification of documents between 2001 and 2012.
 
 ### scripts/
 The scripts to download and classify the contracts.
@@ -41,20 +43,17 @@ The scripts to download and classify the contracts.
    - SEC_API_KEY: Your SEC API key.
    - USER_AGENT_NAME: Your name (for user agent for SEC downloads).
    - USER_AGENT_EMAIL: Your email (for user agent for SEC downloads).
-   - OPENAI_API_KEY: Your OpenAI API key.
-   - GEMINI_API_KEY: Your Gemini API key.
+   - OPENROUTER_API_KEY: Your Openrouter API key.
 5. Move to the `scripts` folder and adjust the dates inside the three scripts.
 6. To search and download filings, run:
 
     `python search-download-reinsurance-contracts.py`
 
-7. To classify contracts with gpt-4o-mini, run:
+7. To classify contracts, edit and run:
 
-    `python classify-contracts.py`
+    `python classify-contracts-openrouter.py`
 
-8. To classify contracts with gemini-2.0-flash, run:
-
-    `python classify-contracts-gemini.py`
+    The files already contains settings for qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite.
 
 The scripts process filings year by year (e.g., from 2002 to 2003) and print progress to the console.
 
