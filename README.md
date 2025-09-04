@@ -1,12 +1,12 @@
 # Reinsurance Contracts Repository
 
-A large collection of publicly available reinsurance contracts extracted from SEC filings.
+A large collection of publicly available reinsurance contracts extracted from SEC filings. The dataset, including the classification (but not the scripts) are also published on HF: [andreaaltomani/reinsurance-contracts-classification](https://huggingface.co/datasets/andreaaltomani/reinsurance-contracts-classification).
 
 ## Project Description
 This repository contains:
 - Thousands of reinsurance contracts, retrieved from the EDGAR database of SEC filings.
-- Metadata about the contracts, and additional classification metadata generated with various models (currently qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite)
-- The scripts used to search, download and classify the contracts
+- Metadata about the contracts, and additional classification metadata generated with various models (currently qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite).
+- The scripts used to search, download and classify the contracts.
 
 ## Detailed description of the data
 
@@ -23,7 +23,7 @@ Thees folders contain CSV files, one for each year, with additional columns for 
 
 The PDF files have not been classified because most of them are scanned documents. Some documents have no classification by gemini because it failed to return an answer in the correct format.
 
-The repository contains classification of documents between 2001 and 2012.
+The repository contains classification of documents between 2001 and 2024.
 
 ### scripts/
 The scripts to download and classify the contracts.

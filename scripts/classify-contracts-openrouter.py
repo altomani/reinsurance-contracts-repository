@@ -35,7 +35,7 @@ model_name, max_document_tokens, lm = (  # Qwen3 MoE
 
 # model_name, max_document_tokens, lm = (
 #     "gpt-oss",
-#     90_000,
+#     85_000,
 #     dspy.LM(
 #         model="openrouter/openai/gpt-oss-120b",
 #         api_key=OPENROUTER_API_KEY,
@@ -272,7 +272,7 @@ async def classify_file(file: str, metadata: str) -> dict | None:
 
 
 async def main():
-    years = [2012]
+    years = range(2001, 2025)  # or use individual years, e.g. [2020, 2021]
     for year in years:
         semaphore = asyncio.Semaphore(NUM_WORKERS)
         start_time = time.time()
@@ -297,7 +297,6 @@ async def main():
                     ]
                 ].to_string()
                 response = await classify_file(file, metadata)
-                # time.sleep(5)  # to avoid rate limiting
                 if response is not None:
                     return {"filename": row["downloadFilename"]} | response.toDict()
                 else:

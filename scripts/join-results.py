@@ -4,7 +4,7 @@ base_file = "index-download/index-{year}.csv"
 model_names = ["qwen3", "gpt-oss", "gemini-flash-lite"]#, "gpt-5-nano"]
 model_file = "index-classification-{model_name}/index-classification-{model_name}-{year}.csv"
 df_list = []
-years = [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012]
+years = range(2001, 2025)
 for year in years:
     df = pd.read_csv(base_file.format(year=year))
     for model_name in model_names:
@@ -97,4 +97,4 @@ for _, row in df_joined.iterrows():
     list_out.append(row_dict)
 
 df_out = pd.DataFrame(list_out)
-df_out.to_csv(f"index-joined/index-joined-final-{min(years)}-{max(years)}.csv", index=False, encoding="utf-8")
+df_out.to_csv(f"index-joined/index-joined-{min(years)}-{max(years)}.csv", index=False, encoding="utf-8")
