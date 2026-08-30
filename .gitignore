@@ -170,3 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Local classifier runs and macOS metadata
+.DS_Store
+results/**/*.jsonl
+results/**/*.csv
+!results/final/classification-audit.jsonl
+!results/final/classification-latest.csv

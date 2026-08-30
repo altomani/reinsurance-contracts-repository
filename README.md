@@ -1,60 +1,103 @@
 # Reinsurance Contracts Repository
 
-A large collection of publicly available reinsurance contracts extracted from SEC filings. The dataset, including the classification (but not the scripts) are also published on HF: [andreaaltomani/reinsurance-contracts-classification](https://huggingface.co/datasets/andreaaltomani/reinsurance-contracts-classification).
+A corpus of publicly available reinsurance-related exhibits retrieved from SEC filings, together with metadata and auditable classification outputs. The dataset is also published on [Hugging Face](https://huggingface.co/datasets/andreaaltomani/reinsurance-contracts-classification).
 
-## Project Description
-This repository contains:
-- Thousands of reinsurance contracts, retrieved from the EDGAR database of SEC filings.
-- Metadata about the contracts, and additional classification metadata generated with various models (currently qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite).
-- The scripts used to search, download and classify the contracts.
+## Repository layout
 
-## Detailed description of the data
+| Path | Contents |
+| --- | --- |
+| `download/` | Original HTML, TXT, and PDF exhibits from 2001–2024 |
+| `index-download/` | Yearly SEC metadata and local download filenames |
+| `src/reinsurance_classifier/` | Maintained evidence-based classifier and command-line tools |
+| `prompts/` | Versioned production and falsification prompts |
+| `results/final/` | Canonical latest-state CSV and append-only audit JSONL |
+| `reports/` | Validation, integrity, preparation, and cost reports |
+| `gold/` | Candidate manifests, labeling sheets, and autonomous-silver labels |
+| `docs/` | Classifier plan, labeling policy, and review protocols |
+| `archive/classifiers/` | Superseded classifier scripts and historical per-model results |
+| `scripts/` | The SEC downloader and current diagnostic utilities |
 
-### download/
-This folder contains the contracts in their original format, mostly HTML, or TXT for the early years, and a few scanned PDFs.
+Generated preparation and validation runs may be kept locally under `results/preparation/` and `results/validation/`; they are ignored by Git because the tracked reports contain their durable summaries.
 
-The files are the result of a search in the EDGAR database for all reinsurance-related files, that are Exhibit 10 attachments to a 10-K or 10-Q filing for the years from 2001 to 2024. A large majority of the results of this query are reinsurance contracts, but some are other kinds of agreement that jost happen to mention reinsurance.
+## Current classifier
 
-### index-download/
-This folder contains CSV files, one for each year, with metadata about the files (issuer, title, various SEC document identifiers). The index for year 2021 contains some entries without a corresponding file. These are the entries for which the original file is not available (404 error).
+The maintained classifier converts each supported exhibit into a criterion-balanced evidence pack with stable line numbers. A document qualifies only when all five gates pass:
 
-### index-classification-{model_name}
-Thees folders contain CSV files, one for each year, with additional columns for contract classification, produced by LLM. 
+1. it is a complete or nearly complete reinsurance contract;
+2. the main commercial terms are present;
+3. the covered business is non-life;
+4. the placement is treaty or automatic rather than facultative; and
+5. it is not a statutory government scheme.
 
-The PDF files have not been classified because most of them are scanned documents. Some documents have no classification by gemini because it failed to return an answer in the correct format.
+Python enforces this conjunction after structured model review. A model cannot override it. Provider evidence, token use, cost, retries, and append-only corrections remain available in the audit output. Unsupported PDFs and missing downloads are recorded without failing the run.
 
-The repository contains classification of documents between 2001 and 2024.
+The implementation and governance material live in:
 
-### scripts/
-The scripts to download and classify the contracts.
+- `docs/CLASSIFIER_PLAN.md` — quality, pilot, budget, and rollout gates;
+- `docs/LABELING_GUIDE.md` — adjudication policy;
+- `docs/REVIEW_WORKFLOW.md` — independent review and adjudication;
+- `docs/AUTONOMOUS_VALIDATION.md` — conservative autonomous-silver fallback;
+- `prompts/` — frozen prompt versions;
+- `reports/` — machine-readable and narrative run evidence.
 
-## Instructions to run the scripts
+## Final classification run
 
-### Requirements
-- Required packages: requests, sec-api, python-dotenv, pandas, aiohttp, asyncio, nest_asyncio, openai, html2text.
-- API keys for https://sec-api.io/, https://platform.openai.com/ and https://aistudio.google.com/.
+The 2026-08-30 run processed all 6,761 unique metadata records. Its latest state contains 651 automatic qualifications, 342 rejections, 5,685 manual-review cases, 64 missing downloads, and 19 skipped PDFs, with no remaining processing errors.
 
-### Execution Instructions
-1. Clone the repository.
-2. Create a virtual environment.
-3. Install dependencies:  
-   pip install -r requirements.txt
-4. Create a `.env` file in the repository root with the following variables (an `.env_example` with invalid values is included):
-   - SEC_API_KEY: Your SEC API key.
-   - USER_AGENT_NAME: Your name (for user agent for SEC downloads).
-   - USER_AGENT_EMAIL: Your email (for user agent for SEC downloads).
-   - OPENROUTER_API_KEY: Your Openrouter API key.
-5. Move to the `scripts` folder and adjust the dates inside the three scripts.
-6. To search and download filings, run:
+Canonical deliverables:
 
-    `python search-download-reinsurance-contracts.py`
+- `results/final/classification-latest.csv` — one filter-friendly latest row per record;
+- `results/final/classification-audit.jsonl` — append-only decisions, evidence, provider metadata, cost, retries, and corrections;
+- `reports/final-classification-report.md` — final counts, validation, budget reconciliation, and limitations;
+- `reports/final-integrity.json` — machine-readable integrity and budget checks.
 
-7. To classify contracts, edit and run:
+The reported accuracy evidence is conservative autonomous-silver concordance, not independent human gold. Unresolved cases remain `manual_review`; they are never forced into positive or negative labels.
 
-    `python classify-contracts-openrouter.py`
+## Setup and verification
 
-    The files already contains settings for qwen3-235b-a22b-2507, gpt-oss-120b and gemini-2.5-flash-lite.
+Python 3.13 and [uv](https://docs.astral.sh/uv/) are expected:
 
-The scripts process filings year by year (e.g., from 2002 to 2003) and print progress to the console.
+```bash
+uv sync
+uv run pytest
+```
 
+Prepare evidence packs locally without making API calls:
 
+```bash
+uv run reinsurance-classifier --dry-run --year 2004 --limit 25
+```
+
+A bounded paid run requires `OPENROUTER_API_KEY` in `.env` or the environment:
+
+```bash
+uv run reinsurance-classifier --year 2004 --limit 100 --budget-usd 5
+```
+
+The CLI also supports repeated year and file selectors, ordered model routes, configurable concurrency, resume, independent character and token limits, and a hard dollar ceiling. An unbounded run additionally requires `--allow-full-corpus` and a compatible permitted gate report; see `docs/CLASSIFIER_PLAN.md` before spending API credits.
+
+Evaluate audit records against adjudicated labels:
+
+```bash
+uv run reinsurance-benchmark \
+  --gold gold/adjudicated.csv \
+  --audit results/classification-audit.jsonl \
+  --split holdout
+```
+
+Build the deterministic candidate sample or prepare independent reviewer sheets:
+
+```bash
+uv run reinsurance-sample --target 180
+
+uv run reinsurance-review prepare \
+  --candidates gold/candidate-labeling.csv \
+  --reviewer-id reviewer-a \
+  --output gold/review-a.csv
+```
+
+See `docs/REVIEW_WORKFLOW.md` for comparison and adjudication. Historical model results used for disagreement sampling remain available under `archive/classifiers/results/`.
+
+## Historical archive
+
+Superseded one-off classifier and join scripts, along with their yearly model outputs, are retained under `archive/classifiers/` for provenance. They are not part of the maintained environment or current workflow. See `archive/classifiers/README.md` for the archive map and legacy dependency notes.

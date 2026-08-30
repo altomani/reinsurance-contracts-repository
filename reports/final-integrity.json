@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-08-29T22:07:28Z",
+  "audit_lines": 6838,
+  "latest_records": 6761,
+  "csv_rows": 6761,
+  "latest_statuses": {
+    "qualified": 651,
+    "rejected": 342,
+    "manual_review": 5685,
+    "missing_file": 64,
+    "skipped_pdf": 19,
+    "error": 0,
+    "budget_exhausted": 0
+  },
+  "latest_calls": 13014,
+  "models": {
+    "z-ai/glm-5.3-flash": 6675,
+    "qwen/qwen3.8-flash": 6336,
+    "deepseek/deepseek-v4-flash-vision-exp": 3
+  },
+  "evidence_rates": {
+    "valid_submitted_line_span": 0.8975718457046258,
+    "grounded_quote": 0.7619486706623636,
+    "valid_line_or_grounded_quote": 0.9356846473029046,
+    "valid_line_or_quote_without_rule_contradiction": 0.9149377593360996
+  },
+  "qualified_without_directly_valid_provider": 0,
+  "append_only_corrections": 2,
+  "budget": {
+    "authorized_usd": 20.0,
+    "openrouter_key_meter_used_usd": 15.045276715,
+    "openrouter_key_meter_remaining_authorized_usd": 4.954723285,
+    "conservative_local_ledger_usd": 15.35171695
+  },
+  "tests_passed": 43
+}

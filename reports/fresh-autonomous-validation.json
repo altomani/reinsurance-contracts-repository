@@ -1,0 +1,278 @@
+{
+  "calls": 342,
+  "criterion_resolution_rate": {
+    "document_contract": 0.8333333333333334,
+    "main_terms": 0.8,
+    "non_life_business": 0.16666666666666666,
+    "private_market": 0.6666666666666666,
+    "treaty_placement": 0.15
+  },
+  "documents": 60,
+  "hard_invalid_evidence_or_rule_calls": 38,
+  "hard_validation_rate": 0.8888888888888888,
+  "label_provenance": "autonomous_silver_v1",
+  "labels": {
+    "exact_six_vote_vectors": 14,
+    "manual_review": 11,
+    "qualified": 5,
+    "rejected": 44,
+    "resolved": 49
+  },
+  "limitations": "Silver labels are deterministic supermajority concordance, not human gold. Quality estimates use model-excluded consensus.",
+  "model_excluded_benchmark": {
+    "development|classifier-falsification-v2|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 23,
+        "tp": 2
+      },
+      "f1": 1.0,
+      "n": 25,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.34237195288961925,
+        1.0
+      ]
+    },
+    "development|classifier-falsification-v2|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 1,
+        "tn": 25,
+        "tp": 1
+      },
+      "f1": 0.6666666666666666,
+      "n": 27,
+      "precision": 0.5,
+      "precision_95_ci": [
+        0.09452865480086614,
+        0.9054713451991339
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.20654329147389294,
+        1.0
+      ]
+    },
+    "development|classifier-falsification-v2|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 1,
+        "fp": 0,
+        "tn": 28,
+        "tp": 2
+      },
+      "f1": 0.8,
+      "n": 31,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 0.6666666666666666,
+      "recall_95_ci": [
+        0.2076549551264879,
+        0.9385096847238394
+      ]
+    },
+    "development|classifier-v1|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 29,
+        "tp": 3
+      },
+      "f1": 1.0,
+      "n": 32,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.43849391955098227,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.43849391955098227,
+        1.0
+      ]
+    },
+    "development|classifier-v1|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 29,
+        "tp": 2
+      },
+      "f1": 1.0,
+      "n": 31,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.34237195288961925,
+        1.0
+      ]
+    },
+    "development|classifier-v1|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 1,
+        "fp": 0,
+        "tn": 29,
+        "tp": 2
+      },
+      "f1": 0.8,
+      "n": 32,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 0.6666666666666666,
+      "recall_95_ci": [
+        0.2076549551264879,
+        0.9385096847238394
+      ]
+    },
+    "holdout|classifier-falsification-v2|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 12,
+        "tp": 1
+      },
+      "f1": 1.0,
+      "n": 13,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.20654329147389294,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.20654329147389294,
+        1.0
+      ]
+    },
+    "holdout|classifier-falsification-v2|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 1,
+        "tn": 10,
+        "tp": 1
+      },
+      "f1": 0.6666666666666666,
+      "n": 12,
+      "precision": 0.5,
+      "precision_95_ci": [
+        0.09452865480086614,
+        0.9054713451991339
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.20654329147389294,
+        1.0
+      ]
+    },
+    "holdout|classifier-falsification-v2|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 11,
+        "tp": 1
+      },
+      "f1": 1.0,
+      "n": 12,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.20654329147389294,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.20654329147389294,
+        1.0
+      ]
+    },
+    "holdout|classifier-v1|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 14,
+        "tp": 1
+      },
+      "f1": 1.0,
+      "n": 15,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.20654329147389294,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.20654329147389294,
+        1.0
+      ]
+    },
+    "holdout|classifier-v1|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 14,
+        "tp": 2
+      },
+      "f1": 1.0,
+      "n": 16,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.34237195288961925,
+        1.0
+      ]
+    },
+    "holdout|classifier-v1|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 13,
+        "tp": 2
+      },
+      "f1": 1.0,
+      "n": 15,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.34237195288961925,
+        1.0
+      ]
+    }
+  },
+  "models": [
+    "deepseek/deepseek-v4-flash-vision-exp",
+    "qwen/qwen3.8-flash",
+    "z-ai/glm-5.3-flash"
+  ],
+  "output_csv": "gold/fresh-autonomous-silver-labels.csv",
+  "prompt_vector_stability": 0.6194029850746269,
+  "prompts": [
+    "classifier-falsification-v2",
+    "classifier-v1"
+  ],
+  "quote_grounding_rate": 0.7777777777777778,
+  "source_hash_conflicts": 0,
+  "total_cost_usd": 0.40939885008000004
+}

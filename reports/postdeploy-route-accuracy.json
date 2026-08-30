@@ -1,0 +1,104 @@
+{
+  "corpus": {
+    "already_processed_documents": 0,
+    "prepared_supported_documents": 6678,
+    "remaining_documents": 6678
+  },
+  "forecast": {
+    "cli_budget_usd": 999.0,
+    "contingency": 0.2,
+    "fits_authorized_remainder": true,
+    "remaining_authorized_usd": 999.0,
+    "remaining_cost_usd": 18.402320292048
+  },
+  "full_run_permitted": false,
+  "label_provenance": "autonomous_silver_v1",
+  "observed_costs": {
+    "conservative_unit_cost_usd": 0.0022963861800000002,
+    "mean_record_cost_usd": 0.002042092712366193,
+    "p90_record_cost_usd": 0.0022963861800000002,
+    "p95_record_cost_usd": 0.0027250957799999998,
+    "pilot_spent_usd": 13.50640119959
+  },
+  "pilot_gate": {
+    "classified_documents": 6614,
+    "escalation_rate": 0.9484426973087391,
+    "hard_evidence_validation_rate": 0.9358268022037712,
+    "manual_review_rate": 0.8512246749319625,
+    "passed": false,
+    "prompt_frozen": true,
+    "prompt_versions_seen": [
+      "classifier-v1"
+    ],
+    "provider_error_records": 64
+  },
+  "prompt_version": "classifier-v1",
+  "quality_gate": {
+    "all_resolved_silver": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 6
+      },
+      "f1": 1.0,
+      "n": 8,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ]
+    },
+    "development": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 0,
+        "tp": 0
+      },
+      "f1": 0.0,
+      "n": 0,
+      "precision": 0.0,
+      "precision_95_ci": [
+        0.0,
+        0.0
+      ],
+      "recall": 0.0,
+      "recall_95_ci": [
+        0.0,
+        0.0
+      ]
+    },
+    "evaluated_split": "all",
+    "holdout": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 6
+      },
+      "f1": 1.0,
+      "n": 8,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ]
+    },
+    "passed": true,
+    "thresholds": {
+      "precision": 0.95,
+      "recall": 0.9
+    }
+  }
+}

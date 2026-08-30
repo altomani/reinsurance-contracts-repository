@@ -1,0 +1,106 @@
+{
+  "corpus": {
+    "already_processed_documents": 0,
+    "prepared_supported_documents": 6678,
+    "remaining_documents": 6678
+  },
+  "forecast": {
+    "cli_budget_usd": 17.571736781,
+    "contingency": 0.2,
+    "fits_authorized_remainder": true,
+    "remaining_authorized_usd": 17.571736781,
+    "remaining_cost_usd": 17.132252040288
+  },
+  "full_run_permitted": true,
+  "label_provenance": "autonomous_silver_v1",
+  "observed_costs": {
+    "conservative_unit_cost_usd": 0.0021378970800000003,
+    "cost_stress_source": "reports/fresh-holdout-evaluation.json",
+    "mean_record_cost_usd": 0.0012946271425139664,
+    "p90_record_cost_usd": 0.00191210976,
+    "p95_record_cost_usd": 0.00208941183,
+    "pilot_spent_usd": 0.23173825851
+  },
+  "pilot_gate": {
+    "classified_documents": 179,
+    "escalation_rate": 0.7821229050279329,
+    "hard_evidence_validation_rate": 0.9561128526645768,
+    "manual_review_rate": 0.6871508379888268,
+    "passed": true,
+    "prompt_frozen": true,
+    "prompt_versions_seen": [
+      "classifier-v1"
+    ],
+    "provider_error_records": 1
+  },
+  "prompt_version": "classifier-v1",
+  "quality_gate": {
+    "all_resolved_silver": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 44,
+        "tp": 5
+      },
+      "f1": 1.0,
+      "n": 49,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.5655085052479191,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.5655085052479191,
+        1.0
+      ]
+    },
+    "development": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 29,
+        "tp": 3
+      },
+      "f1": 1.0,
+      "n": 32,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.43849391955098227,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.43849391955098227,
+        1.0
+      ]
+    },
+    "evaluated_split": "all",
+    "holdout": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 15,
+        "tp": 2
+      },
+      "f1": 1.0,
+      "n": 17,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.34237195288961925,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.34237195288961925,
+        1.0
+      ]
+    },
+    "passed": true,
+    "source_report": "reports/fresh-holdout-evaluation.json",
+    "thresholds": {
+      "precision": 0.95,
+      "recall": 0.9
+    }
+  }
+}

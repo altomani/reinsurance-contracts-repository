@@ -1,17 +1,42 @@
 [project]
 name = "reinsurance-contracts-repository"
 version = "0.1.0"
-description = "Add your description here"
+description = "Classify reinsurance-related EDGAR exhibits"
 readme = "README.md"
-requires-python = "~=3.12.0"
+requires-python = ">=3.13"
 dependencies = [
-    "dspy>=3.0.2",
-    "html2text>=2025.4.15",
-    "litellm>=1.76.0",
-    "pandas>=2.3.2",
-    "pyarrow>=21.0.0",
-    "python-dotenv>=1.1.1",
-    "requests>=2.32.5",
-    "sec-api>=1.0.32",
-    "tiktoken>=0.11.0",
+    "beautifulsoup4>=4.15.0",
+    "lxml>=6.1.2",
+    "pydantic>=2.12.0",
+    "pydantic-ai-slim[openrouter]>=2.36.0",
+    "python-dotenv>=1.2.3",
 ]
+
+[project.scripts]
+reinsurance-classifier = "reinsurance_classifier.cli:main"
+reinsurance-benchmark = "reinsurance_classifier.benchmark:main"
+reinsurance-sample = "reinsurance_classifier.sampling:main"
+reinsurance-forecast = "reinsurance_classifier.forecast:main"
+reinsurance-review = "reinsurance_classifier.review:main"
+reinsurance-concordance = "reinsurance_classifier.concordance:main"
+reinsurance-silver-benchmark = "reinsurance_classifier.silver_benchmark:main"
+reinsurance-audit-repair = "reinsurance_classifier.audit_repair:main"
+
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

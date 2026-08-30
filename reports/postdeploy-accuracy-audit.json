@@ -1,0 +1,158 @@
+{
+  "calls": 103,
+  "criterion_resolution_rate": {
+    "document_contract": 0.3333333333333333,
+    "main_terms": 0.2916666666666667,
+    "non_life_business": 0.25,
+    "private_market": 0.2916666666666667,
+    "treaty_placement": 0.25
+  },
+  "documents": 24,
+  "hard_invalid_evidence_or_rule_calls": 15,
+  "hard_validation_rate": 0.8543689320388349,
+  "label_provenance": "autonomous_silver_v1",
+  "labels": {
+    "exact_six_vote_vectors": 6,
+    "manual_review": 16,
+    "qualified": 6,
+    "rejected": 2,
+    "resolved": 8
+  },
+  "limitations": "Silver labels are deterministic supermajority concordance, not human gold. Quality estimates use model-excluded consensus.",
+  "model_excluded_benchmark": {
+    "holdout|classifier-falsification-v2|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 1,
+        "tp": 4
+      },
+      "f1": 1.0,
+      "n": 5,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.5100999795960008,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.5100999795960008,
+        1.0
+      ]
+    },
+    "holdout|classifier-falsification-v2|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 3
+      },
+      "f1": 1.0,
+      "n": 5,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.43849391955098227,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.43849391955098227,
+        1.0
+      ]
+    },
+    "holdout|classifier-falsification-v2|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 1,
+        "fp": 0,
+        "tn": 1,
+        "tp": 4
+      },
+      "f1": 0.888888888888889,
+      "n": 6,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.5100999795960008,
+        1.0
+      ],
+      "recall": 0.8,
+      "recall_95_ci": [
+        0.3755282641185388,
+        0.9637768390302125
+      ]
+    },
+    "holdout|classifier-v1|deepseek/deepseek-v4-flash-vision-exp": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 4
+      },
+      "f1": 1.0,
+      "n": 6,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.5100999795960008,
+        1.0
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.5100999795960008,
+        1.0
+      ]
+    },
+    "holdout|classifier-v1|qwen/qwen3.8-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 6
+      },
+      "f1": 1.0,
+      "n": 8,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ]
+    },
+    "holdout|classifier-v1|z-ai/glm-5.3-flash": {
+      "confusion_matrix": {
+        "fn": 0,
+        "fp": 0,
+        "tn": 2,
+        "tp": 6
+      },
+      "f1": 1.0,
+      "n": 8,
+      "precision": 1.0,
+      "precision_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ],
+      "recall": 1.0,
+      "recall_95_ci": [
+        0.6096569663469354,
+        0.9999999999999999
+      ]
+    }
+  },
+  "models": [
+    "deepseek/deepseek-v4-flash-vision-exp",
+    "qwen/qwen3.8-flash",
+    "z-ai/glm-5.3-flash"
+  ],
+  "output_csv": "gold/postdeploy-autonomous-silver-labels.csv",
+  "prompt_vector_stability": 0.8636363636363636,
+  "prompts": [
+    "classifier-falsification-v2",
+    "classifier-v1"
+  ],
+  "quote_grounding_rate": 0.7378640776699029,
+  "source_hash_conflicts": 0,
+  "total_cost_usd": 0.12668749236
+}
